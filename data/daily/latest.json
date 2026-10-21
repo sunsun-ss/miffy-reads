@@ -1,10 +1,231 @@
 {
-  "generatedAt": "2026-10-21T13:00:14.262Z",
+  "generatedAt": "2026-10-21T13:39:13.654Z",
   "date": "2026-10-21",
-  "failedSources": [
-    "The Conversation"
-  ],
+  "failedSources": [],
   "articles": [
+    {
+      "id": "conversation-an-ai-models-false-tip-to-philadelphia-police-reveals-how-",
+      "title": "An AI model’s false tip to Philadelphia police reveals how digital agents can do as they’re told and still cause trouble",
+      "dek": "An anonymous tip arrived on PhillyUnsolvedMurders. com, a website run by the Philadelphia Police Department, on July 18, 2026.",
+      "category": "科技",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T12:48:18.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "An anonymous tip arrived on PhillyUnsolvedMurders. com, a website run by the Philadelphia Police Department, on July 18, 2026.",
+        "“I may have information regarding this case,” it stated, and claimed the writer had seen someone matching the suspect’s description near the scene of a crime.",
+        "The tip was false. The page described no suspect, and the informer was, in fact, Claude Haiku 4. 5, an AI model made by San Francisco-based Anthropic.",
+        "The tip was flagged as spam and never reached detectives. Anthropic found it in late September while reviewing its own test records. They alerted police on Oct. 8 and described the incident in a report they published Oct. 9. Philadelphia police disclosed it that day as well.",
+        "AI companies now build “ agents ,” versions of their chatbots that can operate a web browser, click buttons and fill in forms on a user’s behalf. To measure how well an agent does this, companies run it through thousands of practice tasks, often live on the internet.",
+        "According to Anthropic, the false tip was generated during a routine test of the model.",
+        "In this test, Haiku 4. 5 was told to invent sample tasks on randomly chosen webpages and then carry them out. One of those pages happened to be about an unsolved Philadelphia homicide, and it had a tip form.",
+        "The model’s instructions listed things it must never do: Log in, create accounts, enter personal data, make purchases and submit anything destructive.",
+        "So, the model wrote a plausible-sounding tip, left the optional name and contact boxes blank, and clicked submit.",
+        "Anthropic says the test records indicate the tip was generated as sample content for a practice task, not to mislead police.",
+        "The police tip was one of several incidents in Anthropic’s report. In another incident, a research model was supposed to practice on a copy of a government form. When the copy failed to load, it went to the real government website and submitted the form there. Other Claude models found ways around paywalls and access limits to reach data they needed.",
+        "Anthropic attributes these incidents to the persistence of its software. When the model can’t finish a task the way it was told, it finds a work-around instead of stopping to ask the human who gave it its initial task.",
+        "That habit comes partly from how these systems learn – much of their skill is built through trial and error. The model attempts a task many times and is rewarded when it succeeds. If the training accidentally rewards cutting corners, the model learns that cutting corners pays. Researchers call this “ reward hacking .” A human student drilled only on getting the right answer, by any means necessary, might learn the same lesson.",
+        "However, instructions given to an AI agent are never complete. A human worker who is told “Don’t buy anything or log in” would still know not to send police a made-up eyewitness account. But the model has no such common sense to fall back on. It treated a list of forbidden actions as the full boundary of acceptable behavior.",
+        "This is also why these models “ hallucinate ,” making things up. AI agents are built to produce fluent, plausible text. Asked to fill a tip form with an example, the model wrote what a tip typically sounds like, with no regard for the truthfulness of its content.",
+        "As a law professor who studies AI governance , two concerns stand out for me: scale and control.",
+        "The larger concern is scale. AI agents are moving out of the lab and into products people already use. Google’s Chrome browser now has a feature called auto browse that lets its Gemini assistant click through websites and fill in forms. Perplexity’s Comet browser and Anthropic’s Claude in Chrome extension do the same.",
+        "Every task a person hands to an agent is another chance for something to go wrong. If agents carry out a million tasks a day, a mistake that happens only once in 10,000 tasks would happen about 100 times a day. Those mistakes could mean false reports that take up police time, benefits or loan applications filed with wrong information, or payments and bookings the user never approved.",
+        "Anthropic itself notes that several incidents happened during ordinary use of Claude Haiku 4. 5, not just testing. OpenAI has similarly reported its own agents reaching government sites in unplanned ways .",
+        "AI companies can’t fully control their agents, and that may lead to more harm and to gaps in who is held liable. These types of harms could include defamation , bias , deceit and social engineering and much more . It might seem fair not to hold a company responsible for actions it couldn’t control. But in cases like these, no other person or organization clearly controls the agent either, which could leave people who were harmed by the AI agent without anyone to hold legally responsible.",
+        "In my view, AI agents should be told what they may do, not just what they may not do, and anything AI companies send into the real world should be checked first. Until those safeguards are standard, any public online form, from a police tip line to a benefits application, could be receiving AI-written submissions that lack intuition and common sense. Their errors could, for example, deprive resources from real emergencies or deny benefits a person is entitled to . Meanwhile, victims of that harm may struggle to get compensation due to the lack of clarity around who had control over the AI agent."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "conversation-offering-cash-for-votes-is-quite-common-but-heres-why-it-d",
+      "title": "Offering cash for votes is quite common – but here’s why it doesn’t work",
+      "dek": "Politics is about the distribution of power and money. So it comes as little surprise that many politicians campaign on the material benefits that citizens can expect if…",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T12:47:55.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/offering-cash-for-votes-is-quite-common-but-heres-why-it-doesnt-work-293259"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "Politics is about the distribution of power and money. So it comes as little surprise that many politicians campaign on the material benefits that citizens can expect if those candidates win.",
+        "President Donald Trump has been no different in this respect. He has promised voters, among other things, a “ DOGE dividend ” using money saved by cutting federal jobs, rebates from tariff revenues , and a diversion of money currently used to subsidize health insurance companies directly to Americans.",
+        "But his pledge to give US$5,000 to every U. S. citizen if Republicans retain majorities in the House and Senate in the November 2026 midterm elections had a different dimension. This offer wasn’t a rebate for taxes paid or a subsidy for an impacted constituency. Instead, it was tied to an electoral outcome. That brings it closer to vote buying, which raises concerns from a legal point of view .",
+        "For this to actually happen, it needs congressional approval – and Republican legislators haven’t taken action. But Trump has yet to rescind the idea, which could cost over $1 trillion. So it’s time to ask whether it could make a difference in the midterms, where margins are tight in key races .",
+        "I’m a political scientist who has studied for the past decade vote buying in countries around the world. Cash for votes may seem like a straightforward way to win support, but my research shows that offering people money rarely changes their vote.",
+        "The practice dates back to ancient Rome and was a staple of American political machines from the 19th century to the mid-20th century in New York City, Chicago and states including Georgia, Missouri, New Jersey, Ohio and Virginia.",
+        "By diverting public money for partisan purposes, local power brokers cultivated relationships with particular constituencies, such as newly arrived immigrants . Institutional reforms, including the professionalization of government bureaucracies at the federal and local levels, slowly constricted these political machines until the last holdout in Chicago succumbed by the late 1970s.",
+        "But in recent decades, vote buying has surged in new democracies, with politicians in at least 73 countries offering cash, food, clothes, building supplies, medical care or legal advice for votes.",
+        "If vote buying is so common, it stands to reason that it must work. But a survey of recent research shows otherwise. On average, I have found that the vote-buying attempts across 10 countries and 57 elections around the world have had no detectable influence.",
+        "Why are the electoral returns so poor? For vote buying to work, the value of the benefits people receive has to outweigh the factors pushing them toward an opposing party. As in the U. S. , voters around the world make their choices based on considerations such as their own partisanship; issue preferences; the performance of the incumbent party; the perceived competence of the candidates; and more. Very few voters in any electorate are truly indifferent .",
+        "As long as those factors together outweigh the value of the benefits that people would receive to switch, vote buying fails. And that’s what typically happens, as I explain in my new book, “ Against the Machine .”",
+        "There are three specific reasons why vote buying usually flops.",
+        "First, local competition creates vigorous campaigns that amp up partisan sentiments. These sentiments influence voters’ responses to electoral gifts. If you already like the political machine, you interpret its gifts as a sign that it cares about your welfare. But if you strongly identify with an opposing party – and therefore are a potential target of vote-buying efforts – you interpret gifts as an attempt to manipulate your vote and deprive you of basic political rights.",
+        "This calculation is one reason why vote-buying attempts can backfire, as a vivid example from Mexico shows. In 2018, two vote brokers working for Mexico’s conservative National Action Party were accosted by local voters in Nuevo Laredo. Angry residents stripped the brokers down to their underwear and painted them with the party’s blue color from head to toe, decorating them with the words “ Vote for the PAN for 500 pesos .”",
+        "The second reason vote buying often fails is that competitive elections make it difficult for party machines to identify the best voters to target. Strong opposition identifiers react negatively, but weakly opposed voters might trade their vote for a payday. The trouble is that even if local vote brokers can pinpoint these voters before the election, they’re also among the most susceptible to the influence of standard campaigning. That makes them moving targets : Their changing preferences mean that machines end up inadvertently paying voters who either don’t need gifts to vote for them or would need more to actually change their decision.",
+        "Finally, even when voters who are good targets get these benefits, they often look for an escape hatch to vote their sincere preferences anyway. The secret ballot provides one if they trust that it’s truly secret.",
+        "It turns out that people are acutely aware of who’s watching them vote. When they see poll watchers only from the party machine, they worry that their votes could be discovered by spies, cameras or by other means. But when they also see poll watchers from an opposing party, they believe that ballot secrecy is preserved and that they can vote sincerely without punishment.",
+        "Taken together, these reasons have led me to optimistically conclude that the effectiveness of vote buying depends not on the party machine’s prowess but on the strength of the parties that oppose it.",
+        "Vote buying has a checkered recent history in elections around the world, but could the “Trump dividend” swing the midterms? I see that scenario as unlikely.",
+        "Partisanship, a core element that makes people resistant to vote buying, is very strong in the U. S. electorate . There’s no need to pay committed Republicans, while committed Democrats will see the offer as a bald monetization of politics that can deepen their antagonism.",
+        "The design of Trump’s offer also makes it likely to flounder. Promising to pay everyone gets around the targeting challenge, but it also creates what social scientists call a “free-rider problem.”",
+        "At issue is that people tend to behave in selfish ways. If they expect a certain outcome anyway, they’ll make a decision based on self-interest. For example, independents and less committed Democrats who could be swayed by a $5,000 check might think they can avoid feeling like a sellout if they vote sincerely but they will still get paid as long as others switch their vote to Republican.",
+        "In theory, there is one way Trump’s offer could succeed. Research shows that buying turnout, rather than trying to change vote choices, is routinely effective . But all the examples come from countries where party officials actively monitor who comes to the polls. Without that surveillance, which is illegal in the U. S. , the free-rider problem could bedevil turnout as well.",
+        "But whether enacted or not, the promise of cash for votes has a big downside for democracy. It means that no one will know whether victorious Republican candidates won this November because Americans preferred their policies and gave them a mandate – or because they expected to get paid."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "conversation-el-nin-o-is-threatening-californias-fragile-coast-again-th",
+      "title": "El Niño is threatening California’s fragile coast again – the 1982-83 El Niño opened eyes to the serious erosion risks",
+      "dek": "California’s coastal bluffs and beaches look rugged, but they can be surprisingly fragile in the face of a powerful El Niño.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T12:47:33.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/el-nino-is-threatening-californias-fragile-coast-again-the-1982-83-el-nino-opened-eyes-to-the-serious-erosion-risks-293298"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "California’s coastal bluffs and beaches look rugged, but they can be surprisingly fragile in the face of a powerful El Niño.",
+        "The state saw that in 1982-83, when storms amid one of the most destructive El Niño winters in California history battered the coastline with powerful waves and torrential rain, leaving hundreds of millions of dollars in damage in its wake. The storms coincided with elevated sea levels, high astronomical tides and very large waves delivered by repeated storms.",
+        "Extreme waves that winter destroyed one-third of the Santa Monica Pier and tore off large sections of the Huntington Beach Pier and the Paradise Cove Pier, while also damaging the Seal Beach, San Clemente and Malibu piers. Numerous seawalls, decks and stairways were torn apart, and 33 oceanfront homes were destroyed.",
+        "Massive waves also stripped millions of cubic yards of sand from Southern California beaches, and sections of the Pacific Coast Highway suffered severe flooding, mudslides and washouts.",
+        "Along the central coast, waves and high-tide flooding eroded bluffs . In Pacifica, just outside San Francisco, the edge of a sandy cliff lost over 65 feet as it failed, collapsing onto the beach and forcing the relocation of a two-story building and removal of an entire row of mobile homes. This area of high but weak bluffs continued to erode over the subsequent decades, forcing the demolition of bluff-top homes and apartments.",
+        "The El Niño now building in 2026-27 is forecast to be even stronger , and coastal homes are already seeing damage . I have studied coastal geology and oceanography in California for nearly six decades. With the conditions expected this year, coastal flooding, coastal erosion and landslides are likely, and more dramatic cliff collapses wouldn’t be a surprise, though every El Niño is different.",
+        "El Niño is one end of a climate pattern that swings from warm to cold every few years and can change weather patterns around the world. Normally dry areas can experience flooding rains, and wet areas can suffer droughts. The U. S. Pacific Coast in particular can take a beating from powerful atmospheric river storms with heavy downpours.",
+        "El Niños begin with a shift in wind patterns, which normally push warm waters from east to west along the equator. For reasons still not fully understood, the trade winds die and the warm pool of water in the western Pacific begins to flow back toward the coast of South America.",
+        "Part of this warm mass moves north toward the coast of California as a pulse or bulge, known as a Kelvin wave, and it begins to have far-ranging impacts.",
+        "Seawater expands as it warms, which raises sea level along the Pacific Coast for weeks during these periodic events. While all El Niños are not created equal, during the very large 1982-83 event, sea levels were elevated above predicted high tides by about a foot in San Diego to nearly 2 feet in San Francisco .",
+        "These higher sea levels can reach higher elevations and last longer.",
+        "The elevated sea levels also allow storm waves to break closer to the shoreline, eroding beaches and bluffs , leading to damage and destruction of both private oceanfront development and public infrastructure, including streets and highways, bridges and piers, and parks and recreational facilities.",
+        "Much of California’s coastal and shoreline development took place from the late 1940s to the late 1970s when the state’s population exploded.",
+        "Homes were built on beaches, bluffs and dunes during a period when the coastal storm climate was generally mild and there were no real concerns with coastal hazards and future sea-level rise.",
+        "This changed quickly in 1978 when the first strong El Niño in recent memory arrived, raising alarm about the hazards ocean development was exposed to.",
+        "The extreme 1982-83 El Niño that followed a few years later caused about US$328 million (in 2025 dollars) in damage to oceanfront property, $87 million in losses to recreational facilities such as piers, parking lots and access stairs, and $66 million in damage to large engineering structures such as breakwaters and jetties designed to protect harbors from storm waves.",
+        "At least in the short term, the 1982-83 El Niño winter changed popular perceptions of the stability or security of oceanfront homes and other shoreline development. Building restrictions were tightened, insurance rates rose, and many requests for new seawall permits were submitted.",
+        "But then it was back to business as usual, as new arrivals to the coast outbid each other for the same oceanfront homes damaged a few years before.",
+        "Increased coastal armoring , such as seawalls and rock revetments , helped limit erosion during other very large El Niños that followed, in 1997-98 and 2015-16 , along with lucky timing that large waves arrived at low points in the monthly tidal cycle, leading to significantly less property damage than in 1982-83 .",
+        "The coast was not so fortunate in winter 2022-23 , when high seas and waves alone caused an estimated $4. 7 billion in economic losses along California’s coast. The simultaneous occurrence of large storm waves, high tides and elevated sea levels were almost identical to the El Niño conditions in early 1983, 40 years earlier.",
+        "The state’s latest climate assessment , released Oct. 19, 2026, warns of more intense storms and increased erosion as temperatures increase and sea level continues to rise.",
+        "The southern end of the state is already suffering wave damage from an exceptionally busy Pacific hurricane season , also fueled by El Niño. Swells have stripped away beaches and destroyed homes near San Diego . The state’s storm season, when powerful atmospheric rivers bring downpours, typically begins in October or November and runs through early spring.",
+        "The magnitude of the emerging 2026-27 El Niño , likely to be one of the strongest on record, is making clear that coastal communities need to adapt now to a very different future.",
+        "How each coastal neighborhood, city and county responds will vary depending upon their local conditions and vulnerability to coastal erosion and flooding."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "conversation-human-rights-could-improve-or-worsen-based-on-how-nations-",
+      "title": "Human rights could improve – or worsen – based on how nations use the UN treaty against cybercrime",
+      "dek": "The United Nations Convention against Cybercrime is the first international treaty aimed at combating criminal acts committed online and at supporting victims of those…",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T12:47:08.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/human-rights-could-improve-or-worsen-based-on-how-nations-use-the-un-treaty-against-cybercrime-269794"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "The United Nations Convention against Cybercrime is the first international treaty aimed at combating criminal acts committed online and at supporting victims of those crimes. At the initial signing ceremony on Oct. 25, 2025, U. N. Secretary General António Guterres said the convention was “a promise that fundamental human rights such as privacy, dignity and safety must be protected both offline and online.”",
+        "Civil society groups around the world, however, argue that the convention could make it easier for authoritarian governments to share information about people engaging in regular online activities. Because of vague language in the document, critics contend that governments would have the ability to criminalize legitimate online expression or other activities . Legal gray areas also heighten concerns for the protection of whistleblowers, activists, journalists, researchers and others who could be targeted by governments known to restrict civil and political rights.",
+        "Nations have until Dec. 31, 2026, to sign the convention. It will enter into force after 40 signatory states become parties to it by ratifying it at home. As of October 2026, 95 nations had signed the treaty , but only three have become parties to it.",
+        "When the convention was being drafted, the Biden administration signaled its support but acknowledged the concerns about potential misuse . The U. S. has not signed the agreement. The Trump administration has said it will continue to consider the convention . The administration has focused on promoting the United States’ own capabilities of combating cybercrime and has expressed concern about emboldening countries such as Russia and China to suppress freedom of expression and violate treaty obligations .",
+        "We are political scientists who study human rights and digital repression. Human rights organizations globally are worried that authoritarian regimes could use the convention to attack researchers, journalists, human rights advocates and people who criticize governments. A day before the convention was signed, 19 nongovernmental organizations released a joint statement urging nations to not sign or ratify the treaty. Groups such as Human Rights Watch , Freedom House , Access Now , Article 19 and others have warned that the convention’s human rights safeguards are inefficient. Weak protections risk further increases in transnational repression and global surveillance.",
+        "Every country has its own domestic law enforcement system. And while there is no international government to enforce U. N. treaties, U. N. conventions are designed to help fill this gap. They rely on cooperation among countries that have ratified an agreement by incorporating legal features to promote compliance.",
+        "When governments go through the ratification process, they adopt policies at home that reflect a treaty’s contents. But domestic interpretations of international laws often vary, which can lead to patchy protection of human rights . U. N. conventions on human rights also establish treaty bodies . They provide ways for independent experts to monitor human rights violations across all ratifying countries and to encourage more governments to join various conventions. These and other experts also participate in a process called the Universal Periodic Review , in which countries examine the human rights records of other countries every 4. 5 years and provide recommendations for improvement.",
+        "Although the U. N. cybercrime convention says that human rights must be respected, it is ultimately not a human rights treaty. It falls under the U. N. Office of Drugs and Crime . Because of this, there is no treaty body to monitor violations, making abuses that fall outside of regular law enforcement activities even more difficult to track. Some examples include monitoring social media accounts of NGOs or activists , remotely installing spyware onto journalists’ cellphones and other devices , and using AI technologies against protesters and marginalized groups .",
+        "The convention does say that ratifying countries will meet periodically to improve cooperation and review implementation , but there are no stated goals about monitoring cybercrime or compliance with the convention. Another issue, which is present in all international laws, is treaty reservations , which allow governments to effectively ratify treaties while opting out of certain parts of them . The three countries that have ratified the convention as of October 2026 — Vietnam, Qatar and Azerbaijan — did not stipulate any reservations.",
+        "Monitoring how governments comply with the cybercrime convention is critical to ensuring that governments do not infringe on human rights. International NGOs, domestic civil society organizations, journalists and other human rights defenders often work to scrutinize and share information on government abuses. Some governments see such work as a threat , and they often repress them.",
+        "There has also been a steady rise in governments repressing people outside of their borders . Many governments are doing this through surveillance, monitoring social media, doxxing , creating AI deepfakes and even forcibly repatriating critics in exile and imprisoning them.",
+        "Because the cybercrime convention promotes information sharing among ratifying countries, human rights organizations are concerned that governments with bad human rights records might use shared information and cooperation to arrest human rights defenders or anybody accused of what the governments label as a serious crime. The convention does not limit the use of these powers to the set of core cybercrimes it has defined, nor does it set a standard for what it considers to be a serious crime.",
+        "Instead, it allows countries to determine for themselves what constitutes a serious crime under domestic law. In many countries, this includes activities protected under international law, such as criticism of the government, peaceful protest, same-sex relationships, investigative journalism and whistleblowing . This puts vulnerable groups at risk. For example, in countries where it is illegal to share LGBTQ+ content online, a government could activate the surveillance measures outlined in the convention to track and target community members at home and abroad under the guise of enforcing domestic law .",
+        "Secretary General Guterres said at the signing ceremony that “ in cyberspace, nobody is safe until everybody is safe .” As countries consider ratifying the convention, we believe it would be wise to consider whether the agreement falls short of keeping people safe in cyberspace, and whether it might put human rights defenders, journalists, researchers and others in danger.",
+        "The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "conversation-horrors-monsters-find-new-meaning-with-queer-and-trans-aud",
+      "title": "Horror’s monsters find new meaning with queer and trans audiences – how ‘Teenage Sex and Death at Camp Miasma’ dissects identity",
+      "dek": "Queer horror is having a moment. The recent film “ Leviticus ” (2026), a harrowing allegory for conversion therapy , was a critical hit.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T12:46:43.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/horrors-monsters-find-new-meaning-with-queer-and-trans-audiences-how-teenage-sex-and-death-at-camp-miasma-dissects-identity-291766"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Queer horror is having a moment. The recent film “ Leviticus ” (2026), a harrowing allegory for conversion therapy , was a critical hit. Meanwhile, Ryan Murphy’s undeniably gay “ American Horror Story ” returned to TV this fall, offering a campier approach to the genre.",
+        "But queer people’s fascination with horror is by no means new. For trans and queer viewers, horror has long acted as a mirror to reflect on complex personal questions of identity and embodiment.",
+        "Another new film, Jane Schoenbrun’s “ Teenage Sex and Death at Camp Miasma ” (2026), explores queer people’s relationship with horror. Schoenbrun’s film isn’t really a horror movie; it’s a movie about horror movies . The protagonist, a young auteur named Kris, is rebooting an old slasher franchise, “Camp Miasma.” The franchise has aged poorly, and she wants to update the film for a contemporary audience. “This part’s transphobic!” Kris mutters while watching the original film.",
+        "But Kris is also helplessly obsessed with “Camp Miasma,” and Schoenbrun’s film suggests that it’s precisely the slasher’s troubling, problematic elements that have enthralled her. As both a trans studies scholar and a longtime horror fan, I know how she feels. In fact, Kris’ complicated relationship with “Camp Miasma” may feel deeply familiar for many queer and trans viewers.",
+        "Horror has produced some of the most objectionable queer- and trans-coded characters in cinema history. These portrayals of LGBTQ+ people as monstrous and pathological can be found in films ranging from the low-budget slashers that inspired Schoenbrun – most notably “ Sleepaway Camp ” (1983) – to Oscar winners such as “ The Silence of the Lambs ” (1991).",
+        "Yet queer and trans audiences have often found themselves strangely drawn to these films and to the horror genre overall .",
+        "Why does a genre that has treated LGBTQ+ people so poorly keep them coming back?",
+        "No one’s 20s and 30s look the same. You might be saving for a mortgage or just struggling to pay rent. You could be swiping dating apps, or trying to understand childcare. No matter your current challenges, our Quarter Life series has articles to share in the group chat, or just to remind you that you’re not alone.",
+        "‘Heartstopper’ is helping LGBTQ+ fans find hope and community across time and space",
+        "Childhood experiences of LGBTQ+ stigma can harm romantic relationships decades later – psychologists explain how to reconnect with yourself and your partner",
+        "Heated Rivalry shows how queer joy can disrupt hockey’s culture of masculinity",
+        "Queerness is baked into the very structure of the horror genre.",
+        "Film scholar Robin Wood summarized the horror formula as “Normality is threatened by the Monster.” As Wood points out, the social order that represents “normality” is often tied to heteronormative structures like the nuclear family and the heterosexual couple.",
+        "Horror stages gleeful attacks on this order: Think of the family under siege by malevolent spirits, or the straight camp counselors hacked to bits after having sex.",
+        "Such themes may resonate strongly for queers who find their goals and desires in tension with a society primarily built around cisgender, heterosexual life paths.",
+        "Beyond its social elements, horror also offers queer and trans people a personal encounter with an aspect of themselves that they may find confusing or even upsetting: their bodies.",
+        "Feminist scholar Carol Clover argued that horror is a “ body genre ,” meaning it is intended to activate a bodily response in the viewer. Often, one of the ways horror elicits this physical response is through the visceral, violent onscreen deformation of bodies.",
+        "In body horror , the human body is depicted as an unruly, often disgusting and always vulnerable accumulation of flesh , blood and guts. Such images can mirror and affirm the difficult feelings that many queer and trans folks have experienced with regard to embodiment, their distress surrounding the forms their bodies take or the desires they feel.",
+        "Horror’s depiction of monsters and monstrous bodies have allowed many queer and trans people to take ownership over their experiences of personal pain and social stigma. As trans theorist Susan Stryker put it, “I want to lay claim to the dark power of my monstrous identity without using it as a weapon against others or being wounded by it myself.”",
+        "Other queer and trans writers, however, have asked about the limits of identifying with monstrosity.",
+        "“How does building an identity on reclaiming the boogeyman affect the psyche ?” wonders critic Grace Byron. Horror, after all, centers on violence, brutality, fear and even death. Identifying with these forces might feel powerful in the moment, but it doesn’t necessarily help reckon with the real violence that led LGBTQ+ people to identify with them in the first place.",
+        "When I teach horror , my students and I talk about how we might approach some of the most transphobic figures in the horror canon. Instead of identifying with these “monsters,” we try to think critically about the conditions that created them.",
+        "Take the trans-coded serial killer Buffalo Bill, from “The Silence of the Lambs.” Scholar Cael Keegan argues that “The Silence of the Lambs” raises issues of state violence against transgender people. Similarly, scholar Grace Lavery reads Buffalo Bill as a victim of medical gatekeeping , which bars lifesaving gender-related care from those who need it.",
+        "Rather than either rejecting characters like Buffalo Bill or embracing their monstrosity, queer viewers and their allies could instead ask what these characters show about the structural conditions that keep queer and trans people at the margins of society."
+      ],
+      "external": true,
+      "order": 4
+    },
     {
       "id": "nasa-nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-",
       "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
@@ -40,7 +261,7 @@
         "The team aims to fly CASALS again as part of the Airborne Surface, Cryosphere, Ecosystem, and Nearshore Topography (ASCENT) campaign, scheduled for summer 2027."
       ],
       "external": true,
-      "order": 0
+      "order": 5
     },
     {
       "id": "nasa-extratropical-cyclone-whips-past-iceland",
@@ -67,7 +288,7 @@
         "The cyclone lashed Iceland with high winds as it grazed the coast. A gust of 205 kilometers (128 miles) per hour was recorded near Eyjafjallajökull volcano in the country’s south, while a small island just offshore saw sustained winds of 150 kilometers (93 miles) per hour. Damaging winds extended into northern parts of the country, where residents also braced for sleet and snow. Farther across the Atlantic, northwestern Scotland received gusts up to 90 kilometers (55 miles) per hour on October 14, according to news reports , resulting in cancellations on several ferry routes."
       ],
       "external": true,
-      "order": 1
+      "order": 6
     },
     {
       "id": "nasa-nasa-to-conduct-low-altitude-flights-over-texas-farmland",
@@ -94,7 +315,7 @@
         "Additional low-altitude research flights with a NASA P-3 Orion aircraft are scheduled for the March to July 2027 growing season in the Midwest and California’s Central Valley with a focus on cropland."
       ],
       "external": true,
-      "order": 2
+      "order": 7
     },
     {
       "id": "nasa-nasas-sr-1-freedom-advances-with-progress-on-nuclear-power",
@@ -122,7 +343,7 @@
         "Launching in late 2028, SR‑1 Freedom will deliver the SkyFall science mission, a team of three Mars helicopters evolved from the Ingenuity design, to collect scientific data, demonstrate exploration zones, and identify potential water sources. The mission will pave the way for deep space exploration and next‑generation fission-powered systems designed to keep NASA’s Moon Base operating through periods of darkness and in locations where solar power alone is not sufficient."
       ],
       "external": true,
-      "order": 3
+      "order": 8
     },
     {
       "id": "nasa-nasa-experimental-mars-helicopter-blade-designs-target-lon",
@@ -151,73 +372,7 @@
         "While the technology is not yet ready for Mars, tests are helping engineers understand and resolve discrepancies between computational predictions and real-world performance. Ongoing research across NASA aims to enable more efficient Mars helicopters that can fly farther, carry more payload, and unlock new science and discovery missions."
       ],
       "external": true,
-      "order": 4
-    },
-    {
-      "id": "nasa-nasa-provides-progress-update-on-moon-base-rovers",
-      "title": "NASA Provides Progress Update on Moon Base Rovers",
-      "dek": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut…",
-      "category": "科学",
-      "tags": [
-        "NASA"
-      ],
-      "date": "2026-10-20",
-      "publishedAt": "2026-10-20T15:00:10.000Z",
-      "source": {
-        "name": "NASA",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/"
-      },
-      "cover": "bulb",
-      "accent": "yellow",
-      "paragraphs": [
-        "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon.",
-        "On Tuesday, NASA released a Moon Base video update offering a closer look at the progress being made on the commercial lunar terrain vehicles and robotic rovers that will enable the surface mobility needed to build humanity’s first lunar outpost.",
-        "“Lunar rovers are central to our surface mobility strategy,” said Robert Pickle, director of the Surface Mobility Office within the agency’s Moon Base Program. “Their performance will lay the groundwork for the mobility systems that will define the next era of exploration and ultimately determine how effectively we can build, operate, and expand the infrastructure required for long‑duration exploration.”",
-        "NASA’s VIPER (Volatiles Investigating Polar Exploration Rover) will embark on a mission to the lunar South Pole region in 2027 to venture into permanently shadowed craters looking for water and other valuable resources essential for sustainable exploration.",
-        "After delivery to the lunar surface by a Blue Moon Mark 1 lander, VIPER will travel more than 18 miles (30 kilometers), collecting information about the thermal, lighting, and terrain environment in the Moon’s South Pole region. This data could provide information about the origin and distribution of water on the Moon, help determine how lunar resources could be used for the Moon Base, as well as better understand the history of the Moon, Earth, and the processes that helped shape conditions for life.",
-        "Mission operations for VIPER will be run out of NASA’s Ames Research Center in Silicon Valley where teams are simulating possible scenarios for when the rover begins its mission on the Moon.",
-        "The VIPER rover is currently at NASA’s Johnson Space Center in Houston where it is fully built and undergoing final testing before traveling to NASA’s Kennedy Space Center in Florida for launch to the Moon.",
-        "To advance surface mobility on the Moon, NASA awarded Astrolab and Lunar Outpost task orders to build the first phase of Moon Base rovers capable of carrying crew, called lunar terrain vehicles (LTVs), that will be delivered to the Moon ahead of crewed Artemis missions. NASA awarded Blue Origin a task order to deliver the LTVs to the lunar South Pole region by 2028 through the agency’s CLPS ( Commercial Lunar Payload Services ) initiative.",
-        "The LTVs will be remotely operated from Earth, traversing up to 3. 7 miles (6 kilometers) a day, mapping the lunar surface to help scientists produce high-resolution maps of the region, prior to crew arriving on future missions. The rovers also will collect information to help NASA and its partners learn about operating in this extreme environment, such as data on lighting, navigation, and how well the LTVs preserve energy and function when driving in and out of permanently shadowed regions that can reach minus 334°F (minus 203°C). This will help inform Moon Base development and improve on design and capability for future mobility systems, hardware, and infrastructure.",
-        "During missions on the lunar surface, Artemis astronauts will drive the LTVs as they explore geologically diverse areas of the lunar South Pole region, gathering geology samples to bring back to Earth for scientists to study. The LTVs will be able to support up to three moonwalks per Artemis mission, transport up to 176 pounds (80 kilograms) of lunar samples and tools, and travel up to six miles (10 kilometers) on a single battery charge.",
-        "Astrolab’s Crewed Lunar Vehicle 1, or CLV-1, is a rover adapted from the company’s FLEX (Flexible Logistics and Exploration Vehicle) LTV architecture. Astrolab recently delivered a mockup of CLV-1 to Axiom Space, where NASA astronauts wore mock-ups of the Artemis lunar spacesuit and evaluated the lunar rover’s design, crew cabin, and display interfaces.",
-        "Prior to CLV-1 arriving to the Moon, Astrolab will send its first robotic rover, FLIP (FLEX Lunar Innovation Platform), to the lunar surface as a payload on Voyager Technologies’ Griffin Mission One scheduled to launch in late 2026. FLIP will study the environment of the South Pole and serve as a testbed for critical subsystems on CLV-1, which will include similar tires, batteries, radios, and cameras."
-      ],
-      "external": true,
-      "order": 5
-    },
-    {
-      "id": "nasa-nasa-welcomes-uzbekistan-as-newest-artemis-accords-signato",
-      "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
-      "dek": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe,…",
-      "category": "社会",
-      "tags": [
-        "NASA"
-      ],
-      "date": "2026-10-20",
-      "publishedAt": "2026-10-20T14:21:42.000Z",
-      "source": {
-        "name": "NASA",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/"
-      },
-      "cover": "cup",
-      "accent": "orange",
-      "paragraphs": [
-        "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration.",
-        "“Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build a Moon Base and establish an enduring presence on the lunar surface. As we put the principles of the Artemis Accords into practice, we are expanding opportunities for like-minded nations around the world to contribute to humanity’s return to the Moon. Uzbekistan is a welcome addition to this growing coalition.”",
-        "Minister of Foreign Affairs of the Republic of Uzbekistan Bakhtiyor Saidov signed the Artemis Accords on behalf of the country. The signing took place during a visit by U. S. Secretary of State Marco Rubio.",
-        "Uzbekistan has increasingly engaged with NASA and the broader international space community through its development of a national space program aimed at advancing Uzbekistan’s space industry and participation in global space forums. Uzbek students also are working to develop and launch the country’s first CubeSat, or small satellite technology demonstration, by 2028.",
-        "In early October, NASA officials met with representatives from Uzbekistan’s Ministry of Digital Technologies and Uzbekistan’s space agency, Uzcosmos, during the 2026 International Astronautical Congress in Antalya, Türkiye, where the two sides discussed civil space cooperation and opportunities for increased engagement. Uzbekistan is scheduled to host the annual global space event in 2028.",
-        "In 2020, NASA and the State Department joined with seven other founding nations to establish the Artemis Accords, responding to the growing interest in lunar activities by both governments and private companies. They introduced the first set of practical principles aimed at enhancing the safety and coordination between nations as they explore the Moon, Mars, and beyond.",
-        "Signing the Artemis Accords means committing to explore peaceably and transparently, to render aid to those in need, to enable access to scientific data that all of humanity can learn from, to ensure activities do not interfere with those of others, and to preserve historically significant sites and artifacts by developing best practices for space exploration for the benefit of all.",
-        "More countries are expected to sign the Artemis Accords in the months and years ahead, as NASA continues its work to establish a safe, peaceful, and prosperous future in space."
-      ],
-      "external": true,
-      "order": 6
+      "order": 9
     }
   ]
 }
