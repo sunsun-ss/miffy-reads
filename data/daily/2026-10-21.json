@@ -1,0 +1,223 @@
+{
+  "generatedAt": "2026-10-21T13:00:14.262Z",
+  "date": "2026-10-21",
+  "failedSources": [
+    "The Conversation"
+  ],
+  "articles": [
+    {
+      "id": "nasa-nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-",
+      "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
+      "dek": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time.",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T12:17:58.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This new capability for space-based remote sensors allows CASALS to create truly three-dimensional (3D) topographical renderings.",
+        "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",
+        "A team of researchers at NASA’s Goddard Space Flight Center (GSFC) has developed a new instrument designed to eliminate blind spots between lines of lidar data on the Earth’s surface. Built with support from NASA’s Earth Science Technology Office (ESTO), the Concurrent Artificially-intelligent Spectrometry Lidar System (CASALS) could help researchers map the features of Earth’s surface with unprecedented detail. Rather than mechanically steering a laser with moving mirrors, CASALS steers light using wavelength itself, generating a continuous, 3D swath of the ground below.",
+        "John Yorks, a physical research scientist at GSFC and Principal Investigator for CASALS, explained that the instrument features a novel transmitter and optical grating system that manipulates laser pulses without heavy, failure-prone motorized mirrors.",
+        "Instead, CASALS uses a fast-pulsing, tunable “seed” laser centered at 1040 nanometers, rapidly cycling through 256 unique wavelengths as it pulses through an optical component with a microscopic pattern of ridges called a transmission grating.",
+        "At this point, the physics of diffraction takes over. Because light bends at slightly different angles depending on its exact wavelength, the grating naturally “steers” each of the 256 pulses into a distinct position across the flight path.",
+        "This non-mechanical approach paints a continuous 3D swath of the ground. Not only does this eliminate the large unmapped gaps left between the isolated tracks of legacy spaceborne lidars, but stripping away moving parts drastically reduces the instrument’s size, weight, and power (SWaP) requirements. This makes it more reliable for the harsh environment of space.",
+        "Another key innovation within CASALS is its detector array. This component features a uniquely high Quantum Efficiency (QE), a variable that describes how effectively a detector converts incoming light (photons) into an electrical signal. CASALS operates at 80% QE. This means CASALS wastes almost none of the light that makes it back to the sensor.",
+        "With QE that high, CASALS can detect much weaker return signals, allowing it to collect useful measurements from darker surfaces or through denser vegetation.",
+        "This technology isn’t limited to a laboratory environment. In November 2024, an airborne CASALS prototype flew aboard NASA’s B200 King Air aircraft. The instrument produced science-quality datasets on its first campaign, exceeding the team’s expectations.",
+        "“I’m very impressed with Guang Yang, Jeffrey Chen, and all our engineers, and how well CASALS performed. This worked really well from the first time we flew it, which is pretty impressive,” said Yorks.",
+        "Flying at an altitude of roughly five kilometers, CASALS can distinguish individual tree branches and subtle changes in ground elevation, thanks to its 22-centimeter horizontal resolution.",
+        "“We’re able to see really fine details of vegetation structure and changes in the topography of the surface,” Yorks said.",
+        "The team aims to fly CASALS again as part of the Airborne Surface, Cryosphere, Ecosystem, and Nearshore Topography (ASCENT) campaign, scheduled for summer 2027."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "nasa-extratropical-cyclone-whips-past-iceland",
+      "title": "Extratropical Cyclone Whips Past Iceland",
+      "dek": "Hurricane Isaias—the only Atlantic hurricane to date in 2026—made landfall in Florida as a Category 2 storm on October 9. After delivering a rainy, windy blow to the U. S.",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T04:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Hurricane Isaias—the only Atlantic hurricane to date in 2026—made landfall in Florida as a Category 2 storm on October 9. After delivering a rainy, windy blow to the U. S. Gulf Coast and drenching much of the Eastern Seaboard, the weather system had more in store.",
+        "Riding the jet stream east over the North Atlantic, Isaias’s remnants developed into a powerful storm known as an extratropical cyclone . These low-pressure systems often feature asymmetrical, comma-shaped cloud patterns and can strike with hurricane-force winds, rain, and blizzard-like conditions.",
+        "The VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-21 satellite captured this image of the extratropical cyclone brushing past Iceland on the afternoon of October 14. During its journey, the system’s air pressure plummeted by more than 50 hectopascals over a 24-hour period, according to reports —approximately double the criteria for explosive cyclogenesis, or bombogenesis . Some meteorologists believe the storm may have set a new October low for barometric pressure in Iceland, after correcting for altitude, likely breaking a record that has stood since 1963.",
+        "The cyclone lashed Iceland with high winds as it grazed the coast. A gust of 205 kilometers (128 miles) per hour was recorded near Eyjafjallajökull volcano in the country’s south, while a small island just offshore saw sustained winds of 150 kilometers (93 miles) per hour. Damaging winds extended into northern parts of the country, where residents also braced for sleet and snow. Farther across the Atlantic, northwestern Scotland received gusts up to 90 kilometers (55 miles) per hour on October 14, according to news reports , resulting in cancellations on several ferry routes."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "nasa-nasa-to-conduct-low-altitude-flights-over-texas-farmland",
+      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+      "dek": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 9.",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T20:21:36.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights.",
+        "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from animal feeding operations.",
+        "Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants rising from crop lands and livestock farms and their interaction with the Earth’s atmosphere. The mission is jointly led by NASA’s Goddard Space Flight Center in Greenbelt, Maryland; Colorado State University; and Boston University.",
+        "Additional low-altitude research flights with a NASA P-3 Orion aircraft are scheduled for the March to July 2027 growing season in the Midwest and California’s Central Valley with a focus on cropland."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "nasa-nasas-sr-1-freedom-advances-with-progress-on-nuclear-power",
+      "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+      "dek": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit.",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T18:11:33.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “ Ignition ” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA and its partners have mutually agreed to key contract actions that will advance the SR‑1 Freedom mission.",
+        "“These contract actions not only reduce technical risk and help us maintain momentum toward our 2028 launch, but they also strengthen collaboration across our partners,” said Steve Sinacore, SR-1 Freedom program director. “These actions keep SR‑1 Freedom on track and ensure we’re building the strongest possible foundation for NASA’s first fission‑powered voyage beyond Earth orbit while developing technology extensible to a vibrant space nuclear future.”",
+        "Sierra Lobo Inc. will provide the nuclear power module’s closed Brayton cycle power conversion system, which converts thermal energy from its fission reactor into electrical power needed for SR-1 Freedom’s nuclear electric propulsion demonstration. The work will be conducted under the Space Flight Systems Development and Operations Contract III, awarded in 2024 , to support spaceflight hardware design, development, testing, and operations at NASA’s Glenn Research Center in Cleveland.",
+        "The power conversion system will be integrated with the fission reactor, which is being designed and developed by the Department of Energy (DOE)’s Idaho National Laboratory to complete the nuclear power module. NASA and DOE incorporate thorough safety standards throughout the design and development of the SR-1 Freedom spacecraft, including interagency safety reviews, continuous oversight by a NASA chief safety officer, regulatory compliance, and a rigorous safety design process focusing on hazards, failure tolerance, and nuclear safety. In addition, the nuclear reactor portion of SR-1 Freedom will remain inactive until the spacecraft leaves Earth orbit.",
+        "Launching in late 2028, SR‑1 Freedom will deliver the SkyFall science mission, a team of three Mars helicopters evolved from the Ingenuity design, to collect scientific data, demonstrate exploration zones, and identify potential water sources. The mission will pave the way for deep space exploration and next‑generation fission-powered systems designed to keep NASA’s Moon Base operating through periods of darkness and in locations where solar power alone is not sufficient."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "nasa-nasa-experimental-mars-helicopter-blade-designs-target-lon",
+      "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+      "dek": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T16:02:35.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers. NASA’s Ingenuity helicopter made history as the first powered aircraft to fly on another planet. The SkyFall mission, scheduled for launch in 2028, builds on that legacy with a trio of helicopters destined for Mars exploration.",
+        "Both missions utilize a blade designed to operate in Mars’ thin atmosphere, with a curved edge reminiscent of but distinct from blades used on Earth. Researchers are exploring unconventional blade designs that are thinner and sharper, aiming to enable future missions after Skyfall to expand their single-flight range across Mars. One team at NASA’s Ames Research Center in California’s Silicon Valley is working with Imperial College London, United Kingdom, and Nagoya University, Japan, to test a new blade cross-section, or airfoil, that promises to significantly boost aerodynamic performance on Mars.",
+        "Researchers designed the new airfoil, called roamx-0201, using advanced simulations and algorithms tuned to Mars conditions, pointing researchers toward a thinner, asymmetrical shape. Subsequent wind tunnel tests showed that the optimized design boosted performance and was better able to recover in risky flight conditions. Researchers used high-fidelity simulation tools to analyze the performance of the roamx-0201 airfoil and compare it to Ingenuity’s capacity. They found that the redesigned blades could enable future Mars helicopters to expand the distances that can be covered in one uninterrupted flight from Ingenuity’s 0. 7 kilometers to as much as 18. 7 kilometers while carrying scientific instruments.",
+        "The findings were announced in a paper published Sept. 22 in the journal of the American Institute of Aeronautics and Astronautics. The roamx‑0201 blades performed well in part because they were able to operate longer at higher speeds before experiencing a phenomenon known as “drag divergence”, where performance drops suddenly when the rotors approach the speed of sound, which is lower on Mars than on Earth. The new blade also differs from earlier designs in how it uses turbulence to create lift. As air flows over a rotorcraft blade, it forms a thin region called the “boundary layer.”",
+        "The new airfoil intentionally disrupts the flow of that boundary layer at the front of the airfoil directly at the leading edge to create a disturbance that, counterintuitively, pulls the blade upward to help lift the rotorcraft more effectively than with earlier designs. Another challenge for rotorcraft is “stall,” an aerodynamic condition in which performance drops sharply and flight becomes unstable following a change in the angle of airflow. Ingenuity’s blades experienced steep performance degradation at stall, but under the conditions studied, the roamx-0201 design showed significantly improved stall behavior. That means future helicopters could operate safely at a wider range of flight angles.",
+        "While the technology is not yet ready for Mars, tests are helping engineers understand and resolve discrepancies between computational predictions and real-world performance. Ongoing research across NASA aims to enable more efficient Mars helicopters that can fly farther, carry more payload, and unlock new science and discovery missions."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "nasa-nasa-provides-progress-update-on-moon-base-rovers",
+      "title": "NASA Provides Progress Update on Moon Base Rovers",
+      "dek": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T15:00:10.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon.",
+        "On Tuesday, NASA released a Moon Base video update offering a closer look at the progress being made on the commercial lunar terrain vehicles and robotic rovers that will enable the surface mobility needed to build humanity’s first lunar outpost.",
+        "“Lunar rovers are central to our surface mobility strategy,” said Robert Pickle, director of the Surface Mobility Office within the agency’s Moon Base Program. “Their performance will lay the groundwork for the mobility systems that will define the next era of exploration and ultimately determine how effectively we can build, operate, and expand the infrastructure required for long‑duration exploration.”",
+        "NASA’s VIPER (Volatiles Investigating Polar Exploration Rover) will embark on a mission to the lunar South Pole region in 2027 to venture into permanently shadowed craters looking for water and other valuable resources essential for sustainable exploration.",
+        "After delivery to the lunar surface by a Blue Moon Mark 1 lander, VIPER will travel more than 18 miles (30 kilometers), collecting information about the thermal, lighting, and terrain environment in the Moon’s South Pole region. This data could provide information about the origin and distribution of water on the Moon, help determine how lunar resources could be used for the Moon Base, as well as better understand the history of the Moon, Earth, and the processes that helped shape conditions for life.",
+        "Mission operations for VIPER will be run out of NASA’s Ames Research Center in Silicon Valley where teams are simulating possible scenarios for when the rover begins its mission on the Moon.",
+        "The VIPER rover is currently at NASA’s Johnson Space Center in Houston where it is fully built and undergoing final testing before traveling to NASA’s Kennedy Space Center in Florida for launch to the Moon.",
+        "To advance surface mobility on the Moon, NASA awarded Astrolab and Lunar Outpost task orders to build the first phase of Moon Base rovers capable of carrying crew, called lunar terrain vehicles (LTVs), that will be delivered to the Moon ahead of crewed Artemis missions. NASA awarded Blue Origin a task order to deliver the LTVs to the lunar South Pole region by 2028 through the agency’s CLPS ( Commercial Lunar Payload Services ) initiative.",
+        "The LTVs will be remotely operated from Earth, traversing up to 3. 7 miles (6 kilometers) a day, mapping the lunar surface to help scientists produce high-resolution maps of the region, prior to crew arriving on future missions. The rovers also will collect information to help NASA and its partners learn about operating in this extreme environment, such as data on lighting, navigation, and how well the LTVs preserve energy and function when driving in and out of permanently shadowed regions that can reach minus 334°F (minus 203°C). This will help inform Moon Base development and improve on design and capability for future mobility systems, hardware, and infrastructure.",
+        "During missions on the lunar surface, Artemis astronauts will drive the LTVs as they explore geologically diverse areas of the lunar South Pole region, gathering geology samples to bring back to Earth for scientists to study. The LTVs will be able to support up to three moonwalks per Artemis mission, transport up to 176 pounds (80 kilograms) of lunar samples and tools, and travel up to six miles (10 kilometers) on a single battery charge.",
+        "Astrolab’s Crewed Lunar Vehicle 1, or CLV-1, is a rover adapted from the company’s FLEX (Flexible Logistics and Exploration Vehicle) LTV architecture. Astrolab recently delivered a mockup of CLV-1 to Axiom Space, where NASA astronauts wore mock-ups of the Artemis lunar spacesuit and evaluated the lunar rover’s design, crew cabin, and display interfaces.",
+        "Prior to CLV-1 arriving to the Moon, Astrolab will send its first robotic rover, FLIP (FLEX Lunar Innovation Platform), to the lunar surface as a payload on Voyager Technologies’ Griffin Mission One scheduled to launch in late 2026. FLIP will study the environment of the South Pole and serve as a testbed for critical subsystems on CLV-1, which will include similar tires, batteries, radios, and cameras."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "nasa-nasa-welcomes-uzbekistan-as-newest-artemis-accords-signato",
+      "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
+      "dek": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe,…",
+      "category": "社会",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T14:21:42.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration.",
+        "“Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build a Moon Base and establish an enduring presence on the lunar surface. As we put the principles of the Artemis Accords into practice, we are expanding opportunities for like-minded nations around the world to contribute to humanity’s return to the Moon. Uzbekistan is a welcome addition to this growing coalition.”",
+        "Minister of Foreign Affairs of the Republic of Uzbekistan Bakhtiyor Saidov signed the Artemis Accords on behalf of the country. The signing took place during a visit by U. S. Secretary of State Marco Rubio.",
+        "Uzbekistan has increasingly engaged with NASA and the broader international space community through its development of a national space program aimed at advancing Uzbekistan’s space industry and participation in global space forums. Uzbek students also are working to develop and launch the country’s first CubeSat, or small satellite technology demonstration, by 2028.",
+        "In early October, NASA officials met with representatives from Uzbekistan’s Ministry of Digital Technologies and Uzbekistan’s space agency, Uzcosmos, during the 2026 International Astronautical Congress in Antalya, Türkiye, where the two sides discussed civil space cooperation and opportunities for increased engagement. Uzbekistan is scheduled to host the annual global space event in 2028.",
+        "In 2020, NASA and the State Department joined with seven other founding nations to establish the Artemis Accords, responding to the growing interest in lunar activities by both governments and private companies. They introduced the first set of practical principles aimed at enhancing the safety and coordination between nations as they explore the Moon, Mars, and beyond.",
+        "Signing the Artemis Accords means committing to explore peaceably and transparently, to render aid to those in need, to enable access to scientific data that all of humanity can learn from, to ensure activities do not interfere with those of others, and to preserve historically significant sites and artifacts by developing best practices for space exploration for the benefit of all.",
+        "More countries are expected to sign the Artemis Accords in the months and years ahead, as NASA continues its work to establish a safe, peaceful, and prosperous future in space."
+      ],
+      "external": true,
+      "order": 6
+    }
+  ]
+}

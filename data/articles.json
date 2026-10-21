@@ -1,0 +1,168 @@
+[
+  {
+    "id": "ed-quiet-power",
+    "title": "The Quiet Power of Doing Nothing",
+    "dek": "Boredom has a bad reputation. Your brain, it turns out, has other plans.",
+    "category": "健康",
+    "tags": ["心理", "生活方式"],
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21T08:10:00+08:00",
+    "source": { "name": "Miffy Reads 编辑部", "license": "原创", "url": "" },
+    "cover": "flower",
+    "accent": "pink",
+    "featured": true,
+    "paragraphs": [
+      "Somewhere between the third refresh of your feed and the fourth episode of a series you do not really like, a quiet question appears: when did doing nothing start to feel like a failure?",
+      "We live in an age that treats attention as a resource to be mined. Even rest has been rebranded as something productive — sleep tracking, meditation apps, carefully optimized leisure. The result is that genuine idleness, the kind without a scoreboard, has become strangely rare.",
+      "Psychologists have a name for what happens when the mind is allowed to drift: mind-wandering. For years it was dismissed as a lapse. Then brain scans told a different story. When we stop focusing on a task, a network of regions known as the default mode network becomes unusually active. It links distant memories, rehearses possible futures, and stirs unlikely connections.",
+      "In one well-known experiment, participants who completed a dull copying task and then sat quietly outperformed those who went straight to a creative challenge. Boredom, it seemed, had prepared them to think. The researchers suggested that an idle mind may be a mind in search of meaning.",
+      "Not all stillness is equal. Scrolling is not rest; it borrows the same attention that work demands, only without the purpose. Real idleness is lighter — staring out of a train window, walking without a podcast, letting a conversation fall silent.",
+      "The benefit is not a productivity trick. You cannot optimize your way into daydreaming. The point is to leave a little unstructured space in the day, and to resist the small panic that arrives when nothing is happening. Something usually does happen, if you wait.",
+      "So try ten minutes without a screen. Your mind may wander. That is not a bug. It is the oldest quiet machinery we have, and it has been waiting for you."
+    ]
+  },
+  {
+    "id": "ed-paper-books",
+    "title": "Why Paper Books Still Refuse to Disappear",
+    "dek": "Screens are convenient. Pages do something a notification never will.",
+    "category": "文化",
+    "tags": ["阅读", "科技生活"],
+    "date": "2026-10-20",
+    "publishedAt": "2026-10-20T09:20:00+08:00",
+    "source": { "name": "Miffy Reads 编辑部", "license": "原创", "url": "" },
+    "cover": "books",
+    "accent": "yellow",
+    "paragraphs": [
+      "Every few years, someone announces the death of the paper book. Sales figures keep refusing to cooperate. In many countries, print has held its ground or even grown, especially among younger readers who were supposed to be digital natives.",
+      "The reasons are not merely nostalgic. When researchers ask people to read the same text on paper and on a screen, paper often wins on comprehension, particularly for longer and more complex passages. The difference is small but stubborn.",
+      "One explanation is physical. A book offers landmarks: how thick the left side feels, where a paragraph sits on the page, how close you are to the end. These cues act like a map, helping the brain organize what it learns. A screen hides all of this in a scrolling stream.",
+      "Another explanation is attention. A paper book cannot vibrate with a message or invite you to check a fact. Its limits are part of its charm. The reader is left alone with the words.",
+      "None of this makes digital reading inferior in every case. Screens are unbeatable for searching, carrying hundreds of titles, adjusting type, and reaching readers who cannot use print. Many of us move between the two without noticing.",
+      "The more interesting question is not which format wins, but what kind of attention we bring to each. A book is not sacred because it is paper. It is useful because it asks for patience, and patience is a skill worth practising.",
+      "Maybe that is why paper survives. In a world of infinite tabs, it offers a finite, quiet room. You can leave it, but it never leaves you mid-sentence to sell you something else."
+    ]
+  },
+  {
+    "id": "ed-sponge-city",
+    "title": "The City That Learned to Listen to Rain",
+    "dek": "Instead of fighting water, some cities are learning to make room for it.",
+    "category": "环境",
+    "tags": ["城市", "气候"],
+    "date": "2026-10-18",
+    "publishedAt": "2026-10-18T10:05:00+08:00",
+    "source": { "name": "Miffy Reads 编辑部", "license": "原创", "url": "" },
+    "cover": "leaf",
+    "accent": "green",
+    "paragraphs": [
+      "For most of modern history, city planners treated rainwater as an enemy. Gutters, pipes and concrete were built to move it out as quickly as possible. Then the storms grew heavier, the drains filled, and the old strategy began to fail.",
+      "A different idea has taken root in several Chinese cities: the sponge city. The goal is not to defeat water but to absorb and slow it. Parks are designed as shallow basins. Pavements are made of porous material. Green roofs hold part of a downpour, and restored wetlands give rivers somewhere to spread.",
+      "The logic is simple physics. A city covered in concrete sheds almost all the rain that falls on it. A city with soil, plants and open water can hold a share of it, releasing it gradually. Even a modest delay can reduce the pressure on drainage systems downstream.",
+      "The benefits go beyond flood control. Plants cool streets in summer. Cleaner runoff reaches rivers. Neighbourhoods gain shade, birds and places to sit. In some projects, residents help decide where rain gardens should go, turning an engineering exercise into a civic one.",
+      "There are limits. Sponge cities are not a licence to build everywhere. Old infrastructure remains expensive to replace, and land for water storage is scarce in dense districts. Heavy rainfall can still overwhelm the most thoughtful design.",
+      "Even so, the shift in thinking matters. For a century, cities tried to make water disappear. The sponge city accepts that water has to go somewhere, and asks a more modest question: can we make that journey slower, cleaner and more useful?",
+      "The answer, like rain itself, arrives gradually."
+    ]
+  },
+  {
+    "id": "ed-small-habits",
+    "title": "Small Habits, Long Miles",
+    "dek": "Change rarely arrives as a dramatic decision. More often, it is built from small, boring repetitions.",
+    "category": "校园",
+    "tags": ["成长", "学习方法"],
+    "date": "2026-10-19",
+    "publishedAt": "2026-10-19T07:45:00+08:00",
+    "source": { "name": "Miffy Reads 编辑部", "license": "原创", "url": "" },
+    "cover": "pencil",
+    "accent": "blue",
+    "paragraphs": [
+      "Every September, students make ambitious promises: study every day, sleep earlier, read more, finally learn to think in English. By October, many plans have collapsed. The failure is usually blamed on willpower. The real problem is design.",
+      "Research on habit formation suggests that motivation is a poor foundation. It rises and falls with mood, weather and how much sleep you had. Habits, by contrast, are patterns that become easier the more often they are repeated in a stable context.",
+      "The key is to make the first step almost embarrassingly small. Instead of “read one chapter”, try “open the book and read one paragraph”. Instead of an hour of listening practice, start with five minutes on the walk to class. A tiny action is easy to repeat, and repetition is what makes it automatic.",
+      "Context matters as much as size. A habit attaches itself to a cue: a particular desk, a time of day, the cup of tea that begins a study session. Protecting that cue makes the behaviour more likely to survive a hard week.",
+      "It also helps to plan the obstacle in advance. If the phone is the first thing you reach for in the morning, charge it across the room. If the gym is far away, choose exercise that begins at the door. Changing the environment is often more reliable than changing your intentions.",
+      "Progress will be uneven. Some days the small habit feels pointless, and the old ambitious version of yourself whispers that this is not enough. Ignore the whisper. A paragraph read today is worth more than a perfect plan abandoned next month.",
+      "Slow gains are still gains. A mile is made of steps that no one applauds."
+    ]
+  },
+  {
+    "id": "ed-machines-apologize",
+    "title": "When Machines Learn to Apologize",
+    "dek": "As AI systems enter everyday decisions, the question is no longer what they can do, but who answers when they fail.",
+    "category": "科技",
+    "tags": ["人工智能", "社会"],
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21T08:30:00+08:00",
+    "source": { "name": "Miffy Reads 编辑部", "license": "原创", "url": "" },
+    "cover": "orbit",
+    "accent": "lilac",
+    "paragraphs": [
+      "A chatbot invents a court case. A hiring tool quietly favours one group over another. A navigation app sends a driver down a flooded road. As artificial intelligence spreads into ordinary decisions, mistakes become less like glitches and more like events with consequences.",
+      "The first instinct of many companies is to apologize. But an apology from a machine is not the same as accountability. Someone chose the data, designed the incentives, approved the launch. When a system fails, responsibility does not melt into the code.",
+      "Regulators are beginning to say so. New rules in several regions require disclosure when people interact with an automated system, and demand that high-risk uses be audited. The details differ, but the direction is clear: AI should not be a black box with a public relations department.",
+      "Transparency is harder than it sounds. Even engineers cannot always explain why a large model produced a particular answer. This has led to a pragmatic approach called system-level accountability: documenting the data, testing for bias, monitoring real-world outcomes, and naming a human responsible when warnings appear.",
+      "Users have a role too. We are quick to trust confident language, especially when it is fluent and polite. A useful habit is to ask what a system cannot know: whether it has sources, whether it can be checked, whether anyone is answerable for the answer.",
+      "None of this is an argument against the technology. It is an argument against pretending that convenience comes without risk. The most trustworthy systems will not be the ones that never make mistakes, but the ones that make mistakes visible, correctable, and owned.",
+      "An apology can be a beginning. It should not be the whole answer."
+    ]
+  },
+  {
+    "id": "ed-coffeehouse",
+    "title": "The Secret Life of the Coffeehouse",
+    "dek": "Long before the office and the group chat, there was a table, a cup, and a conversation.",
+    "category": "文化",
+    "tags": ["历史", "城市生活"],
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21T08:50:00+08:00",
+    "source": { "name": "Miffy Reads 编辑部", "license": "原创", "url": "" },
+    "cover": "cup",
+    "accent": "orange",
+    "paragraphs": [
+      "The coffeehouse is an old idea with a new coat of paint. In the sixteenth century, coffee houses spread through the Ottoman Empire, drawing men of different ranks into the same room. They came for a drink and stayed for news, gossip, music and argument. Some authorities, uneasy at the mixing, tried to close them.",
+      "In seventeenth-century London, the coffeehouse became a kind of informal institution. Merchants exchanged prices, writers traded insults, and anyone could buy a cup and join the conversation. They were nicknamed “penny universities”: for the price of entry, you could hear the thinking of the day.",
+      "The modern cafe inherits this spirit, even if it often sells it quietly. We go to work alone among strangers, to meet a friend, or to sit for an hour without being asked why. The coffee is less important than the permission it grants: permission to linger, to think, to be available without being on duty.",
+      "Sociologists call such places third places — not home, not work, but a neutral ground where social life can happen. Good ones are accessible, low-pressure and regular. You do not need a reservation or a reason to be there.",
+      "Digital life has not replaced them. If anything, it has made them more valuable. A cafe offers something a screen cannot: the low hum of other people, a small reminder that the world is wider than your current task.",
+      "The next time you sit down with a cup, look around. You are taking part in a very old experiment about strangers sharing a table. It is still running, and it still needs people willing to talk."
+    ]
+  },
+  {
+    "id": "ed-night-sky",
+    "title": "The Night Sky Is a Door",
+    "dek": "Light pollution has stolen the stars from most of us. A few places are trying to give them back.",
+    "category": "科学",
+    "tags": ["天文", "自然"],
+    "date": "2026-10-20",
+    "publishedAt": "2026-10-20T08:15:00+08:00",
+    "source": { "name": "Miffy Reads 编辑部", "license": "原创", "url": "" },
+    "cover": "star",
+    "accent": "blue",
+    "paragraphs": [
+      "If you live in a large city, the night sky may offer only a handful of stars and a faint orange glow. That is not because the universe has become quieter. It is because our lights have become louder.",
+      "Light pollution is often treated as a minor annoyance, but its effects reach further than the eye. Bright nights confuse migrating birds and sea turtles. They disrupt insects, bats and other creatures whose lives are timed by darkness. Human sleep is not immune either.",
+      "The problem is also unusually fixable. Unlike many environmental harms, light pollution can be reduced immediately, with the same switch that created it. Shielded lamps, warmer colours, motion sensors and lower brightness can restore much of the sky without making streets less safe.",
+      "The changes are visible. In places that have adopted dark-sky policies, residents report seeing the Milky Way for the first time in years. Dark-sky reserves, which protect large areas from artificial light, have become tourist destinations in their own right.",
+      "There is a deeper benefit, harder to measure. Looking up at a clear night sky is one of the oldest human experiences. It asks us to consider scales we cannot control. A satellite map of the Earth at night is beautiful, but it is also a portrait of what we have lost.",
+      "You do not need to travel to a famous reserve to notice the sky. Turn off a light, step outside, and wait a few minutes for your eyes to adjust. The darkness will show you something. It always did."
+    ]
+  },
+  {
+    "id": "ed-art-of-noticing",
+    "title": "The Art of Noticing",
+    "dek": "Attention is not just a way to learn. It is a way to belong.",
+    "category": "社会",
+    "tags": ["观察", "生活方式"],
+    "date": "2026-10-17",
+    "publishedAt": "2026-10-17T11:10:00+08:00",
+    "source": { "name": "Miffy Reads 编辑部", "license": "原创", "url": "" },
+    "cover": "wave",
+    "accent": "green",
+    "paragraphs": [
+      "On the same walk to work, one person sees a wall of advertisements, another notices the first buds on a tree. The route is identical; the difference is attention. Most of us move through familiar places on autopilot, efficiently and forgetfully.",
+      "Noticing is not a special talent. It is a practice, and like most practices it can be trained. Writers, artists and scientists often keep notebooks of small observations: a colour, a phrase overheard, a change in the light. Over time, the notebook becomes a record of a place that would otherwise be lost.",
+      "The benefits are surprisingly practical. Attention is linked to memory; we remember what we have looked at closely. Noticing also makes everyday life more vivid, and it is a form of respect — for a neighbourhood, a colleague, a person serving coffee at a counter.",
+      "There is a paradox here. Digital tools promise to show us the world, yet they often pull attention away from the place we are actually standing. The screen is always more urgent than the street. Noticing is a small way of reversing that.",
+      "You can start with a simple rule: on one walk, look for three things you have never seen before. They do not need to be beautiful or important. A new sign, a repaired step, a bird on a wire. Say what you saw, or write it down.",
+      "Cities are made of millions of these details, layered and changing. To notice them is to feel that you live somewhere, rather than merely pass through. In an age of distraction, that may be one of the quietest forms of wealth."
+    ]
+  }
+]
