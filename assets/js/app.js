@@ -43,6 +43,7 @@ const app = {
     search: '',
     shelfTab: 'saved',
     wordTab: 'words',
+    wordGroup: 'date',
     wordQuery: '',
     quoteQuery: '',
   },
@@ -280,6 +281,7 @@ function onRouteChange() {
   closeWordPop();
   hideSelection();
   closeOverlay();
+  closeTagEditor();
   clearToast();
   if (app.hasRendered) app.previousRoute = { ...app.route };
   app.route = parseRoute();
@@ -1287,75 +1289,164 @@ function renderShelfCard(article, tab) {
 
 function renderWordsPage() {
   const tab = app.ui.wordTab;
+  const isWords = tab === 'words';
   const wordCount = store.state.words.length;
   const quoteCount = store.state.quotes.length;
-  const action = tab === 'words'
-    ? `<button class="btn btn-ghost" data-act="export-words">${icon('download', 17)} 导出 txt</button>`
-    : '';
+  const action = `<button class="btn btn-ghost" data-act="${isWords ? 'export-words' : 'export-quotes'}">${icon('download', 17)} ${isWords ? '导出 TXT' : '导出金句'}</button>`;
+
   root.innerHTML = `${renderHeader('words')}
     <main class="page words-page">
       ${renderPageHead('生词本', '把遇见过的词慢慢收好，它们会在某一天派上用场。', action)}
       <div class="tab-row" role="tablist" aria-label="生词与句子">
-        <button class="tab ${tab === 'words' ? 'is-active' : ''}" data-act="word-tab" data-tab="words" role="tab" aria-selected="${tab === 'words'}">${icon('words', 16)} 生词 <span>${wordCount}</span></button>
-        <button class="tab ${tab === 'quotes' ? 'is-active' : ''}" data-act="word-tab" data-tab="quotes" role="tab" aria-selected="${tab === 'quotes'}">${icon('quote', 16)} 金句 <span>${quoteCount}</span></button>
+        <button class="tab ${isWords ? 'is-active' : ''}" data-act="word-tab" data-tab="words" role="tab" aria-selected="${isWords}">${icon('words', 16)} 生词 <span>${wordCount}</span></button>
+        <button class="tab ${!isWords ? 'is-active' : ''}" data-act="word-tab" data-tab="quotes" role="tab" aria-selected="${!isWords}">${icon('quote', 16)} 金句 <span>${quoteCount}</span></button>
       </div>
       <div class="words-toolbar">
         <label class="search-field wide">
           ${icon('search', 18)}
-          <input id="${tab === 'words' ? 'word-search' : 'quote-search'}" type="search" placeholder="${tab === 'words' ? '搜索生词或释义…' : '搜索收藏的句子…'}" value="${esc(tab === 'words' ? app.ui.wordQuery : app.ui.quoteQuery)}" autocomplete="off" aria-label="${tab === 'words' ? '搜索生词' : '搜索句子'}">
+          <input id="${isWords ? 'word-search' : 'quote-search'}" type="search" placeholder="${isWords ? '搜索单词、释义或标签…' : '搜索收藏的句子…'}" value="${esc(isWords ? app.ui.wordQuery : app.ui.quoteQuery)}" autocomplete="off" aria-label="${isWords ? '搜索生词' : '搜索句子'}">
         </label>
-        <p class="words-tip">${tab === 'words' ? '导出的 txt 会包含音标、释义和来源。' : '在阅读页选中任意一句，就能把它收进来。'}</p>
+        ${isWords ? `<div class="word-controls">
+          <div class="segmented" role="group" aria-label="分类方式">
+            <button type="button" class="${app.ui.wordGroup === 'date' ? 'is-active' : ''}" data-act="word-group" data-group="date" aria-pressed="${app.ui.wordGroup === 'date'}">按日期</button>
+            <button type="button" class="${app.ui.wordGroup === 'tag' ? 'is-active' : ''}" data-act="word-group" data-group="tag" aria-pressed="${app.ui.wordGroup === 'tag'}">按标签</button>
+          </div>
+          <p class="words-tip">只显示常用释义 · 点 # 标签可分类</p>
+        </div>` : '<p class="words-tip">选中喜欢的句子收藏，可导出 TXT。</p>'}
       </div>
-      <div id="${tab === 'words' ? 'word-list' : 'quote-list'}">
-        ${tab === 'words' ? renderWordList() : renderQuoteList()}
+      <div id="${isWords ? 'word-list' : 'quote-list'}">
+        ${isWords ? renderWordList() : renderQuoteList()}
       </div>
     </main>
     ${renderFooter()}
     ${renderTabbar('words')}`;
 }
 
+function shortWordMeaning(word) {
+  const senses = splitMeaning(word.meaning || '');
+  const value = senses[0] || word.translation || word.english || '（暂无释义，点词查一下）';
+  return String(value).replace(/\s+/g, ' ').trim();
+}
+
+function wordDateLabel(key) {
+  if (key === 'unknown') return '更早';
+  const today = store.dateKey();
+  const yesterday = store.dateKey(store.addDays(new Date(), -1));
+  if (key === today) return '今天';
+  if (key === yesterday) return '昨天';
+  const currentYear = new Date().getFullYear();
+  return store.prettyDate(key, key.startsWith(String(currentYear)) ? {} : { year: 'numeric' });
+}
+
+function groupWords(list) {
+  const groups = [];
+  if (app.ui.wordGroup === 'tag') {
+    const map = new Map();
+    for (const word of list) {
+      const tag = String(word.tag || '').trim();
+      if (!map.has(tag)) map.set(tag, []);
+      map.get(tag).push(word);
+    }
+    const tags = [...map.keys()].filter(Boolean).sort((a, b) => a.localeCompare(b, 'zh-CN'));
+    if (map.has('')) tags.push('');
+    for (const tag of tags) {
+      groups.push({ label: tag ? `# ${tag}` : '未分类', words: map.get(tag) });
+    }
+  } else {
+    const map = new Map();
+    for (const word of list) {
+      let key = 'unknown';
+      if (word.addedAt) {
+        const date = new Date(word.addedAt);
+        if (!Number.isNaN(date.getTime())) key = store.dateKey(date);
+      }
+      if (!map.has(key)) map.set(key, []);
+      map.get(key).push(word);
+    }
+    const keys = [...map.keys()].filter((key) => key !== 'unknown').sort((a, b) => b.localeCompare(a));
+    if (map.has('unknown')) keys.push('unknown');
+    for (const key of keys) {
+      groups.push({ label: wordDateLabel(key), words: map.get(key) });
+    }
+  }
+  return groups;
+}
+
 function renderWordList() {
   const all = store.state.words;
-  const query = app.ui.wordQuery.trim().toLowerCase();
-  const list = query
-    ? all.filter((word) => `${word.word} ${word.base} ${word.meaning} ${word.translation} ${word.english}`.toLowerCase().includes(query))
-    : all;
   if (!all.length) {
     return emptyState({
       art: 'bunny',
       title: '生词本还是空的',
-      text: '阅读时点一下带虚线的六级词，就能把它收进这个小小的口袋。',
+      text: '阅读时点任意单词，就能把它收进这个小小的口袋。',
       action: '<a class="btn btn-primary btn-small" href="#/">去读一篇文章</a>',
     });
   }
-  if (!list.length) {
-    return emptyState({ art: 'bunny', title: '没有找到这个词', text: '换个拼写试试，或者清空搜索框。' });
+  const query = app.ui.wordQuery.trim().toLowerCase();
+  const filtered = query
+    ? all.filter((word) => `${word.word} ${word.base} ${word.tag || ''} ${word.meaning} ${word.translation} ${word.english}`.toLowerCase().includes(query))
+    : all;
+  if (!filtered.length) {
+    return emptyState({ art: 'bunny', title: '没有找到这个词', text: '换个拼写、释义或标签试试。' });
   }
-  return `<div class="list-count" id="word-result-count">${list.length} 个词</div>
-    <div class="word-grid">${list.map(renderWordCard).join('')}</div>`;
+  const groups = groupWords(filtered);
+  return `<div class="list-count" id="word-result-count">${filtered.length} 个词 · ${app.ui.wordGroup === 'tag' ? '按标签' : '按日期'}</div>
+    ${groups.map((group) => `<section class="word-group">
+      <div class="word-group-head"><h3>${esc(group.label)}</h3><span>${group.words.length}</span></div>
+      <div class="word-rows">${group.words.map(renderWordRow).join('')}</div>
+    </section>`).join('')}`;
 }
 
-function renderWordCard(word) {
-  const senses = splitMeaning(word.meaning || '');
-  const fallback = word.translation || word.english || '（暂无释义，点词典继续查）';
-  const source = word.articleId
-    ? `<a href="#/read/${encodeURIComponent(word.articleId)}">${esc(word.articleTitle || '去读原文')}</a>`
-    : esc(word.articleTitle || '阅读时收录');
-  return `<article class="word-card">
-    <div class="word-card-top">
-      <div>
-        <h3>${esc(word.word)}</h3>
-        <p class="word-phon">${word.phonetic ? `/${esc(word.phonetic)}/` : '&nbsp;'}</p>
+function renderWordRow(word) {
+  const tag = String(word.tag || '').trim();
+  const meaning = shortWordMeaning(word);
+  return `<div class="word-row">
+    <div class="word-row-main">
+      <div class="word-row-title">
+        <h3 lang="en">${esc(word.word)}</h3>
+        ${word.phonetic ? `<span class="word-row-phon">/${esc(word.phonetic)}/</span>` : ''}
       </div>
-      <div class="word-tools">
-        <button class="icon-btn small" data-act="speak-word" data-word="${esc(word.word)}" aria-label="朗读 ${esc(word.word)}">${icon('speaker', 16)}</button>
-        <button class="icon-btn small danger" data-act="remove-word" data-id="${esc(word.id)}" aria-label="删除 ${esc(word.word)}">${icon('trash', 16)}</button>
-      </div>
+      <p class="word-row-meaning" title="${esc(meaning)}">${esc(meaning)}</p>
     </div>
-    <div class="word-meaning">${senses.length ? senses.map((sense) => `<p>${esc(sense)}</p>`).join('') : `<p>${esc(fallback)}</p>`}</div>
-    ${word.translation && word.meaning ? `<p class="word-translation">${esc(word.translation)}</p>` : ''}
-    <div class="word-meta"><span>${source}</span><span>${store.prettyDate(new Date(word.addedAt))}</span></div>
-  </article>`;
+    <div class="word-row-actions">
+      <button class="word-tag-btn ${tag ? '' : 'is-empty'}" type="button" data-act="edit-word-tag" data-id="${esc(word.id)}" aria-label="${tag ? `标签：${esc(tag)}` : '设置标签'}" title="${tag ? `标签：${esc(tag)}` : '设置标签'}">#${tag ? ` ${esc(tag)}` : '<span class="tag-label-text"> 标签</span>'}</button>
+      <button class="icon-btn tiny" type="button" data-act="speak-word" data-word="${esc(word.word)}" aria-label="朗读 ${esc(word.word)}">${icon('speaker', 15)}</button>
+      <button class="icon-btn tiny danger" type="button" data-act="remove-word" data-id="${esc(word.id)}" aria-label="删除 ${esc(word.word)}">${icon('trash', 15)}</button>
+    </div>
+  </div>`;
+}
+
+function openTagEditor(id) {
+  const word = store.state.words.find((item) => item.id === id);
+  if (!word) return;
+  const current = String(word.tag || '').trim();
+  const tags = [...new Set(store.state.words.map((item) => String(item.tag || '').trim()).filter(Boolean))]
+    .sort((a, b) => a.localeCompare(b, 'zh-CN'));
+
+  overlayRoot.innerHTML = `<div class="tag-layer">
+    <div class="tag-backdrop" data-act="close-tag-editor"></div>
+    <div class="tag-modal" role="dialog" aria-modal="true" aria-labelledby="tag-title">
+      <button class="tag-close" type="button" data-act="close-tag-editor" aria-label="关闭">${icon('close', 19)}</button>
+      <p class="eyebrow">WORD TAG</p>
+      <h2 id="tag-title">给「${esc(word.word)}」分类</h2>
+      <p class="tag-hint">一个词放一个标签即可，可以按考试、主题或自己的习惯来分。</p>
+      ${tags.length ? `<div class="tag-options">${tags.map((tag) => `<button class="tag-choice ${tag === current ? 'is-current' : ''}" type="button" data-act="set-word-tag" data-id="${esc(word.id)}" data-tag="${esc(tag)}"># ${esc(tag)}</button>`).join('')}</div>` : ''}
+      <div class="tag-input-row">
+        <input id="tag-input" type="text" maxlength="16" placeholder="新标签，比如：考研" value="${esc(current)}" autocomplete="off" aria-label="标签名称">
+        <button class="btn btn-primary btn-small" type="button" data-act="save-word-tag" data-id="${esc(word.id)}">保存</button>
+      </div>
+      ${current ? `<button class="tag-clear" type="button" data-act="clear-word-tag" data-id="${esc(word.id)}">${icon('trash', 14)} 清除标签</button>` : ''}
+    </div>
+  </div>`;
+  document.body.classList.add('no-scroll');
+  const input = overlayRoot.querySelector('#tag-input');
+  input?.focus({ preventScroll: true });
+  input?.select();
+}
+
+function closeTagEditor() {
+  overlayRoot.querySelector('.tag-layer')?.remove();
+  document.body.classList.remove('no-scroll');
 }
 
 function renderQuoteList() {
@@ -1368,7 +1459,7 @@ function renderQuoteList() {
     return emptyState({
       art: 'reading',
       title: '还没有收藏句子',
-      text: '读到喜欢的句子时，用鼠标选中它，点一下「收藏这句」。',
+      text: '读到喜欢的句子时，选中它，点一下「收藏这句」。',
       action: '<a class="btn btn-primary btn-small" href="#/">去读一篇文章</a>',
     });
   }
@@ -1385,6 +1476,18 @@ function renderQuoteList() {
         <button class="text-btn" data-act="remove-quote" data-id="${esc(quote.id)}">${icon('trash', 14)} 删除</button>
       </div>
     </article>`).join('')}</div>`;
+}
+
+function downloadTextFile(filename, content) {
+  const blob = new Blob([`\uFEFF${content}`], { type: 'text/plain;charset=utf-8' });
+  const url = URL.createObjectURL(blob);
+  const anchor = document.createElement('a');
+  anchor.href = url;
+  anchor.download = filename;
+  document.body.appendChild(anchor);
+  anchor.click();
+  anchor.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
 }
 
 function exportWords() {
@@ -1404,23 +1507,38 @@ function exportWords() {
   const body = words.map((word, index) => {
     const lines = [
       `${String(index + 1).padStart(2, '0')}. ${word.word}${word.phonetic ? `  /${word.phonetic}/` : ''}`,
-      `    释义：${(word.meaning || word.translation || word.english || '暂无释义').replace(/\s+/g, ' ')}`,
     ];
-    if (word.meaning && word.translation && word.translation !== word.meaning) lines.push(`    翻译：${word.translation}`);
-    if (word.articleTitle) lines.push(`    来源：${word.articleTitle}`);
+    const tag = String(word.tag || '').trim();
+    if (tag) lines.push(`    标签：${tag}`);
+    lines.push(`    释义：${shortWordMeaning(word)}`);
     if (word.addedAt) lines.push(`    收录：${store.dateKey(new Date(word.addedAt))}`);
     return lines.join('\r\n');
   }).join('\r\n\r\n');
-  const blob = new Blob([`\uFEFF${head.join('\r\n')}${body}\r\n`], { type: 'text/plain;charset=utf-8' });
-  const url = URL.createObjectURL(blob);
-  const anchor = document.createElement('a');
-  anchor.href = url;
-  anchor.download = `miffy-words-${today}.txt`;
-  document.body.appendChild(anchor);
-  anchor.click();
-  anchor.remove();
-  setTimeout(() => URL.revokeObjectURL(url), 1000);
+  downloadTextFile(`miffy-words-${today}.txt`, `${head.join('\r\n')}${body}\r\n`);
   toast('生词本已经收进 txt 啦', 'download');
+}
+
+function exportQuotes() {
+  const quotes = store.state.quotes;
+  if (!quotes.length) {
+    toast('金句本还是空的，先去收藏几句吧', 'quote');
+    return;
+  }
+  const today = store.dateKey();
+  const head = [
+    'Miffy Reads · 米菲金句本',
+    `导出日期：${today}`,
+    `共计：${quotes.length} 句`,
+    '----------------------------------------',
+    '',
+  ];
+  const body = quotes.map((quote, index) => [
+    `${String(index + 1).padStart(2, '0')}. “${quote.text}”`,
+    `    来源：${quote.articleTitle || '阅读'}`,
+    `    收录：${store.dateKey(new Date(quote.addedAt))}`,
+  ].join('\r\n')).join('\r\n\r\n');
+  downloadTextFile(`miffy-quotes-${today}.txt`, `${head.join('\r\n')}${body}\r\n`);
+  toast('金句已经收进 txt 啦', 'download');
 }
 
 /* ---------------------------------------------------------- global events */
@@ -1476,7 +1594,17 @@ function onDocumentInput(event) {
 }
 
 function onDocumentKeydown(event) {
+  if (event.key === 'Enter' && event.target?.id === 'tag-input') {
+    event.preventDefault();
+    const save = document.querySelector('.tag-modal [data-act="save-word-tag"]');
+    if (save) handleAction(save, event);
+    return;
+  }
   if (event.key === 'Escape') {
+    if (document.querySelector('.tag-layer')) {
+      closeTagEditor();
+      return;
+    }
     if (document.querySelector('.checkin-layer')) {
       closeOverlay();
       return;
@@ -1644,6 +1772,63 @@ function handleAction(element, event) {
       event.preventDefault();
       app.ui.wordTab = element.dataset.tab === 'quotes' ? 'quotes' : 'words';
       renderRouteContent({ keepScroll: true });
+      break;
+    }
+    case 'word-group': {
+      event.preventDefault();
+      app.ui.wordGroup = element.dataset.group === 'tag' ? 'tag' : 'date';
+      document.querySelectorAll('.segmented [data-act="word-group"]').forEach((btn) => {
+        const active = btn.dataset.group === app.ui.wordGroup;
+        btn.classList.toggle('is-active', active);
+        btn.setAttribute('aria-pressed', String(active));
+      });
+      const host = document.getElementById('word-list');
+      if (host) host.innerHTML = renderWordList();
+      break;
+    }
+    case 'edit-word-tag': {
+      event.preventDefault();
+      openTagEditor(element.dataset.id);
+      break;
+    }
+    case 'close-tag-editor': {
+      event.preventDefault();
+      closeTagEditor();
+      break;
+    }
+    case 'set-word-tag': {
+      event.preventDefault();
+      const tag = (element.dataset.tag || '').trim();
+      if (store.setWordTag(element.dataset.id, tag)) {
+        closeTagEditor();
+        toast(tag ? `已归到 #${tag}` : '已清除标签', 'words');
+        renderRouteContent({ keepScroll: true });
+      }
+      break;
+    }
+    case 'save-word-tag': {
+      event.preventDefault();
+      const input = document.getElementById('tag-input');
+      const tag = input ? input.value.trim() : '';
+      if (store.setWordTag(element.dataset.id, tag)) {
+        closeTagEditor();
+        toast(tag ? `已设置标签 #${tag}` : '已清除标签', 'words');
+        renderRouteContent({ keepScroll: true });
+      }
+      break;
+    }
+    case 'clear-word-tag': {
+      event.preventDefault();
+      if (store.setWordTag(element.dataset.id, '')) {
+        closeTagEditor();
+        toast('已清除标签', 'words');
+        renderRouteContent({ keepScroll: true });
+      }
+      break;
+    }
+    case 'export-quotes': {
+      event.preventDefault();
+      exportQuotes();
       break;
     }
     case 'remove-word': {

@@ -275,6 +275,7 @@ export function toggleWord(entry) {
     english: entry.english || '',
     articleId: entry.articleId || '',
     articleTitle: entry.articleTitle || '',
+    tag: '',
     addedAt: new Date().toISOString(),
   });
   if (state.words.length > MAX_WORDS) state.words.length = MAX_WORDS;
@@ -302,6 +303,19 @@ export function removeWord(id) {
     state.words.splice(idx, 1);
     persist();
   }
+}
+
+export function setWordTag(id, tag) {
+  const word = state.words.find((w) => w.id === id);
+  if (!word) return false;
+  const clean = String(tag || '')
+    .replace(/^#+\s*/, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, 16);
+  word.tag = clean;
+  persist();
+  return true;
 }
 
 /* ---------- quotes ---------- */
