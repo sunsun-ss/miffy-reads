@@ -1590,12 +1590,12 @@ function handleAction(element, event) {
       if (block.dataset.translating === 'true') break;
       block.dataset.translating = 'true';
       const closeButton = `<button class="para-tr-close" type="button" data-act="translate-para" aria-label="收起译文">${icon('close', 14)}</button>`;
-      panel.innerHTML = `<div class="para-tr-head"><span class="para-tr-label" title="机器翻译由 MyMemory 提供">中文译文 · 机器翻译</span>${closeButton}</div><p class="para-tr-loading">米菲正在翻译这一段…</p>`;
+      panel.innerHTML = `<div class="para-tr-head"><span class="para-tr-label" title="机器翻译由有道提供，失败时使用 MyMemory">中文译文 · 机器翻译</span>${closeButton}</div><p class="para-tr-loading">米菲正在翻译这一段…</p>`;
       button.disabled = true;
       button.textContent = '…';
       const source = paragraph ? paragraph.textContent.replace(/s+/g, ' ').trim() : '';
       translateParagraph(source).then((translation) => {
-        panel.innerHTML = `<div class="para-tr-head"><span class="para-tr-label" title="机器翻译由 MyMemory 提供">中文译文 · 机器翻译</span>${closeButton}</div><div class="para-tr-text" lang="zh-CN">${esc(translation)}</div>`;
+        panel.innerHTML = `<div class="para-tr-head"><span class="para-tr-label" title="机器翻译由有道提供，失败时使用 MyMemory">中文译文 · 机器翻译</span>${closeButton}</div><div class="para-tr-text" lang="zh-CN">${esc(translation)}</div>`;
         block.dataset.translationLoaded = 'true';
       }).catch((error) => {
         console.error(error);

@@ -66,7 +66,7 @@ async function fetchTranslation(base) {
 
 /* ---------- paragraph translation ---------- */
 
-const PARAGRAPH_CACHE_KEY = 'miffy.translate.cache.v1';
+const PARAGRAPH_CACHE_KEY = 'miffy.translate.cache.v2';
 const PARAGRAPH_CACHE_LIMIT = 80;
 let paragraphCache = null;
 
@@ -152,6 +152,14 @@ function splitForTranslation(text, max = 420) {
 }
 
 async function translateChunk(chunk) {
+  try {
+    const youdao = await fetchJson(`https://aidemo.youdao.com/trans?q=${encodeURIComponent(chunk)}&from=en&to=zh-CHS`, 12000);
+    const result = Array.isArray(youdao?.translation) ? youdao.translation[0] : youdao?.translation;
+    if ((youdao?.errorCode == null || Number(youdao.errorCode) === 0) && typeof result === 'string' && result.trim()) {
+      return decodeTranslationEntities(result).trim();
+    }
+  } catch { /* fall through to MyMemory */ }
+
   const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(chunk)}&langpair=en%7Czh-CN`;
   const data = await fetchJson(url, 15000);
   const translated = data?.responseData?.translatedText;
