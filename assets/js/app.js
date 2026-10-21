@@ -18,7 +18,7 @@ import {
   splitMeaning,
   readingMinutes,
 } from './words.js';
-import { fetchDetails, speak, englishSummary } from './dict.js';
+import { fetchDetails, speak, englishSummary, translateParagraph } from './dict.js';
 
 const root = document.getElementById('app');
 const overlayRoot = document.getElementById('overlay-root');
@@ -576,7 +576,11 @@ function renderReader(id) {
   const saved = store.isBookmarked(article.id);
   const read = store.getRead(article.id);
   const minutes = readingMinutes(article);
-  const paragraphs = analyzed.html.map((html, i) => `<p class="${i === 0 ? 'lead' : ''}">${html}</p>`).join('');
+  const paragraphs = analyzed.html.map((html, i) => `<div class="para-block" data-para-index="${i}">
+        <p class="${i === 0 ? 'lead' : ''}">${html}</p>
+        <button class="para-tr" type="button" data-act="translate-para" title="翻译这一段" aria-label="翻译第 ${i + 1} 段" aria-expanded="false" lang="zh-CN">译</button>
+        <div class="para-translation" aria-live="polite" hidden></div>
+      </div>`).join('');
   const next = findNextArticle(article);
   const source = sourceFull(article);
 
@@ -1560,6 +1564,48 @@ function handleAction(element, event) {
     case 'speak-word': {
       event.preventDefault();
       speak(element.dataset.word);
+      break;
+    }
+    case 'translate-para': {
+      event.preventDefault();
+      const block = element.closest('.para-block');
+      if (!block) break;
+      const panel = block.querySelector('.para-translation');
+      const button = block.querySelector('.para-tr');
+      const paragraph = block.querySelector('p');
+      if (!panel || !button) break;
+      if (!panel.hidden) {
+        panel.hidden = true;
+        button.setAttribute('aria-expanded', 'false');
+        button.classList.remove('is-open');
+        button.title = '翻译这一段';
+        break;
+      }
+      panel.hidden = false;
+      panel.classList.remove('is-error');
+      button.setAttribute('aria-expanded', 'true');
+      button.classList.add('is-open');
+      button.title = '收起这一段译文';
+      if (block.dataset.translationLoaded === 'true') break;
+      if (block.dataset.translating === 'true') break;
+      block.dataset.translating = 'true';
+      const closeButton = `<button class="para-tr-close" type="button" data-act="translate-para" aria-label="收起译文">${icon('close', 14)}</button>`;
+      panel.innerHTML = `<div class="para-tr-head"><span class="para-tr-label" title="机器翻译由 MyMemory 提供">中文译文 · 机器翻译</span>${closeButton}</div><p class="para-tr-loading">米菲正在翻译这一段…</p>`;
+      button.disabled = true;
+      button.textContent = '…';
+      const source = paragraph ? paragraph.textContent.replace(/s+/g, ' ').trim() : '';
+      translateParagraph(source).then((translation) => {
+        panel.innerHTML = `<div class="para-tr-head"><span class="para-tr-label" title="机器翻译由 MyMemory 提供">中文译文 · 机器翻译</span>${closeButton}</div><div class="para-tr-text" lang="zh-CN">${esc(translation)}</div>`;
+        block.dataset.translationLoaded = 'true';
+      }).catch((error) => {
+        console.error(error);
+        panel.classList.add('is-error');
+        panel.innerHTML = `<div class="para-tr-head"><span class="para-tr-label">翻译没有成功</span>${closeButton}</div><p class="para-tr-error">翻译服务暂时不可用，可能是免费额度用完了。稍后再点「译」试试。</p>`;
+      }).finally(() => {
+        delete block.dataset.translating;
+        button.disabled = false;
+        button.textContent = '译';
+      });
       break;
     }
     case 'close-overlay': {
