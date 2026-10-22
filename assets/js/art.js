@@ -324,3 +324,92 @@ function escapeHtml(value = '') {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;');
 }
+
+/* ---------- reading garden (weekly reading time) ---------- */
+
+const ROSE_STEM = ['#7C9E56', '#6E8F4B'];
+const ROSE_BLOOM_OUTER = ['#D96B63', '#C65B52', '#E07A6F'];
+const ROSE_BLOOM_INNER = ['#F4C9C5', '#F7D7D3', '#F4C9C5'];
+const ROSE_LEAF = ['#A8C686', '#9AB878', '#8FB276'];
+
+/**
+ * 一朵简笔玫瑰：外圈花瓣 + 内圈花瓣 + 花心。
+ * cx/cy 为花心坐标，scale 控制大小。
+ */
+function roseBlossom(cx, cy, scale = 1) {
+  const petals = [];
+  for (let i = 0; i < 5; i += 1) {
+    const ang = i * 72;
+    const rad = (ang * Math.PI) / 180;
+    const px = cx + Math.cos(rad) * 3.6 * scale;
+    const py = cy + Math.sin(rad) * 3.2 * scale;
+    petals.push(`<ellipse cx="${px.toFixed(1)}" cy="${py.toFixed(1)}" rx="${3.1 * scale}" ry="${2.5 * scale}" fill="${ROSE_BLOOM_OUTER[i % ROSE_BLOOM_OUTER.length]}" stroke="${INK}" stroke-width="1.1" transform="rotate(${ang + 22} ${px.toFixed(1)} ${py.toFixed(1)})"/>`);
+  }
+  for (let i = 0; i < 4; i += 1) {
+    const ang = i * 90 + 40;
+    const rad = (ang * Math.PI) / 180;
+    const px = cx + Math.cos(rad) * 1.9 * scale;
+    const py = cy + Math.sin(rad) * 1.7 * scale;
+    petals.push(`<ellipse cx="${px.toFixed(1)}" cy="${py.toFixed(1)}" rx="${1.9 * scale}" ry="${1.5 * scale}" fill="${ROSE_BLOOM_INNER[i % ROSE_BLOOM_INNER.length]}" stroke="${INK}" stroke-width="0.9" transform="rotate(${ang} ${px.toFixed(1)} ${py.toFixed(1)})"/>`);
+  }
+  petals.push(`<circle cx="${cx}" cy="${cy}" r="${1.5 * scale}" fill="#F8E3A8" stroke="${INK}" stroke-width="0.9"/>`);
+  return petals.join('');
+}
+
+/**
+ * 一棵「阅读时长花草」：泥土 + 草丛 + 花茎 + 叶子 + 玫瑰。
+ * seconds 越多，茎越高、草越密、玫瑰越繁茂。
+ * 分级：0 秒 → 空土；<5min → 嫩芽；<20min → 小苗；
+ *       <45min → 茎叶玫瑰初开；≥45min → 大玫瑰加繁茂草丛。
+ */
+export function rosePlant(seconds = 0, className = '') {
+  const secs = Math.max(0, Math.round(Number(seconds) || 0));
+  const level = secs <= 0 ? 0 : secs < 300 ? 1 : secs < 1200 ? 2 : secs < 2700 ? 3 : 4;
+  const stemH = [0, 20, 36, 52, 66][level];
+  const topY = 94 - stemH;
+  const grass = [2, 4, 5, 6, 8][level];
+  const parts = [];
+
+  // 泥土
+  parts.push(`<ellipse cx="30" cy="95" rx="23" ry="4.5" fill="#EAD9B5" stroke="${INK}" stroke-width="1.8"/>`);
+
+  // 草丛（底部）
+  for (let i = 0; i < grass; i += 1) {
+    const x = 8 + i * (44 / Math.max(1, grass - 1));
+    const h = 7 + (i % 3) * 3;
+    const sway = i % 2 ? -4 : 4;
+    parts.push(`<path d="M${x} 95 q${sway} -${h} ${sway / 2} -${h + 5}" stroke="${ROSE_LEAF[i % ROSE_LEAF.length]}" stroke-width="2" stroke-linecap="round" fill="none"/>`);
+  }
+
+  // 花茎
+  if (stemH > 0) {
+    parts.push(`<path d="M30 ${topY + 2} v${stemH - 3}" stroke="${ROSE_STEM[0]}" stroke-width="3" stroke-linecap="round"/>`);
+  }
+
+  // 叶子（茎两侧，级别越高叶越多）
+  if (level >= 2) {
+    const leafY = [0.35, 0.62];
+    leafY.forEach((ratio, i) => {
+      const y = topY + stemH * ratio;
+      const side = i % 2 === 0 ? -1 : 1;
+      const reach = 7 + level * 1.4;
+      parts.push(`<path d="M30 ${y} q${side * reach} ${-2 - i} ${side * (reach + 3)} ${-6 - i * 2}" stroke="${ROSE_LEAF[(i + 1) % ROSE_LEAF.length]}" stroke-width="2.2" stroke-linecap="round" fill="none"/>`);
+      parts.push(`<path d="M30 ${y} q${side * reach * -0.4} ${3 + i} ${side * (reach + 3) * -0.6} ${6 + i * 2}" stroke="${ROSE_LEAF[(i + 2) % ROSE_LEAF.length]}" stroke-width="2" stroke-linecap="round" fill="none"/>`);
+    });
+  }
+
+  // 玫瑰（花苞 → 初开 → 盛开）
+  if (level === 1) {
+    parts.push(`<path d="M30 ${topY} c-2.6 -3.6 2.6 -5 0 -9" stroke="${ROSE_BLOOM_OUTER[0]}" stroke-width="2" fill="#F4C9C5"/>`);
+  } else if (level === 2) {
+    parts.push(roseBlossom(30, topY, 0.8));
+  } else if (level >= 3) {
+    parts.push(roseBlossom(30, topY, 1.05));
+    if (level >= 4) {
+      parts.push(roseBlossom(16, 82, 0.55));
+      parts.push(roseBlossom(44, 84, 0.55));
+    }
+  }
+
+  return `<svg class="garden-plant ${className}" viewBox="0 0 60 100" fill="none" aria-hidden="true">${parts.join('')}</svg>`;
+}

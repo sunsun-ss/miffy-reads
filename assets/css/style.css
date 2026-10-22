@@ -2731,6 +2731,98 @@ body.is-reader {
   letter-spacing: -0.5px;
 }
 
+/* ---------- 阅读时长花园 ---------- */
+
+.garden-card {
+  margin-top: 22px;
+  padding: 24px;
+  background: var(--paper);
+  border: 2.5px solid var(--ink);
+  border-radius: 26px;
+  box-shadow: 5px 5px 0 var(--ink);
+}
+
+.garden-week-total {
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.garden-row {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.garden-day {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  padding: 8px 4px 10px;
+  border-radius: 16px;
+  transition: background 0.2s ease;
+}
+
+.garden-day.is-today {
+  background: var(--yellow);
+}
+
+.garden-plot {
+  display: grid;
+  place-items: end center;
+  width: 100%;
+  height: 112px;
+}
+
+.garden-plant {
+  width: 100%;
+  max-width: 64px;
+  height: 100%;
+  overflow: visible;
+}
+
+.garden-day-label {
+  font-size: 10px;
+  font-weight: 800;
+  color: var(--ink);
+}
+
+.garden-day-time {
+  font-size: 8.5px;
+  font-weight: 700;
+  color: var(--muted);
+  min-height: 12px;
+  text-align: center;
+}
+
+.garden-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1.5px dashed rgba(42, 38, 32, 0.18);
+}
+
+.garden-today {
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--muted);
+}
+
+.garden-export {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.btn-icon-only {
+  padding: 7px 9px;
+}
+
 .heat-legend {
   display: flex;
   align-items: center;
@@ -3782,7 +3874,8 @@ body.is-reader {
   }
 
   .heat-card,
-  .milestone-card {
+  .milestone-card,
+  .garden-card {
     padding: 18px;
     border-radius: 22px;
   }
@@ -3790,6 +3883,39 @@ body.is-reader {
   .heat-card {
     --cell: 13px;
     --gap: 3px;
+  }
+
+  .garden-card {
+    margin-top: 18px;
+  }
+
+  .garden-row {
+    gap: 2px;
+  }
+
+  .garden-day {
+    padding: 6px 2px 8px;
+  }
+
+  .garden-plot {
+    height: 96px;
+  }
+
+  .garden-plant {
+    max-width: 52px;
+  }
+
+  .garden-day-time {
+    font-size: 7.5px;
+  }
+
+  .garden-foot {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .garden-export {
+    flex-wrap: wrap;
   }
 
   .heat-head {

@@ -10,6 +10,7 @@ const DEFAULT_STATE = {
   bookmarks: [],
   reads: {},
   days: {},
+  dayTime: {},
   fontSize: 20,
 };
 
@@ -35,6 +36,7 @@ function loadState() {
       bookmarks: Array.isArray(parsed.bookmarks) ? parsed.bookmarks : [],
       reads: parsed.reads && typeof parsed.reads === 'object' ? parsed.reads : {},
       days: parsed.days && typeof parsed.days === 'object' ? parsed.days : {},
+      dayTime: parsed.dayTime && typeof parsed.dayTime === 'object' ? parsed.dayTime : {},
       fontSize: Number.isFinite(num) ? Math.min(26, Math.max(16, num)) : 20,
     };
   } catch {
@@ -213,6 +215,73 @@ export function getFinishedIds() {
   return Object.keys(state.reads)
     .filter((id) => state.reads[id]?.finishedAt)
     .sort((a, b) => String(state.reads[b].finishedAt).localeCompare(String(state.reads[a].finishedAt)));
+}
+
+/* ---------- reading time ---------- */
+
+let activeReading = null; // { id, startedAt }
+
+/** 打开一篇文章时开始计时（若上一段未结束先结算）。 */
+export function startReading(id) {
+  if (!id) return;
+  if (activeReading && activeReading.id === id) return;
+  if (activeReading) endReading();
+  activeReading = { id, startedAt: Date.now() };
+}
+
+/** 退出文章时结算计时，把秒数累加到文章与当天。 */
+export function endReading() {
+  if (!activeReading) return;
+  const seconds = Math.max(0, Math.round((Date.now() - activeReading.startedAt) / 1000));
+  if (seconds > 0) {
+    const id = activeReading.id;
+    const current = state.reads[id] || {};
+    current.seconds = (current.seconds || 0) + seconds;
+    current.lastReadAt = new Date().toISOString();
+    state.reads[id] = current;
+    const key = dateKey();
+    state.dayTime[key] = (state.dayTime[key] || 0) + seconds;
+    persist();
+  }
+  activeReading = null;
+}
+
+/** 某天累计阅读秒数。 */
+export function getDayTime(key) {
+  return Number(state.dayTime[key]) || 0;
+}
+
+/** 某月每天的阅读秒数，返回 [{ key, seconds }]。month 为 1-12。 */
+export function getMonthTimes(year, month) {
+  const daysInMonth = new Date(year, month, 0).getDate();
+  const rows = [];
+  for (let d = 1; d <= daysInMonth; d += 1) {
+    const key = `${year}-${String(month).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
+    rows.push({ key, seconds: getDayTime(key) });
+  }
+  return rows;
+}
+
+/** 秒 → 简洁中文时长（"1小时23分钟" / "12分钟"）。 */
+export function formatDuration(seconds) {
+  const total = Math.max(0, Math.round(Number(seconds) || 0));
+  const h = Math.floor(total / 3600);
+  const m = Math.round((total % 3600) / 60);
+  if (h > 0 && m > 0) return `${h} 小时 ${m} 分钟`;
+  if (h > 0) return `${h} 小时`;
+  if (m > 0) return `${m} 分钟`;
+  return '不足 1 分钟';
+}
+
+/** 秒 → 精确时钟（"23分05秒"）。 */
+export function formatClock(seconds) {
+  const total = Math.max(0, Math.round(Number(seconds) || 0));
+  const h = Math.floor(total / 3600);
+  const m = Math.floor((total % 3600) / 60);
+  const s = total % 60;
+  if (h > 0) return `${h}时${String(m).padStart(2, '0')}分`;
+  if (m > 0) return `${m}分${String(s).padStart(2, '0')}秒`;
+  return `${s} 秒`;
 }
 
 /* ---------- bookmarks ---------- */

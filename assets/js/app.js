@@ -6,6 +6,7 @@ import {
   bunnyShelf,
   flowerSvg,
   coverArt,
+  rosePlant,
 } from './art.js';
 import { loadArticles, buildIssue, categoryOrder } from './data.js';
 import * as store from './store.js';
@@ -46,6 +47,7 @@ const app = {
     wordGroup: 'date',
     wordQuery: '',
     quoteQuery: '',
+    exportMonthKey: '',
   },
   cleanup: [],
   pendingQuote: null,
@@ -581,6 +583,8 @@ function renderReader(id) {
 
   app.currentArticle = article;
   store.saveSnapshot(article);
+  store.startReading(article.id);
+  onCleanup(() => store.endReading());
   const analyzed = analyzeArticle(article, store.savedWordKeys());
   const saved = store.isBookmarked(article.id);
   const read = store.getRead(article.id);
@@ -1134,6 +1138,96 @@ function closeOverlay() {
 
 /* ---------------------------------------------------------- check-in page */
 
+/** 本周（周一起）七天：日期 key、周几、阅读秒数。 */
+function weekTimeRows() {
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const monday = mondayOf(today);
+  const labels = ['周一', '周二', '周三', '周四', '周五', '周六', '周日'];
+  return labels.map((label, i) => {
+    const date = new Date(monday);
+    date.setDate(monday.getDate() + i);
+    const key = store.dateKey(date);
+    return { key, label, seconds: store.getDayTime(key), isToday: key === store.dateKey() };
+  });
+}
+
+function currentMonthKey() {
+  const now = new Date();
+  return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
+}
+
+function exportMonth() {
+  const key = app.ui.exportMonthKey || currentMonthKey();
+  const [y, m] = key.split('-').map(Number);
+  const rows = store.getMonthTimes(y, m);
+  const total = rows.reduce((sum, r) => sum + r.seconds, 0);
+  const activeDays = rows.filter((r) => r.seconds > 0).length;
+  const head = [
+    'Miffy Reads · 米菲读读 阅读时长记录',
+    `月份：${y} 年 ${m} 月`,
+    `导出日期：${store.dateKey()}`,
+    '----------------------------------------',
+    '日期              阅读时长',
+  ];
+  const body = rows.map((r) => {
+    const [year, month, day] = r.key.split('-');
+    return `${r.key}   ${r.seconds > 0 ? store.formatClock(r.seconds) : '未阅读'}`;
+  });
+  const foot = [
+    '----------------------------------------',
+    `本月累计：${store.formatDuration(total)}（${total} 秒）`,
+    `有阅读天数：${activeDays} 天`,
+    `日均：${activeDays ? store.formatDuration(Math.round(total / activeDays)) : '—'}`,
+    '',
+    '每天一点点，慢慢读，比较快。',
+  ];
+  downloadTextFile(`miffy-reading-time-${key}.txt`, [...head, ...body, ...foot].join('\r\n'));
+  toast('本月阅读时长已导出', 'download');
+}
+
+function shiftExportMonth(offset) {
+  const key = app.ui.exportMonthKey || currentMonthKey();
+  const [y, m] = key.split('-').map(Number);
+  const date = new Date(y, m - 1 + offset, 1);
+  app.ui.exportMonthKey = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+  renderRouteContent({ keepScroll: true });
+}
+
+/** 本周阅读时长板块：花草随时长增高繁茂。 */
+function renderWeekGarden() {
+  const rows = weekTimeRows();
+  const weekTotal = rows.reduce((sum, r) => sum + r.seconds, 0);
+  const today = rows.find((r) => r.isToday) || rows[rows.length - 1];
+  const monthKey = app.ui.exportMonthKey || currentMonthKey();
+  const [my, mm] = monthKey.split('-').map(Number);
+  const monthLabel = `${my} 年 ${mm} 月`;
+  return `<section class="garden-card">
+    <div class="heat-head">
+      <div>
+        <p class="eyebrow">WEEKLY READING TIME</p>
+        <h2>阅读时长花园</h2>
+      </div>
+      <p class="garden-week-total">本周共读 ${store.formatDuration(weekTotal)}</p>
+    </div>
+    <div class="garden-row">
+      ${rows.map((row) => `<div class="garden-day ${row.isToday ? 'is-today' : ''}" title="${row.label} ${row.seconds > 0 ? store.formatDuration(row.seconds) : '还没读'}" data-day="${row.key}" data-seconds="${row.seconds}">
+        <div class="garden-plot">${rosePlant(row.seconds)}</div>
+        <span class="garden-day-label">${row.label}</span>
+        <span class="garden-day-time">${row.seconds > 0 ? store.formatDuration(row.seconds) : '—'}</span>
+      </div>`).join('')}
+    </div>
+    <div class="garden-foot">
+      <span class="garden-today">今天已读 ${store.formatDuration(today.seconds)}</span>
+      <div class="garden-export">
+        <button class="btn btn-ghost btn-icon-only" data-act="month-prev" aria-label="上个月" title="上个月">${icon('arrowLeft', 15)}</button>
+        <button class="btn btn-ghost btn-small" data-act="export-month">${icon('download', 15)} 导出 ${esc(monthLabel)}</button>
+        <button class="btn btn-ghost btn-icon-only" data-act="month-next" aria-label="下个月" title="下个月">${icon('arrowRight', 15)}</button>
+      </div>
+    </div>
+  </section>`;
+}
+
 function renderCheckinPage() {
   const stats = store.getStats();
   const checked = store.isCheckedToday();
@@ -1188,6 +1282,8 @@ function renderCheckinPage() {
           <span>${label}</span>
         </div>`).join('')}
       </div>
+
+      ${renderWeekGarden()}
 
       <section class="heat-card">
         <div class="heat-head">
@@ -1590,6 +1686,7 @@ function bindGlobalEvents() {
   document.addEventListener('click', onDocumentClick);
   document.addEventListener('input', onDocumentInput);
   document.addEventListener('keydown', onDocumentKeydown);
+  window.addEventListener('pagehide', () => store.endReading());
 }
 
 function onDocumentClick(event) {
@@ -1901,6 +1998,21 @@ function handleAction(element, event) {
     case 'export-words': {
       event.preventDefault();
       exportWords();
+      break;
+    }
+    case 'month-prev': {
+      event.preventDefault();
+      shiftExportMonth(-1);
+      break;
+    }
+    case 'month-next': {
+      event.preventDefault();
+      shiftExportMonth(1);
+      break;
+    }
+    case 'export-month': {
+      event.preventDefault();
+      exportMonth();
       break;
     }
     case 'save-quote': {
