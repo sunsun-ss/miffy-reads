@@ -1225,6 +1225,14 @@ function renderWeekGarden() {
         <button class="btn btn-ghost btn-icon-only" data-act="month-next" aria-label="下个月" title="下个月">${icon('arrowRight', 15)}</button>
       </div>
     </div>
+    <div class="garden-legend">
+      <div class="legend-plant">${rosePlant(2700)}</div>
+      <div class="legend-copy">
+        <p class="legend-title">满级玫瑰</p>
+        <p class="legend-desc">每天读满 45 分钟，玫瑰就会为你盛开。</p>
+        <p class="legend-quote">「每天一点点，慢慢读，比较快。」</p>
+      </div>
+    </div>
   </section>`;
 }
 
