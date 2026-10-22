@@ -1226,10 +1226,10 @@ function renderWeekGarden() {
       </div>
     </div>
     <div class="garden-legend">
-      <div class="legend-plant">${rosePlant(2700)}</div>
+      <div class="legend-plant">${rosePlant(900)}</div>
       <div class="legend-copy">
         <p class="legend-title">满级玫瑰</p>
-        <p class="legend-desc">每天读满 45 分钟，玫瑰就会为你盛开。</p>
+        <p class="legend-desc">每天读满 15 分钟，玫瑰就会为你盛开。</p>
         <p class="legend-quote">「每天一点点，慢慢读，比较快。」</p>
       </div>
     </div>

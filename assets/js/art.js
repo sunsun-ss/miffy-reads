@@ -359,12 +359,12 @@ function roseBlossom(cx, cy, scale = 1) {
 /**
  * 一棵「阅读时长花草」：泥土 + 草丛 + 花茎 + 叶子 + 玫瑰。
  * seconds 越多，茎越高、草越密、玫瑰越繁茂。
- * 分级：0 秒 → 空土；<5min → 嫩芽；<20min → 小苗；
- *       <45min → 茎叶玫瑰初开；≥45min → 大玫瑰加繁茂草丛。
+ * 分级：0 秒 → 空土；<5min → 嫩芽；<10min → 小苗；
+ *       <15min → 茎叶玫瑰初开；≥15min → 大玫瑰加繁茂草丛。
  */
 export function rosePlant(seconds = 0, className = '') {
   const secs = Math.max(0, Math.round(Number(seconds) || 0));
-  const level = secs <= 0 ? 0 : secs < 300 ? 1 : secs < 1200 ? 2 : secs < 2700 ? 3 : 4;
+  const level = secs <= 0 ? 0 : secs < 300 ? 1 : secs < 600 ? 2 : secs < 900 ? 3 : 4;
   const stemH = [0, 20, 36, 52, 66][level];
   const topY = 94 - stemH;
   const grass = [2, 4, 5, 6, 8][level];
