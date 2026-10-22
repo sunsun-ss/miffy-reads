@@ -2,8 +2,9 @@ name: Update daily reading
 
 on:
   schedule:
-    # 22:10 UTC = 次日 06:10（北京时间）
-    - cron: '10 22 * * *'
+    # 18:00 UTC = 次日 02:00（北京时间）。提前到凌晨执行，
+    # 避免 GitHub Actions 调度延迟导致早上还看不到当天文章。
+    - cron: '0 18 * * *'
   workflow_dispatch:
 
 permissions:

@@ -71,10 +71,12 @@ export async function loadArticles() {
 export function buildIssue(articles) {
   const editorials = articles.filter((a) => !a.external);
   const external = articles.filter((a) => a.external);
+  // 期刊容量：当天文章优先，允许 10-30 篇；不足时用编辑部精选补齐
+  const ISSUE_SIZE = 30;
   const fresh = articles
     .filter((a) => a.daily)
     .sort(sortNewest)
-    .slice(0, 10);
+    .slice(0, ISSUE_SIZE);
   const newestDate = articles.reduce((latest, a) => (a.date > latest ? a.date : latest), '');
   const batchDate = fresh[0]?.batchDate || '';
 
@@ -85,7 +87,7 @@ export function buildIssue(articles) {
     used.add(article.id);
   }
 
-  if (issue.length < 10) {
+  if (issue.length < ISSUE_SIZE) {
     const dayIndex = Math.floor(Date.now() / 86_400_000);
     const featured = editorials.find((a) => a.featured);
     const others = editorials.filter((a) => !a.featured).sort(sortNewest);
@@ -95,16 +97,16 @@ export function buildIssue(articles) {
     const rotated = [...rest.slice(start), ...rest.slice(0, start)];
     const picks = [featured, ...fixed, ...rotated].filter(Boolean);
     for (const article of picks) {
-      if (issue.length >= 10) break;
+      if (issue.length >= ISSUE_SIZE) break;
       if (used.has(article.id)) continue;
       issue.push(article);
       used.add(article.id);
     }
   }
 
-  if (issue.length < 10) {
+  if (issue.length < ISSUE_SIZE) {
     for (const article of articles) {
-      if (issue.length >= 10) break;
+      if (issue.length >= ISSUE_SIZE) break;
       if (used.has(article.id)) continue;
       issue.push(article);
       used.add(article.id);

@@ -28,7 +28,17 @@ const SOURCES = [
     license: 'Public Domain',
     licenseLabel: '公有领域',
     allowTrim: true,
-    take: 8,
+    take: 12,
+    defaultCategory: '科学',
+  },
+  {
+    id: 'nasa-news',
+    name: 'NASA News',
+    feed: 'https://www.nasa.gov/news-release/feed/',
+    license: 'Public Domain',
+    licenseLabel: '公有领域',
+    allowTrim: true,
+    take: 10,
     defaultCategory: '科学',
   },
   {
@@ -38,8 +48,30 @@ const SOURCES = [
     license: 'CC BY-ND 4.0',
     licenseLabel: 'CC BY-ND 4.0',
     allowTrim: false,
-    take: 4,
+    take: 6,
     defaultCategory: '社会',
+  },
+  {
+    id: 'scitechdaily',
+    name: 'SciTechDaily',
+    feed: 'https://scitechdaily.com/feed/',
+    license: 'Free daily tech news',
+    licenseLabel: '免费日更科技资讯',
+    allowTrim: true,
+    take: 12,
+    fetchBody: true,
+    defaultCategory: '科技',
+  },
+  {
+    id: 'phys',
+    name: 'Phys.org',
+    feed: 'https://phys.org/rss-feed/',
+    license: 'Free daily science news',
+    licenseLabel: '免费日更科学资讯',
+    allowTrim: true,
+    take: 12,
+    fetchBody: true,
+    defaultCategory: '科学',
   },
 ];
 
@@ -60,6 +92,30 @@ function styleFor(category, title) {
   return options[hash % options.length];
 }
 
+// 命中即「跳过该段继续解析」（正文中段的噪声，如免责声明、署名、引用）
+const SKIP_PARAGRAPH = [
+  /^this article has been reviewed according to/i, // Phys.org 免责声明
+  /^provided by/i,                                 // 来源署名行
+  /^citation:/i,                                   // Phys.org 引用
+  /\. DOI: /,                                      // DOI 引用行
+  /^bsc /i,                                        // Phys.org 作者简介
+  /^msc /i,
+  /^phd /i,
+  /^master'?s /i,
+  /^full profile/i,
+  /^disclaimer/i,
+  /^research experience/i,
+  /^science news enthusiast/i,
+  /^this summary was automatically generated using llm/i,   // Phys.org LLM 摘要
+  /^use this form if you have come across/i,                 // Phys.org 反馈表单引导
+  /^we keep our content available to everyone/i,             // Phys.org 支持页脚
+  /^consider supporting science x/i,
+  /^provided by sciencedaily/i,
+  /^original written by/i,
+  /^your feedback will/i,
+];
+
+// 命中即「终止解析」（文章正文到此结束，通常位于末尾）
 const STOP_PARAGRAPH = [
   /^stay up[- ]to[- ]date/i,
   /^for more information/i,
@@ -164,11 +220,13 @@ function htmlToParagraphs(html) {
     let text = decodeEntities(raw.replace(/<[^>]+>/g, ' '))
       .replace(/\u00a0/g, ' ')
       .replace(/[\u200b-\u200d\ufeff]/g, '')
+      .replace(/(\d+)\s*\.\s+(\d+)/g, (m, int, dec) => `${int}.${dec}`)   // 修复 "2. 4" -> "2.4"（Phys.org 数字空格）
       .replace(/\s+/g, ' ')
       .trim();
     if (text.length < 55) continue;
     if (!/[A-Za-z]{3}/.test(text)) continue;
     if (/^https?:\/\//i.test(text)) continue;
+    if (SKIP_PARAGRAPH.some((re) => re.test(text))) continue;
     if (STOP_PARAGRAPH.some((re) => re.test(text))) break;
     text = stripCreditSentences(text);
     if (text.length < 55) continue;
@@ -184,6 +242,27 @@ function htmlToParagraphs(html) {
 
 function countWords(paragraphs) {
   return paragraphs.join(' ').split(/\s+/).filter(Boolean).length;
+}
+
+/**
+ * 抓取文章详情页正文（适用于 RSS 只提供摘要、页面有完整正文的源，
+ * 例如 SciTechDaily / Phys.org）。返回与 htmlToParagraphs 相同格式的段落数组。
+ */
+async function fetchArticleBody(url) {
+  try {
+    const res = await fetch(url, {
+      headers: { 'user-agent': USER_AGENT, accept: 'text/html,application/xhtml+xml;q=0.9,*/*;q=0.8' },
+      signal: AbortSignal.timeout(25_000),
+      redirect: 'follow',
+    });
+    if (!res.ok) return [];
+    const html = await res.text();
+    // 从全部 <p> 标签提取正文，再复用 htmlToParagraphs 的清洗流程
+    const paragraphs = htmlToParagraphs(html);
+    return paragraphs;
+  } catch {
+    return [];
+  }
 }
 
 function trimStory(paragraphs, maxWords = 720) {
@@ -204,8 +283,12 @@ function makeDek(paragraphs, fallback = '') {
   if (!first) return '';
   const clean = first.replace(/\s+/g, ' ').trim();
   if (clean.length <= 180) return clean;
+  // 避开数字后的句点（如 "2. 4-kilometer"），只按句子边界截断
+  const sentenceEnds = [...clean.matchAll(/(?<![0-9])[.!?]["”']?(?=\s+[A-Z0-9“”'"])|(?<![0-9])[.!?]["”']?$/g)];
+  if (!sentenceEnds.length) return clean.slice(0, 175).replace(/\s+\S*$/, '') + '…';
   const cut = clean.slice(0, 175);
-  const stop = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
+  const cutMatch = [...cut.matchAll(/(?<![0-9])[.!?]["”']?(?=\s+[A-Z0-9“”'"])/g)];
+  const stop = cutMatch.length ? cutMatch[cutMatch.length - 1].index + 1 : -1;
   return (stop > 60 ? cut.slice(0, stop + 1) : cut.replace(/\s+\S*$/, '') + '…');
 }
 
@@ -278,7 +361,8 @@ function extractItems(xml, source) {
     const paragraphs = htmlToParagraphs(contentRaw || summaryRaw);
     if (!paragraphs.length) continue;
     const words = countWords(paragraphs);
-    if (words < 140) continue;
+    // fetchBody 源会抓详情页正文补足字数，RSS 摘要阶段放宽门槛
+    if (!source.fetchBody && words < 140) continue;
 
     const titleIsApod = /^APOD\b/i.test(title);
     if (titleIsApod) continue;
@@ -303,7 +387,7 @@ function extractItems(xml, source) {
       dek,
       category,
       tags: [source.name],
-      date: publishedAt.slice(0, 10),
+      date: shanghaiDateKey(new Date(publishedAt)),
       publishedAt,
       source: {
         name: source.name,
@@ -327,12 +411,32 @@ async function fetchFeed(source) {
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const xml = await res.text();
-  const items = extractItems(xml, source);
+  let items = extractItems(xml, source);
+
+  // fetchBody 源：RSS 只有摘要，逐个抓详情页补全正文；失败则剔除。
+  // 先按 take 裁剪候选，避免为远超需要的文章抓取页面。
+  items = items.slice(0, source.take * 2);
+  if (source.fetchBody && items.length) {
+    const filled = [];
+    for (const item of items) {
+      const body = await fetchArticleBody(item.source.url);
+      if (!body.length) continue;
+      const words = countWords(body);
+      if (words < 140) continue;
+      const finalParagraphs = source.allowTrim ? trimStory(body) : body.slice(0, 24);
+      item.paragraphs = finalParagraphs;
+      item.dek = makeDek(finalParagraphs, '');
+      filled.push(item);
+    }
+    items = filled;
+    console.log(`[body] ${source.name}: ${items.length} 篇正文抓取成功`);
+  }
+
   if (!items.length) throw new Error('no usable items');
-  return items.slice(0, source.take * 2);
+  return items;
 }
 
-function interleave(pools, limit = 10) {
+function interleave(pools, limit = 10, preferToday = false) {
   const picked = [];
   const seen = new Set();
   const take = (item) => {
@@ -341,13 +445,25 @@ function interleave(pools, limit = 10) {
     picked.push(item);
     return true;
   };
-  const queues = pools.map((p) => p.slice());
+
+  const today = preferToday ? shanghaiDateKey() : null;
+  // 每个源的候选按「是否当天」分成两个队列：当天优先，其余在后
+  const queues = pools.map((p) => {
+    const list = p.slice().sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+    if (!today) return [list];
+    const fresh = list.filter((x) => x.date === today);
+    const rest = list.filter((x) => x.date !== today);
+    return [fresh, rest].filter((q) => q.length);
+  });
+
   let added = true;
   while (picked.length < limit && added) {
     added = false;
-    for (const q of queues) {
+    for (const sourceQueues of queues) {
       if (picked.length >= limit) break;
-      if (q.length && take(q.shift())) added = true;
+      // 优先取每个源的「当天」队列
+      if (sourceQueues[0]?.length && take(sourceQueues[0].shift())) added = true;
+      else if (sourceQueues.length > 1 && sourceQueues[1].length && take(sourceQueues[1].shift())) added = true;
     }
   }
   if (picked.length < limit) {
@@ -393,7 +509,8 @@ async function main() {
     }
   }
 
-  let articles = interleave(pools, 10);
+  // 期刊容量：当天文章优先，不足时用最近（昨天等）文章兜底，保留用户未读内容
+  let articles = interleave(pools, 30, true);
   if (!articles.length) {
     console.error('没有抓到可用文章，保留现有数据。');
     process.exitCode = 1;

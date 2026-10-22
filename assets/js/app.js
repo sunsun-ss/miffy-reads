@@ -50,7 +50,10 @@ const app = {
   cleanup: [],
   pendingQuote: null,
   previousRoute: null,
+  hubRoute: null,
   hasRendered: false,
+  isTouch: false,
+  suppressClick: false,
   lookup: null,
   lookupToken: 0,
   refreshReaderProgress: null,
@@ -60,6 +63,7 @@ init();
 
 function init() {
   if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+  app.isTouch = window.matchMedia('(hover: none), (pointer: coarse)').matches;
   document.documentElement.style.setProperty('--reader-size', `${store.state.fontSize}px`);
   bindGlobalEvents();
   boot();
@@ -283,7 +287,10 @@ function onRouteChange() {
   closeOverlay();
   closeTagEditor();
   clearToast();
-  if (app.hasRendered) app.previousRoute = { ...app.route };
+  if (app.hasRendered) {
+    if (app.route.name !== 'read') app.hubRoute = { ...app.route };
+    app.previousRoute = { ...app.route };
+  }
   app.route = parseRoute();
   app.hasRendered = true;
   app.currentArticle = null;
@@ -702,7 +709,6 @@ function bindReader(article, readState) {
   };
 
   const onScroll = () => {
-    if (app.pendingQuote) hideSelection();
     if (ticking) return;
     ticking = true;
     requestAnimationFrame(update);
@@ -721,39 +727,48 @@ function bindReader(article, readState) {
   });
 
   const onSelect = () => {
-    setTimeout(() => showSelectionBubble(article, prose), 10);
+    const selection = window.getSelection();
+    if (!selection || selection.isCollapsed || !selection.rangeCount) return;
+    const range = selection.getRangeAt(0);
+    if (!prose.contains(range.commonAncestorContainer)) return;
+    const text = selection.toString().replace(/\s+/g, ' ').trim();
+    if (text.length < 6) return;
+    if (app.isTouch) {
+      app.suppressClick = true;
+      clearTimeout(app._suppressClickTimer);
+      app._suppressClickTimer = setTimeout(() => { app.suppressClick = false; }, 350);
+    }
+    setTimeout(() => showSelectionBubble(article, prose, text), 10);
   };
   prose.addEventListener('mouseup', onSelect);
   prose.addEventListener('touchend', onSelect);
+  document.addEventListener('selectionchange', onSelect);
 
   onCleanup(() => {
     window.removeEventListener('scroll', onScroll);
     prose.removeEventListener('mouseup', onSelect);
     prose.removeEventListener('touchend', onSelect);
+    document.removeEventListener('selectionchange', onSelect);
+    app.suppressClick = false;
     const max = document.documentElement.scrollHeight - window.innerHeight;
     const progress = max > 0 ? Math.min(100, Math.max(0, Math.round((window.scrollY / max) * 100))) : 0;
     store.setProgress(article.id, progress);
   });
 }
 
-function showSelectionBubble(article, prose) {
+function showSelectionBubble(article, prose, cachedText = '') {
   const selection = window.getSelection();
-  if (!selection || selection.isCollapsed || !selection.rangeCount) {
+  const text = cachedText || (selection && !selection.isCollapsed ? selection.toString().replace(/\s+/g, ' ').trim() : '');
+  if (text.length < 6) {
     hideSelection();
     return;
   }
-  const text = selection.toString().replace(/\s+/g, ' ').trim();
-  if (text.length < 12) {
+  const range = selection && selection.rangeCount ? selection.getRangeAt(0) : null;
+  if (range && !prose.contains(range.commonAncestorContainer)) {
     hideSelection();
     return;
   }
-  const range = selection.getRangeAt(0);
-  if (!prose.contains(range.commonAncestorContainer)) {
-    hideSelection();
-    return;
-  }
-  const rect = range.getBoundingClientRect();
-  if (!rect.width && !rect.height) return;
+  const rect = range ? range.getBoundingClientRect() : null;
   if (document.querySelector('.word-pop')) closeWordPop();
   app.pendingQuote = { text, articleId: article.id, articleTitle: article.title };
 
@@ -766,7 +781,7 @@ function showSelectionBubble(article, prose) {
     document.body.appendChild(bubble);
   }
   bubble.hidden = false;
-  if (window.innerWidth <= 680) {
+  if (window.innerWidth <= 680 || !rect) {
     bubble.style.left = '50%';
     bubble.style.top = 'auto';
     bubble.style.bottom = '88px';
@@ -990,9 +1005,7 @@ function toggleCurrentWord() {
     articleTitle,
   });
   app.lookup.saved = result.saved;
-  document.querySelectorAll('.cet6-word, .saved-word').forEach((el) => {
-    if (el.dataset.base === base) el.classList.toggle('is-saved', result.saved);
-  });
+  refreshReaderWords();
   const button = document.querySelector('.pop-add');
   if (button) {
     button.classList.toggle('is-saved', result.saved);
@@ -1001,6 +1014,36 @@ function toggleCurrentWord() {
       : `${icon('plus', 16)} 加入生词本`;
   }
   toast(result.saved ? '收进生词本啦' : '已从生词本取出', result.saved ? 'words' : 'trash');
+}
+
+function refreshReaderWords() {
+  if (app.route.name !== 'read' || !app.currentArticle) return;
+  const prose = document.getElementById('prose');
+  if (!prose) return;
+  const y = window.scrollY;
+  const analyzed = analyzeArticle(app.currentArticle, store.savedWordKeys());
+  const translations = new Map();
+  prose.querySelectorAll('.para-block').forEach((block) => {
+    const index = block.dataset.paraIndex;
+    const panel = block.querySelector('.para-translation');
+    if (panel) {
+      translations.set(index, {
+        hidden: panel.hidden,
+        html: panel.innerHTML,
+      });
+    }
+  });
+  prose.querySelectorAll('.para-block').forEach((block, index) => {
+    const paragraph = block.querySelector('p');
+    if (paragraph && analyzed.html[index] != null) paragraph.innerHTML = analyzed.html[index];
+    const panel = block.querySelector('.para-translation');
+    const state = translations.get(block.dataset.paraIndex);
+    if (panel && state) {
+      panel.hidden = state.hidden;
+      panel.innerHTML = state.html;
+    }
+  });
+  window.scrollTo(0, y);
 }
 
 function playCurrentWord() {
@@ -1550,18 +1593,30 @@ function bindGlobalEvents() {
 }
 
 function onDocumentClick(event) {
+  if (app.suppressClick && !event.target.closest('#sel-bubble')) {
+    app.suppressClick = false;
+    return;
+  }
+  app.suppressClick = false;
+  const internalLink = event.target.closest('a[href^="#/read/"]');
+  if (internalLink && app.route.name === 'read') {
+    event.preventDefault();
+    location.replace(internalLink.getAttribute('href'));
+    return;
+  }
   const actionEl = event.target.closest('[data-act]');
   if (actionEl) {
     handleAction(actionEl, event);
     return;
   }
-  const wordEl = event.target.closest('.cet6-word, .saved-word');
+  const pendingBubble = Boolean(app.pendingQuote && document.getElementById('sel-bubble') && !document.getElementById('sel-bubble').hidden);
+  const wordEl = pendingBubble ? null : event.target.closest('.cet6-word, .saved-word');
   if (wordEl) {
     event.preventDefault();
     openWordPop(wordEl);
     return;
   }
-  if (app.route.name === 'read' && event.target.closest('#prose') && !event.target.closest('.cet6-word, .saved-word')) {
+  if (!pendingBubble && app.route.name === 'read' && event.target.closest('#prose') && !event.target.closest('.cet6-word, .saved-word')) {
     const selection = window.getSelection();
     if (!selection || selection.isCollapsed) {
       const hit = wordAtPoint(event.clientX, event.clientY);
@@ -1572,7 +1627,9 @@ function onDocumentClick(event) {
       }
     }
   }
-  if (!event.target.closest('.word-pop') && !event.target.closest('.sel-bubble')) {
+  const currentSelection = window.getSelection();
+  const hasActiveSelection = Boolean(app.pendingQuote && currentSelection && !currentSelection.isCollapsed && currentSelection.rangeCount > 0);
+  if (!event.target.closest('.word-pop') && !event.target.closest('.sel-bubble') && !hasActiveSelection) {
     closeWordPop();
     hideSelection();
   }
@@ -1646,13 +1703,8 @@ function handleAction(element, event) {
     }
     case 'back': {
       event.preventDefault();
-      if (app.previousRoute) {
-        const target = app.previousRoute;
-        app.previousRoute = null;
-        location.hash = routeHash(target);
-      } else {
-        location.hash = '#/';
-      }
+      const target = app.hubRoute || { name: 'feed' };
+      location.replace(routeHash(target));
       break;
     }
     case 'font': {
@@ -1744,7 +1796,7 @@ function handleAction(element, event) {
     case 'goto-checkin': {
       event.preventDefault();
       closeOverlay();
-      location.hash = '#/checkin';
+      location.replace('#/checkin');
       break;
     }
     case 'filter': {
