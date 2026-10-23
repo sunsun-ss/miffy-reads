@@ -1,0 +1,1110 @@
+{
+  "generatedAt": "2026-10-23T21:04:04.564Z",
+  "date": "2026-10-24",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-its-pretty-toxic-but-just-a-little-i-want-to-be-like-that-",
+      "title": "'It's pretty toxic… but just a little, I want to be like that': What young men think of manosphere content",
+      "dek": "by Krista Fisher, Emily Lewis, Vivian Gerrand, Zac Seidler, The Conversation",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T21:00:17.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-pretty-toxic-young-men-manosphere.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "by Krista Fisher, Emily Lewis, Vivian Gerrand, Zac Seidler, The Conversation",
+        "Masculinity content promises young men self-optimization and success, but often delivers health harms, risk-taking, unattainable standards, gender stereotypes and misogyny. The latter is the strongest predictor of violent extremism .",
+        "Policymakers, advocates, teachers and parents are all calling for change. But young men are often absent from these conversations and calls for solutions .",
+        "Our new research brings their perspectives into the story.",
+        "We asked 142 young men ages 16 to 25 in Australia, the United Kingdom and the United States what they think and how they make sense of masculinity content on social media. Their verdict: \"Some of it's fucked, some of it's useful.\"",
+        "These young men described being pulled in multiple directions and valuing practical self-help advice. At the same time, they critiqued \"toxic\" messages about masculinity and health behaviors that harm men, women and marginalized groups.",
+        "Like most wellness content online, masculinity content manufactures insecurities and sells solutions through self-optimization.",
+        "Finance, fitness and dating advice all promise to make young men desirable, confident and successful. Some felt it genuinely helped. Kieran, a 24-year-old from the U. K. , said, \"I am looking for the lessons and takeaways that can have a positive impact if I implement them in my life. And I ignore the rest. Overall, I like it. It has helped with my self-confidence and has helped me with discipline and exercise.\"",
+        "Masculinity content offered support that young men didn't get elsewhere. For some, it was a roadmap to the kind of success they equated with self-worth: financial security, a partner, a successful career and a fit physique.",
+        "But many simultaneously saw a darker side. They called out unsustainable lifestyles, influencers exploiting young men's insecurities and superficial content that could not provide young men with real, long-term well-being.",
+        "Andy, a 22-year-old Australian man, said, \"It's pretty toxic but at the same time I can't help but want the confidence that their methods seem to provide. Like I don't want to be a part of it because it's messed up, but just a little I want to be like that so I feel respected or at least deserving of it.\"",
+        "Even though they were not asked about it specifically, the majority of young men referenced the manosphere and manfluencers, such as self-described misogynist Andrew Tate.",
+        "Some endorsed restrictive and oppressive models of masculinity and traditional gender roles in relationships and families, equating these with the type of man they wanted to become.",
+        "But many more disliked the promotion of misogyny, violence, risk-taking and health harms they saw online. A 19-year-old named Cam told us, \"It's fairly 50/50. A good portion of the content is focused on masculinity without scrutinizing women. Whereas I feel that the louder minority latch on to overly masculine role models who promote the idea that in order to be a successful male, you have to belittle women.\""
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-scientists-demonstrate-ai-designed-enzyme-for-drug-synthes",
+      "title": "Scientists demonstrate AI-designed enzyme for drug synthesis",
+      "dek": "The new RFD4-Proteina unified generative model for protein design—created by the Institute for Protein Design (IPD) in collaboration with NVIDIA—uses advanced AI to generate…",
+      "category": "科技",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T21:00:13.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html"
+      },
+      "cover": "pencil",
+      "accent": "orange",
+      "paragraphs": [
+        "The new RFD4-Proteina unified generative model for protein design—created by the Institute for Protein Design (IPD) in collaboration with NVIDIA—uses advanced AI to generate entirely new protein sequences and structures, achieving computational design success rates five to 10 times higher than previous models and generating candidates five to 10 times faster.",
+        "AI-based protein design is already transforming protein science, but RFD4-Proteina differs in how it tackles the design problem. The model can consider several interconnected aspects of structure and function simultaneously, refining a protein's amino-acid sequence and three-dimensional structure alongside the molecules with which it interacts. It can also direct more computational effort toward promising designs, helping researchers identify candidates with specific functions more efficiently.",
+        "Researchers at The University of Manchester's Manchester Institute of Biotechnology (MIB), including professor Anthony Green, Dr. Henry Jones and Dr. Zefei Xu, worked in collaboration with IPD to apply RFD4-Proteina to design de novo enzymes for low-cost and sustainable production of global health drugs.",
+        "One of the team's most significant tests focused on the synthesis of lenacapavir , a drug used for HIV prevention. RFD4-Proteina was used to design entirely new enzymes capable of catalyzing a key amide-bond-forming reaction involved in the drug's synthesis. Of the 67 designs selected for experimental testing, four showed clear activity, with the best converting 79% of a bulky chiral amine into the desired amide product.",
+        "The enzyme also displays high selectivity for the S- enantiomer of the amine as required for the lenacapavir synthesis. This reaction is particularly challenging because the enzyme must favor the desired amide-bond-forming process while suppressing a competing reaction with water, which is present in a vast excess in enzyme-mediated transformations.",
+        "This research, available as a preprint , represents a critical proof-of-concept demonstration that new enzymes can be designed computationally to promote challenging steps in the synthesis of active pharmaceutical ingredients.",
+        "\"It was a pleasure to work with the IPD team to road-test the new RFD4-Proteina model on a highly complex and valuable enzyme design challenge. The initial results are spectacular and show how these advanced models can rapidly deliver new biocatalysts for producing therapeutics and other essential chemicals,\" said Green, director of the MIB.",
+        "Proteins are essential for life and perform a wide range of functions. For example, enzymes speed up chemical reactions involved in metabolism, while antibodies bind to pathogens to help fight infection. Proteins are also important in manufacturing chemicals and materials used in everyday products, including medicines and fuels. But designing new functional proteins such as enzymes is difficult.",
+        "Enzymes found in nature have traditionally provided the starting point for scientists seeking to engineer biocatalysts with useful functions. More recently, computational protein design has made it possible to design completely new proteins. However, this remains difficult as scientists must find a combination of amino-acid sequence, three-dimensional structure and molecular interactions capable of performing the intended task from an enormous number of possibilities.",
+        "Developed by professor David Baker and his team at the University of Washington's Institute for Protein Design (IPD), RFD4-Proteina was designed to address this problem. It combines two existing AI models—the IPD's RosettaFold Diffusion line and Proteina-Complexa from NVIDIA—allowing scientists to design brand new proteins with a specified function, focusing laboratory testing on a handful of the most promising candidates.",
+        "\"RFD4-Proteina will open the door to new solutions in medicine, sustainability, materials and biotechnology,\" said Baker, IPD director and professor of biochemistry at the University of Washington School of Medicine. Baker is a Howard Hughes Medical Institute investigator and a recipient of the 2024 Nobel Prize in chemistry.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "RFD4-Proteina's biomolecular reasoning is novel; it learns the \"language\" of existing proteins by training on a large data set, and tests in silico a huge number of design possibilities to fit a desired function.",
+        "Like language models with adjustable \"thinking,\" RFD4-Proteina can devote more computation to difficult problems. It concurrently refines a protein's sequence and structure alongside the structures of interacting molecules, so that a change in one seamlessly informs changes in the others."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-chemically-modified-sugars-enable-direct-nanostructure-for",
+      "title": "Chemically modified sugars enable direct nanostructure formation",
+      "dek": "by National Institute of Advanced Industrial Science and Technology",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T20:40:08.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-chemically-sugars-enable-nanostructure-formation.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "by National Institute of Advanced Industrial Science and Technology",
+        "Researchers at AIST have demonstrated the synthesis of nanoporous carbonaceous materials and carbonaceous materials with layered nanostructures through a simple process involving the chemical modification of common sugars such as sucrose and fructose.",
+        "Nanoporous carbonaceous materials have attracted attention as materials that can help address energy-related challenges, with potential applications as catalyst supports and electrode materials for secondary batteries. In particular, carbonaceous materials with highly uniform pore sizes and shapes, which can be tailored for specific applications, are in increasing demand.",
+        "The conventional templating method, however, has several drawbacks, including the need for sacrificial template agents and complex synthesis procedures that consume resources and generate waste. Furthermore, some templating procedures rely on energy-intensive and harsh chemical processes involving high temperatures and strong acids.",
+        "A research group at AIST has developed a new method that enables the synthesis of nanostructured carbonaceous materials solely from chemically modified sugar molecules. The method uses sugar molecules modified to bear an alkyl chain as carbon precursors. These precursors are subjected to hydrothermal treatment, during which condensation reactions take place.",
+        "This approach provides access to nanostructured carbonaceous materials without relying on conventional templates or harsh chemical processing.",
+        "Furthermore, the nanostructure of the resulting carbonaceous material can be altered by varying the type of sugar headgroup, yielding either a nanoporous carbonaceous material with spherical nanopores or a carbonaceous material with a layered nanoscale structure.",
+        "This work represents a shift from the current \"physical\" pore formation pathway based on the templating method to a \"chemical\" pore formation pathway. The researchers expect that the method will serve as a synthesis platform for designing novel nanoporous carbonaceous materials with nanostructural features that are inaccessible through conventional templating methods.",
+        "Using such materials as scaffolds for various chemical reactions may improve material performance in applications such as electrodes and catalyst supports.",
+        "Details of this research were published online in the Journal of the American Chemical Society on Aug. 12, 2026.",
+        "Nanoporous carbonaceous materials have numerous nanoscale pores and a large specific surface area and have been widely recognized for their ability to store electricity, adsorb substances and promote chemical reactions. For example, in application studies involving energy storage and fuel cells, nanoporous carbonaceous materials provide a platform for charge storage processes as well as various chemical reactions.",
+        "Activated carbon, a widely known porous carbonaceous material, is used for water purification and deodorization due to its high porosity, which allows it to capture molecules of various sizes. However, its pore size and shape are normally not uniform.",
+        "In contrast, porous carbonaceous materials with pores that are uniform in size and shape can also capture molecules of specific sizes, offering advantages for applications such as energy storage, gas separation and catalysis. This capability has accelerated demand for nanoporous carbonaceous materials that have uniform pore structures and are suitable for these applications.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-the-psychology-of-why-we-overpay-for-used-cars-study-point",
+      "title": "The psychology of why we overpay for used cars—study points to left-digit bias",
+      "dek": "Consumers routinely ignore information when making purchases. ",
+      "category": "健康",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T20:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-psychology-overpay-cars-left-digit.html"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Consumers routinely ignore information when making purchases. They overlook the tax attached to a price, skim past ingredient lists and often fail to process exact numbers with any precision.",
+        "This kind of inattention is well documented. What is less well understood is how businesses exploit this behavior.",
+        "Assistant professor Andreas Kraft of the University of Chicago Booth School of Business and University of Texas professor Raghunath Rao explored a specific form of inattention known as left-digit bias, which is among the most reliably documented quirks in consumer psychology. Their study, focused on the used-car market, suggests that dealerships systematically attract more inattentive buyers and profit handsomely as a result—and also that this bias could be hard to address with increased disclosure or transparency.",
+        "Consumers anchor heavily on the leftmost digit when they evaluate a number. Prices such as $1. 99 or $1. 90 exploit this tendency. Left-digit bias, and the fact that people possess it in varying degrees, creates a distinct dynamic in the used-car market.",
+        "Inattentive buyers at a dealership see a car with 49,800 miles (80,100 kilometers) and mentally register something closer to 40,000 miles (64,400 kilometers). That misperception inflates both what they think the car is worth and what they think they would pay for an equivalent car in the private market, the researchers explain.",
+        "Their study analyzed prices and odometer readings in every title submission to the Texas Department of Motor Vehicles between 2014 and 2021—a data set that captured roughly 10% of all vehicle transactions in the United States during this period. Inattentive buyers tend to purchase used cars from dealerships rather than private sellers, according to the researchers, who add that dealers are generally more aware of left-digit bias and able to capitalize on it.",
+        "Dealerships always command a premium over private markets but charge even more for cars near favorable mileage thresholds. To inattentive buyers, those prices can still appear attractive because they perceive the car as having lower mileage than it really does and therefore overestimate what a comparable car would cost elsewhere.",
+        "Attentive buyers, by contrast, more accurately determine what a 49,800-mile (80,100-kilometer) car should cost, recognize the dealership premium and go elsewhere. Kraft and Rao find that dealership customers, based on the prices they paid, were about twice as inattentive to exact mileage as customers who shopped in the private market.",
+        "This sorting mechanism has clear financial consequences.",
+        "In a process the researchers call \"behavioral skimming,\" dealerships charged significantly more for vehicles with odometer readings just below a 10,000-mile (16,100-kilometer) threshold than for comparable cars just above. Kraft and Rao find the difference in profit ranged from roughly $46 to $168 per vehicle across the various thresholds, with the sharpest effects between 60,000 miles (96,600 kilometers) and 100,000 miles (160,900 kilometers), where the bulk of dealership transactions occurred.",
+        "For the 14 cutoffs they examined between 10,000 miles (16,100 kilometers) and 140,000 miles (225,300 kilometers), the average profit on vehicles 1,000 miles (1,600 kilometers) below the threshold was nearly 11% higher than profit on vehicles 1,000 miles (1,600 kilometers) above the threshold.",
+        "And while raising prices reduces sales volume in most markets, the opposite occurred in this setting. Because the elevated price attracted a pool of inattentive buyers willing to pay, dealerships bid more aggressively on the supply side.",
+        "Vehicles with odometer readings just below a 10,000-mile (16,100-kilometer) threshold were up to 4% more likely to be sold through a dealership than in the private market. They also sold faster. Cars just below 90,000 miles (144,800 kilometers) spent about two fewer days on the lot than those just above, translating to 6% less time in inventory. These lower inventory costs on top of higher margins compounded the benefits.",
+        "Competition between dealers didn't erode this advantage, as standard economic models suggest it should. Conversely, the researchers find, inattention among dealership customers was 40% higher in the most competitive markets (as measured by inventory levels) compared with the least competitive markets."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-designing-better-adsorbents-to-remove-pfas-from-water",
+      "title": "Designing better adsorbents to remove PFAS from water",
+      "dek": "A review by Tohoku University researchers identifies key molecular features that could guide the development of more effective materials for removing PFAS from water. ",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T20:20:14.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-adsorbents-pfas.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "A review by Tohoku University researchers identifies key molecular features that could guide the development of more effective materials for removing PFAS from water. The study is published in the journal ACS Materials Au .",
+        "Per- and polyfluoroalkyl substances (PFAS) are used in a wide range of industries, from semiconductor manufacturing and firefighting to textiles and food packaging. Their chemical stability and ability to repel water and oil make them useful in many applications. However, concerns about the potential health effects of some PFAS have increased the need for effective ways to remove these chemicals from water.",
+        "One promising approach is adsorption , in which PFAS molecules attach to the surface of a material called an adsorbent. By tailoring these materials to interact with specific PFAS molecules, researchers aim to improve their ability to capture these persistent chemicals from water.",
+        "A research team led by Kouki Oka, associate professor at Tohoku University's Institute of Multidisciplinary Research for Advanced Materials, reviewed current research and development in PFAS adsorption. The review examines well-studied compounds, including perfluorooctanesulfonic acid (PFOS) and perfluorooctanoic acid (PFOA), alongside other PFAS covered by regulatory and monitoring frameworks in the European Union (EU) and Canada. The team identifies key principles for designing high-performance adsorbents that can target a wider range of PFAS.",
+        "A central finding is that effective adsorbent design requires understanding the different parts of a PFAS molecule. PFOS and PFOA, for example, each contain a fluorinated carbon chain and a terminal group that is typically charged in aqueous environments. These parts have different chemical properties and can interact with adsorbent materials in different ways.",
+        "By designing materials that interact strongly with these different structural features, researchers may be able to improve adsorption performance. Rather than treating a PFAS molecule as a single target, this approach considers its individual components to guide the selection and design of suitable adsorbents.",
+        "\"As the range of PFAS subject to regulation continues to expand, we need adsorbents that can effectively target a wider variety of these compounds. By understanding how different parts of PFAS molecules interact with adsorbent materials, we can establish clearer design principles for developing more effective removal technologies,\" says Oka.",
+        "The need for such materials is growing as governments expand PFAS monitoring and regulation. In the EU, drinking water standards set a limit of 100 nanograms per liter (ng/L) for the combined concentration of 20 PFAS. The EU has also established environmental quality standards for 25 PFAS in surface waters, with an annual average limit of 4. 4 ng/L expressed as PFOA equivalents to account for differences in toxicity. Canada has set an objective of 30 ng/L for the combined concentration of 25 PFAS.",
+        "As more PFAS come under regulatory scrutiny, removal technologies will need to address a broader range of molecular structures. The design principles outlined in this review provide a foundation for developing adsorbents tailored to different PFAS, potentially improving water treatment and helping industries manage these persistent chemicals.",
+        "The research team's next step is to apply these principles to the development of higher-performance adsorbents designed for specific PFAS.",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "PFAS adsorption depends on interactions with distinct molecular features, including fluorinated chains and charged terminal groups. Tailoring adsorbents to these features provides design principles for removing a broader range of PFAS from water.",
+        "Please select the most appropriate category to facilitate processing of your request"
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-plain-silicon-grating-reveals-a-hidden-twist-in-light-from",
+      "title": "Plain silicon grating reveals a hidden 'twist' in light from electron beams",
+      "dek": "In 1953, two physicists showed that an electron beam skimming past a grating emits light whose color depends only on the electron's speed and the grating's spacing. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T20:20:08.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-plain-silicon-reveals-hidden-electron.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "In 1953, two physicists showed that an electron beam skimming past a grating emits light whose color depends only on the electron's speed and the grating's spacing. Known as Smith-Purcell radiation, this phenomenon has become a useful tool for building compact, tunable light sources and tracking particle beams without touching them.",
+        "Now, researchers from Singapore and China have discovered that this well-studied effect has been hiding a property nobody thought to look for: chirality, or \"handedness.\" In their paper \"Observation of inherent chiral Smith-Purcell effect via symmetry breaking,\" published in Nature Communications , associate professors Wu Lin and Dong Zhaogang from the Singapore University of Technology and Design (SUTD) showed that the radiation is inherently chiral and demonstrated two simple ways to bring that chirality out with a plain silicon grating.",
+        "\"The main reason it was missed is symmetry,\" said Wu. \"The chirality was always there, but the left- and right-handed components are distributed symmetrically in space. In conventional measurements, we usually look only along the symmetry plane, so the two opposite contributions cancel each other.\"",
+        "A moving electron drags a twisting electromagnetic field around it, and a grating can convert this into circularly polarized light. In three-dimensional simulations, the emission is left-handed on one side of the beam, right-handed on the other, and linearly polarized in the middle, the only place earlier two-dimensional models had looked.",
+        "To tip the scales, the researchers broke the symmetry in two ways: by rotating the grating relative to the electron beam, or by keeping the grating fixed and moving the beam from the center toward one edge. \"Twisting lets us tune the chirality, while shifting lets us select a stable handedness over a broad wavelength range,\" added Dong.",
+        "Both approaches were tested on silicon gratings inside a scanning electron microscope, with the emitted light sorted into left- and right-handed parts. On the standard scale, where 1 means purely one-handed light and 0 means no net handedness, the measured value climbed with the twist angle to 0. 726 at 30 degrees. Reversing the twist flipped the handedness.",
+        "Shrinking the grating pitch from 120 to 100 nanometers pushed the value to 0. 87, the highest yet reported for Smith-Purcell radiation and more than double the previous best. Shifting the beam gave one handedness along one edge and the opposite along the other, and simulations predict values of up to 0. 98.",
+        "\"The key insight was that we did not need to make the silicon grating itself chiral,\" noted Dong. \"The chirality was already hidden in the electromagnetic field carried by the moving electrons.\"",
+        "The shifting experiments gave the researchers a surprise. The emission was strongest with the electron beside the grating rather than above it, because the sharp corners of the grating scatter the electron's field into light remarkably well.",
+        "\"Once we understood the role of the grating edge, the result made physical sense,\" Dong shared. \"It showed us that where the electron travels relative to the structure can be just as important as the structure itself.\"",
+        "As neither approach relies on a delicate optical resonance, the effect is naturally broadband. The emitted light could be tuned from about 450 to 900 nanometers while the chirality changed only slightly. Avoiding resonance also promises simpler fabrication and greater freedom in choosing materials. Wu sees chiral light sources as the application closest to practical use, with extreme ultraviolet light—prized in lithography—an attractive target.",
+        "However, challenges remain. Materials must be chosen carefully, since some glow under electron bombardment and can swamp the signal. Reaching X-ray wavelengths would demand even smaller structures or much higher electron energies, and quantum effects may then complicate the picture.",
+        "\"The challenge is not as simple as generating X-rays,\" Dong said. \"It is to generate them while preserving and controlling their chirality, and to understand the new quantum physics that may emerge at these much smaller scales.\"",
+        "Nonetheless, these findings point to a new way of designing free-electron light sources. Said Wu, \"Instead of making the structure increasingly complicated, we can create new functionality by controlling the symmetry of the electron-structure interaction.\""
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "conversation-ancestors-all-around-millions-of-dead-people-linger-in-ame",
+      "title": "Ancestors all around – millions of dead people linger in Americans’ memories",
+      "dek": "Halloween kicks off a series of religious and cultural festivals to honor the dead, including All Saints’ Day, All Souls’ Day and the Day of the Dead. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T19:42:58.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/ancestors-all-around-millions-of-dead-people-linger-in-americans-memories-292342"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Halloween kicks off a series of religious and cultural festivals to honor the dead, including All Saints’ Day, All Souls’ Day and the Day of the Dead. But deceased loved ones don’t disappear from people’s social worlds once the ghost and skeleton decorations come down.",
+        "Present in memory and tradition, the dead can shape people’s identities and behaviors long after they die. Recent survey data shows that almost 44% of Americans report that they have felt the presence of a deceased relative or that they have communicated with a deceased relative in the past year alone.",
+        "Researchers lack basic knowledge about this shadow population. As demographers , we typically study the living. But in our recent work, we asked a very unusual demographic question: What does a population of our deceased relatives look like?",
+        "Our research typically categorizes the living population by age groups and other demographic attributes. In our recent study, we took our analysis a step further to estimate the size and age distribution of the currently living population’s deceased relatives. We focused specifically on deceased grandparents, parents, siblings, spouses and children.",
+        "To do this project, we relied on a modeling framework called demographic microsimulations . This approach produces results only for Black and white Americans. The method cannot estimate relative populations living outside of the United States, so it excludes groups with high percentages of foreign-born individuals who have family abroad.",
+        "Our study focused on the populations as of July 2020, but for the purposes of this article, we updated our analysis and weighted results to the estimated population as of October 2026.",
+        "Because estimating the deceased relative population is not a common exercise in our field, we had to make some modeling decisions. We counted only deceased relatives who died after the birth of at least one person still alive; if no one remains who could remember them, we did not include them.",
+        "Also, we counted deceased persons based on how many relatives they have in the living population. For example, if a deceased 60-year-old man is survived by a spouse, an adult child, a grandchild and a sibling, we count him in the deceased relative population four times, reflecting his being remembered by four living individuals. As such, the deceased relative population we quantified is really a count of how many direct relative ties remain to those who are dead.",
+        "And finally, we classified deceased relatives according to their age at death. We believe this represents the age many people will most clearly remember their deceased loved ones. Of course, we categorize the living population by their current age.",
+        "First, the deceased relative population is large. Our model estimated that the living Black and white populat,ion representing about 217 million people , had 755 million ties to deceased close relatives . That’s a population more than three times the size of the living population. For every under-15-year-old out trick-or-treating on Halloween, there are about 21 deceased relatives remembered.",
+        "Second, our model shows that, on average, the deceased relatives died 25 years ago. That the average deceased relative has been remembered for a quarter of a century makes it clear that loved ones are often suspended in memory for years, even decades, after their deaths.",
+        "Third, over half of the deceased relative population was born more than 100 years ago – even before the term “trick-or-treating” took hold in the U. S . Around 10% of the deceased relatives were born before 1900, with 140,000 of them born before the Civil War – these are the remembered grandparents of today’s oldest individuals. These results speak to how generations of the seemingly long ago past still have a direct tie to the living.",
+        "The Halloween season reminds us of ghosts, spirits and ancestors. Whatever their beliefs, many Americans also carry relationships with people who are no longer alive: grandparents whose recipes they still make, parents whose advice they still hear, spouses whose absence shapes their days.",
+        "These relationships are deeply personal, but together they form a vast and previously unstudied shadow population. By quantifying and characterizing the deceased relative population, our research reveals just how many people no longer appear in the census yet remain an integral part of our social world.",
+        "The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "conversation-un-peacekeepers-prepare-to-exit-lebanon-after-70-years-lea",
+      "title": "UN peacekeepers prepare to exit Lebanon after 70 years – leaving behind a worrying security vacuum",
+      "dek": "For nearly 70 years, the blue helmets of United Nations’ peacekeepers have dotted the landscape of southern Lebanon. But those days may soon be over.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T18:45:07.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/un-peacekeepers-prepare-to-exit-lebanon-after-70-years-leaving-behind-a-worrying-security-vacuum-293159"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "For nearly 70 years, the blue helmets of United Nations’ peacekeepers have dotted the landscape of southern Lebanon. But those days may soon be over.",
+        "Under Israeli and American pressure, the U. N. Security Council unanimously voted in August to end the mandate establishing the United Nations Interim Force in Lebanon, or UNIFIL .",
+        "It means the 7,565 members of UNIFIL deployed in Lebanon – representing about 46 countries – will depart the country no later than Dec. 31, 2026.",
+        "The end of the U. N. presence comes at a pivotal time. Israel and Lebanon have already held seven rounds of negotiations aimed at bringing a lasting peace to a region that has suffered from decades of conflict.",
+        "Brokered by the United States, these talks that led to the signing of the Trilateral Framework in June 2026 call for the disarmament of Hezbollah, the Israeli withdrawal from all Lebanese lands and the settlement of all disputes over borders. Yet all of these conditions are still some way off from completion – and beset by a series of barriers .",
+        "As such, the departure of the United Nations peacekeeping forces raises serious concerns. The potential for a security vacuum looms large in south Lebanon, especially given that Israel continues to bomb Lebanon despite a ceasefire that has nominally been in place since April 16, 2026 .",
+        "As a scholar of Middle East Studies , I know that UNIFIL has never been a permanent solution. But I fear that its termination creates more problems than it solves, especially when there are no clear replacements or post-UNIFIL security arrangements in place.",
+        "While the U. N. had had an on-the-ground presence in Lebanon to handle civil strife since the 1950s , its role in mediating between Lebanon and Israel started later.",
+        "In 1978, after a series of attacks on Israel organized by Palestinian fighters in Lebanon, Israel invaded and occupied the south in what was known as Operation Litani . As a result, the United Nations Security Council established UNIFIL to monitor Israel’s withdrawal from south Lebanon and to restore peace at the Lebanese–Israeli border.",
+        "Israel’s occupation of south Lebanon lasted more than two decades . Following its withdrawal on May 25, 2000, the U. N. set the Blue Line – a 75-mile (120 km) demarcation line created for the practical purpose of confirming Israeli withdrawal from south Lebanon. It was not an official border but a buffer zone monitored by the U. N. peacekeepers.",
+        "UNFIL and the Blue Line served as geographic and diplomatic focal points in the 2006 war between Hezbollah – an Iranian-backed militia operating from Lebanon – and Israel.",
+        "Resolution 1701 of the Security Council, which brought an end to the 2006 war, dramatically expanded the UNIFIL role in Lebanon ; the number of troops went from 2,000 to 15,000 authorized military personnel.",
+        "Its mandate also changed to include monitoring the ceasefire and documenting its violations, coordinating with Lebanon’s military and functioning as the only direct communication channel between the Lebanese and Israeli militaries. UNIFIL also offered humanitarian aid to the affected civilian population of south Lebanon.",
+        "Yet UNIFIL’s role never altered the basic lack of peace on the Israeli-Lebanese border. Over 50 years, Israel invaded Lebanon numerous times . And since 2000, Hezbollah has flourished in south Lebanon .",
+        "As UNIFIL prepares to depart, it’s unclear what will fill the looming security vacuum. It could be filled by non-U. N. troops, but Lebanon’s past shows the risks inherent to international peacekeeping missions.",
+        "In 1982, after Israel invaded Lebanon and occupied Beirut with the intention of eliminating the Palestinian militant threat, Lebanese authorities called on Western powers for help. In August, the governments of the U. S. , France, Italy and the United Kingdom created a multinational peacekeeping force designed to restore peace and stop the fighting between the Lebanese, Palestinians and Israelis.",
+        "But on Oct. 23, 1983 , the multinational peacekeeping force was the target of a dual suicide attack that killed 241 American service members and 58 French paratroopers.",
+        "To this day, the attack – claimed by the pro-Iranian Islamic Jihad – remains the deadliest single-day incident for the U. S. Marine Corps since the Battle of Iwo Jima in 1945.",
+        "In addition to Israel, interventions in Lebanon have also come from another neighboring country.",
+        "In 1976, the Syrian military intervened during Lebanon’s civil war to put an end to sectarian violence. Nearly three decades of occupation followed, and troops were withdrawn only following the assassination of Lebanese Prime Minister Rafik Hariri in 2005 and the subsequent Cedar Revolution .",
+        "With the absence of an internal Lebanese consensus, the arrival of any international peacekeeping force to replace the exiting UNIFIL will be perceived by many Lebanese as a top-down imposition.",
+        "Moreover, the situation on the ground makes it dangerous for any international force to successfully operate. Israel is reportedly occupying over 10% of Lebanon’s territories , including multiple permanent bases and outposts in southern Lebanese territory.",
+        "Finally, the fate of Lebanon-Israel direct negotiations is unclear . Recently, the countries held military talks in Florida, but little is expected from them .",
+        "Yet a number of efforts are ongoing despite the difficult circumstances surrounding UNIFIL’s withdrawal. On June 25, French President Emmanuel Macron and Italian Prime Minister Giorgia Meloni announced an “ international coalition to support Lebanon ” to reinforce Lebanon’s sovereignty and help prevent a security vacuum in south Lebanon."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "scitechdaily-researchers-find-an-unexpected-benefit-of-putting-sheep-on",
+      "title": "Researchers Find an Unexpected Benefit of Putting Sheep on Solar Farms",
+      "dek": "Solar grazing is helping sheep farmers expand their businesses, opening opportunities for rural jobs, new investment, and stronger agricultural supply chains.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T18:27:20.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/researchers-find-an-unexpected-benefit-of-putting-sheep-on-solar-farms/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Solar grazing is helping sheep farmers expand their businesses, opening opportunities for rural jobs, new investment, and stronger agricultural supply chains.",
+        "Sheep can feed on the vegetation growing around solar panels while farmers get paid to keep it under control. Too few sheep may leave farmers with grass they still need to mow, while heavier grazing can reduce honeybee numbers.",
+        "Two new Cornell University studies examine the ecological and financial choices behind this growing practice, known as solar grazing. One tested how the number of sheep on the land affects beneficial insects. The other developed a tool to help farmers plan flock size, purchases, and sales.",
+        "At two sheep per hectare, or roughly one per 1. 2 acres, the combined abundance of wild bees, honey bees, and lady beetles was 38% higher than in a mowed control plot. Honey bee numbers were 83% higher, accounting for most of the overall increase.",
+        "Doubling the density to four sheep per hectare improved vegetation control, but beneficial insect abundance was similar to that in the mowed control. Eight sheep per hectare delivered the strongest vegetation control, and flock health remained high. At that density, however, honey bee abundance fell by 45%.",
+        "“We zeroed in on stocking rates because that’s a concrete number that sheep farmers understand and work with every day, and we want this research to be useful,” said Steve Grodsky, the study’s senior author and an assistant professor of natural resources in Cornell’s Ashley School of Global Development and the Environment. “With solar grazing, people, energy, agricultural animals, plants, and insects are all part of this ecosystem. We’re trying to understand the connections between those pieces so that when solar developers, municipalities looking at solar development, or farmers are faced with a decision, they can have scientific information about potential trade-offs and synergies.”",
+        "The researchers spent three years testing those stocking rates, the number of sheep grazing a given area, at the university-owned Cascadilla Community Solar Farm in Dryden, New York. Using Cornell’s teaching flock, the team brought together entomologists, ecologists, and animal and plant scientists from the College of Agriculture and Life Sciences (CALS). Their paper was published in Environmental Research Letters .",
+        "“Sheep grazing and beneficial insect habitat are two prominent conversation topics around solar development right now,” said Leana Zoller, the paper’s first author and a postdoctoral associate in natural resources in the Ashley School. “But what’s been missing is research that treats them as parts of the same system. When we talk about sustainable solar development, integrating these discussions into a single framework is really helpful to farmers and community decision makers.”",
+        "Grodsky also serves as assistant unit leader of the U. S. Geological Survey New York Cooperative Fish and Wildlife Research Unit. Sarah Carson, director of Cornell’s Campus Sustainability Office, helped coordinate the researchers’ access to the site with the solar company responsible for managing it.",
+        "The study’s other CALS co-authors included sheep farmer and solar grazing consultant Nikola Kochendoerfer, Ph. D. ’20, Antonio DiTommaso, a professor in the School of Integrative Plant Science, and John Losey, a professor of entomology. Also contributing were Scott McArt, Ph. D. ’12, an associate professor of entomology, Paige Muñiz, formerly a technician in McArt’s lab, and Todd Ugine, Ph. D. ’04, a research associate in Losey’s lab.",
+        "For farmers deciding how many sheep to buy or sell, the second study offers a way to weigh the financial and practical demands together. Researchers led from the Cornell SC Johnson College of Business developed a spreadsheet-based model that uses target flock size, costs, anticipated revenue, and expected vegetation at individual solar sites to help optimize those decisions. They presented the tool in a separate study published in Manufacturing & Service Operations Management .",
+        "Solar developers can also use the model to understand what farmers need from a grazing agreement and design contracts that are more profitable and sustainable for everyone involved over the long term. United Agrivoltaics has already made the tool part of its onboarding process."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-scientists-discover-a-new-butterfly-species-hiding-in-plai",
+      "title": "Scientists Discover a New Butterfly Species Hiding in Plain Sight",
+      "dek": "Nearly identical butterflies share the same tropical forests, yet scientists still cannot fully explain how they recognize their own kind.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T17:52:17.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-a-new-butterfly-species-hiding-in-plain-sight/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Nearly identical butterflies share the same tropical forests, yet scientists still cannot fully explain how they recognize their own kind.",
+        "When Andrés Orellana found caterpillars stripping the leaves from a Cecropia sapling in Venezuela, they had the familiar black bodies and yellow spines of Colobura butterflies. None, however, had the cream-colored markings seen in the two known species.",
+        "That missing detail helped lead researchers to a third species, Colobura cryptica . Anisha Sapkota, a doctoral student at the Florida Museum of Natural History, and her colleagues described the species in Zootaxa , drawing on genetic evidence and subtle differences in the insects’ appearance. Their work also raised an unresolved question about how these nearly identical butterflies remain separate species while sharing much of the same territory.",
+        "Colobura is a familiar presence in the tropical Americas, or neotropics. These rainforests are among the most biodiverse places on Earth. Costa Rica alone supports half a million species, five times as many as Canada on roughly one two-hundredth of its land area.",
+        "“If you go to the neotropics, Colobura is one of the first butterflies you see,” Sapkota said.",
+        "Their caterpillars feed on Cecropia , trees as characteristic of these tropical forests as balsam firs are of boreal forests in parts of Canada. In 1888, German botanist Andreas Schimper wrote, “Every naturalist who has been in tropical America will remember Cecropia , belonging to the most conspicuous trees of those countries.”",
+        "Both the butterflies and their host trees occur across a broad area that includes parts of the Andes, the Brazilian Amazon, the Atlantic Rainforest in Brazil and Paraguay, and much of Central America and the Caribbean. Most of the 61 Cecropia species occupy only part of that territory, with some restricted to the Andes and others to the Caribbean. For more than two centuries after Carl Linnaeus’s 1758 description, however, scientists recognized just one widespread species of Colobura , called C. dirce .",
+        "The caterpillars offered an early reason to question that classification. Their velvety black bodies carry bright yellow stalks tipped with sharp, angled barbs, a warning that roughly translates to “leave me alone, or there will be unpleasant consequences.” Beneath the spines, some have cream-colored teardrops, while others have rings. In 1852, Dutch entomologist Jan Sepp argued that these different markings distinguished two species. His peers dismissed the idea, and for roughly the next 150 years, naturalists attributed the differences to variation between males and females or among individuals of the same species.",
+        "Keith Willmott, now a curator at the Florida Museum’s McGuire Center for Lepidoptera and Biodiversity, later helped revisit that interpretation. He explained why even recognizing a second species had seemed difficult to accept.",
+        "“It’s a very distinctive butterfly. It’s hard to imagine there being two species in the same area that look alike because they’re so different from anything else.”",
+        "In 2001, Willmott and several colleagues revived Sepp’s idea and formally described Colobura annulata . “We assumed that was the problem solved,” Willmott said. He moved on to other projects.",
+        "About a quarter century later, Orellana’s photographs of the unmarked Venezuelan caterpillars gave Willmott enough evidence to reopen the investigation. Orellana was one of his colleagues, and the photographs brought him back to a possibility he had previously set aside. “I had a few indications that there was a third species, but I thought it was too implausible.”",
+        "Sapkota had just joined the Florida Museum’s Shirey lab and expressed interest in leading the work. To investigate the butterflies’ genetic relationships, she analyzed highly variable stretches of DNA known as barcodes. These sequences had been collected and curated through a long-term survey of Lepidoptera, the group that includes butterflies and moths, in Costa Rica. Study co-authors Daniel Janzen and Winnie Hallwachs led that survey.",
+        "Building on the barcode results, Sapkota sent older museum specimens collected throughout the neotropics to Nick Grishin at the University of Texas Southwestern Medical Center. Grishin sequenced their mitochondrial and nuclear genomes. Together, the DNA analyses identified three distinct lineages that matched the physical differences the researchers documented."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "nasa-nasa-virginia-launch-power-partnership-for-energy-security",
+      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+      "dek": "NASA is helping to foster long-term energy security in Virginia.",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T17:50:21.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA is helping to foster long-term energy security in Virginia.",
+        "NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes.",
+        "Under a new Space Act Agreement announced during a ceremony Friday, the partnership will use NASA expertise in atmospheric sciences to assist Virginia Energy in support of resiliency studies, resource analysis, and long-term energy planning.",
+        "“NASA Langley relishes the opportunity to put our unique science data into the hands of those who want to improve people’s lives,” said NASA Langley Deputy Director Allen Kilgore. “This collaboration with Virginia Energy will benefit the citizens of Virginia and provide stronger energy security for the Commonwealth.”",
+        "This agreement will help state officials plan for current and potential extreme weather conditions in Virginia and assess implications for electricity demand, energy generation, and system stress. Information can be directly incorporated into energy policy, planning, and operational decisions.",
+        "By helping Virginians better anticipate energy demands, prepare for extreme weather, and understand factors affecting electricity generation, this partnership will support a more reliable and resilient energy system.",
+        "“Sound energy planning depends on models that reflect real-world conditions,” said Virginia Energy Director Vince Maiden. “This collaboration will help us better understand how weather affects electricity supply and demand, identify vulnerabilities, and weigh resource tradeoffs with greater confidence.”",
+        "The partnership will infuse relevant NASA Prediction of Worldwide Energy Resources (POWER) data products into Virginia Energy’s modeling and analysis system. The POWER information supports energy generation system designs and prediction of energy production using validated data products from NASA’s Earth Science to Action program. Those key NASA products represent research and development across NASA including Langley, Goddard Space Flight Center in Greenbelt, Maryland, and Ames Research Center in California’s Silicon Valley.",
+        "Through a digital pipeline, Virginia Energy can connect to Langley’s POWER web platform to download specific datasets and put them directly into their modeling tools. NASA’s POWER team members will work with Virginia Energy researchers to streamline the exchange, adjust formats, and evaluate the need for additional data.",
+        "This new partnership was fostered through NASA Langley’s Strategic Partnerships Office that connects industry, academia, and other government agencies with center facilities, capabilities, specialized test environments, and technical expertise to bring ideas to life."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "nasa-news-nasa-virginia-launch-power-partnership-for-energy-security",
+      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+      "dek": "NASA is helping to foster long-term energy security in Virginia.",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T17:50:21.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA is helping to foster long-term energy security in Virginia.",
+        "NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes.",
+        "Under a new Space Act Agreement announced during a ceremony Friday, the partnership will use NASA expertise in atmospheric sciences to assist Virginia Energy in support of resiliency studies, resource analysis, and long-term energy planning.",
+        "“NASA Langley relishes the opportunity to put our unique science data into the hands of those who want to improve people’s lives,” said NASA Langley Deputy Director Allen Kilgore. “This collaboration with Virginia Energy will benefit the citizens of Virginia and provide stronger energy security for the Commonwealth.”",
+        "This agreement will help state officials plan for current and potential extreme weather conditions in Virginia and assess implications for electricity demand, energy generation, and system stress. Information can be directly incorporated into energy policy, planning, and operational decisions.",
+        "By helping Virginians better anticipate energy demands, prepare for extreme weather, and understand factors affecting electricity generation, this partnership will support a more reliable and resilient energy system.",
+        "“Sound energy planning depends on models that reflect real-world conditions,” said Virginia Energy Director Vince Maiden. “This collaboration will help us better understand how weather affects electricity supply and demand, identify vulnerabilities, and weigh resource tradeoffs with greater confidence.”",
+        "The partnership will infuse relevant NASA Prediction of Worldwide Energy Resources (POWER) data products into Virginia Energy’s modeling and analysis system. The POWER information supports energy generation system designs and prediction of energy production using validated data products from NASA’s Earth Science to Action program. Those key NASA products represent research and development across NASA including Langley, Goddard Space Flight Center in Greenbelt, Maryland, and Ames Research Center in California’s Silicon Valley.",
+        "Through a digital pipeline, Virginia Energy can connect to Langley’s POWER web platform to download specific datasets and put them directly into their modeling tools. NASA’s POWER team members will work with Virginia Energy researchers to streamline the exchange, adjust formats, and evaluate the need for additional data.",
+        "This new partnership was fostered through NASA Langley’s Strategic Partnerships Office that connects industry, academia, and other government agencies with center facilities, capabilities, specialized test environments, and technical expertise to bring ideas to life."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "conversation-php-is-in-the-foundation-of-70-of-websites-heres-what-it-i",
+      "title": "PHP is in the foundation of 70% of websites – here’s what it is and why a flaw in the software is a major hacking threat",
+      "dek": "Governments and organizations around the world began scrambling on Oct. ",
+      "category": "科技",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T17:43:01.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/php-is-in-the-foundation-of-70-of-websites-heres-what-it-is-and-why-a-flaw-in-the-software-is-a-major-hacking-threat-294999"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Governments and organizations around the world began scrambling on Oct. 21, 2026, to fix a vulnerability in software that runs their websites, a bug that could give hackers access to data and control of websites. The flaw in PHP, the programming language that powers much of today’s web, prompted urgent warnings from the U. S. National Security Agency , cybersecurity agencies and software vendors.",
+        "A researcher at Calif , a security research firm, found the flaw in August 2026 using an advanced artificial intelligence model from OpenAI. The firm alerted the nonprofit that manages PHP. However, word of the flaw leaked before the PHP organization released patches for its software, and according to Amazon Web Services officials, hackers began “broadly” attempting to exploit it .",
+        "The vulnerability has implications far beyond a single company or platform, because PHP is a key piece of software that helps run millions of websites. So, what is PHP, what role did AI play in uncovering the vulnerability, and should the average user worry?",
+        "PHP is a programming language that powers most websites . For a modern website to provide dynamic content, visual elements and searchable features, a program must run on the web server and take user input, whether that is entering a web address or clicking links and buttons. Estimates suggest that around 70% of websites run on PHP.",
+        "PHP operates on a web server in two main parts : the core PHP system – the engine and runtime libraries – and the individual PHP scripts, which are the custom programs that actually implement a website. When you interact with a website, PHP scripts run, take user input and produce the output your web browser displays.",
+        "The current security issue sits directly in the core PHP system and the libraries it uses. When a vulnerability exists at this deep level, it can allow an adversary to exploit the system. In this case, they can run unauthorized commands on the computer hosting the website, which allows attackers to access data and gain full control of the website.",
+        "This vulnerability is not a mistake in an individual website’s code. The issue lies in the core PHP system, making every unpatched system running PHP vulnerable. Since websites are accessible to anyone on the internet, adversaries can easily find PHP-based websites using automated tools. From there, they can run an exploit program that takes advantage of the vulnerability.",
+        "This exploit code is called PHP2Shell. This name comes from the fact that the exploit gives the attacker “shell access,” a cybersecurity term for direct command-line control of the computer running the website. Shell access bypasses the website interface, giving adversaries a window to enter commands and access all the website’s data.",
+        "What makes this vulnerability particularly interesting is how it was discovered. This exploit came to light through a process known as coordinated disclosure, in which cybersecurity researchers report the flaw to PHP developers before publicizing it.",
+        "This discovery shows the power of AI in cybersecurity. For decades, finding subtle software flaws required large teams of specialists manually reviewing code. Today’s AI systems can examine vast codebases and identify unusual patterns in hours or days. These models can analyze millions of lines of code in seconds, spotting subtle memory management bugs that human auditors might miss over decades of software development. The PHP vulnerability has existed in the core PHP code for over a decade, and AI helped researchers find it.",
+        "However, this also shows that attackers can use these same tools to locate and exploit vulnerabilities. The same reasoning capabilities that help security researchers find flaws first can also let attackers rapidly scan the web for vulnerable targets and automate the creation of tools to exploit the vulnerabilities.",
+        "This illustrates why it is so critical for security teams to use AI to find vulnerabilities and report them safely and actively. AI can also help release patches that mitigate these vulnerabilities .",
+        "Many government agencies, universities, hospitals and businesses rely on PHP-based systems . While individual internet users are unlikely to be directly affected, organizations that delay patching could expose sensitive data, risk having their operations disrupted or give attackers a foothold into larger networks.",
+        "PHP runs entirely on remote web servers. If you are an everyday internet user visiting websites, you do not need to download a patch or fix your personal computer.",
+        "However, if you manage a website, blog or server, even a small site built on popular content management systems such as WordPress, you should check your server administration panel or web host immediately to ensure your PHP software is updated to the latest patched version. If a third party hosts your website, check with them to see whether they have patched for these vulnerabilities.",
+        "The PHP2Shell discovery illustrates a new reality for cybersecurity. In our interconnected world, keeping web infrastructure secure is a continuous race. As AI tools become standard for both cyber defenders and online adversaries, maintaining fast patching habits remains our most essential defense.",
+        "Doug Jacobson does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "scitechdaily-a-cave-full-of-ancient-human-remains-has-a-strange-secret-",
+      "title": "A Cave Full of Ancient Human Remains Has a Strange Secret: Where Are All the Males?",
+      "dek": "Ancient tooth proteins raise the possibility that Homo naledi, an extinct human relative, reserved a burial site for females, hinting at complex customs once thought unique…",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T17:17:14.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-cave-full-of-ancient-human-remains-has-a-strange-secret-where-are-all-the-males/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Ancient tooth proteins raise the possibility that Homo naledi, an extinct human relative, reserved a burial site for females, hinting at complex customs once thought unique to modern humans.",
+        "For more than a decade, researchers have wondered why the adult fossils in South Africa’s Dinaledi Chamber look so much alike. The remains of Homo naledi , an extinct relative of modern humans, show almost none of the physical variation expected between males and females. Ancient proteins extracted from teeth found in the chamber now suggest a possible explanation: the sampled individuals may all have been female.",
+        "The chamber lies within the Rising Star Cave system, where Homo naledi was discovered in 2013. The species lived between 335,000 and 241,000 years ago and possessed an unusual combination of primitive, ape-like traits and human-like features.",
+        "To investigate the lack of variation, researchers from the University of York, the University of Copenhagen, and more than 10 other international institutions recovered the first ancient proteins from Homo naledi fossils. Their study, published in Cell , examined the largest extinct hominin population yet studied through protein analysis.",
+        "The team used a minimally destructive acid-etching technique to extract microscopic protein fragments, called peptides, from the enamel of 23 teeth representing at least 20 individuals. They looked for Amelogenin-Y, a protein encoded by a gene on the male Y chromosome, but found no trace of the male marker.",
+        "To check that the recovered proteins were genuinely ancient rather than modern contamination, a team at the University of York’s specialized chemistry facility analyzed their amino acids, the molecular building blocks of proteins.",
+        "Palesa Madupe, who completed the work as part of her postdoctoral research at the University of Copenhagen, explained why tooth enamel can preserve evidence that other skeletal material may lose.",
+        "“Unlike those found in other remains like bone fragments, proteins in tooth enamel are preserved because dental enamel – the hardest tissue in the human body – shields proteins from environmental contamination even for millions of years.",
+        "“This makes them ideal carriers of genetic information from deep time. Our study helps in the long-standing mystery of why Homo naledi lacked significant variation; it’s probably because they could have all belonged to one sex.”",
+        "If the Dinaledi Chamber was a burial site reserved exclusively for females, it could represent the first known example of sex-specific burial by a species other than Homo sapiens . Such a practice could imply complex, symbolic treatment of the dead previously thought unique to modern humans, raising questions about how Homo naledi organized its society.",
+        "Dr. Marc Dickinson, from the University of York’s Department of Chemistry, said, “The lack of male markers with the group is truly fascinating. It is incredibly exciting to gain a window not only into the biology of our ancestors, but also into how they lived.",
+        "“These findings offer rare insights into a culture that has, until now, been difficult to access directly. Advances in ancient protein analysis are opening the door to a far richer and more nuanced understanding of ancient hominins.”",
+        "The absence of Amelogenin-Y does not, however, establish that every sampled individual was female. The researchers also identified a possible biological explanation. If the Homo naledi population was highly isolated, the gene encoding the protein could have mutated or been deleted. Males could therefore have been present in the chamber, with teeth that lacked the usual male marker.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "conversation-why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-po",
+      "title": "Why ultra-Orthodox parties hold so much sway in Israeli politics",
+      "dek": "On Oct. 20, 2026, a week before Israel’s elections, dozens of men were detained on suspicion of evading the draft – arrests that Prime Minister Benjamin Netanyahu called…",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T14:52:34.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-politics-294218"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "On Oct. 20, 2026, a week before Israel’s elections, dozens of men were detained on suspicion of evading the draft – arrests that Prime Minister Benjamin Netanyahu called “unacceptable .”",
+        "The young men attend ultra-Orthodox, or Haredi, religious schools, whose students were long exempt from the military service mandatory for most Israelis. A 2024 court ruling that Haredi men must be drafted alongside other Jewish youth intensified the conscription debate. Netanyahu’s government has failed to either legalize the draft exemption or enforce the court’s ruling, though he has said Haredim who are not studying should enlist .",
+        "With Israel’s military fighting in several conflicts, those exemptions have become increasingly unpopular: The vast majority of Jewish voters want Haredi communities to share the burden . Haredi political parties, however, are key potential coalition members as Netanyahu attempts to secure his political future. Although a relatively small percentage of the population, the Haredim hold disproportionate sway in Israel’s parliamentary system.",
+        "Haredi Jews strictly observe Jewish religious law and often disapprove of liberal interpretations. They typically live in Haredi-majority neighborhoods where large families are the norm – six children, on average – and about half of the men devote themselves to full-time religious study . The poverty rate is 33% , more than double the percentage for non-Haredi Jews.",
+        "The Israeli public is about 14% Haredi , but the community is growing quickly because of its high birth rate. Projections by the Central Bureau of Statistics estimate that almost a quarter of Israelis will be Haredi by 2050.",
+        "Haredi communities are diverse and represented by two main political parties. Haredim who are Ashkenazi – Jews whose ancestors came from northern and eastern Europe – are linked to United Torah Judaism, or UTJ. Those who are Sephardi or Mizrachi, meaning their ancestors came from the Iberian Peninsula and the Middle East, are linked to Shas.",
+        "A third Haredi party, Haredi Public, was formed in July 2026 . The party says it will represent Haredim who feel underserved by Shas and UTJ , emphasizing employment and poverty, housing development and the education system. Unlike the other two Haredi parties, it has included women on its candidate list.",
+        "Elections for the Israeli parliament, the Knesset, use a proportional representation system . Any party that receives more than 3. 25% of votes receives seats based on the fraction of votes it received. Each party allocates its seats to members based on a list of candidates published before elections.",
+        "Having multiple parties with similar target demographics risks dividing the vote, leaving that group with fewer representatives in the Knesset. Shas and UTJ have agreed to share their surplus votes in the 2026 election to maximize their overall seat share.",
+        "Because of the low electoral threshold, many parties are able to win seats. No Israeli party has ever attained the 50% share needed to control parliament by itself. As in other countries with similar systems, it is very common for parties to form coalitions and govern as a team.",
+        "Likud, one of the major conservative parties, has led most governing coalitions for the past two decades , with party leader Benjamin Netanyahu as prime minister. Haredi parties are seen as strong conservative allies , and they have been key coalition members for Likud administrations. Today, as Netanyahu faces challenges from other right-wing parties over his handling of Oct. 7, 2023, and several wars, Likud may need them even more.",
+        "The fact that Likud has needed Haredi parties to form coalitions has given them negotiating power. For many years, one of their priorities has been draft exemptions for religious education .",
+        "Military service is mandatory for most groups in Israel, although Muslim and Christian Arab citizens are generally exempted. Jewish Israelis see conscription as a unifying experience and a costly demonstration of commitment to the state. Starting at age 18, most women serve two years and most men serve almost three years. Former soldiers can be called up as reservists into their 40s, depending on their training.",
+        "For decades, Haredi men received de facto exemptions. It was, effectively, one of several government arrangements that subsidize Haredi communities. Religious schools for teen boys and married men receive government payments for each student. Given the communities’ low employment rates, large families and high poverty rates, many families rely on public support .",
+        "In 2024, Israel’s Supreme Court ruled that a blanket exemption from military service for Haredim was not legal . Netanyahu’s government struggled to enact a compromise between those who favored drafting Haredim and the Haredi parties; the failure to find a lasting legal way to exempt Haredi men led Shas and UTJ to leave the Likud-led coalition in 2025.",
+        "Nonetheless, this ruling has not led to mass conscription.",
+        "Haredi groups have held public protests , and many have ignored draft notices. While tens of thousands of men are draft eligible but not serving , and most of them are Haredi, fewer than 500 evaders have been arrested in 2026. Netanyahu argues against arrests , saying they discourage men from enlisting without coercion.",
+        "In July 2026, at the urging of Haredi parties, the government passed a law to temporarily prevent arresting draft evaders. Some members of Netanyahu’s governing coalition opposed the law, however, and right-wing opposition parties filed petitions to challenge it in court .",
+        "Former Prime Minister Naftali Bennett – leader of the Together alliance, and seen as a key contender to oust Netanyahu – has threatened to cut subsidies to the Haredi community if they continue to defy the draft. Gadi Eisenkot, leader of the centrist Yashar party, is another top contender to replace Netanyahu . He has proposed allowing 3% of Haredi men exemptions to study , while drafting the majority.",
+        "As the number of conflict zones increases – Gaza, southern Lebanon and Iran, as well as deployments in the West Bank – the unequal burden of military participation is a growing source of resentment among many conscripted Israelis and their families. Seven in 10 Jewish Israelis favor drafting the Haredim.",
+        "Shas and UTJ, however, have declared they will not join a coalition unless it promises to codify the draft exemption into law .",
+        "When the Haredi parties exited Netanyahu’s coalition, Likud replaced them with nationalist parties that emphasize the state and Jewish supremacy. Particularly notable was the decision to include the Jewish Power party , an offshoot of an earlier group banned for racism ; including Kahanist groups was long seen as a red line .",
+        "Haredi communities, on the other hand, tend to prioritize religious Jewishness over the state. Most Haredim do not consider themselves Zionist , and a small percentage are anti-Zionist . They argue that it was sacrilegious for people to create a state of Israel rather than waiting for God to return Jews to the land of Israel. Where nationalist politicians emphasize the secular state and military service, Haredim see their religious study as service to the Jewish community.",
+        "As Likud’s changing coalition shows, Netanyahu’s alliances are strategic rather than ideological. I believe his decision to side with the Haredim on the recent draft legislation suggests his coalition is open to revision after the October 2026 election."
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "scitechdaily-common-chemicals-trigger-alarming-changes-in-human-breast-",
+      "title": "Common Chemicals Trigger Alarming Changes in Human Breast Tissue Models",
+      "dek": "Chemicals that disrupt hormones may leave a molecular “scar” that could someday help identify people at higher risk of breast cancer, research in human breast tissue models…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T14:20:55.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/common-chemicals-trigger-alarming-changes-in-human-breast-tissue-models/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Chemicals that disrupt hormones may leave a molecular “scar” that could someday help identify people at higher risk of breast cancer, research in human breast tissue models suggests.",
+        "People are typically exposed to several chemicals at once, including endocrine-disrupting chemicals that can interfere with the body’s hormones. Scientists have increasingly questioned whether these exposures contribute to breast cancer risk. Much of the evidence, however, comes from animal models or laboratory-grown cells that cannot fully reproduce the complexity of human breast tissue.",
+        "Researchers at Tufts University School of Medicine and Boston University investigated those effects using three-dimensional models of normal human breast tissue called organoids. Their study, published in the Proceedings of the National Academy of Sciences , found that three common bisphenols, BPA, BPS, and BPF, produced relatively few changes when tested individually. When combined at very low concentrations comparable to levels detected in human blood and urine, the chemicals disrupted normal development in organoids from most of the tissue donors.",
+        "The organoids were grown from breast tissue donated by 13 healthy young women. They contain multiple types of breast cells and can reproduce some aspects of human breast tissue development, allowing researchers to examine chemical exposures during that process.",
+        "“The breast also is unusual in that it undergoes major developmental changes well after birth, including during puberty and pregnancy,” said Charlotte Kuperwasser, the study’s senior author and a professor of developmental, molecular, and chemical biology at Tufts University School of Medicine. “And the concern is that breast tissue cells may be highly sensitive to environmental cues, such as chemical exposure, during critical windows of mammary gland development.”",
+        "As the organoids developed over about three weeks, the team exposed them to individual chemicals and mixtures. The panel included substances that disrupt hormones, chemicals that affect metabolism, and known or suspected carcinogens. Researchers then analyzed changes in gene activity and DNA modifications. Different chemicals affected development in different ways, with the bisphenol mixture producing the most striking finding.",
+        "“We intentionally used concentrations of chemicals that were relevant to real-world exposure rather than the very high doses sometimes used in toxicology studies,” said Kuperwasser. “We also tested a mixture of these because people are typically exposed to multiple chemicals at the same time.”",
+        "To explore how the changes associated with the bisphenol mixture might relate to disease, the team compared them with molecular data from human breast cancers. The exposure-associated pattern was most strongly represented in data from patients with invasive lobular carcinoma, a type of breast cancer that may not produce a detectable lump and can be difficult to detect with a mammogram.",
+        "That resemblance does not establish that the chemicals cause cancer or explain how the observed changes might contribute to breast disease. The researchers instead describe the work as a new way to investigate how environmental exposures affect normal human tissue before cancer develops.",
+        "“Historically, we have thought about cancer risk largely in terms of inherited mutations, lifestyle factors, and exposures that directly damage DNA,” said Kuperwasser. “These findings raise another possibility: Environmental exposures may subtly alter how normal tissues develop, leaving behind molecular changes that do not cause cancer by themselves but may make the tissue more permissive to cancer many years later.”",
+        "Kuperwasser noted that persistent molecular changes could eventually serve as a biological record, like a “scar” of past exposure. If validated in people, such markers could potentially help identify individuals at higher risk of breast cancer and guide earlier or more targeted screening.",
+        "“If these results are validated by additional studies, they could change how we think about cancer prevention,” said Kuperwasser.",
+        "Studies involving larger and more diverse groups of donors, along with a broader range of chemicals and mixtures, are needed to determine how widely the findings apply. Researchers also need to establish whether the molecular changes seen in organoids persist in human tissues and whether they are associated with, or contribute to, breast disease later in life.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "scitechdaily-a-deadly-virus-has-been-hiding-in-brazil-for-142-years-and",
+      "title": "A Deadly Virus Has Been Hiding in Brazil for 142 Years – and Scientists Just Uncovered a Hidden Danger",
+      "dek": "Scientists have uncovered new clues about the evolution of a rare, deadly Brazilian virus that has circulated largely undetected for more than a century.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T13:45:02.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-deadly-virus-has-been-hiding-in-brazil-for-142-years-and-scientists-just-uncovered-a-hidden-danger/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Scientists have uncovered new clues about the evolution of a rare, deadly Brazilian virus that has circulated largely undetected for more than a century.",
+        "A rare and deadly virus went undetected in Brazil after genetic changes allowed it to escape existing laboratory tests. Scientists investigating two fatal infections have now identified the mutations responsible, developed an improved detection method, and uncovered evidence that the pathogen has circulated in the country for more than a century.",
+        "The Sabiá virus can cause severe hemorrhagic and neurological illness, yet only four fatal cases have been documented in São Paulo state since 1990. New genomic research, published in PLOS Neglected Tropical Diseases , suggests that additional infections may have escaped diagnosis.",
+        "The investigation focused on two infections identified in 2019 and 2020. Researchers recovered viral genomes that were approximately 89% genetically identical to strains described in 1999. Crucially, some mutations affected the regions recognized by the DNA primers used in diagnostic tests, preventing those tests from detecting the circulating virus.",
+        "“The reference strain of the Sabiá virus dates back to 1990, from a case in Cotia. The diagnostic method was developed based on that genome. Since more than 30 years have passed, it was very likely that the virus had mutated. We don’t have enough cases to validate this method further, but it can be used for future suspected cases with greater accuracy than the tests used until now,” says Ingra Morales Claro, who conducted the research during her doctoral studies at the University of São Paulo Medical School (FM-USP) with a FAPESP scholarship. She is now a postdoctoral researcher at the University of Kentucky.",
+        "“When analyzing the genomes of the new cases, we identified mutations in target regions of the primers that prevented detection by existing diagnostic tests. We modified those regions, and now it’s possible to identify the circulating strains,” Claro explains. The redesigned primers have been sent to the Adolpho Lutz Institute, a major public health laboratory in São Paulo.",
+        "One case involved a 52-year-old man from Sorocaba who had a history of hiking in forested areas. He sought medical attention on December 30, 2019, and was transferred to the Hospital das Clínicas (Hospital das Clínicas) in São Paulo with suspected yellow fever. Initial tests for yellow fever and Sabiá virus were negative, and he died on January 11, 2020.",
+        "Researchers eventually detected Sabiá virus in his blood using metagenomic analysis, which searches for genetic material from multiple microorganisms without requiring scientists to identify a particular pathogen in advance. The rapid approach had been developed during Claro’s doctoral research to detect emerging pathogens in clinical samples.",
+        "The discovery prompted the team to examine blood samples from seven earlier patients with acute hemorrhagic and neurological illness who had tested negative for yellow fever. One sample revealed another Sabiá infection in a 63-year-old rural worker from Assis. He had been admitted to the Hospital das Clínicas on December 10, 2019, and died two days later.",
+        "Analysis of the newly recovered genomes identified changes in a viral protein involved in binding to human cells. Although these alterations could be relevant to how the virus interacts with its hosts, the study did not establish whether they changed its ability to infect people or cause severe disease.",
+        "The researchers also reconstructed the virus’s evolutionary history using phylogenetic analysis, which compares genetic differences to estimate relationships between viral lineages. Their findings suggest that Sabiá has been circulating in Brazil for approximately 142 years, rather than representing a recent introduction.",
+        "“There were likely other cases in the past that went unidentified. It’s important to understand the virus, develop tests, and study the changes occurring in its genome so that we can anticipate future cases, and even outbreaks, of the disease,” warns Ester Sabino, a professor at FM-USP who coordinates the Brazil-UK Joint Center for Arbovirus Discovery, Diagnostics, Genomics, and Epidemiology (CADDE) in Brazil.",
+        "Scientists have not established which animal species naturally maintains Sabiá virus, although wild rodents are considered possible reservoirs. The known infections occurred in rural settings where people may encounter wildlife, but the precise route of transmission remains uncertain."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "scitechdaily-mit-scientists-reprogram-immune-cells-inside-the-body-to-d",
+      "title": "MIT Scientists Reprogram Immune Cells Inside the Body To Destroy Cancer",
+      "dek": "Natural killer cells reprogrammed inside mice eliminated lymphoma tumors and helped damaged livers heal, though whether this approach could help people with cancer or…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T13:10:58.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/mit-scientists-reprogram-immune-cells-inside-the-body-to-destroy-cancer/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Natural killer cells reprogrammed inside mice eliminated lymphoma tumors and helped damaged livers heal, though whether this approach could help people with cancer or autoimmune disease remains unknown.",
+        "To make a cancer treatment from a patient’s T cells, doctors first collect a blood sample and send it to a laboratory. There, these immune cells are isolated and engineered to carry chimeric antigen receptors, or CARs, proteins that recognize a chosen target, such as a cancer protein. Once enough modified cells have been produced, they are shipped back to the hospital and infused into the patient. When a CAR detects its target, it activates the T cell to destroy the cell carrying it.",
+        "Producing similar treatments from natural killer (NK) cells poses many of the same manufacturing challenges, adding time and expense. MIT engineers have now developed a way to reprogram NK cells inside the body, without removing them for laboratory engineering. In experiments in mice, their approach successfully reprogrammed about 80 percent of the targeted NK cells. The study was published in Nature Biotechnology .",
+        "Over the past decade, the U. S. Food and Drug Administration has approved seven CAR T-cell cancer treatments. These therapies have had considerable success against blood cancers, primarily those originating in B cells, including several types of leukemia, lymphoma, and multiple myeloma. No CAR NK-cell therapies are currently FDA-approved, although many researchers are developing them for cancer and autoimmune disorders.",
+        "“The manufacturing challenges with CAR NK cells are significant. The idea here is you can deliver a nanoparticle that will modify your own NK cells with a CAR construct and teach them to attack tumor cells,” says Daniel Anderson, the study’s senior author, a professor in MIT’s Department of Chemical Engineering, and a member of MIT’s Koch Institute for Integrative Cancer Research and Institute for Medical Engineering and Science.",
+        "To deliver those instructions, the team designed lipid nanoparticles, tiny particles made from fatty molecules, that carry messenger RNA. The mRNA encodes a CAR protein that the receiving cell can make. Antibody fragments coating the particles bind to receptors on the surface of NK cells, helping direct the payload to the intended cells. This allows the engineering to happen “in vivo,” meaning inside the body.",
+        "The CAR encoded by the mRNA can be chosen according to the intended target. For example, the instructions could produce a receptor that recognizes CD19, a protein found on B cells, or CD3, a protein found on T cells, including autoreactive T cells that mistakenly attack the body’s own tissues.",
+        "“If a patient can just get an infusion of nanoparticles, it would dramatically simplify the process and reduce costs,” Anderson says.",
+        "Using NK cells also addresses a difficulty that arises when engineered T cells are used against T-cell diseases. A CAR designed to recognize T-cell proteins may lead the engineered T cells to kill one another along with the diseased cells. NK cells can target T cells without that problem.",
+        "“NK cells can treat these T cell malignancies — not only T cell cancer, but also T cell autoimmune diseases,” says MIT postdoc Yuang Chen, who is a lead author of the study alongside MIT graduate students Julia Monkovic and Haseeb Mughal.",
+        "The researchers tested the approach against T-cell lymphoma in humanized mice. These animals receive transfusions of human blood cells, temporarily giving them a human-like immune system. After five injections of the reprogramming nanoparticles, the tumors were eradicated. The result was similar to treatment with CAR NK cells made through the conventional process of removing NK cells, reprogramming them outside the body, and returning them to the mice.",
+        "The same delivery strategy could also equip NK cells to attack autoreactive T cells. To test that possibility, the team studied mice with autoimmune hepatitis, in which T cells attack liver cells called hepatocytes. After a single injection of the nanoparticles, the autoreactive T cells were destroyed, and liver damage healed.",
+        "The experiments also extended beyond diseases involving dysfunctional T cells. In a mouse model of an aggressive form of melanoma, three of five mice went into complete remission after receiving nanoparticles that reprogrammed their NK cells to target the cancer cells."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "conversation-fear-based-campaign-ads-can-grab-attention-but-whether-the",
+      "title": "Fear-based campaign ads can grab attention, but whether they win votes is less clear",
+      "dek": "On a Monday night in September 1964, television viewers watched a little girl counting petals on a flower. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T11:38:43.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/fear-based-campaign-ads-can-grab-attention-but-whether-they-win-votes-is-less-clear-292574"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "On a Monday night in September 1964, television viewers watched a little girl counting petals on a flower. Her voice gave way to a man counting down, and then a nuclear blast filled the screen.",
+        "The ad ran as a paid spot only once , in support of President Lyndon B. Johnson’s reelection campaign. It never mentioned his opponent, republican Barry Goldwater . The ad played on a fear voters already held, that Goldwater might start a nuclear war . Republicans protested loudly, Democrats pulled the spot, and the uproar got it rebroadcast in full on network news.",
+        "I study how emotional appeals persuade, from how viewers’ moods shape their reactions to political ads to how anxiety drives people to seek out , and sometimes fail to absorb, information about threats.",
+        "The LBJ “Daisy” ad shows why political campaigns to this day continue to reach for fear , and it hints at why the payoff is less predictable than you might think.",
+        "Fear is an alarm . It tells you something threatening is close. You feel scared when you believe you are at risk from something dangerous that can hurt you.",
+        "Anxiety knocks people off autopilot, sharpens attention and sends them looking for new information. That heightened attentiveness may be exactly what a struggling campaign wants.",
+        "When political scientists Travis Ridout and Kathleen Searles tracked Senate ads from 2004, they found that front-runners often leaned on enthusiasm and pride in their messaging, while candidates who were behind leaned on fear and anger.",
+        "During the 1998 Massachusetts governor’s race, political scientist Ted Brader ran a study that embedded campaign ads in a news broadcast and changed only the music and images, keeping the words identical . Those changes produced completely different reactions. When a negative ad paired grainy black-and-white images of drug use with tense music, viewers paid closer attention to the spoken message and became more open to reconsidering their chosen candidate.",
+        "Fear cues – like a nuclear mushroom cloud – can push viewers to weigh fresh information and reconsider their choice. One surprise: Politically informed citizens were more responsive to these emotional cues than less engaged ones. Fear is not simply a tool for swaying the uninformed, undecided voter. It also reaches people who follow politics closely. Emotion provides the motivation, while knowledge provides the ability to think carefully about the issues and positions and seek out more information.",
+        "More broadly, a meta-analysis of over 100 studies found that fear appeals reliably shift attitudes and behavior across health and other domains. For instance, public health researcher Lucy Popova tested fear-based messages designed to discourage smokers from trying snus, a smokeless tobacco product. She found that when participants perceived a serious threat but also felt capable of acting on it, they held less favorable attitudes toward snus and were less inclined to try it.",
+        "Political attack ads – fear messaging being one type – have a shakier record. A review of more than 100 studies found no dependable evidence that negative campaigning wins elections, and some evidence that it lowers positive feelings toward the candidate who sponsors it.",
+        "Communication scholar Kim Witte’s research found that fear motivates action when people believe there is a workable response that they can carry out. When the threat feels big and the solution feels out of reach, people protect themselves from the message instead . They tune out, deny the threat or decide the messenger is the problem.",
+        "For example, picture an ad geared toward adolescent vaping that shows teens in hospital beds with ventilators using scary terms like “popcorn lungs.” If the ad also communicates that vaping can destroy lungs irreversibly, the teen audience is likely to experience extreme fear while at the same time feeling like there’s no way to fix the problem.",
+        "My colleagues and I have seen this effect in our own experiments. We found that people who felt highly anxious and also confident they could act sought out the most information . Those who felt anxious but lacked that confidence did go looking, yet they recalled very little. Anxiety pushed them to search but got in the way of absorbing what they read.",
+        "A campaign that frightens voters without offering a clear step to address the issue could end up producing plenty of anxious attention and very little learning.",
+        "Empowerment also helps explain who shows up at the polls. Political scientist Nicholas Valentino and colleagues found that anger boosted voter participation more reliably than anxiety, and anxiety mattered mainly for people who already had the skills and resources to take actions like donate to campaigns, attend rallies, sign petitions and so on.",
+        "Fear does its most reliable work when it attaches to a stereotype voters already carry. The 1988 presidential race provides two classic examples.",
+        "One controversial ad, produced in support of Republican George H. W. Bush, showed a mugshot of a Black man. The ad named the man, Willie Horton, and a voiceover explained that he’d committed rape and assault while on a weekend furlough from prison as part of a program run under Massachusetts Governor Michael Dukakis, the Democratic candidate. The spot linked fears about crime to race without saying so directly.",
+        "Bush’s campaign followed up with the “ Revolving Door ” ad, which built on that anxiety. It featured stark, black-and-white footage of inmates marching through a revolving gate while a narrator warned that Dukakis had let murderers out of prison on weekend passes.",
+        "Political scientist Tali Mendelberg’s research described in “ The Race Card ” shows that these implicit appeals to prejudices and fears are powerful . But they lose much of their force once someone publicly names them as racial. Implicit appeals work because they slip past most voters’ commitment to racial equality; once the racial message is pointed out, voters recognize it and many reject it rather than see themselves as endorsing prejudice.",
+        "In a national experiment, Public Policy researcher Mirya Holman and colleagues found that when campaign messages triggered fears of terrorism , voters turned to their stereotypes of strong leaders as masculine. Those stereotypes hurt a female Democratic candidate, while Republican candidates of either gender were unaffected, since Republicans are already seen as tough on security .",
+        "A message communicating a threat does not need to name a candidate’s identity to disadvantage them. It simply makes voters reach for the stereotypes they already hold. There’s less systematic research on candidates’ religion, though the same mechanism – fear pushing voters to rely on the stereotypes they already hold about who can keep them safe – predicts similar vulnerability for Muslim candidates .",
+        "In 1828, opponents accused presidential candidate Andrew Jackson of murder and cannibalism . Both parties have leaned on fear in the television era, from Reagan’s 1984 “ Bear ” ad about an unnamed Soviet threat, to Democrats’ 1996 warnings that seniors’ Medicare was at risk .",
+        "What has grown is negativity overall. Political scientist John Geer’s analysis of presidential ads from 1960 to 2004 documents that rise , though he also found attack ads, more likely than positive ones, to focus on real issues rather than personal traits. The evidence that fear specifically has increased, as opposed to negativity in general, is less clear."
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "nasa-el-nin-o-then-and-now",
+      "title": "El Niño Then and Now",
+      "dek": "El Niño is part of a natural climate pattern that occurs roughly every two to seven years, bringing warmer-than-normal water to parts of the equatorial Pacific. ",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "El Niño is part of a natural climate pattern that occurs roughly every two to seven years, bringing warmer-than-normal water to parts of the equatorial Pacific. The most recent very strong El Niño events, in 1997-98 and 2015-16, upended weather patterns. Impacts spanned the planet, from fires in Indonesia and the Amazon, to crop failures due to drought in southern Africa , to heavy rain and coastal flooding in Southern California. The current El Niño rivals these past heavyweights.",
+        "Every El Niño grows from a feedback loop between the atmosphere and the ocean. Trade winds normally keep warm water piled up in the western Pacific, where it stands higher than in the east. When those winds weaken, that warm water begins to pulse eastward, which further weakens and sometimes reverses the winds, allowing even more warm water to move east. The cycle intensifies as waters continue to warm and pile up in the central and eastern Pacific.",
+        "But each El Niño has its own character, shaped by where in the Pacific the warmth builds and how the atmosphere responds. “The search for the ‘typical’ El Niño is very elusive,” said Josh Willis, project scientist for sea level missions at NASA’s Jet Propulsion Laboratory (JPL). “They’re all different in terms of where they land and how their impacts play out.”",
+        "Altimetry satellites can track those differences by measuring the height of the sea surface. Because water expands as it warms, higher-than-normal sea levels in the central and eastern equatorial Pacific signal the buildup of heat associated with El Niño. The maps above depict sea surface height anomalies across the Pacific Ocean on October 13, 1997 (left), and on October 12, 2026 (right). Data are from the TOPEX/Poseidon satellite and the Sentinel-6 Michael Freilich satellite, respectively, and were processed by scientists at JPL.",
+        "Shades of red indicate where sea levels were higher than average. Normal sea level conditions appear white, and lower areas are blue. Signals related to seasonal cycles and long-term trends have been removed to highlight sea level anomalies associated with El Niño and other short-term natural phenomena.",
+        "“What’s unique about altimetry is that we have a 35-year record from nearly identical satellites flying almost the same ground track, with each mission overlapping the next,” Willis said. “That lets us look back in time and compare this El Niño to what happened in 1997. And right now, this one is on track to be even bigger.”",
+        "Compared with the 1997-98 event, El Niño in 2026 came on much more suddenly. But as of October, the two events appear similar in character—the tilt of sea level (low in the west and high in the east) and high, warm water extending all the way to South America—so Willis thinks the impacts could be similar as well. In 1997-98, that meant, for instance, lots of rain in California and across the southern tier of the U. S.",
+        "The 2015-16 El Niño was another heavy hitter but differed in its character. Sea surface height anomalies on October 12, 2015, based on altimetry data from the Jason-2 satellite, are shown above in context with maps from around the same time in 1997 and 2026. In 2015, the exceptionally warm, high water along the equator didn’t push up against South America to the extent it did in the other years. Rainfall impacts that winter concentrated more over Central America and the southeastern U. S. , with significant flooding in Mexico.",
+        "NOAA’s El Niño outlook on October 8, 2026, called for an 83 percent chance of a strong-to-very strong El Niño through the first three months of 2027. But exactly how the impacts will play out in winter 2026-27 and beyond remains to be seen. Willis noted that El Niño’s influence propagates through a chaotic atmosphere, and the signal can get muddled as it extends beyond the tropics. “There’s always a bit of a dice roll here,” Willis said. “Just because this El Niño looks like 1997 doesn’t mean it will be exactly the same—it’s just our best guess at the moment.”",
+        "NASA Earth Observatory maps by Lauren Dauphin, using NASA-SSH altimetry data provided by Josh Willis, Severine Fournier, and Kevin Marlis, NASA/JPL-Caltech."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "nasa-news-el-nin-o-then-and-now",
+      "title": "El Niño Then and Now",
+      "dek": "El Niño is part of a natural climate pattern that occurs roughly every two to seven years, bringing warmer-than-normal water to parts of the equatorial Pacific. ",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "El Niño is part of a natural climate pattern that occurs roughly every two to seven years, bringing warmer-than-normal water to parts of the equatorial Pacific. The most recent very strong El Niño events, in 1997-98 and 2015-16, upended weather patterns. Impacts spanned the planet, from fires in Indonesia and the Amazon, to crop failures due to drought in southern Africa , to heavy rain and coastal flooding in Southern California. The current El Niño rivals these past heavyweights.",
+        "Every El Niño grows from a feedback loop between the atmosphere and the ocean. Trade winds normally keep warm water piled up in the western Pacific, where it stands higher than in the east. When those winds weaken, that warm water begins to pulse eastward, which further weakens and sometimes reverses the winds, allowing even more warm water to move east. The cycle intensifies as waters continue to warm and pile up in the central and eastern Pacific.",
+        "But each El Niño has its own character, shaped by where in the Pacific the warmth builds and how the atmosphere responds. “The search for the ‘typical’ El Niño is very elusive,” said Josh Willis, project scientist for sea level missions at NASA’s Jet Propulsion Laboratory (JPL). “They’re all different in terms of where they land and how their impacts play out.”",
+        "Altimetry satellites can track those differences by measuring the height of the sea surface. Because water expands as it warms, higher-than-normal sea levels in the central and eastern equatorial Pacific signal the buildup of heat associated with El Niño. The maps above depict sea surface height anomalies across the Pacific Ocean on October 13, 1997 (left), and on October 12, 2026 (right). Data are from the TOPEX/Poseidon satellite and the Sentinel-6 Michael Freilich satellite, respectively, and were processed by scientists at JPL.",
+        "Shades of red indicate where sea levels were higher than average. Normal sea level conditions appear white, and lower areas are blue. Signals related to seasonal cycles and long-term trends have been removed to highlight sea level anomalies associated with El Niño and other short-term natural phenomena.",
+        "“What’s unique about altimetry is that we have a 35-year record from nearly identical satellites flying almost the same ground track, with each mission overlapping the next,” Willis said. “That lets us look back in time and compare this El Niño to what happened in 1997. And right now, this one is on track to be even bigger.”",
+        "Compared with the 1997-98 event, El Niño in 2026 came on much more suddenly. But as of October, the two events appear similar in character—the tilt of sea level (low in the west and high in the east) and high, warm water extending all the way to South America—so Willis thinks the impacts could be similar as well. In 1997-98, that meant, for instance, lots of rain in California and across the southern tier of the U. S.",
+        "The 2015-16 El Niño was another heavy hitter but differed in its character. Sea surface height anomalies on October 12, 2015, based on altimetry data from the Jason-2 satellite, are shown above in context with maps from around the same time in 1997 and 2026. In 2015, the exceptionally warm, high water along the equator didn’t push up against South America to the extent it did in the other years. Rainfall impacts that winter concentrated more over Central America and the southeastern U. S. , with significant flooding in Mexico.",
+        "NOAA’s El Niño outlook on October 8, 2026, called for an 83 percent chance of a strong-to-very strong El Niño through the first three months of 2027. But exactly how the impacts will play out in winter 2026-27 and beyond remains to be seen. Willis noted that El Niño’s influence propagates through a chaotic atmosphere, and the signal can get muddled as it extends beyond the tropics. “There’s always a bit of a dice roll here,” Willis said. “Just because this El Niño looks like 1997 doesn’t mean it will be exactly the same—it’s just our best guess at the moment.”",
+        "NASA Earth Observatory maps by Lauren Dauphin, using NASA-SSH altimetry data provided by Josh Willis, Severine Fournier, and Kevin Marlis, NASA/JPL-Caltech."
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "nasa-nasa-invites-media-to-2026-von-braun-space-exploration-sym",
+      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "dek": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-22T21:39:58.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville.",
+        "This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce.",
+        "Panels include discussions on Artemis II and III, space propulsion flash talks, building utilities and infrastructure for sustainable lunar operations, Moon base supply chain resilience, space nuclear technology, navigating the new NASA workforce, and engineering the future, featuring keynotes and awards presentations.",
+        "To request an interview with NASA speakers during the event, media must contact Lance D. Davis, lance. d. davis@nasa. gov , and Joel Wallace, joel. w. wallace@nasa. gov . Media interested in participating in-person or online must contact the American Astronomical Society to register.",
+        "Organized by the American Astronautical Society in collaboration with NASA’s Marshall Space Flight Center in Huntsville, Alabama, the annual event gathers leaders from government, industry, policy, and academia to discuss the current landscape of space exploration and help chart a path forward.",
+        "Lance D. Davis Marshall Space Flight Center, Huntsville, Ala. 256-640-9065 lance. d. davis@nasa. gov"
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "nasa-news-nasa-invites-media-to-2026-von-braun-space-exploration-sym",
+      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "dek": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-22T21:39:58.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville.",
+        "This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce.",
+        "Panels include discussions on Artemis II and III, space propulsion flash talks, building utilities and infrastructure for sustainable lunar operations, Moon base supply chain resilience, space nuclear technology, navigating the new NASA workforce, and engineering the future, featuring keynotes and awards presentations.",
+        "To request an interview with NASA speakers during the event, media must contact Lance D. Davis, lance. d. davis@nasa. gov , and Joel Wallace, joel. w. wallace@nasa. gov . Media interested in participating in-person or online must contact the American Astronomical Society to register.",
+        "Organized by the American Astronautical Society in collaboration with NASA’s Marshall Space Flight Center in Huntsville, Alabama, the annual event gathers leaders from government, industry, policy, and academia to discuss the current landscape of space exploration and help chart a path forward.",
+        "Lance D. Davis Marshall Space Flight Center, Huntsville, Ala. 256-640-9065 lance. d. davis@nasa. gov"
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "nasa-nasas-hubble-charts-path-for-roman-with-gravitational-lens",
+      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
+      "dek": "A sweeping barred spiral galaxy marks the spot in this image, but the real treasure is the gravitational lens in the lower-right corner, where a distant background galaxy is…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-22T16:20:37.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "A sweeping barred spiral galaxy marks the spot in this image, but the real treasure is the gravitational lens in the lower-right corner, where a distant background galaxy is being magnified and distorted by the gravity of a closer galaxy.",
+        "This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope in preparation for science with the new Nancy Grace Roman Space Telescope .",
+        "Gravitational lensing occurs when the mass of a foreground object – such as a galaxy – warps spacetime, causing light to bend, distort, and magnify as it passes around the object, similar to a giant lens in space. Lenses like this occur when a precise chance alignment takes place between the foreground and background galaxies, causing light from the background galaxy to curve around the foreground galaxy.",
+        "In this image, the gravitational lens features a foreground elliptical galaxy that is about 4. 5 billion light-years away. That means the light we see from this galaxy now would have first started traveling toward us when our solar system was still forming. The background galaxy is about eight billion light-years away, almost twice as far. It appears as a pair of arcs, one large and very noticeable to the upper left of the foreground galaxy, the other a much smaller, flipped image of the same background galaxy to the lower right. This configuration is called an arc-counterarc pair.",
+        "The more massive the foreground galaxy is, the stronger the gravitational lens and the more significantly it bends light. By studying the distortion of the background galaxy, researchers can determine how much mass the foreground galaxy contains. This plays a huge role in the study of dark matter, the mysterious, invisible substance that makes up the majority of mass in the universe. The visible matter is not enough to account for the level of distortion in the background galaxy, which allows researchers to calculate both the mass of the foreground galaxy and how much dark matter it contains.",
+        "Almost all of the objects in this image are galaxies, except for a few scattered foreground stars. The barred spiral galaxy in this image – so called because its arms extend from a bar of stars in its center – is about the size of our own Milky Way galaxy, which astronomers think is a barred spiral as well. The tiny spiral to the left of the large spiral may be a satellite galaxy, similar to the Large and Small Magellanic Clouds that orbit the Milky Way.",
+        "Hubble views the cosmos primarily in visible and ultraviolet light with some infrared coverage, and Roman sees mainly infrared wavelengths and some visible light. Hubble can provide high-resolution views of individual objects, while Roman has a much larger field of view conducive to panoramas.",
+        "Images like this offer a glimpse of how Hubble and Roman will work together to build an even more comprehensive picture of the cosmos. This is just one of many gravitational lens images captured by Hubble. Astronomers will use them to analyze gravitational distortions to learn more about dark matter in the foreground galaxies and to lay the groundwork for future Roman observations.",
+        "Hubble can only view these gravitational lenses one at a time, while Roman’s wide view of the sky will provide a greater sample of these lenses. Astronomers are using Hubble’s sharp images to build a computer model to better analyze dark matter-induced distortions. This tool will help astronomers analyze Roman’s large images. Hubble will also follow up on interesting lenses Roman detects.",
+        "Claire Andreoli NASA’s Goddard Space Flight Center , Greenbelt, MD claire. andreoli@nasa. gov",
+        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
+        "NASA’s Hubble and Roman space telescopes will work together to broaden our perspective of the universe.",
+        "Hubble and Webb observations complement each other, providing us with a broad view of the universe.",
+        "Take a look at what cosmic wonders Hubble observed on your special day!"
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "nasa-news-nasas-hubble-charts-path-for-roman-with-gravitational-lens",
+      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
+      "dek": "A sweeping barred spiral galaxy marks the spot in this image, but the real treasure is the gravitational lens in the lower-right corner, where a distant background galaxy is…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-22T16:20:37.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "A sweeping barred spiral galaxy marks the spot in this image, but the real treasure is the gravitational lens in the lower-right corner, where a distant background galaxy is being magnified and distorted by the gravity of a closer galaxy.",
+        "This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope in preparation for science with the new Nancy Grace Roman Space Telescope .",
+        "Gravitational lensing occurs when the mass of a foreground object – such as a galaxy – warps spacetime, causing light to bend, distort, and magnify as it passes around the object, similar to a giant lens in space. Lenses like this occur when a precise chance alignment takes place between the foreground and background galaxies, causing light from the background galaxy to curve around the foreground galaxy.",
+        "In this image, the gravitational lens features a foreground elliptical galaxy that is about 4. 5 billion light-years away. That means the light we see from this galaxy now would have first started traveling toward us when our solar system was still forming. The background galaxy is about eight billion light-years away, almost twice as far. It appears as a pair of arcs, one large and very noticeable to the upper left of the foreground galaxy, the other a much smaller, flipped image of the same background galaxy to the lower right. This configuration is called an arc-counterarc pair.",
+        "The more massive the foreground galaxy is, the stronger the gravitational lens and the more significantly it bends light. By studying the distortion of the background galaxy, researchers can determine how much mass the foreground galaxy contains. This plays a huge role in the study of dark matter, the mysterious, invisible substance that makes up the majority of mass in the universe. The visible matter is not enough to account for the level of distortion in the background galaxy, which allows researchers to calculate both the mass of the foreground galaxy and how much dark matter it contains.",
+        "Almost all of the objects in this image are galaxies, except for a few scattered foreground stars. The barred spiral galaxy in this image – so called because its arms extend from a bar of stars in its center – is about the size of our own Milky Way galaxy, which astronomers think is a barred spiral as well. The tiny spiral to the left of the large spiral may be a satellite galaxy, similar to the Large and Small Magellanic Clouds that orbit the Milky Way.",
+        "Hubble views the cosmos primarily in visible and ultraviolet light with some infrared coverage, and Roman sees mainly infrared wavelengths and some visible light. Hubble can provide high-resolution views of individual objects, while Roman has a much larger field of view conducive to panoramas.",
+        "Images like this offer a glimpse of how Hubble and Roman will work together to build an even more comprehensive picture of the cosmos. This is just one of many gravitational lens images captured by Hubble. Astronomers will use them to analyze gravitational distortions to learn more about dark matter in the foreground galaxies and to lay the groundwork for future Roman observations.",
+        "Hubble can only view these gravitational lenses one at a time, while Roman’s wide view of the sky will provide a greater sample of these lenses. Astronomers are using Hubble’s sharp images to build a computer model to better analyze dark matter-induced distortions. This tool will help astronomers analyze Roman’s large images. Hubble will also follow up on interesting lenses Roman detects.",
+        "Claire Andreoli NASA’s Goddard Space Flight Center , Greenbelt, MD claire. andreoli@nasa. gov",
+        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
+        "NASA’s Hubble and Roman space telescopes will work together to broaden our perspective of the universe.",
+        "Hubble and Webb observations complement each other, providing us with a broad view of the universe.",
+        "Take a look at what cosmic wonders Hubble observed on your special day!"
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "conversation-surviving-cancer-starts-at-diagnosis-and-continues-after-t",
+      "title": "Surviving cancer starts at diagnosis and continues after treatment – earlier survivorship care can help patients feel better and live longer",
+      "dek": "“You have cancer.” It’s a phrase that comes as a shock, then is quickly followed by a whirlwind of decisions that somehow feel fast and slow at the same time.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T15:06:45.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/surviving-cancer-starts-at-diagnosis-and-continues-after-treatment-earlier-survivorship-care-can-help-patients-feel-better-and-live-longer-294431"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "“You have cancer.” It’s a phrase that comes as a shock, then is quickly followed by a whirlwind of decisions that somehow feel fast and slow at the same time.",
+        "You have treatments to decide on. You are trying to figure out how you might work, care for your family and undergo a variety of intensive medical appointments all at the same time. You are centered on the here and now, and thinking about five or 10 years down the road is not at the forefront of your mind. Getting through treatment is the finish line you are reaching for; that is when you may actually feel like a cancer survivor.",
+        "As a nurse and scientist who has spent over a decade caring for cancer patients and studying ways to ease the effects of treatment, I have heard this story time and time again from both survivors and their loved ones. But survivorship actually begins at the time of diagnosis.",
+        "In fact, in our newly published research in JAMA Otolaryngology–Head & Neck Surgery, my team and I found that patients with head and neck cancer who started survivorship care – healthcare services that support a cancer survivor’s physical, emotional, social and practical needs – earlier were more likely to stick to treatment and be alive without cancer three years after treatment.",
+        "Clinicians and researchers consider a person a cancer survivor from the time they are diagnosed through the end of their life. More important than the term is what cancer survivorship is meant to look like for the patient.",
+        "Cancer survivorship reflects the patient’s experience with cancer and cancer treatment, and the physical, emotional and social effects that has on their life. Survivorship care is designed to identify and address the complex needs of a cancer survivor beyond just the physical changes. It involves coordinating care and promoting the person’s overall health and well-being.",
+        "This care can look different for each patient, depending on the cancer they have and their individual needs. For example, my team and I designed a survivorship clinic at UPMC in Pittsburgh, Pennsylvania, to address the most common issues head and neck cancer survivors experience. In addition to surgeons and nurses, our team includes swallowing therapists, a physical therapist, a dental care team and a dietitian to help address issues with swallowing, nutrition, dental health, physical function and mood. All of these services are offered at the same location and can be completed in one visit on the same day, generally under one copay.",
+        "After the visit, the cancer survivor, their oncology team and their primary care clinician receive a care plan to help coordinate care and communication among all their providers. Rather than as a one-time session, our survivorship clinic builds relationships with survivors, supporting them as their needs change over time.",
+        "While a person becomes a survivor at the time of diagnosis, most survivorship care is delivered after the initial treatment has ended. This may be partly because to be accredited by a major medical body that sets cancer care standards, the American College of Surgeons Commission on Cancer , hospitals must offer at least three services to cancer survivors after they complete their initial treatment.",
+        "While survivorship care can ease physical and psychological issues after cancer treatment, survivors often report significant unmet needs before and during treatment.",
+        "In my specialty of head and neck cancers, many patients undergo a grueling five to seven weeks of radiation therapy, often in addition to chemotherapy. They experience a host of side effects: pain, mouth sores, skin burns, difficulty swallowing and weight loss, which together can lead to treatment interruption and hospitalization . These side effects often continue and sometimes worsen years after treatment .",
+        "While our survivorship clinic was initially designed for patients who completed treatment, we later expanded our services to patients before radiation. We previously found that starting survivorship care before radiation was associated with better quality of life and reduced symptoms .",
+        "In our newly published research, we found that among 471 cancer survivors, 62% of those who attended our survivorship clinic before completing radiation finished treatment on time , compared with 48% of those who were not seen before completing radiation. At three years, 60% of patients seen in the survivorship clinic before completing radiation were alive and cancer-free, compared with 39% of those not seen before completion. The association remained after accounting for whether patients completed radiation on time, suggesting that on-time completion may not fully explain the difference.",
+        "Although our results suggest that shifting the start of survivorship care to before treatment may improve outcomes, they do not prove it. Our team plans to test in a larger clinical trial whether starting survivorship care before radiation helps patients finish treatment on time and maintain quality of life, while also examining how teams coordinate care and referrals.",
+        "Comprehensive cancer care implies not only a comprehensive treatment plan, but also supportive care that will help patients live well beyond their diagnosis and treatment. However, a 2024 survey of 384 facilities accredited by the American College of Surgeons Commission on Cancer found that only 1 in 5 programs estimated that most of their eligible patients receive survivorship care .",
+        "For head and neck cancer survivors specifically, nearly all clinicians routinely assess cancer recurrence, swallowing and thyroid function. But only about half address psychological symptoms , such as anxiety and depression, and fewer than 1 in 3 addressed body image or sleep problems.",
+        "Survivorship care is often framed as care that begins after treatment ends, which can delay patients’ access to support during treatment. Communication breakdowns may leave patients unaware of available services, while a lack of referrals can keep them from receiving needed care. Survivorship care also draws on clinicians with different areas of expertise, and some hospitals and treatment centers may lack enough dedicated staff time to provide a full range of services.",
+        "The end of treatment is a huge milestone that patients and their loved ones reach for. But it is not where survivorship care truly starts.",
+        "Making survivorship care more accessible may help make cancer care more comprehensive. Clinicians and researchers can start planning for the survivor’s life after cancer even when it’s not on the patient’s mind. Bringing a team that combines treatment experts with rehabilitation and supportive care specialists into the room early can help achieve better outcomes for patients.",
+        "As a cancer survivor or a loved one, you don’t need to wait.",
+        "Marci Lee Nilsen receives funding from the National Institutes of Health and the Gordon and Betty Moore Foundation. She directs the UPMC Head and Neck Cancer Survivorship Clinic, which was the setting for the research described in this article."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "nasa-fires-char-new-guinea",
+      "title": "Fires Char New Guinea",
+      "dek": "New Guinea, the world’s second-largest island, harbors an extraordinary variety of plant life across more than a dozen distinct ecoregions , including seasonally dry…",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T04:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "New Guinea, the world’s second-largest island, harbors an extraordinary variety of plant life across more than a dozen distinct ecoregions , including seasonally dry savannas, tropical rainforests, and lowland swamp forests. But in September and October 2026, as drought gripped New Guinea (sometimes called Papua) amid a strong El Niño , fires scorched the island and smoke shrouded large swaths of it for weeks.",
+        "The VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-20 satellite captured this image of thick smoke streaming from the southern part of the island on October 11, 2026. In recent weeks, soaring levels of air pollution delayed and canceled flights , closed schools, and prompted officials in some areas to urge children and older people to wear masks.",
+        "“Sometimes smoke that has drifted into the convection of nearby thunderstorms will get washed out or lofted up into the upper troposphere, but a lot of smoke stays near the surface and causes air quality problems,” said Robert Field, an associate research scientist at NASA’s Goddard Institute for Space Studies and Columbia University. “It’s a horrible situation.”",
+        "According to the Global Fire Emissions Database (GFED), a fire emissions monitoring system, fires in Papua New Guinea, on the eastern half of the island, had released nearly 32 megatons of carbon by October 17, more than any other year on record at that point in the year (charts above). “Emissions are already much higher than the 2015 total for the year, and it’s very likely that this will become the highest year on record for Papua New Guinea, even surpassing 1997,” said Guido van der Werf, a fire scientist at Wageningen University & Research.",
+        "On the Indonesian side, sometimes called West New Guinea or Indonesian Papua, carbon emissions exceeded 35 megatons , the third highest after 2015 and 1997, other El Niño years with severe fires. Van der Werf led the development of GFED, a satellite-driven modeling framework that uses a mix of remote sensing , vegetation characteristics, and other information to estimate the extent of vegetation fires and the emissions over nearly three decades.",
+        "Unusually dry weather—a byproduct of El Niño shifting rainfall patterns —has primed ecosystems across the island to burn. The southernmost part of Papua New Guinea, dominated by relatively fire-prone savannas and grasslands of the Trans-Fly region , went more than 90 consecutive days without rain, according to Papua New Guinea’s National Weather Service . Since August, parts of the region have seen precipitation of roughly 5 to 10 percent of normal, according to the weather service’s data. Local news outlets report that drought is causing crop failures , water shortages , and school disruptions .",
+        "In this normally wet part of the world, people ignite the vast majority of fires, researchers say. Crop fires, pasture maintenance, deforestation and land clearing, and hunting are all common reasons people burn in New Guinea. In dry conditions, managed fires sometimes spread and burn uncontrolled as wildfires, particularly in the drier, southernmost parts of the island.",
+        "“We’re seeing an exceptionally high level of fire activity in Papua New Guinea and Eastern Indonesia, particularly Indonesian Papua and Kalimantan, this year compared with Sumatra and other parts of Western Indonesia,” said Yang Chen, an associate researcher at the University of California, Irvine. “Papua has emerged as Indonesia’s new deforestation frontier.”",
+        "Over the past two decades , land in Indonesian Papua has been cleared for industrial oil palm and pulpwood plantations, shifting small-scale cultivation, urban expansion, and mining . According to Global Forest Watch, the region lost 27,000 hectares of primary forest in 2025, nearly double the 2024 total and the most since 2017.",
+        "Sumatra’s fires are relatively low compared to other drought years partly because many areas are already developed. “Areas with large oil palm, sugarcane, or pulpwood plantations also often have their own private fire brigades to protect their assets,” said Field. “It’s in unmanaged areas or primary forest edges where we’re generally seeing the most fire.”",
+        "Researchers expect the fires to continue until the heavy rains of the wet season arrive in the southern part of New Guinea, typically in early November."
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "nasa-news-fires-char-new-guinea",
+      "title": "Fires Char New Guinea",
+      "dek": "New Guinea, the world’s second-largest island, harbors an extraordinary variety of plant life across more than a dozen distinct ecoregions , including seasonally dry…",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T04:01:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "New Guinea, the world’s second-largest island, harbors an extraordinary variety of plant life across more than a dozen distinct ecoregions , including seasonally dry savannas, tropical rainforests, and lowland swamp forests. But in September and October 2026, as drought gripped New Guinea (sometimes called Papua) amid a strong El Niño , fires scorched the island and smoke shrouded large swaths of it for weeks.",
+        "The VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-20 satellite captured this image of thick smoke streaming from the southern part of the island on October 11, 2026. In recent weeks, soaring levels of air pollution delayed and canceled flights , closed schools, and prompted officials in some areas to urge children and older people to wear masks.",
+        "“Sometimes smoke that has drifted into the convection of nearby thunderstorms will get washed out or lofted up into the upper troposphere, but a lot of smoke stays near the surface and causes air quality problems,” said Robert Field, an associate research scientist at NASA’s Goddard Institute for Space Studies and Columbia University. “It’s a horrible situation.”",
+        "According to the Global Fire Emissions Database (GFED), a fire emissions monitoring system, fires in Papua New Guinea, on the eastern half of the island, had released nearly 32 megatons of carbon by October 17, more than any other year on record at that point in the year (charts above). “Emissions are already much higher than the 2015 total for the year, and it’s very likely that this will become the highest year on record for Papua New Guinea, even surpassing 1997,” said Guido van der Werf, a fire scientist at Wageningen University & Research.",
+        "On the Indonesian side, sometimes called West New Guinea or Indonesian Papua, carbon emissions exceeded 35 megatons , the third highest after 2015 and 1997, other El Niño years with severe fires. Van der Werf led the development of GFED, a satellite-driven modeling framework that uses a mix of remote sensing , vegetation characteristics, and other information to estimate the extent of vegetation fires and the emissions over nearly three decades.",
+        "Unusually dry weather—a byproduct of El Niño shifting rainfall patterns —has primed ecosystems across the island to burn. The southernmost part of Papua New Guinea, dominated by relatively fire-prone savannas and grasslands of the Trans-Fly region , went more than 90 consecutive days without rain, according to Papua New Guinea’s National Weather Service . Since August, parts of the region have seen precipitation of roughly 5 to 10 percent of normal, according to the weather service’s data. Local news outlets report that drought is causing crop failures , water shortages , and school disruptions .",
+        "In this normally wet part of the world, people ignite the vast majority of fires, researchers say. Crop fires, pasture maintenance, deforestation and land clearing, and hunting are all common reasons people burn in New Guinea. In dry conditions, managed fires sometimes spread and burn uncontrolled as wildfires, particularly in the drier, southernmost parts of the island.",
+        "“We’re seeing an exceptionally high level of fire activity in Papua New Guinea and Eastern Indonesia, particularly Indonesian Papua and Kalimantan, this year compared with Sumatra and other parts of Western Indonesia,” said Yang Chen, an associate researcher at the University of California, Irvine. “Papua has emerged as Indonesia’s new deforestation frontier.”",
+        "Over the past two decades , land in Indonesian Papua has been cleared for industrial oil palm and pulpwood plantations, shifting small-scale cultivation, urban expansion, and mining . According to Global Forest Watch, the region lost 27,000 hectares of primary forest in 2025, nearly double the 2024 total and the most since 2017.",
+        "Sumatra’s fires are relatively low compared to other drought years partly because many areas are already developed. “Areas with large oil palm, sugarcane, or pulpwood plantations also often have their own private fire brigades to protect their assets,” said Field. “It’s in unmanaged areas or primary forest edges where we’re generally seeing the most fire.”",
+        "Researchers expect the fires to continue until the heavy rains of the wet season arrive in the southern part of New Guinea, typically in early November."
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "nasa-faster-to-science-a-letter-to-the-science-community",
+      "title": "Faster to Science: A Letter to the Science Community",
+      "dek": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T00:00:16.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall, from NASA Headquarters, to explain our new Competition Model 2. 0 (CM 2. 0), and answer your questions. ( Details below. )",
+        "We have heard you. We have listened. We know that the burden of bringing great ideas forward has been too heavy for too long. It has taken years to move mission concepts through the current two-step process. This has often come with contract management challenges, unpredictability, and not enough funding. NASA is committed to doing better — and I’m excited to share with you how we’re making it happen.",
+        "I am so pleased that NASA Administrator Jared Isaacman has empowered the Science Mission Directorate to take action and make our mission selection process move more smoothly, efficiently, and effectively. The Administrator has directed us to accelerate the delivery of science, reduce the time and resources spent on long competitive processes, and focus funding on the highest-priority missions across every NASA Science division as quickly and affordably as possible. Predictability in delivering incredible science will be at the forefront of what we do.",
+        "We are committed to getting this right. Some of these changes will take time to fully implement. We will roll them out in stages, be thoughtful about them, and refine them with your input along the way. But time is also of the essence. By streamlining how missions are proposed, reviewed, and selected, we can make meaningful change right now. That streamlined approach is Competition Model 2. 0, or CM2. 0, and it is how we are answering the Administrator’s call to get you to science faster.",
+        "CM2. 0 starts from a simple idea: compete on the science first. Proposals will be science-focused and will not require detailed engineering plans, cost, and implementation work until they are truly needed to make a decision. This frees you to spend more of your time doing science and less of it proposing how to do science.",
+        "Here is how we will streamline mission selection across our mission classes:",
+        "CM2. 0 will not change how we manage our largest missions since that process has already been reformed. After the James Webb Space Telescope, NASA conducted the Large Mission Study which drew lessons from Webb and best practices from our most successful flagships into a single, documented approach for building large missions more efficiently. Flagships will continue to follow that approach, with NASA directing the overall mission to a lead NASA Center and it will then compete the science teams and instruments through targeted solicitations.",
+        "These missions will move to a new, accelerated two-step competition:",
+        "These updates in the mission selection process will reduce time from AO to step 2 selection by up to 45 percent. This means that the original 35-months timeline will be reduced to about 19. 5 months, all while having a stronger, more mature mission at the time of selection.",
+        "These missions follow the same two-step approach with an even broader field of implementing organizations, including universities and industry partners. Implementing organizations and partners will be evaluated on past performance on projects of similar complexity and cost prior to mission selection. PI-led teams can request pairing with either a Goddard or JPL implementation team at Step 1 selection, and NASA can provide Center support where it will help with procurement, contract management, or quick resolution of technical challenges. This will result again in an up to a 45 percent reduction in the selection timeline.",
+        "These missions will move to a single-step competition with a smaller review team and virtual site visits. They will also be open to a broad range of implementing organizations. The time to final selection will drop from about 32 months to about 19 months which is a reduction of up to 40 percent. Our smallest missions will be riding the momentum of a maturing commercial space economy and will move even faster. This means more missions, more often, with more incredible science at a lower cost."
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "nasa-news-faster-to-science-a-letter-to-the-science-community",
+      "title": "Faster to Science: A Letter to the Science Community",
+      "dek": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T00:00:16.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall, from NASA Headquarters, to explain our new Competition Model 2. 0 (CM 2. 0), and answer your questions. ( Details below. )",
+        "We have heard you. We have listened. We know that the burden of bringing great ideas forward has been too heavy for too long. It has taken years to move mission concepts through the current two-step process. This has often come with contract management challenges, unpredictability, and not enough funding. NASA is committed to doing better — and I’m excited to share with you how we’re making it happen.",
+        "I am so pleased that NASA Administrator Jared Isaacman has empowered the Science Mission Directorate to take action and make our mission selection process move more smoothly, efficiently, and effectively. The Administrator has directed us to accelerate the delivery of science, reduce the time and resources spent on long competitive processes, and focus funding on the highest-priority missions across every NASA Science division as quickly and affordably as possible. Predictability in delivering incredible science will be at the forefront of what we do.",
+        "We are committed to getting this right. Some of these changes will take time to fully implement. We will roll them out in stages, be thoughtful about them, and refine them with your input along the way. But time is also of the essence. By streamlining how missions are proposed, reviewed, and selected, we can make meaningful change right now. That streamlined approach is Competition Model 2. 0, or CM2. 0, and it is how we are answering the Administrator’s call to get you to science faster.",
+        "CM2. 0 starts from a simple idea: compete on the science first. Proposals will be science-focused and will not require detailed engineering plans, cost, and implementation work until they are truly needed to make a decision. This frees you to spend more of your time doing science and less of it proposing how to do science.",
+        "Here is how we will streamline mission selection across our mission classes:",
+        "CM2. 0 will not change how we manage our largest missions since that process has already been reformed. After the James Webb Space Telescope, NASA conducted the Large Mission Study which drew lessons from Webb and best practices from our most successful flagships into a single, documented approach for building large missions more efficiently. Flagships will continue to follow that approach, with NASA directing the overall mission to a lead NASA Center and it will then compete the science teams and instruments through targeted solicitations.",
+        "These missions will move to a new, accelerated two-step competition:",
+        "These updates in the mission selection process will reduce time from AO to step 2 selection by up to 45 percent. This means that the original 35-months timeline will be reduced to about 19. 5 months, all while having a stronger, more mature mission at the time of selection.",
+        "These missions follow the same two-step approach with an even broader field of implementing organizations, including universities and industry partners. Implementing organizations and partners will be evaluated on past performance on projects of similar complexity and cost prior to mission selection. PI-led teams can request pairing with either a Goddard or JPL implementation team at Step 1 selection, and NASA can provide Center support where it will help with procurement, contract management, or quick resolution of technical challenges. This will result again in an up to a 45 percent reduction in the selection timeline.",
+        "These missions will move to a single-step competition with a smaller review team and virtual site visits. They will also be open to a broad range of implementing organizations. The time to final selection will drop from about 32 months to about 19 months which is a reduction of up to 40 percent. Our smallest missions will be riding the momentum of a maturing commercial space economy and will move even faster. This means more missions, more often, with more incredible science at a lower cost."
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
