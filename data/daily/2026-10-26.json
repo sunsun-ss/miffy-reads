@@ -1,0 +1,1151 @@
+{
+  "generatedAt": "2026-10-25T20:27:16.681Z",
+  "date": "2026-10-26",
+  "failedSources": [
+    "NASA News"
+  ],
+  "articles": [
+    {
+      "id": "phys-australian-coral-reefs-face-risk-of-collapse-within-50-yea",
+      "title": "Australian coral reefs face risk of collapse within 50 years without drastic action, global assessment finds",
+      "dek": "Every shallow-water coral reef ecosystem in Australia faces an extremely high risk of collapse by 2075, driven largely by projected ocean warming, according to a global…",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-25T19:30:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-australian-coral-reefs-collapse-years.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Every shallow-water coral reef ecosystem in Australia faces an extremely high risk of collapse by 2075, driven largely by projected ocean warming, according to a global assessment .",
+        "The assessment, a collaboration between the International Union for Conservation of Nature (IUCN), researchers at the University of Melbourne and more than 250 researchers around the world, found that 96% of the world's assessed coral reef ecosystems are now classified as critically endangered under the IUCN Red List of Ecosystems.",
+        "The study evaluated coral reef ecosystems in 127 tropical and subtropical marine ecoregions, including some of the world's largest and most biodiverse reef systems such as Australia's Great Barrier Reef, the Coral Triangle in Southeast Asia and the western Pacific, the Mesoamerican Barrier Reef and the Red Sea.",
+        "The assessment classified all 17 Australian coral reef ecosystems as critically endangered, with increasing marine heat stress and mass bleaching predicted under future climate scenarios.",
+        "Researchers found that climate-driven ocean warming is the most widespread and severe threat to coral reefs globally. Increasing marine heat waves are causing mass coral bleaching events and widespread coral mortality, placing ecosystems under unprecedented pressure.",
+        "Dr. Mishal Gudka, a University of Melbourne research fellow and scientific lead of the global assessment, said the risk of coral reef collapse is escalating, but this must be a wake-up call rather than a cause for despair.",
+        "\"Coral reefs have shown a remarkable ability to bounce back from devastating bleaching events . Pockets of surviving, resilient coral reefs can remain in the future—but we must do everything within our reach to set them up for success,\" Gudka, from the School of Agriculture, Food and Ecosystem Sciences, said.",
+        "\"Our assessment shows that much of the risk is driven by projected changes that have not yet fully materialized, and now is a critical window to scale up conservation and climate efforts to avoid catastrophic loss.\"",
+        "Dr. Ben Fitzpatrick, Oceanwise Australia director and adjunct research fellow at the University of Western Australia's Oceans Institute, who led the assessment on Australia's coral reef ecosystems, said although Australian coral reefs can respond well to local management, these gains are increasingly being overwhelmed by our changing climate.",
+        "\"Unfortunately, these climate change impacts are only expected to intensify under current climate change trajectories, making the risk of collapse for all our coral reefs exceptionally high,\" Fitzpatrick said.",
+        "\"If we double down on local management and achieve rapid decarbonization, we can avoid this outcome, but the window for action is rapidly closing.\"",
+        "Despite covering less than 1% of the ocean floor, coral reefs support around a quarter of all marine species. They provide habitat, food and breeding grounds for thousands of species while supporting fisheries, tourism and coastal protection for millions of people worldwide.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "A coral reef ecosystem is considered collapsed when reef-building hard corals largely disappear and are replaced by algae, rubble and other organisms. This transformation fundamentally alters the ecosystem."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-supercurrent-enables-the-reading-of-quantum-information-wi",
+      "title": "Supercurrent enables the reading of quantum information without destroying it",
+      "dek": "One of the fundamental challenges of quantum computing is obtaining information from a quantum bit, or qubit. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-25T19:00:20.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "One of the fundamental challenges of quantum computing is obtaining information from a quantum bit, or qubit. Unlike a conventional bit, which can be read repeatedly without altering its content, direct measurement of a quantum system typically causes the state to collapse before it can be determined. In other words, reading the information modifies it.",
+        "A new study proposes circumventing this problem by using a unique property of a certain type of qubit called an \"Andreev qubit.\" This qubit produces an oscillating electric supercurrent through its own quantum dynamics. This supercurrent would serve as a macroscopic indicator of the qubit's state, enabling its reconstruction in a virtually nondestructive manner.",
+        "The study was published in the journal Physical Review B and was led by José Carlos Egues, a full professor at the São Carlos Institute of Physics at the University of São Paulo (IFSC-USP) in Brazil, and Yugui Yao of the School of Physics at the Beijing Institute of Technology in China. According to the authors, this method could eliminate the need for ancillas, auxiliary qubits used in current techniques for nondestructive quantum readout.",
+        "Qubits are the fundamental units of information in quantum computers. While a classical bit can only be 0 or 1, a qubit can exist in various superpositions of these two states. This property gives quantum computing some of its most powerful characteristics but also makes the information extremely vulnerable to interaction with the environment and the measurement process itself.",
+        "\"In the conventional formulation of quantum mechanics, a projective measurement causes the system to assume one of the states associated with the measured quantity. Thus, if a qubit has been prepared in a certain superposition of 0 and 1, its direct measurement tends to destroy that superposition and, consequently, the information it contained,\" says Egues.",
+        "To overcome this difficulty, \"quantum nondemolition measurements,\" or QND, were developed. In many of these protocols, the qubit's information is transferred to an auxiliary quantum system called an ancilla. The word \"ancilla\" comes from Latin and means \"slave\" or \"servant.\" Today, figuratively speaking, the term is used to refer to something that serves another thing. In this case, measurements are taken on the ancilla to preserve the original qubit as much as possible.",
+        "While the procedure is effective, it requires preparing the ancillas, coupling them to the qubit, transferring the information and performing successive measurements, which can be time-consuming. In systems with many qubits, this additional infrastructure can represent considerable experimental overhead.",
+        "\"Our strategy is different. Instead of transferring the information to an auxiliary qubit, we seek to obtain it from a signal produced by the qubit under study itself,\" says the researcher.",
+        "The qubit under study is an \"Andreev qubit.\" It is named after the Soviet physicist Alexander Andreev (1939–2023), who, in 1964, described a quantum process characteristic of the interface between normal and superconducting materials. These states, known as \"Andreev states,\" are produced by this process and confined to the nanoscale region separating two superconducting materials. They can be used to encode the basic states 0 and 1, as well as their superpositions.",
+        "\"In the system under consideration, this region is a quantum dot—that is, a nanoscale structure in which electrons are spatially confined—formed in an indium arsenide [InAs] nanowire connected to superconducting materials on both sides. It's in this environment that the states characterizing the Andreev qubit are formed,\" Egues explains.",
+        "One property of this system is the circulation of a \"supercurrent.\" This is an electric current that flows without resistance. The study showed that when the qubit is in a superposition of its basic states, the supercurrent exhibits an oscillating component over time. This oscillation, produced by quantum interference between the states that comprise the superposition, carries information about the qubit's state. \"It's precisely that property that we use to read the qubit. It's that supercurrent that lies at the heart of our proposal,\" the researcher points out.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-crows-make-decisions-twice-as-fast-as-humans-and-monkeys",
+      "title": "Crows make decisions twice as fast as humans and monkeys",
+      "dek": "University of Tübingen researchers have shown that crows, when confronted with a visual choice, make a decision twice as fast as humans and monkeys. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-25T19:00:16.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-crows-decisions-fast-humans-monkeys.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "University of Tübingen researchers have shown that crows, when confronted with a visual choice, make a decision twice as fast as humans and monkeys. In the experiment, two carrion crows took just 235 milliseconds on average to identify the direction in which a dot pattern was moving and to indicate their choice—while maintaining a high degree of accuracy.",
+        "Philipp Schmidbauer and professor Andreas Nieder from the Institute of Neurobiology of the University of Tübingen demonstrated how this speed is reflected in the activity of neurons in the crow brain. Their study has been published in the journal Science .",
+        "In the task, the birds had to determine whether moving dots on a touchscreen were predominantly moving to the left or to the right. The crows indicated their decision by pecking at a target to the left or right of the dot pattern. \"Even when the patterns of motion were hard to recognize, the crows' decisions were still better than random choices,\" Schmidbauer reports, \"and with clear signals, they achieved an accuracy of nearly 100%.\"",
+        "To investigate this ability, the researchers recorded the activity of neurons in the nidopallium caudolaterale, a key associative region of the avian brain, comparable to the prefrontal cortex in humans. As early as 70 milliseconds after the onset of the visual stimulus, neuronal signals for different motion directions began to diverge in the crows' brains—long before the birds could make their responses.",
+        "Neural activity gradually increased as the decision was being formed, until it reached a decision threshold and the crow indicated its choice. The neurons reflected both the strength of the available visual information and the direction selected.",
+        "\"These findings show that neuronal dynamics in the avian brain are consistent with established models of decision-making in humans and nonhuman primates,\" says Nieder. Although birds do not possess a layered cerebral cortex, their differently organized brains appear to implement comparable basic principles of decision-making—and to do so twice as fast as primates.",
+        "This speed may be related to the evolutionary demands for rapid visual processing and motor responses in birds, Nieder explains. \"Birds rely on their vision to carry out precise, rapid maneuvers during flight and to guide their beaks toward objects when foraging,\" he says, adding that further research will be needed to determine exactly which mechanisms enable this temporal advantage.",
+        "BA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "Two carrion crows judged dot-motion direction and responded in 235 milliseconds on average, about twice as fast as humans and monkeys, with high accuracy. Direction-selective neural activity emerged around 70 milliseconds and rose toward a decision threshold, consistent with primate decision-making models despite different brain organization.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors.",
+        "Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages.",
+        "Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose. The information you enter will appear in your e-mail message and is not retained by Phys. org in any form."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-storms-batter-europe-hitting-power-supplies-flights-and-ph",
+      "title": "Storms batter Europe, hitting power supplies, flights and phones",
+      "dek": "Storms battered northern Europe on Sunday, cutting power to more than 150,000 homes, forcing the cancellation of hundreds of flights and silencing phone networks.",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-25T19:00:13.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-storms-batter-europe-power-flights.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Storms battered northern Europe on Sunday, cutting power to more than 150,000 homes, forcing the cancellation of hundreds of flights and silencing phone networks.",
+        "Winds of up to 84 miles (135 kilometers) an hour were recorded in Argyll and Bute in western Scotland, and fallen trees and power cables blocked roads and rail lines across the country.",
+        "More than 82,000 homes in Britain, nearly 60,000 in France and at least 10,000 in Germany had power cuts inflicted by the passage of storms Boelo and Austen within 24 hours of each other, authorities in the countries said.",
+        "Britain's Energy Networks Association indicated that more than 400,000 homes had lost power at some stage during the storms. Part of the pier at Brighton on the southern England coast, unused since a fire in 2003, blew away in Storm Austen on Friday.",
+        "The powerful winds also battered northern France across the Channel as Europe battled its first big autumn storms of the year and experts warned of more extreme weather events because of global warming.",
+        "French energy company Enedis said that at the peak of Storm Austen on Saturday, some 288,000 homes had no electricity.",
+        "Some 59,000 remained without power at midday Sunday, mainly in Normandy and Brittany. It said 2,600 Enedis technicians and contractors were working to reestablish power.",
+        "In Germany, Austen cut power to 10,000 homes in and around the southwestern town of Friburg-Brisgau on Sunday. The town's main hospital said it had to limit service to emergency cases because of the blackout that also cut the mobile phone network.",
+        "Two people were seriously hurt Saturday by scaffolding blown away by Storm Austen's winds during an autumn market at the town of Nastatten, German police said.",
+        "Germany's DWD weather agency predicted more powerful winds of up to 100 kph (60 mph) on the northern coast on Sunday.",
+        "The storms also hit the Netherlands and Belgium, where falling trees injured four people in Brussels on Saturday.",
+        "Hundreds of flights were canceled or diverted because of the storms across northern Europe.",
+        "Amsterdam's Schiphol airport, one of Europe's busiest hubs, canceled dozens of flights Sunday. AFP counted some 90 flights canceled on the airport website, mainly to European cities including Paris, Rome and Dublin. Dozens of flights due to land at the airport were also canceled.",
+        "Flights in northern England and Scotland were also hit by the storms."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-monarchs-report-their-locations-via-cellphone",
+      "title": "Monarchs report their locations via… cellphone?",
+      "dek": "Who knew a monarch butterfly could borrow a cellphone to check in with friendly people he met on his journey? ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-25T19:00:06.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-monarchs-cellphone.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Who knew a monarch butterfly could borrow a cellphone to check in with friendly people he met on his journey? That is essentially what happens now that new technology has reduced the weight of a radio-pulse tag to less than half a gram (0. 02 ounces).",
+        "Those tags use Bluetooth technology to send information back to the researchers in the U. S. and Canada, including Jennifer Weber, Ph. D. '25, and Shawn Kurtzman from the Conservation Management Institute, allowing them to collect far more data than has ever been available about the paths and speeds of monarch butterflies as they migrate from a vast range in the continent's temperate areas to nature preserves in Mexico and Central America.",
+        "International calls are welcome, as some of the butterflies tagged in Virginia are now in Mexico.",
+        "Weber gave some of the monarchs names and keeps up with their perilous migratory journeys. Sneezy, tagged here in the New River Valley in September, was detected in Mexico on Oct. 17. Addison and Sleepy, also part of the mountain cohort, checked in from Texas but now seem to be traveling outside the range of cell service. Two other recent visitors to Virginia Tech, Hahn and Sandman, are now in Alabama and South Carolina, respectively. Orion and Walker were in Georgia, dealing with Tropical Storm Isaias, before heading west again.",
+        "Thomas is the real traveler. Tagged at Fort A. P. Hill near Fredericksburg, he was last detected in Mississippi, then pinged again 1,000 miles (1,600 kilometers) away in southern Mexico.",
+        "\"We figured he would follow the Gulf Coast and make his way to the wintering grounds,\" Weber said. \"Imagine our shock when he pinged yesterday at lunchtime all the way across the gulf. His latest ping put him a little bit east of a city named Coatzacoalcos, well south of the wintering grounds.\"",
+        "Weber said Thomas and a few other radio-tagged monarchs were picked up by a swirling storm system and deposited on the Mexican coast.",
+        "To say monarchs are checking in with cellphones is not hyperbole. The new tags emit a pulse detectable by Bluetooth-enabled smartphones, vehicles and cellular towers, which send a signal through a background function to the researchers to create a continuous, real-time map.",
+        "\"It's citizen science , but crowd-powered,\" Weber said.",
+        "No information about the device itself is sent—just the tag number and location. It also means a monarch flying over wilderness could go days without being located, leaving Weber to wonder whether the tag stopped working or fell off, or whether the butterfly perished.",
+        "Kurtzman said the estimated survival rate is 25% to 28%.",
+        "Following a flight path at hundreds of data points reveals micro-level behaviors, such as whether monarchs use highway corridors, how they react to major weather disruptions and where they pause to feed on available nectar along their route.",
+        "Weber and Kurtzman outfitted 35 monarchs with pulse tags and follow their paths to winter quarters. The cost of the radio-pulse tags is still high enough that most butterflies are tagged with a small sticker on a wing that includes contact information for anyone who finds it. This message-in-a-bottle strategy returns data from a tiny percentage of monarchs.",
+        "The CMI researchers tagged monarchs on federal land around military installations in three Virginia locations—the Radford Arsenal for a mountain population; Fort A. P. Hill for a Piedmont population; and Oceana Naval Air Station and Joint Base Langley-Eustis to identify a coastal population. Monarchs tagged on the Tech campus were included in the mountain cohort."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-milky-ways-disk-grew-upside-down-with-younger-stars-formin",
+      "title": "Milky Way's disk grew 'upside down,' with younger stars forming in ever-thinner layers",
+      "dek": "The Milky Way is home to hundreds of billions of stars arranged in a glorious spiral pattern. But beyond the obvious spiral, our galaxy has other physical characteristics. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-25T18:30:02.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-milky-disk-grew-upside-younger.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "The Milky Way is home to hundreds of billions of stars arranged in a glorious spiral pattern. But beyond the obvious spiral, our galaxy has other physical characteristics. It's divided into a galactic bulge, a galactic disk and a galactic halo.",
+        "The disk is further divided into a thin disk and a thick disk. They're not only structurally different, but their stellar populations and other characteristics are different.",
+        "The thin disk contains young stars and middle-aged stars like our sun. It holds the spiral arms, where our solar system resides, and most of the Milky Way's gas and dust. It's also where young stars form. It has higher metallicity, generated by previous generations of stars that have lived and died.",
+        "The thick disk is puffier and more diffuse than the thin disk. It holds ancient stars, and almost no new stars form there. It has much lower metallicity than the thin disk, and astronomers sometimes refer to it as a kind of stellar fossil record.",
+        "Astronomers wrestle with understanding the formation of these disks and the Milky Way as a whole. Observations have led to multiple explanations. In one, stars are born in the thin disk, and over time, encounters with gas clouds, the spiral arms or even the central bar perturb some of these stars. Dynamical scattering drives them away from the plane of the thin disk.",
+        "Another explanation says that as stars form in the inner disk, the gas they form from settles down into an even thinner disk. In this scenario, each successive generation of stars forms in an increasingly thin disk.",
+        "Astronomers have difficulty distinguishing between these competing explanations. Doing so relies on accurate measurements of the ages of individual stars. That's difficult to achieve, especially for the oldest stars.",
+        "New research in The Astrophysical Journal Letters used Gaia data to tackle the issue. It's titled \" A Two-stage Settling of the Milky Way Disk Revealed by Precise ChronoGal Ages ,\" and the lead author is David Mirabal. Mirabal is a predoctoral researcher at the Instituto de Astrofisica de Canarias (IAC).",
+        "\"The spatial distribution of galactic disk stars of different ages and metallicities encodes its dynamical evolution history and formation pathways,\" the authors write in their research letter. \"The lack of precise ages for large, representative samples of stars has traditionally been a drawback for securely differentiating among formation scenarios proposed to explain the vertical properties of the Milky Way disk.\"",
+        "This work is based on data in Gaia Data Release 3 (DR3), released in June 2022. This paper is one of several released by a collaboration of researchers aimed at deciphering stellar ages in the populations of the thin and thick disks. In this one, the authors employed color-magnitude diagram fitting of the Gaia data. From that, they derived age-metallicity distributions for the stellar populations. They also studied their vertical profile—their position in either disk.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Earlier in the universe's history, the gas in the Milky Way was more turbulent and the galaxy was more puffed up vertically, as if it were one thick disk. Stars were born orbiting in the thick disk. As the gas calmed over time and became less turbulent, it cooled and shrank, creating a thinner disk inside the thick disk.",
+        "There was a significant change about 10. 8 billion years ago, a couple of billion years after the Big Bang, as the thin disk formed, with the older stars maintaining their orbits in the thick disk.",
+        "The existence of a clear break in the process about 10. 8 billion years ago is the main argument in this research. The rate of vertical settling changed drastically at around this time."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "phys-how-screening-tools-measure-disadvantage-may-leave-rural-c",
+      "title": "How screening tools measure disadvantage may leave rural communities overlooked for public support",
+      "dek": "Whether a community is prioritized for public support can depend on how its needs are measured, according to new research from the University of New Hampshire. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-25T18:00:02.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-screening-tools-disadvantage-rural-communities.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Whether a community is prioritized for public support can depend on how its needs are measured, according to new research from the University of New Hampshire. The study found significant differences in how government screening tools identify communities, particularly in rural areas where those differences could affect access to funding.",
+        "Researchers compared four environmental justice screening tools, which use data on factors such as income, pollution and health to identify communities that may need additional public support. Three were developed by the White House, the Department of Energy (DOE) and the Department of Transportation (DOT), while the fourth was developed by New York state.",
+        "Nationally, the DOE tool designated about 18% of census tracts as disadvantaged, compared with about 35% for the White House and DOT tools. In New York state, more than half of census tracts (51. 3%) were identified as disadvantaged by at least one of the four tools, but only about 14% were identified that way by all four.",
+        "\"We expected some differences, since each agency has its own mission. What surprised us was how large they were and how often they came from choices that aren't obvious from the documentation,\" said Qingran Li, assistant professor of economics at UNH's Peter T. Paul College of Business and Economics.",
+        "\"The tools also disagreed more for rural communities, where resources tend to be more constrained, and investment may have historically lagged.\"",
+        "The study , published in Nature Communications , was conducted by Li; Stephen Bird, director of UNH's Carsey School of Public Policy; Susan Powers of Clarkson University; and Thomas Robbins of Schneider Electric.",
+        "Urban areas were more consistently identified as disadvantaged across the four tools. The DOE tool did not designate any rural New York census tracts as disadvantaged, while New York's own tool identified the greatest number of rural and suburban communities.",
+        "The researchers note there is no single formula for measuring disadvantage. Screening tools can consider factors such as income, health, transportation access, environmental conditions and climate risks, but they don't necessarily use the same factors or assign them the same weight.",
+        "They also differ in whether a community is compared with others nationwide, within its state or within its region. New York's tool, for example, accounts for regional differences, making it more likely that less urbanized communities are identified as disadvantaged.",
+        "\"One of the things we saw in some of the federal tools is that rural areas often are not highly prioritized, in part because environmental problems are diffuse, but the economic vulnerabilities in those areas are very real,\" Bird says.",
+        "The findings also offer lessons for states like New Hampshire, where rural communities face challenges similar to those in New York's North Country, Bird notes.",
+        "\"Many rural burdens look different from urban ones, such as long distances with limited transportation options, an aging population, high heating costs and reliance on fuel oil or propane. Tools built mainly around urban pollution, or around income measured against national or statewide benchmarks, may not fully capture those conditions,\" Li says.",
+        "\"For example, a rural New Hampshire town with moderate incomes but very high energy costs and long drives to health care services could be designated disadvantaged by one tool and not by another. That could affect its eligibility for weatherization, clean energy or transportation funding.\"",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "scitechdaily-scientists-develop-a-clever-new-way-to-kill-cancer-cells-f",
+      "title": "Scientists Develop a Clever New Way To Kill Cancer Cells From the Inside",
+      "dek": "Scientists have developed an experimental strategy that exploits a chemical byproduct of cancer cells to produce anticancer drugs directly inside them.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-25T17:45:12.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-develop-a-clever-new-way-to-kill-cancer-cells-from-the-inside/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Scientists have developed an experimental strategy that exploits a chemical byproduct of cancer cells to produce anticancer drugs directly inside them.",
+        "Scientists in Japan have developed an experimental method that uses a chemical produced by cancer cells to manufacture anticancer drugs directly inside them. The approach relies on carbon monoxide, a toxic gas that certain tumors produce in unusually high amounts, to activate a chemical reaction designed to destroy cancer cells while limiting damage to healthy tissue.",
+        "In a proof-of-concept study published in Nature Communications , researchers at the RIKEN Pioneering Research Institute (PRI) demonstrated that their system could generate drug compounds selectively in cultured cancer cells. The findings suggest a possible alternative to conventional chemotherapy, although the technique has not yet been tested in animals or humans.",
+        "Carbon monoxide is best known as a poisonous gas released during incomplete combustion, including in vehicle exhaust. However, the human body also produces small amounts of it naturally. Research has shown that many types of cancer cells generate elevated levels, creating a chemical difference that could potentially be exploited for targeted treatment.",
+        "A team led by Katsunori Tanaka investigated whether this excess carbon monoxide could serve as a raw material for producing anticancer compounds inside tumors. Their strategy uses palladacycles, organometallic compounds containing palladium, to convert carbon monoxide into a molecule called phenanthridinone. Certain phenanthridinone derivatives are toxic to cells and have been used in anticancer drugs.",
+        "The researchers faced a significant obstacle: palladium catalysts are rapidly deactivated by substances naturally present inside cells, including glutathione. Without protection, the catalyst would lose its ability to carry out the drug-producing reaction.",
+        "To solve this problem, the team enclosed a palladacycle within albumin, an abundant protein found in blood. Albumin acts as a protective carrier, shielding the palladium catalyst from molecules that would otherwise disable it. The resulting albumin complex can circulate through the bloodstream and remain chemically active after entering cells.",
+        "After screening several palladacycles to identify the most effective candidate, the researchers tested the protected complex against human liver, cervical, breast, and lung cancer cell lines, along with a noncancerous cell line.",
+        "Following 48 hours of incubation, the researchers detected the intended phenanthridinone product in all four cancer cell lines but not in the noncancerous cells. The results indicated that the protected catalyst remained functional and that the reaction depended on chemical conditions associated with the cancer cells.",
+        "The team then refined the system to allow the newly synthesized compound to separate from its carrier and move freely within the cell. Further modifications enabled the production of a highly toxic phenanthridinone derivative used in anticancer drugs. When tested in liver cancer cells, the modified system generated the toxic compound internally, causing harmful effects in those cells.",
+        "Another concern was whether carbon monoxide already present in blood might activate drug production before the complex reached a tumor. Blood tests showed no detectable formation of the toxic compound. The researchers suggested that carbon monoxide bound to hemoglobin, the oxygen-carrying protein in red blood cells, was unavailable to participate in the reaction.",
+        "Rather than administering a finished anticancer drug, Tanaka’s approach aims to deliver relatively harmless chemical components that become toxic only after encountering suitable conditions inside diseased cells.",
+        "“This work represents an important advance in therapeutic in vivo synthetic chemistry,” says Tanaka. “In our therapeutic strategy, molecules naturally present or generated within the body—including disease-associated metabolites—are used as endogenous chemical feedstocks to synthesize therapeutic molecules directly at the site of disease.”",
+        "The researchers’ next step is to test the method in animal models, where they can investigate whether the catalyst reaches tumors, produces sufficient amounts of the drug, and avoids damaging healthy tissues."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "phys-patterns-of-polar-vortices-discovered-in-lead-free-superla",
+      "title": "Patterns of polar vortices discovered in lead-free superlattices on silicon",
+      "dek": "A team at HZB has, for the first time, reported polar vortices in (BaTiO₃/SrTiO₃)₁₀ superlattices on silicon. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-25T17:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-patterns-polar-vortices-free-superlattices.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "A team at HZB has, for the first time, reported polar vortices in (BaTiO₃/SrTiO₃)₁₀ superlattices on silicon. These results expand the range of materials and substrates on which polar topological textures can occur and open up new options for incorporating complex ferroelectric states into silicon-based technologies.",
+        "Polar textures such as vortices have so far been observed almost exclusively in lead-containing superlattices comprising ultrathin ferroelectric and dielectric titanate layers on oxide substrates. The delicate balance between electrical forces, mechanical stresses (imposed by the substrate) and the energy required to change the direction of polarization leads to distinctive electrical dipole patterns in the ferroelectric layers.",
+        "In principle, structures with complex polar states could be used to develop novel components with specific functions, as the structures are small, stable and can be influenced by external electric fields. However, to achieve this, it would be important to replace the toxic lead and deposit the layers on silicon substrates, the ubiquitous platform of the semiconductor industry.",
+        "A team led by HZB physicist Dr. Catherine Dubourdieu has succeeded in doing so: In its new study, published in Nature Communications , the team presents epitaxially grown alternating layers of barium and strontium titanates on silicon that exhibit regular stripes of polar vortices.",
+        "The layer system was created with molecular beam epitaxy in the HZB Quantum Materials lab. Using the scanning transmission electron microscope from the group of professor Christoph Koch at Humboldt University and further analysis at the PETRA III X-ray source in Hamburg, they were able to demonstrate the superstructure consisting of regular ferroelectric vortex tubes.",
+        "The vortices in each BaTiO₃ layer align along a specific crystal direction of BaTiO₃ and form a robust striped pattern. The silicon substrate provides the necessary mechanical strain, which enables the polar vortices to form. When the samples are heated, a structural phase transition occurs and the polar texture disappears. Upon cooling to room temperature, the polar texture reforms.",
+        "Phase-field modeling performed by the group of professor Long-Qing Chen at the Pennsylvania State University, U. S. , replicates the coupling of BaTiO₃ and SrTiO₃ layers via electrostatic forces and mechanical strain. This modeling also explains how the vortex tubes in the BaTiO₃ layers align, providing insight into the development of the polar texture pattern as a function of strain.",
+        "\"This is the first realization of periodically ordered vortices in BaTiO₃ superlattices on silicon. Actually, silicon is the key, as it provides the necessary strain to induce this vortex pattern,\" says doctoral student Valentin Hevelke, first author of the study.",
+        "\"Our results expand the range of materials and substrates on which polar topological textures can occur and open up new options for incorporating complex ferroelectric states into silicon-based technologies,\" says Dubourdieu.",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "Lead-free BaTiO₃/SrTiO₃ superlattices grown on silicon exhibit ordered stripes of polar vortex tubes. Silicon-induced strain enables vortex formation, with phase-field modeling explaining their alignment. The polar texture disappears upon heating through a structural transition and reforms on cooling to room temperature.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-a-single-enzyme-could-hold-the-key-to-treating-a-devastati",
+      "title": "A Single Enzyme Could Hold the Key to Treating a Devastating Brain Disorder",
+      "dek": "Blocking an enzyme’s production restored brain growth and healthy behaviors in mice engineered to develop Angelman syndrome, pointing to a possible treatment target.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T15:12:14.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-single-enzyme-could-hold-the-key-to-treating-a-devastating-brain-disorder/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Blocking an enzyme’s production restored brain growth and healthy behaviors in mice engineered to develop Angelman syndrome, pointing to a possible treatment target.",
+        "Children with Angelman syndrome begin to show difficulties with thinking and movement at around 6 months of age. The rare condition occurs in approximately one in 20,000 births and is caused by the absence of a gene normally inherited from the mother. Researchers know which gene is missing, but they have struggled to explain why its absence causes these problems, making treatments elusive.",
+        "Research in mice now points to a chain of events that connects the missing gene to a stress response that interferes with brain growth. A team led by Jason Yi, PhD, an assistant professor of neuroscience at Washington University School of Medicine in St. Louis , traced that response to a buildup of a normally harmless enzyme. The study was published in Nature .",
+        "The missing gene, UBE3A , produces an enzyme called ubiquitin ligase, which helps keep cells orderly by marking unneeded proteins for disposal. It is active throughout the brain and participates in 60 different cellular processes. Identifying which of those processes contribute to Angelman syndrome required narrowing that broad field of possibilities.",
+        "Yi and his colleagues developed modified cells in the laboratory with UBE3A deactivated, then looked for proteins that accumulated without it. They identified 23 candidate proteins whose levels increased. One stood out for its strong connection to ubiquitin ligase’s normal housekeeping function: asparagine synthetase, an enzyme that helps cells produce essential proteins.",
+        "In mice genetically modified to develop Angelman syndrome, elevated levels of asparagine synthetase activated the brain’s stress response. Yet the enzyme does not interact with the usual triggers for that response, and its overabundance does not otherwise damage the cell. The consequences instead arise indirectly, as the stress response sharply reduces protein production and growth.",
+        "“The neurons are tricked into thinking that they’re in stress when they’re not — that’s bad because they will then not grow normally,” Yi said, noting that most children with Angelman syndrome have smaller brains than their peers of the same age. “It’s a reaction from the brain trying to conserve resources to protect itself. It does suggest that there is a dysregulation in the brain we might be able to correct.”",
+        "Blocking the production of asparagine synthetase restored normal brain growth and healthy behaviors in the mice. The team had corrected a later step in the biological sequence set off by the missing gene, allowing healthy development to resume.",
+        "The study is the first to link an increase in asparagine synthetase to a neurological condition. It adds to evidence that an imbalance in proteins can contribute to neurodevelopmental disorders by triggering stress responses, even when the proteins themselves are not directly damaging cells.",
+        "Yi said medications could potentially target the stress response triggered by asparagine synthetase, but much remains to be learned before work on a possible treatment can begin. His team is investigating precisely why the enzyme activates that response, where in the brain the response is most active, and when during development medical interventions would be most effective.",
+        "“We still don’t know a whole lot about the disease,” said Yi. “We haven’t been able to identify all of the things that the missing gene is doing and rescue the things that it is not doing in Angelman’s syndrome. But I think our data are the most complete so far to begin answering those questions.”",
+        "Support for this work came from the Simons Foundation (Bridge to Independence award #387973), the Whitehall Foundation, the Hope Center for Neurological Disorders at Washington University (Pilot Award), and the National Institute of Mental Health (R01MH122786 and R01MH144153).",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-just-two-days-on-a-vegan-diet-triggered-unexpected-changes",
+      "title": "Just Two Days on a Vegan Diet Triggered Unexpected Changes in the Liver",
+      "dek": "Switching from a vegetarian to a vegan diet altered liver metabolism in mice within just two days, making glucose production and toxic waste removal less efficient.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T14:01:11.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/just-two-days-on-a-vegan-diet-triggered-unexpected-changes-in-the-liver/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Switching from a vegetarian to a vegan diet altered liver metabolism in mice within just two days, making glucose production and toxic waste removal less efficient.",
+        "Millions of people follow a vegan diet, excluding all animal-derived products. Plant-based eating is recommended in part for its environmental benefits, but the health consequences of getting all dietary protein from plants are not yet fully understood. For researchers, that raises a question about how the body responds when the source of its protein changes.",
+        "Scientists at the University of Geneva (UNIGE) investigated that question in mice, focusing on the liver, which helps maintain blood sugar and processes the components of dietary protein. Their study, published in Molecu l ar Metabolism , compared a lacto-vegetarian diet containing both animal and plant proteins with a vegan diet.",
+        "“In just two days, the mice fed an exclusively vegan diet showed less efficient glucose production,” explains Pierre Maechler, full professor in the Department of Cell Physiology and Metabolism and at the Diabetes Center of the UNIGE Faculty of Medicine. “Furthermore, their livers were less effective at eliminating ammonia, a toxic substance released during the breakdown of amino acids. A significant reduction in physical activity also suggests effects on the body as a whole.”",
+        "Proteins from plants and animals consist of amino acids, small molecules joined together like links in a chain. Their types and proportions differ depending on the food source, so changing protein sources gives the body a different mixture to process. Plant proteins naturally contain fewer branched-chain amino acids than animal proteins. Along with helping build the body’s proteins, these amino acids supply some of the raw material the liver uses to produce glucose and maintain sufficient blood sugar during fasting.",
+        "“Overall, a change in diet alters liver metabolism very quickly, but this effect is just as rapidly reversible,” emphasizes Maechler. “The body adapts within one to two days to even subtle changes in dietary composition and returns to normal upon the reintroduction of animal proteins.”",
+        "The combination of less efficient glucose production and ammonia removal pointed the team toward a liver enzyme called glutamate dehydrogenase, or GDH. Located in mitochondria, the structures inside cells that help process fuel, GDH connects protein metabolism with sugar metabolism. To investigate its role, the researchers compared two groups of mice lacking the enzyme in their livers. One group ate a lacto-vegetarian diet, while the other ate a strict vegan diet.",
+        "Without GDH, the mice eating only plant proteins developed a severe buildup of ammonia and impaired blood glucose regulation compared with mice whose diet also included animal proteins. This confirmed the enzyme’s essential role in the metabolic response to an exclusively plant-based diet.",
+        "The experiments were conducted in mice, so they do not establish that people would experience the same changes. They do, however, provide a way to investigate the physiological questions that accompany a change in protein source.",
+        "“In addition to the ethical and environmental considerations that often motivate a switch to a plant-based diet, there are also scientific factors relating to the physiological functioning of our metabolism that are worth being aware of,” notes Maechler.",
+        "For people following a strict vegan diet, the researchers emphasize choosing protein sources rich in branched-chain amino acids, such as nuts, tofu, and lentils, to support the liver’s metabolic functions. They place that consideration alongside the need to ensure an adequate intake of specific vitamins.",
+        "The work was funded by the Swiss National Science Foundation (#310030_192486 to P. M. ) and the canton of Geneva.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "scitechdaily-earths-magnetic-shield-is-rippling-unevenly-scientists-hav",
+      "title": "Earth’s Magnetic Shield Is Rippling Unevenly – Scientists Have Uncovered the Cause",
+      "dek": "The solar wind can weaken the very waves it creates along Earth’s magnetic shield, simulations show, helping explain why some regions are more active than others.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T11:42:23.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/earths-magnetic-shield-is-rippling-unevenly-scientists-have-uncovered-the-cause/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "The solar wind can weaken the very waves it creates along Earth’s magnetic shield, simulations show, helping explain why some regions are more active than others.",
+        "Earth’s magnetic shield protects the planet, yet particles and energy from the Sun can still find their way through. Along its outer edge, a constant stream of solar material brushes past, stirring up waves where the two environments meet. A new study led by researchers at the University of Oulu explains why those waves grow stronger in some places than in others, revealing how uneven this boundary can be.",
+        "The protective region created by Earth’s magnetic field is called the magnetosphere, while the stream arriving from the Sun is known as the solar wind. Their interactions help drive space weather. On Earth, the effects can appear as auroras, while strong solar storms can disrupt satellites, positioning systems, radio communications, and power grids.",
+        "The boundary waves are known as Kelvin–Helmholtz waves. Similar patterns sometimes appear in clouds, and related phenomena occur in the Sun’s atmosphere, along the edges of other planets’ magnetic fields, and in interstellar space. Around Earth, however, satellites rarely pass through the most active regions.",
+        "Those limited encounters have made it difficult to establish how the waves behave under different solar wind conditions, so the researchers used computer models of the entire magnetosphere to examine their formation.",
+        "“This finding grew out of a long process of thinking through what I was seeing. In 2020, when I was visiting NASA as a postdoctoral researcher, I noticed unusual simulation images of the magnetosphere. I later realized that they showed Kelvin–Helmholtz waves at the edge of the magnetosphere, and that the different behavior of the waves on different sides was part of the same phenomenon,” says Academy Research Fellow Lauri Holappa from the University of Oulu.",
+        "The models traced the uneven wave activity to the way the solar wind’s magnetic field meets Earth’s field. Rather than wrapping evenly around the magnetosphere, the solar wind’s field drapes asymmetrically around it. This draped field can dampen the waves, but its damping effect varies from place to place, allowing stronger wave activity in some regions than in others.",
+        "“Asymmetries in the wave motion at the edge of the magnetic field have been observed before, but now we were able to show how they arise,” Holappa says.",
+        "The strongest activity appeared in the winter hemisphere, which faces away from the Sun. Within that hemisphere, the direction of the solar wind’s magnetic field determined whether the waves were concentrated on the dawn side or the dusk side.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "scitechdaily-earths-ice-ages-may-have-started-with-a-planet-wide-ocean-",
+      "title": "Earth’s Ice Ages May Have Started With a Planet-Wide Ocean Domino Effect",
+      "dek": "New research suggests that cooling in the Northern Hemisphere may have triggered far-reaching ocean changes that helped drive Earth’s past ice ages.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T11:07:20.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/earths-ice-ages-may-have-started-with-a-planet-wide-ocean-domino-effect/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "New research suggests that cooling in the Northern Hemisphere may have triggered far-reaching ocean changes that helped drive Earth’s past ice ages.",
+        "Growing ice sheets in the Northern Hemisphere may have helped push Earth into past ice ages by triggering changes in ocean circulation thousands of miles away, near Antarctica. New research from the University of St Andrews identifies a possible mechanism connecting these distant regions, helping explain how the planet naturally reduced atmospheric carbon dioxide (CO 2 ) as ice ages developed.",
+        "Scientists have long known that the Southern Ocean plays a central role in regulating atmospheric CO 2 . Changes in its circulation and sea ice can increase the amount of carbon stored in the deep ocean, contributing to the cooling associated with ice ages. But researchers have struggled to explain how expanding northern ice sheets could influence waters so far south.",
+        "The growth of massive Northern Hemisphere ice sheets begins with changes in Earth’s orbit that alter how solar energy is distributed across the planet. According to the new study, published in the Journal of Climate , these expanding ice sheets may set off a much larger chain of events by cooling nearby North Atlantic waters.",
+        "As those colder waters move through the global ocean circulation system, they can eventually reach the Southern Ocean. If the northern cooling is strong enough, it could alter circulation around Antarctica and promote conditions that allow more CO 2 to remain stored in the ocean rather than the atmosphere.",
+        "This proposed connection provides a physical explanation for how ice sheet growth in one hemisphere could help amplify cooling across the planet.",
+        "To test the hypothesis, researchers used computer simulations that cooled only the ocean’s northernmost latitudes (mimicking the effect of a large ice sheet). They then examined whether the temperature changes could travel south and alter Southern Ocean conditions in ways that reduce atmospheric CO 2 .",
+        "The results showed that cooling northern waters alone produced a substantial response. The simulated reduction in atmospheric CO 2 reached 74% of the reduction produced when the researchers cooled the entire planet.",
+        "The experiments support the proposed connection between Northern Hemisphere ice sheets and Southern Ocean carbon storage. However, they demonstrate that the mechanism is physically plausible in a model, rather than establishing exactly how much it contributed to individual ice ages in Earth’s past.",
+        "Lead author Dr. Madison Shankle, from the University of St Andrews’ School of Earth and Environmental Science, explained:",
+        "“Essentially, we’ve produced evidence of a plausible mechanism connecting these two far-flung puzzles pieces – Northern Hemisphere ice sheets and Southern Hemisphere ocean circulation changes leading to CO 2 drawdown – which has been a tricky thing to explain in our theory of Earth’s past ice ages. Our study takes the step of actually demonstrating them working in model simulations, which is a big step forward for this field.”",
+        "Ice age research has traditionally emphasized processes occurring around Antarctica, where ocean circulation strongly influences the exchange of carbon between the atmosphere and deep ocean. The new findings suggest that temperature changes in distant northern waters may also be an important part of that system.",
+        "Past ice ages provide natural examples of how carbon moves between Earth’s atmosphere and oceans over long periods. Understanding these processes can help scientists improve climate models and investigate how the global carbon cycle responds to changes in atmospheric CO 2 , including the additional carbon dioxide released by human activities.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "scitechdaily-antarcticas-doomsday-glacier-could-raise-sea-levels-twice-",
+      "title": "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared",
+      "dek": "Even without further warming, Thwaites Glacier could contribute twice as much to sea level rise by 2100 as previously estimated, according to a revised ice sheet model.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T10:32:12.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/antarcticas-doomsday-glacier-could-raise-sea-levels-twice-as-much-as-scientists-feared/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Even without further warming, Thwaites Glacier could contribute twice as much to sea level rise by 2100 as previously estimated, according to a revised ice sheet model.",
+        "Thwaites Glacier in West Antarctica has been retreating and thinning rapidly, while satellites show substantial acceleration in its ice flow. Traditional ice sheet models have depicted slower movement, leaving scientists struggling to reconcile their simulations with the observations. The glacier lies in the Amundsen Sea Embayment, a sector responsible for roughly one-third of the Antarctic Ice Sheet’s mass loss.",
+        "A new ice sheet model developed by glaciologists at the University of California, Irvine and NASA’s Jet Propulsion Laboratory projects that melting at Thwaites could contribute up to 30 millimeters, or about 1. 2 inches, to sea level rise by 2100. That is twice previous estimates, even without additional climate warming. The study was published in Nature Communications .",
+        "“Glaciologists have long based their assumptions of ice sheet dynamics on the ‘grounding line,’ a discreet, narrow and mostly stable demarcation where ice leaves the land and begins floating on water,” said lead author Mattia Poinelli, who was a UC Irvine postdoctoral scholar in Earth system science when the study was conducted. “We have come to acknowledge a different arrangement beneath Earth’s major ocean-terminating glaciers. Satellite observations demonstrate the existence of a ‘grounding zone,’ sometimes kilometers wide, where warm ocean water is reaching deep underneath the ice sheets and causing vigorous melting.”",
+        "Synthetic aperture radar readings from the Finnish ICEYE satellite constellation allowed the researchers to detect kilometer-scale fluctuations in this zone along the main trunk of Thwaites. The data indicate that seawater penetrates several kilometers beneath grounded ice and lifts it during tidal cycles. This flushes the underside of the ice with pressurized, warm seawater, which currents altered by climate change push toward the Antarctic coastline.",
+        "That contact with the ocean affects how firmly the glacier remains anchored to ridges on the seafloor. According to Poinelli, a NASA JPL research affiliate who is now a project scientist at UCLA, the study showed that grounding zone processes accelerate the glacier’s detachment from these stabilizing features, allowing faster ice flow and deterioration.",
+        "“The Thwaites main trunk is being temporarily stabilized by the Mouginot Ridge,” he said. “Once that ridge is unpinned, the glacier will continually retreat across a predominantly retrograde seafloor toward its next topographic high, the South Ridge.”",
+        "A retrograde seafloor slopes downward farther inland, so retreat would carry the glacier into deeper water before it reaches the next rise in the terrain.",
+        "The researchers calibrated their model against more than 20 years of observations. By including a grounding zone instead of a grounding line, they reconstructed changes in the glacier from the 1990s to the present that were four times as pronounced as those represented in traditional models.",
+        "Simulations incorporating a grounding zone 4 to 6 kilometers wide, or about 2. 5 to 3. 7 miles, predict a 60 percent probability that the glacier will lose its anchoring contact with Mouginot Ridge by the end of the century, Poinelli said. “When you factor in key physical processes and calibrate against historical observations, you gain a reliable pathway for narrowing uncertainty in projections,” he said.",
+        "“We have documented and quantified the impacts of climate change on our planet’s sensitive ice sheets for decades, but a mounting realization gained in recent years of what is happening on the undersides of glaciers like Thwaites is leading to an even greater sense of alarm,” said co-author Eric Rignot, UC Irvine professor of Earth system science. “Most projections up-to-present have struggled to match the rapidity of the mass loss because of missing physics; our new model with more complete physics is able to match the record and then produces projections that are twice larger than before. These results predict greater risk of and exposure for coastal flooding than anticipated in the coming decades.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "1. 2 inches? What happened to 3. 2 feet of sea level rise by 2100?",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "scitechdaily-mysterious-brain-signal-linked-to-several-schizophrenia-sy",
+      "title": "Mysterious Brain Signal Linked to Several Schizophrenia Symptoms",
+      "dek": "Schizophrenia affects how people perceive their surroundings, organize their thoughts, and communicate with others. ",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T02:31:53.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/mysterious-brain-signal-linked-to-several-schizophrenia-symptoms/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Schizophrenia affects how people perceive their surroundings, organize their thoughts, and communicate with others. Although these symptoms are often studied separately, new research suggests they may be connected to a common disruption in brain activity.",
+        "In a study published in Science Advances , scientists identified changes in a brain rhythm known as beta-band activity that were associated with several symptoms of schizophrenia. Patients with the most pronounced changes also had greater difficulty processing sensory information, more disorganized speech, and more severe clinical symptoms.",
+        "Researchers examined brain activity in 25 people with schizophrenia and 25 healthy participants using high-resolution magnetoencephalography, or MEG. The recordings were collected at the McConnell Brain Imaging Centre at the Montreal Neurological Institute-Hospital (The Neuro). Participants completed a task involving the timing of sights and sounds, and researchers separately analyzed their speech for signs of disorganization.",
+        "Compared with the control group, participants with schizophrenia showed weaker and slower beta-band activity. These brain rhythms are involved in processes that help the brain interpret sensory information and coordinate responses to the environment.",
+        "“What struck us was that the same weakened brain signal kept showing up wherever we looked, whether patients were processing a sound, a sight or completing a movement,” said Hsi (Tiana) Wei, lead author of the study and a postdoctoral scholar in McGill University’s Department of Psychiatry and the Douglas Research Centre . “Seeing the same pattern across these different domains suggested there may be a common underlying process linking the symptoms.”",
+        "The results support the possibility that some schizophrenia symptoms arise from disturbances in how the brain constructs and updates its understanding of the world. Rather than representing entirely independent problems, difficulties with perception, behavior, and speech may share an underlying neurological process.",
+        "“This gives us early but compelling evidence that measuring the brain’s operations, especially how it builds and revises its own model of the world, may help us appreciate that there is a common thread behind the confusing array of symptoms we see in disorders like schizophrenia,” said Dr. Lena Palaniyappan, senior author of the study, Professor of Psychiatry at McGill University, and director of the Centre of Excellence in Youth Mental Health at the Douglas Hospital.",
+        "Palaniyappan believes that further research could eventually help clinicians identify young people who need additional mental health support before psychosis develops. “The very first sign of schizophrenia begins in our adolescence, but this often gets missed for a long time. If this finding is confirmed in larger samples, we may have a potentially useful method to identify who, among youth seeking help for mental health, needs extra support to prevent psychosis,” he said.",
+        "The study involved just 50 participants, and its findings establish associations rather than demonstrating that altered beta-band activity causes schizophrenia symptoms. The researchers also have not established whether measuring this signal can reliably predict psychosis.",
+        "“This is a first, modest-size study, and the associations with speech and clinical severity will need to be tested in larger independent samples before we can be confident in them,” Wei said.",
+        "If future studies confirm the findings, beta-band activity could potentially serve as a measurable indicator of brain dysfunction associated with schizophrenia. Wei also suggested that the signal may be worth investigating as a future treatment target, although its clinical usefulness remains unproven.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "scitechdaily-scientists-discover-that-ovaries-may-be-doing-something-un",
+      "title": "Scientists Discover That Ovaries May Be Doing Something Unexpected Decades After Menopause",
+      "dek": "Ovaries often dismissed as inactive after menopause may still shape how women age, with human tissue revealing inflammatory changes and molecular similarities to ovarian cancer.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T01:56:51.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-that-ovaries-may-be-doing-something-unexpected-decades-after-menopause/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Ovaries often dismissed as inactive after menopause may still shape how women age, with human tissue revealing inflammatory changes and molecular similarities to ovarian cancer.",
+        "Ovaries continue to change for decades after menopause, long after their role in reproduction has ended. In a study of ovarian tissue from 28 women ages 50 to 75, scientists found age-related shifts in proteins associated with inflammation, immune activity, and the structure of the tissue surrounding cells.",
+        "The research, conducted by scientists at Northwestern University and the Buck Institute for Research on Aging, was published in Aging Cell .",
+        "“In the ovary, we reach a point of no return with respect to fertility in which it’s no longer producing eggs, and I would venture to say most people assume those ovaries are just sitting there doing nothing, similar to the appendix,” said co-corresponding author Francesca Duncan, associate professor of reproductive science in medicine at Northwestern University Feinberg School of Medicine. “But that’s what makes this study very different.”",
+        "To investigate what changes after menopause, the researchers looked beyond ovarian hormones to examine the tissue’s protein composition. Co-corresponding author Birgit Schilling, professor and director of the Mass Spectrometry Center at the Buck Institute, led the team responsible for that analysis. Spearheaded by Buck Institute staff scientist and Schilling lab member Mark Watson, the work used advanced proteomic technologies that can identify and measure thousands of proteins at once. The researchers analyzed 5,812 groups of proteins in normal ovarian tissue.",
+        "Human ovarian tissue is difficult to obtain, making the collection of 28 ovaries unusually valuable, Duncan said. Concentrating on a 25-year age range after menopause allowed the team to isolate differences within the postmenopausal years, rather than comparing young and old ovaries across an entire lifespan. The technology also made it possible to examine thousands of proteins in every sample.",
+        "“When we analyzed the data in multiple different statistical ways, what became clear across all these methodologies is that the ovary was not stagnant,” Schilling said. “In fact, over the decades, there were quite dramatic differences in terms of some proteins’ levels would go up with age and some proteins’ levels would go down, which tells us this organ is quite dynamic.”",
+        "Ovaries from younger postmenopausal women contained more proteins involved in maintaining cells and tissue structure. Older ovaries had more proteins associated with inflammation, immune activity, and the breakdown and rebuilding of the tissue around cells. The differences were greatest between women in their 50s and those ages 70 and older.",
+        "Some of the molecular patterns also resembled those seen in cellular senescence. In this state, aging or damaged cells stop dividing but remain biologically active and can send signals that affect nearby tissue.",
+        "“Our data points to progressive aging features in which the ovary appears to lose its original identity and ends up doing something different,” Duncan said. “We do not yet know if there’s ever a point in a woman’s life when this organ is no longer beneficial and it’s actually harmful. These results really point to the need to ask this question.”",
+        "Duncan’s group had previously found similar evidence of continued remodeling in postmenopausal ovaries of mice . She began both that research and the human study with expectations that the findings ultimately challenged.",
+        "“I was predicting that if we took a 50-year-old ovary, a 60-year-old ovary, a 70-year-old, an 80-year-old ovary, they would all look exactly the same, have no eggs, and basically be non-functional,” Duncan said. “The fact that across species we’re seeing this gives us confidence that this isn’t just some random event, but something truly meaningful is happening in the biology.”",
+        "Women now routinely live for decades after menopause, Duncan noted, making the ovary’s role during this long period increasingly relevant to understanding women’s health beyond fertility.",
+        "“The ovary is not just a reproductive organ,” Schilling said. “It really influences how somebody ages because it speaks to all these other organs, such as the brain, and also to the bone, and women after menopause experience often a lot of bone problems. So, we think there is a connection between all these organs.”"
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "conversation-boo-feeling-scared-on-halloween-can-be-fun-for-children-bu",
+      "title": "Boo! Feeling scared on Halloween can be fun for children but can sometimes push their limits",
+      "dek": "Halloween is one of the few holidays centered around children. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T23:59:07.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/boo-feeling-scared-on-halloween-can-be-fun-for-children-but-can-sometimes-push-their-limits-294433"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "Halloween is one of the few holidays centered around children. When else can students come to school dressed like astronauts, monsters and witches, or ring strangers’ doorbells to ask for candy?",
+        "Horror’s bloody images lurk in the shadows – from ghouls leering over people’s lawns to skeletons hanging from trees – whether invited or not. Thoughtful adults might wonder, what is the right amount of scary for a child?",
+        "As a professor of children’s literature, and a writer of children’s books , I turn to the great author and illustrator Maurice Sendak for a hint.",
+        "A child’s mother once told Sendak that her pre-schooler was terrified of his classic 1963 book “ Where the Wild Things Are ,” which brings the reader into the world of an imaginative child, Max, after his mother sends him to his room without dinner. Through his imagination, Max journeys to a world of fantastical creatures called Wild Things.",
+        "No matter how many times this mother read “Where the Wild Things Are” to her young child, he screamed.",
+        "“What are you, a sadist?” Sendak answered. “Read him something else.”",
+        "“Why,” he continued, “ would any one book be right for every child ?”",
+        "When considering the benefits and drawbacks of scary books to get in the spirit of Halloween, some possible choices come to mind, along with some reminders to both overly cautious and sometimes careless adults.",
+        "To start, Felicia Bond’s 1987 “ The Halloween Performance ,” later republished as “ The Halloween Play ,” is a perfect Halloween picture-book classic, appealing to all ages and offering humor and suspense.",
+        "Bond is the illustrator of the 1985 children’s best seller, “ If You Give a Mouse a Cookie ,” and subsequent books. An adorable young mouse features in this Halloween story, as well.",
+        "The plot revolves around a mysterious “small but important part” that Roger, a nervous, brown mouse, has landed in the school Halloween performance.",
+        "Costumed skeletons and witches don’t bother him – but his jitters about performing on stage do.",
+        "Roger overcomes stage-fright to shine in the school performance. He may inspire other children to overcome their own feelings of nervousness at Halloween and make fun memories.",
+        "Frog and Toad are Arnold Lobel’s beloved, amphibian best friends from his children’s series published in the 1970s.",
+        "Though they have very different personalities, both Frog and Toad enjoy the thrill of playing with fear. In “ Shivers ,” a story in the book “Days with Frog and Toad,” Frog tells Toad a tale about “the old dark Frog” who combs the woods in search of tasty children.",
+        "Toad keeps asking, “Is this real?” Frog answers like any good storyteller, “Maybe it is and maybe it isn’t.”",
+        "Together the duo enjoy scaring themselves into a teeth-chattering but delightful evening.",
+        "They show young readers that, in the right doses, fear can be fun: ask any kid scream-laughing on a roller-coaster.",
+        "In another story, “ Dragons and Giants ,” Frog and Toad test their own heroism after reading fairy tales about dragons and giants.",
+        "Frog and Toad are both fearful and brave, as most of us are.",
+        "Wise children’s stories reinforce the truth that it’s natural to be both, sometimes at the same time. “Frog and Toad” features color illustrations in subtle greens and browns, leaving enough space for kids to imagine new facets of themselves – the timid and the bold.",
+        "Fear is inevitably woven into the fabric of children’s lives.",
+        "Nightmares, for example, spring from unknown sources, though studies show they are intensified by trauma, emotional disturbances and exposure to violence .",
+        "Bad dreams – like scary stories – work as fire drills for the developing brain."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "nasa-nasa-partners-accelerate-lander-development-for-2028-moon-",
+      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+      "dek": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T22:39:39.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers.",
+        "Since NASA established initial contracts with Blue Origin and SpaceX for crewed missions to the Moon, the agency has redefined Artemis III to demonstrate rendezvous and docking capabilities between test versions of landers from each provider and the agency’s Orion spacecraft in low Earth orbit next year. In parallel, the companies are also developing crew and cargo versions of their landers for near-term Artemis missions.",
+        "“We are executing President Trump’s National Space Policy to complete the long-awaited return of American astronauts to the lunar surface in 2028 and establish a Moon Base,” said NASA Administrator Jared Isaacman. “We have a proven foundation in SLS and Orion, along with two lunar landers in development with Blue Origin and SpaceX. But NASA has no intention of sitting idly by as all the pieces come together. That is not how Apollo succeeded, and it is not how the near-impossible is achieved. NASA is energized, our core capabilities are being rebuilt, our machine shops are running 24/7, and our experts are in the field attacking the critical path.",
+        "We are building a Super Bowl-caliber team to safely achieve these objectives and everything that comes next.”",
+        "For the initial crewed missions to the Moon, Artemis astronauts will launch in the agency’s Orion spacecraft on top of the SLS (Space Launch System) rocket from NASA’s Kennedy Space Center in Florida. During each Artemis mission, a commercial human landings system will link up with Orion before taking two crew members to the lunar surface while two remain aboard Orion. To accelerate development toward a 2028 landing, the Artemis landers and Orion will no longer rendezvous in a near-rectilinear halo orbit around the Moon and instead meet up in an orbit that differs for each partner, informed by their systems.",
+        "Both companies are required to perform an uncrewed demonstration mission with their crewed landers prior to the near-term Artemis crewed missions to the Moon. NASA will certify lander systems prior to the crewed missions to ensure safety and mission success.",
+        "SpaceX continues to plan for an in-space propellant aggregation approach to transfer super cold, or cryogenic, liquid propellant in space. The company will launch multiple versions of Starship to low Earth orbit prior to the launch of the Starship Human Landing System (HLS) from Florida. Similar to a gas station on Earth, the series of propellant “tanker” Starships in low Earth orbit will transfer propellant to the waiting “depot” Starship. The depot Starship will ultimately fuel the Starship lander for its journey to the Moon.",
+        "Under the revised operations, Starship HLS will await Orion and its crew in Earth orbit. The lander and Orion will rendezvous and dock in Earth orbit, then the Starship lander will perform a trans-lunar injection burn to send the combined lander and Orion stack to low lunar orbit. NASA is working to modify Orion to enable Starship to push it to the Moon. The lander will bring two crew members to the lunar surface for several days before delivering them back to Orion for the ride back to Earth.",
+        "Propellant aggregation in low Earth orbit allows for flexibility in the crew launch timing on SLS, while a trans-lunar injection burn performed by the Starship lander will enable direct access to low lunar orbit. This new concept of operations using low lunar orbit will significantly lower the amount of propellant Starship needs to aggregate in space while reducing the amount of time it can take for astronauts leaving the Moon’s surface in Starship to link back up with Orion. SpaceX will demonstrate the propellant aggregation approach during the uncrewed demonstration mission."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "nasa-nasas-artemis-iii-mission-to-test-future-moon-lander-opera",
+      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+      "dek": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T22:37:53.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.",
+        "Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit to perform a series of demonstrations with test versions, or test articles, of human landing systems being developed by industry partners Blue Origin and SpaceX. During the planned 14-day mission, crews and flight controllers will practice the rendezvous, docking, habitation, and operational procedures that will be essential when Artemis astronauts begin landing near the Moon’s South Pole in 2028.",
+        "The mission is designed to reduce risk, validate hardware, and gain operational experience before NASA attempts a crewed lunar landing.",
+        "“Every piece of this mission in Earth orbit is designed to reduce risk before we put astronauts back on the Moon,” said Jeremy Parsons, NASA’s Artemis program manager. “We’re launching three spacecraft on three different rockets and testing how they operate together — something NASA has never attempted. Every lesson we learn here gets us closer to landing on the Moon in 2028.”",
+        "Earlier Artemis missions used only NASA’s SLS (Space Launch System) rocket and Orion spacecraft. Artemis III will involve three separate spacecraft launched on three different heavy-lift rockets within a relatively short period of time.",
+        "The mission begins with Blue Origin launching a test version of its Blue Moon Mark 2 lander into a circular low Earth orbit approximately 273 miles (237 nautical miles) above Earth. The spacecraft can remain on orbit for up to 30 days providing schedule flexibility. Artemis III is designed as a tightly choreographed campaign, with NASA planning to launch Orion on top of SLS from the agency’s Kennedy Space Center in Florida only days after the Blue Moon test article launch and confirmation the vehicle is healthy and ready for joint operations.",
+        "Following launch, Orion will initially enter an elliptical Earth orbit of 18 x 1122 miles (16 x 975 nautical miles). It will use its service module to perform a series of maneuvers to transition to a circular orbit at about 345 miles (300 nautical miles) for thermal stabilization before then gradually setting up its rendezvous with the waiting Blue Moon lander test article. Because each spacecraft operates in slightly different orbital regimes optimized for its mission requirements, Artemis III requires a carefully choreographed sequence of orbital maneuvers and rendezvous operations throughout the flight.",
+        "During the first two days of flight, the crew will check out Orion’s systems, prepare for proximity operations, and gradually position themselves for the mission’s first major objective: rendezvous and docking with the Blue Moon test vehicle.",
+        "The operation represents NASA’s first opportunity to evaluate how Orion and a commercial lunar lander work together in space. Engineers will assess how software aboard both spacecraft, guidance systems, communications systems, and operational procedures perform in real-world conditions, while flight controllers gain experience coordinating activities across multiple teams and organizations.",
+        "Once docked, astronauts will spend approximately two days conducting evaluations aboard the Blue Moon test article. Crew members will open the hatch and enter the spacecraft, allowing them to assess the cabin environment, controls, and life-support systems firsthand. Teams will verify the spacecraft’s ability to maintain the proper atmosphere and pressure.",
+        "The Blue Moon test article incorporates many of the avionics, software, flight-control systems, crew-cabin technologies, and life-support functions planned for future lunar missions. Testing those systems in orbit will provide the first opportunity to evaluate how many of the lander’s flight systems perform in space as an integrated vehicle.",
+        "By the time Orion undocks, NASA will have completed its first evaluation of a commercial lunar lander with crew, gathering data on spacecraft systems, crew operations, and spacecraft interoperability not possible on the ground.",
+        "After completing operations with Blue Origin’s lander, Orion will undock and reposition to support the next phase of the mission: a second rendezvous operation."
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "nasa-nasas-swift-mission-ends-leaves-behind-scientific-bonanza",
+      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+      "dek": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T21:51:19.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets.",
+        "Swift conducted its final observation on Oct. 20. It is expected to re-enter the atmosphere in the next few weeks.",
+        "“Swift delivered an incredible, lasting return on investment for the nation, designed for a two-year primary mission but productive for more than 10 times as long,” said Shawn Domagal-Goldman, director, Astrophysics Division at NASA Headquarters in Washington. “In that time, Swift played a major role in advancing our understanding of the changing universe and was part of a revolution in astrophysics that showed how critical rapid-response observations are to the entire community.",
+        "To support rapid response to cosmic events in a post-Swift world, we’re exploring our ability to use and augment NASA’s fleet of existing space telescopes, from fast-to-orbit commercial capabilities to efficient, innovative new missions. And Swift leaves us with an extraordinary archive of multiwavelength observations that will fuel new discoveries for decades more.”",
+        "In its storied career, Swift has observed more than 2,000 gamma-ray bursts , the most powerful explosions in the cosmos. It has studied more than 1,400 supernova explosions, witnessed stars shredded by black holes , monitored active galaxies , conducted an all-sky X-ray survey, studied asteroids and comets , and more. Swift data has contributed to about 7,000 published scientific papers.",
+        "“Swift was designed as a satellite dedicated to studying gamma-ray bursts, outbursts that came and went so quickly that no one could target them with large telescopes to learn more,” said S. Bradley Cenko, the mission’s principal investigator at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “Swift needed to detect and locate gamma-ray bursts, communicate their position to other observatories, and then swing its telescopes around to image the burst locations before their afterglows faded out. This typically took Swift about a minute to do.”",
+        "Led by its first principal investigator, Neil Gehrels, Swift was born as a multiwavelength observatory, with co-aligned Optical/Ultraviolet and X-ray telescopes that could quickly image and refine a burst’s position. The mission launched into orbit on Nov. 20, 2004, and went to work the following month. In 2018, NASA renamed the mission to honor Gehrels following his death.",
+        "Speed was especially important for an elusive population called short gamma-ray bursts, which reach peak brightness in less than two seconds. Until Swift, it had been impossible to locate these bursts rapidly and precisely enough to observe their afterglows. In May 2005, Swift achieved this milestone with GRB 050509B , which lasted just 0. 03 seconds. Swift turned to the burst fast enough to detect 11 X-ray photons, making this the first short burst with a detected afterglow. These observations validated long-standing theoretical models, showing that short gamma-ray bursts likely come from mergers of two neutron stars — objects with the mass of the Sun that have been crushed to the size of a city.",
+        "Another factor led to Swift’s success as a kind of astronomical multitool. Its flexible planning system enabled astronomers to request “target-of-opportunity” observations that could be commanded from the ground in as little as a few minutes, or to set up monitoring programs for observing specific sources lasting from as little as a few minutes to months. The system could schedule up to 75 independent targets a day.",
+        "“The unique speed of response of the Swift hardware, the extraordinary success of the rapid mission operations, and the closely knit teamwork of the Swift Flight and Science Operations teams placed Swift at the crossroads of burgeoning areas of research,” said John Nousek, the mission’s operations director and professor of astronomy and astrophysics in the Eberly College of Science at Penn State in University Park, Pennsylvania.",
+        "The Swift archive contains nearly 22 years of brightness measurements of all kinds of cosmic outbursts, multiwavelength spectra, more than 1. 5 million images from its Ultraviolet/Optical Telescope, and much more. The full dataset, publicly available as part of NASA’s commitment to open, gold standard science, spans approximately 12 terabytes, the storage equivalent of about 600 high-definition movies."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "conversation-ancestors-all-around-millions-of-dead-people-linger-in-ame",
+      "title": "Ancestors all around – millions of dead people linger in Americans’ memories",
+      "dek": "Halloween kicks off a series of religious and cultural festivals to honor the dead, including All Saints’ Day, All Souls’ Day and the Day of the Dead. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T19:42:58.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/ancestors-all-around-millions-of-dead-people-linger-in-americans-memories-292342"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Halloween kicks off a series of religious and cultural festivals to honor the dead, including All Saints’ Day, All Souls’ Day and the Day of the Dead. But deceased loved ones don’t disappear from people’s social worlds once the ghost and skeleton decorations come down.",
+        "Present in memory and tradition, the dead can shape people’s identities and behaviors long after they die. Recent survey data shows that almost 44% of Americans report that they have felt the presence of a deceased relative or that they have communicated with a deceased relative in the past year alone.",
+        "Researchers lack basic knowledge about this shadow population. As demographers , we typically study the living. But in our recent work, we asked a very unusual demographic question: What does a population of our deceased relatives look like?",
+        "Our research typically categorizes the living population by age groups and other demographic attributes. In our recent study, we took our analysis a step further to estimate the size and age distribution of the currently living population’s deceased relatives. We focused specifically on deceased grandparents, parents, siblings, spouses and children.",
+        "To do this project, we relied on a modeling framework called demographic microsimulations . This approach produces results only for Black and white Americans. The method cannot estimate relative populations living outside of the United States, so it excludes groups with high percentages of foreign-born individuals who have family abroad.",
+        "Our study focused on the populations as of July 2020, but for the purposes of this article, we updated our analysis and weighted results to the estimated population as of October 2026.",
+        "Because estimating the deceased relative population is not a common exercise in our field, we had to make some modeling decisions. We counted only deceased relatives who died after the birth of at least one person still alive; if no one remains who could remember them, we did not include them.",
+        "Also, we counted deceased persons based on how many relatives they have in the living population. For example, if a deceased 60-year-old man is survived by a spouse, an adult child, a grandchild and a sibling, we count him in the deceased relative population four times, reflecting his being remembered by four living individuals. As such, the deceased relative population we quantified is really a count of how many direct relative ties remain to those who are dead.",
+        "And finally, we classified deceased relatives according to their age at death. We believe this represents the age many people will most clearly remember their deceased loved ones. Of course, we categorize the living population by their current age.",
+        "First, the deceased relative population is large. Our model estimated that the living Black and white population representing about 217 million people , had 755 million ties to deceased close relatives . That’s a population more than three times the size of the living population. For every under-15-year-old out trick-or-treating on Halloween, there are about 21 deceased relatives remembered.",
+        "Second, our model shows that, on average, the deceased relatives died 25 years ago. That the average deceased relative has been remembered for a quarter of a century makes it clear that loved ones are often suspended in memory for years, even decades, after their deaths.",
+        "Third, over half of the deceased relative population was born more than 100 years ago – even before the term “trick-or-treating” took hold in the U. S . Around 10% of the deceased relatives were born before 1900, with 140,000 of them born before the Civil War – these are the remembered grandparents of today’s oldest individuals. These results speak to how generations of the seemingly long ago past still have a direct tie to the living.",
+        "The Halloween season reminds us of ghosts, spirits and ancestors. Whatever their beliefs, many Americans also carry relationships with people who are no longer alive: grandparents whose recipes they still make, parents whose advice they still hear, spouses whose absence shapes their days.",
+        "These relationships are deeply personal, but together they form a vast and previously unstudied shadow population. By quantifying and characterizing the deceased relative population, our research reveals just how many people no longer appear in the census yet remain an integral part of our social world.",
+        "The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "conversation-un-peacekeepers-prepare-to-exit-lebanon-after-70-years-lea",
+      "title": "UN peacekeepers prepare to exit Lebanon after 70 years – leaving behind a worrying security vacuum",
+      "dek": "For nearly 70 years, the blue helmets of United Nations’ peacekeepers have dotted the landscape of southern Lebanon. But those days may soon be over.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T18:45:07.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/un-peacekeepers-prepare-to-exit-lebanon-after-70-years-leaving-behind-a-worrying-security-vacuum-293159"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "For nearly 70 years, the blue helmets of United Nations’ peacekeepers have dotted the landscape of southern Lebanon. But those days may soon be over.",
+        "Under Israeli and American pressure, the U. N. Security Council unanimously voted in August to end the mandate establishing the United Nations Interim Force in Lebanon, or UNIFIL .",
+        "It means the 7,565 members of UNIFIL deployed in Lebanon – representing about 46 countries – will depart the country no later than Dec. 31, 2026.",
+        "The end of the U. N. presence comes at a pivotal time. Israel and Lebanon have already held seven rounds of negotiations aimed at bringing a lasting peace to a region that has suffered from decades of conflict.",
+        "Brokered by the United States, these talks that led to the signing of the Trilateral Framework in June 2026 call for the disarmament of Hezbollah, the Israeli withdrawal from all Lebanese lands and the settlement of all disputes over borders. Yet all of these conditions are still some way off from completion – and beset by a series of barriers .",
+        "As such, the departure of the United Nations peacekeeping forces raises serious concerns. The potential for a security vacuum looms large in south Lebanon, especially given that Israel continues to bomb Lebanon despite a ceasefire that has nominally been in place since April 16, 2026 .",
+        "As a scholar of Middle East Studies , I know that UNIFIL has never been a permanent solution. But I fear that its termination creates more problems than it solves, especially when there are no clear replacements or post-UNIFIL security arrangements in place.",
+        "While the U. N. had had an on-the-ground presence in Lebanon to handle civil strife since the 1950s , its role in mediating between Lebanon and Israel started later.",
+        "In 1978, after a series of attacks on Israel organized by Palestinian fighters in Lebanon, Israel invaded and occupied the south in what was known as Operation Litani . As a result, the United Nations Security Council established UNIFIL to monitor Israel’s withdrawal from south Lebanon and to restore peace at the Lebanese–Israeli border.",
+        "Israel’s occupation of south Lebanon lasted more than two decades . Following its withdrawal on May 25, 2000, the U. N. set the Blue Line – a 75-mile (120 km) demarcation line created for the practical purpose of confirming Israeli withdrawal from south Lebanon. It was not an official border but a buffer zone monitored by the U. N. peacekeepers.",
+        "UNFIL and the Blue Line served as geographic and diplomatic focal points in the 2006 war between Hezbollah – an Iranian-backed militia operating from Lebanon – and Israel.",
+        "Resolution 1701 of the Security Council, which brought an end to the 2006 war, dramatically expanded the UNIFIL role in Lebanon ; the number of troops went from 2,000 to 15,000 authorized military personnel.",
+        "Its mandate also changed to include monitoring the ceasefire and documenting its violations, coordinating with Lebanon’s military and functioning as the only direct communication channel between the Lebanese and Israeli militaries. UNIFIL also offered humanitarian aid to the affected civilian population of south Lebanon.",
+        "Yet UNIFIL’s role never altered the basic lack of peace on the Israeli-Lebanese border. Over 50 years, Israel invaded Lebanon numerous times . And since 2000, Hezbollah has flourished in south Lebanon .",
+        "As UNIFIL prepares to depart, it’s unclear what will fill the looming security vacuum. It could be filled by non-U. N. troops, but Lebanon’s past shows the risks inherent to international peacekeeping missions.",
+        "In 1982, after Israel invaded Lebanon and occupied Beirut with the intention of eliminating the Palestinian militant threat, Lebanese authorities called on Western powers for help. In August, the governments of the U. S. , France, Italy and the United Kingdom created a multinational peacekeeping force designed to restore peace and stop the fighting between the Lebanese, Palestinians and Israelis.",
+        "But on Oct. 23, 1983 , the multinational peacekeeping force was the target of a dual suicide attack that killed 241 American service members and 58 French paratroopers.",
+        "To this day, the attack – claimed by the pro-Iranian Islamic Jihad – remains the deadliest single-day incident for the U. S. Marine Corps since the Battle of Iwo Jima in 1945.",
+        "In addition to Israel, interventions in Lebanon have also come from another neighboring country.",
+        "In 1976, the Syrian military intervened during Lebanon’s civil war to put an end to sectarian violence. Nearly three decades of occupation followed, and troops were withdrawn only following the assassination of Lebanese Prime Minister Rafik Hariri in 2005 and the subsequent Cedar Revolution .",
+        "With the absence of an internal Lebanese consensus, the arrival of any international peacekeeping force to replace the exiting UNIFIL will be perceived by many Lebanese as a top-down imposition.",
+        "Moreover, the situation on the ground makes it dangerous for any international force to successfully operate. Israel is reportedly occupying over 10% of Lebanon’s territories , including multiple permanent bases and outposts in southern Lebanese territory.",
+        "Finally, the fate of Lebanon-Israel direct negotiations is unclear . Recently, the countries held military talks in Florida, but little is expected from them .",
+        "Yet a number of efforts are ongoing despite the difficult circumstances surrounding UNIFIL’s withdrawal. On June 25, French President Emmanuel Macron and Italian Prime Minister Giorgia Meloni announced an “ international coalition to support Lebanon ” to reinforce Lebanon’s sovereignty and help prevent a security vacuum in south Lebanon."
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "nasa-nasa-virginia-launch-power-partnership-for-energy-security",
+      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+      "dek": "NASA is helping to foster long-term energy security in Virginia.",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T17:50:21.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA is helping to foster long-term energy security in Virginia.",
+        "NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes.",
+        "Under a new Space Act Agreement announced during a ceremony Friday, the partnership will use NASA expertise in atmospheric sciences to assist Virginia Energy in support of resiliency studies, resource analysis, and long-term energy planning.",
+        "“NASA Langley relishes the opportunity to put our unique science data into the hands of those who want to improve people’s lives,” said NASA Langley Deputy Director Allen Kilgore. “This collaboration with Virginia Energy will benefit the citizens of Virginia and provide stronger energy security for the Commonwealth.”",
+        "This agreement will help state officials plan for current and potential extreme weather conditions in Virginia and assess implications for electricity demand, energy generation, and system stress. Information can be directly incorporated into energy policy, planning, and operational decisions.",
+        "By helping Virginians better anticipate energy demands, prepare for extreme weather, and understand factors affecting electricity generation, this partnership will support a more reliable and resilient energy system.",
+        "“Sound energy planning depends on models that reflect real-world conditions,” said Virginia Energy Director Vince Maiden. “This collaboration will help us better understand how weather affects electricity supply and demand, identify vulnerabilities, and weigh resource tradeoffs with greater confidence.”",
+        "The partnership will infuse relevant NASA Prediction of Worldwide Energy Resources (POWER) data products into Virginia Energy’s modeling and analysis system. The POWER information supports energy generation system designs and prediction of energy production using validated data products from NASA’s Earth Science to Action program. Those key NASA products represent research and development across NASA including Langley, Goddard Space Flight Center in Greenbelt, Maryland, and Ames Research Center in California’s Silicon Valley.",
+        "Through a digital pipeline, Virginia Energy can connect to Langley’s POWER web platform to download specific datasets and put them directly into their modeling tools. NASA’s POWER team members will work with Virginia Energy researchers to streamline the exchange, adjust formats, and evaluate the need for additional data.",
+        "This new partnership was fostered through NASA Langley’s Strategic Partnerships Office that connects industry, academia, and other government agencies with center facilities, capabilities, specialized test environments, and technical expertise to bring ideas to life."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "conversation-php-is-in-the-foundation-of-70-of-websites-heres-what-it-i",
+      "title": "PHP is in the foundation of 70% of websites – here’s what it is and why a flaw in the software is a major hacking threat",
+      "dek": "Governments and organizations around the world began scrambling on Oct. ",
+      "category": "科技",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-23T17:43:01.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/php-is-in-the-foundation-of-70-of-websites-heres-what-it-is-and-why-a-flaw-in-the-software-is-a-major-hacking-threat-294999"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Governments and organizations around the world began scrambling on Oct. 21, 2026, to fix a vulnerability in software that runs their websites, a bug that could give hackers access to data and control of websites. The flaw in PHP, the programming language that powers much of today’s web, prompted urgent warnings from the U. S. National Security Agency , cybersecurity agencies and software vendors.",
+        "A researcher at Calif , a security research firm, found the flaw in August 2026 using an advanced artificial intelligence model from OpenAI. The firm alerted the nonprofit that manages PHP. However, word of the flaw leaked before the PHP organization released patches for its software, and according to Amazon Web Services officials, hackers began “broadly” attempting to exploit it .",
+        "The vulnerability has implications far beyond a single company or platform, because PHP is a key piece of software that helps run millions of websites. So, what is PHP, what role did AI play in uncovering the vulnerability, and should the average user worry?",
+        "PHP is a programming language that powers most websites . For a modern website to provide dynamic content, visual elements and searchable features, a program must run on the web server and take user input, whether that is entering a web address or clicking links and buttons. Estimates suggest that around 70% of websites run on PHP.",
+        "PHP operates on a web server in two main parts : the core PHP system – the engine and runtime libraries – and the individual PHP scripts, which are the custom programs that actually implement a website. When you interact with a website, PHP scripts run, take user input and produce the output your web browser displays.",
+        "The current security issue sits directly in the core PHP system and the libraries it uses. When a vulnerability exists at this deep level, it can allow an adversary to exploit the system. In this case, they can run unauthorized commands on the computer hosting the website, which allows attackers to access data and gain full control of the website.",
+        "This vulnerability is not a mistake in an individual website’s code. The issue lies in the core PHP system, making every unpatched system running PHP vulnerable. Since websites are accessible to anyone on the internet, adversaries can easily find PHP-based websites using automated tools. From there, they can run an exploit program that takes advantage of the vulnerability.",
+        "This exploit code is called PHP2Shell. This name comes from the fact that the exploit gives the attacker “shell access,” a cybersecurity term for direct command-line control of the computer running the website. Shell access bypasses the website interface, giving adversaries a window to enter commands and access all the website’s data.",
+        "What makes this vulnerability particularly interesting is how it was discovered. This exploit came to light through a process known as coordinated disclosure, in which cybersecurity researchers report the flaw to PHP developers before publicizing it.",
+        "This discovery shows the power of AI in cybersecurity. For decades, finding subtle software flaws required large teams of specialists manually reviewing code. Today’s AI systems can examine vast codebases and identify unusual patterns in hours or days. These models can analyze millions of lines of code in seconds, spotting subtle memory management bugs that human auditors might miss over decades of software development. The PHP vulnerability has existed in the core PHP code for over a decade, and AI helped researchers find it.",
+        "However, this also shows that attackers can use these same tools to locate and exploit vulnerabilities. The same reasoning capabilities that help security researchers find flaws first can also let attackers rapidly scan the web for vulnerable targets and automate the creation of tools to exploit the vulnerabilities.",
+        "This illustrates why it is so critical for security teams to use AI to find vulnerabilities and report them safely and actively. AI can also help release patches that mitigate these vulnerabilities .",
+        "Many government agencies, universities, hospitals and businesses rely on PHP-based systems . While individual internet users are unlikely to be directly affected, organizations that delay patching could expose sensitive data, risk having their operations disrupted or give attackers a foothold into larger networks.",
+        "PHP runs entirely on remote web servers. If you are an everyday internet user visiting websites, you do not need to download a patch or fix your personal computer.",
+        "However, if you manage a website, blog or server, even a small site built on popular content management systems such as WordPress, you should check your server administration panel or web host immediately to ensure your PHP software is updated to the latest patched version. If a third party hosts your website, check with them to see whether they have patched for these vulnerabilities.",
+        "The PHP2Shell discovery illustrates a new reality for cybersecurity. In our interconnected world, keeping web infrastructure secure is a continuous race. As AI tools become standard for both cyber defenders and online adversaries, maintaining fast patching habits remains our most essential defense.",
+        "Doug Jacobson does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "conversation-why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-po",
+      "title": "Why ultra-Orthodox parties hold so much sway in Israeli politics",
+      "dek": "On Oct. 20, 2026, a week before Israel’s elections, dozens of men were detained on suspicion of evading the draft – arrests that Prime Minister Benjamin Netanyahu called…",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T14:52:34.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-politics-294218"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "On Oct. 20, 2026, a week before Israel’s elections, dozens of men were detained on suspicion of evading the draft – arrests that Prime Minister Benjamin Netanyahu called “unacceptable .”",
+        "The young men attend ultra-Orthodox, or Haredi, religious schools, whose students were long exempt from the military service mandatory for most Israelis. A 2024 court ruling that Haredi men must be drafted alongside other Jewish youth intensified the conscription debate. Netanyahu’s government has failed to either legalize the draft exemption or enforce the court’s ruling, though he has said Haredim who are not studying should enlist .",
+        "With Israel’s military fighting in several conflicts, those exemptions have become increasingly unpopular: The vast majority of Jewish voters want Haredi communities to share the burden . Haredi political parties, however, are key potential coalition members as Netanyahu attempts to secure his political future. Although a relatively small percentage of the population, the Haredim hold disproportionate sway in Israel’s parliamentary system.",
+        "Haredi Jews strictly observe Jewish religious law and often disapprove of liberal interpretations. They typically live in Haredi-majority neighborhoods where large families are the norm – six children, on average – and about half of the men devote themselves to full-time religious study . The poverty rate is 33% , more than double the percentage for non-Haredi Jews.",
+        "The Israeli public is about 14% Haredi , but the community is growing quickly because of its high birth rate. Projections by the Central Bureau of Statistics estimate that almost a quarter of Israelis will be Haredi by 2050.",
+        "Haredi communities are diverse and represented by two main political parties. Haredim who are Ashkenazi – Jews whose ancestors came from northern and eastern Europe – are linked to United Torah Judaism, or UTJ. Those who are Sephardi or Mizrachi, meaning their ancestors came from the Iberian Peninsula and the Middle East, are linked to Shas.",
+        "A third Haredi party, Haredi Public, was formed in July 2026 . The party says it will represent Haredim who feel underserved by Shas and UTJ , emphasizing employment and poverty, housing development and the education system. Unlike the other two Haredi parties, it has included women on its candidate list.",
+        "Elections for the Israeli parliament, the Knesset, use a proportional representation system . Any party that receives more than 3. 25% of votes receives seats based on the fraction of votes it received. Each party allocates its seats to members based on a list of candidates published before elections.",
+        "Having multiple parties with similar target demographics risks dividing the vote, leaving that group with fewer representatives in the Knesset. Shas and UTJ have agreed to share their surplus votes in the 2026 election to maximize their overall seat share.",
+        "Because of the low electoral threshold, many parties are able to win seats. No Israeli party has ever attained the 50% share needed to control parliament by itself. As in other countries with similar systems, it is very common for parties to form coalitions and govern as a team.",
+        "Likud, one of the major conservative parties, has led most governing coalitions for the past two decades , with party leader Benjamin Netanyahu as prime minister. Haredi parties are seen as strong conservative allies , and they have been key coalition members for Likud administrations. Today, as Netanyahu faces challenges from other right-wing parties over his handling of Oct. 7, 2023, and several wars, Likud may need them even more.",
+        "The fact that Likud has needed Haredi parties to form coalitions has given them negotiating power. For many years, one of their priorities has been draft exemptions for religious education .",
+        "Military service is mandatory for most groups in Israel, although Muslim and Christian Arab citizens are generally exempted. Jewish Israelis see conscription as a unifying experience and a costly demonstration of commitment to the state. Starting at age 18, most women serve two years and most men serve almost three years. Former soldiers can be called up as reservists into their 40s, depending on their training.",
+        "For decades, Haredi men received de facto exemptions. It was, effectively, one of several government arrangements that subsidize Haredi communities. Religious schools for teen boys and married men receive government payments for each student. Given the communities’ low employment rates, large families and high poverty rates, many families rely on public support .",
+        "In 2024, Israel’s Supreme Court ruled that a blanket exemption from military service for Haredim was not legal . Netanyahu’s government struggled to enact a compromise between those who favored drafting Haredim and the Haredi parties; the failure to find a lasting legal way to exempt Haredi men led Shas and UTJ to leave the Likud-led coalition in 2025.",
+        "Nonetheless, this ruling has not led to mass conscription.",
+        "Haredi groups have held public protests , and many have ignored draft notices. While tens of thousands of men are draft eligible but not serving , and most of them are Haredi, fewer than 500 evaders have been arrested in 2026. Netanyahu argues against arrests , saying they discourage men from enlisting without coercion.",
+        "In July 2026, at the urging of Haredi parties, the government passed a law to temporarily prevent arresting draft evaders. Some members of Netanyahu’s governing coalition opposed the law, however, and right-wing opposition parties filed petitions to challenge it in court .",
+        "Former Prime Minister Naftali Bennett – leader of the Together alliance, and seen as a key contender to oust Netanyahu – has threatened to cut subsidies to the Haredi community if they continue to defy the draft. Gadi Eisenkot, leader of the centrist Yashar party, is another top contender to replace Netanyahu . He has proposed allowing 3% of Haredi men exemptions to study , while drafting the majority.",
+        "As the number of conflict zones increases – Gaza, southern Lebanon and Iran, as well as deployments in the West Bank – the unequal burden of military participation is a growing source of resentment among many conscripted Israelis and their families. Seven in 10 Jewish Israelis favor drafting the Haredim.",
+        "Shas and UTJ, however, have declared they will not join a coalition unless it promises to codify the draft exemption into law .",
+        "When the Haredi parties exited Netanyahu’s coalition, Likud replaced them with nationalist parties that emphasize the state and Jewish supremacy. Particularly notable was the decision to include the Jewish Power party , an offshoot of an earlier group banned for racism ; including Kahanist groups was long seen as a red line .",
+        "Haredi communities, on the other hand, tend to prioritize religious Jewishness over the state. Most Haredim do not consider themselves Zionist , and a small percentage are anti-Zionist . They argue that it was sacrilegious for people to create a state of Israel rather than waiting for God to return Jews to the land of Israel. Where nationalist politicians emphasize the secular state and military service, Haredim see their religious study as service to the Jewish community.",
+        "As Likud’s changing coalition shows, Netanyahu’s alliances are strategic rather than ideological. I believe his decision to side with the Haredim on the recent draft legislation suggests his coalition is open to revision after the October 2026 election."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "conversation-fear-based-campaign-ads-can-grab-attention-but-whether-the",
+      "title": "Fear-based campaign ads can grab attention, but whether they win votes is less clear",
+      "dek": "On a Monday night in September 1964, television viewers watched a little girl counting petals on a flower. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T11:38:43.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/fear-based-campaign-ads-can-grab-attention-but-whether-they-win-votes-is-less-clear-292574"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "On a Monday night in September 1964, television viewers watched a little girl counting petals on a flower. Her voice gave way to a man counting down, and then a nuclear blast filled the screen.",
+        "The ad ran as a paid spot only once , in support of President Lyndon B. Johnson’s reelection campaign. It never mentioned his opponent, republican Barry Goldwater . The ad played on a fear voters already held, that Goldwater might start a nuclear war . Republicans protested loudly, Democrats pulled the spot, and the uproar got it rebroadcast in full on network news.",
+        "I study how emotional appeals persuade, from how viewers’ moods shape their reactions to political ads to how anxiety drives people to seek out , and sometimes fail to absorb, information about threats.",
+        "The LBJ “Daisy” ad shows why political campaigns to this day continue to reach for fear , and it hints at why the payoff is less predictable than you might think.",
+        "Fear is an alarm . It tells you something threatening is close. You feel scared when you believe you are at risk from something dangerous that can hurt you.",
+        "Anxiety knocks people off autopilot, sharpens attention and sends them looking for new information. That heightened attentiveness may be exactly what a struggling campaign wants.",
+        "When political scientists Travis Ridout and Kathleen Searles tracked Senate ads from 2004, they found that front-runners often leaned on enthusiasm and pride in their messaging, while candidates who were behind leaned on fear and anger.",
+        "During the 1998 Massachusetts governor’s race, political scientist Ted Brader ran a study that embedded campaign ads in a news broadcast and changed only the music and images, keeping the words identical . Those changes produced completely different reactions. When a negative ad paired grainy black-and-white images of drug use with tense music, viewers paid closer attention to the spoken message and became more open to reconsidering their chosen candidate.",
+        "Fear cues – like a nuclear mushroom cloud – can push viewers to weigh fresh information and reconsider their choice. One surprise: Politically informed citizens were more responsive to these emotional cues than less engaged ones. Fear is not simply a tool for swaying the uninformed, undecided voter. It also reaches people who follow politics closely. Emotion provides the motivation, while knowledge provides the ability to think carefully about the issues and positions and seek out more information.",
+        "More broadly, a meta-analysis of over 100 studies found that fear appeals reliably shift attitudes and behavior across health and other domains. For instance, public health researcher Lucy Popova tested fear-based messages designed to discourage smokers from trying snus, a smokeless tobacco product. She found that when participants perceived a serious threat but also felt capable of acting on it, they held less favorable attitudes toward snus and were less inclined to try it.",
+        "Political attack ads – fear messaging being one type – have a shakier record. A review of more than 100 studies found no dependable evidence that negative campaigning wins elections, and some evidence that it lowers positive feelings toward the candidate who sponsors it.",
+        "Communication scholar Kim Witte’s research found that fear motivates action when people believe there is a workable response that they can carry out. When the threat feels big and the solution feels out of reach, people protect themselves from the message instead . They tune out, deny the threat or decide the messenger is the problem.",
+        "For example, picture an ad geared toward adolescent vaping that shows teens in hospital beds with ventilators using scary terms like “popcorn lungs.” If the ad also communicates that vaping can destroy lungs irreversibly, the teen audience is likely to experience extreme fear while at the same time feeling like there’s no way to fix the problem.",
+        "My colleagues and I have seen this effect in our own experiments. We found that people who felt highly anxious and also confident they could act sought out the most information . Those who felt anxious but lacked that confidence did go looking, yet they recalled very little. Anxiety pushed them to search but got in the way of absorbing what they read.",
+        "A campaign that frightens voters without offering a clear step to address the issue could end up producing plenty of anxious attention and very little learning.",
+        "Empowerment also helps explain who shows up at the polls. Political scientist Nicholas Valentino and colleagues found that anger boosted voter participation more reliably than anxiety, and anxiety mattered mainly for people who already had the skills and resources to take actions like donate to campaigns, attend rallies, sign petitions and so on.",
+        "Fear does its most reliable work when it attaches to a stereotype voters already carry. The 1988 presidential race provides two classic examples.",
+        "One controversial ad, produced in support of Republican George H. W. Bush, showed a mugshot of a Black man. The ad named the man, Willie Horton, and a voiceover explained that he’d committed rape and assault while on a weekend furlough from prison as part of a program run under Massachusetts Governor Michael Dukakis, the Democratic candidate. The spot linked fears about crime to race without saying so directly.",
+        "Bush’s campaign followed up with the “ Revolving Door ” ad, which built on that anxiety. It featured stark, black-and-white footage of inmates marching through a revolving gate while a narrator warned that Dukakis had let murderers out of prison on weekend passes.",
+        "Political scientist Tali Mendelberg’s research described in “ The Race Card ” shows that these implicit appeals to prejudices and fears are powerful . But they lose much of their force once someone publicly names them as racial. Implicit appeals work because they slip past most voters’ commitment to racial equality; once the racial message is pointed out, voters recognize it and many reject it rather than see themselves as endorsing prejudice.",
+        "In a national experiment, Public Policy researcher Mirya Holman and colleagues found that when campaign messages triggered fears of terrorism , voters turned to their stereotypes of strong leaders as masculine. Those stereotypes hurt a female Democratic candidate, while Republican candidates of either gender were unaffected, since Republicans are already seen as tough on security .",
+        "A message communicating a threat does not need to name a candidate’s identity to disadvantage them. It simply makes voters reach for the stereotypes they already hold. There’s less systematic research on candidates’ religion, though the same mechanism – fear pushing voters to rely on the stereotypes they already hold about who can keep them safe – predicts similar vulnerability for Muslim candidates .",
+        "In 1828, opponents accused presidential candidate Andrew Jackson of murder and cannibalism . Both parties have leaned on fear in the television era, from Reagan’s 1984 “ Bear ” ad about an unnamed Soviet threat, to Democrats’ 1996 warnings that seniors’ Medicare was at risk .",
+        "What has grown is negativity overall. Political scientist John Geer’s analysis of presidential ads from 1960 to 2004 documents that rise , though he also found attack ads, more likely than positive ones, to focus on real issues rather than personal traits. The evidence that fear specifically has increased, as opposed to negativity in general, is less clear."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "nasa-el-nin-o-then-and-now",
+      "title": "El Niño Then and Now",
+      "dek": "El Niño is part of a natural climate pattern that occurs roughly every two to seven years, bringing warmer-than-normal water to parts of the equatorial Pacific. ",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "El Niño is part of a natural climate pattern that occurs roughly every two to seven years, bringing warmer-than-normal water to parts of the equatorial Pacific. The most recent very strong El Niño events, in 1997-98 and 2015-16, upended weather patterns. Impacts spanned the planet, from fires in Indonesia and the Amazon, to crop failures due to drought in southern Africa , to heavy rain and coastal flooding in Southern California. The current El Niño rivals these past heavyweights.",
+        "Every El Niño grows from a feedback loop between the atmosphere and the ocean. Trade winds normally keep warm water piled up in the western Pacific, where it stands higher than in the east. When those winds weaken, that warm water begins to pulse eastward, which further weakens and sometimes reverses the winds, allowing even more warm water to move east. The cycle intensifies as waters continue to warm and pile up in the central and eastern Pacific.",
+        "But each El Niño has its own character, shaped by where in the Pacific the warmth builds and how the atmosphere responds. “The search for the ‘typical’ El Niño is very elusive,” said Josh Willis, project scientist for sea level missions at NASA’s Jet Propulsion Laboratory (JPL). “They’re all different in terms of where they land and how their impacts play out.”",
+        "Altimetry satellites can track those differences by measuring the height of the sea surface. Because water expands as it warms, higher-than-normal sea levels in the central and eastern equatorial Pacific signal the buildup of heat associated with El Niño. The maps above depict sea surface height anomalies across the Pacific Ocean on October 13, 1997 (left), and on October 12, 2026 (right). Data are from the TOPEX/Poseidon satellite and the Sentinel-6 Michael Freilich satellite, respectively, and were processed by scientists at JPL.",
+        "Shades of red indicate where sea levels were higher than average. Normal sea level conditions appear white, and lower areas are blue. Signals related to seasonal cycles and long-term trends have been removed to highlight sea level anomalies associated with El Niño and other short-term natural phenomena.",
+        "“What’s unique about altimetry is that we have a 35-year record from nearly identical satellites flying almost the same ground track, with each mission overlapping the next,” Willis said. “That lets us look back in time and compare this El Niño to what happened in 1997. And right now, this one is on track to be even bigger.”",
+        "Compared with the 1997-98 event, El Niño in 2026 came on much more suddenly. But as of October, the two events appear similar in character—the tilt of sea level (low in the west and high in the east) and high, warm water extending all the way to South America—so Willis thinks the impacts could be similar as well. In 1997-98, that meant, for instance, lots of rain in California and across the southern tier of the U. S.",
+        "The 2015-16 El Niño was another heavy hitter but differed in its character. Sea surface height anomalies on October 12, 2015, based on altimetry data from the Jason-2 satellite, are shown above in context with maps from around the same time in 1997 and 2026. In 2015, the exceptionally warm, high water along the equator didn’t push up against South America to the extent it did in the other years. Rainfall impacts that winter concentrated more over Central America and the southeastern U. S. , with significant flooding in Mexico.",
+        "NOAA’s El Niño outlook on October 8, 2026, called for an 83 percent chance of a strong-to-very strong El Niño through the first three months of 2027. But exactly how the impacts will play out in winter 2026-27 and beyond remains to be seen. Willis noted that El Niño’s influence propagates through a chaotic atmosphere, and the signal can get muddled as it extends beyond the tropics. “There’s always a bit of a dice roll here,” Willis said. “Just because this El Niño looks like 1997 doesn’t mean it will be exactly the same—it’s just our best guess at the moment.”",
+        "NASA Earth Observatory maps by Lauren Dauphin, using NASA-SSH altimetry data provided by Josh Willis, Severine Fournier, and Kevin Marlis, NASA/JPL-Caltech."
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "nasa-nasa-invites-media-to-2026-von-braun-space-exploration-sym",
+      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "dek": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-22T21:39:58.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville.",
+        "This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce.",
+        "Panels include discussions on Artemis II and III, space propulsion flash talks, building utilities and infrastructure for sustainable lunar operations, Moon base supply chain resilience, space nuclear technology, navigating the new NASA workforce, and engineering the future, featuring keynotes and awards presentations.",
+        "To request an interview with NASA speakers during the event, media must contact Lance D. Davis, lance. d. davis@nasa. gov , and Joel Wallace, joel. w. wallace@nasa. gov . Media interested in participating in-person or online must contact the American Astronomical Society to register.",
+        "Organized by the American Astronautical Society in collaboration with NASA’s Marshall Space Flight Center in Huntsville, Alabama, the annual event gathers leaders from government, industry, policy, and academia to discuss the current landscape of space exploration and help chart a path forward.",
+        "Lance D. Davis Marshall Space Flight Center, Huntsville, Ala. 256-640-9065 lance. d. davis@nasa. gov"
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "conversation-surviving-cancer-starts-at-diagnosis-and-continues-after-t",
+      "title": "Surviving cancer starts at diagnosis and continues after treatment – earlier survivorship care can help patients feel better and live longer",
+      "dek": "“You have cancer.” It’s a phrase that comes as a shock, then is quickly followed by a whirlwind of decisions that somehow feel fast and slow at the same time.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T15:06:45.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/surviving-cancer-starts-at-diagnosis-and-continues-after-treatment-earlier-survivorship-care-can-help-patients-feel-better-and-live-longer-294431"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "“You have cancer.” It’s a phrase that comes as a shock, then is quickly followed by a whirlwind of decisions that somehow feel fast and slow at the same time.",
+        "You have treatments to decide on. You are trying to figure out how you might work, care for your family and undergo a variety of intensive medical appointments all at the same time. You are centered on the here and now, and thinking about five or 10 years down the road is not at the forefront of your mind. Getting through treatment is the finish line you are reaching for; that is when you may actually feel like a cancer survivor.",
+        "As a nurse and scientist who has spent over a decade caring for cancer patients and studying ways to ease the effects of treatment, I have heard this story time and time again from both survivors and their loved ones. But survivorship actually begins at the time of diagnosis.",
+        "In fact, in our newly published research in JAMA Otolaryngology–Head & Neck Surgery, my team and I found that patients with head and neck cancer who started survivorship care – healthcare services that support a cancer survivor’s physical, emotional, social and practical needs – earlier were more likely to stick to treatment and be alive without cancer three years after treatment.",
+        "Clinicians and researchers consider a person a cancer survivor from the time they are diagnosed through the end of their life. More important than the term is what cancer survivorship is meant to look like for the patient.",
+        "Cancer survivorship reflects the patient’s experience with cancer and cancer treatment, and the physical, emotional and social effects that has on their life. Survivorship care is designed to identify and address the complex needs of a cancer survivor beyond just the physical changes. It involves coordinating care and promoting the person’s overall health and well-being.",
+        "This care can look different for each patient, depending on the cancer they have and their individual needs. For example, my team and I designed a survivorship clinic at UPMC in Pittsburgh, Pennsylvania, to address the most common issues head and neck cancer survivors experience. In addition to surgeons and nurses, our team includes swallowing therapists, a physical therapist, a dental care team and a dietitian to help address issues with swallowing, nutrition, dental health, physical function and mood. All of these services are offered at the same location and can be completed in one visit on the same day, generally under one copay.",
+        "After the visit, the cancer survivor, their oncology team and their primary care clinician receive a care plan to help coordinate care and communication among all their providers. Rather than as a one-time session, our survivorship clinic builds relationships with survivors, supporting them as their needs change over time.",
+        "While a person becomes a survivor at the time of diagnosis, most survivorship care is delivered after the initial treatment has ended. This may be partly because to be accredited by a major medical body that sets cancer care standards, the American College of Surgeons Commission on Cancer , hospitals must offer at least three services to cancer survivors after they complete their initial treatment.",
+        "While survivorship care can ease physical and psychological issues after cancer treatment, survivors often report significant unmet needs before and during treatment.",
+        "In my specialty of head and neck cancers, many patients undergo a grueling five to seven weeks of radiation therapy, often in addition to chemotherapy. They experience a host of side effects: pain, mouth sores, skin burns, difficulty swallowing and weight loss, which together can lead to treatment interruption and hospitalization . These side effects often continue and sometimes worsen years after treatment .",
+        "While our survivorship clinic was initially designed for patients who completed treatment, we later expanded our services to patients before radiation. We previously found that starting survivorship care before radiation was associated with better quality of life and reduced symptoms .",
+        "In our newly published research, we found that among 471 cancer survivors, 62% of those who attended our survivorship clinic before completing radiation finished treatment on time , compared with 48% of those who were not seen before completing radiation. At three years, 60% of patients seen in the survivorship clinic before completing radiation were alive and cancer-free, compared with 39% of those not seen before completion. The association remained after accounting for whether patients completed radiation on time, suggesting that on-time completion may not fully explain the difference.",
+        "Although our results suggest that shifting the start of survivorship care to before treatment may improve outcomes, they do not prove it. Our team plans to test in a larger clinical trial whether starting survivorship care before radiation helps patients finish treatment on time and maintain quality of life, while also examining how teams coordinate care and referrals.",
+        "Comprehensive cancer care implies not only a comprehensive treatment plan, but also supportive care that will help patients live well beyond their diagnosis and treatment. However, a 2024 survey of 384 facilities accredited by the American College of Surgeons Commission on Cancer found that only 1 in 5 programs estimated that most of their eligible patients receive survivorship care .",
+        "For head and neck cancer survivors specifically, nearly all clinicians routinely assess cancer recurrence, swallowing and thyroid function. But only about half address psychological symptoms , such as anxiety and depression, and fewer than 1 in 3 addressed body image or sleep problems.",
+        "Survivorship care is often framed as care that begins after treatment ends, which can delay patients’ access to support during treatment. Communication breakdowns may leave patients unaware of available services, while a lack of referrals can keep them from receiving needed care. Survivorship care also draws on clinicians with different areas of expertise, and some hospitals and treatment centers may lack enough dedicated staff time to provide a full range of services.",
+        "The end of treatment is a huge milestone that patients and their loved ones reach for. But it is not where survivorship care truly starts.",
+        "Making survivorship care more accessible may help make cancer care more comprehensive. Clinicians and researchers can start planning for the survivor’s life after cancer even when it’s not on the patient’s mind. Bringing a team that combines treatment experts with rehabilitation and supportive care specialists into the room early can help achieve better outcomes for patients.",
+        "As a cancer survivor or a loved one, you don’t need to wait.",
+        "Marci Lee Nilsen receives funding from the National Institutes of Health and the Gordon and Betty Moore Foundation. She directs the UPMC Head and Neck Cancer Survivorship Clinic, which was the setting for the research described in this article."
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "conversation-indian-gen-z-cockroach-protesters-aim-to-upend-assumptions",
+      "title": "Indian Gen Z ‘cockroach’ protesters aim to upend assumptions about democracy – and populism – in Modi’s India",
+      "dek": "Five months after its founding , India’s Cockroach Janta Party, known as the CJP, has revealed what youth-led democratic movements can achieve – and how hard they are to sustain.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T14:16:52.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/indian-gen-z-cockroach-protesters-aim-to-upend-assumptions-about-democracy-and-populism-in-modis-india-294730"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Five months after its founding , India’s Cockroach Janta Party, known as the CJP, has revealed what youth-led democratic movements can achieve – and how hard they are to sustain.",
+        "The movement was formed in May 2026 to protest the government’s cancellation of medical school entrance exams and after India’s Chief Justice Surya Kant likened unemployed youth to cockroaches. By July, the largely Gen Z movement had scored an early victory with the resignation of Education Minister Dharmendra Pradhan.",
+        "The CJP has since moved on to a much larger political issue: The Election Commission’s reported deletion of approximately 130 million names from the voter rolls. Since Oct. 2, protesters have descended on the streets of Delhi, Mumbai and other cities demanding the resignation of Chief Election Commissioner Gyanesh Kumar, halting the deletions pending an independent inquiry, and the restoration of the old electoral rolls before the next elections.",
+        "In the process, the CJP has encountered strong government resistance. Amid a crackdown on protests, two of the movement’s spokespersons – Ashutosh Ranka and Saurav Das – were detained , while Prime Minister Narendra Modi and his right-wing populist Bharatiya Janata Party, or BJP, have refused to bend on the voter roll issue – instead accusing protesters of undermining democracy.",
+        "Nonetheless, as a long-time scholar of Indian political parties and social movements , I believe the CJP’s protests have revealed people’s deep-seated anxieties over democratic erosion in a country of nearly 1. 5 billion. Through courage and acerbic wit, the CJP has done something that has eluded conventional opposition parties over the past 12 years: puncturing the ruling party’s aura of invulnerability . In doing so, I believe the protests have challenged the government’s view of who “the people” are, what democracy means, and who speaks for youth, women and the politically marginalized.",
+        "Modi often describes India as the “Mother of Democracy,” a reference to its civilizational heritage and to Bharat Mata, the Hindu mother goddess. Democracy, he insists, is not a Western import but a native inheritance. The implication is meant to be reassuring: India has always been democratic and always will be.",
+        "But some outside monitors disagree. Sweden’s V-Dem Institute classifies India as an “ electoral autocracy ,” meaning that although it regularly holds multiparty elections, it fails basic democratic benchmarks such as legislative and judicial checks and balances and citizens’ active political participation.",
+        "Judged by how the country treats dissent, the record is damning: using anti-terrorism laws to jail activists without trial , barricading protest sites, internet blackouts and police brutality .",
+        "By contrast, the CJP considers peaceful protest, along with upholding the country’s constitution, essential elements of democracy. Demonstrators regularly circulate images of B. R. Ambedkar – the chief architect of the Indian constitution – on posters, in slogans and in songs. Like Ambedkar, 30-year-old CJP leader Abhijeet Dipke is a Dalit, or untouchable within the Hindu caste system.",
+        "Critics argue that the BJP defines the nation through Hindu civilizational identity , which is exclusionary because it rejects India’s rich Muslim historical traditions and casts doubt on the political loyalties of the country’s Muslims, who constitute about 14% of the population – 197 million people. By contrast, the CJP draws no line between insider and outsider by faith, caste or birth, and it defines community by shared commitments.",
+        "The voter roll struggle shows what is at stake in the question. The Election Commission says the revision will remove duplicate entries, deceased voters and noncitizens . But critics worry that the burden of proof falls on voters. Consider how hard it is for poor Muslims, Dalits and migrant workers to produce decades-old birth, education and land certificates. Moreover, those whose names are struck from the electoral rolls fear being branded illegal immigrants .",
+        "While the BJP had held the prime minister’s office before, Modi’s 2014 election marked a sea change in Indian politics, disrupting the Congress Party’s dominance.",
+        "The BJP owed it electoral success in part to attracting young and first-time voters with promises of employment, economic growth and what is known in Hindi as “ achhe din aane waale hain ,” or “good days are coming.” Since the BJP took office in 2014, the country has charted strong GDP growth, but the macroeconomic success has been belied by ongoing and rampant inequality that falls especially hard on the poor and young.",
+        "The BJP claims to have fulfilled some of its more targeted campaign promises, such as engaging in merit-based public sector hiring . Yet 40% of Indian college graduates under 25 are unemployed . Paradoxically, the unemployment rate for youth who cannot read and write hovers around just 3. 4%. For college graduates, who are the CJP’s main constituency, it is nearly nine times higher at roughly 29% .",
+        "Seizing on this building discontent, the CJP uses the slogan “Achhe Din” ironically, on posters and memes. Its manifesto opens: “If you are going to call us cockroaches, the least you can do is pay our rent.” It calls for making “lazy” – a code word for the unemployed – a protected political identity.",
+        "Underlying the joke is a serious point: that stigmatization of the jobless offends millions of impoverished people, something critics note is protected in the dignity and equality guarantees of articles 21 and 14 of the Constitution.",
+        "The BJP has gained women’s electoral support through a combination of targeted welfare schemes, support for increased women’s representation in legislatures and endless talk of women’s empowerment, or “nari shakti .”",
+        "However, masses of women protesters have challenged state-defined women’s empowerment. They stop police vans carrying detainees, scale barricades and criticize the prime minister.",
+        "One of the most prominent among them is Neha Bora, a Ph. D. student and president of the left-wing All India Students’ Association, whose blunt messages to Modi has seen her profile skyrocket. Modi has said he has been subject to vulgar abuses by the protesters and was shocked by how “our daughters” could use such foul language, but he viewed them as “misdirected children” and was ready to forgive them .",
+        "The throngs of women who are protesting express deep discontent with the government’s paternalism. They challenge its Hindu-inflected understanding of empowerment and insist on speaking for themselves rather than being spoken for. They express outrage at the government’s brutal response to their peaceful protests. They describe how the police have beaten and sexually harassed them, while anonymous self-styled guardians of religious morality engage in doxing, threats of rape and acid attacks, and circulate demeaning AI-generated images of them. For protesters, that record sits uneasily besides the prime minister’s denunciation of violence against women .",
+        "The CJP motto, “Cockroaches never die,” has wide resonance. Protesters have survived, but not escaped, violence, incarceration, internet blackouts and police blockades. The sunglass-wearing cockroach mascot makes a mockery of leader-centered nationalist branding.",
+        "Recent youth-led uprisings in Bangladesh and Nepal have shown how quickly online mobilization can outrun official control. What distinguishes the CJP is that it pairs humor with legal and technical infrastructure. Its online portal Saakshi vault , which means “witness,” collects photos and videos of police violence that protesters upload; volunteer lawyers use these to issue complaints against officers.",
+        "The CJP’s recent and remarkable successes do not mean that the movement is likely to disrupt the BJP’s hold on power in the next parliamentary elections in 2029. For now at least, the CJP is fairly concentrated in urban strongholds and would need to build organizational infrastructure and develop long-term demands.",
+        "However, a generation that a government minister wrote off as lazy and expendable has exposed the cracks in the system that the chief justice defended. Whatever form it takes, the movement provides a vision and reminder of what democracy looks like."
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
