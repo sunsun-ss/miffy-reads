@@ -1,0 +1,1089 @@
+{
+  "generatedAt": "2026-10-26T22:21:35.077Z",
+  "date": "2026-10-27",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-freshwater-flows-reshape-coorong-algae-communities-16-year",
+      "title": "Freshwater flows reshape Coorong algae communities, 16 years of data reveal",
+      "dek": "Ongoing research is providing a clearer picture of how climate change can affect different aspects of the Coorong in South Australia—and is helping develop strong…",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T22:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-freshwater-reshape-coorong-algae-communities.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Ongoing research is providing a clearer picture of how climate change can affect different aspects of the Coorong in South Australia—and is helping develop strong environmental strategies that can be adapted as the climate changes.",
+        "One project, led by Flinders University researchers, looks at the effect of climate change on phytoplankton, including microalgae and harmful algal blooms.",
+        "The findings are published in the journal Continental Shelf Research .",
+        "These microscopic, free-floating aquatic organisms absorb sunlight and carbon dioxide to produce oxygen. Although tiny, they are a key part of the Coorong's food web, as pipis, mussels, insects and small fish all eat phytoplankton.",
+        "However, some phytoplankton can also form harmful algal blooms, so Flinders researchers have investigated which phytoplankton species live in the different Coorong habitats and how water level, salinity, nutrients and temperature affect them.",
+        "\"This information can help us predict how climate change may impact the food web and the risk of harmful algal blooms,\" says research paper lead author Dr. Daniel Chilton, from Flinders University's College of Science and Engineering.",
+        "The research team sampled phytoplankton across the Ramsar-listed Coorong, from freshwater to salty habitats, to see what species—and how many—lived in which environment. These results were combined with 16 years of historical data to determine what environmental factors most influenced the phytoplankton's habitat preferences.",
+        "\"The 16-year data set encompasses an exceptional climate gradient, from extreme drought to flood conditions, and these flow extremes strongly shape phytoplankton communities,\" says Chilton.",
+        "The researchers, including experts from Adelaide University and The University of Western Australia, found that changes to salinity and water levels through variations in freshwater inputs to the Coorong had the most influence on phytoplankton abundance, diversity and community structure.",
+        "Freshwater and low-brackish, or mildly salty, habitats had the most species, but these communities were dominated by cyanobacteria (including blue-green algae) and chlorophytes (green algae).",
+        "Extremely salty habitats had fewer species and were dominated by diatoms and dinoflagellates in balanced numbers.",
+        "Researchers also found that while the levels of harmful bloom-forming species in the Coorong are low overall, there are more than 80 phytoplankton species capable of producing toxins.",
+        "\"Harmful algal bloom risk varies by species and environmental conditions,\" explains Chilton. \"High-nutrient and low-salinity conditions can promote cyanobacterial blooms, while drought-driven, high-salinity conditions can increase the risk of harmful dinoflagellate blooms.\"",
+        "The researchers say these results support predictive tools for climate-driven lagoon management."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-could-ecological-roles-offer-clues-to-how-life-began",
+      "title": "Could ecological roles offer clues to how life began?",
+      "dek": "Producers, consumers, and decomposers play different roles in today's ecosystems. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T21:40:16.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-ecological-roles-clues-life-began.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Producers, consumers, and decomposers play different roles in today's ecosystems. Thinking about these familiar roles led me to a question: Could their differences partly reflect the different physical and chemical environments in which early life developed? I wondered whether the organization of ecosystems might offer a useful starting point for thinking about life's beginnings.",
+        "This question connects with a theme running through my research. I have studied soil colloids, biological membranes, radiation-induced reactions, and the movement of trace substances in the environment. Across these subjects, I have become increasingly interested in how environmental structures influence what molecules do. Interfaces, gradients, barriers, and flows affect where substances accumulate, which reactions occur, and whether their products remain available.",
+        "In my paper published in The Science of Nature , I bring this perspective to the origin of life. I explore whether different environments could have supported complementary chemical functions, and whether exchanges between them helped those functions become connected.",
+        "Hydrothermal vents are compelling candidates for life's beginnings. Interactions between water and rock can supply chemical energy, reactive minerals, and conditions that support organic synthesis. Hydrothermal pores may also concentrate molecules, while cooler mixing zones offer conditions different from those in hot vent fluids.",
+        "I am interested in how these varied conditions affect the fate of reaction products. Making a useful molecule is one step. Keeping it available for another reaction is another. A product may accumulate, attach to a mineral surface, move elsewhere, or break down.",
+        "Breakdown also deserves attention. If an organic compound breaks into smaller products that can enter subsequent reactions, that process could contribute to chemical reuse. Hydrothermal systems may therefore support synthesis, transformation, and potentially recycling, depending on local conditions.",
+        "This does not make hydrothermal vents exclusively \"decomposer-like.\" Their possible roles overlap. It does suggest that we should examine what happens to supplied organic compounds alongside asking what vents can produce from simpler starting materials.",
+        "Ice–water interfaces offer a different set of possibilities. When water freezes, many dissolved substances are excluded from the growing crystals and become concentrated in the remaining liquid. These small liquid regions can bring reactants together.",
+        "Previous experiments have demonstrated selected synthetic reactions in ice. Chemically activated RNA building blocks supplied by researchers can join into longer chains. Other studies have shown that an existing RNA catalyst can function in liquid regions within ice.",
+        "I find these results interesting because they show how physical surroundings can change the opportunities available to molecules. They do not establish that ice spontaneously produces RNA from simple ingredients. Suitable reactants and chemical activation remain necessary, and thawing can dilute or remove products.",
+        "The question I want to pursue is whether such settings could retain useful compounds long enough for further chemistry, including reactions after transfer elsewhere.",
+        "To organize these possibilities, I use producer-like, consumer-like, and decomposer-like functions as analogies.",
+        "Producer-like processes form or elaborate organic products from specified reactants. Consumer-like processes use supplied organic compounds in further reactions. Decomposer-like processes break compounds into smaller, potentially reusable products.",
+        "These terms describe possible chemical functions. They do not establish metabolism, biological consumption, or an ecosystem before cells. Nor do they assign each environment a single role."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-expanding-hemp-could-boost-kentucky-water-quality-and-ecol",
+      "title": "Expanding hemp could boost Kentucky water quality and ecological diversity",
+      "dek": "Hemp has long been pitched to Kentucky farmers as a way to diversify their income. ",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T21:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-hemp-boost-kentucky-quality-ecological.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Hemp has long been pitched to Kentucky farmers as a way to diversify their income. Research now suggests it could diversify the landscape itself, with measurable benefits for the state's water and wildlife.",
+        "Tyler Mark, Ph. D. , an agricultural economist in the University of Kentucky Martin-Gatton College of Agriculture, Food and Environment (CAFE), co-authored the paper published in Applied Economic Perspectives and Policy alongside researchers at Mississippi State University and Central State University.",
+        "The study examined what happens to Kentucky's environment when hemp constitutes a larger share of the state's farmland. The team found that more hemp means more crop diversity, which is linked to cleaner water and a wider variety of birds.",
+        "Kentucky is one of the nation's leading hemp-producing states. According to the USDA 2026 National Hemp Report , Kentucky farmers planted 4,800 acres (1,940 hectares) of industrial hemp in 2025. Now, much of the conversation around the crop has centered on markets and prices, particularly as growers in a state with deep tobacco roots look for new options. The researchers wanted to look at a less-discussed side of the equation.",
+        "\"Profitability, while important, is only part of the story,\" Mark said. \"Hemp can also impact the environment. If hemp acres are going to expand, then we also need to understand and quantify these impacts.\"",
+        "Landscapes planted with diverse crops tend to offer more varied habitat for wildlife and can reduce the nutrient runoff that degrades streams and lakes. When a new crop like hemp enters rotations alongside corn, soybeans, hay and tobacco, it adds to that mix.",
+        "First, they ran a series of simulations in which hemp planting increased from 1% to 10% of Kentucky's total agricultural land. In every scenario, crop diversity rose steadily as hemp acreage expanded. Next, the researchers used statistical models that follow counties over time to estimate how changes in crop diversity relate to environmental conditions.",
+        "Second, to assess water quality, the authors looked at water clarity, dissolved oxygen and phosphorus levels. For wildlife, they looked at bird diversity, a common indicator of overall habitat health. Economists call these \"nonmarket\" benefits. No one is directly paid for them, but everyone downstream benefits.",
+        "By linking the two steps, the team could estimate how much a hemp-driven bump in crop diversity would shift those environmental measures.",
+        "There's a catch, though. The study found the ecological payoff depends on scale. A handful of small hemp plots scattered across the state may help individual farmers' bottom lines without making much of a difference for water or wildlife. The broader benefits occur only when hemp, and the biological diversity it brings, reaches a large enough share of the landscape.",
+        "That finding carries implications for policy. Programs aimed at small-scale farmers tend to focus on helping them turn a profit, which the authors note is a worthy goal on its own. But if policymakers also want hemp to deliver environmental returns, the researchers say practical, proactive measures will be needed to bring more smallholders into hemp production so their combined acreage adds up to real change on the land.",
+        "\"Hemp has the potential to be another crop Kentucky producers can add to their crop rotation once regulatory clarity allows the market to mature,\" Mark said. \"This would give Kentucky producers another crop, one with benefits beyond profitability.\"",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Simulated expansion of hemp to 1–10% of Kentucky farmland increased crop diversity. County-level models linked greater crop diversity to improved water quality and bird diversity, with projected ecological benefits depending on hemp occupying a sufficiently large share of the landscape."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-metalens-microscope-switches-focus-with-voltage-not-moving",
+      "title": "Metalens microscope switches focus with voltage, not moving optics",
+      "dek": "Just as it is difficult for a camera to keep both a nearby flower and a distant mountain sharply focused at the same time, conventional optical microscopes face a similar…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T21:20:10.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-metalens-microscope-focus-voltage-optics.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Just as it is difficult for a camera to keep both a nearby flower and a distant mountain sharply focused at the same time, conventional optical microscopes face a similar challenge when imaging structures located at different depths inside the body. Tighter focusing of light improves spatial resolution, but at the same time reduces the depth range over which the image remains sharply focused.",
+        "A joint research team led by professors Junsuk Rho and Chulhong Kim at POSTECH has developed a dual-focus metalens-based photoacoustic microscopy system that can switch between different imaging depths simply by controlling an applied voltage, without mechanically moving any optical components. The study is published in Light: Science & Applications .",
+        "Photoacoustic microscopy is an imaging technique in which laser light is delivered to biological tissue, where optical absorption generates ultrasonic waves that are subsequently detected to form an image. In particular, optical-resolution photoacoustic microscopy tightly focuses light to achieve micrometer-scale spatial resolution, enabling detailed visualization of fine vascular structures.",
+        "However, tighter optical focusing inevitably results in a shorter depth of focus. Consequently, only a limited axial region can be sharply imaged, making it difficult to visualize three-dimensional biological structures distributed over a broad depth range.",
+        "Conventional approaches have attempted to extend the imaging depth using Bessel beams, which can maintain a narrow central focus over a longer axial range. However, Bessel beams inherently generate pronounced side lobes around the central beam, which can introduce background signals, reduce image contrast and degrade imaging quality.",
+        "The POSTECH team addressed this challenge by controlling the polarization state of light rather than physically moving optical components.",
+        "The key to the system lies in the integration of two optical components. The first is a dual-focus metalens designed to generate focal spots at different axial positions depending on whether the incident light is right- or left-circularly polarized. The second is an electrically driven liquid-crystal cell that changes the polarization state of the incident light in response to an applied voltage. The cell uses the same type of liquid crystal used in smartphone displays.",
+        "By combining these two components, the researchers were able to electronically switch between two focal depths simply by adjusting the voltage applied to the liquid-crystal cell, with each switch taking only about 0. 25 seconds. The metalens was further integrated with a ring-shaped ultrasonic transducer, allowing the optical and acoustic axes to be aligned within a compact photoacoustic microscopy configuration.",
+        "By alternating between the two focal modes, the system achieved an overall axial imaging range of approximately 1. 2 mm. The lateral spatial resolutions at the two focal positions were approximately 3. 1 μm and 3. 7 μm, respectively, providing sufficient resolution to visualize microscopic vascular structures.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "The performance of the system was experimentally validated by imaging the eyes of mice with chemically induced corneal injury. In the shallower focal mode, newly formed blood vessels in the cornea were clearly visualized. In the deeper focal mode, blood vessels near the iris, located approximately 2. 2 mm below the surface, were selectively resolved. These results demonstrate that vascular structures located at substantially different depths can be selectively visualized at high spatial resolution without mechanically moving any optical components.",
+        "The technology could be particularly useful for ophthalmic imaging, where clinically relevant blood vessels are distributed across different depths within the eye. Diseases such as diabetic retinopathy and other vascular disorders require accurate assessment of vascular structures throughout multiple regions of the eye.",
+        "Rho explained, \"By utilizing polarization multiplexing in a metalens, we can switch a high-resolution optical focus along the depth direction without mechanically moving optical components. Eliminating mechanical motion can also enable more compact and stable imaging systems, providing opportunities for applications in a wide range of biomedical and industrial imaging platforms.\"",
+        "The study was co-first-authored by Dr. Hongyoon Kim of POSTECH's Department of Mechanical Engineering, Eunwoo Park, a Ph. D. candidate in POSTECH's Department of Biomedical Engineering, and professor Jungwoo Park of Kyungpook National University."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-beyond-trial-and-error-integrating-computation-processing-",
+      "title": "Beyond trial and error: Integrating computation, processing, and AI to design high-entropy alloys",
+      "dek": "Designing structural high-entropy alloys (SHEAs) means solving a problem with an enormous number of moving parts: which combinations of composition and processing conditions…",
+      "category": "科技",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T21:20:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-trial-error-ai-high-entropy.html"
+      },
+      "cover": "bulb",
+      "accent": "blue",
+      "paragraphs": [
+        "Designing structural high-entropy alloys (SHEAs) means solving a problem with an enormous number of moving parts: which combinations of composition and processing conditions will yield the phases, microstructures, and mechanical properties a given application demands? Because these alloys mix multiple principal elements in comparable proportions, that question spans length and time scales that no single experiment or model can cover on its own.",
+        "To this end, researchers have built computational tools to address individual aspects of this problem. However, no unified approach connected these aspects, spanning from atomic-scale interactions and phase stability to microstructure and macroscopic properties. Each method also carries its own trade-offs in scale, cost, and predictive accuracy.",
+        "In a 2026 review , an international research team—led by researchers at AIMR and POSTECH—brings these fragmented approaches together into a more systematic framework for SHEA development, tracing how composition, processing, microstructure, and properties shape one another. The research is published in the journal Progress in Materials Science .",
+        "The review's organizing insight is to treat computational methods as complementary tools operating at different scales—density functional theory and molecular dynamics at the atomic scale, calculation of phase diagrams and phase-field modeling at the level of phase stability and microstructure evolution, and crystal plasticity modeling bridging microstructure to mechanical behavior—with artificial intelligence (AI) and machine learning extending the analysis into data-driven design.",
+        "\"Read together, a composite picture emerges from the reviewed work,\" explains Hyoung Seop Kim, the corresponding author of the review. \"Aspects including phase stability, microstructure evolution, and mechanical properties can now be predicted coherently, rather than piecemeal.\"",
+        "The review also shows how simulating manufacturing processes—additive manufacturing and severe plastic deformation among them—can link processing conditions directly to microstructural outcomes and performance. Related studies further demonstrate how processing-guided microstructural design can be used to create integral core–shell architectures and reverse-gradient structures for enhanced mechanical performance and resistance to hydrogen embrittlement. Together, these findings sketch a path for SHEA development to move past empirical trial and error toward more systematic, predictive design.",
+        "Looking ahead, the authors envision a closed-loop platform: computation and AI flag promising compositions, physics-based simulations explain the mechanisms behind them, and experiments validate and feed data back into the models.",
+        "What gave me the greatest sense of accomplishment was not simply collecting existing studies, but organizing a rapidly expanding field into a coherent design philosophy. High-entropy alloys are exciting precisely because they abandon the idea that an alloy needs one dominant element—though that freedom also brings real complexity, since composition, processing, microstructure, and deformation are all tightly coupled.",
+        "Through this review, I wanted to show that future alloy development cannot rely on intuition alone; computational science, processing science, and artificial intelligence need to work together. For young researchers entering this field, my hope is that they learn to move freely between experiment, theory, computation, and data.",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Multiscale simulations and machine learning provide a framework linking composition, processing, microstructure, and mechanical properties in structural high-entropy alloys. Integration with experimental feedback is proposed to support predictive alloy design and reduce reliance on trial and error.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors.",
+        "Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "nasa-tingas-tale",
+      "title": "Tinga’s Tale",
+      "dek": "Written by Margaret Deahn, Ph. D. candidate at Purdue University",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T21:17:02.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/blog/tingas-tale/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Written by Margaret Deahn, Ph. D. candidate at Purdue University",
+        "Once upon a time, NASA’s Mars 2020 rover investigated the southern border of “Idubi,” an outcrop composed primarily of an igneous mineral geologists call olivine. The rover’s “eyes” captured a very exciting geologic feature during its traverse — a contact between distinct rock types that could tell a story about the history of this region. This contact is clearly observed at a target named “Tinga.”",
+        "At “Tinga,” there are distinct geologic units in close contact with one another. The lowermost unit is likely a polymict (made of many types of rocks) breccia (made of angular clasts). Breccia is generally formed by violent geologic processes such as an impact event — this breccia may have been formed by an impact similar to the one that created Jezero crater — or even Jezero itself! See a recent rover blog post for more information on the potential breccia in this region.",
+        "However, breccia is only the first chapter in the story of our target “Tinga.”",
+        "The higher-standing, dark rocks could be associated with the nearby olivine-bearing unit at “Idubi,” which also appears to extend onto the plains beyond the Jezero crater rim. These dark rocks at “Tinga” may be part of this olivine-bearing unit, or they may represent a part of the breccia that was heated, or “baked,” when it came in contact with the hot rocks of “Idubi.” Further in situ investigation of this particular outcrop is needed to determine how the high-standing rocks we observe at this contact are related to this broader unit.",
+        "“Tinga” tells a tale about distinct geologic events that occurred just outside Jezero’s crater rim, and the Mars 2020 rover will continue to reveal Jezero’s origin story and exciting geologic history.",
+        "Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…",
+        "Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…",
+        "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…",
+        "The Mars Perseverance rover is the first leg the Mars Sample Return Campaign’s interplanetary relay team. Its job is to…"
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "nasa-news-tingas-tale",
+      "title": "Tinga’s Tale",
+      "dek": "Written by Margaret Deahn, Ph. D. candidate at Purdue University",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T21:17:02.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/blog/tingas-tale/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Written by Margaret Deahn, Ph. D. candidate at Purdue University",
+        "Once upon a time, NASA’s Mars 2020 rover investigated the southern border of “Idubi,” an outcrop composed primarily of an igneous mineral geologists call olivine. The rover’s “eyes” captured a very exciting geologic feature during its traverse — a contact between distinct rock types that could tell a story about the history of this region. This contact is clearly observed at a target named “Tinga.”",
+        "At “Tinga,” there are distinct geologic units in close contact with one another. The lowermost unit is likely a polymict (made of many types of rocks) breccia (made of angular clasts). Breccia is generally formed by violent geologic processes such as an impact event — this breccia may have been formed by an impact similar to the one that created Jezero crater — or even Jezero itself! See a recent rover blog post for more information on the potential breccia in this region.",
+        "However, breccia is only the first chapter in the story of our target “Tinga.”",
+        "The higher-standing, dark rocks could be associated with the nearby olivine-bearing unit at “Idubi,” which also appears to extend onto the plains beyond the Jezero crater rim. These dark rocks at “Tinga” may be part of this olivine-bearing unit, or they may represent a part of the breccia that was heated, or “baked,” when it came in contact with the hot rocks of “Idubi.” Further in situ investigation of this particular outcrop is needed to determine how the high-standing rocks we observe at this contact are related to this broader unit.",
+        "“Tinga” tells a tale about distinct geologic events that occurred just outside Jezero’s crater rim, and the Mars 2020 rover will continue to reveal Jezero’s origin story and exciting geologic history.",
+        "Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…",
+        "Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…",
+        "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…",
+        "The Mars Perseverance rover is the first leg the Mars Sample Return Campaign’s interplanetary relay team. Its job is to…"
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "nasa-nasas-perseverance-offers-clues-to-protect-crews-from-mars",
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "dek": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T21:07:28.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of the National Academy of Sciences and could inform spacesuit and habitat design, dust-removal procedures, and crew health standards for future NASA missions to Mars.",
+        "“NASA has a long history of turning challenges into workable solutions and of finding creative ways to use the data that we have to answer questions beyond what it was originally collected for,” said Lindsay Hays, acting director, Planetary Science Division, NASA Headquarters in Washington. “Dust has been a surface-exploration challenge since the Apollo program. Perseverance is giving our engineers and flight surgeons measurements they can use to improve our existing designs well before the first American astronauts arrive on Mars.”",
+        "Lunar dust scratched visors, degraded outer spacesuit layers, and damaged their seals during NASA’s Apollo missions, and some crew members reported symptoms similar to hay fever.",
+        "Rounded by wind-driven collisions with other particles, dust grains on Mars are less abrasive than those on the Moon. They also are enriched in sulfur, chlorine, and iron and contain more silica than lunar dust. Regional and global dust storms on Mars can keep the grains recirculating throughout the atmosphere as well.",
+        "The rover carries a set of five samples of spacesuit material. The swatches , each three-quarters of an inch (20 millimeters) square, are part of a calibration target used to test the settings of SHERLOC (Scanning Habitable Environments with Raman and Luminescence for Organics and Chemicals), an instrument on Perseverance’s robotic arm. The calibration target for another instrument that provided the dust measurements, called PIXL (Planetary Instrument for X-ray Lithochemistry), carries a sample of Teflon and of basaltic glass.",
+        "Because Teflon contains no elements that PIXL can directly detect, whatever elemental signals the X-ray spectrometer picks up from that sample comes from dust resting on it.",
+        "The team also analyzed swatches of Teflon and Vectran, two materials used in spacesuits, on SHERLOC’s calibration target. NASA sent the swatches to Mars to study how spacesuit materials hold up on the planet’s surface.",
+        "“Perseverance’s main job is to search for signs of ancient microbial life, but the mission was also designed to help prepare for human explorers. That effort includes technology demonstrations like MOXIE (Mars Oxygen In-Situ Resource Utilization Experiment) and Ingenuity , as well as the spacesuit samples,” said Katie Stack Morgan, Perseverance’s project scientist at NASA’s Jet Propulsion Laboratory in Southern California.",
+        "While earlier measurements on Mars resolved dust particles down to about 3 micrometers across, PIXL detected two categories of even smaller particles: fine particles measuring less than 2. 5 micrometers (a human hair is about 70 micrometers wide) and ultrafine particles around 100 nanometers (about 700 times thinner than a human hair). Particles on PIXL’s Teflon target and SHERLOC’s Vectran swatch averaged about 2 micrometers. On PIXL’s basaltic glass and SHERLOC’s Teflon swatch, dust particle sizes ranged down to about 100 to 300 nanometers.",
+        "Static electricity appears to determine which size dust particles stick to which surface. Dust grains become charged as they collide in the air, and different materials on the calibration target attract grains of different sizes. The finest particles stayed attached through years of driving and drilling. Organic polymers like SHERLOC’s Teflon spacesuit sample are common in the outer layers of spacesuits, and the results show they readily collect fine dust.",
+        "The study also found that some materials hold less dust than others, which could guide future choices of materials and protective coatings for spacesuits and habitats. Designs such as suitports , which let astronauts enter a suit attached to the outside of a habitat, and dual-chamber airlocks could reduce how much dust gets inside astronauts’ living quarters."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "nasa-news-nasas-perseverance-offers-clues-to-protect-crews-from-mars",
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "dek": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T21:07:28.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of the National Academy of Sciences and could inform spacesuit and habitat design, dust-removal procedures, and crew health standards for future NASA missions to Mars.",
+        "“NASA has a long history of turning challenges into workable solutions and of finding creative ways to use the data that we have to answer questions beyond what it was originally collected for,” said Lindsay Hays, acting director, Planetary Science Division, NASA Headquarters in Washington. “Dust has been a surface-exploration challenge since the Apollo program. Perseverance is giving our engineers and flight surgeons measurements they can use to improve our existing designs well before the first American astronauts arrive on Mars.”",
+        "Lunar dust scratched visors, degraded outer spacesuit layers, and damaged their seals during NASA’s Apollo missions, and some crew members reported symptoms similar to hay fever.",
+        "Rounded by wind-driven collisions with other particles, dust grains on Mars are less abrasive than those on the Moon. They also are enriched in sulfur, chlorine, and iron and contain more silica than lunar dust. Regional and global dust storms on Mars can keep the grains recirculating throughout the atmosphere as well.",
+        "The rover carries a set of five samples of spacesuit material. The swatches , each three-quarters of an inch (20 millimeters) square, are part of a calibration target used to test the settings of SHERLOC (Scanning Habitable Environments with Raman and Luminescence for Organics and Chemicals), an instrument on Perseverance’s robotic arm. The calibration target for another instrument that provided the dust measurements, called PIXL (Planetary Instrument for X-ray Lithochemistry), carries a sample of Teflon and of basaltic glass.",
+        "Because Teflon contains no elements that PIXL can directly detect, whatever elemental signals the X-ray spectrometer picks up from that sample comes from dust resting on it.",
+        "The team also analyzed swatches of Teflon and Vectran, two materials used in spacesuits, on SHERLOC’s calibration target. NASA sent the swatches to Mars to study how spacesuit materials hold up on the planet’s surface.",
+        "“Perseverance’s main job is to search for signs of ancient microbial life, but the mission was also designed to help prepare for human explorers. That effort includes technology demonstrations like MOXIE (Mars Oxygen In-Situ Resource Utilization Experiment) and Ingenuity , as well as the spacesuit samples,” said Katie Stack Morgan, Perseverance’s project scientist at NASA’s Jet Propulsion Laboratory in Southern California.",
+        "While earlier measurements on Mars resolved dust particles down to about 3 micrometers across, PIXL detected two categories of even smaller particles: fine particles measuring less than 2. 5 micrometers (a human hair is about 70 micrometers wide) and ultrafine particles around 100 nanometers (about 700 times thinner than a human hair). Particles on PIXL’s Teflon target and SHERLOC’s Vectran swatch averaged about 2 micrometers. On PIXL’s basaltic glass and SHERLOC’s Teflon swatch, dust particle sizes ranged down to about 100 to 300 nanometers.",
+        "Static electricity appears to determine which size dust particles stick to which surface. Dust grains become charged as they collide in the air, and different materials on the calibration target attract grains of different sizes. The finest particles stayed attached through years of driving and drilling. Organic polymers like SHERLOC’s Teflon spacesuit sample are common in the outer layers of spacesuits, and the results show they readily collect fine dust.",
+        "The study also found that some materials hold less dust than others, which could guide future choices of materials and protective coatings for spacesuits and habitats. Designs such as suitports , which let astronauts enter a suit attached to the outside of a habitat, and dual-chamber airlocks could reduce how much dust gets inside astronauts’ living quarters."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "phys-silent-bacterial-genes-yield-potential-leads-for-future-ca",
+      "title": "Silent bacterial genes yield potential leads for future cancer drugs",
+      "dek": "by Andreas Fischer, Helmholtz Association of German Research Centres",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T21:00:12.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-silent-bacterial-genes-yield-potential.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "by Andreas Fischer, Helmholtz Association of German Research Centres",
+        "Natural products produced by microorganisms are a promising source of new drugs. Researchers at the Helmholtz Center for Infection Research (HZI) and its Saarbrücken-based site, the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), have now discovered a new family of such compounds, elucidated their unusual biosynthesis and developed a way to produce them synthetically.",
+        "They also found that this class of compounds binds specifically to a human protein involved in the development of cancer. The findings were published in two thematically linked studies in Angewandte Chemie International Edition .",
+        "The two studies focus on so-called myxoglucamides, which are produced by soil-dwelling myxobacteria . These bacteria are known for generating a diversity of natural products, many of which show biological activity.",
+        "In the first study , using modern genetic methods, the team succeeded in specifically activating the biosynthetic pathway for myxoglucamides that had remained silent in the bacteria. This was the key to producing and detecting the compounds in the first place.",
+        "What makes myxoglucamides particularly interesting is their unusual structure: They combine building blocks derived from sugars, lipids and amino acids in a way that clearly sets them apart from previously known natural products. HIPS is a site of the Helmholtz Center for Infection Research in collaboration with Saarland University.",
+        "The researchers also investigated how these molecules are assembled in the bacteria. To do so, they analyzed the underlying genetic blueprint—the so-called biosynthetic gene cluster—as well as the individual biochemical steps required for myxoglucamide production. Their work revealed a previously unknown biosynthetic pathway.",
+        "Several enzymes act together in an unexpected way, generating a chemical structure that had not been described before in this form. The study thus provides new insights into how microorganisms construct complex natural products and how such hidden compounds may be identified more systematically in the future.",
+        "\"The discovery of myxoglucamides highlights how much chemical potential remains hidden in previously silent biosynthetic gene clusters of microorganisms,\" says Dr. Chengzhang Fu, head of the junior research group \"Genome Mining for Secondary Metabolites\" at HIPS. \"By selectively activating and deciphering these biosynthetic pathways, we can gain access to entirely new natural products.\"",
+        "The team led by Rolf Müller, scientific director of HIPS and head of the department \"Microbial Natural Products,\" was responsible for the initial discovery of the molecule and the determination of its structure.",
+        "\"The unusual building block produced by the bacteria opens up new avenues for research: Such molecular components can help in the development of more targeted drugs. Nature has found ways here that we were previously unaware of,\" says Müller.",
+        "In the second study , the team explored the molecular targets of myxoglucamides in human cells. To this end, the researchers achieved the first total synthesis of myxoglucamide A in the laboratory. This was a crucial step, as the myxobacterial producer generates the compound only in very small amounts, which were insufficient for further investigations.",
+        "The synthetic route also enabled the team to test slightly modified variants and better understand which parts of the molecule are important for its activity.",
+        "Some of these synthetic derivatives bound the target protein much more strongly than the natural compound. Using a method that systematically identifies the proteins a molecule binds to in the cell, the researchers showed that myxoglucamides interact primarily with the human protein AKR1C3."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "nasa-neo-surveyors-sunshade-gets-inspected",
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "dek": "The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in…",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T20:53:13.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026.",
+        "The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2. 4 meters) wide at its base. Its two flat panels, joined at a 23. 5-degree angle, were covered with 864 interconnected solar cells and then tested before arriving in Colorado. This specialized solar array can produce up to 2 kilowatts of power and will generate all the required electricity to charge the onboard batteries that power the spacecraft’s systems.",
+        "Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. Environmental testing of the sunshade and solar array was completed at a commercial thermal vacuum testing facility in El Segundo, California, in March and it was delivered to BAE Systems Space & Mission Systems ahead of schedule in May.",
+        "When in space, NEO Surveyor will seek out some of the hardest-to-find asteroids and comets, some of which may be located in the direction of the Sun — a region of sky where ground-based optical telescopes have a harder time searching."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "nasa-news-neo-surveyors-sunshade-gets-inspected",
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "dek": "The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in…",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T20:53:13.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026.",
+        "The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2. 4 meters) wide at its base. Its two flat panels, joined at a 23. 5-degree angle, were covered with 864 interconnected solar cells and then tested before arriving in Colorado. This specialized solar array can produce up to 2 kilowatts of power and will generate all the required electricity to charge the onboard batteries that power the spacecraft’s systems.",
+        "Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. Environmental testing of the sunshade and solar array was completed at a commercial thermal vacuum testing facility in El Segundo, California, in March and it was delivered to BAE Systems Space & Mission Systems ahead of schedule in May.",
+        "When in space, NEO Surveyor will seek out some of the hardest-to-find asteroids and comets, some of which may be located in the direction of the Sun — a region of sky where ground-based optical telescopes have a harder time searching."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "scitechdaily-strangest-of-its-kind-scientists-uncover-a-bizarre-bacteri",
+      "title": "“Strangest of Its Kind”: Scientists Uncover a Bizarre Bacterial Self-Destruct Switch",
+      "dek": "An unusual bacterial defense uses DNA to switch on toxin production, suggesting a new way to build molecular tools that control genes. nb An infected bacterium can protect…",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T19:41:54.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/strangest-of-its-kind-scientists-uncover-a-bizarre-bacterial-self-destruct-switch/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "An unusual bacterial defense uses DNA to switch on toxin production, suggesting a new way to build molecular tools that control genes. nb An infected bacterium can protect its neighbors by destroying itself before the virus inside it has a chance to multiply. Bacterial immune systems called retrons trigger this sacrifice when they detect particular strains of phages, the viruses that infect bacteria.",
+        "Decades of research have established a familiar explanation for how this works. A toxin stays ready inside the cell, restrained by small, single-stranded DNA molecules. An invading phage disturbs that DNA, releasing the toxin to kill the cell and stop the infection from spreading through the colony.",
+        "Researchers at Gladstone Institutes have now discovered a class of retrons that reverses the relationship between DNA and the toxin. In type VI retrons, DNA switches toxin production on rather than holding an existing toxin in check. The study, published in Molecular Cell , comes from the team of Gladstone Investigator Seth Shipman, PhD, its senior author.",
+        "“The way we typically detect retrons inside uninfected cells is by looking for this single-stranded DNA,” says Karen Zhang, a PhD student in Shipman’s lab and lead author of the study. “But type VI retrons caught our attention because they didn’t appear to have this signature. It was very odd, and we wondered if they might be broken.”",
+        "Tests in bacteria carrying type VI retrons showed that the defenses still worked against phages, leaving the researchers to explain how a functioning system could lack its expected DNA signal.",
+        "“That kicked off a long molecular odyssey,” Shipman says. “Whenever we tried the experiments we normally use to study retrons, they would fail, so we kept having to think of new ways to figure out how these retrons work.”",
+        "One early breakthrough came from Spacer-seq, a tool previously developed in Shipman’s lab. It uses molecular components of CRISPR-Cas, another bacterial immune system, to create a record of gene activity inside a cell. After standard methods repeatedly failed to detect DNA made by type VI retrons in uninfected cells, the team turned to this alternative approach.",
+        "“We had just about given up hope that any DNA was being made when this approach finally revealed a very, very low level of production in uninfected cells,” Zhang says.",
+        "That trace gave the researchers a reason to keep investigating. Further experiments showed that type VI retrons produced no noticeable levels of toxin in uninfected cells, either. Phage entry triggered single-stranded DNA production to rise to the levels needed for defense. As the DNA accumulated, it interacted with an RNA molecule that had been blocking toxin production. This interaction removed the block, allowing toxin production to ramp up.",
+        "The toxin appears to be a tiny protein that embeds itself in the membrane surrounding the bacterial cell. By destabilizing that membrane, it kills the infected cell.",
+        "“It’s almost the mirror-image version of how we traditionally view retrons, because the DNA switches on toxin production instead of inhibiting an already-produced toxin,” Zhang says. “It would be fascinating to explore how bacterial evolution could have resulted in such a complex molecular system—whether type VI retrons are older or newer than other retrons, or whether they’re a stepping stone between different types.”",
+        "Retrons can also efficiently modify and deliver single-stranded DNA, capabilities that have drawn the attention of researchers developing DNA-editing tools. Shipman and his team are working to harness those abilities to rewrite disease-causing mutations inside human cells with unprecedented precision. Understanding the machinery of different retrons provides molecular designs they could adapt for that work.",
+        "“This is, by far, the strangest of the retron systems that we or anyone else has come across,” Shipman says. “These retrons operate with Rube Goldberg-level complexity, using molecular mechanisms that we would never have thought to invent, but that we’ll use in future technologies.”",
+        "The type VI machinery is already inspiring work in Shipman’s lab on synthetic sensors and switches that could control gene activity."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "nasa-nasa-sees-interns-tackle-real-world-challenges-in-lunar-ex",
+      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+      "dek": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T19:28:08.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research, Integration, and eXploration (MATRIX) team focused on applying a method for measuring propellant mass in microgravity, where liquid fuel clings to tank walls instead of settling – a challenge central to NASA’s Artemis missions.",
+        "The MATRIX team was mentored by Dr. Kevin Crosby, who, along with colleagues at NASA, developed the Modal Propellant Gauging (MPG) approach to microgravity propellant mass gauging at Carthage College in Kenosha, WI. MPG uses the acoustic response of propellant tanks to estimate the mass of fuel inside a tank. The method has been used successfully in several spaceflight experiments and is scheduled for demonstration on the Intuitive Machines IM-3 mission. The IM-3 lander, Trinity, is scheduled to touch down on the Moon in the Reiner Gamma region in 2027.",
+        "The team developed models for predicting when MPG can take reliable readings during the mission, giving the interns direct experience with a technology preparing for spaceflight and lunar surface operations.",
+        "The MATRIX team relied entirely on publicly available sources, including Intuitive Machines’ published mission data. The NASA Jet Propulsion Laboratory’s Navigation and Ancillary Information Facility (NAIF) provided detailed trajectory records for the IM-1 and IM-2 missions. By comparing the IM-2 spacecraft’s reconstructed flight path with a model of its motion without engine thrust, the team identified engine burns and estimated the change in velocity associated with each burn.",
+        "Because a complete IM-3 trajectory is not public, the team wrote a reconstruction algorithm using published IM-1 and IM-2 flight data. To model fluid behavior, the team ran computational fluid dynamics (CFD) simulations to estimate slosh dynamics within the tanks and conducted Monte Carlo simulations to predict the range of possible propellant states.",
+        "The team’s analysis showed that MPG can take reliable readings during the two primary burns, Lunar Orbit Insertion (LOI) and Powered Descent, and in some cases during Descent Orbit Insertion. The spacecraft’s starting mass had the greatest effect on how long each gauging window lasts. The MATRIX team also identified candidate IM-3 launch opportunities for 2027 and produced a landing analysis for the Reiner Gamma site that showed the distribution of possible landing sites near the target.",
+        "The team briefed the Intuitive Machines propulsion group, walking the engineers through their methods and results and demonstrating that a rigorous analysis of an active lunar mission could be built from public data. The students presented their research, “Computational Models to Estimate Modal Propellant Gauging (MPG) Windows on the Intuitive Machines IM-3 Mission,” at the SEES Annual Symposium and the Wisconsin Space Grant Consortium Annual Conference. The team will present again at the American Geophysical Union (AGU) Annual Meeting in San Francisco in December 2026.",
+        "“This high school team, in a period of less than a month, developed a depth of understanding and facility with advanced methods that rivals advanced graduate students in the field,” said Crosby. “Their work product is exceptional, and their presentation to Intuitive Machines engineers impressed everyone with the sophistication and creativity of their work. The SEES program has consistently provided a unique environment for students to demonstrate they can achieve far more than what is asked of them, even in the most advanced classes.”",
+        "The SEES program gives 11th and 12th grade students direct experience with the data, tools, and analytical methods used across the aerospace industry. By applying NASA and commercial mission data to an active lunar mission, the MATRIX team contributed analysis relevant to propellant management, a capability needed for in-space refueling, fuel depots, and sustained exploration of the Moon and beyond. Thank you to all the mentors, project assistants, and volunteers who have made SEES possible for over a decade.",
+        "The SEES Mission Architecture (MATRIX) Team: Raiymbek Abdykalykov, The Woodlands, TX Emmanuel Bravo, Boca Raton, FL Winston Huang, San Francisco, CA Adrianna Krajnovic, Dallas, TX Marco Lo Cicero, Tomball, TX Henry Martin, Milwaukee, WI Reva Paul, Bethlehem, PA Swayam Sahoo, North Chelmsford, MA",
+        "Project Mentor: Dr. Kevin M. Crosby, Carthage College and Wisconsin Space Grant Consortium Project Assistant: Mauro Esquivel, mathematics teacher, McAllen, TX"
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "nasa-news-nasa-sees-interns-tackle-real-world-challenges-in-lunar-ex",
+      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+      "dek": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T19:28:08.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research, Integration, and eXploration (MATRIX) team focused on applying a method for measuring propellant mass in microgravity, where liquid fuel clings to tank walls instead of settling – a challenge central to NASA’s Artemis missions.",
+        "The MATRIX team was mentored by Dr. Kevin Crosby, who, along with colleagues at NASA, developed the Modal Propellant Gauging (MPG) approach to microgravity propellant mass gauging at Carthage College in Kenosha, WI. MPG uses the acoustic response of propellant tanks to estimate the mass of fuel inside a tank. The method has been used successfully in several spaceflight experiments and is scheduled for demonstration on the Intuitive Machines IM-3 mission. The IM-3 lander, Trinity, is scheduled to touch down on the Moon in the Reiner Gamma region in 2027.",
+        "The team developed models for predicting when MPG can take reliable readings during the mission, giving the interns direct experience with a technology preparing for spaceflight and lunar surface operations.",
+        "The MATRIX team relied entirely on publicly available sources, including Intuitive Machines’ published mission data. The NASA Jet Propulsion Laboratory’s Navigation and Ancillary Information Facility (NAIF) provided detailed trajectory records for the IM-1 and IM-2 missions. By comparing the IM-2 spacecraft’s reconstructed flight path with a model of its motion without engine thrust, the team identified engine burns and estimated the change in velocity associated with each burn.",
+        "Because a complete IM-3 trajectory is not public, the team wrote a reconstruction algorithm using published IM-1 and IM-2 flight data. To model fluid behavior, the team ran computational fluid dynamics (CFD) simulations to estimate slosh dynamics within the tanks and conducted Monte Carlo simulations to predict the range of possible propellant states.",
+        "The team’s analysis showed that MPG can take reliable readings during the two primary burns, Lunar Orbit Insertion (LOI) and Powered Descent, and in some cases during Descent Orbit Insertion. The spacecraft’s starting mass had the greatest effect on how long each gauging window lasts. The MATRIX team also identified candidate IM-3 launch opportunities for 2027 and produced a landing analysis for the Reiner Gamma site that showed the distribution of possible landing sites near the target.",
+        "The team briefed the Intuitive Machines propulsion group, walking the engineers through their methods and results and demonstrating that a rigorous analysis of an active lunar mission could be built from public data. The students presented their research, “Computational Models to Estimate Modal Propellant Gauging (MPG) Windows on the Intuitive Machines IM-3 Mission,” at the SEES Annual Symposium and the Wisconsin Space Grant Consortium Annual Conference. The team will present again at the American Geophysical Union (AGU) Annual Meeting in San Francisco in December 2026.",
+        "“This high school team, in a period of less than a month, developed a depth of understanding and facility with advanced methods that rivals advanced graduate students in the field,” said Crosby. “Their work product is exceptional, and their presentation to Intuitive Machines engineers impressed everyone with the sophistication and creativity of their work. The SEES program has consistently provided a unique environment for students to demonstrate they can achieve far more than what is asked of them, even in the most advanced classes.”",
+        "The SEES program gives 11th and 12th grade students direct experience with the data, tools, and analytical methods used across the aerospace industry. By applying NASA and commercial mission data to an active lunar mission, the MATRIX team contributed analysis relevant to propellant management, a capability needed for in-space refueling, fuel depots, and sustained exploration of the Moon and beyond. Thank you to all the mentors, project assistants, and volunteers who have made SEES possible for over a decade.",
+        "The SEES Mission Architecture (MATRIX) Team: Raiymbek Abdykalykov, The Woodlands, TX Emmanuel Bravo, Boca Raton, FL Winston Huang, San Francisco, CA Adrianna Krajnovic, Dallas, TX Marco Lo Cicero, Tomball, TX Henry Martin, Milwaukee, WI Reva Paul, Bethlehem, PA Swayam Sahoo, North Chelmsford, MA",
+        "Project Mentor: Dr. Kevin M. Crosby, Carthage College and Wisconsin Space Grant Consortium Project Assistant: Mauro Esquivel, mathematics teacher, McAllen, TX"
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "scitechdaily-scientists-discover-a-strange-insect-in-the-himalayas-wher",
+      "title": "Scientists Discover a Strange Insect in the Himalayas Where No One Expected It",
+      "dek": "A newly identified Himalayan wormlion challenges the idea that its genus lives only in the tropics, raising the possibility of undiscovered relatives on nearby mountain slopes.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T19:06:03.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-a-strange-insect-in-the-himalayas-where-no-one-expected-it/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "A newly identified Himalayan wormlion challenges the idea that its genus lives only in the tropics, raising the possibility of undiscovered relatives on nearby mountain slopes.",
+        "In rain-sheltered patches of sand and soil on the southern slopes of the Himalayas, wormlion larvae build funnel-shaped pits to catch prey. Larvae belonging to this group were first collected in southern Xizang in 1978, but without adult flies to examine, scientists could not confirm their identity.",
+        "Adult specimens collected during a 2025 expedition to Yadong County have now helped resolve that 48-year mystery. A team led by researchers at Dali University in China has described the new species, Vermitigris tsangyanggyatso , in a recent paper published in the open-access journal ZooKeys .",
+        "Wormlions belong to Vermileonidae, a family of brachyceran, or short-horned, flies. They are the only known family of flies whose larvae capture prey by constructing these pits. Their hunting strategy evolved independently of the similar traps built by antlions, an example of evolutionary convergence.",
+        "The researchers’ search for adult wormlions had already taken years of patient work with another species. Asked what first drew them to the family, the team recalled:",
+        "“Well, it was probably an accidental discovery that first motivated us. In 2015, while searching for pit-building antlions on Cangshan Mountain in Dali, China, we discovered an unfamiliar larva that we found particularly interesting. However, because the adults have an extremely short lifespan, we failed for many years to determine its identity.",
+        "It was not until 2024 that we finally obtained adults through artificial rearing in the laboratory. It turned out to be a new species, which we named Vermiophis cangshanensis . This first discovery therefore took nine years. Since then, we have paid close attention to wormlions wherever we encounter them.”",
+        "The adults collected in Yadong revealed a species that is unusually large for its group. Their bodies measure up to 19. 5 millimeters, about three-quarters of an inch, with wings nearly 16 millimeters, or 0. 63 inches, long. A uniformly yellowish-brown to reddish-brown abdomen distinguishes Vermitigris tsangyanggyatso from its closest relatives, which have light and dark rings or longitudinal stripes.",
+        "Its mouthparts also offer a clue to how it lives as an adult. Some related lineages diversified during the Late Mesozoic while developing elongated mouthparts for feeding on nectar. The new species instead has a markedly shortened rostrum, or snout, suggesting that it may not feed at all during its final life stage.",
+        "Fully grown larvae are larger than the adults, reaching 20 to 28 millimeters, or about 0. 8 to 1. 1 inches, in length. They have a single semicircular proleg, a fleshy, leglike appendage, bearing a distinct row of five to seven spines. Yet their anatomy has not fully explained how they construct traps in the different materials available to them.",
+        "The team found larvae in three types of rain-protected shelter: fine-grained soil beneath giant rocks, wood debris under a pavilion, and fine-grained river sand accumulated beside a river. Field observations indicated a strong preference for the river sand. These sheltered sites provide the stable conditions the larvae need to maintain their pitfall traps, although the physical features that allow them to work across such different textures remain uncertain.",
+        "“We honestly do not know yet. Perhaps future behavioral experiments will help answer this question,” the team said when asked which features make that possible.",
+        "Wet forests have traditionally been shown to act as barriers to wormlion dispersal. Finding this species in protected pockets within such an environment shows how members of Vermitigris can live there despite the surrounding wet conditions.",
+        "The adult observations offered another piece of the dispersal picture. On sunny days, most flies rested quietly on leaves near the places where their larvae lived. One specimen, however, was found farther away around agricultural fields, which the researchers interpreted as evidence of strong flight and dispersal abilities."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "scitechdaily-scientists-reverse-60-years-of-aging-in-human-cells-turnin",
+      "title": "Scientists Reverse 60 Years of Aging in Human Cells, Turning 80-Year-Old Cells Into 20-Year-Olds",
+      "dek": "Cells from an 80-year-old were reprogrammed to a molecular age below 20, and the slow-motion reset could help reveal how cellular rejuvenation works.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T18:31:04.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-reverse-60-years-of-aging-in-human-cells-turning-80-year-old-cells-into-20-year-olds/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Cells from an 80-year-old were reprogrammed to a molecular age below 20, and the slow-motion reset could help reveal how cellular rejuvenation works.",
+        "What if scientists could turn back the biological clock of an 80-year-old human cell, making it behave like one from someone younger than 20? Researchers in Germany have accomplished just that, reversing more than 60 years of molecular aging while transforming blood cell precursors into neural stem cells capable of producing neurons.",
+        "The discovery, made by scientists at the University Hospital of Bonn and the University of Bonn , could provide new insights into one of biology’s biggest mysteries: how aging can be reversed at the cellular level. Unlike previous methods that reset a cell’s molecular age relatively quickly, this approach works gradually, allowing researchers to watch the rejuvenation process unfold over more than 100 days.",
+        "Published in Aging Cell , the study offers scientists an unusual opportunity to investigate what drives cellular rejuvenation, what slows it down, and whether those mechanisms could eventually help address age-related diseases such as Alzheimer’s.",
+        "Most cells in the body carry essentially the same genetic instructions, yet develop into specialized types with different jobs. Their identity depends largely on which instructions they use. Under normal conditions, a blood cell cannot simply become a neuron.",
+        "Researchers can redirect a cell’s identity through reprogramming, using combinations of proteins called transcription factors to change gene activity and guide its development. This approach has already allowed scientists to grow nerve tissue from skin cells, which could eventually contribute to treatments for neurodegenerative diseases.",
+        "The Bonn team used reprogramming to turn red blood cell precursors into neural stem cells. In earlier experiments, neurons produced through this approach formed connections with existing neurons after transplantation into mouse brains.",
+        "“In our current study, however, we focused on a different phenomenon: namely, the observation that cells become significantly rejuvenated during reprogramming,” says Prof. Dr. Oliver Brüstle, director of the Institute of Reconstructive Neurobiology at the University Hospital of Bonn and a member of the Transdisciplinary Research Area (TRA) Life & Health at the University of Bonn.",
+        "To track rejuvenation, the researchers examined chemical modifications to DNA that change with age. These modifications influence how genetic information is used without rewriting the DNA sequence itself (epigenetics). Epigenetic clocks use patterns in these markers to estimate a cell’s molecular age.",
+        "After reprogramming, cells from an 80-year-old registered an age below 20, a reduction of more than 60 years after 50 days.",
+        "“We also know that this epigenetic rejuvenation ensures that the cells actually behave like young cells,” says Brüstle.",
+        "Scientists had previously observed rejuvenation during a two-step reprogramming process. A specialized cell is first returned to a pluripotent stem cell state, giving it the potential to become virtually any cell type. Researchers then direct it to become a neural stem cell, with a much narrower range of developmental possibilities.",
+        "Unlike the conventional two-step approach, which produces rapid rejuvenation, the Bonn team converted blood cell precursors directly into neural stem cells without passing through a pluripotent stage. The cells’ molecular clocks reset gradually, allowing researchers to track the process for more than 100 days.",
+        "That extended timeline gives scientists an opportunity to examine the process as it happens and test what speeds it up or holds it back."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "conversation-ghost-stories-dont-just-scare-us-they-remind-us-of-histori",
+      "title": "Ghost stories don’t just scare us – they remind us of historical injustices",
+      "dek": "Along with the pumpkins and costumes, the candles and cobwebs, Halloween is all about storytelling. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T17:59:20.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/ghost-stories-dont-just-scare-us-they-remind-us-of-historical-injustices-293080"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "Along with the pumpkins and costumes, the candles and cobwebs, Halloween is all about storytelling. From tales of haunted houses to accounts of demonic possession, ghost stories are part of the holiday’s appeal.",
+        "As a professor at the University of Maine who specializes in ghost stories, I’ve thought a lot about what makes one unforgettable. My field research has taken me from the coast of Maine to the Amazon jungle, but some factors remain constant in an unforgettable tale.",
+        "One factor is what I call “creep value,” which includes the scare factor but also the elements of a story that might be simply unsettling or uncanny.",
+        "Take, for starters, the ghost of Catherine’s Hill along the Blacks Woods Road in Maine. The story warns that, against all intuition, even a lone driver at night must always stop and offer the phantom woman a ride . If not, as the story goes, she will appear when least expected in the back seat of the car to cause a fatal accident.",
+        "But there is more to account for than creep value in an unforgettable ghost story. These stories can keep alive the memory of a dark past. In my research I have come across tales that preserve memories of injustices that might otherwise have been forgotten.",
+        "One story, about a ghost ship that can be heard but never seen, preserves the little-known history of the smuggling of enslaved people.",
+        "The legend goes that on foggy nights, during the full moon, those standing at the Cooksey Drive Overlook in Seal Harbor, just outside Acadia National Park, can hear the slaves in the hold of a sinking ship crying for help.",
+        "The story goes back to the Pride of the Seas , a ship that smuggled enslaved Africans into the United States after the trans-Atlantic slave trade had been abolished but slavery remained legal. The account specifies that the smugglers scuttled the ship to evade the law. In ghost stories that circulate by word of mouth on Mount Desert Island, the screams of those left behind can still be heard.",
+        "Pennsylvania coal miners offer another example of past grievances passed down in the form of ghost stories. At the sites of deadly accidents, people have reported the sound of a pickaxe or the groans of a dying man. An extensive archive contains multiple accounts of coal miners witnessing ghostly knocking, disembodied voices and apparitions of mangled men. One story involves an innocent coal miner, condemned to death in 1877, who left a handprint in his cell at the Carbon County Jail that no amount of sanding or paint has been able to erase.",
+        "Today, it is widely known that coal miners of the 19th and early 20th centuries experienced ruthless exploitation and hazardous working conditions. Years ago, their plight went unrecognized in official histories and government policies, but ghost stories helped keep these experiences in the collective memory.",
+        "When I collected ghost stories in South America, the same pattern held true: Some tales preserved history that would otherwise be lost.",
+        "In the Amazon jungle of northern Brazil, I traveled to a gloomy site where people, over several generations, have claimed to see the spirits of young men in the murky water. These stories keep alive injustices from the 19th century involving enslavement of Indigenous people . The location was a former sugarcane plantation notorious for cruelty, and accounts of apparitions in the water are a reminder of this history.",
+        "In Rio de Janeiro a well-known ghost story involves the apparition of a young girl in a mansion known as the Castelinho do Flamengo . All the accounts of her story agree that this young heiress, named Maria de Lourdes Fernandes, witnessed the deaths of her parents; her guardian then locked her up and drove her to suicide to get her inheritance.",
+        "Her soul is said to remain in the mansion she tried to escape. The tale is not just about an individual tragedy but one that exposes inequities involving the mistreatment of juveniles and the corrupting influence of power.",
+        "Ghost stories don’t simply recount memories – they can revive them and bring the past back into the present.",
+        "The unsolved 1898 murder of a 52-year-old woman, Sarah Ware, in Bucksport, Maine, illustrates how ghost stories can have historical significance and flood the present with the past.",
+        "In the 1980s a woman and her daughter began having nightmares about a long-haired woman in a long dress struggling to rise from the bottom of a lake. When they realized they were having the same recurring dream , they partnered with an author, and their research led them to a conclusion that the apparition was the ghost of Ware.",
+        "Official records document that when Ware’s body was recovered it was badly decomposed and her head had completely detached . Her head remained in the courthouse until the 1990s, when it was buried in Ware’s grave. According to local lore, however, Ware’s headless body is not in that grave but instead in her original grave, now located at the bottom of Silver Lake. In the oral history of the area, workers moved only the tombstones when they flooded the paupers’ graveyard – the cemetery for the poor – to make a reservoir in the 1930s.",
+        "Ware’s ghost is believed to have appeared again in 2006. When a young woman went scuba diving in Silver Lake in Bucksport, she reported seeing a woman in a long dress struggling to rise from the bottom of the lake. When she swam over to help, the figure’s hair floated back with the movement of the water to reveal she was a faceless apparition. The sighting of the faceless ghost revived the history of the unsolved murder all over again.",
+        "Ware’s case highlights the violence and injustice and their connection to gender and social class in 19th-century Maine. Missing evidence and recanted testimonies suggest that powerful men might have interfered with the investigation to hide their own complicity in the murder. As an independent woman of the time, Ware was the subject of gossip, and the treatment of her body shows how social class affects even the honoring of the dead. As a ghost story, the history of Sarah Ware is not past but rather part of the here and now.",
+        "So when you’re out and about telling ghost stories this Halloween, remember that the unforgettable ones are all about creep value in the context of a dark history that flows back in again like the tide.",
+        "Marcus Librizzi previously received funding from the Maine Humanities Council."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "nasa-nasa-invites-media-to-moon-landing-simulation-experience-i",
+      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
+      "dek": "Members of the media are invited to tour a new lunar landing simulation at NASA’s Ames Research Center in California’s Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T17:13:44.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Members of the media are invited to tour a new lunar landing simulation at NASA’s Ames Research Center in California’s Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+        "Using a combination of in-house and partner motion-based simulators, NASA is giving astronauts and engineering support teams simulated experiences before crew members pilot commercial human landing systems to the surface of the Moon. Through the Artemis program, NASA is targeting the next lunar landing in 2028.",
+        "During the tour, media will have an opportunity to participate in a Vertical Motion Simulator ride-along and interview subject matter experts.",
+        "Media interested in participating should RSVP by Tuesday, Oct. 27 at 5:00 pm PT to the NASA Ames newsroom at: arc-dl-newsroom@mail. nasa. gov . Space is limited, and media must register in advance for consideration. NASA’s media accreditation policy is online. In your RSVP, please note your preference for Oct. 29 or Oct. 30.",
+        "The landing simulation at Ames was developed by NASA’s Johnson Space Center in Houston and integrated into the recently upgraded simulator flight deck .",
+        "As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions near the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery through its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency’s foundation for the first crewed mission to Mars."
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "nasa-news-nasa-invites-media-to-moon-landing-simulation-experience-i",
+      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
+      "dek": "Members of the media are invited to tour a new lunar landing simulation at NASA’s Ames Research Center in California’s Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-26T17:13:44.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Members of the media are invited to tour a new lunar landing simulation at NASA’s Ames Research Center in California’s Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+        "Using a combination of in-house and partner motion-based simulators, NASA is giving astronauts and engineering support teams simulated experiences before crew members pilot commercial human landing systems to the surface of the Moon. Through the Artemis program, NASA is targeting the next lunar landing in 2028.",
+        "During the tour, media will have an opportunity to participate in a Vertical Motion Simulator ride-along and interview subject matter experts.",
+        "Media interested in participating should RSVP by Tuesday, Oct. 27 at 5:00 pm PT to the NASA Ames newsroom at: arc-dl-newsroom@mail. nasa. gov . Space is limited, and media must register in advance for consideration. NASA’s media accreditation policy is online. In your RSVP, please note your preference for Oct. 29 or Oct. 30.",
+        "The landing simulation at Ames was developed by NASA’s Johnson Space Center in Houston and integrated into the recently upgraded simulator flight deck .",
+        "As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions near the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery through its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency’s foundation for the first crewed mission to Mars."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "scitechdaily-scientists-uncover-a-hidden-secret-that-could-transform-ch",
+      "title": "Scientists Uncover a Hidden Secret That Could Transform Chemical Manufacturing",
+      "dek": "A hidden variable in chemical reactions could hold the key to cleaner and more efficient manufacturing.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T15:27:02.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-uncover-a-hidden-secret-that-could-transform-chemical-manufacturing/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "A hidden variable in chemical reactions could hold the key to cleaner and more efficient manufacturing.",
+        "Scientists have identified a hidden factor that can determine whether a chemical reaction succeeds or fails. By controlling tiny changes in acidity near electrodes, researchers dramatically improved the production of valuable chemical ingredients, raising the proportion of the desired product from approximately 16% to 97%.",
+        "The breakthrough, led by Professor Jaeyune Ryu of the Department of Chemical and Biological Engineering at Seoul National University College of Engineering, could help make chemical manufacturing safer, cleaner, and more efficient. The researchers developed a method that uses oxygen and electricity to produce compounds used in plastics, medicines, adhesives, and other everyday materials without requiring the separate addition of peroxide oxidants.",
+        "Their discovery centers on a surprisingly overlooked factor called “local pH,” which describes the acidity or alkalinity in the immediate surroundings of an electrode. By redesigning a chemical reactor to control the distance between electrodes and the movement of liquid through the system, the team found a way to manage these conditions and greatly improve the reaction’s performance.",
+        "The work focused on two important families of chemicals: lactones and epoxides. Lactones are essential starting materials for biodegradable plastics and polyurethanes, while epoxides are used to manufacture adhesives, protective coatings, and epoxy resins found in electronic materials. Both also play important roles in producing pharmaceuticals and other specialized chemicals.",
+        "The findings were published in the Journal of the American Chemical Society (JACS) , a leading chemistry journal published by the American Chemical Society (ACS).",
+        "The research builds on a technique known as organic electrosynthesis, which uses electrical energy to drive reactions that produce carbon-based chemical compounds.",
+        "This approach has attracted growing interest because it may reduce the need for some of the chemical oxidizing and reducing agents commonly used in traditional manufacturing. Such agents help reactions proceed by accepting or donating electrons, but some can be hazardous to handle and generate unwanted waste.",
+        "Until now, much of the effort to improve organic electrosynthesis has centered on familiar factors, including the electrical voltage, the materials used for electrodes, and the composition of the liquid in which reactions occur.",
+        "However, the researchers suspected that something important was being overlooked: the microscopic chemical environment directly next to each electrode.",
+        "This is where molecules exchange electrons and undergo chemical transformations. Although the surrounding solution may appear uniform, conditions within this tiny region can be dramatically different.",
+        "One particularly important factor is pH, a measure of how acidic or alkaline a substance is.",
+        "During an electrochemical reaction, hydrogen ions, also known as protons, can be produced or consumed at the electrodes. If these ions are generated or removed faster than they can move through the liquid, the pH near the electrode may become very different from the pH measured in the rest of the solution.",
+        "The researchers found that these local differences can influence several critical parts of a reaction. They can change how reactive oxygen species are produced, alter the behavior of the starting molecules, and even affect whether the finished products remain stable or begin to break down."
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "scitechdaily-nasas-artemis-i-reveals-a-surprising-radiation-mystery-nea",
+      "title": "NASA’s Artemis I Reveals a Surprising Radiation Mystery Near the Moon",
+      "dek": "Radiation near the Moon can pass straight through the body, yet preliminary Artemis I measurements suggest a smaller-than-expected increase in exposure compared with low…",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T14:52:07.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/nasas-artemis-i-reveals-a-surprising-radiation-mystery-near-the-moon/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Radiation near the Moon can pass straight through the body, yet preliminary Artemis I measurements suggest a smaller-than-expected increase in exposure compared with low Earth orbit.",
+        "Beyond Earth’s protective magnetic field, astronauts face a constant bombardment of high-energy particles from deep space. But how much radiation would they actually absorb during a journey around the Moon? NASA’s Artemis I mission offered a rare opportunity to find out. Aboard the uncrewed Orion spacecraft, two human-shaped mannequins carried more than 10,000 tiny crystal detectors that recorded radiation exposure throughout their simulated bodies.",
+        "Surprisingly, radiation doses near the Moon were only moderately higher than those in low Earth orbit, a smaller increase than researchers might have expected.",
+        "Among these detectors were experimental lithium fluoride crystals developed by physicists at the Institute of Nuclear Physics of the Polish Academy of Sciences (IFJ PAN) in Cracow. Flown as part of the Matroshka AstroRad Radiation Experiment (MARE), the crystals captured microscopic traces of cosmic radiation during Orion’s journey in late November and early December 2022. A new study published in Radiation Measurements explains how scientists decoded those traces, revealing new details about radiation exposure in deep space and demonstrating a promising technique for detecting particles that conventional instruments can overlook.",
+        "“Low-energy protons, trapped by our planet’s magnetic field within the Van Allen belts, can account for the majority of the radiation dose received by astronauts in low Earth orbit. In the vicinity of the Moon, this substantial contribution disappears. Our measurements from the MARE experiment indicate that, although total radiation doses near the Moon are higher than those in Earth orbit due to the considerable levels of galactic radiation, the difference is not as large as one might intuitively expect,” says Prof. Pawel Bilski of IFJ PAN, a co-author of the paper.",
+        "Inside the Artemis I mannequins, known as human phantoms, the recorded radiation dose was essentially uniform. Galactic radiation is more prominent near the Moon, and its particles have such high energies that they can pass through an entire body, depositing only part of their energy along the way. That pattern differed from measurements made during the MATROSHKA experiment aboard the International Space Station more than a decade earlier. There, low-energy protons from Earth’s Van Allen belts contributed part of the dose and lost their energy at different depths inside the phantoms, producing an uneven distribution of radiation exposure.",
+        "Both MARE phantoms carried the experimental fluorescent lithium fluoride detectors, some highly enriched in the isotope lithium-7. The Cracow team also supplied nearly 600 crystalline detectors of another type, known as thermoluminescent detectors.",
+        "“The fluorescent radiation dose detectors based on lithium fluoride, developed at our institute, are passive in nature. In other words, they work like photographic film: once the crystals have been exposed to radiation, the tracks left by individual particles must be analyzed optically under a microscope,” explains Prof. Bilski.",
+        "As particles of ionizing radiation pass through lithium fluoride, they create defects in its crystal lattice, the orderly arrangement of atoms within the material. These defects act as color centers. During laboratory readout, blue light excites the centers, making them emit red fluorescence that can be observed under a microscope. Conventional plastic track detectors require chemical etching before their tracks can be read, but lithium fluoride needs no such treatment. A standard fluorescence microscope allowed the researchers to examine the tracks from the lunar mission quickly and without difficulty.",
+        "Extracting quantitative measurements required more complex calibration methods because cosmic radiation bears little resemblance to a controlled laboratory beam. Typical physics experiments expose detectors to particles of the same type, with well-defined energies and a precisely known direction of arrival. Cosmic radiation contains all naturally occurring types of particles and atomic nuclei, spanning a very broad energy range and arriving from every direction.",
+        "With tracks running through the crystals at different angles, the microscope brings a segment approximately one micrometer in size into focus, while its camera also captures a blurred glow from the remaining portions. That extra light affects fluorescence intensity, the primary measurement used to assess ionization density, or how densely a particle knocks electrons out of atoms along its path. Track shape also matters. Highly ionizing particles leave continuous, clearly defined lines, while weakly ionizing particles can leave a series of separate dots, further affecting the measured intensity."
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "scitechdaily-a-solar-storm-heading-toward-earth-suddenly-changed-in-way",
+      "title": "A Solar Storm Heading Toward Earth Suddenly Changed in Ways Scientists Didn’t Predict",
+      "dek": "Scientists have uncovered surprising behavior inside a powerful solar eruption that challenges existing models and could change how researchers predict space weather.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T14:17:23.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-solar-storm-heading-toward-earth-suddenly-changed-in-ways-scientists-didnt-predict/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Scientists have uncovered surprising behavior inside a powerful solar eruption that challenges existing models and could change how researchers predict space weather.",
+        "A massive eruption on the Sun sent a cloud of magnetized plasma racing toward Earth, where it underwent an extraordinary transformation. Over a distance of just 13 million miles, the cloud expanded by 21% as the plasma inside became three times hotter, defying expectations about how these solar structures evolve.",
+        "Researchers led by the University of Iowa documented the rapid growth using observations from two spacecraft positioned along the cloud’s path. Their findings challenge existing models of solar storms and could improve predictions of space weather events capable of disrupting satellites, navigation systems, and electrical grids.",
+        "The cloud originated from a coronal mass ejection on November 4 and 5, 2021. These powerful solar eruptions release enormous quantities of hot, electrically charged gas threaded with magnetic fields. Some form magnetic clouds containing twisted bundles of magnetic field lines that travel through interplanetary space.",
+        "As the crescent-shaped cloud approached Earth, the Solar Orbiter spacecraft recorded its structure approximately 78 million miles from the Sun. The Wind spacecraft later measured the same cloud about 91 million miles from the Sun. Both spacecraft happened to lie along nearly the same line, allowing scientists to compare the cloud’s properties at two relatively close points in its journey. The eruption also produced a major geomagnetic storm on Earth.",
+        "“First, it’s rare these two spacecraft would be aligned on a Sun-Earth axis,” says Shirsh Soni, a postdoctoral research fellow in physics and astronomy at the University of Iowa. “Then, second, for them to be aligned like that during an interplanetary coronal mass ejection is so much rarer.”",
+        "The measurements showed that the magnetic cloud expanded at approximately 192 kilometers per second (119 miles per second), substantially faster than the typical range of 50 to 100 kilometers per second (31 to 62 miles per second). The researchers called this unusually rapid growth a “super expansion.”",
+        "The process began when the cloud encountered the surrounding solar wind, a continuous stream of charged particles flowing outward from the Sun at speeds that can reach approximately 1 million mph. The interaction initially compressed the cloud, but its internal plasma subsequently heated to three times its earlier temperature, driving the dramatic expansion.",
+        "“In a typical interplanetary coronal mass ejection, when it encounters the solar wind, it could decelerate or accelerate,” Soni explains. “In this case, it expanded a lot.”",
+        "The team also discovered that the cloud’s magnetic field pressure remained unchanged despite its substantial growth. This behavior differed from predictions produced by existing models, suggesting that magnetic clouds may undergo more complex changes during their journeys through the solar system than previously recognized.",
+        "Because the two spacecraft observed the same cloud along its path, the researchers could directly track changes that would have been difficult to distinguish using a single observation point. Such measurements are particularly valuable for understanding how coronal mass ejections develop before reaching Earth, where their magnetic fields can interact with Earth’s magnetosphere and trigger geomagnetic disturbances.",
+        "“We have assumed that magnetic clouds from interplanetary coronal mass ejections will evolve in the same way,” says Soni, the study’s corresponding author. “In this study, we show the magnetic cloud can expand dramatically in a short period of time and space, which could have impacts to Earth that we wouldn’t have known about.”",
+        "Soni’s research was funded through a previous fellowship provided by the University of Michigan.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "nasa-nasa-usda-sign-agreement-advancing-earth-science-agricultu",
+      "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+      "dek": "NASA and the U. S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced…",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T13:54:25.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA and the U. S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture.",
+        "“NASA develops some of the most advanced sensing, computing, and analytical capabilities in the world, and we should put those tools to work wherever they can deliver meaningful outcomes for the American people,” said NASA Administrator Jared Isaacman. “By combining NASA’s Earth observation data and technical expertise with USDA’s knowledge of American agriculture, we can improve the information available to farmers and ranchers, strengthen our understanding of crop conditions and natural hazards, and pursue new high-risk, high-reward ideas that advance both science and American competitiveness.”",
+        "Isaacman and U. S. Secretary of Agriculture Brooke Rollins signed the agreement Oct. 24 during NASA’s Inspiration Tour at the University of Alabama in Tuscaloosa.",
+        "NASA and USDA’s longstanding partnership has supported collaborative research and data-sharing efforts that strengthen U. S. agriculture. The new agreement deepens this cooperation by focusing on improved data integration and enhanced coordination across Earth observation and agricultural applications.",
+        "“American farmers are the best in the world and deserve any solution we can leverage, even when it is out of this world. I am proud to announce that USDA will now work with Administrator Isaacman and NASA to utilize the full power of technology, research, and development to fortify U. S. agriculture,” said Rollins. “With this unprecedented partnership the Trump Administration is committing to a bright future of research and tech opportunities that will enhance USDA acreage and yield estimation and drive profitability for American agriculture.”",
+        "Under the new agreement, the agencies can explore activities in agricultural statistics, remote sensing science, modeling, geospatial data engineering, and super intelligence. NASA and USDA also will look at how to better align Earth observation data and analytical tools with agricultural needs, helping improve crop monitoring, acreage and yield estimates, and assessments of drought and other disasters.",
+        "The agencies will examine new approaches for managing and analyzing large datasets, strengthening USDA’s data systems while providing farmers, ranchers, and policymakers with more timely and reliable information."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "nasa-news-nasa-usda-sign-agreement-advancing-earth-science-agricultu",
+      "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+      "dek": "NASA and the U. S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced…",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T13:54:25.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA and the U. S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture.",
+        "“NASA develops some of the most advanced sensing, computing, and analytical capabilities in the world, and we should put those tools to work wherever they can deliver meaningful outcomes for the American people,” said NASA Administrator Jared Isaacman. “By combining NASA’s Earth observation data and technical expertise with USDA’s knowledge of American agriculture, we can improve the information available to farmers and ranchers, strengthen our understanding of crop conditions and natural hazards, and pursue new high-risk, high-reward ideas that advance both science and American competitiveness.”",
+        "Isaacman and U. S. Secretary of Agriculture Brooke Rollins signed the agreement Oct. 24 during NASA’s Inspiration Tour at the University of Alabama in Tuscaloosa.",
+        "NASA and USDA’s longstanding partnership has supported collaborative research and data-sharing efforts that strengthen U. S. agriculture. The new agreement deepens this cooperation by focusing on improved data integration and enhanced coordination across Earth observation and agricultural applications.",
+        "“American farmers are the best in the world and deserve any solution we can leverage, even when it is out of this world. I am proud to announce that USDA will now work with Administrator Isaacman and NASA to utilize the full power of technology, research, and development to fortify U. S. agriculture,” said Rollins. “With this unprecedented partnership the Trump Administration is committing to a bright future of research and tech opportunities that will enhance USDA acreage and yield estimation and drive profitability for American agriculture.”",
+        "Under the new agreement, the agencies can explore activities in agricultural statistics, remote sensing science, modeling, geospatial data engineering, and super intelligence. NASA and USDA also will look at how to better align Earth observation data and analytical tools with agricultural needs, helping improve crop monitoring, acreage and yield estimates, and assessments of drought and other disasters.",
+        "The agencies will examine new approaches for managing and analyzing large datasets, strengthening USDA’s data systems while providing farmers, ranchers, and policymakers with more timely and reliable information."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "conversation-if-philadelphia-eagles-quarterback-jalen-hurts-can-get-dan",
+      "title": "If Philadelphia Eagles quarterback Jalen Hurts can get dangerous blood clots, so can you – here’s how some states are trying to reduce the risk",
+      "dek": "Jalen Hurts is 28, a Super Bowl MVP and an elite athlete in peak physical condition. He was also recently diagnosed with blood clots in his leg and both lungs .",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T12:50:51.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/if-philadelphia-eagles-quarterback-jalen-hurts-can-get-dangerous-blood-clots-so-can-you-heres-how-some-states-are-trying-to-reduce-the-risk-294850"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Jalen Hurts is 28, a Super Bowl MVP and an elite athlete in peak physical condition. He was also recently diagnosed with blood clots in his leg and both lungs .",
+        "After a cleat to the left calf during a game against the Los Angeles Rams on Oct. 4, 2026, and after a team flight to London, the Philadelphia Eagles quarterback was given an ultrasound and diagnosed with a superficial vein thrombosis, which is a blood clot in the vein near the skin, in his left leg.",
+        "He played that Sunday. A follow-up ultrasound showed the superficial vein clot had progressed to a deeper vein, and he was diagnosed with a deep vein thrombosis, or DVT.",
+        "By Oct. 19, he was diagnosed with a bilateral pulmonary embolism, which means he had blood clots in both lungs. He started treatment with blood thinners, and his prognosis was described as “very good,” according to a statement from the team and his agent , but he will likely be out for the rest of the season .",
+        "For me, as a pulmonary vascular disease specialist who treats patients with blood clots and pulmonary embolisms, this case highlights an important teaching moment. If this can happen to an elite athlete, it can happen to anyone. And too often, it can be prevented.",
+        "Deep vein thrombosis and pulmonary embolism are grouped under one name: venous thromboembolism .",
+        "When a deep vein thrombosis develops, the clot can break off and a piece of it can travel through the body and lodge in the arteries in the lungs, where it obstructs blood flow and lowers oxygen in the blood, causing shortness of breath and strain on the heart. This is known as pulmonary embolism . If the blood clot in the lungs is large enough, it can sometimes kill within hours.",
+        "Clots that happen near the skin, like the one first found in Hurts’ leg, are often treated as minor but are not always harmless. It is estimated that a quarter of people diagnosed with superficial clots can also have deep vein thrombosis, so health providers order follow-up imaging.",
+        "In the United States, up to 900,000 people are affected by venous thromboembolism each year. An estimated 60,000 to 100,000 die from it annually. Survivors often have long-term symptoms such as persistent leg swelling, shortness of breath, chronic clots, or elevated blood pressure in the arteries in the lungs, which is known as chronic thromboembolic pulmonary hypertension .",
+        "The three main factors that drive formation of blood clots are injury to the vein wall, slow or stagnant blood flow in that injured region, and blood that clots easily due to inflammation or other factors. This is called Virchow’s triad, and Hurts’ story touches every corner of this triad.",
+        "The injury to the left calf bruised the muscle and likely the vein beneath it. Later, prolonged sitting on an overnight flight from Philadelphia to London and a return flight after the game resulted in stagnant blood flow to the injured leg. Inflammation from the injury along with dehydration from the game and jet lag all may have contributed to increased blood clotting.",
+        "Beyond Hurts’ case, the most common risk factors to developing venous thromboembolism include hospitalization and surgery, especially orthopedic surgery and abdominal operations.",
+        "More than a third of cases occur following a hospital admission or just after discharge. Fractures and blunt trauma to the legs, prolonged immobility or bed rest, having a leg in a cast, or sitting for hours in a plane or car all predispose to blood clot formation in the legs. The use of estrogen in birth control pills or hormone therapy, cancer, pregnancy and inherited clotting disorders also predispose an otherwise healthy person to develop blood clots.",
+        "It is estimated that up to 70% of hospital-associated clots can be avoided with prophylactic blood thinners or inflatable leg devices called sequential compression devices to prevent deep vein thrombosis. However, fewer than half of hospital patients receive such measures, according to the Centers for Disease Control and Prevention.",
+        "For people taking long trips in a car or plane, it is recommended to take frequent movement breaks, stay hydrated and even use compression socks. New symptoms of calf swelling, tenderness or redness should raise concerns for possible deep vein thrombosis.",
+        "Hurts had elite doctors and close monitoring, so his clots were caught and treated quickly. Most individuals do not have the same protections.",
+        "In 2025, Florida was the first state in the country to pass a law to help identify and treat those at risk of blood clots. It’s called the Emily Adkins Family Protection Act . Adkins tragically passed away in 2022 at age 23 from a fatal pulmonary embolism that occurred after a clot from her leg traveled to her lungs. Her family helped pass the bill that set up the nation’s first state blood clot and pulmonary embolism work group , which put forward the recommendations that later turned into law.",
+        "Florida’s law requires hospitals to have protocols to assess and treat patients at risk of blood clots and train hospital staff to recognize the symptoms of venous thromboembolism. It also will involve the creation of a statewide venous thromboembolism registry, the first of its kind in the country, where hospitals will report data on blood clots.",
+        "Florida is no longer alone. In 2026, the Blake Burgess Blood Clot Prevention Act was passed in Oklahoma; Mississippi proposed similar legislation. Advocates such as the National Blood Clot Alliance are urging other states to follow .",
+        "Hurts will most likely recover over the next few months. The outcome for many other individuals will depend on whether someone asks the right questions, recognizes the warning signs and acts in time. Venous thromboembolism is one of the few major killers where risk assessment, prevention, early diagnosis and fast treatment can play a critical role in changing the outcome."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "conversation-why-do-people-still-get-polio-in-some-countries-and-not-in",
+      "title": "Why do people still get polio in some countries and not in others?",
+      "dek": "Curious Kids is a series for children of all ages. If you have a question you’d like an expert to answer, send it to CuriousKidsUS@theconversation. com .",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T12:16:36.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/why-do-people-still-get-polio-in-some-countries-and-not-in-others-294010"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Curious Kids is a series for children of all ages. If you have a question you’d like an expert to answer, send it to CuriousKidsUS@theconversation. com .",
+        "Why are people still getting polio in some countries and in not others? – Mia, age 9, Centennial, Colorado",
+        "On a busy street in Karachi, Pakistan, a healthcare worker kneels down so she’s eye to eye with a toddler. She squeezes two drops of liquid onto the child’s tongue. Then she takes out a purple marker and colors the child’s pinkie fingernail so everyone can see that this toddler is now vaccinated against polio.",
+        "During big vaccination drives, thousands of health workers like her knock on doors across Pakistan.",
+        "Most kids in the United States will never experience anything like this, because they get the polio vaccine as a shot at the doctor’s office instead of drops in a door-to-door campaign.",
+        "The two vaccines work a little differently , but both protect kids from the polio virus. The countries that still see polio outbreaks are places where not enough people have gotten the preventive vaccine.",
+        "I’m an epidemiologist – a scientist who studies how diseases spread. My work focuses on diseases that vaccines can prevent, and on the false information that keeps some families from getting those vaccines.",
+        "Polio is caused by a virus that lives in the human gut. It spreads when tiny bits of poop from an infected person get onto hands, food or water, and then into someone else’s mouth. That’s why polio spreads fastest in places without clean water or good sewer systems.",
+        "Polio is sneaky. Most people who catch it never feel sick at all , so they can pass it on without knowing.",
+        "But in about 1 out of every 200 infections globally, the virus attacks the nerves that control muscles, usually in the legs. This can cause a person to be paralyzed for the rest of their life.",
+        "There is no cure for polio. But there is a vaccine , and a few doses can protect you for life.",
+        "In 1988, polio paralyzed about 350,000 children in 125 countries. That same year, countries around the world teamed up with one huge goal: Wipe out polio for good.",
+        "Though polio has not yet been entirely eliminated, this effort has been a major success. Since then, polio cases have dropped by more than 99% globally .",
+        "There used to be three types of wild polio virus . Now, only type 1 is left.",
+        "Wild polio, the original virus, now spreads in just two countries : Afghanistan and Pakistan. In 2025, wild polio paralyzed 52 children there.",
+        "Both countries have lived through decades of war . In some areas, it’s too dangerous for vaccinators to travel, and some have even been attacked .",
+        "In Afghanistan, vaccinators haven’t gone house to house since late 2024 . Families must bring children to central spots, such as mosques, instead. But the kids who can’t get there miss their vaccines.",
+        "Some countries have outbreaks of a different kind, called vaccine-derived polio .",
+        "The oral polio vaccine, which is no longer used in many countries, including the U. S. , contains a weakened polio virus – too weak to make a child sick, but strong enough to teach the body to fight polio.",
+        "After a child swallows the drops of vaccine, some of the weakened virus leaves their body in their poop. If nearly every kid around is vaccinated, the virus has nowhere to go and fizzles out.",
+        "But in areas where fewer than 80% of kids are vaccinated, it can pass from child to child. Like a message in a game of telephone, the virus changes a little each time it’s passed. Eventually, it can change back into a form that paralyzes children.",
+        "That might sound like the vaccine is the problem. But in fact, the problem is that too few kids have received the vaccine.",
+        "The children who go unvaccinated are usually the hardest to reach: kids in the poorest families, in faraway villages or in war zones. In one study in Pakistan, offering families other free healthcare along with polio drops cuts the share of never-vaccinated kids nearly in half .",
+        "In October 2025, scientists testing sewage in Hamburg, Germany, found wild polio . Its genes matched virus found in Afghanistan, more than 3,000 miles (4,800 kilometers) away."
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "conversation-nathaniel-hawthornes-notebooks-reveal-the-strange-workings",
+      "title": "Nathaniel Hawthorne’s notebooks reveal the strange workings of his imagination",
+      "dek": "After graduating from Bowdoin College in 1825 , 21-year-old Nathaniel Hawthorne returned to his family home in Salem, Massachusetts, to live with his mother and two sisters.",
+      "category": "文化",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T12:15:59.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/nathaniel-hawthornes-notebooks-reveal-the-strange-workings-of-his-imagination-294421"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "After graduating from Bowdoin College in 1825 , 21-year-old Nathaniel Hawthorne returned to his family home in Salem, Massachusetts, to live with his mother and two sisters.",
+        "Over the next two decades, the aspiring author took on just two short-term jobs. Otherwise, he spent much of his time as a recluse: reading, taking long walks in Salem, socializing with a small group of friends, and writing stories and sketches from the third-story bedroom of the home he called “ Castle Dismal .” During that period and beyond, Hawthorne kept a series of notebooks, which scholars see as an important primary source for understanding the ideas and descriptions that informed his early writings and later novels.",
+        "Mainly, however, the notebooks served as a writer’s repository: Hawthorne could let his imagination wander freely without having to worry about being called unconventional, depressive or mad.",
+        "For over three decades as a Hawthorne scholar , I’ve used the notebooks – later titled “ The American Notebooks ” – to help me prepare editions and scholarly monographs. But I’ve long been intrigued by the notebooks’ shortest entries. Often no more than a single paragraph, they make up fewer than 10,000 of the 200,000 words found in “The American Notebooks.” They are weird and captivating, and in their own way seem like what we now call flash fiction or microfiction .",
+        "Hawthorne published collections of his tales and sketches in 1837 and 1846 , which included such macabre and bleak tales: “ Young Goodman Brown ,” “ The Minister’s Black Veil ” and “ The Birth-mark .” In 1850, at the age of 46, he published his first novel, “ The Scarlet Letter ,” which established him as one of the leading American writers of his day.",
+        "After Hawthorne’s death in 1864, his wife, Sophia , began transcribing “The American Notebooks” for The Atlantic Monthly. In the process, she grew fond of the fragments, likening them to sketches that bring us “so very near the creative soul of the artist.”",
+        "I have collected 200 of the most compelling of these fragments for an edition that was published by the Library of America in October 2026.",
+        "Consider the following fragment, which has no relation to anything that Hawthorne actually published:",
+        "“To have one event operate in several places – as, for example, if a man’s head were to be cut off in the town, men’s heads to drop off in several other towns.”",
+        "Phrased as if for a story that would never be written, this jotting, complete in itself, conjures an eerie world in which violence toward one person reverberates through other people in other places, leaving human bodies mysteriously linked.",
+        "In a fragment written in 1836, Hawthorne fantasizes about upending social conventions:",
+        "“Would it not be wiser for people to rejoice in all they now sorrow for? – and vice versa. To put on bridal garments at funerals, and mourning at weddings. For their friends to condole with them, when they attained riches or power, as only so much care added &c.”",
+        "Hawthorne never wrote a story about women wearing bridal garments at funerals. But the stand-alone fragment, in the seeming spirit of Franz Kafka’s surreal and unsettling fiction , links success to misery, and happiness to death.",
+        "That Hawthorne could be regarded as a precursor to Kafka, who wrote posthumously published fragments , was first articulated by the Argentinian modernist Jorge Luis Borges in his 1949 lecture “ Nathaniel Hawthorne .” For Borges, Hawthorne prefigured Kafka in his commitment to “pure fantasies that do not look for a justification or moral and that seem to have no other substance than an obscure terror.”",
+        "Borges’ assessment seems especially apt for the parables, fantasies and fragments that can be found in Hawthorne’s “American Notebooks,” many of which evoke a hidden menace or unsettling plot:",
+        "“Follow out the fantasy of a person’s taking his life by installments, instead of at one payment – say ten years of life alternately with ten years of suspended animation.”",
+        "“Little gnomes dwelling in hollow teeth; they find a tooth that has been plugged with gold, and it serves them as a gold mine.”",
+        "In a longer fragment, written in 1853, Hawthorne anticipates the many horror films featuring a demonic or possessed child:",
+        "“A family, consisting of a father, mother, and two children, are out for a walk, and sitting together in a wood. The little girl rambles away into the wood – they call for her – within a brief time, she comes back. At first, they notice no difference in her; but by degrees, they begin to see something odd – they notice more and more, till, in the course of years, they almost suspect that it was not their own child, but a strange child, who came back.”",
+        "Hawthorne, who had two daughters and a son, captures how children can seem to their parents like mysterious little people beyond their control. He would explore this dynamic in Pearl, the willful child in “The Scarlet Letter.” At one point, Pearl’s mother, Hester Prynne, wonders whether she’s a “demon offspring.”",
+        "Hawthorne’s notebook fragments are wide-ranging, but certain themes repeatedly crop up: the psychology of divided selves, tensions between men and women and even possibilities for a better world. As he hopefully imagines in a stand-alone fragment: “Cannon transformed to church-bells.”",
+        "Who was Hawthorne the writer? A neo-Puritan moralist? A social realist? A modernist? A romancer? The fragments complicate rather than answer such questions. In his preface to “ The Scarlet Letter ,” Hawthorne remarks on his desire to “keep the inmost Me behind its veil.”",
+        "But with the help of the fragments, we get behind the veil, at least a bit – and glimpse something like what Sophia believed was the spirit informing Hawthorne’s writing.",
+        "Robert S. Levine does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "conversation-i-composed-music-about-infertility-and-pregnancy-loss-then",
+      "title": "I composed music about infertility and pregnancy loss, then performed it in a Pittsburgh hospital",
+      "dek": "It turns out you can rent a Steinway piano and have it delivered pretty much anywhere – including the lecture hall of a major working hospital.",
+      "category": "文化",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T12:15:43.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/i-composed-music-about-infertility-and-pregnancy-loss-then-performed-it-in-a-pittsburgh-hospital-292857"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "It turns out you can rent a Steinway piano and have it delivered pretty much anywhere – including the lecture hall of a major working hospital.",
+        "In October 2025, I had one delivered to UPMC Magee-Womens Hospital in Pittsburgh for the premiere of “ One in Four, One in Eight ,” a 60-minute piece I composed about infertility and pregnancy loss, told through music, art, dance and narration.",
+        "Every October, families across the U. S. mark Pregnancy and Infant Loss Awareness Month , first proclaimed in 1988. This year, the observance arrives as federal funding cuts threaten reproductive health research , according to a report from the American Society for Reproductive Medicine. That matters because so much about why pregnancies end, or never begin, is still unknown.",
+        "“One in Four, One in Eight” is built around a piano quartet – piano, violin, viola and cello – with artwork and choreography woven in. The music creates a space to explore something deeply personal and physical that is often invisible from the outside and stigmatized. The project brings together the human and emotional sides of infertility and pregnancy loss with the procedural and scientific ones.",
+        "The piece takes its title from two statistics : 1 in 4 known pregnancies ends in loss in the U. S. , and 1 in 8 women needs medical intervention to become and stay pregnant.",
+        "I am 1 in 4. I am 1 in 8. I’ve experienced the physical, emotional, social, financial, professional and psychological costs of infertility and pregnancy loss. As an assistant music professor and composer of contemporary classical music, I draw heavily on my own experiences as sources of inspiration; my creative practice is my research. But I also often consult external sources to inform aspects of my creative work.",
+        "The piece has four movements, each tied to a stage or experience common in infertility or pregnancy loss. Before each one, a narrator lays out the scientific context of these deeply personal experiences.",
+        "The narrations drew on interviews with Dr. Gabriela Gosman , Dr. Pamela Parker , Dr. Allison Serra and physician assistant Carrie Weaver , all reproductive care providers at UPMC Magee-Womens Hospital. They also drew on research from the American Society for Reproductive Medicine , the National Institutes of Health , the U. S. Centers for Disease Control and Prevention and the World Health Organization . Gosman reviewed and approved every narration for medical accuracy.",
+        "The first movement, “Antecedent,” is about anticipation and potential energy. Its narration presents pregnancy as a societal ideal, while noting that a live birth depends on a monthslong chain of events going just right. The music is bright and open-ended, invoking the best-case scenario. Even when it stalls, nothing is fully lost – listeners can still find a beat and tap along.",
+        "The second movement, “Fissure to Flow,” explores the friction between the body’s natural cycles and assisted reproductive technologies , or ART, which suppress and override those cycles. Pregnancy usually runs on its own clock, taking about 40 weeks from conception to birth. With ART, simply reaching a confirmed pregnancy can take months. Each round of in vitro fertilization, or IVF, is timed to a menstrual cycle, and doctors sometimes stop a round partway through, such as when the ovaries don’t respond as expected to medication. Up to 20% of rounds are stopped before eggs are ever retrieved, which means more waiting and starting over. Some people succeed after one round of IVF; others after several.",
+        "Some never do.",
+        "Musically, in this movement, the four instruments playing gradually line up until they suddenly lock in, revealing how unsettled everything sounded before.",
+        "The third movement, “Somatic Drift,” is about loss and being lost. The music feels both aimless and intensely focused.",
+        "Pregnancy loss can stem from chromosomal or structural abnormalities, such as a uterine septum , fibroids or scar tissue . It can also stem from hormone imbalances involving prolactin or progesterone .",
+        "Yet about half of all pregnancy losses are unexplained . That’s not because there is no cause, but limited research and funding leave doctors with few tools to find one.",
+        "The final movement, “Fortified,” is about the calm that comes with information, though this doesn’t make it a happy ending. Its grounded music acknowledges the financial, physical, emotional and professional costs of infertility and pregnancy loss . The narration highlights changes in care I hope to see, from better pain management for invasive procedures to in-office childcare for last-minute appointments, along with new research and legislation to support ART.",
+        "To be fortified is to be made stronger. Bodies hold on to pregnancy, too. Cells from a pregnancy can remain in a person’s body for years afterward, whether the pregnancy lasted four days or 40 weeks. This is a phenomenon called fetal microchimerism .",
+        "“One in Four, One in Eight” was designed to reach beyond a typical concert audience. Alongside the music and the narrated science, the performances featured the San Antonio-based chamber ensemble Agarita Chamber Players , who performed the piece, along with choreography by Pittsburgh-based Attack Theatre and new visual art works by Pittsburgh visual artist Morgan Overton . Both Attack Theatre and Overton created their work in response to the music, and it debuted live during the performances.",
+        "To make the concerts easier to attend, tickets and on-site childcare were free, and the project paid for parking. Before each concert, the project team hosted talks with me and the other artists to welcome people into the conversation. Afterward, receptions gave nonprofit community organizations space to share information and resources.",
+        "The science and music in “One in Four, One in Eight” depend on one another. Where a clinical setting is a crucial component of health and healing, public performances create spaces for learning, understanding and catharsis."
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "conversation-50-years-later-amory-lovins-soft-energy-path-meets-electri",
+      "title": "50 years later, Amory Lovins’ soft energy path meets electrification",
+      "dek": "Hurricane Belle was barreling toward New England in August 1976 when an editor from Foreign Affairs called. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T12:15:24.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/50-years-later-amory-lovins-soft-energy-path-meets-electrification-293920"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Hurricane Belle was barreling toward New England in August 1976 when an editor from Foreign Affairs called. Physicist Amory Lovins took the call on a payphone in a shack in the Maine woods, where he spent summers as a camp guide.",
+        "“If it happened to hit that area, the wires would be down with trees on them for weeks, so we’d miss the press date,” Lovins told me in a 2025 interview. The lines held up as he and the editor worked through final edits on a 14-hour phone call.",
+        "Published in October 1976 in the wake of the 1973 oil crisis, “ Energy Strategy: The Road Not Taken? ” drew more reprint requests than any Foreign Affairs article in decades .",
+        "Two U. S. Senate committees called on the 29-year-old Lovins to testify about his ideas that December . The following year, Lovins met with President Jimmy Carter and his top energy advisers in the Oval Office and expanded his article into a book, “ Soft Energy Paths: Toward a Durable Peace .” The New York Times chronicled the “raging debate” sparked by Lovins, noting that “ even his critics concede that he is something of a genius .”",
+        "The article charted two paths for the future of energy. One, which Lovins called the “hard” path, required ever more energy supply to meet inexorably rising demand. With U. S. oil production in decline since 1970 , coal and uranium would supply most growth by generating electricity at large, remote facilities.",
+        "Lovins instead championed a “soft” path that put people’s wants ahead of supplies. “ People do not want electricity or oil … but rather comfortable rooms, light, vehicular motion … and other real things,” he wrote.",
+        "The soft path would meet those wants with a diverse array of renewable energy resources, sourced locally where possible. Heating would come from solar collectors and waste heat. Vehicles would be made more efficient and run on biofuels. Wind power would be used to compress air to drive machinery. Oil and gas would be reserved for making chemicals. Lovins hoped that matching form with function could enable U. S. energy use to plateau and then decline so that it could be supplied renewably by 2025.",
+        "When Lovins wrote his article, most electricity was generated inefficiently from fossil fuels or uranium, while wind and solar power remained prohibitively expensive. “Photovoltaics were out of bounds intellectually; that gets you laughed out of the room, and I didn’t actually think they would get cheap enough,” Lovins told me in 2025.",
+        "Burning or fissioning a fuel to generate electricity inefficiently, transmitting it far away, and turning it back into low-grade heat for homes was “ like cutting butter with a chainsaw ,” Lovins wrote. Thus, his soft path included only a narrowing lane for electricity, steering it toward essential purposes such as electronics, subways, lighting and smelting. Lovins posited that “ an affluent industrial economy could advantageously operate with no central power stations at all,” though he did not advocate going that far.",
+        "They were paths, not predictions, and neither path foretold the road actually taken in the 50 years since. Unlike most forecasts from the era, which projected ever-rising demand, the soft path foresaw that total U. S. energy use could plateau, and it almost exactly matched the actual level in 2000 . However, Lovins and his contemporaries failed to foresee the drilling advances that have kept oil and gas dominant.",
+        "As an environmental engineer completing a book about the visions that are shaping energy realities and opportunities around the world, I think Lovins got it half right about how to secure sustainable energy. Efficiency and renewable energy are indeed essential, but clean electricity and electrification are proving far more important than Lovins expected.",
+        "Critics argued that Lovins underestimated the costs of clean technologies and overstated what they could achieve. In fact, opportunities for clean energy have been transformed by unanticipated plunges in the costs of wind and solar electricity , battery storage and LED lighting .",
+        "For example, the price per watt of solar panels tumbled from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States .",
+        "Modern technologies turn the chainsaw analogy on its head by making electrification the soft path to reducing energy use. Heat pumps supply several times as much heat as the electricity they consume. Induction stoves cook food far more efficiently than gas flames. And electric vehicles are a few times more efficient than gasoline ones.",
+        "Powered by renewable electricity, from local resources like the solar panels on Lovins’ roof and mine, or from larger solar, wind and geothermal facilities, these technologies can slash fossil fuel use. A diversity of resources blended with high-voltage transmission and storage can make clean electricity available around the clock .",
+        "When I visited Lovins’ ultra-efficient, solar-powered Colorado home in 2025, electrification took center stage. It was the induction stove that he showed off first, boiling water at lightning speed, then the batteries in the utility room. Two electric cars were charging outside. The wood stoves had been retired.",
+        "Former colleagues of Lovins now advocate an “ electrotech revolution ” centered on renewable electricity and increased electrification. Lovins told me he embraces their work but is pushing them to add integrative design — optimizing efficiency by redesigning whole systems — a subject he teaches at Stanford .",
+        "I believe Lovins was right to focus on matching resources with people’s actual needs. Renewable electrification and efficiency provide the softest path to doing so for the next 50 years.",
+        "Daniel Cohan interviewed Amory Lovins three times while writing two books."
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
