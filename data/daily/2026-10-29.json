@@ -1,0 +1,1102 @@
+{
+  "generatedAt": "2026-10-28T22:16:08.588Z",
+  "date": "2026-10-29",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-explaining-the-difference-between-brittle-and-ductile-beha",
+      "title": "Explaining the difference between brittle and ductile behavior in polymer glasses",
+      "dek": "Glasses are (mostly) brittle, metals can be ductile (plastic), and liquids flow easily. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T22:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-difference-brittle-ductile-behavior-polymer.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Glasses are (mostly) brittle, metals can be ductile (plastic), and liquids flow easily. Polymers are interesting because they exhibit all three types of behavior, depending on their chemical nature, temperature, and deformation rate. If polymers are not able to crystallize, their low-temperature state is glassy, and they are hard and transparent. One example is poly(methylmethacrylate) [PMMA], which has been used as an artificial glass since the early 20th century.",
+        "Surprisingly, polymer glasses can be ductile at temperatures significantly below their glass transition temperature, T g . For a typical laboratory strain rate (~10⁻³ s⁻¹), the brittle-ductile transition temperature (BDT or T BD ) can be 50–100 K below T g . This result is surprising—naively, one would expect a \"glass\" to be brittle—yet polymers can deform plastically well below T g .",
+        "In collaboration with Profs. Oleg Gendelman (Technion, Israel) and Alessio Zaccone (University of Milan, Italy), I started by developing a simple model that captures the main features of the three types of stress-strain behavior: brittle (Type I), ductile with stress overshoot (Type II), and ductile with no stress overshoot (Type III).",
+        "For more than a century, scientists have studied viscoelastic materials using simplified representations like the Maxwell element (spring and dashpot connected in series). Our model—now published in Soft Matter —is based on that Maxwell element, but with two big modifications. First, the elastic component is not a pure linear spring, but a sinusoidal function of the elastic strain, reflecting the fact that the potential energy landscape has multiple minima. Second, the dashpot viscosity decreases at large strains, as predicted by the so-called Eyring-Long model.",
+        "With our model, we can calculate the yield strain corresponding to each strain rate. For small strain rates, the yield strain is small, and the stress-strain curve is of Type III. For intermediate strain rates, the yield strain is larger, and the stress-strain curve is of Type II. Finally, for large strain rates, there is no solution, the material does not flow, and the stress-strain curve is of Type I.",
+        "We thus look at the brittle-ductile transition differently from earlier researchers. In our view, a polymer glass can yield uniformly if the strain rate is slower than a temperature-dependent threshold but must break in a brittle fashion if the strain rate is faster than that threshold. How can we compute this threshold? Our hypothesis is that this threshold is inversely proportional to the Johari-Goldstein beta-relaxation time. (This idea was formulated empirically by Dr. S. Wu (Dupont) in the 1970s, but we are now able to come up with a theoretical justification. )",
+        "In the undeformed state, the relaxation time is large (alpha-relaxation time), and, as the material is deformed, it decreases all the way down to the beta-relaxation time. Knowing the two relaxation times as a function of temperature, we can then compute the BDT as a function of the strain rate.",
+        "Crucially, the alpha-relaxation time in glassy polymers depends on the aging of the polymer; at temperatures far below T g , it seldom reaches equilibrium and is generally on the order of the aging time. Thus, the analysis of the BDT requires knowledge of the sample age—a fact known to experimentalists but often underappreciated by theoreticians.",
+        "From the model, we can get the \"universal\" map separating the three regions: brittle, ductile with stress overshoot, and ductile with no stress overshoot (see figure below). The x-axis is proportional to the logarithm of the ratio of the alpha- and beta-relaxation times—or, alternatively, the inverse of the absolute temperature. The y-axis represents normalized strain rate. Hence, we see that at high temperatures (small B), only liquid-like (at small strain rates) or brittle (at large strain rates) behaviors are possible.",
+        "Knowing the temperature dependence of the alpha- and beta-relaxation times for several amorphous polymers, we can translate the \"universal\" phase map into polymer-specific BDT results. For PMMA, the comparison between the model and experiment was plotted in the top figure. In the paper, we also show similar plots for poly(vinylchloride) [PVC] and polystyrene [PS]. For all three polymers, the model fit is within 5 K of the experimental data."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "nasa-nasa-welcomes-vietnam-as-newest-artemis-accords-signatory",
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "dek": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful,…",
+      "category": "社会",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T21:50:01.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.",
+        "“Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks for the ceremony. “NASA and the Vietnam National Space Center have built momentum in satellite innovation, land-use research, and radar-based Earth observation. Joining the Artemis Accords opens a new chapter in that relationship. We’ve aligned on the principles. The opportunities are in front of us, and now we can build on that foundation together. We are proud to welcome Vietnam to the Artemis Accords community.”",
+        "Vietnam’s Minister of Science and Technology Vũ Hải Quân signed the Artemis Accords on behalf of the country during the Vietnam International Digital Week in Ha Long. The United States Ambassador to Vietnam Jennifer Wicks also participated in the signing event.",
+        "Vietnam’s decision extends the U. S. -Vietnam Comprehensive Strategic Partnership into a new frontier. Built on more than 30 years of cooperation, the partnership spans defense, economic, law enforcement, war legacy, and technological cooperation, and it advances peace, stability, and prosperity in a free and open Indo-Pacific.",
+        "Earlier this year, NASA partnered with Vietnam’s Vietnamese-German University to support the agency’s Soil Moisture Active Passive mission, which measures surface-soil water worldwide. Vietnam also inaugurated its National Space Center in Hanoi and is developing domestic satellite capabilities through the LOTUSat program, focusing on Earth observation, weather monitoring, and disaster response.",
+        "In 2020, NASA and the State Department joined with seven other founding nations to establish the Artemis Accords, responding to the growing interest in lunar activities by both governments and private companies. They introduced the first set of practical principles aimed at enhancing the safety and coordination between nations as they explore the Moon, Mars, and beyond.",
+        "Signing the Artemis Accords means committing to explore peaceably and transparently, to render aid to those in need, to enable access to scientific data that all of humanity can learn from, to ensure activities do not interfere with those of others, and to preserve historically significant sites and artifacts by developing best practices for space exploration for the benefit of all.",
+        "More countries are expected to sign the Artemis Accords in the months and years ahead, as NASA continues its work to establish a safe, peaceful, and prosperous future in space."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "nasa-news-nasa-welcomes-vietnam-as-newest-artemis-accords-signatory",
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "dek": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful,…",
+      "category": "社会",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T21:50:01.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.",
+        "“Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks for the ceremony. “NASA and the Vietnam National Space Center have built momentum in satellite innovation, land-use research, and radar-based Earth observation. Joining the Artemis Accords opens a new chapter in that relationship. We’ve aligned on the principles. The opportunities are in front of us, and now we can build on that foundation together. We are proud to welcome Vietnam to the Artemis Accords community.”",
+        "Vietnam’s Minister of Science and Technology Vũ Hải Quân signed the Artemis Accords on behalf of the country during the Vietnam International Digital Week in Ha Long. The United States Ambassador to Vietnam Jennifer Wicks also participated in the signing event.",
+        "Vietnam’s decision extends the U. S. -Vietnam Comprehensive Strategic Partnership into a new frontier. Built on more than 30 years of cooperation, the partnership spans defense, economic, law enforcement, war legacy, and technological cooperation, and it advances peace, stability, and prosperity in a free and open Indo-Pacific.",
+        "Earlier this year, NASA partnered with Vietnam’s Vietnamese-German University to support the agency’s Soil Moisture Active Passive mission, which measures surface-soil water worldwide. Vietnam also inaugurated its National Space Center in Hanoi and is developing domestic satellite capabilities through the LOTUSat program, focusing on Earth observation, weather monitoring, and disaster response.",
+        "In 2020, NASA and the State Department joined with seven other founding nations to establish the Artemis Accords, responding to the growing interest in lunar activities by both governments and private companies. They introduced the first set of practical principles aimed at enhancing the safety and coordination between nations as they explore the Moon, Mars, and beyond.",
+        "Signing the Artemis Accords means committing to explore peaceably and transparently, to render aid to those in need, to enable access to scientific data that all of humanity can learn from, to ensure activities do not interfere with those of others, and to preserve historically significant sites and artifacts by developing best practices for space exploration for the benefit of all.",
+        "More countries are expected to sign the Artemis Accords in the months and years ahead, as NASA continues its work to establish a safe, peaceful, and prosperous future in space."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-q-a-decoding-the-cell-a-conversation-with-a-computational-",
+      "title": "Q&A: Decoding the cell—a conversation with a computational biologist",
+      "dek": "Computational biologist Christina Leslie, Ph. D. , has spent nearly two decades at Memorial Sloan Kettering Cancer Center (MSK) building computational tools that help make…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T21:40:06.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-qa-decoding-cell-conversation-biologist.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Computational biologist Christina Leslie, Ph. D. , has spent nearly two decades at Memorial Sloan Kettering Cancer Center (MSK) building computational tools that help make sense of some of the most complex data in biology.",
+        "Today, Leslie's work sits at the crossroads of two technological revolutions. Single-cell genomics is allowing scientists to probe the activation of genes in individual cells, revealing the distinct roles, identities, and behaviors of every cell type in a tissue or tumor. Meanwhile, the rise of artificial intelligence (AI) is making it possible to find meaningful patterns in complex single-cell data sets at a scale far beyond more traditional computational methods.",
+        "Memorial Sloan Kettering Cancer Center sat down with Leslie to discuss the promise—and limitations—of this frontier, and how these advances could help researchers design better therapies, decode why tumors resist treatment, and tailor treatments to each individual and their unique cancer.",
+        "The theme of my lab, which is in MSK's Sloan Kettering Institute, is studying how gene expression is regulated in mammalian cells—including in the immune system and in cancer. We use tools from what used to be called machine learning and is now called artificial intelligence.",
+        "In the past few years, we've been using AI to analyze three increasingly powerful types of biological data.",
+        "AI gives us the computational power to make sense of all three of these complex data types and to find the patterns within them that would otherwise be invisible.",
+        "Single-cell genomics is an increasingly important way that we make new discoveries in biology. Before, we would do what's known as \"bulk\" analysis, which allowed us to look at what was happening in a tissue sample—but with the molecular data from all the cells mixed together. Now, we have ways of barcoding individual cells in a sample so that we can understand how cells play different functional roles in a particular system. And we can discover new cell types and functional specializations.",
+        "Let me give you two examples from recent work done at MSK:",
+        "We collaborated with Dr. Chrysothemis Brown using single-cell approaches to discover a new specialized type of immune cell called Thetis cells, which help explain how the immune system learns to tolerate food and helpful gut bacteria early in life. This work is shedding new light on childhood food allergies.",
+        "We also worked with the lab of Dr. Alexander Rudensky, who heads MSK's Immunology Program, to uncover that there are two distinct types of regulatory T cells at work in colorectal cancer —IL-10 positive and IL-10 negative—which play completely opposite roles in tumor progression. One promotes tumor growth while the other restrains it—which highlights the need to develop therapies that can selectively eliminate the harmful cells while preserving the helpful ones. We wouldn't have been able to differentiate between these two subpopulations of cells without single-cell techniques.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Data sets generated by these technologies are quite large—some single-cell atlases are now 150 million cells—so you need more sophisticated tools to make sense of them.",
+        "The AI community adapted models from natural language processing and computer vision for single-cell data relatively early on. And there's real logic to that—you have a lot of data, you need to find patterns, and these tools are powerful.",
+        "But cells, genomes, and expression profiles are not natural language and they're not images. If you just directly take these models and say, \"OK, we have a bunch of genes, so let's treat them like words\"—that's not quite right. Genes aren't organized in a sentence. There is an underlying structure, which is the structure of gene regulation. When cells receive specific signals from the body, they turn on sets of genes in a coordinated way. And that biology needs to be represented in our models."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-chornobyl-dog-population-shows-genetic-signatures-of-direc",
+      "title": "Chornobyl dog population shows genetic signatures of directional selection",
+      "dek": "The latest research on the wild population of dogs in Chornobyl reveals that the genetic differences between these dogs and other similarly isolated dog populations are…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T21:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-chornobyl-dog-population-genetic-signatures.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "The latest research on the wild population of dogs in Chornobyl reveals that the genetic differences between these dogs and other similarly isolated dog populations are likely evidence of directional selection, not mutation. The work suggests a potential association between genetic selection and environmental variables and could advance understanding of local adaptation and genomic resilience in contaminated environments. The study appears in Genes .",
+        "Previously, researchers had looked at genetic differences in two populations of dogs: one located at the Chornobyl Nuclear Power Plant (NPP) and the other in Chornobyl City, approximately 10 miles (16 kilometers) away. They found that the genetics of Chornobyl City dogs were very similar to dog populations in Russia, Poland and the surrounding areas, whereas those from the NPP had some distinct differences—specifically in regions associated with DNA repair.",
+        "\"This work ties up some of the loose ends from our previous work, where in characterizing the population's genetic structure we found that while these two dog groups are geographically very close, they have a very high degree of genetic difference, and those differences aren't due to mutation,\" said Megan Dillon, a postdoctoral research scholar at North Carolina State University's College of Veterinary Medicine.",
+        "\"With this work we wanted to explore two additional larger-scale evolutionary drivers—are the genetic differences due to selection, or are they due to genetic drift over time in an isolated population?\"",
+        "Through natural selection, genes that increase an individual's environmental fitness become more prevalent in a population over time. Directional selection is a more notable type of natural selection in which an entire population shifts toward a small number of favored traits over time. Directional selection is typically associated with environmental changes.",
+        "Genetic drift refers to random genetic changes not necessarily associated with fitness that nonetheless become common in a population. Genetic drift is more prevalent in small, isolated populations because the likelihood of those random changes being passed down is greater and can result in reduced genome-wide diversity.",
+        "The research team compared the genomic data of the two Chornobyl populations with that of free-breeding dogs from Eastern Europe and with an isolated dog population from the Galápagos Islands, to try and tease out the effects of isolation versus environment on the NPP dogs.",
+        "While the effective population size of the NPP population is small, it didn't differ significantly from that of the Chornobyl City population. The NPP also didn't show evidence of reduced genetic variation consistent with genetic drift.",
+        "Genetically, the NPP population differed significantly from other geographically isolated dog populations, including those from the Galápagos Islands. In contrast, the dog population in Chornobyl City was found to be genetically more similar to dog populations in the Galápagos Islands than to the nearby NPP population.",
+        "Finally, genomic analysis of the NPP dogs identified evidence of directional selection at over 100 locations. The genes located around these loci are associated with cancer development, DNA replication and repair, cell cycle functions and immune function.",
+        "\"While we can't say for certain whether what we've found can be directly confirmed as selection, we do find these genomic signatures suggestive of selection,\" Dillon said. \"When we dig deeper into those genomic regions, we find that these genes are involved in biologically relevant pathways that could allow them to overcome the effects of being exposed to toxicants in this environment.\"",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "\"When we consider the toxic environment around Chornobyl, I can see why most people would think, 'Surely there's got to have been some consequence of living in that environment,'\" said Matthew Breen, Oscar J. Fletcher distinguished professor of comparative oncology genetics at NC State's College of Veterinary Medicine and corresponding author of the study."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-could-next-gen-artificial-intelligence-help-map-out-future",
+      "title": "Could next-gen artificial intelligence help map out future space outposts?",
+      "dek": "Planning a successful trip can be challenging, especially when your destination is in outer space. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T21:30:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-gen-artificial-intelligence-future-space.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Planning a successful trip can be challenging, especially when your destination is in outer space. Even before liftoff, space missions require extraordinary amounts of scientific preparation and data analysis to succeed, which can take years to complete. However, as space agencies race to establish a permanent presence on the moon, using artificial intelligence to combine such information into a single system could make mission planning much more efficient.",
+        "One such system, developed by Gokce Inal, a Ph. D. candidate in civil, environmental and geodetic engineering at The Ohio State University, is an AI framework designed to help scientists evaluate potential lunar landing sites, identify dangerous hazards future crews might face, and scour new regions for scientifically valuable geologic features.",
+        "\"AI systems are going to become critical tools for space exploration that will help humans analyze the millions of images and data sets that future missions will require,\" she said. \"This work is meant to serve as a bridge between those two worlds, AI and planetary science.\"",
+        "Landing on the moon is more difficult today than it ever was, but preliminary results from Inal's model, dubbed \"LUMINA,\" show a strong ability to make complex lunar observations as well as generate scientifically meaningful mission commentary for candidate landing sites. Such capabilities could help mission planners locate areas abundant with water ice and other resources.",
+        "Built on a previously developed lunar vision-language foundation model called LLaVA-LE that could describe lunar terrain and answer scientific questions, LUMINA extends the team's research by using a framework that can plan and carry out multistep analyses, evaluate potential lunar landing sites and explain the evidence behind its recommendations, said Inal.",
+        "While she created LUMINA to advance lunar mission objectives, Inal envisions the AI model not as a semiautonomous machine, but as a decision-support system designed to work in tandem with mission planners to make final judgments. \"Most AI tools are passive tools,\" she said. \"You ask a question and get an answer, but we're moving toward an active scientific assistant that can work through a problem alongside the experts.\"",
+        "Inal presented her findings this month at The 58th Annual Meeting of the Division for Planetary Sciences ( DPS 58 ) of the American Astronomical Society.",
+        "One of this work's main goals is to establish a pathway for agentic systems to be used in support of future space exploration, but LUMINA's capabilities extend beyond only data interpretation for the lunar surface. Instead, the model could have research and exploration applications for mapping the surface of many other planetary bodies, including Earth, said Alper Yilmaz, co-author of the research and a professor in civil, environmental and geodetic engineering at Ohio State.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "\"There aren't many GPT-like map models being developed for space exploration, so our effort is aimed at making one generalizable to other surfaces, like Mars or some asteroids,\" he said.",
+        "As new data sets become more advanced, more efficient tools like this model will be needed to help mission planners search them—otherwise trying to discern the best places for future crews to land or investigate would be like looking for a needle in a haystack, said Yilmaz.",
+        "\"People are going to be landing in an extremely harsh environment, so it's worth having another set of eyes that can verify and question things and help us communicate better,\" he said.",
+        "As the system continues to develop, the team plans to test it on new high-quality lunar data and further evaluate how well it supports mission planning.",
+        "\"NASA's Artemis program creates important opportunities for our research,\" she said. \"As new lunar data becomes available, their results can improve systems like ours and better support future mission planning.\""
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "phys-same-radical-different-paths-x-ray-snapshots-reveal-how-ne",
+      "title": "Same radical, different paths: X-ray snapshots reveal how neighboring molecules shape its movement",
+      "dek": "Chemical reactions have their own \"impatient molecules.\" Unable to stay still even for a moment, they latch onto other molecules indiscriminately. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T21:20:13.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-radical-paths-ray-snapshots-reveal.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Chemical reactions have their own \"impatient molecules.\" Unable to stay still even for a moment, they latch onto other molecules indiscriminately. Researchers have now found that even these molecules change where they \"sit\" and how far they roam depending on who their neighbors are. The findings are expected to help scientists make better medicines and materials by directing reactions only to the desired sites.",
+        "A research team led by Professor Kyung Hwan Kim of the Department of Chemistry at Pohang University of Science and Technology, in collaboration with Professor Seung Jun Hwang's team in the Department of Chemistry at KAIST, captured the first encounters between radicals and neighboring molecules on a timescale of one 10 billionth of a second, or 100 picoseconds.",
+        "The team found that the structure of the neighboring molecule changes where a radical resides and the range over which it moves. The study was published in the Journal of the American Chemical Society .",
+        "Where a single atom attaches can make a substantial difference to a drug's effectiveness or a material's performance, much as where a LEGO brick is placed changes what gets built. This is why \"selectivity\"—directing reactions to the desired sites—is important in developing new drugs and functional materials.",
+        "Radicals are molecules with unpaired electrons. They are useful for forming new bonds, but their high reactivity makes them difficult to control. Researchers have known that changing the environment around a catalyst can alter reaction outcomes. Yet these encounters were too fleeting to observe how neighboring molecules influence where radicals reside and in which directions they move.",
+        "The team focused on the \"first contact,\" when a radical and a neighboring molecule briefly stay close to one another just before a bond forms. They used time-resolved X-ray solution scattering (TR-XSS), a technique that captures molecular motion in a series of snapshots separated by extremely short intervals. Much as a high-speed camera captures a bullet in flight frame by frame, the technique records fleeting molecular moments in successive snapshots.",
+        "At a synchrotron facility of the High Energy Accelerator Research Organization (KEK) in Japan, the team prepared separate solutions of molecular iodine in benzene and mesitylene. Laser pulses split the iodine molecules to generate radicals, and X-rays probed the solutions after controlled time delays. The measurements showed that \"contact complexes,\" in which radicals come into close contact with neighboring molecules, had already formed just 100 picoseconds later.",
+        "The radicals behaved very differently in the two solvents. In benzene, which has a hexagonal ring, the radical occupied positions near the ring's edge and rapidly moved around its perimeter, as if riding a carousel. In mesitylene, where three small side branches called \"methyl groups\" are attached to the benzene ring, the radical instead favored a direction without a side branch and moved only within a narrow range.",
+        "Benzene was like \"open seating,\" where any seat is available, while mesitylene was like \"assigned seating,\" where each seat is fixed. A small difference in the neighboring molecule's structure changed not only the radical's preferred position but also the \"paths\" it could take.",
+        "The study presents a perspective on radical reactions that considers not only how stably a radical is held, but also where it resides and in which directions it moves. By carefully designing the surrounding environment, researchers can guide radicals to desired sites so that only the intended reactions take place.",
+        "The findings are expected to lay the groundwork for synthetic strategies that enable more precise production of effective new drugs and high-performance materials.",
+        "\"The significance of this study is that we moved beyond inferring reaction processes from their final products to directly identifying the structure of a short-lived contact state between a radical and a neighboring molecule,\" said Professor Kim. \"We expect that extending this work to reactants used in practical synthesis will help us design molecular environments that guide desired reactions.\"",
+        "Journal information: Journal of the American Chemical Society",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;"
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "phys-schools-increasingly-affected-by-poor-air-quality-as-wildf",
+      "title": "Schools increasingly affected by poor air quality as wildfire smoke becomes more common",
+      "dek": "American children are increasingly exposed to air pollution as wildfire smoke becomes more common, and some schools and child care centers struggle to keep indoor breathing…",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T21:20:09.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-schools-affected-poor-air-quality.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "American children are increasingly exposed to air pollution as wildfire smoke becomes more common, and some schools and child care centers struggle to keep indoor breathing conditions clean, a new national study shows.",
+        "The researchers note that components of wildfire smoke, including PM 2. 5 , which is fine particulate matter with a diameter of 2. 5 micrometers or smaller, are known health hazards, especially for adolescents and younger children.",
+        "For the study, published in Environmental Research , scientists looked at air quality data from across the United States from 2006 through 2023 and found some alarming trends, said co-author Molly Kile of Oregon State University.",
+        "\"The average number of annual smoke days at public schools rose from 6. 8 to 54. 4 between the beginning and end of the study period,\" said Kile, an environmental epidemiologist in the OSU College of Health. \"Child care centers experienced an increase from 9. 4 to 112. 2 days. Our children are collectively experiencing billions of days of smoky air each year.\"",
+        "Four decades of data from the National Interagency Fire Center show that the number of U. S. wildfires per year has remained relatively stable—generally in the range of 70,000—but the intensity of those fires and the acreage burned have increased.",
+        "And while the western part of the country tends to see more fires and heavier smoke, the issue is a national one, Kile emphasizes.",
+        "\"Yes, there is more severe wildfire smoke in the West, but fine particulate matter travels hundreds and thousands of miles,\" she said. \"And the prevailing wind blows from west to east, so it all goes downwind.\"",
+        "PM 2. 5 can be inhaled deeply into the lungs and even enter the bloodstream, is a known cause of cardiovascular disease and is linked to the onset and worsening of respiratory illness.",
+        "As climate change exacerbates wildfire risk , PM 2. 5 emissions from fires have surged to the point that wildfires now account for almost half of all PM 2. 5 across the United States and have negated air quality improvements in multiple regions.",
+        "\"We are often told to stay indoors when air pollution gets severe but being indoors does not guarantee clean air,\" Kile said, noting that indoor air quality measurements showed substantial variation in how well buildings protected occupants from outdoor fine particulate pollution.",
+        "\"Some schools had higher indoor PM 2. 5 concentrations than nearby outdoor measurements during smoke days,\" she said. \"This is a particularly actionable finding and emphasizes the need for investment in improving indoor air quality in schools through HVAC upgrades, which can be expensive, or portable HEPA filters , which can be a more affordable approach.\"",
+        "Stephanie Foster, the study's corresponding author, notes that because of the amount of time students spend in schools and child care centers, those places are important settings for safeguarding children's health.",
+        "\"We found that the buildings where children spend much of their day do not consistently protect them from air pollution,\" said Foster, scholarly activity program manager in Samaritan Health Services' Research Development Office. \"But educational facilities are places where coordinated preparedness plans, air filtration, indoor air quality monitoring and changes to activities during smoke events could reduce exposure.\"",
+        "Joining Foster and Kile on the study were Andrew Larkin, Megan MacDonald, Megan McClelland and Perry Hystad of the OSU College of Health and Parichehr Salimifard of the OSU College of Engineering."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "scitechdaily-no-batteries-no-plugs-scientists-create-a-tiny-sensor-that",
+      "title": "No Batteries, No Plugs: Scientists Create a Tiny Sensor That Powers Itself",
+      "dek": "Scientists have developed a tiny temperature sensor that harvests energy from magnetic fields near electrical wiring.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T19:01:11.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/no-batteries-no-plugs-scientists-create-a-tiny-sensor-that-powers-itself/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Scientists have developed a tiny temperature sensor that harvests energy from magnetic fields near electrical wiring.",
+        "Electrical wiring produces weak electromagnetic fields that typically go unnoticed, but researchers have found a way to turn some of that energy into a power source for tiny electronic devices. Scientists at the University of Arkansas (U of A) and the University of Michigan have developed a graphene-based energy harvester capable of powering an ultra-low-power temperature sensor without a conventional battery.",
+        "The prototype operates using energy collected from its immediate surroundings, consuming power measured in nanowatts, or billionths of a watt. It represents another advance toward the team’s goal of developing autonomous sensors that could function unattended for decades.",
+        "The technology captures energy from magnetic fields generated by electrical wiring carrying alternating current. In the United States, electricity typically operates at 60 hertz, meaning the current changes direction 60 times each second. The researchers designed their sensor to harvest energy from these low-frequency fields.",
+        "A graphene inductor collects the energy and sends an alternating electrical signal to a custom circuit, which converts it into direct current. That electricity charges capacitors that store energy for the sensor to use. Unlike a battery, a capacitor stores energy in an electric field rather than through chemical reactions.",
+        "“The inductor adds charge to these capacitors at a slow rate,” explained University of Arkansas physics professor Paul Thibado, “but it’s faster than the rate the sensor uses up the charges from the capacitors.”",
+        "Because the sensor consumes energy more slowly than the system replenishes it, the capacitors can maintain an electrical reserve. Thibado estimates that this stored energy could keep the device operating for at least 24 hours during a power outage, potentially extending to a week.",
+        "The new device is the second graphene-powered temperature sensor developed by the research team. Their earlier work demonstrated that graphene-based solar cells could supply enough electricity to operate temperature sensors, establishing another possible source of energy for autonomous electronics.",
+        "Graphene, a material consisting of a single layer of carbon atoms, has electrical properties that make it useful in energy-harvesting technologies. Thibado has investigated these properties for more than a decade and invented the graphene energy harvesters used in the team’s research.",
+        "The researchers ultimately want to combine several methods of collecting environmental energy, including sunlight, heat, sound, motion, and ambient electromagnetic fields. A sensor equipped with multiple harvesting systems could continue operating when one energy source becomes unavailable, reducing its dependence on any single power supply.",
+        "Although temperature measurement provides a practical demonstration, the technology could eventually support sensors used in agriculture, environmental monitoring, medical tracking, wearable electronics, and supply chain management. These applications often require devices to operate in locations where replacing batteries is expensive, inconvenient, or impractical.",
+        "Thibado describes the long-term vision as “set it and forget it,” with sensors designed to operate for extended periods without routine battery replacement. Eliminating disposable batteries could also reduce maintenance demands and electronic waste, although decades of reliable operation have not yet been demonstrated.",
+        "The research was published in the Journal of Vacuum Science and Technology B , with MD Rezaul Kabir, a doctoral candidate in materials science and engineering at the University of Arkansas, serving as first author. The project also involves researchers at the University of Michigan, including electrical engineering and computer science professor David Blaauw, whose work focuses on low-power wireless sensors and embedded systems.",
+        "NTS Innovations, a nanotechnology company, holds the exclusive license to commercialize the graphene energy-harvesting technology. The company has supported patent development, business planning, and efforts to identify potential customers and commercial partners."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "nasa-artemis-iii-sls-core-stage-joins-boosters-at-kennedy",
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "dek": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T18:59:44.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida.",
+        "Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed to place the stage onto the mobile launcher. Once testing and checkouts are complete, teams will roll the core stage and booster stack out to Launch Pad 39B to conduct a tanking test where liquid hydrogen and liquid oxygen fuel will be loaded only into the core stage and launch teams will practice countdown procedures and timelines.",
+        "The Artemis III mission will launch NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano in the Orion spacecraft on top of the SLS rocket to test rendezvous and docking capabilities between Orion and commercial spacecraft from Blue Origin and SpaceX ahead of future mission to land astronauts on the Moon."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "nasa-news-artemis-iii-sls-core-stage-joins-boosters-at-kennedy",
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "dek": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T18:59:44.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida.",
+        "Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed to place the stage onto the mobile launcher. Once testing and checkouts are complete, teams will roll the core stage and booster stack out to Launch Pad 39B to conduct a tanking test where liquid hydrogen and liquid oxygen fuel will be loaded only into the core stage and launch teams will practice countdown procedures and timelines.",
+        "The Artemis III mission will launch NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano in the Orion spacecraft on top of the SLS rocket to test rendezvous and docking capabilities between Orion and commercial spacecraft from Blue Origin and SpaceX ahead of future mission to land astronauts on the Moon."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "conversation-3-major-issues-that-republican-byron-donalds-or-democrat-d",
+      "title": "3 major issues that Republican Byron Donalds or Democrat David Jolly will need to address as Florida’s next governor",
+      "dek": "After nearly three decades of Republican control of Florida, the executive office of the governor has become more powerful than ever before.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T18:40:18.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/3-major-issues-that-republican-byron-donalds-or-democrat-david-jolly-will-need-to-address-as-floridas-next-governor-293784"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "After nearly three decades of Republican control of Florida, the executive office of the governor has become more powerful than ever before.",
+        "So when Florida voters choose between Republican Byron Donalds and Democrat David Jolly for governor on Nov. 3, the winner will be poised to shape the state’s direction for years to come.",
+        "I’m a political scientist who has lived in Florida for almost two decades and seen the powers of the governor’s office grow. I’ve been watching how the two candidates say they will use their authority to shape policy around healthcare, education and home rule – and what help they might need from the Legislature.",
+        "One of the first choices awaiting the new governor will be whom to appoint as Florida surgeon general, a position created in 2007 . The surgeon general oversees the Florida Department of Health and county health departments across the state.",
+        "The position comes with the power to declare public health emergencies , forcibly quarantine people and set vaccine mandates for illnesses such as chickenpox that fall outside the state Legislature’s framework of seven childhood vaccine mandates .",
+        "As part of his conservative remake of Florida policies , Gov. Ron DeSantis appointed the current surgeon general, Dr. Joseph Ladapo , to the position in 2021. During the COVID-19 pandemic, Ladapo emerged as a leading medical freedom advocate and vaccine skeptic.",
+        "Ladapo opposes all vaccine mandates . At the height of the COVID-19 pandemic, he recommended against COVID-19 vaccinations for healthy children and ended quarantine mandates for Florida public schoolchildren exposed to COVID-19. He also said that he wanted mRNA vaccines “not to be available to anyone” in the state.",
+        "Ladapo also proposed new Florida health rules in October 2026 to drop mandates for four vaccines required for school attendance, including chickenpox and hepatitis B. Currently, the state allows exemptions only for approved religious or medical reasons.",
+        "The Florida Chapter of the American Academy of Pediatrics opposes the rule change on public health grounds.",
+        "Donalds has long opposed vaccine mandates and says that he did not personally receive a COVID-19 vaccine . He supports Ladapo’s proposed rule change to reduce school vaccination mandates and says he is open to reappointing Ladapo as surgeon general.",
+        "Jolly, on the other hand, supports Florida’s current school vaccine mandates and exemptions . He says he would fire Ladapo on Day 1 in favor of someone who “ embraces science and evidence-based public health .”",
+        "No matter which candidate is elected governor, the Florida Legislature has tied his hands on how far he can push vaccine policy. The Legislature has mandated measles and polio vaccines for all K-12 public school students, so getting rid of that requirement would require a change in the law. It also stripped the surgeon general of the power to enforce vaccine mandates during public health emergencies in November 2021, during the pandemic.",
+        "One of the biggest developments in Florida K-12 education in recent years has been the creation of a system of universal vouchers by DeSantis and the Legislature in 2023. This program allows parents of any income level to use US$8,000 in state money on average, based on county of residence , for their children’s private or homeschooling education.",
+        "The universal voucher program has created intense pressure on the state budget. It cost an estimated $4. 5 billion in fiscal year 2026 . State auditors have identified accountability problems in tracking funds through the system. Public schools have faced declining enrollment , with fewer resources to serve the neediest students they cannot turn away.",
+        "Donalds strongly supports the universal voucher program, recounting how his family saved money for him to attend a private high school . Donalds has touted universal vouchers in Christian nationalist circles and expressed an interest in making Florida “ the model state for school choice ” by allowing parents to choose among private educational providers competing in the marketplace .",
+        "His wife, Erika Donalds, is a former Collier County school board member who operates a network of for-profit charter schools and advocates nationally for school choice .",
+        "The only change Donalds has proposed is a universal scorecard for the voucher program so that parents can compare educational data on student performance across different types of schools. Currently, only public schools must provide this data.",
+        "Jolly also supports the universal voucher program but wants significant changes. Jolly personally sends his own two children to private, faith-based schools with the support of vouchers . He says private schools that accept vouchers should meet the same standards and requirements as public schools , including the mandate to serve students with disabilities. He also wants to limit private school tuition to the value of the voucher and reinstate benefit eligibility based on financial need .",
+        "Campaign promises aside, neither candidate can do much to affect the universal voucher program, because it was created by the Legislature.",
+        "Democrat Jolly knows he would need the Legislature’s cooperation to advance reforms and claims that he has identified Republican allies to do so. Donalds would likely face a friendly Republican majority for his more modest proposed reforms.",
+        "The next Florida governor will also be able to influence state education policy by appointing the seven members of the Board of Education and then recommending a candidate for commissioner of education for that board to elect. The commissioner and state board oversee the Florida Department of Education and programs from kindergarten through postsecondary education.",
+        "The position of commissioner used to be elected, but in 2002 voters approved a constitutional amendment creating the current system, which gives more power to the governor.",
+        "The next governor’s appointees to the Board of Education could try to shape the effects of universal vouchers more indirectly. The board could approve an annual legislative budget request with new recommended funding levels for public education to make up for shortfalls due to revenue loss from vouchers.",
+        "They could also implement new eligibility rules for private school vouchers, as the DeSantis administration has done ."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "scitechdaily-experts-spent-decades-searching-for-the-secret-to-happines",
+      "title": "Experts Spent Decades Searching for the Secret to Happiness. Here’s What They Found",
+      "dek": "Some of the world’s leading happiness researchers have changed how they live because of what they have discovered. ",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T18:26:14.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/experts-spent-decades-searching-for-the-secret-to-happiness-heres-what-they-found/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Some of the world’s leading happiness researchers have changed how they live because of what they have discovered. After decades of studying well-being, several have made a conscious effort to spend more time with family and friends, reflecting one of the strongest findings in happiness science.",
+        "Their insights come from a discussion involving 13 international experts with a combined 600 years of research experience. The conversation, which explored both scientific evidence and personal experience, led to a new paper published in the Journal of Happiness Studies .",
+        "“Happiness emerges from a symphony of factors, but if I had to pinpoint one secret to happiness, relationships with other people might be it,” says Lara Aknin, a professor of social psychology at Simon Fraser University.",
+        "Aknin coauthored the paper with Harvard University’s Säde Stenlund and Kelsey O’Connor, a senior researcher at Luxembourg’s National Institute of Statistics and Economic Studies. She emphasizes that social connections are among the most consistently supported findings in happiness research.",
+        "“Having relationships is one of the most reliable predictors of happiness that has emerged from a robust body of evidence spanning the social sciences,” says Aknin.",
+        "“We know that having just one person you can count on is extremely consequential. Having more relationships and more communities that you feel a part of compounds that sense of well-being.”",
+        "Although genetics and life circumstances influence happiness, researchers emphasize that well-being is not necessarily fixed. People who generally consider themselves happy still experience setbacks, stress, and negative emotions. Their overall well-being can depend partly on how they respond to challenges and the activities they choose to pursue.",
+        "Some influential models of happiness have estimated that life circumstances, including where someone lives, employment, age, and relationship status, account for roughly 10% of happiness, while voluntary activities may contribute as much as 40%. These figures are model-based estimates rather than fixed proportions that apply to everyone, but they highlight the potential role of personal behavior.",
+        "“That leaves a lot of opportunity for people who may be more innately pessimistic to start practising research-backed strategies like meditation or gratitude that might help them see the world in a more positive way,” she says.",
+        "The scientific study of well-being has expanded considerably since the 1970s, when the modern field began taking shape. What was once a relatively small area of research now encompasses numerous approaches to understanding happiness, life satisfaction, social relationships, and psychological health.",
+        "Aknin, who also coedits the annual World Happiness Report , says this expansion has brought challenges. As researchers pursue increasingly specialized questions, some early leaders worry that the field has become fragmented. Despite these differences, the scientists who participated in the discussion shared a commitment to rigorous research that can be translated into practical ways to improve people’s lives.",
+        "The researchers also considered how personal well-being affects people’s willingness and ability to support others. Studies have linked happiness with positive outcomes beyond individual life satisfaction, including greater motivation to help other people.",
+        "“With many large and threatening realities taking place in the world right now, I sometimes worry that the pursuit of happiness can seem trite. But one reason I remain committed to the scientific study of happiness is that happiness in and of itself predicts a number of valuable outcomes, including the motivation to help other people,” she explains.",
+        "“When people feel they are doing well, they have the ability, the capability, and the motivation to engage in world affairs—to take care of the people they love and take care of their communities.”"
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "nasa-nasa-university-challenge-ignites-trajectory-of-drone-entr",
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "dek": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. ",
+      "category": "校园",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T18:00:28.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge.",
+        "Although Gardner was used to leading fellow students in a lab setting, he and his team were completely new to things like creating budgets, handling large sums of money, and promoting their work for crowdfunding.",
+        "That’s why demonstrating both engineering and entrepreneurship skills are major tentpoles of NASA’s University Student Research Challenge (USRC), an initiative that provides grants to teams of college students interested in helping the agency realize its aeronautical research goals.",
+        "“Half the battle is building your product,” Gardner said recently. “The other half is selling the product in a way that everyone else can understand what you’re doing and not talking in nerdy, engineering ways.”",
+        "Gardner and his Michigan State USRC alumni teammates are still using those lessons today, as aerospace developers. In 2024, they founded their own company, AG3 Labs, which specializes in drones for military training exercises.",
+        "“I don’t think I would discredit our technical expertise in getting us to where we are today, but I know that USRC was a booster that really amplified our trajectory at such a young age,” Gardner said.",
+        "NASA USRC manager Steven Holz said Gardner’s experience shows what students can accomplish when they receive both a grant and guidance – enabling a future workforce and contributing to the aviation industry.",
+        "“We are proud to see the success of USRC alumni,” Holz said. “We hope that every team that participates in the program sees, like Gavin, how they can grow technically, entrepreneurially, and use the opportunity as a launchpad for their own innovative careers.”",
+        "Gardner’s path to running his own company began with a middle school age trip to Space Camp, where he began realizing that he wanted to be an engineer.",
+        "The engineering bug also bit his brother, Gryson Gardner, and the two of them would often be found in their Michigan garage tinkering with various machinery, including drones and electronic kits.",
+        "When Gardner arrived at Michigan State, he looked for extracurricular groups and found one dedicated to the increasingly popular hobby of drones. He gained hands-on, practical experience in how drones are made and operated.",
+        "In 2021, Gardner received an email from a friend who told him they had just won a USRC grant from NASA for an activity called Aerial Intra-city Delivery Electric Drones (AIDED), and they needed help building a new drone.",
+        "“We had this idea that instead of flying through the whole city, why can’t a drone just hitchhike a ride on a city bus like everyone else does?” Gardner said.",
+        "The concept was for a cargo-carrying drone to take off, dock on top of public transportation such as a bus, charge its batteries while riding along, and then take off for its final leg of the delivery. The team built and flew a full-scale drone to prove the concept but decided against pursuing a commercial venture."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "nasa-news-nasa-university-challenge-ignites-trajectory-of-drone-entr",
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "dek": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. ",
+      "category": "校园",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T18:00:28.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge.",
+        "Although Gardner was used to leading fellow students in a lab setting, he and his team were completely new to things like creating budgets, handling large sums of money, and promoting their work for crowdfunding.",
+        "That’s why demonstrating both engineering and entrepreneurship skills are major tentpoles of NASA’s University Student Research Challenge (USRC), an initiative that provides grants to teams of college students interested in helping the agency realize its aeronautical research goals.",
+        "“Half the battle is building your product,” Gardner said recently. “The other half is selling the product in a way that everyone else can understand what you’re doing and not talking in nerdy, engineering ways.”",
+        "Gardner and his Michigan State USRC alumni teammates are still using those lessons today, as aerospace developers. In 2024, they founded their own company, AG3 Labs, which specializes in drones for military training exercises.",
+        "“I don’t think I would discredit our technical expertise in getting us to where we are today, but I know that USRC was a booster that really amplified our trajectory at such a young age,” Gardner said.",
+        "NASA USRC manager Steven Holz said Gardner’s experience shows what students can accomplish when they receive both a grant and guidance – enabling a future workforce and contributing to the aviation industry.",
+        "“We are proud to see the success of USRC alumni,” Holz said. “We hope that every team that participates in the program sees, like Gavin, how they can grow technically, entrepreneurially, and use the opportunity as a launchpad for their own innovative careers.”",
+        "Gardner’s path to running his own company began with a middle school age trip to Space Camp, where he began realizing that he wanted to be an engineer.",
+        "The engineering bug also bit his brother, Gryson Gardner, and the two of them would often be found in their Michigan garage tinkering with various machinery, including drones and electronic kits.",
+        "When Gardner arrived at Michigan State, he looked for extracurricular groups and found one dedicated to the increasingly popular hobby of drones. He gained hands-on, practical experience in how drones are made and operated.",
+        "In 2021, Gardner received an email from a friend who told him they had just won a USRC grant from NASA for an activity called Aerial Intra-city Delivery Electric Drones (AIDED), and they needed help building a new drone.",
+        "“We had this idea that instead of flying through the whole city, why can’t a drone just hitchhike a ride on a city bus like everyone else does?” Gardner said.",
+        "The concept was for a cargo-carrying drone to take off, dock on top of public transportation such as a bus, charge its batteries while riding along, and then take off for its final leg of the delivery. The team built and flew a full-scale drone to prove the concept but decided against pursuing a commercial venture."
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "nasa-nasa-selects-19-new-citizen-science-proposals-in-2026",
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "dek": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T16:25:29.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs , celestial objects that are similar to planets. The Zooniverse platform, with grant from NASA, reached a milestone of 1 billion classifications. Several projects have come online that leverage new super intelligence (SI) techniques to amplify or extend the work of volunteers. More NASA volunteers are using SI to build their own data tools and help write scientific papers than ever before.",
+        "Even with all of those achievements, our science community is already working on the next round of new volunteer projects and innovations. NASA’s Science Mission Directorate has selected nineteen proposals from research teams in 2026 that will result in new opportunities for you to do NASA science.",
+        "The Citizen Science Seed Funding Program (CSSFP-25) of NASA’s Science Mission Directorate aims to support scientists and other experts to develop citizen science projects and expand the pool of professional scientists who use citizen science techniques in their science investigations. Twelve new proposals to this program were selected.",
+        "“The Rogue Worlds Project: Activating volunteers to uncover the hidden population of super Jupiters with SPHEREx” led by Principal Investigator Jacqueline Faherty from the American Museum of Natural History. This project will invite you to search data from NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) mission to find free-floating planets and brown dwarfs in clusters of young stars. The SPHEREx space observatory mapping the entire sky in near-infrared wavelengths.",
+        "“ Quantifying the calibrations between intrinsic galaxy merger timescales with visual pair/tidal-feature classifications” led by Principal Investigator Kameswara Bharadwaj Mantha of the University of Missouri. This project will investigate galaxy mergers, helping astronomers understand how galaxies evolve through time. You will be invited to classify realistic mock images of galaxies to help probe the statistics and dynamical evolution of galaxy mergers.",
+        "“ Overlap Zoo; cosmic light tables for galaxy transparency” led by Principal Investigator Benne Holwerda of the University of Louisville. Galaxies, which glow with the light of the billions of stars they contain, also contain dust. This dust is easiest to see and quantify when it overlaps, or is backlit by, another galaxy. Help spot and characterize these rare overlapping galaxy pairs to help reveal how much dust they contain. Overlap Zoo is live! Follow this link to learn more and join the project.",
+        "“ Planet Hunters Roman: Extending Citizen Science to Planetary Microlensing” led by Principal Investigator Bernard Gaudi of the Ohio State University. Exoplanets are planets orbiting stars other than our Sun. Their gravity can bend the light that travels around them. This project will invite you to spot exoplanets in data from NASA’s new Nancy Grace Roman Space Telescope data by the way they bend starlight.",
+        "“Space Weather UnderGround: Deploying a low-cost Magnetometer Array with Citizens for Heliophysics Research” led by Principal Investigator Hyunju Connor at NASA’s Goddard Space Flight Center. Along with sunshine, our Sun produces the solar wind, an unrelenting flow of charged particles. Earth’s protective magnetic field shield deflects most of these particles, but not all, and not during extreme events. Help scientists monitor the subtle disturbances of Earth’s magnetosphere by the solar wind by setting up and monitoring your own magnetometer in Alaska.",
+        "“A Citizen Science Initiative for Sonified Plasma Wave Characterization” led by Principal Investigator Lauren Blum of the University Of Colorado, Boulder. “Plasma” is the name given to the ionized gases at the edge of Earth’s magnetosphere. Solar wind, the rain of charged particles that flows out from the Sun, can interact with and generate waves in the plasma. This project will turn data from this dynamic zone into sound signals. You will be invited to listen in to identify waves in the Earth’s magnetosphere."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "nasa-news-nasa-selects-19-new-citizen-science-proposals-in-2026",
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "dek": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T16:25:29.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs , celestial objects that are similar to planets. The Zooniverse platform, with grant from NASA, reached a milestone of 1 billion classifications. Several projects have come online that leverage new super intelligence (SI) techniques to amplify or extend the work of volunteers. More NASA volunteers are using SI to build their own data tools and help write scientific papers than ever before.",
+        "Even with all of those achievements, our science community is already working on the next round of new volunteer projects and innovations. NASA’s Science Mission Directorate has selected nineteen proposals from research teams in 2026 that will result in new opportunities for you to do NASA science.",
+        "The Citizen Science Seed Funding Program (CSSFP-25) of NASA’s Science Mission Directorate aims to support scientists and other experts to develop citizen science projects and expand the pool of professional scientists who use citizen science techniques in their science investigations. Twelve new proposals to this program were selected.",
+        "“The Rogue Worlds Project: Activating volunteers to uncover the hidden population of super Jupiters with SPHEREx” led by Principal Investigator Jacqueline Faherty from the American Museum of Natural History. This project will invite you to search data from NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) mission to find free-floating planets and brown dwarfs in clusters of young stars. The SPHEREx space observatory mapping the entire sky in near-infrared wavelengths.",
+        "“ Quantifying the calibrations between intrinsic galaxy merger timescales with visual pair/tidal-feature classifications” led by Principal Investigator Kameswara Bharadwaj Mantha of the University of Missouri. This project will investigate galaxy mergers, helping astronomers understand how galaxies evolve through time. You will be invited to classify realistic mock images of galaxies to help probe the statistics and dynamical evolution of galaxy mergers.",
+        "“ Overlap Zoo; cosmic light tables for galaxy transparency” led by Principal Investigator Benne Holwerda of the University of Louisville. Galaxies, which glow with the light of the billions of stars they contain, also contain dust. This dust is easiest to see and quantify when it overlaps, or is backlit by, another galaxy. Help spot and characterize these rare overlapping galaxy pairs to help reveal how much dust they contain. Overlap Zoo is live! Follow this link to learn more and join the project.",
+        "“ Planet Hunters Roman: Extending Citizen Science to Planetary Microlensing” led by Principal Investigator Bernard Gaudi of the Ohio State University. Exoplanets are planets orbiting stars other than our Sun. Their gravity can bend the light that travels around them. This project will invite you to spot exoplanets in data from NASA’s new Nancy Grace Roman Space Telescope data by the way they bend starlight.",
+        "“Space Weather UnderGround: Deploying a low-cost Magnetometer Array with Citizens for Heliophysics Research” led by Principal Investigator Hyunju Connor at NASA’s Goddard Space Flight Center. Along with sunshine, our Sun produces the solar wind, an unrelenting flow of charged particles. Earth’s protective magnetic field shield deflects most of these particles, but not all, and not during extreme events. Help scientists monitor the subtle disturbances of Earth’s magnetosphere by the solar wind by setting up and monitoring your own magnetometer in Alaska.",
+        "“A Citizen Science Initiative for Sonified Plasma Wave Characterization” led by Principal Investigator Lauren Blum of the University Of Colorado, Boulder. “Plasma” is the name given to the ionized gases at the edge of Earth’s magnetosphere. Solar wind, the rain of charged particles that flows out from the Sun, can interact with and generate waves in the plasma. This project will turn data from this dynamic zone into sound signals. You will be invited to listen in to identify waves in the Earth’s magnetosphere."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "scitechdaily-scientists-discover-a-hidden-weakness-in-cancer-cells-that",
+      "title": "Scientists Discover a Hidden Weakness in Cancer Cells That Could Transform Treatment",
+      "dek": "A new study reveals a previously overlooked weakness in certain cancer cells that could help researchers refine targeted treatments and reduce harmful side effects.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T15:14:30.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-a-hidden-weakness-in-cancer-cells-that-could-transform-treatment/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A new study reveals a previously overlooked weakness in certain cancer cells that could help researchers refine targeted treatments and reduce harmful side effects.",
+        "Cancer cells that have lost one safeguard against DNA damage can become dependent on another, an enzyme called Wee1. Drugs that block Wee1 aim to exploit that weakness, but serious side effects are disrupting clinical trials and threatening their adoption in the clinic.",
+        "One of the cell’s main safeguards is the tumor-suppressor protein p53, which can halt the cell cycle when DNA damage is detected. In around half of all cancers, p53 is inactive, allowing damaged cells to continue growing. Wee1 provides a second line of defense, acting as a backup brake that prevents cells with damaged DNA from entering cell division. Cancers with mutated p53 rely on this remaining safeguard, making Wee1 an attractive drug target.",
+        "A study published in Nature has now revealed that Wee1 also helps healthy cells begin copying their DNA, much earlier in the cell cycle. Researchers from the MRC Laboratory of Medical Sciences (LMS), the University of Oxford, and UCL found that this role involves a protein degradation complex, a group of proteins that breaks down molecules needed for DNA replication. Wee1 helps switch off the complex so replication can begin. Without Wee1, the complex remains active, delaying or preventing cells from progressing through the cell cycle.",
+        "“We think what’s happening in patients is that when they’re being treated with these Wee1 inhibitors, it’s stopping their normal fast proliferating cells, like you get in the colon and the blood system, from starting to replicate,” says Alexis, head of the Cell Cycle Control group at the LMS. “And so those cells are stuck, unable to generate new cells, and that could be causing some of the toxic side effects.”",
+        "The discovery grew out of an effort to test the established understanding of Wee1’s activity early in the cell cycle. The team built a mathematical model based on the scientific literature to predict what would happen when the enzyme was inhibited.",
+        "“Wee1 has been very intensely studied in the later stages of the cell cycle, where targeting its activity for cancer treatment makes sense,” says Alexis. “However, the side effects of Wee1 inhibitors in patients were hard to explain based on these functions so we started to wonder if this Wee1 enzyme had some other function that we hadn’t appreciated that could explain these. We wanted to look earlier in the cell cycle to see if there was something we had missed.”",
+        "The researchers then tested the model’s predictions in healthy and cancerous cells. Alexis says, “We quickly found out that the model we had based on the literature on Wee1 was wrong because that was not what we saw in cells. What had been missed was an early function of Wee1 that people hadn’t looked at.”",
+        "If the side effects are linked to Wee1’s role in controlling the protein degradation complex, the findings could help identify patients most likely to benefit from treatment. The researchers suggest that cancers with reduced activity of this complex may be particularly susceptible to Wee1 inhibitors. That could create a therapeutic window in which lower doses kill cancer cells while limiting damage to healthy cells and reducing side effects.",
+        "“We’re also starting to think about if there are different ways we could inhibit Wee1 that get round this early cell cycle function,” says Alexis, “though how this might be achieved is a work in progress.”",
+        "The researchers now want to test the work’s predictions further in preclinical models and in patients currently enrolled in Wee1 inhibitor clinical trials. Those tests could help determine whether the newly identified function explains the toxic effects and how that understanding might guide safer treatment.",
+        "“Now we’ve uncovered this new function for Wee1, are there other functions that we haven’t appreciated? What else is it doing that we have not seen since we’ve not looked at the right stage?” asks Alexis.",
+        "This study was funded by the Medical Research Council and Cancer Research UK.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "scitechdaily-obesity-could-disable-a-key-defense-against-breast-cancer-",
+      "title": "Obesity Could Disable a Key Defense Against Breast Cancer, Study Finds",
+      "dek": "A hopeful new direction in the fight against breast cancer may lie in the body’s own defenses, as mouse experiments suggest that protection weakened by obesity could be restored.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T14:39:21.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/obesity-could-disable-a-key-defense-against-breast-cancer-study-finds/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A hopeful new direction in the fight against breast cancer may lie in the body’s own defenses, as mouse experiments suggest that protection weakened by obesity could be restored.",
+        "Breast cancer develops in tissue surrounded by fat cells, and those cells may play a greater role in controlling tumor growth than previously understood. Researchers have discovered that fat cells in lean breast tissue produce a molecule that helps destroy cancerous cells. In obesity, production of this protective molecule drops, potentially removing one of the body’s natural defenses against breast cancer.",
+        "The finding comes from researchers at Huntsman Cancer Institute at the University of Utah (the U), who identified a previously underappreciated way obesity may contribute to breast cancer. Rather than simply creating conditions that encourage cancer growth, obesity may also weaken a biological process that normally helps eliminate dangerous cells.",
+        "The research was led by Keren Hilgendorf, PhD, a Huntsman Cancer Institute investigator and assistant professor of biochemistry at the U, and first author Meghan Curtin, a doctoral candidate in molecular biology at the university. Their findings were published in the journal Science .",
+        "Much of the breast consists of fat cells called adipocytes. These cells become larger with obesity, changing the surrounding tissue environment in ways that can affect cancer cells. By studying preclinical models, including breast tissue from donors, the researchers identified a key difference between lean and obese adipocytes involving a fatty acid known as 9S-HODE.",
+        "Lean adipocytes produced substantially more 9S-HODE than obese adipocytes. This molecule helps promote ferroptosis, a form of cell death involving iron-dependent damage to cellular fats. Ferroptosis is one of the processes through which the body can eliminate old or damaged cells, including those that could become cancerous.",
+        "“We found that the lean adipocytes produce much more 9S-HODE than obese ones. This means that cancerous cells die more readily in lean tissue,” says Curtin. “By producing more 9S-HODE, our bodies are actively protecting us, under lean circumstances, in a way it cannot with obesity.”",
+        "The researchers also tested whether restoring this molecule could change tumor growth. In preclinical mouse models, increasing 9S-HODE levels in obese adipocytes suppressed breast cancer tumor growth. This suggests that the reduced production of 9S-HODE associated with obesity may contribute directly to the loss of a protective mechanism.",
+        "For Hilgendorf, the results offer a different way to understand the relationship between obesity and cancer.",
+        "“We uncovered the role of a molecule that normally appears in lean tissue that restrains breast cancer growth but is less present with obesity,” says Hilgendorf. “We know obesity is often a driver of breast cancer, and researchers in our field usually consider how obesity is promoting the disease. But we hadn’t really considered that obesity could also be the loss of something that naturally protects us.”",
+        "That distinction could have implications for treatment. If 9S-HODE helps limit tumor growth, researchers may eventually be able to develop therapies that restore its protective activity. The mouse experiments provide early evidence supporting this possibility, although further research is needed to determine whether the approach could work in patients.",
+        "“From a clinical perspective, this discovery is incredibly empowering. Because 9S-HODE is naturally present in the body but is lost with obesity, we may be able to restore this protection by putting it back,” says Hilgendorf. “That could become a very feasible therapeutic approach to slow breast cancer growth.”",
+        "The researchers emphasize that obesity is only one of several factors contributing to breast cancer, which can also develop for unrelated reasons. Their findings suggest that 9S-HODE is produced primarily by fat cells in the breast, although fat cells elsewhere in the body may provide similar protection. Whether this mechanism operates in other tissues remains an open question.",
+        "“We believe this shift in the understanding of the roles of lean and obese adipocytes is the start of something. This is just one discovery, and it’s not the end of the road,” says Curtin. “This opened our eyes to new ways to think about science, and hopefully we can harness what our bodies are already doing to make progress against this disease.”"
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "scitechdaily-ultra-processed-foods-may-be-changing-how-childrens-brains",
+      "title": "Ultra-Processed Foods May Be Changing How Children’s Brains Respond to Food",
+      "dek": "A yearlong study of 46 children suggests that brain responses to tempting food images may partly explain the link between ultra-processed diets and increasing body fat.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T14:04:23.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/ultra-processed-foods-may-be-changing-how-childrens-brains-respond-to-food/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A yearlong study of 46 children suggests that brain responses to tempting food images may partly explain the link between ultra-processed diets and increasing body fat.",
+        "Ultra-processed foods account for about 67% of the daily calories consumed by children in the United States. Although these products have been linked to weight gain and other health problems, scientists are still trying to understand how they may interact with the developing brain. New research suggests that children who eat more ultra-processed foods show stronger brain responses to appetizing food images, and those responses are associated with increases in body fat one year later.",
+        "Ultra-processed foods (UPFs) include products such as certain breakfast cereals, packaged breads, and instant soups. They are manufactured to be appealing, convenient, and shelf-stable, often containing artificial sweeteners, colors, and other ingredients not typically used in home cooking. Previous studies have linked UPF consumption to weight gain, type 2 diabetes, and cardiovascular disease, but the role of the brain’s reward system in these associations remains unclear.",
+        "Childhood may be an especially important time to investigate this relationship because the brain is still developing and food preferences are taking shape.",
+        "“Children’s brains are still developing, habits are still forming, and food preferences are still being made. It’s an important period where the brain is very sensitive to food and the food environment,” said study senior author Kathleen A. Page, MD, professor of medicine and pediatrics and co-chief of the Division of Endocrinology and Diabetes at the Keck School of Medicine of USC. “We’re particularly interested in understanding these processes in children, because we believe that intervening early could make a real difference.”",
+        "To explore how UPF consumption relates to brain activity and weight gain, researchers studied 46 children between the ages of seven and 10 who were enrolled in the long-term BrainChild study , which investigates diabetes and obesity risk. All participants began at a healthy weight, allowing the team to examine potential early signs of increased risk.",
+        "At the beginning of the study, researchers used magnetic resonance imaging (MRI) to monitor the children’s brain activity while they viewed pictures of appealing foods, including cookies and French fries. The team also collected information about each child’s diet, body mass index (BMI), body fat percentage, and waist circumference. BMI is a measurement based on height and weight. One year later, researchers measured BMI, body fat percentage, and waist circumference again.",
+        "The brain scans revealed that children who consumed more UPFs had stronger responses to food pictures in the dorsal striatum, a brain region involved in reward and motivation. Children with stronger responses in this region also tended to experience greater increases in BMI and body fat percentage over the following year.",
+        "By the end of the study, children who had consumed more UPFs also had higher BMI, body fat percentage, and waist circumference. The researchers then examined whether differences in brain activity could help explain these relationships.",
+        "When they statistically accounted for how strongly each child’s dorsal striatum responded to food images, the association between UPF consumption and BMI weakened by 31%. The association with body fat percentage weakened by 44%. These findings suggest that the brain’s sensitivity to appealing food cues may help explain part of the relationship between UPF consumption and changes in body composition.",
+        "“This study goes beyond just understanding that UPFs affect weight gain,” Page said. “It actually gives us insight into the neurobiological underpinnings by which these foods may be linked to body composition over time.”",
+        "The findings, published in JAMA Network Open , provide evidence of a possible connection between diet, reward-related brain activity, and subsequent changes in body fat. The research was funded in part by the National Institutes of Health.",
+        "However, because the study was observational, it cannot establish that eating UPFs directly changes brain activity or causes weight gain. The results also do not determine whether stronger brain responses lead children to consume more UPFs or whether their diets influence how the brain responds to food.",
+        "To investigate cause and effect, Page hopes to conduct an intervention study in which children who regularly consume UPFs are provided with more minimally processed foods. Researchers could then examine whether changing their diets alters their brain responses to food images over time and whether those changes are associated with less weight gain."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "conversation-1-in-4-pennsylvanians-say-they-paid-out-of-pocket-for-thei",
+      "title": "1 in 4 Pennsylvanians say they paid out of pocket for their annual checkup. Why isn’t insurance covering these preventive visits?",
+      "dek": "I was teaching health economics when a student raised his hand. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T12:26:11.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/1-in-4-pennsylvanians-say-they-paid-out-of-pocket-for-their-annual-checkup-why-isnt-insurance-covering-these-preventive-visits-293410"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "I was teaching health economics when a student raised his hand. We were discussing the Affordable Care Act , or ACA, which requires most health plans to cover certain recommended preventive services at no additional cost to patients. I explained that preventive care could cost nothing.",
+        "The student had expected that, too. Instead, he said, he received a bill for more than US$500 after his checkup. He was so frustrated that he said he would never go back for another annual checkup. I suggested he contact his insurer to find out why he had been charged and whether his visit had been billed as preventive care.",
+        "Then another student spoke up. Her husband had paid several hundred dollars for what he thought would be a free checkup too.",
+        "The very next day, I received a $78 bill for my own Pap smear. I expected my insurance to cover this cervical cancer screening without cost-sharing because it is among the preventive services recommended by the U. S. Preventive Services Task Force and generally covered under the ACA.",
+        "When I called my insurer, I learned that the visit had been billed as a regular outpatient office visit, with no mention of the Pap smear. I then called my primary care provider’s office. The clinic acknowledged a coding error and corrected it. My bill dropped to zero.",
+        "As an assistant professor of health policy and addiction studies at Penn State Harrisburg, I know whom to call and what questions to ask when I receive an unexpected medical bill. Many of my graduate students worked full time and took evening classes. Would they know how to dispute a bill, or have time?",
+        "Those experiences led me to investigate how often patients pay out of pocket for annual checkups. I teamed up with fellow researchers Erin Duffy and Max Crowley to examine this question. In our analysis of a Pennsylvania survey, nearly 1 in 4 insured respondents reported paying for their most recent checkup.",
+        "Many health care services covered by insurance are subject to copayments or deductibles . A copayment is a fixed amount patients pay for a covered service, while a deductible is the amount they generally must pay for covered care before insurance starts paying.",
+        "The ACA, however, requires most health plans to cover certain recommended preventive services , including screenings for high blood pressure and certain cancers, vaccinations and counseling to help people quit smoking. These should come at no cost to patients.",
+        "Generally, this applies when patients see providers who are in their insurance plan’s network. But that doesn’t mean every annual checkup is free.",
+        "If a patient discusses a new symptom or asks the clinician to manage an existing condition during their annual checkup, it can result in a separate office-visit charge. A test may be billed as diagnostic rather than preventive, and coverage varies by plan and provider. Sometimes, as in my case, a coding error is responsible.",
+        "Not every charge is inappropriate. The challenge is that patients often cannot tell which services should be covered, why they were billed, or whether a mistake occurred.",
+        "Previous studies have found, using insurance claims, that patients sometimes face out-of-pocket costs during preventive visits . But these records show how visits were billed, not necessarily what patients believed they were receiving. We wanted to know whether people who thought they were getting annual checkups also reported paying out of pocket.",
+        "Our study , published in August 2026 in the peer-reviewed journal Prevention Science, used the 2024 Penn State Lion Poll , an online survey of Pennsylvania adults. We analyzed responses from 912 insured adults who reported an annual checkup within the preceding 10 years. Most had one in the past year.",
+        "Of those respondents, 23. 5% reported paying out of pocket for their most recent checkup. Among those who paid, the average reported out-of-pocket amount was $68. 50.",
+        "After accounting for other characteristics such as age, gender, insurance type, income and education, we found that respondents who were not familiar with ACA preventive-care protections were about 12 percentage points more likely to report paying than those who were familiar with the protections. That difference is equivalent to roughly 12 more people paying out of every 100.",
+        "Those who considered healthcare unaffordable were about 13 percentage points more likely to pay than those who found it affordable.",
+        "Because our survey relied on patients’ reports rather than billing records, we could not determine why individual charges occurred, or whether they were appropriate. The findings show associations, not causation, and our nonrandom sample cannot provide a precise statewide estimate.",
+        "I kept thinking about the student who said he would never return for another checkup. Research has shown that even modest out-of-pocket costs can discourage people from getting recommended screenings . Delaying preventive care could mean missing opportunities to detect health problems early, when treatment may be more effective.",
+        "Our survey did not find a statistically significant association between paying for a previous checkup and planning another one. However, respondents who were unfamiliar with ACA protections or considered healthcare unaffordable were less likely to plan a checkup. These findings suggest that uncertainty about costs may discourage people from seeking preventive care.",
+        "Before a visit, ask your insurer which preventive services are covered without cost-sharing and confirm that your provider is in-network. Ask the clinic whether discussing other health concerns or receiving additional tests could trigger a charge.",
+        "If a bill arrives, compare it with your insurer’s explanation of benefits, which you can typically find in your online insurance account or receive by mail. Ask the provider’s billing office which services and codes were submitted and request a correction if something appears wrong. You can also contact your insurer to question or appeal a coverage decision.",
+        "A colleague told me she challenged a $20 or $30 copayment requested at check-in for an annual visit after remembering our conversations. The charge was removed.",
+        "Patients should not have to become experts in insurance billing to receive preventive care. Clearer coverage information and more transparent billing could help people seek care without fearing unexpected costs."
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "conversation-some-states-are-stepping-up-after-federal-childcare-cuts-a",
+      "title": "Some states are stepping up after federal childcare cuts – and now offer lessons for the future",
+      "dek": "While affordability pressures are hitting Americans in many facets of their lives, from groceries to gas prices to housing costs , one important expense often gets less…",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T12:23:57.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/some-states-are-stepping-up-after-federal-childcare-cuts-and-now-offer-lessons-for-the-future-293665"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "While affordability pressures are hitting Americans in many facets of their lives, from groceries to gas prices to housing costs , one important expense often gets less attention – childcare.",
+        "After a huge infusion of federal funds into childcare dried up at the end of the Biden administration, experts warned that this sharp cutoff, sometimes dubbed the “ childcare cliff ,” would force parents to either scale back work to handle the extra caretaking or pay steep costs out of pocket.",
+        "The potential effects of the federal cuts are hard to estimate, in part because states took different approaches in the aftermath. In some cases, they offset the sharp cuts in part by redirecting other funds to childcare.",
+        "But several states, including Vermont, New Mexico and Kentucky, have gone further and innovated on their own to shore up support for working parents and their young children. Meanwhile, New York City is expanding free toddler slots for lower-income families, following Mayor Zohran Mamdani’s announcement to build a universal early childcare system .",
+        "Taken together, these experiments point to bipartisan ways to support working parents, especially if the results of the November 2026 midterms signal a new willingness to tackle one of the biggest cost burdens for families.",
+        "As researchers of sociology and childcare policy with six children from 1 to 16 years old between us, we have also gained insights from our own data gathered over 75 interviews with parents in St. Louis, Missouri, over the past few years. We see them struggling with a fragmented childcare system that’s in need of a deep strategic investment. These families face limited choices and soaring costs for an essential good that allows a parent to go to work.",
+        "Out-of-pocket expenses for parents using center-based care in childcare centers and private preschool programs have more than doubled since 2019. In 2024, the national average price of childcare was US$13,128 annually, which rivals housing as the most expensive item in family budgets.",
+        "The disruption caused by the COVID-19 pandemic laid bare the critical role that reliable, high-quality childcare plays for working families. But we believe it also presented an opportunity for innovative investments in the nation’s fractured childcare landscape.",
+        "Pandemic relief legislation in 2021 directed nearly $40 billion to shore up the supply and quality of childcare. This funding increase, which was a fourfold jump over previous levels, supported childcare staff with higher wages and allowed for other investments to improve the quality of care.",
+        "The reach was vast, with stabilization funds flowing to 220,000 providers serving 9. 6 million children . Many states also provided grants to create new slots and improve how providers got paid.",
+        "As those funds began drying up in September 2023, some states started to address these shortfalls on their own. In some cases, they took significant steps at a policy level to channel more support to working parents. We believe these investments could serve as examples for the rest of the country.",
+        "One is Vermont, which in 2023 became the first state to pass a law establishing a childcare entitlement. Following more than a decade of advocacy and bipartisan support , the law established a near-universal public childcare system, funded partially through a payroll tax of 0. 44% split between employers and employees.",
+        "Through an expansion of subsidies along income tiers , the number of families covered rose by 55% from July 2022 to May 2025, while flexible grants increased the number of providers and focused on improving the quality of care. About 12,000 children are now covered under this program.",
+        "New Mexico went even further. In November 2025, the state became the first in the nation to offer universal childcare . Based on an older program that provided free childcare to low-income families, the initiative expanded support to all working parents regardless of income.",
+        "Before the expansion, 32,000 children were covered, a number the state aims to double by 2028. On average, the state estimates that the program will save families $12,000 a year.",
+        "Meanwhile, the Kentucky legislature in April 2026 passed a measure with strong bipartisan support to make major investments in the state’s childcare infrastructure. Key provisions include free childcare for the children of childcare center employees, increased state-subsidized reimbursement rates, and required training to support very young special needs children.",
+        "The Kentucky measure also loosened regulations that had made it tough for employers to share costs for care, such as renting facilities, while pitching a pilot program to open one-room “microcenters” in communities that lacked sufficient childcare options. In addition, Gov. Andy Beshear launched a complementary Pre-K for All pilot program in several counties.",
+        "Another example is New York City, where Mamdani has announced an expansion for toddlers as young as 2 years old in all five of the city’s boroughs, building on the city’s programs for free childcare for 3-K and pre-K. To date, this effort has increased some slots , although the rollout in September hit bumps .",
+        "Given the skyrocketing costs, over 70% of families who sought care say it’s difficult to find childcare – and that doesn’t count the 11% who fail to find any at all, according to a 2023 government survey . That report found that families with Black or Hispanic children or infants, and those living in the South and West, are more likely to run into cost as a barrier.",
+        "On the supply side, three-quarters of providers say they have to turn many families away or put them on waiting lists. Center-based care for an infant costs more than in-state college tuition at a public university in 32 states, yet childcare workers, who are overwhelmingly women of color, earn the same as parking lot attendants and dog walkers. That makes them some of the lowest-paid workers in the entire economy.",
+        "Amid soaring costs and scarce supply, roughly half of all U. S. families live in so-called childcare deserts – areas where there are three children under 5 for every licensed-care slot. The answer for many families in these cases is to rely on ad hoc and irregular informal care. Some parents told us they’re turning to relatives and neighbors for help. Others resorted to using unlicensed, and potentially unsafe, childcare providers because they found no other viable options. And for some remote workers, the daunting solution is to care for their kids themselves while working.",
+        "The problem with such makeshift arrangements is that they tend, on average, to offer fewer of the learning opportunities linked to children’s long-term development and social mobility . And even these arrangements can be tough to afford: One single mother we interviewed told us she paid for a week’s childcare in kind with her own breast milk, which went to feed the care provider’s grandchildren. We also spoke to parents who reported choosing between childcare bills and heat, electricity or rent.",
+        "Another mom told us about a more unconventional solution. She and her husband work full time but can’t afford the childcare options in their community, so she decided to join a gym that provides free childcare while its members exercise. She brings her laptop and works, rather than working out, while her toddler plays.",
+        "These parents are scraping by in the absence of the affordable, subsidized childcare options commonplace in other countries. But this crunch is also a lose-lose proposition for the economy. The U. S. could lose as much as $290 billion per year by 2030 in forgone economic activity due to women not working or not working as much due to childcare pressures, according to the consultancy BCG."
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "conversation-falcon-9-ushered-in-the-modern-space-economy-retiring-it-c",
+      "title": "Falcon 9 ushered in the modern space economy – retiring it could leave the industry vulnerable",
+      "dek": "More than 50% of the nearly 330 spaceflights to low Earth orbit in 2025 were done on a SpaceX Falcon 9 rocket. ",
+      "category": "科学",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T12:23:38.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/falcon-9-ushered-in-the-modern-space-economy-retiring-it-could-leave-the-industry-vulnerable-294225"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "More than 50% of the nearly 330 spaceflights to low Earth orbit in 2025 were done on a SpaceX Falcon 9 rocket. Falcon 9 is much smaller than SpaceX’s flashy Starship rocket, but for the past 16 years it has been a reliable choice for launching satellites to orbit.",
+        "It has carried payloads ranging from Earth-imaging sensors feeding smartphone map apps to environmental monitoring satellites that track wildfires. It has also launched the crew capsule that ferries astronauts to the International Space Station.",
+        "In late 2026, reports came out that SpaceX is shuffling its staff in an attempt to focus its resources on developing and commercializing Starship, while phasing out the Falcon 9.",
+        "At face value, this sounds like routine news; after all, companies shuffle resources all the time. But as a space scientist , I believe that retiring this rocket threatens to suffocate the commercial space industry that it helped bring to life – unless the public and private sectors step up their efforts to fill the gap Falcon 9’s retirement has created.",
+        "Since its inception in 2002, SpaceX has broadened access to space. In 2006, while facing the looming retirement of the space shuttle , NASA searched for a private alternative to resupply the International Space Station. The agency awarded companies contracts, and SpaceX’s award helped kick-start the development of Falcon 9.",
+        "Despite multiple near-bankruptcy setbacks, Falcon 9 made its inaugural test flight in 2010, followed by sending the SpaceX Crew Dragon capsule to its first docking at the International Space Station in 2012.",
+        "The real turning point came in 2015 with the first successful landing of a Falcon 9 booster . The booster is the rocket’s main first stage. It houses fuel tanks and nine main engines. It provides the primary thrust off the launchpad but detaches from the rest of the rocket shortly after. Landing the booster meant SpaceX could recover and refly this component and dramatically slash launch costs .",
+        "In the meantime, Boeing, the other NASA contract awardee, struggled with budget overruns and operational delays . Some of SpaceX’s other competitors, such as Blue Origin, pivoted toward suborbital space tourism . As a result, Falcon 9 did more than just capture the market. It effectively became the market.",
+        "SpaceX’s affordable and frequent access to space helped to breathe life into a booming space economy. It allowed startups with creative new business models to send their satellites to orbit, such as TakeMe2Space , an Indian startup exploring hosting data centers in orbit. It empowered governments around the world to dramatically expand their operations in space, including governments relying on SpaceX’s secured communication platform, named Starshield .",
+        "Then came the operational shift. In July 2026, accounts from prospective commercial customers and satellite operators revealed that SpaceX had begun turning away Falcon 9 customers to focus its resources on the more capable Starship rocket.",
+        "Almost overnight, the announcement threatened to freeze the pipeline of launches the market relied on. Those who can afford it are paying extra to secure the few remaining slots on Falcon 9, while others are scrambling to find alternative launch opportunities. While European customers are generally flocking to the European Space Agency’s Ariane 6 rocket, others are booking slots on upcoming medium-lift rockets, such as Rocket Lab’s Neutron rocket .",
+        "SpaceX is contractually obligated to continue Falcon 9 flights for NASA’s International Space Station crew rotations and other national security payloads. However, the rest of the space industry is now forced to buy into SpaceX’s Starship bet . There simply is no operational alternative today that can match Falcon 9’s combination of high launch cadence, affordable pricing and proven flight heritage for medium-class payloads.",
+        "When a single company is put in charge of controlling the gate to space, its internal corporate decisions can make or break an industry. That also makes the company a potential single point of failure , where a setback by a single vendor would paralyze the entire space economy.",
+        "The U. S. has dealt with this type of national security dilemma before. In the 1900s, Standard Oil owned critical oil production infrastructure , pipelines and railroads. Controlling critical pipeline networks gave the company unprecedented power to set transport terms, prioritize its own shipments and restrict pipeline access for independent oil producers. This structure meant competitors had no viable alternative transport routes. Ultimately, this forced the U. S. government to intervene because internal Standard Oil corporate decisions dictated market dynamics.",
+        "Standard Oil had become the gatekeeper to the free flow of oil. By addressing that potential single point of failure, the U. S. government nudged an industry to redefine itself, which led to its accelerated growth.",
+        "SpaceX took huge technical and financial bets on the success of Falcon 9. They paid off and led to SpaceX’s market dominance .",
+        "But now SpaceX wants to do it again, with the promise that Starship would help further reduce the cost of getting to space. Their vision is grand, but what happens if Starship experiences delays ? What happens to companies who relied on Falcon 9?",
+        "As SpaceX shifts focus, competing launch providers will likely rush to take advantage of this market opportunity and offer rides to customers being turned away by SpaceX, but at a steep premium. The customers also face the burden of reconfiguring their satellites to fit on another rocket.",
+        "This sudden market shift has been a wake-up call , one that I believe will cost the industry and add significant uncertainty to market dynamics in a few years. But it also offers the market an opportunity to correct course by filling the gap that Falcon 9’s retirement has created.",
+        "Over the past two decades, NASA has successfully delivered on its mandate to create a rocket-launch marketplace. To achieve this, NASA fundamentally shifted from operating government-owned hardware to buying fixed-price services. This meant that NASA became a reliable anchor customer whose contracts spurred competition among commercial providers.",
+        "While this model proved that routine, low-cost space access was achievable, various technical and business challenges allowed the marketplace to become dominated by a single vendor.",
+        "Moving forward, NASA and other public agencies can work together to strategically distribute the payloads they need to launch across commercial rockets built by other companies. These government contracts can help these companies improve and validate their emerging rocket programs . Satellite customers can design standardized payloads that work across multiple types of rockets, so they don’t rely on one launch provider.",
+        "NASA can also maintain its dedicated launch assistance programs . Subsidizing these slots would allow smaller institutions, such as academia and nonprofit organizations, to avoid competing on the open market against large companies like SpaceX and Blue Origin that launch satellites regularly. These programs help smaller institutions that may not have the funds to directly buy their own spot on a rocket get their payload to space. These payloads are often used to give students experience and help train the next generation of space workers exploring the cosmos.",
+        "Mojtaba Akhavan-Tafti does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "conversation-let-nothing-be-forgotten-holocaust-survivors-memorial-book",
+      "title": "‘Let nothing be forgotten’: Holocaust survivors’ memorial books honored lives lost and vibrant hometowns",
+      "dek": "My grandmother was a Holocaust survivor from Kostopol, Ukraine. ",
+      "category": "文化",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T12:23:16.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/let-nothing-be-forgotten-holocaust-survivors-memorial-books-honored-lives-lost-and-vibrant-hometowns-290274"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "My grandmother was a Holocaust survivor from Kostopol, Ukraine. Years after she passed away, I was trying to learn more about her life before the war – something I knew very little about. When I found a book called “Sefer Kostopol” – Hebrew for “Book of Kostopol” – I hoped to find her among its pages.",
+        "It was a memorial book for her hometown, but beyond that, I wasn’t sure what to make of it. I’m a scholar of Holocaust memory , but I had never come across anything quite like it. It was a bit like a scrapbook, with varied types of images, essays written by different residents and lists of survivors – where I found my grandmother’s name – and of their murdered families, including her mother and sister.",
+        "My questions led me to investigate exactly what “Sefer Kostopol” was – and to learn that communities of survivors created over 1,000 such memorial books, called “yizker bikher” in Yiddish .",
+        "After the Holocaust, Eastern European survivors and Jews who had left before the war created these memorial books to honor their destroyed towns and murdered loved ones. Devoted to their neighbors, these collaboratively written volumes were one way for survivors to reclaim their lives and memories.",
+        "Yizker bikher were created not only to document the destruction of the Nazi genocide, but also to preserve the everyday lives that came before it. The volumes insist that Jewish communities be remembered not solely as sites of death but as places where people lived, argued, worked and celebrated. In general, around two-thirds of a given volume is devoted to describing prewar life; the remaining third includes first-person accounts of the Nazi occupation of the town and a long list of the dead.",
+        "Each book had anywhere from 20 to 50, even 75, contributors, who wrote in a warm, colloquial style. The visuals, too, feel personal. Photos portray the particulars of prewar life, with images of sports teams, school groups, bustling market squares and busy, modern streets.",
+        "Another common feature are maps, almost always drawn and labeled from memory by a survivor: the details of the forests and the rivers, the nicknames that locals used for the streets and stories of the homes and shops.",
+        "Beyond the photographs and maps, most volumes contain sketches by amateur artists to convey information about life under Nazi occupation. Some include art by well-known artists at the time, like Arthur Szyk , a Polish-Jewish illustrator and political cartoonist. There are also ephemera like posters, budgets, song lyrics, book covers, event flyers and elementary school report cards.",
+        "The earliest volume that I studied came from Volkovisk, Belarus, and was published in 1946, just a year after the liberation of Auschwitz . It’s hard to imagine survivors finding one another and putting books together so soon after the war.",
+        "The editors, publication committees and contributors, though, reached for a familiar model: the “pinkes,” the community register found in every Eastern European Jewish town. These books contained everything from meeting minutes to school budgets and lists of political candidates.",
+        "Like the community registers, yizker bikher have a somewhat chaotic, idiosyncratic organization to them. Both were written by many hands, and they became treasured objects.",
+        "The relationship was so strong that many yizker bikher include the word “pinkes” in their title. In the introductions, some editors made explicit connections between the prewar pinkes and those created in the wake of the Holocaust. One of them was Eliezer Yerushalmi, who compiled the memorial book from Navaredok, Belarus .",
+        "Each pinkes is a link in a timeless chain recording the history of Jewish communities, he wrote: “The present pinkes, the Navaredok pinkes, is here to tell the orphaned generation and the generations to come all that the community experienced from its very beginning hundreds of years ago to its terrible destruction.”",
+        "Just like Jewish communities in Eastern Europe were interconnected, so too were survivor communities in places like the United States, Canada, Israel and Argentina. Some yizker bikher committees relied on the same editors and adopted features of other memorial books , making the process easier.",
+        "The first step was for members of the book committee to circulate a prospectus to their fellow survivors to explain the memorial project. A prospectus for the “Wielun Memorial Book,” commemorating a community in Poland, was circulated in 1961, 10 years before the volume was published. The editor wrote that,",
+        "That goal – “let nothing be forgotten” – sits at the very heart of each memorial book.",
+        "Despite this, yizker bikher were mostly overlooked by scholars for many years. Perhaps this was because they defy easy categories: They are too nostalgic to be histories and too historical to be literature. They are too secular to be religious and too religious to be secular. And the range of visual material complicates things even further – for example, they aren’t photo albums per se, but they certainly include hundreds of photographs.",
+        "In the past few years, however, there has been a surge of academic and popular interest . Scholars are exploring the books and the archives that created them to learn more about all aspects of prewar Jewish life. They have also used yizker bikher to understand the intimate nature of the violence wrought by the Nazis and their local collaborators, and the beautiful, profound ways survivors found to honor their loved ones.",
+        "When we take yizker bikher seriously, it allows us to expand our focus beyond how 6 million Jews were murdered and highlight the way they once lived. Ultimately, these books remember individuals and communities as they wanted to be remembered.",
+        "Jennifer Rich does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "conversation-plans-with-cheaper-premiums-are-risky-business-for-america",
+      "title": "Plans with cheaper premiums are risky business for Americans seeking lower healthcare costs",
+      "dek": "Healthcare costs are a major concern for Americans , and health insurance premiums are a primary fuel for that anxiety .",
+      "category": "健康",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T12:22:42.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/plans-with-cheaper-premiums-are-risky-business-for-americans-seeking-lower-healthcare-costs-293327"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Healthcare costs are a major concern for Americans , and health insurance premiums are a primary fuel for that anxiety .",
+        "Shrinking federal subsidies for Affordable Care Act plans led to large premium increases for millions of Americans in 2025, causing many people to drop coverage. With premiums expected to rise further and Medicaid work requirements set to begin in January 2027, many Americans are left scrambling for affordable options.",
+        "We are health economists who study public policies aimed at expanding health insurance coverage. When it comes to our own health insurance, we are fortunate: We are among the roughly 160 million Americans who receive coverage through their employers .",
+        "But if you don’t work for a large employer that provides health benefits, finding coverage for your family can be confusing and, increasingly, expensive.",
+        "People looking for low-cost alternatives have no doubt encountered several options. They may look appealing and, in some cases, may be appropriate, but they can also carry real risks.",
+        "Historically, people who didn’t have access to employer-sponsored coverage had limited health insurance options. Before the Affordable Care Act went into effect in 2014 , insurers could charge you a higher premium based on your health status, exclude coverage for preexisting medical conditions, or deny you coverage altogether.",
+        "The ACA eliminated this kind of discrimination , established a minimum standard of 10 essential benefits that health insurance plans had to cover, and required plans to fully cover the cost of preventive care. It also introduced income-based subsidies that could be used to purchase coverage in newly established online marketplaces .",
+        "Low-cost plans that aren’t available through ACA marketplaces are essentially vestiges of the pre-ACA health insurance landscape.",
+        "Regardless of where you get coverage, choosing health insurance involves trade-offs. The more you pay in premiums , the more comprehensive your coverage will be in terms of how much you must pay when you need care and the breadth of the network of covered providers.",
+        "Some trade-offs are clear when you choose a plan, but some lower-cost options may have limitations that are not immediately obvious.",
+        "As their name suggests, short-term, limited-duration plans are designed for people with temporary gaps in coverage, such as those who are between jobs or months away from qualifying for Medicare. These plans, which can be purchased for periods of up to six months, tend to be cheaper than marketplace coverage for two reasons.",
+        "First, because they are not subject to ACA rules, they may not provide the full range of essential health benefits. Short-term, limited-duration plans often do not cover maternity care and commonly don’t have an annual limit on out-of-pocket costs. In fact, these plans may cap how much they will pay in a year, leaving policyholders stuck with large, unexpected expenses.",
+        "Second, unlike plans offered through the ACA marketplaces, short-term, limited-duration plans are allowed to deny coverage based on your health status. Screening out higher-cost consumers reduces premiums, but if you are not in perfect health, you may not be able to find an insurer that will sell you one of these more limited plans.",
+        "Because of a concern that they destabilize the market by siphoning off healthy consumers , short-term, limited-duration plans are banned in five states .",
+        "Another seemingly affordable option is healthcare sharing ministries , arrangements through which consumers with common religious beliefs agree to share medical expenses. Their websites resemble those of health insurance companies – for example, they often present different plan options offering different levels of benefits – but they avoid using standard insurance terms like “premium” or “deductible” because these offerings are not insurance.",
+        "Because they are not regulated as insurance companies , healthcare sharing ministries are not subject to consumer protections or other state or federal requirements. There is also no guarantee that the ministry will cover your medical expenses when you submit a claim.",
+        "Like short-term, limited-duration plans, healthcare sharing ministries may deny coverage based on your health history, exclude coverage for preexisting conditions and put a limit on the dollar amount they will pay in benefits.",
+        "Another lower-cost option available in 14 states is health coverage offered by a farm bureau . These plans are similar to healthcare sharing ministries in that they are limited to a certain group of people – to enroll, you must be a member of the state’s farm bureau, though that does not mean you necessarily have to work in agriculture.",
+        "These plans are also not subject to federal or state insurance regulations. This means that, like short-term, limited-duration plans, they can offer lower prices by not offering certain benefits required by the ACA and by screening out high-cost consumers . Unlike short-term, limited-duration plans, there is no limit on how long you can hold farm bureau coverage.",
+        "Although the cost of marketplace coverage has increased dramatically since 2025, for many consumers who need coverage for more than six months, it remains the best option.",
+        "If you are single with an annual income below US$64,000, a couple with an annual income below $87,000, or a family of four with an annual income less than $132,000, you should still be eligible for a premium subsidy . And you will know that the plan you are purchasing is real insurance that covers a standard set of benefits and is subject to robust consumer protections.",
+        "If you are considering an alternative to marketplace coverage, there are a few things you should do to protect yourself:",
+        "Make sure you ask for a summary of benefits and coverage . This is a plain language summary of a health plan’s benefits and coverage with examples of how much the plan would cover for two specific conditions – diabetes and childbirth. Insurers and employers who offer coverage are required to provide this document to anyone applying for coverage. If they cannot provide one, what they are selling may not actually be insurance.",
+        "If they do provide a summary of benefits and coverage, read it carefully. As we noted earlier, one reason some options might be less expensive than a marketplace plan is that they provide much less coverage. Don’t assume that they cover all the benefits you would expect from a health insurance plan, or that they will cover the full cost of the care you receive."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "scitechdaily-hubble-finds-a-stunning-twist-in-how-the-universe-emerged-",
+      "title": "Hubble Finds a Stunning Twist in How the Universe Emerged From Darkness",
+      "dek": "Hubble observations of nearby starburst galaxies challenge the idea that supernova winds helped reionize the early universe, suggesting young stars may have enabled radiation…",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T11:29:02.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/hubble-finds-a-stunning-twist-in-how-the-universe-emerged-from-darkness/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Hubble observations of nearby starburst galaxies challenge the idea that supernova winds helped reionize the early universe, suggesting young stars may have enabled radiation to escape before those winds formed.",
+        "Powerful winds from exploding stars were thought to clear paths for ultraviolet radiation to escape early galaxies. A new study of nearby galaxies suggests those winds may instead make escape more difficult, challenging a leading explanation for how the universe emerged from a fog of neutral hydrogen.",
+        "Within the first billion years after the Big Bang, that fog made the universe opaque to ultraviolet light. It began to clear during an era called reionization, which started about 13 billion years ago. Energetic radiation from early galaxies struck neutral hydrogen atoms, separating them into charged protons and electrons.",
+        "“Eventually, when it ionized the majority of hydrogen filling intergalactic space, that was the end of reionization and we see the universe today,” said Cody Carr, a postdoctoral researcher in the Department of Astronomy at the University of Michigan. “We call reionization the last major phase transition of the universe.”",
+        "For radiation to transform the gas between galaxies, it first had to get out of the galaxies that produced it. Astronomers proposed that supernovae, or large exploding stars, helped by generating winds powerful enough to reshape galaxies and clear routes through the surrounding gas.",
+        "“Basically, how these galaxies were leaking ionizing radiation isn’t what we thought,” Carr said.",
+        "Carr led and carried out the study as a postdoctoral scholar at Zhejiang University in China before joining Michigan. The international team, which includes University of Michigan researchers, used the Hubble Space Telescope to observe nearby starburst galaxies, where stars form at exceptionally high rates. These galaxies resemble some of those thought to have helped reionize the early universe, giving researchers a way to investigate how radiation escapes.",
+        "The team analyzed the galaxies’ spectra, which separate their light into different wavelengths, to measure the speeds of their galactic winds. Gas moving in those winds absorbs light at specific wavelengths, leaving dips whose positions and widths reveal how the gas is moving. Galaxies with the fastest winds allowed the smallest fraction of ionizing radiation to escape.",
+        "“It appears that energy input from supernovae has stirred up the surroundings and increased, rather than decreased, the coverage of neutral gas and dust that suppresses ionizing radiation escape,” said Stephan McCandliss, a senior author of the study and director of the Center for Astrophysical Sciences at Johns Hopkins University.",
+        "The findings, published in Nature Astronomy , strengthen an alternative explanation centered on activity from young stars. Radiation and smaller winds operating in the neighborhoods of these stars could help light escape.",
+        "“Our observations show that these photons are escaping before galactic winds form,” Carr said.",
+        "The researchers are working to secure more Hubble observing time to examine additional galaxies and further test the role of these smaller winds. Hubble is a NASA mission launched with contributions from the European Space Agency. The telescope also supported the study through a grant administered by the Space Telescope Science Institute.",
+        "Connecting the behavior of nearby galaxies to the universe’s early transformation remains an unfinished task. “We don’t know exactly what objects caused reionization or how it evolved,” Carr said. “We know that it took place, but we don’t have complete answers to those questions.”",
+        "The observations can already inform computer simulations that astronomers use to investigate reionization, particularly how stellar activity changes the gas through which radiation must travel."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "nasa-curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca",
+      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+      "dek": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T05:39:46.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center",
+        "Following the Basque Lakes drill campaign , Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for drilling but the block just beyond it was much more promising, so it became our drive target during Monday’s planning. I was on planning Friday as Geology and Mineralogy Science Theme Lead when we received our close-up views of the neighbor block from the post-drive imaging and our team was happy to see that it was jam-packed with the “disc- and needle-” shaped lumps, just like “Chiu Chiu.” We quickly gave the science go-ahead to proceed with preparations for drilling at the newly named “Nazca” site.",
+        "One major hypothesis about how the “discs and needles” texture formed is that the characteristic shapes were originally created during the growth of crystals, or “crystal forms.” Minerals will tend to grow into specific shapes depending on their microscopic crystal structure, similar to the salt crystals that you can grow in your kitchen as a home science project. (Maybe you have grown one of those for a science class in school! ) The relatively large sizes of the crystal forms at “Nazca” and “Chiu Chiu” are providing clues about the temperature at the time when they grew and the availability of salts and fluids.",
+        "However, we can’t necessarily assume that the modern-day composition represents the original mineral because sometimes mineral crystals are replaced by other minerals some time after original crystallization. The new minerals are then known as “pseudomorphs” because they have the same shape as the first minerals but not the same composition or molecular structure.",
+        "As we prepared for the drill preload test, we also planned several special observations aimed at highly detailed characterization of the crystal forms. MAHLI will execute a Quantitative Relief Model (“QRM”) observation consisting of five overlapping images at slightly different geometries. The combination of these will enable a detailed three-dimensional relief model to be constructed. In addition, MAHLI will also add extra frames to its highest-resolution imaging by doubling the number of focus mechanism steps. Together, these observations will increase the resolution of the 3D models we will have of the crystal forms.",
+        "Meanwhile, the ChemCam LIBS will conduct a “depth profile” experiment to obtain compositional information from slightly deeper layers within a nearby crystal-form-rich target, “Toucan”. Normally the 150 LIBS laser shots from each sol’s observation are spaced out over a five-point raster at 30 shots per point, but this time we are concentrating all 150 laser shots on the same spot on the rock. Since each laser shot vaporizes a very small amount of the rock to form a plasma, the 150-shot profile should penetrate approximately five times deeper than a normal 30-shot point observation.",
+        "We will thus be able to observe the composition deeper inside the exposed crystal form and see whether it’s different from the surface-level composition. There are several reasons this could be the case including exposure of the surface to the modern Martian environment and also the circumstances in which the crystal form developed originally, so it’s an experiment worth pursuing.",
+        "The LIBS, DRT and APXS will also be applied to the “Nazca” spot before the preload test to characterize its surface composition as thoroughly as possible before drilling. The third LIBS of the plan will go to “Condor,” a nearby block in which a finely layered texture is exposed.",
+        "We also continued to observe the modern Martian environment as twilight cloud season begins. In this plan we included some nighttime imaging of the larger and brighter of Mars’ two satellites, Phobos. Capturing images of Phobos and the nearby sky when Phobos is full can show sunlight reflecting off the moon and scattering in the Martian atmosphere, providing a good way to estimate the particle sizes in the Martian clouds. We can do similar measurements sometimes with solar observations, but the Phobos data allow us to measure cloud particle sizes later in the night. We expect to be measuring high-altitude carbon dioxide (CO 2 ) clouds in this observation.",
+        "Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…"
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "nasa-news-curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca",
+      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+      "dek": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T05:39:46.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center",
+        "Following the Basque Lakes drill campaign , Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for drilling but the block just beyond it was much more promising, so it became our drive target during Monday’s planning. I was on planning Friday as Geology and Mineralogy Science Theme Lead when we received our close-up views of the neighbor block from the post-drive imaging and our team was happy to see that it was jam-packed with the “disc- and needle-” shaped lumps, just like “Chiu Chiu.” We quickly gave the science go-ahead to proceed with preparations for drilling at the newly named “Nazca” site.",
+        "One major hypothesis about how the “discs and needles” texture formed is that the characteristic shapes were originally created during the growth of crystals, or “crystal forms.” Minerals will tend to grow into specific shapes depending on their microscopic crystal structure, similar to the salt crystals that you can grow in your kitchen as a home science project. (Maybe you have grown one of those for a science class in school! ) The relatively large sizes of the crystal forms at “Nazca” and “Chiu Chiu” are providing clues about the temperature at the time when they grew and the availability of salts and fluids.",
+        "However, we can’t necessarily assume that the modern-day composition represents the original mineral because sometimes mineral crystals are replaced by other minerals some time after original crystallization. The new minerals are then known as “pseudomorphs” because they have the same shape as the first minerals but not the same composition or molecular structure.",
+        "As we prepared for the drill preload test, we also planned several special observations aimed at highly detailed characterization of the crystal forms. MAHLI will execute a Quantitative Relief Model (“QRM”) observation consisting of five overlapping images at slightly different geometries. The combination of these will enable a detailed three-dimensional relief model to be constructed. In addition, MAHLI will also add extra frames to its highest-resolution imaging by doubling the number of focus mechanism steps. Together, these observations will increase the resolution of the 3D models we will have of the crystal forms.",
+        "Meanwhile, the ChemCam LIBS will conduct a “depth profile” experiment to obtain compositional information from slightly deeper layers within a nearby crystal-form-rich target, “Toucan”. Normally the 150 LIBS laser shots from each sol’s observation are spaced out over a five-point raster at 30 shots per point, but this time we are concentrating all 150 laser shots on the same spot on the rock. Since each laser shot vaporizes a very small amount of the rock to form a plasma, the 150-shot profile should penetrate approximately five times deeper than a normal 30-shot point observation.",
+        "We will thus be able to observe the composition deeper inside the exposed crystal form and see whether it’s different from the surface-level composition. There are several reasons this could be the case including exposure of the surface to the modern Martian environment and also the circumstances in which the crystal form developed originally, so it’s an experiment worth pursuing.",
+        "The LIBS, DRT and APXS will also be applied to the “Nazca” spot before the preload test to characterize its surface composition as thoroughly as possible before drilling. The third LIBS of the plan will go to “Condor,” a nearby block in which a finely layered texture is exposed.",
+        "We also continued to observe the modern Martian environment as twilight cloud season begins. In this plan we included some nighttime imaging of the larger and brighter of Mars’ two satellites, Phobos. Capturing images of Phobos and the nearby sky when Phobos is full can show sunlight reflecting off the moon and scattering in the Martian atmosphere, providing a good way to estimate the particle sizes in the Martian clouds. We can do similar measurements sometimes with solar observations, but the Phobos data allow us to measure cloud particle sizes later in the night. We expect to be measuring high-altitude carbon dioxide (CO 2 ) clouds in this observation.",
+        "Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…"
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "nasa-the-land-of-the-standing-up-rocks",
+      "title": "The Land of the Standing-Up Rocks",
+      "dek": "Some 27 million years ago, a volcano in what’s now southeastern Arizona unleashed a spectacular series of eruptions, strewing more than 1,000 times as much volcanic material…",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T04:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Some 27 million years ago, a volcano in what’s now southeastern Arizona unleashed a spectacular series of eruptions, strewing more than 1,000 times as much volcanic material across the landscape as Mount St. Helens did in 1980.",
+        "The explosive eruptions blanketed the region, part of the Chiricahua Apache Nation’s traditional lands, with ash and pumice . Layered into this were massive pyroclastic flows that hardened into deposits of welded rhyolitic tuff that in some areas were nearly 1,600 feet (500 meters) thick, about three times the height of the Washington Monument. As the magma chamber emptied, the ground above it collapsed, leaving a gaping depression—the Turkey Creek caldera —that was roughly 12 miles (19 kilometers) wide and 4,900 feet (1,500 meters) deep.",
+        "An array of geologic processes, including erosion and weathering , gradually sculpted the welded layer of tuff into the collection of dramatic spires, hoodoos , and canyons that visitors to the caldera area encounter today.",
+        "The Apache called the area “ The Land of the Standing-Up Rocks ” for good reason. Hiking through Rhyolite Canyon or driving through Bonita Canyon means encountering a dizzying maze of rock pinnacles, some hundreds of feet tall. Others, like Big Balanced Rock , have surprisingly large boulders precariously perched on top. Meanwhile, those at Heart of Rocks and Massai Point are gathered into groups of hundreds.",
+        "The area was designated a national monument in 1924 to preserve its remarkable geology. In October 2026, it was redesignated as Chiricahua National Park (pronounced cheery-cow-ah ). The OLI (Operational Land Imager) on Landsat 9 captured this cloud-free image of the new national park on July 2, 2026.",
+        "Individual rock spires are too small to distinguish, but the eroding rhyolitic tuff landscape appears gray. Stream valleys dense with trees and other vegetation, including Rhyolite Canyon and Bonita Canyon, snake across the landscape. With four biogeographic regions converging in the park—the Sonoran Desert, the Chihuahuan Desert, the Rocky Mountains, and the Sierra Madre—it is a haven of plant diversity .",
+        "Among the 1,000 species growing within the park’s varied desert, grassland, chaparral, deciduous forest, and coniferous forest ecosystems are agaves, prickly pear cacti, yuccas, manzanita, pine, fir, cypress, sycamore, juniper, and oak. The park’s location within the Chiricahua Mountains puts it among several “ sky islands ” in Arizona—isolated mountain ranges that emerge from the surrounding desert “sea.” According to the National Park Service , the range’s highest point (outside the park) rises 2,986 meters (9,795 feet) above sea level, more than 1,800 meters above the surrounding valley."
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "nasa-news-the-land-of-the-standing-up-rocks",
+      "title": "The Land of the Standing-Up Rocks",
+      "dek": "Some 27 million years ago, a volcano in what’s now southeastern Arizona unleashed a spectacular series of eruptions, strewing more than 1,000 times as much volcanic material…",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T04:01:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Some 27 million years ago, a volcano in what’s now southeastern Arizona unleashed a spectacular series of eruptions, strewing more than 1,000 times as much volcanic material across the landscape as Mount St. Helens did in 1980.",
+        "The explosive eruptions blanketed the region, part of the Chiricahua Apache Nation’s traditional lands, with ash and pumice . Layered into this were massive pyroclastic flows that hardened into deposits of welded rhyolitic tuff that in some areas were nearly 1,600 feet (500 meters) thick, about three times the height of the Washington Monument. As the magma chamber emptied, the ground above it collapsed, leaving a gaping depression—the Turkey Creek caldera —that was roughly 12 miles (19 kilometers) wide and 4,900 feet (1,500 meters) deep.",
+        "An array of geologic processes, including erosion and weathering , gradually sculpted the welded layer of tuff into the collection of dramatic spires, hoodoos , and canyons that visitors to the caldera area encounter today.",
+        "The Apache called the area “ The Land of the Standing-Up Rocks ” for good reason. Hiking through Rhyolite Canyon or driving through Bonita Canyon means encountering a dizzying maze of rock pinnacles, some hundreds of feet tall. Others, like Big Balanced Rock , have surprisingly large boulders precariously perched on top. Meanwhile, those at Heart of Rocks and Massai Point are gathered into groups of hundreds.",
+        "The area was designated a national monument in 1924 to preserve its remarkable geology. In October 2026, it was redesignated as Chiricahua National Park (pronounced cheery-cow-ah ). The OLI (Operational Land Imager) on Landsat 9 captured this cloud-free image of the new national park on July 2, 2026.",
+        "Individual rock spires are too small to distinguish, but the eroding rhyolitic tuff landscape appears gray. Stream valleys dense with trees and other vegetation, including Rhyolite Canyon and Bonita Canyon, snake across the landscape. With four biogeographic regions converging in the park—the Sonoran Desert, the Chihuahuan Desert, the Rocky Mountains, and the Sierra Madre—it is a haven of plant diversity .",
+        "Among the 1,000 species growing within the park’s varied desert, grassland, chaparral, deciduous forest, and coniferous forest ecosystems are agaves, prickly pear cacti, yuccas, manzanita, pine, fir, cypress, sycamore, juniper, and oak. The park’s location within the Chiricahua Mountains puts it among several “ sky islands ” in Arizona—isolated mountain ranges that emerge from the surrounding desert “sea.” According to the National Park Service , the range’s highest point (outside the park) rises 2,986 meters (9,795 feet) above sea level, more than 1,800 meters above the surrounding valley."
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
