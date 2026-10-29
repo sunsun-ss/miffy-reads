@@ -1,0 +1,1099 @@
+{
+  "generatedAt": "2026-10-29T22:29:19.747Z",
+  "date": "2026-10-30",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-waves-alter-antarctic-polynyas-by-breaking-up-surrounding-",
+      "title": "Waves alter Antarctic polynyas by breaking up surrounding sea ice",
+      "dek": "Polynyas are one of Antarctica's great counterintuitive features: recurring areas of open water surrounded by vast expanses of sea ice. ",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T22:20:02.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-antarctic-polynyas-sea-ice.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Polynyas are one of Antarctica's great counterintuitive features: recurring areas of open water surrounded by vast expanses of sea ice. These unusual environments are hot spots for sea-ice production, ocean–atmosphere exchange and biological productivity. They are commonly maintained by powerful winds that push newly formed ice away from the coast, repeatedly exposing the ocean to the freezing Antarctic atmosphere.",
+        "Yet these strong winds do something else: they generate waves. This is hardly surprising. Wind blowing across open water generates waves, and coastal polynyas are no exception. However, despite this seemingly obvious connection, we have rarely considered how these waves might affect the surrounding sea ice.",
+        "Our study published in Nature Communications shows that during extreme wind events, waves generated inside the Vincennes Bay Polynya in East Antarctica can become steep enough to fracture the surrounding sea ice from the inside out, triggering a series of feedback processes that alter the evolution of the polynya itself.",
+        "Our original research had little to do with waves generated inside coastal polynyas. We were interested in how energetic waves originating from the Southern Ocean propagate through hundreds of kilometers of Antarctic sea ice, and deployed wave-measuring buoys on coastal landfast ice in East Antarctica to investigate this process.",
+        "During several of our deployments, however, the ice carrying our instruments broke away from the coast, leaving the buoys drifting across the nearby Vincennes Bay Polynya. Each time this happened, we noticed a similar pattern in the measurements: wave heights increased considerably as the buoys moved into open water.",
+        "Initially, these observations were incidental to our original research. But as the pattern repeated over several years, we began to appreciate how energetic waves generated within the polynya could become. This raised a question we had not originally set out to investigate: could these waves be large enough to break up the surrounding sea ice and influence the evolution of the polynya itself?",
+        "When waves encounter a sea-ice cover, they cause the ice to bend as they propagate through it. If the resulting stresses become sufficiently large, the ice can fracture. Our analysis indicates that waves generated within the polynya can readily exceed the conditions required for breakup.",
+        "Fracture is only the first part of the process. Once broken, a relatively connected ice cover becomes fragmented into smaller, more mobile floes. Strong winds continue to act on these fragments, while the waves themselves transfer momentum as they enter the ice cover. Together, these forces can transport and compact the broken ice downwind, sometimes causing individual floes to raft over one another.",
+        "We found evidence of this larger-scale response in more than two decades of satellite observations. Following the most extreme wind-wave events, sea-ice concentration around the polynya decreased by up to approximately 30%, with the changes persisting for at least a week. Farther downwind, sea-ice concentration increased.",
+        "This suggests that the ice was not simply disappearing. Instead, our observations are consistent with wave-induced breakup making the ice more mobile, followed by wind- and wave-driven redistribution of the fragments. Importantly, we did not observe comparable changes during similarly strong wind events when conditions were less favorable for wave generation, further supporting the role of waves in this process.",
+        "The consequences extend beyond redistribution. Breaking up the ice exposes more open water to the cold Antarctic atmosphere, increasing new sea-ice production. Satellite observations support this interpretation, revealing larger areas of actively forming frazil ice following extreme events.",
+        "In other words, locally generated waves can do more than fracture individual pieces of ice. They can influence the broader evolution of the polynya itself.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Our observations come from one coastal polynya, and the buoy crossings occurred during particularly strong wind events. How frequently these processes operate under more typical conditions, and how important they are elsewhere in Antarctica, remain uncertain."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-chemical-recycling-turns-silicone-waste-into-reusable-buil",
+      "title": "Chemical recycling turns silicone waste into reusable building blocks with up to 99% yield",
+      "dek": "Silicones are widely used in industry, medicine and everyday products due to their exceptional thermal and chemical stability. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T22:10:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-chemical-recycling-silicone-reusable-blocks.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Silicones are widely used in industry, medicine and everyday products due to their exceptional thermal and chemical stability. However, it is precisely these properties that have made recycling silicones extremely problematic in the past. Researchers at the Institute of Chemistry at TU Berlin have now succeeded in breaking down the polymer chains of silicone molecules into their basic building blocks. The resulting molecule dimethyldichlorosilane can then be reused as a starting material for the production of new silicone compounds.",
+        "The process is based on a complex interplay of several chemical reaction cycles, and the researchers have now applied for a patent. The team led by Dr. Martin Oestreich has successfully tested the process on various silicone products used in everyday life. Given its significance for green chemistry and the circular economy, the paper was selected by the journal Nature for fast-track online publication. Oestreich is also a member of the UniSysCat Cluster of Excellence specializing in catalysis at TU Berlin.",
+        "The market for silicone products is huge: In 2025, it totaled more than 21 billion euros, and analysts estimate it will exceed 33 billion euros in 2033. In addition to their thermal and chemical stability, silicones are also characterized by outstanding mechanical properties. Silicone also reliably repels water while allowing oxygen to pass through. Silicones are found in many everyday products—from baking pans and baby bottle nipples to gaskets and medical tubing.",
+        "\"Its robust properties make recycling used silicone very difficult,\" says Oestreich, Einstein professor, head of the Organic Chemistry/Synthesis and Catalysis Group at TU Berlin, and a member of the university's UniSysCat Cluster of Excellence. \"Until now, waste silicone has mostly been incinerated or sent to a landfill. During recycling, the material is often mechanically processed or chemically broken down into smaller, ring-shaped siloxanes, which can then be used to produce new silicones . However, these are generally of lower quality than the original ones.\"",
+        "On the one hand, the growing evidence that silicones disposed of in landfills can be harmful to the environment and human health makes their complete recycling an objective worth pursuing. On the other hand, producing silicones requires enormous amounts of energy. For example, the elemental silicon needed has to be extracted from quartz sand at temperatures of 2,000 degrees Celsius. Using this silicon, dimethyldichlorosilane—the basic building block of silicone chemistry—is then produced in a special process.",
+        "\"This molecule can be strung together to form long chains, with the chlorine it contains being replaced by oxygen,\" explains Oestreich. Unlike in carbon chemistry, it is not carbon atoms but the bonds between silicon (Si) and oxygen (O) that form the \"backbone\" of the resulting polymers (Si–O–Si–O–Si). The chain length can be varied, and various other molecules can be attached to the sides of the chains to determine the properties of different silicones.",
+        "An ideal recycling process would include the ability to produce new silicones with different properties from end-of-life silicones. \"To achieve this, the base molecule dimethyldichlorosilane must be the end product of the recycling process,\" says Oestreich. This requires the Si–O–Si chains in the silicones to be completely broken. \"Breaking the silicon-oxygen bonds is extremely difficult. This is what makes silicone such a stable material.\"",
+        "The researchers have now succeeded in doing this, primarily through the use of two molecules: a \"silylium ion\" as a catalyst and the gas phosgene. Silylium ions are chemical compounds that contain a positively charged silicon atom. The silylium ion removes a chloride ion (Cl⁻) from phosgene (COCl₂) through a complex interplay of several reaction cycles. What is left is the compound COCl⁺. \"This molecule then has the chemical ability to break a silicon-oxygen bond,\" says Oestreich.",
+        "Another advantage of the process is that the oxygen from the broken Si–O–Si chains immediately escapes as carbon dioxide (CO₂). \"The oxygen is thus bound in a stable compound and immediately released as a gas. This means it is no longer available for other reactions.\"",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-borneos-wildfires-could-have-a-lasting-impact-on-orangutan",
+      "title": "Borneo's wildfires could have a lasting impact on orangutans",
+      "dek": "Indonesia is battling one of its most severe wildfire seasons in over a decade, as intense El Niño conditions fuel widespread drought. ",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T22:00:14.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-borneo-wildfires-impact-orangutans.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Indonesia is battling one of its most severe wildfire seasons in over a decade, as intense El Niño conditions fuel widespread drought. Some of the most severely affected areas are on the island of Borneo. Peatlands across West, Central and South Kalimantan are smoldering underground, releasing smoke haze that threatens human health and the environment.",
+        "But the damage doesn't end when the flames are extinguished or the smoke clears. Fires can transform the forests that wildlife depends on, with consequences that last for years.",
+        "Scientists studying wild orangutans in Borneo have seen this firsthand. At the Tuanan Orangutan Research Station, researchers witnessed the devastation caused by the 2015 fires. In the years that followed, they documented how the orangutans adapted to life in their altered habitat: traveling shorter distances, resting more and spending less time with others.",
+        "The researchers had an advantage. Since 2003, they had been monitoring a wild orangutan population, meticulously recording the animals' movements alongside changes in the forest's health and productivity. Their long-term records allowed them to trace the effects of the fires long after the immediate crisis had passed.",
+        "The threat from this year's fires peaked in October, when emergency workers at Tuanan spent long days and nights cutting firebreaks and pumping water onto active fires. \"Nobody is following orangutans during the peak fire risk,\" says Maria van Noordwijk, a Max Planck research fellow who helped establish Tuanan.",
+        "Van Noordwijk remembers what it was like returning to Tuanan after the 2015 fires to assess what had happened to the forest and its inhabitants. \"The haze is absolutely everywhere,\" she remembers of the dense smog that blanketed large parts of Southeast Asia for months.",
+        "At the research site, the haze persisted for 95 days, accompanied by troubling signs. Orangutans appeared to be suffering from respiratory problems. \"You hear them coughing,\" van Noordwijk says. They were also spending more time resting and traveling less, often staying lower in the canopy.",
+        "At the time, the researchers didn't know whether these behavioral changes would persist once the haze lifted or, if they did, what was causing them. Their observations over the following years would reveal some answers.",
+        "An important discovery was what happened to the food. Following the fires, the researchers documented a sharp decline in fruit production that lasted for about 2. 5 years. The prolonged fruit shortage may have resulted partly from haze restricting photosynthesis, and possibly from a loss of pollinators .",
+        "For orangutans, which depend heavily on fruit when it is available, the consequences were easy to spot. With their preferred food scarce, females adopted energy-conserving strategies: they traveled shorter distances, rested more and relied on lower-quality fallback foods. Research also found that orangutans lost lean body mass , suggesting that they were drawing on their own body tissue to meet their energy needs.",
+        "The forest itself had also changed. Around 15% of Tuanan's forest was lost in the 2015 fires, forcing some orangutans out of their home ranges. Displaced animals had to move into areas occupied by others, bringing more individuals into closer proximity and intensifying competition for resources.",
+        "\"Animals who lost their homes had to move, and those that didn't had to accept more crowding,\" says van Noordwijk. \"Everybody was affected.\"",
+        "With food in short supply and more animals sharing the remaining habitat, social relationships began to fray. Adult females spent less time foraging together with female relatives and even their own independent young. Among unrelated adult females, competition for scarce resources was associated with greater social intolerance and aggression.",
+        "The consequences may have extended to reproduction and survival. No pregnancies were recorded among females during the two and a half years after the fires, and three of the study's oldest females had disappeared by late 2017. The researchers cannot establish that the fires caused the females' disappearance, but the timing was striking."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-qinghai-tibet-plateau-study-traces-evolution-of-terrestria",
+      "title": "Qinghai–Tibet Plateau study traces evolution of terrestrial animals across three distinct regions",
+      "dek": "A new study has pieced together the evolutionary history of terrestrial animals on the Qinghai–Tibet Plateau (QTP), offering a comprehensive picture of how the distinctive…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T22:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-qinghaitibet-plateau-evolution-terrestrial-animals.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "A new study has pieced together the evolutionary history of terrestrial animals on the Qinghai–Tibet Plateau (QTP), offering a comprehensive picture of how the distinctive fauna of the \"Third Pole\" took shape over millions of years.",
+        "The study, led by a research team from the Chengdu Institute of Biology of the Chinese Academy of Sciences (CAS), was published in Proceedings of the National Academy of Sciences .",
+        "The QTP covers an area of about 3. 07 million square kilometers (1. 19 million square miles), with elevations ranging from 88 to 8,848 meters (289 to 29,029 feet). It is one of the world's biodiversity hotspots and harbors a large number of endemic species.",
+        "The QTP comprises three major subregions—the plateau platform, the Himalayas and the Hengduan Mountains—with the latter two recognized internationally as biodiversity hotspots.",
+        "How the plateau's unique tectonic history and monsoon systems have shaped the evolution of local biodiversity has long been a focus of research in evolutionary biology and biogeography. However, previous studies have mostly focused on plants or single animal taxa, leaving the overall development of the QTP's terrestrial fauna poorly understood.",
+        "To address this knowledge gap, the researchers integrated time-calibrated phylogenetic trees covering more than 20,000 species across five major groups—invertebrates, amphibians, reptiles, birds and mammals—and reconstructed the evolutionary history of 527 endemic terrestrial animal species on the QTP.",
+        "They found that the endemic fauna of the QTP formed mainly through in situ diversification. They also found that immigration events were nearly twice as numerous as emigration events, giving the QTP a dual role as both a diversification center and a biogeographic sink.",
+        "Furthermore, they discovered that the three subregions have played markedly different roles: the Hengduan Mountains have served as the primary \"source\" of in situ diversification; the Himalayas have functioned as both a \"source\" and a \"sink\"; and the plateau platform has experienced very little in situ diversification, with its fauna having formed mainly through immigration, making it an important \"sink\" area.",
+        "The researchers also examined how geological and climatic changes have influenced the evolution of the QTP's fauna over time. They found that the Eocene–Oligocene climate transition, about 34 million years ago, marked the beginning of sustained diversification and biotic exchange. However, the timing of these processes differed among the three subregions, reflecting differences in their uplift histories and monsoon systems.",
+        "In terms of the effects of uplift, in situ diversification events in the Hengduan Mountains and the Himalayas accelerated significantly following periods of rapid regional uplift.",
+        "In terms of the effects of monsoons, immigration and emigration events in the Hengduan Mountains increased and peaked during the intensification of the East Asian monsoon, while those in the Himalayas increased and peaked during the intensification of the South Asian monsoon.",
+        "In addition, by comparing animal evolutionary dynamics with studies of plants, the researchers found a consistent pattern of \"plants first, animals later\" across the QTP and its subregions. They discovered that early-colonizing plant groups created suitable ecological niches, laying the ecological foundation for subsequent animal immigration and diversification, revealing a predictable cross-taxon colonization rule.",
+        "By tracing the evolutionary history of the QTP's endemic terrestrial fauna, this study deepens our understanding of the evolution of mountain biota and provides a framework for investigating the mechanisms shaping biodiversity in mountain regions worldwide.",
+        "Journal information: Proceedings of the National Academy of Sciences"
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-the-human-surfaceome-ai-flags-potential-cell-surface-drug-",
+      "title": "The human surfaceome: AI flags potential cell surface drug targets overlooked by major databases",
+      "dek": "More than 65% of approved medicines work by binding to proteins on the surface of human cells. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T21:50:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "More than 65% of approved medicines work by binding to proteins on the surface of human cells. Yet scientists developing new treatments face a fundamental problem: Major biological databases disagree about which proteins are actually found on cell surfaces.",
+        "Hertz fellow Becca Carlson and her team at the Deliverome Project are using artificial intelligence to help resolve those discrepancies. By analyzing published research, they've developed an open, interactive map of the human surfaceome—the collection of proteins found on the surface of human cells—that could help researchers identify new targets for drug development.",
+        "The AI-powered map identifies 1,108 candidate cell surface proteins missing from all five major reference databases, with supporting evidence from published studies. The findings could expand the number of potential drug targets available to researchers developing treatments for cancer and other diseases.",
+        "\"My hope is that this will help people develop drugs that are more diverse and serve more patients and more indications,\" Carlson said in June, describing the Deliverome Project.",
+        "To build the map, Carlson and her co-founder, biochemist Bobby Hollingsworth, compared five widely used biological databases: UniProt, GO CC, the Human Protein Atlas, the Cell Surface Protein Atlas and SURFY. Together, the databases identify 5,546 surface proteins, but all five agree on only 188.",
+        "The team then developed an AI agent using Claude Sonnet 4. 6 to review evidence from published studies and evaluate whether individual proteins are found on the surface of human cells.",
+        "The AI system correctly classified 95. 7% of proteins in SurfaceBench, a hand-labeled test set of 147 proteins on which existing databases frequently disagree. UniProt, the best-performing database in the comparison, achieved approximately 90% accuracy.",
+        "Among the newly identified candidates are proteins that lack the structural features typically associated with cell surface proteins. Some may appear on cell surfaces only under certain conditions, including disease states such as cancer, making them potential targets for more precise drug delivery.",
+        "One example is KLK2, a protein that all five reference databases classify as absent from the cell surface. However, research has found that a membrane-anchored form of KLK2 is enriched in prostate cancer, and an experimental therapy targeting the protein is being studied in phase 3 clinical trials.",
+        "The Deliverome Project classifies KLK2 as a protein that can appear on the cell surface under certain conditions, demonstrating how AI-assisted analysis of existing research could help identify drug targets overlooked by conventional databases.",
+        "The team detailed its findings in its first research paper, \"The accessible human surfaceome,\" posted on bioRxiv and co-authored with Michael Smallegan of Coral Biosciences.",
+        "Alongside the paper, the Deliverome Project released Open View , a free, interactive resource that allows scientists to explore cell surface proteins and review the research supporting each classification. A public application programming interface (API) and open-source code also allow researchers to incorporate the findings into their own studies and drug discovery workflows.",
+        "The research is part of the Deliverome Project's broader effort to identify which proteins can carry molecules into cells, potentially opening new possibilities for targeted drug delivery.",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;"
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-the-shape-of-gene-expression-identifying-genes-that-may-sh",
+      "title": "The 'shape' of gene expression: Identifying genes that may share roles across species",
+      "dek": "Much of what we know about biology comes from animal models, particularly mice. Applying these insights to humans, however, is not always straightforward. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T21:40:16.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-gene-genes-roles-species.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Much of what we know about biology comes from animal models, particularly mice. Applying these insights to humans, however, is not always straightforward. For example, some of the genes important for the formation of germ cells, which eventually give rise to eggs or sperm, differ between mice and humans.",
+        "To identify gene correspondences across species, researchers often compare DNA sequences. This helps establish evolutionary relationships between genes, but it does not always answer a more functional question: Which genes play similar regulatory roles within specific cell types or cell fate specification processes across species?",
+        "To explore this question, a team of researchers at Kyoto University's Institute for the Advanced Study of Human Biology (WPI-ASHBi) looked at how genes are expressed in relation to one another. They reasoned that the overall organization of regulatory networks might remain similar across species, even when the genes involved differ.",
+        "If so, this shared organization might be reflected in the geometry of gene expression as a whole. The team therefore developed Species-OT, a method that compares patterns of gene expression to identify genes that may play similar roles across species.",
+        "The findings are published in the journal Cell Reports Methods .",
+        "Species-OT compares transcriptome data from corresponding cell types or cell fate specification processes across species. Within each data set, gene expression vectors can be regarded as points, placing genes with similar expression patterns closer together. These points form a geometric \"shape,\" characterizing the data set. Then, using a mathematical theory called Gromov–Wasserstein optimal transport, the method compares how these points are arranged relative to one another to identify candidate gene correspondences across species.",
+        "It also measures how much the overall gene expression patterns differ between data sets. In this study, the comparison focused on genes encoding transcription factors, which are expected to form the well-conserved core of gene regulatory networks.",
+        "To test the method, the researchers analyzed gene expression during the induction of primordial germ cell–like cells (PGCLCs) from mouse and human pluripotent stem cells. Among Species-OT's top predictions were pairs of mouse and human genes that previous studies had shown to play similar roles. The analysis identified possible matches between genes that are closely related through evolution, as well as those that are more distantly related.",
+        "Species-OT also compares overall patterns of gene expression. In the analysis of PGCLC induction, these patterns were relatively similar in humans and cynomolgus macaques, while the mouse was more distant from both. The team further analyzed single-cell RNA-sequencing data from pluripotent stem cells of six mammalian species (humans, chimpanzees, gorillas, orangutans, cynomolgus macaques and mice), which revealed similarities among primates, particularly between humans and chimpanzees, and among gorillas, orangutans and cynomolgus macaques.",
+        "In this analysis as well, mouse expression patterns differed substantially from those of the primates.",
+        "These analyses reflect differences in cell type and culture conditions, which also affect gene expression, as well as differences between species. The resulting relationships are calculated differently from conventional phylogenetic trees.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Species-OT is a data-driven method designed to infer gene correspondences across species, so that what is known about the role of a gene in one species can be carried over to its counterpart in another. It rests on the hypothesis that gene regulatory mechanisms shared across species are reflected in the \"shape\" of transcriptome data.",
+        "Its predictions depend on how the input data are preprocessed and on how differences in gene expression are measured, and in this study the evaluation of gene correspondences focused mainly on a selected set of genes involved in germ cell specification."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "scitechdaily-a-hidden-molecular-pathway-could-change-how-a-deadly-disea",
+      "title": "A Hidden Molecular Pathway Could Change How a Deadly Disease Is Treated",
+      "dek": "Researchers have found that acidic conditions may trigger an overlooked molecular process, offering new clues about how certain disease-causing protein mutations behave.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T19:29:50.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-hidden-molecular-pathway-could-change-how-a-deadly-disease-is-treated/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Researchers have found that acidic conditions may trigger an overlooked molecular process, offering new clues about how certain disease-causing protein mutations behave.",
+        "Scientists have discovered that a protein responsible for a potentially fatal disease can unravel through a previously unknown molecular pathway. The finding, reported by researchers at Scripps Research, could help explain why certain rare inherited forms of transthyretin amyloid disease (ATTR) behave differently and raises questions about how well existing treatments address them.",
+        "ATTR develops when the protein transthyretin (TTR) loses its normal structure, misfolds, and accumulates in organs, particularly the heart and nervous system. TTR ordinarily transports vitamin A and the thyroid hormone thyroxine through the blood, cerebrospinal fluid, and eye. Its structure consists of four protein units that can separate into pairs and eventually individual units capable of forming harmful aggregates.",
+        "Until now, research had largely focused on this stepwise breakdown of TTR. The new study, published September 8, 2026, in the Proceedings of the National Academy of Sciences , demonstrates that some forms of the protein can unfold through a more direct pathway that bypasses the intermediate pairs.",
+        "To identify this alternative route, researchers examined more than 100 TTR variants, measuring their unfolding rates under different acidity levels and concentrations of urea, a chemical used to destabilize proteins. They combined these experiments with cryogenic electron microscopy and previously published X-ray crystal structures. The alternative pathway was particularly accessible in certain inherited variants associated with amyloid deposits in the brain.",
+        "The newly identified pathway becomes more favorable in acidic environments, including those inside lysosomes. These cellular compartments break down and recycle proteins, suggesting that the alternative unfolding process may serve a normal biological function.",
+        "“This route probably evolved so TTR can be degraded, which is important, but can also have side effects,” says co-author Martin Gruebele, a professor emeritus of chemistry at the University of Illinois Urbana-Champaign.",
+        "For the most common forms of ATTR, this pathway appears too slow under normal physiological conditions to compete with the established route. Certain disease-associated mutations, however, make it more accessible even at the acidity levels normally found in blood. Researchers have not yet established whether this alternative unfolding process directly contributes to harmful protein aggregation in patients.",
+        "One of the most widely used ATTR treatments, tafamidis, works by stabilizing TTR’s four-unit structure, slowing its disassembly and subsequent aggregation. The discovery of another unfolding pathway raises the possibility that some rare hereditary variants may require different therapeutic approaches, although the implications for treatment effectiveness remain uncertain.",
+        "“We need to understand whether this alternative pathway can lead to TTR aggregation in the cerebrospinal fluid, which could potentially translate into worse outcomes for patients carrying these rare mutations who take the current medications,” says senior author Jeffery Kelly, the H. Lutcher Brown Endowed Chair at Scripps Research who co-developed tafamidis.",
+        "“More research is needed, but this opens up a new direction in the field of drugs targeting specific amyloidosis pathways,” says Gruebele. “At least we have one of several possible smoking guns to look at.”",
+        "Beyond ATTR, the experiments provide evidence that a protein composed of multiple subunits can follow distinct unfolding pathways in solution. Although scientists have long proposed that proteins can fold and unfold through multiple routes, experimentally demonstrating this behavior has been challenging.",
+        "“Transthyretin is the first oligomeric protein for which pathway multiplicity has been shown in solution, and without mechanical pulling,” says Marcus Jäger, the study’s first author.",
+        "This work was supported by the National Institutes of Health (grant R01 DK046335) and a postdoctoral fellowship from the German Research Foundation (Project No. : 556478029)."
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "scitechdaily-the-brain-is-more-capable-of-healing-itself-than-scientist",
+      "title": "The Brain Is More Capable of Healing Itself Than Scientists Thought",
+      "dek": "Researchers have uncovered a surprising cellular process that could reshape our understanding of brain regeneration and offer new possibilities for recovery from neurological…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T18:54:54.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/the-brain-is-more-capable-of-healing-itself-than-scientists-thought/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Researchers have uncovered a surprising cellular process that could reshape our understanding of brain regeneration and offer new possibilities for recovery from neurological damage.",
+        "Scientists have discovered an unexpected way the adult brain may replace certain cells lost to injury or disease. In living mice, researchers observed specialized brain cells repairing damaged regions by transporting newly formed cell nuclei over long distances, revealing a regenerative process that was previously unknown.",
+        "The discovery challenges the long-held belief that the adult brain cannot fully replace lost astrocytes. These star-shaped glial cells support neurons by supplying nutrients, helping regulate blood flow, and maintaining healthy brain tissue. Astrocytes can be destroyed by brain injuries and autoimmune conditions, including the rare disorder neuromyelitis optica spectrum disorder, in which the body’s antibodies attack these essential cells.",
+        "A research team led by Bruno Weber at the University of Zurich (UZH) identified a specialized population of “regenerative” astrocytes in the brains of living mice. Located along the edges of damaged tissue, these cells help replace missing astrocytes and rebuild the networks that support surrounding neurons. The study’s co-lead authors were Marina Herwerth and Matthias Wyss from the university’s Institute of Pharmacology and Toxicology.",
+        "“The findings of our study reveal a previously unknown ability of the adult brain to repair itself. They point toward new ways of supporting recovery from ailments involving the loss of astrocytes,” Weber says.",
+        "To investigate how this repair process works, the scientists monitored living mouse brains over several weeks using two-photon microscopy, an imaging technique that allows researchers to examine cells within living tissue. They also mapped gene activity across different brain regions to identify the astrocytes involved in regeneration.",
+        "The observations revealed that these cells do more than simply divide to produce replacements. Newly formed nuclei from daughter cells travel through the long, branching extensions of astrocytes toward areas where cells have been lost. As Weber explains, “they send the newly formed nuclei of their daughter cells gliding across long distances to repopulate the damaged area of the brain and knit the astrocyte network back together.”",
+        "By examining gene activity during regeneration, the researchers identified molecular changes associated with the repair process. These findings could eventually help scientists determine whether specific biological signals can be stimulated to promote astrocyte replacement after injuries or diseases that destroy these cells.",
+        "“We were able to identify numerous genes and signaling pathways that are temporarily activated during repair. They could serve as starting points in the future for influencing post-disease and -injury regeneration processes,” Weber stresses.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "scitechdaily-scientists-discover-never-before-seen-molecules-with-cance",
+      "title": "Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential",
+      "dek": "Scientists have uncovered a previously unknown class of natural compounds hidden within soil-dwelling bacteria.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T18:19:34.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-never-before-seen-molecules-with-cancer-fighting-potential/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Scientists have uncovered a previously unknown class of natural compounds hidden within soil-dwelling bacteria.",
+        "Scientists have discovered a previously unknown group of molecules in soil bacteria that bind to a human protein associated with several types of cancer. The compounds, known as myxoglucamides, have an unusual chemical structure and could provide a starting point for developing new drugs, although researchers have not demonstrated a strong effect on cancer cell growth.",
+        "The discovery emerged from two studies examining how bacteria produce these molecules and how they interact with human cells. Myxoglucamides combine molecular components derived from sugars, lipids, and amino acids in an arrangement unlike previously known natural products. Accessing them required researchers to activate bacterial genes that normally remain silent.",
+        "Myxoglucamides are produced by myxobacteria, a group of soil-dwelling microorganisms known for synthesizing diverse biologically active compounds. Using modern genetic techniques, scientists at the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS) activated a previously silent biosynthetic pathway, allowing them to produce and detect the molecules.",
+        "The team then examined the biosynthetic gene cluster responsible for their production and traced the biochemical reactions involved. Their analysis identified a previously unknown pathway in which several enzymes work together in an unexpected sequence to assemble the compounds’ distinctive chemical structure. The findings could help researchers locate other natural products concealed within inactive microbial genes.",
+        "“The discovery of myxoglucamides highlights how much chemical potential remains hidden in previously silent biosynthetic gene clusters of microorganisms,” says Dr Chengzhang Fu, head of the junior research group “Genome Mining for Secondary Metabolites” at HIPS. “By selectively activating and deciphering these biosynthetic pathways, we can gain access to entirely new natural products.”",
+        "The initial discovery and structural characterization were carried out by a team led by Prof. Rolf Müller, scientific director of HIPS and head of its Department of Microbial Natural Products.",
+        "Because the bacteria naturally produce only tiny amounts of myxoglucamides, researchers needed another way to obtain enough material for biological testing. In the second study, they achieved the first total laboratory synthesis of myxoglucamide A, making it possible to investigate the compound and prepare chemically modified versions.",
+        "Some of these synthetic derivatives bound substantially more strongly than the original molecule to a human protein called AKR1C3. Using a method that systematically identifies which cellular proteins interact with a compound, the researchers established AKR1C3 as the primary binding target of myxoglucamides.",
+        "AKR1C3 participates in the production of certain hormones and inflammatory signaling molecules. It is also overproduced in several cancers, where it can contribute to tumor cell growth. Although binding to this protein suggests a potential direction for anticancer drug development, the experiments did not establish that myxoglucamides strongly inhibit cancer cell growth.",
+        "“Although we were unable to demonstrate a strong effect of myxoglucamides on cancer cell growth, the study nevertheless shows that natural products without an immediately obvious biological effect can still engage highly relevant targets in the human body,” says Prof Mark Brönstrup, head of the department “Chemical Biology” at HZI. “This is exactly where great potential lies for identifying new concepts for the development of innovative drugs.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "nasa-nasa-funded-study-details-one-of-oldest-mars-meteorites-ev",
+      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "dek": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T18:18:09.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4. 1 billion years ago, making it one of the oldest Martian meteorites ever found. Named Teghaza 001 after the salt plain in Mali where it was discovered, the meteorite is one of roughly 435 from the Red Planet.",
+        "In a paper published Thursday in Science, researchers offered an initial characterization of Teghaza 001, providing a rare snapshot of Mars’ ancient crust and formation. What scientists learn from future studies could help answer many questions, including how water and rocks interacted on ancient Mars. A separate paper published in Science Advances in June detailed the meteorite’s water content, offering a look at how water shaped the early planet’s surface.",
+        "“It was only after we started looking closely that we realized this meteorite is really unique,” said the paper’s lead author, Yang Liu of NASA’s Jet Propulsion Laboratory in Southern California. “One of the paper’s reviewers called it a Rosetta Stone for Mars.”",
+        "What sets Teghaza 001 apart from other Martian meteorites is its texture and age as well as the uniqueness of its igneous, or volcanic, minerals. It is one of the three most ancient Martian meteorites found on Earth. While invaluable, the others provide more limited glimpses of Mars’ geological history. They include ALH84001 , which is composed almost entirely of one mineral and is similar in age to Teghaza 001. The other meteorite, nicknamed “Black Beauty,” formed about 2. 1 billion years ago and is composed of small, volcanic rock fragments.",
+        "Unlike its ancient peers, Teghaza 001 has a mix of igneous minerals that tells a story about how the planet’s crust formed from cooling magma before it was eventually altered by subsurface water. The meteorite’s distinctive mineralogy matches what NASA’s Mars Reconnaissance Orbiter has observed in the planet’s cratered southern highlands. No one will ever know exactly where the meteorite originated on Mars, but the paper identifies several potential locations that match Teghaza 001’s mineralogy and chemistry.",
+        "“This is really our first piece of Martian crust from a part of Mars we’ve never had a sample of before,” said the new paper’s second author, Lee Saper, who conducted the research while at JPL as a postdoctoral scholar. Lee now is a scientist at NASA’s Ames Research Center in Silicon Valley. “It records interactions of water and rock and maybe even an imprint of the Martian atmosphere as it was losing water.”",
+        "Although the Mars meteorites found on Earth differ from one another, they share a common history, having been blasted off the Red Planet’s surface by an impact, followed by a trajectory that eventually placed them on Earth and into the hands of scientists. Meteorites are often found by collectors in deserts or snowy plains, where they stand out from the rest of the barren landscape. Scientists can verify a meteorite as Martian by matching its mineral and chemical components to data collected by NASA’s Mars missions, including the Viking landers as well as the Curiosity and Perseverance rovers.",
+        "When Liu was first asked to look at Teghaza 001, she almost passed on the opportunity.",
+        "Researchers at the University of New Mexico had already identified it as Martian based on its oxygen isotopes, which serve as geochemical fingerprints for different planetary bodies. In this case, the researchers matched the meteorite’s oxygen isotopes to those seen in other Martian meteorites. Teghaza 001 appeared to be a shergottite which is the most common class of meteorite from the Red Planet. As an expert in planetary samples, Liu has seen plenty of those, but she decided to take a peek, anyway.",
+        "At the very least, there were odd textures and unusual minerals she hadn’t seen before. Liu and her colleagues discovered zircon crystals in Teghaza 001, which record clues to a rock’s formation and can be used by geologists to precisely age-date a sample. Further analysis revealed when Teghaza 001 formed and when certain changes, like water alteration, occurred."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "nasa-news-nasa-funded-study-details-one-of-oldest-mars-meteorites-ev",
+      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "dek": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T18:18:09.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4. 1 billion years ago, making it one of the oldest Martian meteorites ever found. Named Teghaza 001 after the salt plain in Mali where it was discovered, the meteorite is one of roughly 435 from the Red Planet.",
+        "In a paper published Thursday in Science, researchers offered an initial characterization of Teghaza 001, providing a rare snapshot of Mars’ ancient crust and formation. What scientists learn from future studies could help answer many questions, including how water and rocks interacted on ancient Mars. A separate paper published in Science Advances in June detailed the meteorite’s water content, offering a look at how water shaped the early planet’s surface.",
+        "“It was only after we started looking closely that we realized this meteorite is really unique,” said the paper’s lead author, Yang Liu of NASA’s Jet Propulsion Laboratory in Southern California. “One of the paper’s reviewers called it a Rosetta Stone for Mars.”",
+        "What sets Teghaza 001 apart from other Martian meteorites is its texture and age as well as the uniqueness of its igneous, or volcanic, minerals. It is one of the three most ancient Martian meteorites found on Earth. While invaluable, the others provide more limited glimpses of Mars’ geological history. They include ALH84001 , which is composed almost entirely of one mineral and is similar in age to Teghaza 001. The other meteorite, nicknamed “Black Beauty,” formed about 2. 1 billion years ago and is composed of small, volcanic rock fragments.",
+        "Unlike its ancient peers, Teghaza 001 has a mix of igneous minerals that tells a story about how the planet’s crust formed from cooling magma before it was eventually altered by subsurface water. The meteorite’s distinctive mineralogy matches what NASA’s Mars Reconnaissance Orbiter has observed in the planet’s cratered southern highlands. No one will ever know exactly where the meteorite originated on Mars, but the paper identifies several potential locations that match Teghaza 001’s mineralogy and chemistry.",
+        "“This is really our first piece of Martian crust from a part of Mars we’ve never had a sample of before,” said the new paper’s second author, Lee Saper, who conducted the research while at JPL as a postdoctoral scholar. Lee now is a scientist at NASA’s Ames Research Center in Silicon Valley. “It records interactions of water and rock and maybe even an imprint of the Martian atmosphere as it was losing water.”",
+        "Although the Mars meteorites found on Earth differ from one another, they share a common history, having been blasted off the Red Planet’s surface by an impact, followed by a trajectory that eventually placed them on Earth and into the hands of scientists. Meteorites are often found by collectors in deserts or snowy plains, where they stand out from the rest of the barren landscape. Scientists can verify a meteorite as Martian by matching its mineral and chemical components to data collected by NASA’s Mars missions, including the Viking landers as well as the Curiosity and Perseverance rovers.",
+        "When Liu was first asked to look at Teghaza 001, she almost passed on the opportunity.",
+        "Researchers at the University of New Mexico had already identified it as Martian based on its oxygen isotopes, which serve as geochemical fingerprints for different planetary bodies. In this case, the researchers matched the meteorite’s oxygen isotopes to those seen in other Martian meteorites. Teghaza 001 appeared to be a shergottite which is the most common class of meteorite from the Red Planet. As an expert in planetary samples, Liu has seen plenty of those, but she decided to take a peek, anyway.",
+        "At the very least, there were odd textures and unusual minerals she hadn’t seen before. Liu and her colleagues discovered zircon crystals in Teghaza 001, which record clues to a rock’s formation and can be used by geologists to precisely age-date a sample. Further analysis revealed when Teghaza 001 formed and when certain changes, like water alteration, occurred."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "nasa-nasa-names-troy-asher-armstrong-flight-research-center-dir",
+      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+      "dek": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T18:00:35.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March.",
+        "“Troy has spent his career pushing the boundaries of flight, both at the controls of experimental aircraft and leading the teams that make these missions possible,” said NASA Administrator Jared Isaacman. “He understands what it takes to turn ambitious ideas into successful flight tests, and his experience will be invaluable as Armstrong leads the way in rebuilding NASA’s X-plane portfolio, restoring our flight-test capabilities, and flying higher, farther, and faster than we have in decades.”",
+        "“Flight testing demands a rare combination of technical excellence, operational judgment, and trust in the teams that make every mission possible,” said NASA Associate Administrator and Chief Engineer Amit Kshatriya. “Troy’s service to America, from his distinguished career as an Air Force test pilot to his leadership of some of NASA’s most challenging flight research missions, embodies those qualities. Few people better understand the art and discipline of flight testing, and he brings a deep understanding of both the aircraft and the teams behind every successful mission.",
+        "As director, Troy will help us revolutionize how we develop, evaluate, and fly new technologies, strengthening the capabilities that keep NASA at the forefront of aerospace research.”",
+        "Asher will oversee Armstrong’s workforce and operations, leading NASA’s efforts to advance flight research, aircraft operations, and the development of new aviation technologies. As NASA’s Flight Test and Aircraft Operations Center of Excellence, Armstrong plays a central role in the agency’s efforts to rebuild and expand its X-plane portfolio, pushing the boundaries of high-speed flight and developing experimental aircraft and technologies that will shape the future of aviation. The center also supports airborne science missions and flight research across the agency.",
+        "Prior to becoming acting center director, Asher served as director of Flight Operations at Armstrong, overseeing the center’s pilots, engineers, maintainers, and fleet of specialized aircraft supporting aeronautics research and scientific missions around the world.",
+        "Asher joined NASA in 2008 as a research test pilot and aerospace engineer. During his time as a NASA pilot, he conducted flight research aboard aircraft, including the F-15, F/A-18, Gulfstream III, and X-56A unmanned aircraft system. He served as the lead test pilot for the development of NASA’s Stratospheric Observatory for Infrared Astronomy (SOFIA) and flew scientific research missions aboard the agency’s DC-8 aircraft, supporting airborne science campaigns around the globe.",
+        "Before joining NASA, Asher completed a 24-year career in the U. S. Air Force, retiring as a lieutenant colonel. His military service included assignments as an instructor at the U. S. Air Force Test Pilot School at Edwards Air Force Base, commander of the 419th Flight Test Squadron, and director of the Bomber Combined Test Force. In 2003, he set 25 world speed records flying the B-1B bomber.",
+        "Asher earned a bachelor’s degree in astronautical engineering from the U. S. Air Force Academy and a master’s degree in mechanical engineering from California State University, Fresno.",
+        "Asher succeeds Bradley Flick, who retired in March following nearly 40 years of NASA service.",
+        "Established in 1946, Armstrong has been at the forefront of American flight research for eight decades, from the first supersonic flight aboard the Bell X-1 to today’s work advancing quiet supersonic flight through NASA’s X-59 aircraft. The center continues to push the boundaries of aviation while providing critical flight research and operational capabilities in support of NASA’s science, technology, and exploration missions.",
+        "George Alderman Headquarters, Washington 202-358-1600 george. c. alderman@nasa. gov",
+        "Dede Dinius Armstrong Flight Research Center, Edwards, Calif. 661-276-5701 darin. l. dinius@nasa. gov"
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "nasa-news-nasa-names-troy-asher-armstrong-flight-research-center-dir",
+      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+      "dek": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T18:00:35.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March.",
+        "“Troy has spent his career pushing the boundaries of flight, both at the controls of experimental aircraft and leading the teams that make these missions possible,” said NASA Administrator Jared Isaacman. “He understands what it takes to turn ambitious ideas into successful flight tests, and his experience will be invaluable as Armstrong leads the way in rebuilding NASA’s X-plane portfolio, restoring our flight-test capabilities, and flying higher, farther, and faster than we have in decades.”",
+        "“Flight testing demands a rare combination of technical excellence, operational judgment, and trust in the teams that make every mission possible,” said NASA Associate Administrator and Chief Engineer Amit Kshatriya. “Troy’s service to America, from his distinguished career as an Air Force test pilot to his leadership of some of NASA’s most challenging flight research missions, embodies those qualities. Few people better understand the art and discipline of flight testing, and he brings a deep understanding of both the aircraft and the teams behind every successful mission.",
+        "As director, Troy will help us revolutionize how we develop, evaluate, and fly new technologies, strengthening the capabilities that keep NASA at the forefront of aerospace research.”",
+        "Asher will oversee Armstrong’s workforce and operations, leading NASA’s efforts to advance flight research, aircraft operations, and the development of new aviation technologies. As NASA’s Flight Test and Aircraft Operations Center of Excellence, Armstrong plays a central role in the agency’s efforts to rebuild and expand its X-plane portfolio, pushing the boundaries of high-speed flight and developing experimental aircraft and technologies that will shape the future of aviation. The center also supports airborne science missions and flight research across the agency.",
+        "Prior to becoming acting center director, Asher served as director of Flight Operations at Armstrong, overseeing the center’s pilots, engineers, maintainers, and fleet of specialized aircraft supporting aeronautics research and scientific missions around the world.",
+        "Asher joined NASA in 2008 as a research test pilot and aerospace engineer. During his time as a NASA pilot, he conducted flight research aboard aircraft, including the F-15, F/A-18, Gulfstream III, and X-56A unmanned aircraft system. He served as the lead test pilot for the development of NASA’s Stratospheric Observatory for Infrared Astronomy (SOFIA) and flew scientific research missions aboard the agency’s DC-8 aircraft, supporting airborne science campaigns around the globe.",
+        "Before joining NASA, Asher completed a 24-year career in the U. S. Air Force, retiring as a lieutenant colonel. His military service included assignments as an instructor at the U. S. Air Force Test Pilot School at Edwards Air Force Base, commander of the 419th Flight Test Squadron, and director of the Bomber Combined Test Force. In 2003, he set 25 world speed records flying the B-1B bomber.",
+        "Asher earned a bachelor’s degree in astronautical engineering from the U. S. Air Force Academy and a master’s degree in mechanical engineering from California State University, Fresno.",
+        "Asher succeeds Bradley Flick, who retired in March following nearly 40 years of NASA service.",
+        "Established in 1946, Armstrong has been at the forefront of American flight research for eight decades, from the first supersonic flight aboard the Bell X-1 to today’s work advancing quiet supersonic flight through NASA’s X-59 aircraft. The center continues to push the boundaries of aviation while providing critical flight research and operational capabilities in support of NASA’s science, technology, and exploration missions.",
+        "George Alderman Headquarters, Washington 202-358-1600 george. c. alderman@nasa. gov",
+        "Dede Dinius Armstrong Flight Research Center, Edwards, Calif. 661-276-5701 darin. l. dinius@nasa. gov"
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "nasa-nih",
+      "title": "NIH",
+      "dek": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T17:44:37.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use.",
+        "In vitro NAMs, such as organoids and microphysiological systems (MPS), can generate human-relevant data for drug development and safety evaluation. However, conventional assays and imaging are often noisy, invasive, and not sensitive enough. As a result, weak, early, and low-abundance biological signals can go undetected, and destructive measurements make it hard to monitor dynamic processes over time. Quantum-enabled sensing approaches can offer ultra-high sensitivity, improved signal-to-noise performance, and nanoscale resolution, overcoming detection and measurement limitations that today’s approaches can’t reach.",
+        "The NIH-NASA QuSAFE Challenge directly supports NASA’s Biological and Physical Sciences Division, addressing the need for advanced detection methods that work beyond traditional labs.",
+        "By leveraging recent advances in sensor-development research communities, the challenge enhances NASA’s space exploration capabilities and benefits science both in space and on Earth."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "nasa-news-nih",
+      "title": "NIH",
+      "dek": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T17:44:37.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use.",
+        "In vitro NAMs, such as organoids and microphysiological systems (MPS), can generate human-relevant data for drug development and safety evaluation. However, conventional assays and imaging are often noisy, invasive, and not sensitive enough. As a result, weak, early, and low-abundance biological signals can go undetected, and destructive measurements make it hard to monitor dynamic processes over time. Quantum-enabled sensing approaches can offer ultra-high sensitivity, improved signal-to-noise performance, and nanoscale resolution, overcoming detection and measurement limitations that today’s approaches can’t reach.",
+        "The NIH-NASA QuSAFE Challenge directly supports NASA’s Biological and Physical Sciences Division, addressing the need for advanced detection methods that work beyond traditional labs.",
+        "By leveraging recent advances in sensor-development research communities, the challenge enhances NASA’s space exploration capabilities and benefits science both in space and on Earth."
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "nasa-envi-a-tu-nombre-a-tita-n-a-bordo-de-la-misio-n-dragonfly-",
+      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
+      "dek": "Read this release in English here . Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T15:21:23.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Read this release in English here . Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia y a formar parte de la primera misión científica que volará sobre la superficie de otro mundo para su exploración.",
+        "Si deseas que tu nombre sea incluido en un microchip que viajará a bordo de Dragonfly y recibir una tarjeta de embarque digital personalizada que conmemore tu participación en esta misión histórica, visita el sitio web (en español e inglés):",
+        "“La misión Dragonfly de la NASA les dejará impactados”, dijo Nicky Fox, administradora asociada de la Dirección de Misiones Científicas en la sede central de la NASA en Washington. “Al llevar a cabo la primera misión científica con una aeronave de ala giratoria, la NASA explorará Titán, la luna más grande de Saturno, mientras buscamos señales de habitabilidad en este mundo lejano que es muy parecido al nuestro.",
+        "Nos entusiasma hacer partícipe a la humanidad de este viaje único en la vida, e invitamos a todos a enviar su nombre a bordo de esta pequeña pero poderosa aeronave de ala giratoria que revelará los secretos del universo en lo que muchos consideran una de las misiones espaciales más apasionantes de nuestra generación”.",
+        "El público puede asegurarse un puesto en la lista de pasajeros de Dragonfly hasta las 23:59 hora del este de Estados Unidos (EST) del 15 de enero de 2027.",
+        "Actualmente, la aeronave de ala giratoria Dragonfly está siendo ensamblada en el Laboratorio de Física Aplicada (APL, por sus siglas en inglés) de la Universidad Johns Hopkins en Laurel, Maryland, y su lanzamiento está programado para 2028. La aeronave llegará a Titán, un mundo extraordinario que posee una atmósfera densa, ríos y lagos de metano líquido, extensas dunas y un paisaje rico en materia orgánica.",
+        "Tras su llegada en 2034, Dragonfly volará a diferentes lugares de esta luna para explorar sus diversos entornos y buscar indicios de química prebiótica — la química que precedió a la biología — con el fin de ayudar a los científicos a comprender mejor las condiciones y los ingredientes que son necesarios para la vida.",
+        "Dragonfly está en proceso de diseño y construcción bajo la dirección de APL, el cual dirige esta misión para la NASA. Elizabeth Turtle, de APL, es la investigadora principal. Dragonfly es la cuarta misión del Programa de Nuevas Fronteras de la NASA, que es administrado por el Centro de Vuelo Espacial Marshall de la agencia en Huntsville, Alabama, para la Dirección de Misiones Científicas de la NASA en Washington.",
+        "Para obtener más información sobre la misión Dragonfly de la NASA, visita el sitio web:",
+        "Karen Fox / Molly Wasser / María José Viñas Sede central de la NASA, Washington 240-285-5155 / 240-419-1732 karen. c. fox@nasa. gov / molly. l. wasser@nasa. gov / maria-jose. vinasgarcia@nasa. gov",
+        "Mike Buckley Laboratorio de Física Aplicada de la Universidad Johns Hopkins (JHU APL) 443-567-3145 michael. buckley@jhuapl. edu"
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "nasa-news-envi-a-tu-nombre-a-tita-n-a-bordo-de-la-misio-n-dragonfly-",
+      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
+      "dek": "Read this release in English here . Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T15:21:23.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Read this release in English here . Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia y a formar parte de la primera misión científica que volará sobre la superficie de otro mundo para su exploración.",
+        "Si deseas que tu nombre sea incluido en un microchip que viajará a bordo de Dragonfly y recibir una tarjeta de embarque digital personalizada que conmemore tu participación en esta misión histórica, visita el sitio web (en español e inglés):",
+        "“La misión Dragonfly de la NASA les dejará impactados”, dijo Nicky Fox, administradora asociada de la Dirección de Misiones Científicas en la sede central de la NASA en Washington. “Al llevar a cabo la primera misión científica con una aeronave de ala giratoria, la NASA explorará Titán, la luna más grande de Saturno, mientras buscamos señales de habitabilidad en este mundo lejano que es muy parecido al nuestro.",
+        "Nos entusiasma hacer partícipe a la humanidad de este viaje único en la vida, e invitamos a todos a enviar su nombre a bordo de esta pequeña pero poderosa aeronave de ala giratoria que revelará los secretos del universo en lo que muchos consideran una de las misiones espaciales más apasionantes de nuestra generación”.",
+        "El público puede asegurarse un puesto en la lista de pasajeros de Dragonfly hasta las 23:59 hora del este de Estados Unidos (EST) del 15 de enero de 2027.",
+        "Actualmente, la aeronave de ala giratoria Dragonfly está siendo ensamblada en el Laboratorio de Física Aplicada (APL, por sus siglas en inglés) de la Universidad Johns Hopkins en Laurel, Maryland, y su lanzamiento está programado para 2028. La aeronave llegará a Titán, un mundo extraordinario que posee una atmósfera densa, ríos y lagos de metano líquido, extensas dunas y un paisaje rico en materia orgánica.",
+        "Tras su llegada en 2034, Dragonfly volará a diferentes lugares de esta luna para explorar sus diversos entornos y buscar indicios de química prebiótica — la química que precedió a la biología — con el fin de ayudar a los científicos a comprender mejor las condiciones y los ingredientes que son necesarios para la vida.",
+        "Dragonfly está en proceso de diseño y construcción bajo la dirección de APL, el cual dirige esta misión para la NASA. Elizabeth Turtle, de APL, es la investigadora principal. Dragonfly es la cuarta misión del Programa de Nuevas Fronteras de la NASA, que es administrado por el Centro de Vuelo Espacial Marshall de la agencia en Huntsville, Alabama, para la Dirección de Misiones Científicas de la NASA en Washington.",
+        "Para obtener más información sobre la misión Dragonfly de la NASA, visita el sitio web:",
+        "Karen Fox / Molly Wasser / María José Viñas Sede central de la NASA, Washington 240-285-5155 / 240-419-1732 karen. c. fox@nasa. gov / molly. l. wasser@nasa. gov / maria-jose. vinasgarcia@nasa. gov",
+        "Mike Buckley Laboratorio de Física Aplicada de la Universidad Johns Hopkins (JHU APL) 443-567-3145 michael. buckley@jhuapl. edu"
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "nasa-send-your-name-to-titan-aboard-nasas-dragonfly-mission",
+      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+      "dek": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T15:10:18.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world.",
+        "To have your name included on a microchip aboard Dragonfly and receive a personalized digital boarding pass commemorating your place on this historic mission, visit:",
+        "“NASA’s Dragonfly mission will simply blow your mind,” said Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters in Washington. “By flying the first-ever rotorcraft science mission, NASA will explore Saturn’s largest moon, Titan, as we search for signs of habitability on a distant world that is most similar to our own. We are excited to bring humanity along for the journey of a lifetime, and we invite everyone to send their names on this small, but mighty rotorcraft that will unlock the secrets of the universe in what is widely considered one of the most exciting space missions of our lifetime.”",
+        "The public can secure a place on Dragonfly’s passenger list until 11:59 p. m. EST Jan. 15, 2027.",
+        "The Dragonfly rotorcraft is currently being assembled at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland. Scheduled to launch in 2028, the rotorcraft will travel to Titan, a remarkable world with a thick atmosphere, rivers and lakes of liquid methane, sweeping dunes, and a landscape rich in organic material. After arriving in 2034, Dragonfly will fly to different locations on the moon, exploring Titan’s diverse environments and searching for clues about prebiotic chemistry — the chemistry that came before biology — to help scientists better understand the ingredients and conditions for life.",
+        "Dragonfly is being designed and built under the direction of APL, which leads the mission for NASA. Elizabeth Turtle of APL is the principal investigator. Dragonfly is the fourth mission in NASA’s New Frontiers Program, managed by NASA’s Marshall Space Flight Center in Huntsville, Alabama, for the agency’s Science Mission Directorate."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "nasa-news-send-your-name-to-titan-aboard-nasas-dragonfly-mission",
+      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+      "dek": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T15:10:18.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world.",
+        "To have your name included on a microchip aboard Dragonfly and receive a personalized digital boarding pass commemorating your place on this historic mission, visit:",
+        "“NASA’s Dragonfly mission will simply blow your mind,” said Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters in Washington. “By flying the first-ever rotorcraft science mission, NASA will explore Saturn’s largest moon, Titan, as we search for signs of habitability on a distant world that is most similar to our own. We are excited to bring humanity along for the journey of a lifetime, and we invite everyone to send their names on this small, but mighty rotorcraft that will unlock the secrets of the universe in what is widely considered one of the most exciting space missions of our lifetime.”",
+        "The public can secure a place on Dragonfly’s passenger list until 11:59 p. m. EST Jan. 15, 2027.",
+        "The Dragonfly rotorcraft is currently being assembled at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland. Scheduled to launch in 2028, the rotorcraft will travel to Titan, a remarkable world with a thick atmosphere, rivers and lakes of liquid methane, sweeping dunes, and a landscape rich in organic material. After arriving in 2034, Dragonfly will fly to different locations on the moon, exploring Titan’s diverse environments and searching for clues about prebiotic chemistry — the chemistry that came before biology — to help scientists better understand the ingredients and conditions for life.",
+        "Dragonfly is being designed and built under the direction of APL, which leads the mission for NASA. Elizabeth Turtle of APL is the principal investigator. Dragonfly is the fourth mission in NASA’s New Frontiers Program, managed by NASA’s Marshall Space Flight Center in Huntsville, Alabama, for the agency’s Science Mission Directorate."
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "nasa-nasas-isam-state-of-play-the-industry-standard-for-space-s",
+      "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
+      "dek": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T15:06:40.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point.",
+        "“We’ve had some unnamed companies ask if we have any proprietary information,” says Dale Arney, senior team lead for the ISAM Technology Portfolio at NASA Langley. The answer is “no,” but that impartiality is precisely what makes the State of Play invaluable to an industry trying to understand a rapidly expanding field.",
+        "Published since 2021, the 2026 edition has grown to 368 pages documenting current ISAM capabilities across 11 functional areas, from robotic manipulation to refueling and structural assembly. The document serves as both encyclopedia and roadmap for the technologies that will enable spacecraft to be serviced, assembled, and manufactured in orbit rather than launched as integrated systems.",
+        "“The field itself has expanded more than linearly since we started,” Arney explains. What began as a tool to ensure NASA centers shared a common reference point has become the industry’s go-to resource for understanding what’s possible versus what’s still conceptual.",
+        "The State of Play team maintains strict entry criteria: hardware must physically exist, either as ground prototypes or in-flight demonstrations. “We get people who will send their PowerPoint presentation of their technology idea,” Arney notes. “There’s no real indication they’ve done any work on the technology itself yet.” Those concepts don’t make the cut until the following year’s review.",
+        "This rigor matters, because ISAM capabilities will enable missions impossible with traditional single-launch approaches. Future missions will require telescopes larger than any launch vehicle fairing, persistent national security assets that are mobile and resilient, and commercial systems that can upgrade to the latest technology on orbit without full replacement.",
+        "The document is intentionally collaborative. “We like to refer to it as kind of a crowdsource document,” says team member John Mulvaney. Each year brings more interviews with industry partners to ensure accuracy and completeness. Contributions come from NASA centers including Ames, Glenn, Marshall, Kennedy, and Johnson, along with international developers meeting the hardware criteria.",
+        "The result is more than a technical reference. The 2026 edition includes developer profiles and facilities documentation, providing mission designers with not just what’s possible but who’s doing it and where the work happens. For companies entering the ISAM ecosystem or expanding their capabilities, it offers both competitive context and collaboration opportunities.",
+        "As the space industry moves toward more ambitious missions, from lunar infrastructure to on-orbit manufacturing, the ISAM State of Play provides the shared vocabulary and capability baseline that emerging ecosystems require. It’s not speculation about the future; it’s documentation of what exists now and where the hardware is heading next.",
+        "The 2026 ISAM State of Play is available for download at NASA. gov",
+        "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images…"
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "nasa-news-nasas-isam-state-of-play-the-industry-standard-for-space-s",
+      "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
+      "dek": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T15:06:40.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point.",
+        "“We’ve had some unnamed companies ask if we have any proprietary information,” says Dale Arney, senior team lead for the ISAM Technology Portfolio at NASA Langley. The answer is “no,” but that impartiality is precisely what makes the State of Play invaluable to an industry trying to understand a rapidly expanding field.",
+        "Published since 2021, the 2026 edition has grown to 368 pages documenting current ISAM capabilities across 11 functional areas, from robotic manipulation to refueling and structural assembly. The document serves as both encyclopedia and roadmap for the technologies that will enable spacecraft to be serviced, assembled, and manufactured in orbit rather than launched as integrated systems.",
+        "“The field itself has expanded more than linearly since we started,” Arney explains. What began as a tool to ensure NASA centers shared a common reference point has become the industry’s go-to resource for understanding what’s possible versus what’s still conceptual.",
+        "The State of Play team maintains strict entry criteria: hardware must physically exist, either as ground prototypes or in-flight demonstrations. “We get people who will send their PowerPoint presentation of their technology idea,” Arney notes. “There’s no real indication they’ve done any work on the technology itself yet.” Those concepts don’t make the cut until the following year’s review.",
+        "This rigor matters, because ISAM capabilities will enable missions impossible with traditional single-launch approaches. Future missions will require telescopes larger than any launch vehicle fairing, persistent national security assets that are mobile and resilient, and commercial systems that can upgrade to the latest technology on orbit without full replacement.",
+        "The document is intentionally collaborative. “We like to refer to it as kind of a crowdsource document,” says team member John Mulvaney. Each year brings more interviews with industry partners to ensure accuracy and completeness. Contributions come from NASA centers including Ames, Glenn, Marshall, Kennedy, and Johnson, along with international developers meeting the hardware criteria.",
+        "The result is more than a technical reference. The 2026 edition includes developer profiles and facilities documentation, providing mission designers with not just what’s possible but who’s doing it and where the work happens. For companies entering the ISAM ecosystem or expanding their capabilities, it offers both competitive context and collaboration opportunities.",
+        "As the space industry moves toward more ambitious missions, from lunar infrastructure to on-orbit manufacturing, the ISAM State of Play provides the shared vocabulary and capability baseline that emerging ecosystems require. It’s not speculation about the future; it’s documentation of what exists now and where the hardware is heading next.",
+        "The 2026 ISAM State of Play is available for download at NASA. gov",
+        "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images…"
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "scitechdaily-the-future-of-electromagnetic-shields-could-be-lighter-str",
+      "title": "The Future of Electromagnetic Shields Could Be Lighter, Stronger, and Greener",
+      "dek": "Researchers are exploring a new generation of electromagnetic shielding materials that combine exceptional conductivity with improved strength and flexibility.",
+      "category": "科技",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T15:04:25.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/the-future-of-electromagnetic-shields-could-be-lighter-stronger-and-greener/"
+      },
+      "cover": "pencil",
+      "accent": "orange",
+      "paragraphs": [
+        "Researchers are exploring a new generation of electromagnetic shielding materials that combine exceptional conductivity with improved strength and flexibility.",
+        "Electromagnetic shielding materials must block unwanted signals without adding excessive weight or sacrificing durability. Conventional options, including metals, conductive polymers, and carbon-based materials, can be heavy, inflexible, or expensive. Researchers are now exploring composites that combine exceptional electrical conductivity with the strength and flexibility needed for practical applications.",
+        "One promising approach pairs two-dimensional transition metal carbides and nitrides (MXenes) with nanocellulose, a lightweight material derived from natural biomass. MXenes offer excellent conductivity and chemical stability, but films made from them alone tend to be brittle. Adding nanocellulose can improve mechanical strength while preserving the electrical properties needed to shield electronics from electromagnetic interference.",
+        "A research team led by Prof. Ming-Guo Ma of Beijing Forestry University in China has published a comprehensive review of MXene/nanocellulose composites, examining how their structure, fabrication methods, and strengthening mechanisms influence performance.",
+        "The researchers identified important differences between one-dimensional fibers, two-dimensional layered films, and three-dimensional networks. Dense films primarily block electromagnetic waves through reflection, while porous aerogels favor absorption by allowing waves to penetrate interconnected structures and interact with conductive surfaces. Hydrogels can provide a more balanced combination of reflection and absorption. Layered designs, including sandwich, Janus, and structures inspired by nature, offer additional ways to control shielding behavior.",
+        "Improving durability requires more than simply combining MXene sheets with cellulose fibers. The review examines several strengthening approaches, including physical interactions such as hydrogen bonding, fiber entanglement, and metal-ion crosslinking. Chemical techniques introduce stronger covalent bonds using agents such as polydopamine or PMDI.",
+        "Combining reversible physical bonds with permanent chemical networks can produce materials with greater strength, toughness, and stability. The researchers also compared manufacturing techniques, ranging from solution mixing and vacuum filtration to 3D printing, freeze-drying, electrospinning, and layer-by-layer assembly. Each method presents different trade-offs between mechanical properties, shielding effectiveness, and manufacturing complexity.",
+        "Despite encouraging laboratory results, several obstacles remain. MXene production needs more environmentally friendly synthesis methods, and composite materials must maintain their performance under prolonged exposure to humidity and high temperatures. Scaling manufacturing processes while retaining consistent mechanical and electrical properties also presents challenges.",
+        "Future research may expand shielding capabilities across a broader frequency range, from gigahertz to terahertz, while incorporating magnetic or temperature-responsive components. Such advances could support smart shielding materials that adjust their electromagnetic behavior in response to changing conditions.",
+        "“This review provides a holistic perspective that connects fabrication methods, toughening mechanisms, and structural architectures,” said Prof. Ming-Guo Ma, the corresponding author. “It will greatly advance the rational design and practical application of high-performance MXene/nanocellulose electromagnetic shielding composites.”",
+        "This work was supported by the National Natural Science Foundation of China (22478036).",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "scitechdaily-scientists-discover-3-strange-quantum-materials-that-could",
+      "title": "Scientists Discover 3 Strange Quantum Materials That Could Finally Reveal Dark Matter",
+      "dek": "Quantum simulations suggest that a material called titanium diselenide could make future detectors up to 1,000 times more sensitive to certain forms of light dark matter than…",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T14:29:23.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-3-strange-quantum-materials-that-could-finally-reveal-dark-matter/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Quantum simulations suggest that a material called titanium diselenide could make future detectors up to 1,000 times more sensitive to certain forms of light dark matter than current benchmark materials. The finding could help researchers search for particles whose interactions with ordinary matter are too faint for conventional detectors to register.",
+        "In a study published in Physical Review Letters , an international research team identified three promising materials: titanium diselenide (TiSe₂), strontium ruthenate (Sr₂RuO₄), and hole-doped diamond. Each has unusual electronic properties that could make it particularly effective at detecting the tiny energy transfers expected from lightweight dark matter particles.",
+        "Dark matter is thought to account for approximately 85% of all matter in the universe. Its gravitational effects help explain how galaxies move and how large cosmic structures form, yet no experiment has directly detected a dark matter particle. Because dark matter does not emit, absorb, or reflect light, scientists must search for other evidence of its interactions with ordinary matter.",
+        "One approach involves looking for small amounts of energy deposited when a dark matter particle encounters a detector. The challenge becomes greater for lighter particles, which may transfer so little energy that existing detector materials cannot reliably register the interaction.",
+        "The three proposed materials contain collective electronic excitations known as plasmons. These involve coordinated movements of electrons and can respond to exceptionally small energy deposits. Their properties could allow detectors to register interactions that would otherwise produce signals too weak to measure.",
+        "Using advanced quantum mechanical simulations based on fundamental physical principles, the researchers calculated how each material would respond to hypothetical dark matter interactions. Their results indicate that these materials could outperform existing benchmark candidates across a broad range of particle masses, potentially reaching regions that current detection approaches cannot effectively explore.",
+        "The calculations identified titanium diselenide as particularly promising, with projected sensitivity improvements of two to three orders of magnitude. These gains remain theoretical and have not yet been demonstrated in working dark matter detectors.",
+        "Two of the materials also showed a potentially valuable property: directional sensitivity. Their predicted responses depend on the direction from which a dark matter particle enters relative to the crystal’s internal structure.",
+        "As Earth rotates, the orientation of a detector changes relative to the expected incoming dark matter flux. This could produce a repeating daily variation in the signal, helping researchers distinguish potential dark matter interactions from background events that do not follow the same directional pattern.",
+        "The proposed materials have practical advantages beyond their predicted sensitivity. All three can be produced using established synthesis techniques, while titanium diselenide appears particularly suitable for larger-scale manufacturing. Incorporating these materials into existing detector technologies could provide a route toward future experiments, although their performance must first be tested.",
+        "The research was conducted by Prof. Yonit Hochberg and Rotem Ovadia of the Hebrew University of Jerusalem, Dr. Dino Novko of the Institute of Physics in Croatia, and Prof. Antonio Politano of the University of L’Aquila.",
+        "“Dark matter remains one of the greatest mysteries in physics, and discovering its nature requires us to rethink not only the particles we are searching for, but also the materials we use to search for them,” said the researchers. “By identifying quantum materials that naturally amplify the tiny signals expected from light dark matter, we’ve uncovered a promising new path toward experiments that are significantly more sensitive than those available today.”",
+        "The calculations also suggest that the search need not be limited to these three candidates. Other quantum materials with suitable low-energy electronic excitations may offer additional opportunities to detect elusive dark matter particles.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "scitechdaily-a-mysterious-particle-could-explain-why-anything-exists-at",
+      "title": "A Mysterious Particle Could Explain Why Anything Exists at All",
+      "dek": "A long-lived heavy neutrino could have reshaped the early universe’s expansion and tipped the balance toward matter, according to a theory that predicts traces in primordial…",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T13:54:21.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-mysterious-particle-could-explain-why-anything-exists-at-all/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "A long-lived heavy neutrino could have reshaped the early universe’s expansion and tipped the balance toward matter, according to a theory that predicts traces in primordial gravitational waves.",
+        "If matter and antimatter had annihilated each other completely after the Big Bang, the universe would have been left with energy and no matter. Explaining why matter survived, when current theories suggest the two should have wiped each other out, remains one of the biggest puzzles in modern physics.",
+        "Physicists at the University of Southampton and the Indian Institute of Technology Kanpur have proposed an explanation involving a particle largely overlooked for decades. Known as a “decoupled” heavy neutrino, it is a heavier relative of the neutrino, one of the lightest particles in the universe. Most theories explaining the matter-antimatter imbalance have ignored this heavy relative because its interactions with other particles were considered too weak to have an impact.",
+        "“The fact that we are here at all proves that an asymmetry between matter and antimatter occurred,” said study author Dr. Rishav Roshan of the University of Southampton.",
+        "The new research, published in Physical Review Letters , connects that imbalance to the early universe’s expansion. Co-author Dr. Sudipta Show of the Indian Institute of Technology Kanpur said the findings change our understanding of how quickly the cosmos expanded after the Big Bang.",
+        "Roshan explained, “This decoupled heavy neutrino has long been dismissed as an irrelevant background detail in particle physics.",
+        "“However, it decays incredibly slowly. As the cosmos cooled after the Big Bang, the particle lived long enough that it temporarily took over the energy density of the universe and triggered a matter-dominated period.”",
+        "A matter-dominated period describes the universe’s energy budget, with matter contributing more energy than radiation. That is different from an imbalance between matter and antimatter. In the team’s proposed account, the connection between the two depends on how this period changed the conditions for other particles.",
+        "“The decoupled neutrino shifted the temperature in the early universe at which fundamental particles—like electrons and other leptons—interacted with their anti-particles with the help of Standard Model Higgs boson,” Roshan said.",
+        "“This temperature acts like a switch that shapes how the matter-antimatter imbalance was built up.”",
+        "Show said, “It offers us a new explanation for how matter won.",
+        "“The dramatic shift in the early expansion of the cosmos leaves distinct but detectable imprints of changes, for example on primordial gravitational waves.",
+        "“These gravitational wave signatures open up new avenues for us to unravel the evolution of the early universe after the Big Bang.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "conversation-what-is-sharia-law-and-why-is-it-so-controversial-in-the-u",
+      "title": "What is Sharia law, and why is it so controversial in the United States?",
+      "dek": "At a campaign rally , in Port Huron, Michigan, on Oct. 25, 2026, President Donald Trump accused U. S. ",
+      "category": "科技",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T12:25:58.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/what-is-sharia-law-and-why-is-it-so-controversial-in-the-united-states-294224"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "At a campaign rally , in Port Huron, Michigan, on Oct. 25, 2026, President Donald Trump accused U. S. Senate candidate Abdul El-Sayed of being a “jihadist” who wants to impose Sharia law – Islamic law – in the United States. His comments reflect a broader pattern among Republican politicians of portraying Sharia as a threat to the American legal system.",
+        "In March 2026, Texas legislators launched the Sharia Free Texas Caucus, a group dedicated to preventing what its members describe as the spread of Islamic law in Texas. Its founder, state Rep. Brent Money, has characterized Sharia as “an entire civilizational legal structure” that threatens American law and institutions. That same month, nearly 95% of Texas Republican primary voters backed a nonbinding proposition declaring that “ Texas should prohibit Sharia Law .” The movement extends beyond Texas. In Congress, the Sharia Free America Caucus , established in December 2025, grew to 68 Republican lawmakers from 25 states in just six months.",
+        "These efforts reflect a long-standing claim , frequently invoked by anti-Sharia activists, that Muslims are seeking to establish a parallel legal system that will eventually replace American law.",
+        "But this rhetoric raises a more basic question: What exactly is Sharia, and what does it actually mean for Muslims to follow it while living in the United States?",
+        "I am a law professor who studies religious liberty . My 2019 book, “ When Islam Is Not a Religion ,” examined how ordinary Muslim religious practices come to be treated as political threats, and I recently documented that pattern in Texas . The Sharia controversy shows how this happens.",
+        "In Arabic, “sharia” means a path or way, literally “ the path to a watering place .” For Muslims, it refers to the divinely ordained way of living a moral and religious life, guided by the Quran and the teachings of the Prophet Muhammad.",
+        "Sharia guides Muslims how to pray, when to fast, what to eat and how much to give to charity. It also addresses marriage and divorce. These rules span what Americans would sort into law, ethics, manners and worship, as law professor and an authority on Islamic law Asifa Quraishi-Landes has explained .",
+        "This distinction matters because Americans often think of law as something established and enforced by the state. Sharia is broader than that. A Muslim who avoids pork or prays five times a day may see each practice as part of following Sharia, but neither requires a separate legal court or government enforcement.",
+        "Rules governing marriage, divorce and inheritance, by contrast, may have legal consequences, though how they are interpreted and applied varies across Islamic traditions. Indeed, as Quraishi-Landes notes, Sharia itself obliges Muslims to follow the law of the land wherever they live.",
+        "Muslims do not all agree on how Sharia should be interpreted. They distinguish between Sharia, which they regard as the divine ideal, and “ fiqh,” the human effort to understand and apply it . In other words, Muslims believe Sharia comes from God, but people must figure out what it requires in practice. Because people can disagree, interpretations can differ and change over time.",
+        "Sunni Islam’s four major schools and Shiite Islam’s legal traditions sometimes reach different conclusions about matters such as marriage, divorce and financial transactions.",
+        "For example, scholars differ on whether Muslims can take out conventional mortgages to buy homes, given Islamic prohibitions on interest, and on the conditions under which a marriage can be dissolved. They continue to debate newer questions, too, such as whether organ donation is permissible or how modern banking can comply with Islamic principles .",
+        "No single institution speaks for all Muslims. Yet political debates often treat Sharia as a fixed rule book, when much of the Islamic legal tradition consists of ongoing disagreements about what its rules mean and how they should apply.",
+        "Muslims are subject to the same laws as everyone else in the United States. Their religious commitments may guide personal decisions about marriage, divorce, finances and everyday conduct, but Sharia has no independent legal authority. Muslims can follow religious rules voluntarily, but those rules cannot override American law.",
+        "This is not unique to Islam. Religious communities across the country have long used their own procedures to resolve disputes. For example, many Orthodox Jewish couples sign prenuptial agreements committing them to appear before a Jewish religious court, known as a beth din, if their marriage breaks down. The court can then help facilitate a religious divorce, including addressing situations in which a husband refuses to grant his wife a religious divorce. Christian organizations likewise offer biblical mediation and arbitration to resolve conflicts according to religious principles.",
+        "Muslims can similarly turn to religious scholars or mediators for guidance on family or financial disputes. These arrangements are generally voluntary, and any legally enforceable agreement must comply with American law.",
+        "A religious ruling does not become binding simply because a religious authority issues it. Like other religious communities, Muslims may organize aspects of their personal lives around their faith, but they do so within the framework of American law.",
+        "Critics often claim Sharia is gaining a foothold in the courts. The concern usually arises when Muslims ask a court to recognize a religious contract or arbitration.",
+        "Consider an Islamic marriage contract promising the wife a marriage gift, known as “mahr,” some or all of which may be payable if the couple divorces. A court asked to enforce it does not decide what Islamic theology requires. It asks whether the agreement meets ordinary contract law. In 2020, a Maryland appeals court held that a “mahr” could be enforced only under the same secular standards that apply to any agreement between spouses. In other words, the court’s job is to determine whether the couple’s agreement is legally enforceable, just as it would with any other contract. It is not enforcing Islamic religious law.",
+        "Courts may apply what the Supreme Court calls “ neutral principles of law .” That simply means applying ordinary legal rules without deciding religious questions. A judge can determine whether two people entered into a valid contract, for example, but cannot decide which interpretation of Islam is religiously correct. As law professor Haider Ala Hamoudi has observed , courts can enforce a “mahr” agreement precisely because doing so does not require them to interpret Islamic law.",
+        "Arbitration works the same way. Texas Gov. Greg Abbott has called Islamic panels “ Sharia tribunals masquerading as legal courts .” Yet the Beth Din of America also structures its proceedings so civil courts can enforce its rulings, as do Christian arbitrators.",
+        "Courts can enforce voluntary arbitration awards and can also vacate them for fraud or overreach. For example, suppose a Muslim couple voluntarily agree to have a religious arbitrator resolve a financial dispute. If the arbitrator orders one spouse to pay the other US$10,000, a court may enforce that decision just as it would any other arbitration award. But if one spouse was coerced into participating or the arbitrator exceeded the authority the couple had agreed to give them, a court could set the decision aside.",
+        "A religious arbitrator cannot override a statute or the Constitution.",
+        "Some concerns stem from how certain governments enforce Islamic law. In Iran, U. N. investigators have documented escalating violence against women accused of violating hijab rules. In Afghanistan, the Taliban have issued more than 100 decrees targeting women and girls ."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "conversation-political-information-increasingly-comes-from-pop-culture-",
+      "title": "Political information increasingly comes from pop culture, outside of partisan silos but where male creators – and sometimes misogyny – dominate",
+      "dek": "Research on political polarization points to how people’s preferred news outlets and social media use create information silos, environments in which people primarily…",
+      "category": "文化",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T12:25:33.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/political-information-increasingly-comes-from-pop-culture-outside-of-partisan-silos-but-where-male-creators-and-sometimes-misogyny-dominate-294202"
+      },
+      "cover": "books",
+      "accent": "yellow",
+      "paragraphs": [
+        "Research on political polarization points to how people’s preferred news outlets and social media use create information silos, environments in which people primarily encounter views consistent with their own , further cementing those views.",
+        "But this research often omits an important source of political information: popular culture , from influencers and podcasts to comedy, television and movies.",
+        "Politics are intertwined with popular entertainment media . The current president is a former reality television star who was reelected in 2024 with the help of comedy podcasters like Joe Rogan . Blockbuster films such as “The Odyssey” spark controversy and turn into political footballs , while late-night talk show hosts must skirt the Trump administration’s regulatory ire with their politically oriented humor.",
+        "While we know a lot about the news-consumption habits of Republicans and Democrats , there is less data about the other places that people encounter political ideas. This is particularly true for younger people, who are increasingly likely to get political content from social media influencers and popular culture sources .",
+        "Political consultant Sarah Longwell of The Bulwark recently told The New York Times’ Ezra Klein that many people in her focus groups get political information from an “algorithm-driven information environment” populated by influencers, comedians and sports personalities. She noted that the “overlap between politics and culture” creates a “vibe” that shapes many people’s political decision-making.",
+        "As co-founders and research affiliates of Colorado State University’s Center for Democracy, Art, and Popular Culture , we conducted a survey that documents the pop culture preferences of Americans ages 18-49.",
+        "We wanted to know whether the siloing that has been observed in Americans’ news environments is replicated when younger Americans are consuming entertainment media that often contains political content.",
+        "That matters, because popular influencers and entertainers who cross partisan boundaries have an increased ability to shape the political “vibe” discussed by Longwell. And an important finding from our survey is that many of the favorite creators and outlets ranked in the survey feature men and promote masculinity.",
+        "Pop culture is the diverse collection of cultural productions consumed by members of a society: films, television series, video games, art, music, comedy and the like.",
+        "We asked 741 Americans to name their top influencers, podcasts, comedians, musicians, video games, films and television series. We examined results by age and political party.",
+        "Respondents first identified which pop culture outlets they engaged with and then shared their favorites in each content category. The answers were diffuse, but trends are evident in the top three listed by people across political affiliations.",
+        "Both the Democratic and Republican parties have turned to influencers to reach voters – particularly young voters – who “don’t consume traditional political news.”",
+        "In our survey’s lists of favorite influencers, three creators who rose to fame staging viral stunts, interviewing celebrities and playing video games on YouTube and the live streaming platform Twitch dominated the list: MrBeast was No. 1 for Democrats, Republicans and independents. Republicans and independents ranked Kai Cenat in their top three, while IShowSpeed was No. 2 for Democrats and Republicans.",
+        "A similar pattern of the same names populating each list is evident in people’s favorite podcasts. “ The Joe Rogan Experience ” and “ Call Her Daddy ” were in all groups’ top three, while Republicans and independents also ranked the “ Tucker Carlson Show ” and “ This Past Weekend with Theo Von .”",
+        "Joe Rogan and Theo Von are comedians turned podcasters , whereas Tucker Carlson rose to fame as a right-wing pundit. “Call Her Daddy” is an outlier on our list insofar as it is hosted by a woman, Alex Cooper, and is known for frank discussions of sex and relationships.",
+        "The website Campaigns & Elections reported that in 2024 half of all registered voters surveyed who listened to at least one podcast per month said that podcasts had some influence on their vote . The site reported that in the 2024 presidential election, those podcast listeners favored conservatives.",
+        "Our survey helps to explain why. Rogan, popular with all three groups, has long voiced libertarian ideas and platformed right-wing politicians . Von occupies a similar space, and Carlson is conservative. Both are favorites not just of Republicans but also independents.",
+        "Political scientists and media scholars have demonstrated how comedy can influence politics. Our survey found considerable overlap among political partisans’ favorite comedians.",
+        "Dave Chappelle , creator of the boundary-breaking Comedy Central series “Chappelle’s Show,” topped the list for Democrats and Republicans and was the second favorite of independents. Bill Burr, known for comedy that is both cocky and aggrieved , was in the top three for Republicans and Democrats, while Shane Gillis, whose comedy The New York Times says “ fits into the evolving meaning of conservatism ,” was second and third for independents and Republicans.",
+        "Video games are another shared pop culture venue where Americans of different political affiliations are encountering one another as they play, via discussions with other players on Twitch and by participating in the comments sections of gameplay livestreams.",
+        "Researchers have demonstrated that young people, in particular, are exposed to diverse political views when engaging with one another in “ online participatory activities that are non-political in nature .”",
+        "For example, one study examined how a viral trend of “ building Trump’s wall” while playing Fortnite spurred political discussions both inside the game and in comments on gameplay videos and social media posts.",
+        "U. S. Rep. Alexandria Ocasio-Cortez demonstrated the political power of the medium in 2020 when she livestreamed herself playing the game Among Us, an online, multiplayer deduction game similar to the popular party games Mafia and Werewolf . Ocasio-Cortez playing the game with U. S. Rep. Ilhan Omar and prominent gamers was billed as a get-out-the-vote effort and earned 4. 5 million views.",
+        "In our survey of video games favored by people of different political affiliations, Call of Duty, Fortnite and Sims appeared on all three lists."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "conversation-democrats-are-the-unwitting-beneficiaries-of-trumps-immigr",
+      "title": "Democrats are the unwitting beneficiaries of Trump’s immigration policies",
+      "dek": "In a 2025 investigation , The New York Times reported that officials in President Joe Biden’s administration, in the wake of Biden’s 2020 election win, had viewed rising…",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T12:25:18.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/democrats-are-the-unwitting-beneficiaries-of-trumps-immigration-policies-295235"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "In a 2025 investigation , The New York Times reported that officials in President Joe Biden’s administration, in the wake of Biden’s 2020 election win, had viewed rising immigration as “a distraction” best ignored so that the administration could concentrate political resources on more important economic matters.",
+        "Scott Shuchart, a Biden appointee who joined the Immigration and Customs Enforcement agency in 2022, told the newspaper that the White House was “wishing the problem would go away so that they could focus on the things they cared about.”",
+        "But two years after Donald Trump leveraged voter dissatisfaction with the Biden administration’s management of the U. S. southern border to win the 2024 election and enforce his immigration crackdown , the issue has suddenly become a secondary matter.",
+        "Amid the rising U. S. cost of living , a destabilizing war in Iran and a disrupted system of global commerce , the now-quiet border has relieved Democrats of their thorniest issue just in time for midterm elections.",
+        "For the past three decades, the Democratic Party and its candidates have struggled to develop and pass new immigration policies and communicate related political messages.",
+        "Bipartisan attempts at comprehensive immigration reform died on Capitol Hill in 2006, 2007 and 2013 . Since then, a majority of Americans has trusted Republicans more with governing the issue. That has given the GOP an advantage when the salience of immigration policy has risen due to border crises and related high-profile events, even if that edge has recently narrowed.",
+        "In a February 2024 poll, 28% of U. S. respondents told Gallup that immigration was the country’s most important problem – matching the largest share since tracking began in 1981. By May 2026, that figure was 8%, a staggering drop in such a short period.",
+        "In a different poll by The Economist/YouGov, the share of U. S. registered voters who identified immigration as the country’s most important issue fell from 14% in October 2024 to 5% in September 2026 .",
+        "Erik Iverson, a Republican Senate campaign pollster, recently told Axios that declining border crossings have reduced the urgency of immigration , depriving Republicans of an issue that previously energized voters and offered conservatives an advantage.",
+        "But this success is dubious. President Trump’s approval ratings on immigration are underwater.",
+        "In the RealClear Polling average from September to October 2026, his net approval was at negative 10. 8%. In a recent Fox News poll , most Americans believe the Trump administration has “gone too far” in enforcing immigration laws, including 60% of independents.",
+        "Despite Republicans’ insistence that the mass removal of undocumented immigrants and a halt to new migrants would raise wages and make housing more accessible , Americans are experiencing high inflation rates , slow gross domestic product growth and sour consumer sentiment .",
+        "Ominously for the White House, Trump’s negative 10. 8% net approval score on immigration is actually among his best. On inflation, the economy and foreign policy, his net approval rating is at negative 42. 8% , negative 31. 7% and negative 27. 8% , respectively.",
+        "These dynamics bode well for Democrats’ midterm election prospects.",
+        "Republicans are now less concerned about immigration – what has been their greatest source of political energy and the left’s greatest political liability – as both parties’ voters are focused on other matters.",
+        "Despite the White House’s aggressive and frequently violent pursuit of undocumented immigrants , its proposal to end birthright citizenship , and its near closure of U. S. borders , even Democrats are no more likely to identify immigration as the country’s top issue today than they were previously.",
+        "According to The Economist/YouGov polling cited earlier, 1% of Democrats named immigration as their top issue in September 2026. In October 2024, 3% said the same.",
+        "Remarkably, without Democrats’ endorsement of a single new immigration policy idea, independents now express greater trust in Democrats than Republicans on immigration, 41% to 27%, according to a September 2026 Marist survey .",
+        "Democrats’ sudden edge arises after a decade of trialing different approaches to counter the nativism and popular discomfort that Trump has harnessed.",
+        "Before Trump’s 2016 election victory and immediately thereafter, Democratic leaders sought to ameliorate the image of foreigners in the U. S. , by highlighting that immigrants start more businesses , file more patents and commit fewer crimes than native-born U. S. citizens on average.",
+        "During this period, Democrats commonly cited immigrants’ acute vulnerability and their willingness and ability to fill critical low-skilled and high-skilled labor gaps. But the praise and pity produced resentment among many Americans who did not want an admissions system that elevated foreigners to a higher pedestal.",
+        "Toward the end of the first Trump administration, Democrats began citing the immense macroeconomic and fiscal benefits driven by immigrants’ long-term settlement in the U. S.",
+        "Economists attribute to immigrants the bulk of U. S. population growth from 1990 to 2015. And economists have shown that continued immigration mitigates inflation and extends the solvency of Social Security and Medicare funds . Immigration also provides workers for industries like construction, agriculture , food production and healthcare .",
+        "However, the benefits of these relationships for average voters tend to be diffuse and realized in the medium-to-long run. That makes them hard to recognize."
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "conversation-we-discovered-an-organism-that-lives-at-blistering-tempera",
+      "title": "We discovered an organism that lives at blistering temperatures – but what allows it to take the heat?",
+      "dek": "Organisms are products of the environments they live and evolve in. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T12:25:00.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/we-discovered-an-organism-that-lives-at-blistering-temperatures-but-what-allows-it-to-take-the-heat-293407"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Organisms are products of the environments they live and evolve in. While the physical world is governed by universal laws like thermodynamics and gravity, there are few laws of biology. An open question for biologists like me is how environmental conditions shape what organisms look like and dictate how they live, breathe and move.",
+        "Organisms can adapt to survive in a wide variety of conditions, from salty water to extreme heat or cold and changing climates. Most eukaryotic organisms that have been studied with cell types similar to our own live at temperatures close to those of the human body , with an average of 95 degrees Fahrenheit (35 degrees Celsius).",
+        "Organisms thriving at temperatures higher than this range, known as thermophiles, could help directly answer what effect temperature has on the rules for life. These rules can help scientists learn more about where life could exist. In a study published in September 2026 , our research team identified a new thermophile that can survive at hotter conditions than any other previously recorded.",
+        "Eukaryotic cells , like the ones found in our bodies, contain organelles like nuclei and mitochondria . Eukaryotic organisms are reported less often than bacteria in extreme conditions, and based on observations from fungi at 140 F (60 C), scientists had theorized that eukaryotic life is not physically possible beyond 143 F (62 C).",
+        "In our new study, our team isolated and characterized a unicellular eukaryote , Incendiamoeba cascadensis , which is able to reproduce at 145 F (63 C). This finding marks the highest temperature yet recorded for eukaryotic life.",
+        "Our team found Incendiamoeba cascadensis in geothermal springs in Lassen Volcanic National Park , in Northern California, but we suspect it might also be found in other geothermal areas worldwide.",
+        "Like many amoebae – cells that change shape as they move – Incendiamoeba is a forager. It can move around in search of food and favorable conditions. It actively crawls at 147 F (64 C), but a few degrees more and it will enter a protective hibernation-like state.",
+        "While bacteria have been recorded living up to 212 F (100 C), it is unclear why eukaryotic cells are less amenable to high temperatures and other extremes. Many theories abound: Our cells have more protective membranes, including several membranes within each cell, surrounding their organelles. We also have complex molecular machinery that maintains our large genomes, and a dynamic cytoskeleton : a network of proteins that allows our cells to move.",
+        "Like other eukaryotes, Incendiamoeba has organelles, an active cytoskeleton and a relatively large genome, so what allows it to persist where others cannot? So far, Incendiamoeba has revealed that we don’t yet know which parts of eukaryotes are generally incompatible with high temperature.",
+        "As someone who investigates phenomena at the molecular level, I am always thinking about how molecules move and how motion increases with temperature. At higher temperatures, the velcrolike bonds holding proteins together can unfold, preventing them from performing their vital functions. Eukaryotes have evolved protein helpers called heat shock proteins , which detect protein unfolding and help refold them.",
+        "So, could Incendiamoeba simply have more of these helper proteins? Our team found that it does have a large reservoir of heat shock proteins, but making these proteins requires a lot of energy, and they must be folded themselves, so more helper proteins probably isn’t the full answer.",
+        "Incendiamoeba also has a unique set of protein building blocks that are good at holding proteins together. Yet this composition may only make up for the fact that proteins degrade more easily with increasing temperature.",
+        "We can look at Incendiamoeba’s genes, which turn on – or up – when temperature rises. Many of these genes are unknown. It is possible that one of these mystery genes is the key to its ability to withstand high temperatures. However, it is more likely, and in my mind, much more interesting, that there exists a symphony of small changes this organism has evolved, which confer its unique abilities.",
+        "By investigating Incendiamoeba and finding others like it, we can determine those changes and learn about the key principles for how life works on our environmentally diverse planet.",
+        "Kristen Skruber receives funding from the M. J. Murdock Charitable Trust."
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "conversation-driverless-18-wheelers-are-on-a-few-highways-but-widesprea",
+      "title": "Driverless 18-wheelers are on a few highways, but widespread use is a long way down the road",
+      "dek": "Driverless trucks with artificial intelligence on board could dramatically change the landscape of freight shipping. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T12:24:43.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/driverless-18-wheelers-are-on-a-few-highways-but-widespread-use-is-a-long-way-down-the-road-291123"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Driverless trucks with artificial intelligence on board could dramatically change the landscape of freight shipping. A few companies have begun testing early models on some limited routes in Texas and California . Simulations of automated fleets show the potential benefits of the technology: The vehicles could improve safety, enhance fuel economy and lessen transit times.",
+        "Truck makers and operators still have to solve some major issues, however, including how automated trucks will operate in variable weather and road conditions, and whether drivers should still be inside big rigs.",
+        "I am an engineer who studies human factors and transportation safety , and in my view, it is likely that automated trucks and human drivers will be working together for quite some time.",
+        "Fully automated trucks , which can drive on an interstate highway in good weather without human intervention, use a combination of AI, machine learning, computer vision, pattern recognition and adaptive decision-making. Torc , one company developing these vehicles, uses AI to combine data from multiple sensors and generate models that predict truck performance.",
+        "Data taken from modern big rigs that are equipped with certain technology such as automatic emergency braking and lane-keeping assistance systems indicate that fully automated, driverless trucks could reduce the number and severity of crashes. They could also save fuel and therefore cost by optimizing acceleration and braking , and by running multiple vehicles in a close-knit convoy or platoon . Driverless trucks could reduce parking needs as well as emissions from idling because they could run almost 24 hours a day and would not need to idle when they do park, which is common for regular rigs at truck stops.",
+        "Finally, automated trucks could help ease the ongoing driver shortage . Ironically, automation could make driving less stressful and less physically demanding, improving job satisfaction among drivers .",
+        "The main reason automated trucks are not common today is that they have difficulty operating in variable weather, under changing roadway conditions and alongside unpredictable drivers.",
+        "Automated trucks require sensors, radars and cameras that gather information about the environment around them to make decisions. However, snow and rain remain a problem for all automated vehicles , including cars, because they prevent the technology from “seeing” the roadway. Driverless taxi company Waymo, for example, only operates driverless cars in areas that get no snow.",
+        "Furthermore, any stretch of road where there may not be a predictable, clear surface and prevalent lines is difficult to handle . Imagine a construction zone with orange cones, narrow lanes and missing lane lines. Driverless car companies still try to avoid these areas . And, oddly, some research shows that automobile drivers tend to crash into driverless cars at a higher rate than they do cars piloted by people.",
+        "Given those challenges, companies are testing automated trucks on roads that lack complications.",
+        "For example, autonomous truck maker Aurora is operating large freight trucks on I-45 , a relatively flat and straight highway between Dallas and Houston. Rival Kodiak’s robotrucks are delivering sand to industrial sites in Texas over roads few people use. Few if any automated trucks are being tested in chaotic urban environments, given the pedestrians, bicyclists, traffic lights and elements of city traffic.",
+        "Some companies that were developing automated trucks have scaled back ambitions, changed direction or exited the market.",
+        "In 2023, Embark, TuSimple and Locomotion closed down . Waymo began to focus solely on cars . Other companies narrowed their focus to trucks that would operate only along a few dedicated routes between two large cities or manufacturing sites.",
+        "In my view, for years to come, automated trucks with AI-based controls will still require a driver.",
+        "The best technology will support a symbiosis between human and machine, where the person and the truck each do what they do best. A human would likely drive the truck across the “first mile” – the uncertain and crowded warehouse grounds and local streets to a highway. The driver would then stop using the steering wheel, gas pedal and brake and let automation take over. The human would take back control during the “last mile” to the truck’s final destination.",
+        "Research my colleagues and I conducted shows that human-machine interfaces that communicate between drivers and autonomous vehicles will be key. For example, a screen or heads-up display inside the cab would tell the driver how the technology is doing. Verbal messages or a vibrating seat could signal that the automation cannot handle a developing situation, and the driver would take over.",
+        "Developers will have to be aware of possible biases. So-called automation bias could lead to a driver who trusts and relies on the truck’s decision-making so much that they defer to it. Algorithmic bias could cause truck sensors to recognize certain groups of people on the road more than others, such as only detecting pedestrians of a certain size or shape.",
+        "The long-term vision is to have no driver, in part to lower costs. But driverless trucks do not seem to me to be practical on a large scale in the near future. It is more realistic to envision the driver and the automated truck as a team. Vehicle manufacturers, technology developers, regulators and drivers will need to work together to realize the benefits.",
+        "Shannon Roberts receives funding from the Massachusetts Department of Transportation, National Science Foundation, NYSEARCH, Sloan Foundation, and US Department of Transportation. She has previously received funding from Belron, GM, and Toyota Collaborative Safety Research Center."
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "conversation-faculty-and-students-show-how-reporting-is-done-when-a-uni",
+      "title": "Faculty and students show how reporting is done when a university partners with local news",
+      "dek": "Catherine Bilskie, the advertising and office manager for the newspaper in Solon, Iowa, had seen many local news outlets close. ",
+      "category": "校园",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T12:24:19.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/faculty-and-students-show-how-reporting-is-done-when-a-university-partners-with-local-news-292102"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Catherine Bilskie, the advertising and office manager for the newspaper in Solon, Iowa, had seen many local news outlets close. So she was sure her job at the Solon Economist was about to go one Friday morning in February 2024.",
+        "But to her surprise, a new owner, Jason Brummond, appeared. He not only promised to keep her and her co-worker employed at the weekly paper but assured them raises if they agreed to an unusual new venture. And he wasn’t a wealthy benefactor or a representative from a private equity firm – he came from the University of Iowa.",
+        "It’s just one example of academic institutions stepping up to address the “ news desert ” crisis: Thousands of communities across the U. S. have lost local newspapers over the past two decades. And journalism faculty, staff and students are increasingly working together to either rescue legacy newspapers or start new publications for communities lacking local news outlets.",
+        "These partnerships have ranged from the Spanish-language news site Noticiero Móvil at the University of Nevada, Reno, to “ Good Morning Indian Country ” at the University of Kansas, to The Scope at Northeastern in Boston.",
+        "We’re journalism professors who have studied and experienced the opportunities and challenges of running community news through higher education. Our new book, “ News Desert U ,” asks whether this approach is one solution to saving local news. We believe the need is urgent given the stakes and the scope of the crisis.",
+        "Over 3,000 newspapers have closed in the U. S. in the past 20 years, including about 170 in 2025, according to Northwestern’s 2026 State of Local News report . Causes include an antiquated business model, declining advertising revenue and hedge-fund buyouts that have gutted papers. Northwestern’s 2025 report estimated that total print newspaper circulation has declined 70% in the past 20 years.",
+        "But university partnerships can show promise, we found, with the help of the next generation of journalists.",
+        "Iowa’s Solon Economist is one example. The University of Iowa doesn’t actually own the paper, or its sister paper, the Mount Vernon-Lisbon Sun. Still, the relationship is key to making the new venture work.",
+        "Its owner, Brummond, is also the publisher of the University of Iowa’s student newspaper, the Daily Iowan, which is owned and operated by the nonprofit Student Publications. While the student newspaper office is inside the journalism school’s building, it operates independently.",
+        "In August 2023, Student Publications began talks about buying the Sun and the Economist after the weeklies’ then owner reached out about selling the publications. With both newspapers 20-30 minutes from campus, discussions included how the faculty and students could help the papers.",
+        "The Journalism School’s director, Melissa Tully, was immediately in favor – provided that the newspapers’ existing professional staff stay and not be replaced with students. In addition to the editors, this included keeping the advertising and circulation staff.",
+        "“They know these communities. So that was really important just from a moral and ethical imperative, but also from a news perspective,” she said. “They’re trusted in their communities. They know what’s going on.”",
+        "Student Publications bought both newspapers for US$10,000 in 2024. Since then, circulation has remained stable at both, Brummond said, even as many other publications across the country have suffered declines.",
+        "Meanwhile, students in classes such as community news, high school sports, social media marketing and photography contribute for academic credit while other students do paid internships.",
+        "Solon Economist Editor Chris Umscheid said he welcomes a revolving door of student interns because it means he’s “actually going to have staff for once.”",
+        "“People thought we were going to be the university’s paper, and we’re not,” he said. “I don’t anticipate anything changing there. We’re still going to focus on everything Solon that we can.”",
+        "The success has led to Student Publications getting requests to buy other newspapers, Tully said, and it’s working on a list of criteria to consider future partnerships. Brummond cautions these arrangements aren’t easy to pull off, as they require a careful review of finances, workflow and logistical complications that come with a merger.",
+        "Liz King, who served as Solon Public Library director, said many locals were afraid the newspaper would close, which would have been a hard blow for the town of about 3,000.",
+        "Some readers only get their news through the newspaper, she said. “They’re not comfortable with online sources.”",
+        "Dink NeSmith had a similar close scare in Georgia with the The Oglethorpe Echo .",
+        "Owner Ralph Maxwell had decided in September 2021 that he had no choice but to shutter the paper due to his own health issues, revenue declines and lack of interest from prospective buyers. He gave NeSmith, an old friend and retired newspaper owner, an early heads-up.",
+        "“I don’t know that I want to live in a town that doesn’t have its newspaper,” was NeSmith’s response. He told Maxwell: “You can’t close the Echo.”",
+        "NeSmith immediately reached out to the University of Georgia’s journalism school to suggest a partnership.",
+        "In the meantime, NeSmith worked to set up a separate nonprofit, Oglethorpe Echo Legacy, for the paper’s new ownership structure. Keeping the newspaper’s finances independent of the university was an important step to ensure the paper would not be subject to any possible “whims” of future administrations, as Charles Davis, the journalism school’s dean, put it. That status was also a signal to Oglethorpe County that the paper’s goal was to serve the community, not make money, he added."
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
