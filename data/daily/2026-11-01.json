@@ -1,0 +1,1143 @@
+{
+  "generatedAt": "2026-10-31T21:04:26.125Z",
+  "date": "2026-11-01",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-giant-virus-yields-potassium-channel-gene-that-illuminates",
+      "title": "Giant virus yields potassium channel gene that illuminates complex protein evolution",
+      "dek": "Researchers have discovered a gene for a tandem potassium channel in an algal virus. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T21:00:05.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Researchers have discovered a gene for a tandem potassium channel in an algal virus. The finding supports the view that giant viruses may have contributed significantly to the evolution of complex proteins. The study is published in the journal Proceedings of the National Academy of Sciences .",
+        "So-called tandem potassium channels perform important functions in human physiology. Because they can conduct potassium ions (K + ) across the cell membrane, they help, among other things, to stabilize the membrane potential and thereby regulate the electrical excitability of nerve cells.",
+        "Structurally, they differ from all other potassium channels in that two of their four pore-forming subunits are directly linked to each other. It is this tandem-like linkage of the subunits that gives them their name.",
+        "Unlike every other type of potassium channel, precursors of tandem potassium channels have not been found in bacteria, which has raised questions about their evolutionary origin.",
+        "In the PNAS article, the international team, including researchers from the Department of Biology at TU Darmstadt and the Department of Natural Sciences at Bonn-Rhein-Sieg University of Applied Sciences (H-BRS), reports on a DNA virus that infects marine algae and whose genome contains a gene for a tandem potassium channel.",
+        "\"Our experiments show that this gene encodes a protein with the functional properties of a potassium channel,\" says Dr. Oliver Rauh, a scientist in the DFG research network \"CytoTransport\" at H-BRS.",
+        "The authors of the study also examined the evolutionary relationships between the newly discovered viral channel and known tandem potassium channels and made a striking discovery: Contrary to what is assumed for most viral genes, the newly discovered potassium channel gene did not end up in the viral genome by being stolen from the host's genetic material. Rather, the gene appears to be of viral origin.",
+        "\"This finding further reinforces a new perspective according to which the giant mimiviruses, to which this virus belongs, have played a central role in the evolution of proteins in higher organisms,\" emphasizes Gerhard Thiel, a professor in the Department of Biology at TU Darmstadt.",
+        "The results of the study also underline that these viruses are rich sources of interesting proteins. In the same virus, other researchers have already discovered a light-controlled ion channel that is used in optogenetics , a field recently recognized with the Nobel Prize.",
+        "Journal information: Proceedings of the National Academy of Sciences",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "A giant virus infecting marine algae carries a gene encoding a functional tandem potassium channel. Evolutionary analyses suggest the gene originated in viruses rather than being acquired from a host, supporting a viral contribution to the evolution of complex proteins.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-why-do-people-prefer-human-empathy-despite-rating-ai-empat",
+      "title": "Why do people prefer human empathy despite rating AI empathy higher?",
+      "dek": "More people are turning to artificial intelligence (AI)-powered chatbots for companionship and to address loneliness. But can AI-generated empathy replace human connection?",
+      "category": "科技",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T21:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-people-human-empathy-ai-higher.html"
+      },
+      "cover": "pencil",
+      "accent": "orange",
+      "paragraphs": [
+        "More people are turning to artificial intelligence (AI)-powered chatbots for companionship and to address loneliness. But can AI-generated empathy replace human connection?",
+        "In a study published in the journal Communications Psychology , a team led by researchers at Penn State found that human users rated AI-generated empathetic responses higher in quality than human-generated empathetic responses, yet they preferred human empathy over AI .",
+        "In the following Q&A, C. Daryl Cameron, the Sherwin Early Career Professor and associate professor of psychology at Penn State, and doctoral student Joshua Wenger discussed AI empathy and why it may prove an effective complement to—and not a replacement for—human companionship.",
+        "Cameron: In our work, we took a research approach that allowed people to show through their choices what they actually want and care about. Studying people's actual choices in the moment can sometimes reveal their preferences. That was a core part of our study.",
+        "What's interesting is how, on the one hand, people don't seem to want AI empathy, but there is some subset of the population that does want it, so it's complicated. Nevertheless, people think that the actual content of what the large language models are saying is empathetic, interesting and validating, and so there's this paradox between what people want and what they choose to opt into, versus their actual evaluations of the material.",
+        "Wenger: We called this effect the \"AI empathy choice paradox,\" and it's this consistent pattern where people rate AI empathy or empathetic expressions from AI as higher in quality and more empathetic than those from real humans. It makes people feel more heard, cared for and validated than responses from human empathizers. But despite this higher quality, people still prefer to receive empathy—even lower-quality empathy—from humans over AI.",
+        "Wenger: For every response in our study, we asked people to rate how empathetic they found each response. We also asked them how much effort they thought the empathizer put into writing the response. This builds upon some theoretical work by the scholar Anat Perry and her paper \" AI will never convey the essence of human empathy. \"",
+        "In it she argues that one of the more important aspects of human empathy is the exertion of effort. Daryl's work has shown that empathy is an effortful act. The idea is that I, as a human empathizer, expend my emotional resources to express care for you, and by doing so, I am signaling your importance to me in some way. And because empathy is objectively effortless for AI, it's not emotionally effortful.",
+        "Interestingly, what our paper found is that when we asked people to rate the perceived effort in the AI- and human-generated responses, they rated AI overall as exerting more effort in the creation of these responses. What this means is complicated, because it's unclear whether people were answering the question as if AI were a human or genuinely perceiving effort. Regardless, we found this difference where, for AI empathy, it seemed like the empathizer put a lot of work into their response.",
+        "In addition, we found that the more effortful a response is perceived as being, the more empathetic people tend to perceive it. So, if someone puts a lot of effort into writing a response, it tends to make the response seem more empathetic. That could be one driver of the high-quality AI empathy.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Cameron: You might think that people who use AI more frequently would be more willing to choose AI empathy, but we don't tend to see that. Instead, we found these interesting patterns where AI empathy is rated as exerting more effort, but the relationship between effort and empathy also depends upon who's the one doing it. The relationship is stronger for humans than it is for AI. As you see higher levels of effort exerted, human empathizers catch up to AI. So, the gap between human and AI empathy is much smaller at higher levels of effort."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-chemists-develop-ai-tool-to-convert-human-ingenuity-into-l",
+      "title": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
+      "dek": "Many have voiced concerns that artificial intelligence will take jobs away from humans. ",
+      "category": "科技",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T19:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html"
+      },
+      "cover": "bulb",
+      "accent": "blue",
+      "paragraphs": [
+        "Many have voiced concerns that artificial intelligence will take jobs away from humans. But assistant professor of chemistry Zhongyue (John) Yang, along with his former doctoral student Qianzhen Shao (now a postdoc at Stanford) and other team members, has created an AI tool that aims to elevate the work that scientists do—not replace them.",
+        "MutexaGPT can speed up the \"customization\" of enzymes that drive countless chemical reactions essential to our daily lives. Engineered enzymes synthesize new medications, preserve nutrient-rich foods and help recycle polymers to reduce plastic waste. MutexaGPT takes plain-English, intuition-driven requests as input and leverages large language model agents to elicit missing information, build physics-based models and convert the results into actionable design proposals. The study is published in Nature Computational Science .",
+        "\"I know there are increasing concerns about AI replacing humans in the workforce, and I share them,\" Yang said. \"However, with MutexaGPT, we are not using AI to get things done more efficiently without people. We are showing that with AI you can translate human intuition, which is often imaginative and incredible, to create a workable plan.\"",
+        "He noted that enzymes, which are specialized proteins that speed up chemical reactions, can be viewed as nature's catalysts. Each enzyme consists of hundreds of amino acids, and changing even a single amino acid, which is called a mutation, can lead to substantial change in its function.",
+        "\"Now comes the major challenge, as no one knows how to predict mutations that alter genetic code without relying heavily on trial and error in industry,\" Yang said. \"For the enzyme engineering market, which yields hundreds of billions of dollars in revenue each year, this simply means large amounts of super expensive testing and resource costs. MutexaGPT aims to change this paradigm by enabling researchers to use natural language to explore, predict and design enzyme mutations, drawing on artificial intelligence and fundamental principles of chemistry and physics.\"",
+        "Among the tasks MutexaGPT can assist with is cold-active enzyme technology—engineering enzymes into versions that maintain high catalytic competence at lower temperatures. This is vital for cold-temperature processes like lactose-free milk and food preservation that ensures retention of heat-sensitive nutrients. Another practical application is the manufacture of laundry detergents that break down complex stains without the need for hot water. Similarly, designing enzymes with greater catalytic efficiency and selectivity makes pharmaceutical manufacturing more sustainable by reducing energy consumption, chemical waste and reliance on harsh reaction conditions.",
+        "As for the name of this tool, Mutexa is short for \"Alexa for Mutant.\" Yang said, \"The name reflects our original vision of creating an Amazon Alexa–like intelligent assistant for designing enzyme mutants.",
+        "\"Just as Alexa helps people accomplish everyday tasks through natural-language conversations, MutexaGPT aims to help scientists navigate the complex world of enzyme mutations through an intuitive, conversational interface. The 'GPT' highlights the integration of large language models , which allow researchers to communicate with the system in natural language while connecting their questions to sophisticated computational tools for enzyme engineering.\"",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Yang, who grew up in China, was trained as a pure computational chemist while earning his Bachelor of Science from the Chang Po-ling Program of Chemistry at Nankai University. He then enrolled at UCLA in 2013, where he completed his doctorate in four and a half years. He had a postdoctoral fellowship at MIT prior to joining the Arts and Science faculty in 2020. Since then, he has been working to develop Mutexa and conduct experiments on its efficacy.",
+        "\"For researchers who work on enzyme engineering and design, they often develop their own intuition into how things work,\" Yang said. \"They can have the principle but might not know how to quantify it,\" Yang said. \"We can translate their principles into actual designs with MutexaGPT. I am excited to envision a future in which scientists can engineer enzymes for specific applications as readily as they consult an AI assistant, accelerating innovations in medicine, sustainable manufacturing and everyday consumer products.\"",
+        "BA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile &rarr;"
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-calling-species-invasive-and-culling-them-isnt-done-lightl",
+      "title": "Calling species 'invasive'—and culling them—isn't done lightly. But it matters to Australia's threatened species",
+      "dek": "It may sound abstract, but distinctions between \"native,\" \"introduced\" or \"invasive\" species can often be life or death. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T18:00:05.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-species-invasive-culling-isnt-australia.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "It may sound abstract, but distinctions between \"native,\" \"introduced\" or \"invasive\" species can often be life or death. Species considered invasive in Australia—such as European rabbits and feral pigs—are often culled, while most native animals are generally left alone.",
+        "Debate over these terms doesn't usually go mainstream. But this month was different. On Oct. 13, independent Sen. David Pocock brought a motion in federal Parliament calling for a long-term plan to \"protect Australia's landscapes and wildlife from invasive species.\"",
+        "In response, Greens Sen. Mehreen Faruqi took aim at the term \"invasive,\" saying: \"There's no need for labeling introduced species as invasive in a way that blames animals for the man-made problems raised by this motion. Language matters. Animals are not villains to be shot or obstacles to be poisoned to death.\"",
+        "As an ecologist and conservation scientist, the debate spoke to me about how important it is to explain why \"invasive\" species are given this title, the damage they can do and why many need to be eradicated or their numbers greatly reduced.",
+        "If we stop trying to control some invasive species, we risk condemning even more native animals to extinction and worsening Australia's environmental decline.",
+        "Conservationists and authorities commonly use four words—introduced, feral, invasive and pest—to describe species present in Australia. Definitions can differ and there is debate over their exact meaning. But their broad meanings are clear:",
+        "An introduced species has been moved by humans to areas outside its known natural historic range. This can be accidental (think black rats on ships) or intentional (deer species introduced for hunting). Native species—such as the superb lyrebird—can also be considered introduced when moved to new locations in the same country.",
+        "Feral: This term refers to introduced domesticated species that now have wild populations independent of people. Feral cats, goats, horses, pigeons, pigs and camels are common examples in Australia.",
+        "Invasive: Invasives are introduced species whose presence is concerning, either due to their clear (typically negative) impact on ecosystems or their rapid spread after introduction. Not all introduced species are considered invasive, but all invasive species are introduced.",
+        "Pest: A species is considered a pest if it damages things humans care about, such as crops. Typically, pest species are relatively abundant. Both native and non-native species can be pests.",
+        "While these terms have some overlap, they are generally not interchangeable. They help inform environmental decision-making and guide conservation efforts—including culling or biological controls.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "For millions of years, Australia was relatively isolated. This shaped the evolution of the continent's extraordinary array of native species. Most plants, animals and other life forms here are found nowhere else on Earth.",
+        "These species have a right to persist in the face of European colonization, land clearing and waves of introduced species."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-ultracold-atoms-simulate-hard-to-observe-matter-antimatter",
+      "title": "Ultracold atoms simulate hard-to-observe matter-antimatter pair production",
+      "dek": "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T17:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in principle, convert some of its energy into particles and their antimatter partners. A particle's antimatter partner has the same mass and, for electrically charged particles, the opposite electric charge.",
+        "The creation of particle–antiparticle pairs via an electric field and from the vacuum is known as the Schwinger effect. As the production of these pairs is strongly suppressed at electric field strengths that can be realized in a laboratory setting, observing this effect experimentally has so far proved challenging.",
+        "Researchers at the University of Science and Technology of China and other institutions have now introduced an experiment that could be used to simulate and study this rare particle production process. Their experiment, outlined in a paper published in Physical Review Letters , entails representing particles and electric fields through the arrangement and motion of ultracold rubidium atoms trapped in an optical lattice , a laser light-based pattern that can trap atoms.",
+        "\"We were inspired by the Schwinger effect, the prediction that a strong electric field can spontaneously create electron-positron pairs from the vacuum,\" Zhen-Sheng Yuan, co-senior author of the paper, told Phys. org.",
+        "\"This is an example of 'false vacuum decay,' and in its original form it has never been observed directly. Our goal was to build a simple, controllable laboratory model with cold atoms, where we could simulate this process and tune how it unfolds.\"",
+        "In their experiments, Yuan and his colleagues used laser light to trap ultracold rubidium atoms in a one-dimensional chain, a straight row of tiny optical traps. Every second trap on this chain contained two atoms, while the traps in between were empty.",
+        "\"This arrangement is a 'false vacuum,' a state that can release energy by creating particle-antiparticle pairs,\" explained Yuan. \"We then changed the settings so atoms could hop between neighboring sites in a way that mimics pair creation, tuning the background electric field to control the process. A quantum gas microscope imaged the atoms at different times, letting us watch it happen.\"",
+        "The researchers changed the mass of the simulated particles in their system and the background electric field to determine how these changes affected the production of particle-antiparticle pairs. They found that when the simulated particles were heavier or when the electric field became too dominant relative to other interactions in their model, fewer pairs formed.",
+        "\"We also linked pair production directly to the 'vacuum persistence amplitude'—whose squared magnitude gives the probability that the initial vacuum survives—and saw long-lived oscillations in some physical limit,\" said Yuan. \"Together, these show how cold atoms bring otherwise hard-to-observe quantum-field processes into a controlled laboratory.\"",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "This study introduces a new experimental platform for simulating and studying the production of particle-antiparticle pairs. When the simulated particle mass was set to zero, the researchers observed oscillations that resembled the collective excitations predicted by the Schwinger model.",
+        "In the future, the team's proposed experiment could be used to investigate particle-antiparticle production processes that are extremely difficult to observe directly in an experimental setting. Yuan and his colleagues are now planning more studies that will rely on the experiment to study rare physical phenomena.",
+        "\"We would now like to study what happens when these simulated particles meet, collide and scatter,\" added Yuan. \"We also hope to extend the experiment from a one-dimensional chain to two dimensions and to other gauge theories, where richer phenomena such as string breaking become accessible.\"",
+        "Written for you by our author Ingrid Fadelli , edited by Gaby Clark , and fact-checked and reviewed by Robert Egan —this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "scitechdaily-alzheimers-linked-proteins-have-a-hidden-role-in-human-rep",
+      "title": "Alzheimer’s-Linked Proteins Have a Hidden Role in Human Reproduction",
+      "dek": "Proteins commonly associated with Alzheimer’s and Parkinson’s disease may have a surprising function in human reproduction. ",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T16:36:19.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/alzheimers-linked-proteins-have-a-hidden-role-in-human-reproduction/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Proteins commonly associated with Alzheimer’s and Parkinson’s disease may have a surprising function in human reproduction. Researchers at Columbia University’s Zuckerman Institute have discovered that amyloid fibrils, tiny protein fibers found in semen, can help transport RNA into sperm cells. The findings suggest a previously unknown pathway for moving genetic material into sperm and could eventually lead to new methods for delivering gene therapies.",
+        "Published in Molecular Cell , the research shows that amyloids can serve a useful biological purpose despite their association with neurodegenerative diseases. The scientists also demonstrated that these protein fibers can carry RNA molecules large enough to produce functional proteins in developing embryos.",
+        "The investigation grew out of earlier research showing that amyloid fibrils in semen can help HIV enter cells in the reproductive tract. Anthony Fitzpatrick, PhD, a Columbia researcher who studies amyloids in brain diseases, wondered whether these same structures might help transport the body’s own genetic material into sperm.",
+        "His team focused on RNA, a molecule involved in converting genetic instructions into proteins and regulating gene activity. Seminal fluid contains numerous small RNA molecules that may influence gene expression during embryonic development. However, scientists have not fully understood how these molecules move from semen into sperm.",
+        "HIV provided a potential connection because the virus uses RNA as its genetic material. If seminal amyloids could facilitate viral entry into cells, researchers reasoned, they might also help deliver free RNA molecules.",
+        "William Mallen, PhD, the study’s lead author, investigated whether amyloid fibrils could attach to RNA. The two have complementary electrical properties: amyloids carry a positive charge, while RNA is negatively charged. Using fluorescent markers, Mallen confirmed that the molecules bind together.",
+        "The researchers proposed that amyloids might also protect RNA during transport. RNA is relatively fragile and can be broken down by enzymes, whereas amyloid fibrils form highly stable structures. Encasing RNA within these fibers could potentially help preserve it, although that protective function has not yet been established.",
+        "To determine whether the fibrils actually enter sperm, the team used cryo-electron tomography (cryo-ET), a powerful imaging technique that creates detailed three-dimensional views of frozen biological samples. Amyloid fibers marked with tiny gold particles were found inside sperm cells, confirming that they could cross the cell boundary rather than simply attach to its surface.",
+        "“Seeing those amyloid fibers inside sperm cells was just so extraordinary to me,” said Mallen, who is now a medical student at the University of Vermont. “There were hints of this happening earlier in our other experiments, but actually seeing this just totally blew us away.”",
+        "Additional experiments using fluorescent markers showed that amyloid fibrils greatly increased the amount of RNA entering sperm. The researchers also identified a possible mechanism for releasing the transported material: a protein called clusterin could help separate RNA from its amyloid carrier once inside cells.",
+        "The team tested whether the fibrils could deliver larger RNA molecules capable of directing protein production. Sperm exposed to amyloid-bound RNA encoding green fluorescent protein were used in fertilization experiments. The resulting embryos produced at least 10 times more of the fluorescent protein than embryos fertilized with sperm exposed to the same RNA without amyloids.",
+        "Previous studies have suggested that RNA carried by sperm can influence gene activity in offspring through epigenetic mechanisms, which regulate how genes are used without altering the underlying DNA sequence. Research in mice has also linked paternal transmission of certain metabolic conditions, including insulin resistance, to RNA-mediated processes.",
+        "Beyond reproduction, the findings could have implications for RNA delivery in medicine. Technologies such as CRISPR rely on RNA to guide gene-editing machinery toward specific DNA sequences, but getting these components safely and efficiently into cells remains a major challenge.",
+        "Some gene therapies use modified viruses to transport genetic material into cells. Although effective in many applications, viral delivery systems can provoke immune responses. Amyloid fibrils derived from human proteins might eventually provide another approach, although their safety and effectiveness as therapeutic carriers still require investigation."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "phys-four-superconducting-cables-link-two-large-quantum-process",
+      "title": "Four superconducting cables link two large quantum processors into one",
+      "dek": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T16:00:02.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can work together as one larger machine. For this to happen, however, connections must carry fragile quantum information without destroying it.",
+        "For superconducting processors, this means building reliable links around a meter (3. 3 feet) long inside equipment chilled to just above absolute zero. A team at IBM Research has now achieved this for the first time: joining two large superconducting processors using four separate high-quality quantum links, all installed after both chips were already in place.",
+        "Their work is detailed in a new paper published on the arXiv preprint server.",
+        "So far, quantum links between superconducting chips have mostly involved a single connection between small experimental processors. These links have allowed researchers to transfer quantum states from one chip to another, and to create quantum entanglement .",
+        "To build larger machines, however, engineers will need to install many connections between processors that are already mounted in their refrigerators. These attachments must be packed closely together, lose very little of the signal passing through them, and keep working as the system is repeatedly warmed and cooled.",
+        "To tackle this challenge, the IBM team linked two of its 120-qubit Nighthawk R1 processors. In each link, a qubit inside one processor passed its information to a dedicated 'interface' qubit.",
+        "An adjustable coupler then fed this information into an 80 cm (31-inch) superconducting aluminum cable, which carried it to a matching set of components on the other chip. To allow for denser packing in the cables, the team plugged each one into its chip from directly above, rather than from the side.",
+        "With their setup complete, researchers tested how well it could pass quantum states between the chips, and carry out logic operations involving qubits on both processors.",
+        "Across the four links, quantum states were transferred with an average accuracy of 99%, reaching 99. 29% on the best link. Two-qubit logic operations spanning both processors reached an average accuracy of 94. 75%.",
+        "Using these operations, the team created entangled states shared across both processors, including 4- and 6-qubit states, and generated two entangled pairs at the same time through neighboring links. With the new attachment approach, all four connections remained operational through three cycles of warming and cooling.",
+        "For now, further improvements will be needed before the system can become commercially practical—especially in the longevity of its quantum information. All the same, the system's achievements mark an important step forward in quantum computing.",
+        "Altogether, the team's result paves the way for computers where quantum information is stored and processed across many processors, making future machines far easier to expand and maintain.",
+        "Written for you by our author Sam Jarman , edited by Gaby Clark , and fact-checked and reviewed by Robert Egan —this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.",
+        "Science X contributing writer; covers astrophysics, novel materials, medical imaging, and bio-inspired tech. Full profile &rarr;"
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "scitechdaily-a-natural-compound-found-in-everyday-foods-shows-surprisin",
+      "title": "A Natural Compound Found in Everyday Foods Shows Surprising Power Against Lung Cancer",
+      "dek": "Quercetin, a compound found in citrus fruits, onions, and buckwheat, slowed lung cancer cell division and movement in laboratory experiments. ",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T15:25:14.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-natural-compound-found-in-everyday-foods-shows-surprising-power-against-lung-cancer/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Quercetin, a compound found in citrus fruits, onions, and buckwheat, slowed lung cancer cell division and movement in laboratory experiments. At the highest dose tested, cell migration nearly stopped.",
+        "The findings come from researchers at Universitätsklinikum Erlangen at Friedrich-Alexander Universität Erlangen-Nürnberg (FAU), who examined the compound’s effects in laboratory-grown lung cancer cells, mouse lung tissue sections, and living mice. Their study appeared in Cell Death Discovery .",
+        "Lung cancer is the most common cancer worldwide and causes more cancer deaths than any other type. Available treatments do not work for everyone, prompting researchers to investigate additional approaches, including plant compounds such as quercetin, which is known for its anti-inflammatory properties.",
+        "The team in the hospital’s Department of Molecular Pneumology found that quercetin affected several processes involved in cancer growth. “Many drugs against lung cancer target a single molecule,” explains Prof. Dr. Susetta Finotto. “Quercetin, by contrast, attacked at several points simultaneously in our experiments.”",
+        "Treated tumor cells divided more slowly. In one of the two lung cancer cell types examined, quercetin also lowered oxidative stress. This occurs when reactive oxygen compounds overwhelm cells’ defenses, potentially causing damage that contributes to cancer development.",
+        "The effect on movement was particularly striking because migration helps cancer cells spread and establish new tumors, known as metastases. “The higher the quercetin dose, the fewer cancer cells migrated. At the highest dose, the migration almost completely stopped,” reports Christine Carvalho, the study’s lead author.",
+        "Quercetin also reduced levels of two proteins, EGFR and PD-L1, in the cancer cells studied. EGFR passes growth signals into cells, while PD-L1 can help tumors evade immune defenses.",
+        "In mouse lung tissue sections, quercetin increased levels of interferon-alpha-2, a signaling molecule that helps the immune system defend against tumors. The researchers also observed changes beyond the lungs, involving the community of microbes living in the gut.",
+        "“In the mice that received quercetin, the gut microbiome also changed,” explains Prof. Susetta Finotto. “Bacteria that produce certain short-chain fatty acids were more common.” These fatty acids can enter the bloodstream and reach the lungs, where they can inhibit cancer cell growth.",
+        "The mice given quercetin also showed signs of fewer tumor sites. However, only a few animals developed tumors, leaving too little evidence to confirm that finding. Further studies are needed, and whether the effects seen in cells and mice extend to people remains unknown. The experiments also do not establish whether eating quercetin-containing foods would reproduce these results.",
+        "“Our results suggest that a quercetin-rich diet could support treatment for lung cancer,” says Prof. Susetta Finotto. “We also think it may have preventive effects. We want to investigate that next.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "phys-rare-iron-age-celtic-helmet-discovered-in-northeastern-pol",
+      "title": "Rare Iron Age Celtic helmet discovered in northeastern Poland far from its homeland",
+      "dek": "Around 2,400 years ago, at Łysa Góra in Poland, a group of people took a bronze helmet, crushed it, broke it into pieces and threw it into a pit with iron adzes and a scythe.…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T15:00:06.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-rare-iron-age-celtic-helmet.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Around 2,400 years ago, at Łysa Góra in Poland, a group of people took a bronze helmet, crushed it, broke it into pieces and threw it into a pit with iron adzes and a scythe. Such helmets are sometimes found in lavish graves of the Celtic warrior elite, from Champagne, France, to Dürrnberg, Austria.",
+        "A new study published in Antiquity reports the discovery of a rare Berru-type helmet. Its find spot in northeast Poland makes it the only known helmet of its kind found outside its Celtic homeland in the 4th century B. C.",
+        "\"Łysa Góra is one of the most exciting and mysterious archaeological sites dating to the Early Iron Age,\" said Bartłomiej Kaczyński, an archaeologist at the State Archaeological Museum in Warsaw. \"The helmet is a symbol of power and direct evidence of long-distance contacts.\"",
+        "Łysa Góra was a fortified Iron Age settlement located on a sand dune between the Orzyc River and a lake. According to the study, it was inhabited between the 6th and 4th centuries B. C. , possibly by people belonging to the West Baltic Barrow Culture.",
+        "Archaeologists had known about Łysa Góra for decades, with excavations conducted on and off between 1971 and 1992. However, because few of the finds from those excavations were ever published, Łysa Góra's untapped potential was never fully realized, the study reports.",
+        "On top of that, its reputation made excavators doubtful of finding anything useful. \"We did not know what to expect, as the site had a reputation for being severely disturbed,\" Kaczyński said.",
+        "Then excavations of a ritual pit filled with charred remains revealed something unexpected. Along with adzes and a scythe, they uncovered what appeared to be an unusual bronze vessel.",
+        "\"During the excavation, we uncovered an object made of bronze sheet metal, which we initially thought was a vessel,\" Kaczyński said. \"It was only when we exposed the tip that we realized we had found a helmet of a very rare type.\"",
+        "Similar bronze helmets are known from sites such as Dürrnberg in Austria, located far to the south. Together with around 31 mostly fragmented La Tène brooches and ring ornaments, this suggests Łysa Góra may not have simply traded with the Celts, but may have had Celtic people living there.",
+        "The helmet could have been traded in, but the study suggests this is unlikely. Given the object's association with high status and warrior elites, a social concept very different from the local populace in northeastern Poland, it's far more likely the owner of that helmet once stayed at Łysa Góra.",
+        "Nearly 80 La Tène artifacts have been found at the site so far. \"Their diversity suggests that a group of Celts lived at the site for approximately two generations,\" Kaczyński said.",
+        "As for why they were there, the study suggests that Łysa Góra may have been a trading post. Situated near the amber-rich Kurpie region and routes leading north toward the Sambian Peninsula, the site's location gave its occupants a strategic position to control and facilitate the movement of amber and other goods toward central Europe.",
+        "\"Based on ancient written sources, we cannot rule out the possibility that enslaved people were traded there as well,\" Kaczyński said.",
+        "Ongoing excavations have revealed that Łysa Góra was a place bustling with trade and production, as revealed by nearly 350 metal objects, amber beads, an unfinished amber ring and a bronze coin possibly of Seuthes III, a Thracian king."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-a-last-refuge-australian-waters-could-save-a-critically-en",
+      "title": "A Last Refuge: Australian Waters Could Save a Critically Endangered Ocean Predator",
+      "dek": "Despite decades of research, major gaps in scientists’ understanding of green sawfish could complicate efforts to save the species.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T12:27:42.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-last-refuge-australian-waters-could-save-a-critically-endangered-ocean-predator/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Despite decades of research, major gaps in scientists’ understanding of green sawfish could complicate efforts to save the species.",
+        "Green sawfish have disappeared from large parts of their former range, but northern Australia still supports some of the last relatively intact populations of this critically endangered species. A new scientific review suggests these waters could be central to the animal’s survival, although major gaps in researchers’ knowledge continue to complicate conservation efforts.",
+        "Green sawfish are a type of ray with a sharklike body and a distinctive, tooth-lined snout resembling a saw. Overfishing and habitat loss have driven their decline worldwide. Researchers at Murdoch University’s Centre for Sustainable Aquatic Ecosystems, part of the Harry Butler Institute, have now brought together decades of scientific findings to identify the species’ remaining strongholds and determine where further research is needed.",
+        "“Although the species has disappeared from large parts of its historic range, including parts of Africa and southern Asia, northern Australia still supports some of the last intact populations left anywhere on Earth,” said Dr. Jack Ingelbrecht, a postdoctoral research associate who led the review alongside Associate Professor David Morgan. Ingelbrecht added, “We’re fortunate that the main factors responsible for the global decline of sawfish are less severe in northern Australia.”",
+        "Western Australia’s Pilbara region is particularly valuable because it contains important green sawfish habitat and populations that remain relatively healthy. “The Pilbara region in particular has become one of the world’s most important areas for green sawfish research, as it still supports relatively healthy populations of this species and provides critical habitat,” said Morgan, who has studied Australian sawfish for more than 25 years. “It gives us a rare opportunity to understand how green sawfish use their environment, and identify which conservation measures would best facilitate their recovery.”",
+        "The survival of green sawfish in Australian waters has also shaped the global scientific understanding of the species. “To research something, you first need specimens to study. Naturally, opportunities for green sawfish research will be greater in areas where this species still occurs in relatively high numbers,” Ingelbrecht explained.",
+        "“Our review found that, for decades, Australia has been the global leader in green sawfish research. This is partly because green sawfish populations have been wiped out in many countries, but still exist in Australia,” he said. Australia’s contribution extends across many different areas of scientific investigation. “Interestingly, when we looked at the specific types of information that have been produced, we found that Australia has also been at the forefront of almost every major sub-discipline of research relating to green sawfish.”",
+        "The research team compiled existing studies into a single resource intended to support conservation planning and future investigations. “Renowned zoologist Ferdinando Boero said it best: ‘you can’t protect what you don’t know,'” Ingelbrecht said. “It’s incredibly difficult to stay up to date with research on any topic, particularly when there’s a lot of information to cover. Ultimately, if conservation experts don’t fully understand the species they’re trying to protect, they can’t implement the most-suitable recovery initiatives.”",
+        "Despite Australia’s extensive research history, the review identified substantial gaps in the information needed to protect green sawfish. “By synthesizing the current knowledge of green sawfish, we wanted to provide an all-in-one resource to guide conservation efforts and researchers, alike,” Ingelbrecht said.",
+        "The most pressing uncertainties concern how many green sawfish survive, where their most important habitats are located, and how many individuals are old enough to reproduce. “Sadly, when it comes to the research areas most relevant to conservation – the size of remaining populations, the locations of critical habitat, and the number of mature individuals present in the wild – we realized that there’s very little information currently available.”",
+        "These missing data make it difficult to design conservation strategies suited to the species’ biological needs. “Research is the lifeblood of conservation. In order to be successful, recovery efforts often need to be tailored towards the species they’re intended for. To do that, you need scientific input,” Ingelbrecht said.",
+        "As green sawfish disappear from more of their historical range, Australia’s role in protecting the species could become increasingly significant. “Conservation biologists bear the responsibility of enhancing recovery initiatives through research. If green sawfish populations continue to decline, that responsibility – that burden – will fall more and more towards Australia,” Ingelbrecht warned."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-do-spiders-dream-scientists-discover-a-mysterious-sleep-st",
+      "title": "Do Spiders Dream? Scientists Discover a Mysterious Sleep State",
+      "dek": "Scientists have discovered that spiders experience REM-like sleep, complete with twitching muscles and moving eyes, raising the intriguing possibility that they might dream.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T11:16:37.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/do-spiders-dream-scientists-discover-a-mysterious-sleep-state/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Scientists have discovered that spiders experience REM-like sleep, complete with twitching muscles and moving eyes, raising the intriguing possibility that they might dream.",
+        "Spiders may have more in common with sleeping humans than scientists previously realized. Researchers at the University of Bonn have discovered that Australian jumping spiders experience two distinct stages of sleep, including a state that closely resembles REM sleep in humans. During this stage, the spiders move their eyes and twitch their muscles, behaviors that raise intriguing questions about the origins of sleep and whether spiders might experience something resembling dreams.",
+        "The findings provide the first comprehensive experimental confirmation of regulated sleep in spiders. They also suggest that complex sleep patterns may be far more widespread throughout the animal kingdom than previously understood.",
+        "In humans and other vertebrates, sleep involves multiple stages, including REM (rapid eye movement) sleep. This stage is associated with rapid eye movements, changes in muscle activity, and vivid dreaming in humans. Scientists have long wondered whether animals with very different nervous systems, including spiders, experience comparable sleep states.",
+        "To investigate, researchers from the Institute of Organismic Biology at the University of Bonn turned to an unusual subject: the Australian jumping spider Portia fimbriata .",
+        "The spider belongs to the genus Portia, a group of predators known for their sophisticated hunting techniques. Unlike many spiders that primarily capture insects, Portia species specialize in hunting other spiders.",
+        "One of their most remarkable strategies involves manipulating the webs of their prey. By producing vibrations that imitate insects struggling in silk, these spiders can lure web-building spiders toward them. Such complex hunting behavior suggests an unusual capacity for learning and adapting to different situations.",
+        "Despite their impressive abilities, these predators are quite small. A fully grown Portia fimbriata is roughly the size of a one-euro coin.",
+        "Their sophisticated behavior made them particularly interesting subjects for investigating sleep. Scientists wanted to determine whether these spiders simply become inactive at night or enter a genuine, biologically regulated sleep state similar to those observed in vertebrates.",
+        "The researchers found convincing behavioral evidence that Portia fimbriata does more than rest. The spiders exhibit regulated sleep with two clearly distinguishable stages.",
+        "One of these stages closely resembles REM sleep, a well-known phase of human sleep characterized by rapid eye movements and muscle twitches.",
+        "During the spiders’ REM-like periods, the researchers observed eye movements and twitching muscles, suggesting that certain features of sleep may be shared by animals whose nervous systems are dramatically different from our own.",
+        "The discovery is especially significant because most scientific knowledge about sleep has come from studies of vertebrates, including humans, other mammals, birds, and reptiles. Until now, comprehensive experimental evidence establishing true sleep behavior in spiders had been lacking.",
+        "Although the REM-like movements are intriguing, they do not demonstrate that spiders dream. Determining whether spiders experience anything comparable to human dreams would require evidence beyond the behavioral observations available in this study."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "scitechdaily-scientists-uncover-why-breast-cancer-becomes-deadlier-as-w",
+      "title": "Scientists Uncover Why Breast Cancer Becomes Deadlier As We Age",
+      "dek": "Scientists have uncovered a biological mechanism that may help explain why breast cancer becomes more dangerous with age.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T00:47:55.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-uncover-why-breast-cancer-becomes-deadlier-as-we-age/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Scientists have uncovered a biological mechanism that may help explain why breast cancer becomes more dangerous with age.",
+        "In older mice, breast cancer was far more likely to spread to the lungs, even when the original tumors grew at roughly the same rate as those in younger animals. Researchers at Georgetown’s Lombardi Comprehensive Cancer Center have identified an inflammation-related receptor that appears to play a central role in this age-related increase in metastasis.",
+        "The researchers found that genetically removing the receptor, known as RAGE, almost completely eliminated the increased spread of cancer in older mice. Published May 15, 2026, in Communications Biology , the findings suggest that changes occurring throughout the body during aging can influence how aggressively cancer behaves.",
+        "The study focused on RAGE (Receptor for Advanced Glycation End-products), a receptor on the surface of cells that amplifies inflammatory signals. Aging increased levels of molecules that activate RAGE, including the proteins S100 and HMGB1. These molecules were found in both primary tumors and metastatic sites, where the resulting inflammatory activity helped cancer cells invade surrounding tissues and spread.",
+        "“Our study addresses a major gap by showing that aging dramatically increases breast cancer metastasis and that this effect depends on RAGE, a receptor on the surface of cells that fuels inflammation,” says Barry Hudson, PhD, associate professor of oncology at Georgetown Lombardi and corresponding author for this article. “Most laboratory studies rely on young mice, which has limited our understanding of how aging itself alters the host environment, including immune function and chronic inflammatory states that, in turn, influence cancer behavior.”",
+        "“These findings show that aging doesn’t just increase cancer risk — it actively changes the body in ways that help tumors spread,” says Hudson. “RAGE appears to be a key mediator of these harmful age-related pathways.”",
+        "The research benefited from an unusual circumstance during the COVID-19 pandemic. Reduced laboratory activity meant some mouse colonies were allowed to age longer than originally planned. Because maintaining older laboratory mice is expensive and time-consuming, the situation gave researchers a rare opportunity to examine how aging affects cancer progression. They compared younger and older animals across three mouse models of triple-negative breast cancer, an aggressive form of the disease.",
+        "The team also investigated whether the findings had parallels in humans. An analysis of breast cancer data from more than 1,000 patients showed that higher expression of AGER (the gene encoding RAGE), along with elevated activity in related inflammatory genes, was associated with poorer outcomes. Although these associations do not establish that RAGE causes metastasis in patients, they support the potential clinical relevance of the animal experiments.",
+        "RAGE is being studied as a therapeutic target in several diseases associated with aging. Earlier research from the Georgetown team showed that the RAGE inhibitor TTP488 (azeliragon) could suppress breast cancer metastasis in preclinical models. In the latest experiments, the drug also reduced the invasiveness of cancer cells exposed to blood serum from aged mice, which otherwise promoted more invasive behavior.",
+        "A clinical study at Georgetown Lombardi is now evaluating TTP488 in breast cancer patients undergoing chemotherapy, with particular attention to safety and cognitive outcomes. The drug has previously demonstrated a favorable safety profile in humans, although its ability to prevent breast cancer metastasis in patients remains unproven.",
+        "“This study highlights the importance of the host environment in cancer. While cancer is often viewed as driven primarily by mutations intrinsic to tumor cells, systemic factors such as aging and inflammation play a critical role in shaping how cancers behave,” says Hudson. “Most deaths due to cancer occur because tumors spread to other organs, so understanding these influences may help identify new strategies to limit metastasis.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "scitechdaily-scientists-discover-a-surprising-new-target-for-treating-t",
+      "title": "Scientists Discover a Surprising New Target for Treating Type 2 Diabetes",
+      "dek": "A clinical trial has uncovered a molecular change in skeletal muscle that may help explain why exercise improves insulin sensitivity in people with Type 2 diabetes.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-30T23:36:18.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-a-surprising-new-target-for-treating-type-2-diabetes/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A clinical trial has uncovered a molecular change in skeletal muscle that may help explain why exercise improves insulin sensitivity in people with Type 2 diabetes.",
+        "A protein found in unusually high amounts in the muscles of people with Type 2 diabetes may be interfering with the body’s ability to respond to insulin. Researchers discovered that removing the protein, known as Miro1, restored insulin responsiveness in preclinical models, suggesting a possible new approach to treating insulin resistance.",
+        "The study, published in Nature Communications , also found that aerobic exercise reduced Miro1 levels in people with Type 2 diabetes. Those reductions occurred alongside improvements in insulin sensitivity and the muscles’ ability to produce energy.",
+        "Miro1 (Mitochondrial Rho GTPase1) sits on the outer membrane of mitochondria, the structures responsible for producing much of a cell’s usable energy. Skeletal muscle plays a major role in regulating blood sugar because it absorbs glucose from the bloodstream in response to insulin. When muscle becomes resistant to insulin, glucose is less effectively removed from the blood, contributing to the elevated blood sugar associated with Type 2 diabetes.",
+        "To investigate Miro1’s involvement, scientists examined its effects in cells, preclinical models, and people with Type 2 diabetes. Their experiments showed that excess Miro1 impaired insulin responses in muscle, while removing the protein reversed those effects in preclinical models.",
+        "“Insulin resistance in muscle is at the heart of Type 2 diabetes, and its molecular causes have remained frustratingly unclear. This study, the product of years of work, identifies Miro1 as a key part of the answer. By tracing Miro1 from cells to preclinical models to patients, we show that Miro1 accumulation impairs the muscle’s response to insulin, that removing it causally restores that response in our models, and that exercise reverses its buildup in people. For the field, this is a new therapeutic target. For patients, it deepens our understanding of why exercise is so effective and opens a path toward treatments that could one day complement it,” said senior author Dr. John P. Kirwan.",
+        "The researchers also conducted a randomized controlled trial involving participants with obesity and Type 2 diabetes. One group performed aerobic exercise, while another received standard medical care. Participants assigned to exercise showed lower Miro1 levels in their muscles, together with improved insulin sensitivity and mitochondrial energy production.",
+        "These human findings support a connection between exercise, Miro1, and metabolic health. However, they do not establish that reducing Miro1 is responsible for the benefits of exercise. The preclinical experiments provide more direct evidence that the protein can influence insulin responses.",
+        "Kirwan led the research while working at LSU’s Pennington Biomedical Research Center. He has since been appointed executive director of the OU Health Harold Hamm Diabetes Center at the University of Oklahoma, where he will continue investigating the biological mechanisms of diabetes and potential treatments.",
+        "The study’s first author, Elizabeth Heintz, conducted research as a doctoral candidate in Pennington Biomedical’s Integrated Physiology and Molecular Medicine Laboratory. Co-corresponding author Christopher Axelrod has since joined Kirwan at the Harold Hamm Diabetes Center.",
+        "“This research exemplifies the breadth of scientific discovery at Pennington Biomedical, where research spans all levels, from basic science that reveals the biological mechanisms underlying disease to clinical studies and population-based research that informs public health,” said Dr. Jennifer Rood, Interim Senior Vice Chancellor and Executive Director of Pennington Biomedical. “Dr. Kirwan and his team’s findings on Miro1 demonstrate the value of this integrated approach, connecting fundamental discoveries about muscle function with insights into insulin resistance and the benefits of exercise in people with Type 2 diabetes.",
+        "This work is advancing our understanding of diabetes and helping lay the foundation for future approaches to prevention and treatment.”",
+        "Although removing Miro1 improved insulin responses in experimental models, researchers have not yet established whether targeting the protein would be safe or effective as a treatment for people. Further studies will need to clarify how Miro1 contributes to insulin resistance and whether modifying its activity can improve blood sugar regulation.",
+        "At the Harold Hamm Diabetes Center, Kirwan plans to build on these findings through research that connects laboratory discoveries with studies involving people with diabetes."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "scitechdaily-eating-a-handful-of-peanuts-could-change-your-blood-in-a-s",
+      "title": "Eating a Handful of Peanuts Could Change Your Blood in a Surprising Way, Study Finds",
+      "dek": "A handful of peanuts may leave a telltale signature in your blood, and researchers have linked that pattern to a lower risk of type 2 diabetes.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-30T22:25:14.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/eating-a-handful-of-peanuts-could-change-your-blood-in-a-surprising-way-study-finds/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A handful of peanuts may leave a telltale signature in your blood, and researchers have linked that pattern to a lower risk of type 2 diabetes.",
+        "What happens inside your body after eating a handful of peanuts? Beyond providing protein, fiber, and healthy fats, these popular legumes appear to leave a distinctive chemical fingerprint in the bloodstream. Scientists have now linked this pattern of circulating fats to a lower risk of type 2 diabetes, offering new clues about the complex relationship between diet, body weight, and metabolic health.",
+        "To investigate, researchers combined a six-month dietary experiment with data from a long-term population study involving more than 27,000 people. Their findings revealed how peanut consumption reshapes certain blood lipids and suggested that body mass index plays an important role in the observed connection to diabetes risk.",
+        "Cholesterol tests capture only part of the fat circulating in the bloodstream. A technique called lipidomics provides a more detailed inventory, revealing differences among lipid classes that conventional measurements may miss.",
+        "The type of fat you eat helps shape how your body processes and stores it. Replacing saturated fats with unsaturated fats can improve blood lipid profiles and reduce inflammation, helping address the cardiometabolic risks associated with unhealthy diets.",
+        "Even saturated fatty acids are not a uniform group. Very long chain saturated fatty acids (VLCSFA), which contain more than 20 carbon atoms, may have distinctive metabolic effects. Peanuts, which are legumes, supply these fats alongside monounsaturated fatty acids.",
+        "Dr. Inés Domínguez-López and Professor Matthias Schulze at the German Institute of Human Nutrition Potsdam-Rehbruecke worked with University of Barcelona researchers to investigate how peanuts influence this broader lipid landscape.",
+        "They began with ARISTOTLE, a randomized controlled trial involving 63 healthy adults ages 18 to 33. For six months, participants consumed either 25 grams (0. 88 ounces) of skin-roasted peanuts, 32 grams (1. 13 ounces) of peanut butter, or 32 grams (1. 13 ounces) of a control butter containing peanut oil each day.",
+        "Using high-resolution mass spectrometry, an approach known as “deep lipidomics,” the team identified a characteristic pattern of blood fats following peanut consumption. They called it the “Peanut Lipidomic Signature” (PeLS).",
+        "Peanut consumption significantly increased certain very long-chain saturated fatty acids, particularly C24:0 and C22:0. These were preferentially incorporated into specific lipid classes, including ceramides, through processes involving enzymes that lengthen fatty acid chains.",
+        "“This is not merely a simple increase in fat levels but a complex ‘remodeling’ of the lipidome,” explains first author Domínguez-López.",
+        "“By characterizing this specific peanut lipid signature, we have uncovered a potential biological marker that links dietary fat quality to metabolic outcomes,” explains Schulze.",
+        "The researchers then examined samples and records from EPIC-Potsdam, a long-term population study with more than 27,000 participants. Its data included people who developed type 2 diabetes (774 cases) and cardiovascular disease (545 cases).",
+        "The peanut lipid signature was associated with a lower risk of type 2 diabetes, but not cardiovascular disease. Much of the relationship with diabetes was statistically explained by body mass index (BMI)."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "conversation-zombies-are-real-just-ask-the-parasites-taking-over-the-bo",
+      "title": "Zombies are real – just ask the parasites taking over the bodies and brains of insects and rodents, leading them to their doom",
+      "dek": "Zombies have taken many forms in popular culture. In Michael Jackson’s “ Thriller ” music video, corpses climb out of their graves and perform an impressively coordinated…",
+      "category": "健康",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-30T20:13:37.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/zombies-are-real-just-ask-the-parasites-taking-over-the-bodies-and-brains-of-insects-and-rodents-leading-them-to-their-doom-292955"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Zombies have taken many forms in popular culture. In Michael Jackson’s “ Thriller ” music video, corpses climb out of their graves and perform an impressively coordinated dance. In HBO’s “ The Last of Us ,” a fungus infects humans, takes over their bodies and turns them into hosts that help spread the infection. Even Plankton has tried his hand at taking control of another organism in “ SpongeBob SquarePants .”",
+        "These examples are fictional, but they all play with the same unsettling idea: Can one organism take control of another, even after they’re dead? In nature, the answer is not quite as dramatic, but some parasites and fungi come surprisingly close.",
+        "I spend much of my time as a biomedical engineer and synthetic biologist thinking about how biological systems sense signals, process information and change their behavior. That is part of what makes the idea of one organism taking control of another so fascinating to me.",
+        "Some parasites and fungi can alter the behavior of a living host in ways that benefit the parasite. They do not bring the dead back to life. Instead, they interfere with biological systems that control movement, motivation and decision-making.",
+        "The best-known example of a parasite changing its host’s behavior is the “zombie ant” fungus , Ophiocordyceps , which helped inspire “The Last of Us.”",
+        "The life cycle of the zombie ant fungus begins when fungal spores land on an ant. The spores stick to the ant’s outer surface and eventually break through it, allowing the fungus to enter the body. Once inside, the fungus grows and spreads while the ant is still alive. The infection can develop over several weeks before the most dramatic changes in the ant’s behavior begin.",
+        "Eventually, the infected ant leaves the colony and begins wandering and climbing vegetation. This behavior moves the ant away from its normal habitat and into a location that favors fungal reproduction and dispersal. Near the end of the infection, the ant bites tightly onto a leaf, twig or other plant surface and remains attached in what researchers call a death grip . After the ant dies, the fungus consumes the remaining tissues and produces a stalk from the ant’s body. This structure releases spores that can fall on other ants below and begin the cycle again.",
+        "How does the fungus make the ant do this? You might imagine fungal cells invading the ant’s brain and taking control. Surprisingly, researchers examining infected ants before death found extensive fungal growth throughout the body and around muscle fibers , but not inside the brain. Fungal cells can form networks around the ant’s muscles, suggesting that the ability to manipulate behavior may involve communication between the fungus and multiple host tissues rather than direct control of the brain.",
+        "The death grip provides an especially striking example of how the fungus can manipulate its host’s muscles. The jaw muscles of infected ants are heavily colonized by the fungus , showing signs of extreme contraction. There are also signs that the fungus may be releasing molecules near these tissues. Yet motor neurons and connections between nerves and muscles can remain intact. Together, these findings suggest that the fungus may alter the machinery controlling muscle contraction rather than simply destroying it.",
+        "Scientists still do not know exactly what causes ants to undergo the entire sequence of wandering, climbing and biting. While researchers have identified fungal genes associated with proteins, toxins and other compounds that could affect chemical signaling in the host, many of these possible mechanisms have not yet been proved.",
+        "That uncertainty is part of what makes the system so fascinating. The fungus does not appear to flip a single “zombie switch.” Instead, it may change several biological systems at once until the ant behaves in a way that benefits the fungus.",
+        "Ophiocordyceps is not the only organism capable of changing a host’s behavior.",
+        "The emerald jewel wasp, Ampulex compressa , uses a very different strategy: It injects venom into a cockroach’s nervous system. The cockroach is not paralyzed, but it becomes much less likely to start moving on its own or to escape. The wasp can then lead it to a burrow and lay an egg on it.",
+        "Researchers have shown that the venom reduces activity in parts of the nervous system involved in starting movement. In other words, the cockroach can still walk, but its drive to do so has been changed.",
+        "Hairworms take behavioral manipulation one step further by leading their hosts toward their own demise. Some species infect praying mantises or crickets and grow inside them while the insect is still alive. When the worm is ready to reproduce, the infected host becomes unusually attracted to light, which may draw it toward the shiny surface of water. The host enters the water, where the worm escapes from its body and begins the next stage of its life cycle. For the host that cannot swim, that behavior can be fatal.",
+        "Researchers are still working out exactly how the parasite causes this change, but studies have found changes in proteins in the host’s brain as the parasite manipulates it. In effect, the parasite appears to hijack the host’s sensory and behavioral machinery to guide it somewhere it would not normally go.",
+        "Behavioral manipulation also occurs in mammals. Toxoplasma gondii can infect many warm-blooded animals, but it reproduces in cats.",
+        "While rodents normally avoid cat odors, those infected with the parasite can lose some of that natural aversion and even become attracted to cat odors . This change could increase the chance that an infected rodent is eaten by a cat, allowing the parasite to complete its life cycle.",
+        "These examples show why “mind control” is an imperfect description of how parasites manipulate their hosts. Parasites do not need to control every action that their host makes. They may only need to change one key behavior: whether to climb, whether to walk away, whether to enter water or whether to avoid a predator.",
+        "There is no single “zombie switch.” Behavior emerges from communication between the nervous system, muscles and other tissues throughout the body. Different parasites have evolved different ways to interfere with those systems.",
+        "So biology cannot create the dancing dead of “Thriller” or the infected humans of “The Last of Us.” But if a zombie is a living organism whose normal behavior has been redirected by another organism, nature has already created plenty of them.",
+        "Studying these real-life zombies may help scientists understand not only how parasites manipulate their hosts, but also how normal behavior is generated and controlled in the first place.",
+        "Tara Deans receives funding from the National Institutes of Health."
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "nasa-nasa-releases-max-power-key-events-for-media-participants",
+      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "dek": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-30T19:31:02.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida.",
+        "Through multiple park experiences at MAX POWER , NASA and a variety of external collaborators will showcase the newest aircraft, autonomous vehicles, technologies, and more defining the future of air and space. NASA will display its quiet supersonic X-59 plane, and agency partners will showcase Moon rovers, spacecraft, and more. The expo also is a culmination of the agency’s recent Inspiration Tour , which included numerous flyovers to highlight NASA’s fleet of aircraft.",
+        "A current schedule of events is available on the agency’s website .",
+        "MAX POWER includes opportunities to meet leadership, astronauts, engineers, scientists, and other subject matter experts during the family-friendly public events with gates opening at 9 a. m. EST on Nov. 7 and Nov. 8.",
+        "NASA also will share multiple news updates during the weekend, including hosting a news conference at 5 p. m. on Nov. 7, to provide its latest Moon Base update. Located near the lunar South Pole, the Moon Base is humanity’s first outpost for long-term lunar exploration.",
+        "Live coverage of the news conference will stream on a variety of platforms online. Learn where to watch:",
+        "Media credentialing for this event is closed. Media approved for this event must request interviews in advance. Space in the news conference is limited, and first come, first served. Media also may participate in the news conference virtually. To request call details or an interview, please contact Lauren Low in the NASA Headquarters newsroom at: lauren. e. low@nasa. gov .",
+        "A short list of key NASA activities during MAX POWER are listed below. All times are listed in Eastern Standard Time, and are subject to change."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "nasa-news-nasa-releases-max-power-key-events-for-media-participants",
+      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "dek": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-30T19:31:02.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida.",
+        "Through multiple park experiences at MAX POWER , NASA and a variety of external collaborators will showcase the newest aircraft, autonomous vehicles, technologies, and more defining the future of air and space. NASA will display its quiet supersonic X-59 plane, and agency partners will showcase Moon rovers, spacecraft, and more. The expo also is a culmination of the agency’s recent Inspiration Tour , which included numerous flyovers to highlight NASA’s fleet of aircraft.",
+        "A current schedule of events is available on the agency’s website .",
+        "MAX POWER includes opportunities to meet leadership, astronauts, engineers, scientists, and other subject matter experts during the family-friendly public events with gates opening at 9 a. m. EST on Nov. 7 and Nov. 8.",
+        "NASA also will share multiple news updates during the weekend, including hosting a news conference at 5 p. m. on Nov. 7, to provide its latest Moon Base update. Located near the lunar South Pole, the Moon Base is humanity’s first outpost for long-term lunar exploration.",
+        "Live coverage of the news conference will stream on a variety of platforms online. Learn where to watch:",
+        "Media credentialing for this event is closed. Media approved for this event must request interviews in advance. Space in the news conference is limited, and first come, first served. Media also may participate in the news conference virtually. To request call details or an interview, please contact Lauren Low in the NASA Headquarters newsroom at: lauren. e. low@nasa. gov .",
+        "A short list of key NASA activities during MAX POWER are listed below. All times are listed in Eastern Standard Time, and are subject to change."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "conversation-from-18th-century-false-ballots-to-the-second-jfk-and-doub",
+      "title": "From 18th-century false ballots to the second JFK and double Dan Sullivans, a brief history of spoiler candidates and the unsuccessful legal challenges to them",
+      "dek": "Less than a week before Election Day, The New York Times reported that people with links to Alaska Democrat Mary Peltola’s U. S. ",
+      "category": "文化",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-30T17:14:04.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/from-18th-century-false-ballots-to-the-second-jfk-and-double-dan-sullivans-a-brief-history-of-spoiler-candidates-and-the-unsuccessful-legal-challenges-to-them-295504"
+      },
+      "cover": "books",
+      "accent": "yellow",
+      "paragraphs": [
+        "Less than a week before Election Day, The New York Times reported that people with links to Alaska Democrat Mary Peltola’s U. S. Senate campaign and the Democratic Senatorial Campaign Committee had recruited a candidate to the race whose name is nearly identical to that of the incumbent Republican senator, Dan Sullivan, whom Peltola was challenging. The plan aimed to siphon votes from the incumbent senator and help Peltola win, according to the reporting.",
+        "The story has driven calls for prosecutions , lawsuits and state action . But as a political scientist who studies election law , I can say that the spoiler candidate is one of the oldest tricks in the American campaign toolbox, and the law has rarely touched it.",
+        "For most of the 1800s, American elections were conducted with ballots designed and printed by the parties. There were no official ballots printed by the state.",
+        "In those days, the addition of a rival name to a party ballot by an insidious printer could swing countless votes to the opposing party. The tactic was well known, and voters were often warned to look out for the “ Spurious Ticket .”",
+        "By the 1890s, the government-printed ballot had gained widespread adoption and ended the practice of counterfeit tickets. But that would not be enough to deter those who wanted to deceive voters.",
+        "As observers in Alaska have noted , recruiting candidates with similar or identical names is not a new move.",
+        "In John F. Kennedy’s first congressional primary, his opponent was a city councilor named Joseph Russo. An aide to Kennedy reportedly paid a janitor with the same name to enter the race. The real Russo complained, but in the end, Kennedy took more votes in the 1946 race than the Russos combined.",
+        "Eight years later, the name Kennedy worked the other way, when a Gillette stockroom supervisor named John Francis Kennedy , no relation, was elected as a Democrat to the position of treasurer and receiver-general of Massachusetts, owing in large part to the familiarity of his name. Names can move votes, so namesakes can be worth recruiting.",
+        "Some spoiler candidates are not necessarily meant to win votes. Sometimes they are there to amplify a message.",
+        "In 1978, Republican Carroll Campbell was running for an open House seat in upstate South Carolina. His opponent was Max Heller, the mayor of Greenville and a Jewish refugee from Nazi-occupied Austria.",
+        "Days before the election, Don Sprouse, an independent running for office for the first time, held a press conference and declared that Heller was unfit for office as he had “not made clear to the voters he is not a Christian” and was “not as qualified to represent the Christian people.”",
+        "Although Campbell condemned the remarks and Sprouse received only 1,693 votes, Heller lost the race. The allegations, still unproven, of Sprouse being a “stalking-horse” for Campbell only surfaced years later, but they continued to dog Campbell when he ran for governor in 1986.",
+        "Sprouse wasn’t going to spoil the election with the votes he could win, but he could be a spoiler with his message, an antisemitic appeal that Campbell would not make directly.",
+        "A different type of ballot shenanigan skips the recruitment and simply puts candidates on the ballot.",
+        "This was the case in 2010 when two Oakland County, Michigan, Democratic officials put candidates on the ballot under the Tea Party label in three races. The candidates didn’t even know they were running.",
+        "In this case, the law did come back to bite. The county party chair and operations director were charged with perjury and forgery , but the crime was forging signatures, not their strategy.",
+        "Some state election codes specifically discuss false declarations or forged election paperwork, but many don’t contemplate this type of scheme. Forgery and perjury, however, are illegal across the country, and it’s almost impossible to put an unwitting person on the ballot without one or the other.",
+        "In Alaska, this tactic can be used cheaply. There is no petition requirement to get on the ballot, just a $100 fee. Moreover, the parties can’t vet candidates in the primary. The state’s unique top-four primary system lets candidates choose their own party label.",
+        "The saga of Daniel J. Sullivan , the schoolteacher known as “Petersburg Sullivan” because of where he lives , and Sen. Dan S. Sullivan goes back longer than recent revelations.",
+        "Petersburg Sullivan filed to run as a Republican in the Senate race just three days before the deadline; state officials tried to bar him from the ballot. In June a judge said there was nothing in Alaska law to prevent him from appearing on the ballot, and the state Supreme Court subsequently agreed.",
+        "Since he couldn’t be removed, the state Division of Elections took unusual steps on their ballot design to help distinguish the two candidates. They listed Sen. Dan S. Sullivan as a Republican, marking him as the incumbent, and left Daniel J. Sullivan without a party designation . This had not been done for previous incumbents in at least a decade.",
+        "Assuming there is no forgery of documents with an unwitting and unwilling spoiler candidate, there is little the law can do. History shows us that the real legal exposure in these cases usually lies where it most often does in politics: money.",
+        "In a 2020 Miami, Florida, race, a former state senator turned political operative was convicted of three felonies related to efforts to recruit and pay a decoy candidate with the same surname as the Democratic incumbent. In another Florida case, a local Republican Party chair was convicted in connection with a scheme to plant a progressive alternative to siphon votes from the Democratic candidate. In both cases the prosecutions focused on campaign finance crimes, not simply on putting the spoilers on the ballot.",
+        "The state of Washington is an outlier, where it is a felony to run under a rival’s surname if the intent is to confuse voters . In 2024, two Bob Fergusons were recruited by conservative activist Glen Morgan to run for governor against state Attorney General Bob Ferguson. Both opted to drop out of their race under threat of prosecution."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "nasa-nasa-explores-potential-commercial-servicing-for-hubble-te",
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "dek": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T14:51:21.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+        "“Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,” said NASA Administrator Jared Isaacman. “If there are innovative and cost-effective ways to extend the life of an asset already on orbit, we owe it to the American taxpayer and the scientific community to explore them. Extending Hubble’s life would mean more discoveries, more science, and more opportunities to expand our understanding of the universe.”",
+        "The Request for Information seeks commercial interest in: potentially conducting a mission to boost Hubble to a higher altitude to extend its science lifetime; servicing Hubble to enhance its capabilities; or performing a safe, controlled re-entry into Earth’s atmosphere or orbital disposal at the end of Hubble’s mission.",
+        "“Hubble is a national icon that has fundamentally changed how humanity views our universe for more than 35 years,” said Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters in Washington. “Commercial industry has rapidly evolved in recent years to offer new capabilities for in-space satellite capture and servicing. Given the time we have until Hubble’s anticipated re-entry, we are eager to explore the breadth of possibilities to boost Hubble to a higher orbit while we develop the flagship mission to follow.”",
+        "The Request for Information is available online and will remain open for responses until 3 p. m. EST, Monday, Nov. 30.",
+        "Like all spacecraft in low Earth orbit, Hubble’s altitude is slowly decreasing over time because of atmospheric drag. Hubble does not have a propulsion system to maintain its own orbit, and analysis predicts Hubble is likely to re-enter the atmosphere in the 2033 to 2034 timeframe. As such, NASA anticipates that a mission would need to take place by 2032.",
+        "The Hubble Space Telescope has been operating for more than three decades and continues to make ground-breaking discoveries that shape our fundamental understanding of the universe. Hubble is a project of international cooperation between NASA and ESA (European Space Agency). NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope and mission operations. Lockheed Martin Space, based in Denver, also supports mission operations at Goddard. The Space Telescope Science Institute in Baltimore, which is operated by the Association of Universities for Research in Astronomy, conducts Hubble science operations for NASA.",
+        "To learn more about NASA’s Hubble Space Telescope, visit:",
+        "Alise Fisher Headquarters, Washington 202-358-2546 alise. m. fisher@nasa. gov",
+        "Claire Andreoli Goddard Space Flight Center, Greenbelt, Md. 202-286-1940 claire. andreoli@nasa. gov",
+        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
+        "The Nancy Grace Roman Space Telescope will settle essential questions in the areas of dark energy, exoplanets, and astrophysics.",
+        "NASA’s TESS discovers exoplanets, worlds beyond our solar system. In the course of its extended observations of the sky, TESS…",
+        "Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…"
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "nasa-news-nasa-explores-potential-commercial-servicing-for-hubble-te",
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "dek": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T14:51:21.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+        "“Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,” said NASA Administrator Jared Isaacman. “If there are innovative and cost-effective ways to extend the life of an asset already on orbit, we owe it to the American taxpayer and the scientific community to explore them. Extending Hubble’s life would mean more discoveries, more science, and more opportunities to expand our understanding of the universe.”",
+        "The Request for Information seeks commercial interest in: potentially conducting a mission to boost Hubble to a higher altitude to extend its science lifetime; servicing Hubble to enhance its capabilities; or performing a safe, controlled re-entry into Earth’s atmosphere or orbital disposal at the end of Hubble’s mission.",
+        "“Hubble is a national icon that has fundamentally changed how humanity views our universe for more than 35 years,” said Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters in Washington. “Commercial industry has rapidly evolved in recent years to offer new capabilities for in-space satellite capture and servicing. Given the time we have until Hubble’s anticipated re-entry, we are eager to explore the breadth of possibilities to boost Hubble to a higher orbit while we develop the flagship mission to follow.”",
+        "The Request for Information is available online and will remain open for responses until 3 p. m. EST, Monday, Nov. 30.",
+        "Like all spacecraft in low Earth orbit, Hubble’s altitude is slowly decreasing over time because of atmospheric drag. Hubble does not have a propulsion system to maintain its own orbit, and analysis predicts Hubble is likely to re-enter the atmosphere in the 2033 to 2034 timeframe. As such, NASA anticipates that a mission would need to take place by 2032.",
+        "The Hubble Space Telescope has been operating for more than three decades and continues to make ground-breaking discoveries that shape our fundamental understanding of the universe. Hubble is a project of international cooperation between NASA and ESA (European Space Agency). NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope and mission operations. Lockheed Martin Space, based in Denver, also supports mission operations at Goddard. The Space Telescope Science Institute in Baltimore, which is operated by the Association of Universities for Research in Astronomy, conducts Hubble science operations for NASA.",
+        "To learn more about NASA’s Hubble Space Telescope, visit:",
+        "Alise Fisher Headquarters, Washington 202-358-2546 alise. m. fisher@nasa. gov",
+        "Claire Andreoli Goddard Space Flight Center, Greenbelt, Md. 202-286-1940 claire. andreoli@nasa. gov",
+        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
+        "The Nancy Grace Roman Space Telescope will settle essential questions in the areas of dark energy, exoplanets, and astrophysics.",
+        "NASA’s TESS discovers exoplanets, worlds beyond our solar system. In the course of its extended observations of the sky, TESS…",
+        "Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…"
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "conversation-allegheny-county-is-reassessing-every-property-heres-how-y",
+      "title": "Allegheny County is reassessing every property – here’s how your tax bill is calculated now",
+      "dek": "Allegheny County will undergo a countywide reassessment of every property it taxes for the first time since 2012. A county judge ordered the reassessment in August 2026,…",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T12:16:04.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/allegheny-county-is-reassessing-every-property-heres-how-your-tax-bill-is-calculated-now-291826"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "Allegheny County will undergo a countywide reassessment of every property it taxes for the first time since 2012. A county judge ordered the reassessment in August 2026, requiring the work to begin by July 1, 2027, and finish within five years .",
+        "The goal is to bring property values in line with today’s market. That could shift the tax burden among property owners across the county. State anti-windfall rules may require local governments to lower their tax rates after a reassessment to ensure they balance and equalize the tax reassessments. Individual bills may go up or down.",
+        "For many homeowners, property taxes are confusing. Terms such as assessment, millage rate and school district tax come up often, but taxpayers may not know what they mean or how each one affects their annual tax bill.",
+        "In Pittsburgh, property taxes pay for schools, parks, libraries, public safety and other local services.",
+        "I research and teach government finance at Penn State Harrisburg , including a course on state and local taxation. Here’s a plain-language guide to how Pittsburgh’s property taxes work.",
+        "The first concept is the property assessment. Allegheny County’s Office of Property Assessments gives every property an assessed value. That value is the basis for calculating property taxes.",
+        "An assessed value isn’t necessarily what a home would sell for today. Some places, such as Philadelphia , assess property at full market value. Other jurisdictions assess property at a set percentage of market value. In Cook County, Illinois , which includes Chicago, homes are assessed at 10% of their market value. That doesn’t mean Chicago-area homeowners pay less. When assessments are a smaller share of market value, tax rates are set higher to raise the same amount of money. Allegheny County assesses at full value, but it uses what properties were worth in 2012. The court-ordered reassessment is meant to close the gap between those 2012 values and today’s market.",
+        "Allegheny County’s 14-year gap would be unusual almost anywhere else. Pennsylvania is the only state that doesn’t require counties to reassess on a regular schedule, while most states do so at least every six years. Within Pennsylvania, though, Allegheny is far from the worst: Butler County hasn’t reassessed since 1969 .",
+        "Homeowners can look up their assessment on the county’s real estate portal .",
+        "Once a property has an assessed value, each local government applies a millage rate to figure out the tax owed. One mill equals $1 of tax for every $1,000 of assessed value. A home assessed at $100,000 has 100 units of $1,000 in value.",
+        "Pittsburgh property owners pay property taxes to three government entities: Allegheny County, the City of Pittsburgh and Pittsburgh Public Schools. Each one sets its own millage rate .",
+        "For 2026, the city’s general rate is 9. 67 mills. The city also charges 0. 5 mill for parks and 0. 25 mill for libraries. Pittsburgh Public Schools charges 10. 457 mills, and Allegheny County charges 6. 43 mills.",
+        "Together, those rates add up to 27. 307 mills. For a city home assessed at $100,000, that comes to about $2,731 a year before any exemptions or discounts.",
+        "The county’s property tax worksheet and the county treasurer’s millage rate page list current rates. These rates are set each year, and all of them will be cut when reassessed values take effect, since the law requires rates to drop as total values rise.",
+        "School taxes are often the largest share of a homeowner’s property tax bill. In Pennsylvania, property taxes are a major source of revenue for public schools . They help fund salaries for teachers, updates and maintainance for buildings, transportation, and technology and educational programs.",
+        "School tax rates vary widely across Allegheny County. Pittsburgh Public Schools charges 10. 457 mills, well below the suburban districts around it. North Allegheny , one of the lowest-taxing suburban districts, charges about 20. 4 mills for the 2026-27 school year. Two of the highest are Mt. Lebanon at about 32 mills and Penn Hills at about 32. 6 mills. The county treasurer publishes a full list of school district rates .",
+        "Some homeowners qualify for programs that lower their tax bills.",
+        "The Allegheny County Homestead exemption, known as Act 50 , cuts $18,000 from the assessed value of a qualified, owner-occupied, primary residence property’s county taxes. There’s no income limit: Any homeowner who lives in the property as their primary residence qualifies. A home assessed at $100,000 is taxed on just $82,000, which saves about $116 a year. Enrolling in Act 50 also automatically applies Pittsburgh’s $15,000 exemption , which covers the parks and library levies, and a larger Pittsburgh Public Schools exemption that is set each year. Applications for this exemption are due March 1 and need to be filed only once.",
+        "The senior citizen tax relief program, known as Act 77 , takes another 30% off county taxes for homeowners who are at least 60, have household incomes of $30,000 or less and have owned and lived in their home for at least 10 years. For a qualifying senior with that $100,000 home, the county bill would drop from about $527 to about $369.",
+        "Homeowners who believe their assessment is too high can appeal their assessment to the county’s Board of Property Assessment Appeals and Review . Filing is free; appeals can be submitted online, by email or in person.",
+        "Appeals are filed the year before the tax year they affect. The appeal window for 2027 bills closed Sept. 1, 2026. The next window, for 2028 bills, is expected to run from July 1 to Sept. 1, 2027, around the time the reassessment is set to begin.",
+        "At an appeal hearing, homeowners can argue their property’s value using either 2012 prices or today’s market. Recent sales of similar homes nearby can help show whether an assessment is out of line. The board can lower the assessment, leave it as is or raise it.",
+        "Pittsburgh property taxes come down to two elements: the property’s assessed value and the millage rates set by the county, the city and the school district. Understanding how these elements work together can help homeowners read and comprehend their tax bills and better plan for one of the biggest ongoing costs of owning a home, next to the mortgage payment.",
+        "That understanding will matter more as the reassessment gets underway. When new values take effect, some homeowners will see their share of the tax burden rise and others will see it fall. The direction depends on how their property’s value has changed compared with changes of other similar properties since 2012."
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "conversation-why-achieving-your-goals-can-leave-you-feeling-so-empty",
+      "title": "Why achieving your goals can leave you feeling so empty",
+      "dek": "When Anne Carson learned she had won the Nobel Prize in literature, she was in Iceland, where, according to the Swedish Academy , she was “listening to the wind.”",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T12:15:21.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/why-achieving-your-goals-can-leave-you-feeling-so-empty-294825"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "When Anne Carson learned she had won the Nobel Prize in literature, she was in Iceland, where, according to the Swedish Academy , she was “listening to the wind.”",
+        "Carson didn’t answer her phone right away, silencing it until her husband persuaded her to call back . Her verdict on the academy’s choice: “I think you’re all insane.”",
+        "Whatever she felt in the moment, there is an irony in Carson’s Nobel win. The highest award in literature has gone to a writer who has spent her career exploring the emptiness of a desire fulfilled.",
+        "The honor coincides with the 40th anniversary of the publication of her first book, “ Eros the Bittersweet ,” a meditation on desire.",
+        "In it, Carson argues that desire begins with a void – with wanting what we don’t have. She traces how this feeling of absence shapes love, reading, writing and thinking, activities that renew themselves precisely because they are never complete.",
+        "“Eros” begins with a brief preface on Franz Kafka’s “ The Top ,” a story about a philosopher who spends his time around children so he can chase their spinning tops. When a child sets a top in motion, the philosopher snatches it, believing that understanding any small thing, even a spinning top, would be enough to understand everything.",
+        "While the top spins, the philosopher is filled with hope, but as soon as he grasps it, he is repelled by the dumb piece of wood. He throws it down and waits for the next child to spin a top.",
+        "For Carson, the story is about why people love to fall in love. The philosopher is after what Carson calls an “impertinent stability in vertigo,” a state that is “itself delightful, a suspended moment of living hope.” The philosopher’s quest for knowledge, Carson cheekily concludes, is simply his pretext for chasing spinning tops. He is enchanted by the spinning itself, and even by his own enchantment – a spell that breaks the instant the top stops in his hand.",
+        "Most people know a version of this: There is something animating about chasing a goal. But once attained, the framed degree fades into the wall, the promotion quickly loses its luster, and the plaque becomes another dumb piece of wood.",
+        "Carson’s answer begins with the Greek word for erotic love, “eros,” which she explains denotes want or lack. Plato’s Socrates makes the same point in the “ Symposium .” For the Greeks, no one desires what they already have.",
+        "Desire also opens up an absence. To long for someone or something is to discover our own edges, the chasm where the self ends and what is wanted begins. Eros reveals that we are incomplete – an awareness that causes the self to become undone, loosening at the joints.",
+        "In one of her poems, the Greek poet Sappho called this experience “ glukupikron ,” or “sweetbitter.”",
+        "Carson’s translation of the passage reads : “Eros once again limb-loosener whirls me / sweetbitter, impossible to fight off, creature stealing up.”",
+        "Sappho puts sweet first, Carson notes in “Eros,” but desire is not initially sweet and then bitter. Pleasure and pain arrive together, in the same body and at the same time, before the lover is even able to distinguish them.",
+        "Carson extends this pattern to reading, writing and thinking. A reader approaches a text’s meaning but never masters it; every rereading turns up new meanings. The pleasure of understanding and the ache of incompleteness arrive together.",
+        "Writing works the same way. A good sentence both captures and conceals what the writer means. Thinking also runs on that doubled feeling, which is how the story of a philosopher chasing tops ended up in a book about love.",
+        "The same bittersweet pattern also shows up somewhere far less romantic: at work. Meeting a deadline brings relief that is already hollow because the next one is waiting.",
+        "I discovered “Eros the Bittersweet” as a philosophy graduate student, when my goals were to read, write and think my way into questions I loved. Now I spend much of my day as a university administrator, where the quality of my work is measured in metrics and met deadlines. Somewhere along the way, my goals stopped being things I wanted and became things to check off.",
+        "Today’s productivity culture chases tops of its own, but it looks less like Kafka’s philosopher than like Lucy and Ethel working at the chocolate factory in the 1952 “ I Love Lucy ” episode “ Job Switching .” As the conveyor belt speeds up, the only way they can look like they’re keeping up is to stuff what they’ve missed into their mouths.",
+        "Few things capture this pressure more than the SMART goal. In 1981, management consultant George Doran proposed that goals be SMART : specific, measurable, assignable, realistic and time-related. The acronym spread through industries and disciplines as a model for strategic planning, project management, performance evaluations and personal goal-setting. It distills a wider creed: Set the target, sprint after it, hit it. Grasp the top, toss it, capture the next one, ad infinitum. Doran didn’t invent the impulse, but his acronym gave it a checklist.",
+        "Carson’s account of desire helps explain why this creed leads to two kinds of emptiness.",
+        "The first comes from pursuing goals people never really desired. Inbox zero and a quarterly metric are goals in service of goals, the ultimate of which is productivity itself, which often simply ends up boosting someone else’s productivity.",
+        "The second comes from goals people truly wanted. Psychologist Tal Ben-Shahar calls the letdown that follows the “ arrival fallacy ” – the belief that reaching a destination will bring lasting happiness.",
+        "The Greeks offer another kind of striving, one that locates pleasure in the pursuit itself rather than in the prize. In Plato’s “ Phaedrus ,” Socrates describes eros as giving the soul wings and treats philosophy as a love of wisdom no one can own."
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "conversation-florida-department-of-health-considers-dropping-4-school-v",
+      "title": "Florida Department of Health considers dropping 4 school vaccine requirements – here’s what that could mean for kids",
+      "dek": "The Florida Department of Health held a hearing in October 2026 on a proposal to remove four vaccine requirements for entry into school and childcare: Haemophilus influenzae…",
+      "category": "健康",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T12:15:03.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/florida-department-of-health-considers-dropping-4-school-vaccine-requirements-heres-what-that-could-mean-for-kids-294773"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "The Florida Department of Health held a hearing in October 2026 on a proposal to remove four vaccine requirements for entry into school and childcare: Haemophilus influenzae type b, or Hib , chickenpox , pneumococcal and hepatitis B .",
+        "These vaccines entered use in the U. S. at different times from the early 1980s through 2000. Prior to that, there were millions of chickenpox cases and thousands of serious bacterial infections and preventable deaths among American children each year. Vaccination has dramatically reduced the toll of these diseases.",
+        "Many parents today grew up during the transition to widespread vaccination for these diseases and may never have witnessed the severe complications these vaccines help prevent. I’m an epidemiologist who studies vaccine-preventable illnesses and health communication , and I worry that perhaps the luxury of forgetting about these diseases could end up giving rise to a generation of children who aren’t vaccinated against them.",
+        "School vaccination requirements help communities establish herd immunity , which is when enough people are vaccinated to prevent a disease from easily spreading. When vaccination rates fall, infections can spread among susceptible children throughout the community, placing those who are too young to be fully vaccinated, as well as those who cannot develop adequate protection due to medical conditions, at greater risk.",
+        "Florida’s proposal would not eliminate these four vaccines, nor would ending a mandate mean that every family would stop using them. However, it would weaken one of the policies designed to maintain high vaccination coverage. If fewer children are vaccinated as a result, the risks will extend beyond the families making that choice.",
+        "Before Hib vaccines became widely used in the late 1980s, pediatricians sometimes faced a terrifying emergency: an infant with fever, lethargy and a stiff neck. Testing of cerebrospinal fluid would reveal bacterial meningitis caused by Haemophilus influenzae type b, or Hib , an infection that could kill a child or leave lasting neurological damage.",
+        "Today, many doctors have never even seen a single case. The bacterium has not disappeared, but widespread vaccination has made serious Hib disease in young children far less common.",
+        "Before the vaccine, Hib was the leading cause of bacterial meningitis . In the early 1980s, there were 20,000 invasive Hib infections among American children under 5 years old, 12,000 of which were meningitis. Between 3% and 6% of those children died , and between 15% and 30% of the survivors were left deaf or with brain damage.",
+        "Hib infection did not manifest in dramatic outbreaks. Healthy young children carried it silently, and some, unpredictably, became seriously ill.",
+        "After the introduction of conjugate vaccines for Hib in the late 1980s, cases among young children declined by 99% . In 2023, the United States reported only 13 cases in children under 5 . In 2026, that number is up to 28 .",
+        "By the early 1990s, there were more than 4 million cases of chickenpox annually in the United States. Of those infected, 10,500 to 13,500 were hospitalized, and 100 to 150 died. More than 90% of cases and about 70% of hospitalizations occurred in children, as did roughly half of the deaths.",
+        "But even those who had manageable cases of childhood chickenpox are at risk for shingles later in life, which can lead to painful and sometimes permanent health complications .",
+        "Children are contagious before the rash appears, and each case has an incubation period of up to three weeks . A single infection could spread through a school or daycare in waves for a month or more. Since vaccination began in 1995, deaths from chickenpox in people under 20 years old have been virtually eliminated .",
+        "Pneumococcal bacteria can live harmlessly in a child’s upper respiratory tract – that is, the nose – but if it moves into the blood or organs, it can cause serious damage.",
+        "Before the introduction of the childhood vaccine in 2000, pneumococcal disease caused about 17,000 invasive infections annually in American children under 5 years old, including about 700 cases of meningitis and 200 deaths . On top of that, pneumococcal disease caused approximately 5 million ear infections.",
+        "Hepatitis B can spread from an infected mother to her baby during childbirth and through contact with infected blood. People with chronic hepatitis B may have no symptoms and may not know they are infected, allowing the virus to spread unknowingly within families and communities. Infected infants and young children also are often asymptomatic.",
+        "Yet the consequences can be serious. Infants who become infected with hepatitis B have about a 90% chance of developing chronic hepatitis B , which over time can cause cirrhosis and liver cancer. The risk of chronic infection falls sharply with age, making prevention of infection early in life particularly important.",
+        "Before the hepatitis B vaccine became available in the U. S. in 1982, an estimated 20,000 American children were infected each year.",
+        "In 1991, the U. S. Centers for Disease Control and Prevention recommended universal infant hepatitis B vaccination as part of a comprehensive strategy to prevent transmission. The CDC estimates that perinatal hepatitis B infections in the United States declined by 75% between 1987 and 2000.",
+        "Florida’s historical records for these diseases are incomplete. For example, chickenpox was not a disease tracked by the Florida Department of Health until late 2006 . That makes it difficult to reconstruct the state’s prevaccine impact of these diseases from surveillance records alone.",
+        "But Florida doesn’t have to imagine what happens when vaccination is neglected: Measles has resurfaced in the state this year. It had previously been eliminated nationally in 2000 , meaning sustained endemic transmission had been interrupted. The disease has never been eradicated globally, and imported infections can trigger outbreaks when they reach undervaccinated communities.",
+        "An outbreak at Ave Maria University outside of Naples infected at least 62 people , and the state reported 162 cases as of Oct. 17, 2026. This is the most recent available data at the time of this article’s publication.",
+        "The proposal to stop requiring vaccines for hepatitis B, chickenpox, Hib and pneumococcal comes as only 88. 9% of Florida kindergartners received the measles, mumps, rubella – or MMR – vaccine during the 2025-26 school year. This is below both the U. S. national average of 92. 4% and the recommended threshold of 95% to create herd immunity.",
+        "Unfortunately, it’s been difficult to know current measles rates in Florida. In May 2026, the Florida Department of Health removed county-level disease data from its website. The data has since been replaced, but there is currently no measles dashboard to track cases in the state. The department’s 2026 counts have often been delayed , and public tracking systems disagree on the statewide total."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "conversation-figuring-out-where-cosmic-neutrinos-come-from-is-tricky-ra",
+      "title": "Figuring out where cosmic neutrinos come from is tricky - radio telescopes could help find where these ‘ghost particles’ originate",
+      "dek": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe’s most elusive building blocks. ",
+      "category": "科学",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T12:14:30.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe’s most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas – the exploding death throes of massive stars. Most neutrinos stream through space and pass through the Earth without interacting with anything.",
+        "An experiment called IceCube, built to detect these “ghost particles” emitted from astrophysical events, just won a Nobel Prize . As a physicist , I’m interested in figuring out where the neutrinos IceCube detects come from. A study that my colleagues and I published in October 2026 suggests that we could potentially use radio telescopes to answer this question.",
+        "Even though these telescopes can’t see neutrinos, we can use their data to match up IceCube’s detections with their potential sources out in space. Knowing which types of objects produce neutrinos can tell astronomers about the physics occurring within those objects.",
+        "Most particles interact with the universe through a fundamental force of nature called electromagnetism . It’s the force that powers the phone, tablet or computer that you may be reading this article on. It drives all the chemistry responsible for life, and it’s responsible for the light your eyes can see.",
+        "What makes neutrinos odd is that they don’t interact with the universe through electromagnetism. Instead, they interact with the universe via a force that physicists call the weak interaction . This force only acts over distances smaller than the inside of an atomic nucleus ; as such, they must pass very, very close to the centers of atoms in order to interact – otherwise they just fly right through. That makes them very difficult to detect – but not impossible.",
+        "Scientists have been able to detect neutrinos from space – called astrophysical neutrinos – since the 1960s. These typically come from our Sun and, in at least one case, from a supernova .",
+        "Over the past decade or so, researchers at the appropriately named IceCube Observatory have used the South Pole’s Antarctic ice as a neutrino telescope. The densely packed ice gives neutrinos many opportunities to interact with water molecules, and detectors can see radiation from those interactions when they do occur.",
+        "Even so, neutrinos really are one of nature’s most introverted particles, and it takes time for any of the ice molecules to get lucky and interact with a neutrino. But, with enough time, it eventually happens. And with more time, it happens again. The more time you give it, the more interactions you see, and the more neutrinos you detect.",
+        "IceCube has used this approach to detect astrophysical neutrinos that are hundreds of thousands of times more energetic than those previously seen. The discovery of these high-energy astrophysical neutrinos has opened up a new window on our universe.",
+        "The same property that makes them difficult to detect – namely their reluctance to interact with their surroundings – also makes them an effective way to see high-energy processes in places that light can’t penetrate. The problem is we’re not sure where they all come from.",
+        "Scientists do have some ideas about their origin, of course. Quasars – objects where matter is being ripped apart by black holes millions of times more massive than our Sun – seem to be likely candidates. In 2017, IceCube detected a neutrino that appeared to come from the direction of a quasar , known as TXS 0506+056, at the same time that a telescope detected an outburst of gamma radiation from that same object.",
+        "That finding is interesting because the processes that produce neutrinos – namely the decay of subatomic particles – should also produce high-energy electromagnetic radiation – namely gamma rays. So scientists expect neutrino sources to also produce gamma-ray outbursts.",
+        "However, TXS 0506+056 is just one object. It may not be representative of where most high-energy neutrinos come from. So far, there’s been little evidence of a more general relationship between gamma-ray outbursts and neutrino detections. But gamma rays can be easily obscured.",
+        "Much like the lead apron that the technician taking your X-ray at the hospital wears to protect themselves from the radiation, dust and gas that gathers near a supermassive black hole can block gamma rays from ever reaching Earth.",
+        "However, another form of electromagnetic radiation that’s invisible to gamma-ray telescopes – radio waves – are not so easily shielded. Using telescopes that look at radio waves from space may provide scientists an alternate way to see what’s going on.",
+        "Beginning in 2017, the Very Large Array in New Mexico began tracking how radio emissions from space change in brightness over time, a project known as the Very Large Array Sky Survey , or VLASS for short. My team and I recently showed that most of the objects seen by VLASS with fluctuating radio emissions are quasars , of the same type that IceCube previously saw producing neutrinos.",
+        "Interestingly, when we compared the times that IceCube detected neutrinos with the times when objects spotted by VLASS experienced flares of radio emission, there appeared to be a correlation.",
+        "Put another way, when an astrophysical neutrino is detected by IceCube, there is a radio source brightening in the same part of the sky, more often than you’d expect from random chance . These radio flares seem to only be associated with about 13% of the astrophysical neutrinos detected by IceCube, which means we still can’t account for the origin of the majority of astrophysical neutrinos. However, more than 90% of the radio outbursts potentially associated with neutrinos aren’t seen at all by our gamma-ray telescopes.",
+        "If the neutrino’s source of origin is hidden at gamma-ray wavelengths, but not at radio wavelengths, then radio telescopes could become an essential tool in neutrino astronomy.",
+        "At the moment, the signal we’re seeing is intriguing, even tantalizing. But there’s about a 1-in-30 chance of getting the results we see even if there’s no correlation between neutrinos and radio flares. Those are roughly the same odds as tossing a coin five times and getting heads every time: unlikely, but not impossible.",
+        "Scientists are far more comfortable when the odds of a result being due to random chance are closer to one in a million – the same as getting heads 20 times in a row. To confirm if what we’re seeing is real or not, we need more observations. We expect to have those in the next few years.",
+        "One thing is for sure, though: It’s an exciting time to be studying the origins of astrophysical neutrinos, and it looks like radio astronomers may have a big role to play.",
+        "Yjan Gordon does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "conversation-how-moving-civil-rights-enforcement-out-of-the-us-departme",
+      "title": "How moving civil rights enforcement out of the US Department of Education threatens students’ protections from race, sex and disability discrimination",
+      "dek": "Many people are not familiar with the Office for Civil Rights , an office within the U. S. ",
+      "category": "校园",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T12:14:11.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/how-moving-civil-rights-enforcement-out-of-the-us-department-of-education-threatens-students-protections-from-race-sex-and-disability-discrimination-288262"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Many people are not familiar with the Office for Civil Rights , an office within the U. S. Department of Education that enforces statutes that protect students from discrimination. So, it might help to consider a recent example of this office’s work.",
+        "In December 2022, the Office for Civil Rights, or OCR, found that Ottumwa Community School District, about 90 miles southeast of Des Moines, Iowa, had violated Title VI of the Civil Rights Act of 1964 by failing to address racial harassment. Title VI bars schools receiving federal funds from discriminating based on race, color or national origin.",
+        "The harassment was so severe that the office found that the student “was subjected to a racially hostile environment.” OCR also found that the school and district “failed to address the pervasive racial harassment of which it was aware.”",
+        "The harassment spanned two school years, during which that student was called “blackie,” “slave,” “cotton picker” and other racial slurs. One white student knelt on a Gatorade bottle and said, “It can’t breathe,” mocking the murder of George Floyd, according to the complaint.",
+        "Ottumwa Community School District entered a resolution agreement with OCR and agreed to reimburse the student’s family for therapy . The district also agreed to train students and staff on nondiscrimination policies, among other actions .",
+        "We spent a combined 17 years at the U. S. Department of Education – one of us in the Office of the General Counsel from 1999 to 2004 and the other in OCR from 2013 to 2025. We saw firsthand the pivotal role that OCR plays in protecting students’ civil rights.",
+        "In June 2026, the Trump administration announced a new interagency agreement that provides a way to shift OCR’s day-to-day civil rights enforcement responsibilities from the Department of Education to the Department of Justice .",
+        "The administration has not released details on whether OCR has begun to transfer enforcement responsibilities to the Department of Justice under the June 2026 interagency agreement or what, exactly, that would look like.",
+        "But this reorganization may mean that most complaints filed with OCR will never be investigated, and those that are could take years to resolve.",
+        "In fiscal year 2024 – October 2023 through September 2024 – OCR received over 22,000 complaints related to discrimination based on race, color, national origin, sex and disability.",
+        "Individuals and families who file complaints with OCR may want to avoid the expense of filing a lawsuit in a federal court or to secure relief for a student more quickly than a federal court can provide it.",
+        "OCR typically seeks to resolve any violations of the laws that it enforces through voluntary resolution agreements, initiating proceedings to terminate federal funding to school districts only when voluntary resolution is not possible, which has historically been rare.",
+        "The Department of Education and Department of Justice announced in June 2026 that they had entered an interagency agreement to “ deepen their partnership to secure equal access to education .”",
+        "Assistant Attorney General for Civil Rights Harmeet Dhillon explained that the Department of Justice would handle OCR’s complaints “from soup to nuts,” taking on “99 percent” of that work.",
+        "This is another step toward the Trump administration’s 2025 promise to close the Department of Education, though only Congress can do that .",
+        "Moving the Office for Civil Rights’ enforcement responsibilities to the Department of Justice will significantly change how Title VI and other federal civil rights laws are enforced in schools.",
+        "The Department of Justice’s Educational Opportunities Section has long jointly enforced most of the laws that OCR enforces, with each agency generally separately handling its own cases under these laws.",
+        "However, there are a few important distinctions between how OCR and the Department of Justice enforce civil rights laws.",
+        "First, the Office for Civil Rights is legally required to consider every complaint that it receives. It also must promptly investigate complaints that show possible violations of federal civil rights laws.",
+        "A January 2026 Government and Accountability Office report found that OCR dismissed about 90% of complaints for part of 2025, raising questions about whether OCR was dismissing complaints without full review during that time. Historically, however, we have seen OCR comply with the requirement to consider all complaints.",
+        "In contrast, the Department of Justice’s Educational Opportunities Section selects only a small fraction of cases to pursue, usually tackling systemic or particularly severe discrimination in federal courts.",
+        "But shifting OCR’s enforcement responsibilities to the Department of Justice will mean that students lose their guarantee that a federal agency will review and evaluate their allegations that a school district violated their civil rights.",
+        "Another distinction is that the Office for Civil Rights typically resolves complaints on its own, without involving federal courts.",
+        "OCR has traditionally aimed to resolve complaints within 180 days of receipt , because unresolved discrimination hinders students’ ability to learn."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "conversation-are-american-voters-actually-gloomy-about-the-economy-or-i",
+      "title": "Are American voters actually gloomy about the economy, or is something else going on?",
+      "dek": "Polling is looking grim for Republicans ahead of the U. S. midterm elections on Nov. 3, 2026, due in large part to deep pessimism among the public about the economy.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T12:13:27.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/are-american-voters-actually-gloomy-about-the-economy-or-is-something-else-going-on-295476"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Polling is looking grim for Republicans ahead of the U. S. midterm elections on Nov. 3, 2026, due in large part to deep pessimism among the public about the economy.",
+        "At first glance, this might seem surprising. With the exception of inflation , many economic measures remain strong, including gross domestic product growth . But consumer sentiment continues to languish .",
+        "This has prompted a debate over whether mere “vibes” are in play, or whether these long-used metrics are no longer capturing something fundamental to Americans’ economic well-being.",
+        "This debate matters politically because voters are placing an overwhelming priority on the economy as an issue in the midterms. A Pew Research survey in early October 2026 found that 84% of registered voters said the economy was very important to their vote, and the concern is bipartisan. Among the issues in that Pew survey, for example, “the economy” was the least polarizing, with 82% of Republicans and 88% of Democrats ranking it as very important.",
+        "Meanwhile, the overall drop in voters’ economic outlook has largely been driven by growing pessimism among Republicans. While Democrats remain much gloomier about the economy than Republicans, the gap is narrowing.",
+        "These trends help explain why Democrats are expected to make significant gains in Congress: This election will likely be seen as an indictment of how well the economy is working for ordinary Americans under President Donald Trump and the Republican-controlled Congress, despite strong macroeconomic measures.",
+        "As a scholar of financial markets and global inequality , I believe the relationship between how people see their own finances and their view of the broader economy is also changing on a more fundamental level. And this shift will affect how they judge the next class of lawmakers in power.",
+        "When scholars try to understand how people judge the economy – and how they separate their own personal circumstances from the broader economy – one of their key reference points is the University of Michigan’s consumer sentiment index . It asks respondents about their personal finances, their short-term and long-term economic outlook, and whether they think it’s a good time to make major purchases.",
+        "This gauge has historically tracked key economic measures of consumer spending and inflation: The state of the broader economy usually shapes the way people think about their own financial well-being.",
+        "But in recent years, these have diverged . By many measures, the economy is doing well, but people feel they’re falling behind. And this has only become more pronounced ahead of the midterms.",
+        "Despite strong consumer spending , robust business investment and low unemployment , consumer sentiment keeps slipping and is now 10% below where it was a year ago, according to the Michigan index.",
+        "Some commentators point to ongoing inflation as the reason for gloom. It has remained stubbornly above the Federal Reserve’s annual 2% target rate due to drivers like tariffs, energy price hikes stemming from Middle East turmoil, and massive amounts of investment in the artificial intelligence build-out.",
+        "But what’s really happening is that consumer sentiment data and inflation data have become untethered. Inflation has actually dropped sharply from its 21st-century peak of 9. 1% in June 2022 after the pandemic to 3. 7% in September 2026, but consumer sentiment is lower now than it was even then.",
+        "What about wages? Here, too, the data also doesn’t fully explain this disconnect. While inflation makes consumer goods pricier, it also lifts pay. Inflation-adjusted wages actually increased between 2022 and the first half of 2026, all while consumer sentiment remained weak. What has changed in recent months is that inflation-adjusted wages are now falling – which could help explain the darkening outlook among voters.",
+        "One possibility is that deeply entrenched inequality explains this divergence.",
+        "Compared with other eras of moderate-to-high inflation, the U. S. economy today is much more unequal . Income inequality has increased over the past 20 years, narrowing only during the 2008 and 2020 crises before quickly widening to prior levels.",
+        "This trend is important for understanding which consumers are shelling out cash. The Fed has consistently cited strong consumer spending in its economic assessments, but the richest 10% of Americans account for half of that spending today . Meanwhile, spending by the bottom 80% of earners has fallen behind inflation.",
+        "In other words, the strong total consumer spending figures reported as official data are being driven by very wealthy Americans and fail to reflect the experience of typical consumers who are the bulk of the electorate.",
+        "This trend of increasing inequality has been particularly acute in terms of wealth : The top 0. 1% of American households together own five times as much wealth as the bottom 50%. Much of this reflects the uneven gains of the stock market boom and how wealth is taxed.",
+        "In short, Americans’ economic malaise might be driven by concerns over income and wealth that conventional measures don’t fully capture.",
+        "When it comes to consumer surveys like the University of Michigan index, economists generally assume that the answers reflect the personal experience of respondents.",
+        "But I agree with other scholars who argue that sometimes these answers may be based less on people’s own circumstances and more on how they view the economy as a whole. This assessment could reflect, for example, concerns like equity, equality of opportunity and economic justice.",
+        "When responses are driven by a concern for collective well-being rather than just personal material self-interest, social scientists refer to such perceptions as “sociotropic.”",
+        "This last point isn’t just theoretical. Research suggests voters tend to weight their perceptions of the economy more heavily than their personal financial circumstances when deciding whether to vote for the incumbent party."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "nasa-novembers-night-sky-notes-light-day-away",
+      "title": "November’s Night Sky Notes: Light-Day Away",
+      "dek": "In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system:…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T10:00:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. By the 1980s, the two probes went their separate ways at Saturn. As Voyager 2 continued toward Uranus and Neptune, Voyager 1 grabbed one more portrait of the solar system (excluding Mercury and Mars), including a final image of the pale blue dot we call home.",
+        "Every good road trip needs some music to match. In this case, each craft carries the Golden Record , a 12-inch phonograph record with spoken greetings in 55 languages, 27 musical tracks, 116 images, and other sounds from Earth. Each record is protected by an outer cover featuring etchings showing our Sun’s location relative to 14 pulsars, along with instructions on how to play it. The design used various metals to protect the information encoded from space radiation: the record used copper and gold plating, and the cover used aluminum. The cover was electroplated with an ultra-pure sample of the isotope uranium-238. Uranium-238 has a half-life of 4. 468 billion years.",
+        "Did you know that a light-minute is a measure of distance, not time? In August 2012 and November 2018, Voyager 1 and 2 crossed the heliopause, the boundary where the Sun’s solar wind meets the interstellar medium. Using NASA’s Deep Space Network , Earth communicates with both spacecraft and tracks each on its journey. At the time of this article, the Canberra antenna tracked Voyager 1 at 25. 80 billion km, or just over 16 billion miles.",
+        "On November 18, 2026, 49 years after its launch, Voyager 1 will cross the one-light-day mark, 16. 1 billion miles from the Sun. You may have heard the term light-year in your favorite sci-fi movie or show, or when stargazing and referring to an object outside of our solar system. This video best demonstrates the different distances between the inner solar system, outer solar system, and beyond, using light measurements. Additionally, track each Voyager spacecraft here .",
+        "You can get a real understanding of what a gravity assist might be like with our Gravity Assist activity and learn what it’s like to measure a “light minute” with our Measuring a Kid Minute activity guide!"
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "nasa-news-novembers-night-sky-notes-light-day-away",
+      "title": "November’s Night Sky Notes: Light-Day Away",
+      "dek": "In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system:…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T10:00:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. By the 1980s, the two probes went their separate ways at Saturn. As Voyager 2 continued toward Uranus and Neptune, Voyager 1 grabbed one more portrait of the solar system (excluding Mercury and Mars), including a final image of the pale blue dot we call home.",
+        "Every good road trip needs some music to match. In this case, each craft carries the Golden Record , a 12-inch phonograph record with spoken greetings in 55 languages, 27 musical tracks, 116 images, and other sounds from Earth. Each record is protected by an outer cover featuring etchings showing our Sun’s location relative to 14 pulsars, along with instructions on how to play it. The design used various metals to protect the information encoded from space radiation: the record used copper and gold plating, and the cover used aluminum. The cover was electroplated with an ultra-pure sample of the isotope uranium-238. Uranium-238 has a half-life of 4. 468 billion years.",
+        "Did you know that a light-minute is a measure of distance, not time? In August 2012 and November 2018, Voyager 1 and 2 crossed the heliopause, the boundary where the Sun’s solar wind meets the interstellar medium. Using NASA’s Deep Space Network , Earth communicates with both spacecraft and tracks each on its journey. At the time of this article, the Canberra antenna tracked Voyager 1 at 25. 80 billion km, or just over 16 billion miles.",
+        "On November 18, 2026, 49 years after its launch, Voyager 1 will cross the one-light-day mark, 16. 1 billion miles from the Sun. You may have heard the term light-year in your favorite sci-fi movie or show, or when stargazing and referring to an object outside of our solar system. This video best demonstrates the different distances between the inner solar system, outer solar system, and beyond, using light measurements. Additionally, track each Voyager spacecraft here .",
+        "You can get a real understanding of what a gravity assist might be like with our Gravity Assist activity and learn what it’s like to measure a “light minute” with our Measuring a Kid Minute activity guide!"
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "nasa-vega-island-frozen-in-fright",
+      "title": "Vega Island Frozen in Fright",
+      "dek": "Shrouded in ice in the lonely Weddell Sea, Vega Island is an eerie sight to behold. ",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T04:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Shrouded in ice in the lonely Weddell Sea, Vega Island is an eerie sight to behold. On this speck of land east of the Antarctic Peninsula, ice, rock outcrops, and glacial moraines combine to create the appearance of a smirking skull in profile looking toward Devil Island.",
+        "These images show Vega Island’s creepy countenance at the start of austral autumn (left) and in spring (right). They were acquired with the OLI (Operational Land Imager) on Landsat 9 on March 22, 2025, and October 10, 2026, respectively. (Clouds obscured the island in March 2026. ) A nunatak jutting out of the ice has the appearance of an eye socket, a lateral moraine forms a mouth, and Bahía del Diablo (Devil’s Bay) Glacier constitutes a jawbone. In the March 2025 image, a layer of snow coats the ice, which is typical of the region’s wettest month. That contrasts with the October 2026 image, when snow is absent from large areas and darker ice surfaces are visible.",
+        "Above-average temperatures in winter 2026 —particularly in June —were partly responsible for so much bare ice in October , said glaciologist Mauri Pelto of Nichols College. The ice exposed on Vega and nearby islands indicates limited new snow accumulation over the winter, further reduced by sublimation and wind scouring, he said. “The winter season was no treat for these glaciers.”",
+        "The melt season ahead may also be more trick than treat. Bare ice is darker than snow and absorbs more solar energy, meaning that melting is poised to speed up as the days grow longer and warmer. “Even a thin cover of new snow from a spring storm would be helpful in the short run,” Pelto said. “When entombed in snow and ice, the skull is preserved. But when exposed to melt, it weathers away, which will lead to a changing jawline and expanding eye socket.”",
+        "The first comprehensive mapping of Vega Island’s ice was aided by Landsat imagery. In a study published in 1982 , scientists described the island’s four ice caps with protruding rocky cliffs and outlet glaciers. They leveraged early Landsat observations along with aerial photos and topographic maps to catalog 29 glaciers on Vega.",
+        "Of those glaciers, Devil’s Bay Glacier has been closely monitored since the austral summer of 1998-1999, with researchers measuring an overall decline in its mass. Satellite images acquired in recent decades show ice loss from other glaciers on the island as well, with increased areas of exposed bedrock.",
+        "Long before scientists began tracking its glaciers, Vega was a bright spot in a tale of terror born out of early exploration of the area. The Swedish Antarctic Expedition of 1901-1903 set out to study the geography, geology, climate, and wildlife on and around the eastern Antarctic Peninsula. The party became split into three groups during their explorations, isolated for a winter in different locations. Adding to the horror, they lost their ship to the pack ice. Cape Well-met, as it would come to be known, off the “forehead” of the Vega Island skull, was the site of a happy reunion of two of the groups in spring 1903. Soon thereafter, an Argentinean expedition rescued the survivors of the ordeal."
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "nasa-news-vega-island-frozen-in-fright",
+      "title": "Vega Island Frozen in Fright",
+      "dek": "Shrouded in ice in the lonely Weddell Sea, Vega Island is an eerie sight to behold. ",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T04:01:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Shrouded in ice in the lonely Weddell Sea, Vega Island is an eerie sight to behold. On this speck of land east of the Antarctic Peninsula, ice, rock outcrops, and glacial moraines combine to create the appearance of a smirking skull in profile looking toward Devil Island.",
+        "These images show Vega Island’s creepy countenance at the start of austral autumn (left) and in spring (right). They were acquired with the OLI (Operational Land Imager) on Landsat 9 on March 22, 2025, and October 10, 2026, respectively. (Clouds obscured the island in March 2026. ) A nunatak jutting out of the ice has the appearance of an eye socket, a lateral moraine forms a mouth, and Bahía del Diablo (Devil’s Bay) Glacier constitutes a jawbone. In the March 2025 image, a layer of snow coats the ice, which is typical of the region’s wettest month. That contrasts with the October 2026 image, when snow is absent from large areas and darker ice surfaces are visible.",
+        "Above-average temperatures in winter 2026 —particularly in June —were partly responsible for so much bare ice in October , said glaciologist Mauri Pelto of Nichols College. The ice exposed on Vega and nearby islands indicates limited new snow accumulation over the winter, further reduced by sublimation and wind scouring, he said. “The winter season was no treat for these glaciers.”",
+        "The melt season ahead may also be more trick than treat. Bare ice is darker than snow and absorbs more solar energy, meaning that melting is poised to speed up as the days grow longer and warmer. “Even a thin cover of new snow from a spring storm would be helpful in the short run,” Pelto said. “When entombed in snow and ice, the skull is preserved. But when exposed to melt, it weathers away, which will lead to a changing jawline and expanding eye socket.”",
+        "The first comprehensive mapping of Vega Island’s ice was aided by Landsat imagery. In a study published in 1982 , scientists described the island’s four ice caps with protruding rocky cliffs and outlet glaciers. They leveraged early Landsat observations along with aerial photos and topographic maps to catalog 29 glaciers on Vega.",
+        "Of those glaciers, Devil’s Bay Glacier has been closely monitored since the austral summer of 1998-1999, with researchers measuring an overall decline in its mass. Satellite images acquired in recent decades show ice loss from other glaciers on the island as well, with increased areas of exposed bedrock.",
+        "Long before scientists began tracking its glaciers, Vega was a bright spot in a tale of terror born out of early exploration of the area. The Swedish Antarctic Expedition of 1901-1903 set out to study the geography, geology, climate, and wildlife on and around the eastern Antarctic Peninsula. The party became split into three groups during their explorations, isolated for a winter in different locations. Adding to the horror, they lost their ship to the pack ice. Cape Well-met, as it would come to be known, off the “forehead” of the Vega Island skull, was the site of a happy reunion of two of the groups in spring 1903. Soon thereafter, an Argentinean expedition rescued the survivors of the ordeal."
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}

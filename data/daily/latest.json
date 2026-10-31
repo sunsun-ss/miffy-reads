@@ -1,229 +1,517 @@
 {
-  "generatedAt": "2026-10-30T21:59:21.353Z",
-  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T21:04:26.125Z",
+  "date": "2026-11-01",
   "failedSources": [],
   "articles": [
     {
-      "id": "phys-new-home-for-orangutans-rescued-from-indonesias-burning-fo",
-      "title": "New home for orangutans rescued from Indonesia's burning forests",
-      "dek": "Deep in a forest in Indonesian Borneo, conservationists open a cage. ",
+      "id": "phys-giant-virus-yields-potassium-channel-gene-that-illuminates",
+      "title": "Giant virus yields potassium channel gene that illuminates complex protein evolution",
+      "dek": "Researchers have discovered a gene for a tandem potassium channel in an algal virus. ",
       "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-30T21:40:01.000Z",
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T21:00:05.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-home-orangutans-indonesia-forests.html"
+        "url": "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html"
       },
       "cover": "star",
       "accent": "blue",
       "paragraphs": [
-        "Deep in a forest in Indonesian Borneo, conservationists open a cage. A female orangutan and her baby waste little time, clambering up the towering trees and disappearing into the canopy, safe at last.",
-        "The pair were among nine orangutans rescued from devastating wildfires ravaging their forest home in Ketapang, West Kalimantan province, in August and September.",
-        "Nursed back to health over several weeks, they now have a new home in Batu Nyambu, a 23,000-hectare (56,800-acre) protected area in the same province.",
-        "When they were rescued, the animals were in bad shape, YIARI wildlife rehabilitation foundation CEO Karmele Llano Sanchez told AFP journalists who went along for the release.",
-        "\"Some of them had burns on their hands and feet, and some of them were skinny and malnourished,\" said Sanchez.",
-        "\"They had to be cared for and fed until they were in good condition again.\"",
-        "The journey to get them to their new home was long and arduous, with conservation workers trekking for hours through steep, slippery terrain, carrying the orangutans in cages suspended from poles digging into their shoulders.",
-        "Conservationists clapped in joy as the apes fled the cages on Thursday and returned to the wild where they belong.",
-        "Among the nine orangutans were four pairs of mothers and their young.",
-        "Sanchez said three of the mothers were pregnant again—a fact discovered during the final health check before their release.",
-        "One of those expecting is Mama Ocha, who was rescued along with her baby, Ocha.",
-        "\"The team will stay around to make sure that she is all right and that she can deliver her baby, and that will be an excellent outcome,\" said Sanchez.",
-        "Once widespread across Southeast Asia, orangutans are now critically endangered.",
-        "According to conservation group WWF, only around 104,000 remain in the wild in Borneo and Sumatra, less than half the estimated population a century ago."
+        "Researchers have discovered a gene for a tandem potassium channel in an algal virus. The finding supports the view that giant viruses may have contributed significantly to the evolution of complex proteins. The study is published in the journal Proceedings of the National Academy of Sciences .",
+        "So-called tandem potassium channels perform important functions in human physiology. Because they can conduct potassium ions (K + ) across the cell membrane, they help, among other things, to stabilize the membrane potential and thereby regulate the electrical excitability of nerve cells.",
+        "Structurally, they differ from all other potassium channels in that two of their four pore-forming subunits are directly linked to each other. It is this tandem-like linkage of the subunits that gives them their name.",
+        "Unlike every other type of potassium channel, precursors of tandem potassium channels have not been found in bacteria, which has raised questions about their evolutionary origin.",
+        "In the PNAS article, the international team, including researchers from the Department of Biology at TU Darmstadt and the Department of Natural Sciences at Bonn-Rhein-Sieg University of Applied Sciences (H-BRS), reports on a DNA virus that infects marine algae and whose genome contains a gene for a tandem potassium channel.",
+        "\"Our experiments show that this gene encodes a protein with the functional properties of a potassium channel,\" says Dr. Oliver Rauh, a scientist in the DFG research network \"CytoTransport\" at H-BRS.",
+        "The authors of the study also examined the evolutionary relationships between the newly discovered viral channel and known tandem potassium channels and made a striking discovery: Contrary to what is assumed for most viral genes, the newly discovered potassium channel gene did not end up in the viral genome by being stolen from the host's genetic material. Rather, the gene appears to be of viral origin.",
+        "\"This finding further reinforces a new perspective according to which the giant mimiviruses, to which this virus belongs, have played a central role in the evolution of proteins in higher organisms,\" emphasizes Gerhard Thiel, a professor in the Department of Biology at TU Darmstadt.",
+        "The results of the study also underline that these viruses are rich sources of interesting proteins. In the same virus, other researchers have already discovered a light-controlled ion channel that is used in optogenetics , a field recently recognized with the Nobel Prize.",
+        "Journal information: Proceedings of the National Academy of Sciences",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "A giant virus infecting marine algae carries a gene encoding a functional tandem potassium channel. Evolutionary analyses suggest the gene originated in viruses rather than being acquired from a host, supporting a viral contribution to the evolution of complex proteins.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors."
       ],
       "external": true,
       "order": 0
     },
     {
-      "id": "phys-for-many-striped-bass-fishing-is-a-way-of-life-but-the-ico",
-      "title": "For many, striped bass fishing is a way of life. But the iconic species could face collapse",
-      "dek": "Striped bass fishing has been Bill Jakob's passion for more than 60 years, and he remembers an era when he'd spend all night casting his line into the crashing waves off…",
-      "category": "科学",
+      "id": "phys-why-do-people-prefer-human-empathy-despite-rating-ai-empat",
+      "title": "Why do people prefer human empathy despite rating AI empathy higher?",
+      "dek": "More people are turning to artificial intelligence (AI)-powered chatbots for companionship and to address loneliness. But can AI-generated empathy replace human connection?",
+      "category": "科技",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-30T21:20:01.000Z",
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T21:00:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-striped-bass-fishing-life-iconic.html"
+        "url": "https://phys.org/news/2026-10-people-human-empathy-ai-higher.html"
       },
-      "cover": "bulb",
-      "accent": "yellow",
+      "cover": "pencil",
+      "accent": "orange",
       "paragraphs": [
-        "Striped bass fishing has been Bill Jakob's passion for more than 60 years, and he remembers an era when he'd spend all night casting his line into the crashing waves off Montauk and get eight or nine fish ranging up to 40 pounds (18 kilograms), a big catch by anyone's standards.",
-        "Then, after years of heavy fishing, the big runs of stripers stopped.",
-        "\"I'm part of the problem, back in the years. I ran party boats, we slayed fish with reckless abandon,\" said Jakob, president of the Montauk Surfcasters Association on the easternmost tip of Long Island.",
-        "Increasingly, fishermen like Jakob fear the good days of catching striped bass are coming to an end. The fish aren't showing up like they used to, and young stripers are becoming harder to find.",
-        "Scientists who study striped bass say anglers on the East Coast are right to be concerned, and they say years of overfishing are just part of the problem. The fish have experienced eight consecutive years of poor reproduction in their most critical habitat in the Chesapeake Bay, regulators said last week, and the population has declined along much of the Atlantic coast.",
-        "Factors like years of warming waters—a prime concern cited by many scientists—poor river flow, drought, pollution and possibly increased predation from seals and sharks have left experts and fishermen asking whether tighter fishing limits would even be enough for striped bass to recover. Losing these higher-level predators, which help regulate smaller fish, would threaten an $8 billion fishing industry and tens of thousands of jobs.",
-        "\"Stripers\" are prized in part because they put up a fight and can be fished right from shore. From the slippery rocks of Maine's coast to the warmer waters of the St. Johns River in Florida, anglers wearing headlamps can be seen casting into the predawn darkness, hoping for a bite.",
-        "Interstate regulators have made changes to the way the migratory fish are managed in recent years, including standardizing the way they're measured against size requirements. But regulators have balked at reducing the level of recreational catch. Some fishermen say the current moves might not go far enough, and stricter action—including possibly a fishing moratorium, a strategy used in the 1980s—is needed to ensure that future generations of anglers can still catch striped bass.",
-        "\"They are not replacing themselves at a sufficient level. That obviously has everybody concerned,\" said Beth Versak, the striped bass program manager for the Maryland Department of Natural Resources. \"People all up and down the coast are passionate about striped bass.\"",
-        "Fishing guides, boat trips, gear, bait, hotel rooms—it all adds up to what members of the industry say is about $8 billion in economic impact and as many as 100,000 jobs in the U. S. alone.",
-        "\"Striped bass as we know it is going to collapse,\" said Patrick Paquette, government affairs coordinator for the Massachusetts Striped Bass Association and a member of an interstate advisory panel about the regulations.",
-        "\"Sometime around 2029, 2030 it's going to go off a cliff,\" he said, \"and it's going to be ugly.\"",
-        "Striped bass hatch in fresh or brackish water and then spend the early years of their lives in estuaries where the rivers meet the sea. Their ability to reproduce and bring new fish into the population is predicated on environmental conditions that favor them—specifically, cool, wet springs.",
-        "Scientists identify four major spawning stocks along the Atlantic. The Chesapeake Bay is where up to 90% of stripers spawn and grow. When freshwater flows are too low, such as in times of drought, or when spring or summer temperatures are too high, the fish suffer and populations can fall, said Toni Kerns, fisheries policy director with the Atlantic States Marine Fisheries Commission, which regulates striped bass."
+        "More people are turning to artificial intelligence (AI)-powered chatbots for companionship and to address loneliness. But can AI-generated empathy replace human connection?",
+        "In a study published in the journal Communications Psychology , a team led by researchers at Penn State found that human users rated AI-generated empathetic responses higher in quality than human-generated empathetic responses, yet they preferred human empathy over AI .",
+        "In the following Q&A, C. Daryl Cameron, the Sherwin Early Career Professor and associate professor of psychology at Penn State, and doctoral student Joshua Wenger discussed AI empathy and why it may prove an effective complement to—and not a replacement for—human companionship.",
+        "Cameron: In our work, we took a research approach that allowed people to show through their choices what they actually want and care about. Studying people's actual choices in the moment can sometimes reveal their preferences. That was a core part of our study.",
+        "What's interesting is how, on the one hand, people don't seem to want AI empathy, but there is some subset of the population that does want it, so it's complicated. Nevertheless, people think that the actual content of what the large language models are saying is empathetic, interesting and validating, and so there's this paradox between what people want and what they choose to opt into, versus their actual evaluations of the material.",
+        "Wenger: We called this effect the \"AI empathy choice paradox,\" and it's this consistent pattern where people rate AI empathy or empathetic expressions from AI as higher in quality and more empathetic than those from real humans. It makes people feel more heard, cared for and validated than responses from human empathizers. But despite this higher quality, people still prefer to receive empathy—even lower-quality empathy—from humans over AI.",
+        "Wenger: For every response in our study, we asked people to rate how empathetic they found each response. We also asked them how much effort they thought the empathizer put into writing the response. This builds upon some theoretical work by the scholar Anat Perry and her paper \" AI will never convey the essence of human empathy. \"",
+        "In it she argues that one of the more important aspects of human empathy is the exertion of effort. Daryl's work has shown that empathy is an effortful act. The idea is that I, as a human empathizer, expend my emotional resources to express care for you, and by doing so, I am signaling your importance to me in some way. And because empathy is objectively effortless for AI, it's not emotionally effortful.",
+        "Interestingly, what our paper found is that when we asked people to rate the perceived effort in the AI- and human-generated responses, they rated AI overall as exerting more effort in the creation of these responses. What this means is complicated, because it's unclear whether people were answering the question as if AI were a human or genuinely perceiving effort. Regardless, we found this difference where, for AI empathy, it seemed like the empathizer put a lot of work into their response.",
+        "In addition, we found that the more effortful a response is perceived as being, the more empathetic people tend to perceive it. So, if someone puts a lot of effort into writing a response, it tends to make the response seem more empathetic. That could be one driver of the high-quality AI empathy.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Cameron: You might think that people who use AI more frequently would be more willing to choose AI empathy, but we don't tend to see that. Instead, we found these interesting patterns where AI empathy is rated as exerting more effort, but the relationship between effort and empathy also depends upon who's the one doing it. The relationship is stronger for humans than it is for AI. As you see higher levels of effort exerted, human empathizers catch up to AI. So, the gap between human and AI empathy is much smaller at higher levels of effort."
       ],
       "external": true,
       "order": 1
     },
     {
-      "id": "phys-chemists-create-disappearing-tattoos-heres-the-science-beh",
-      "title": "Chemists create disappearing tattoos: Here's the science behind how they work",
-      "dek": "How handy would it be if you could make your tattoos invisible for a job interview in the morning, and reveal them again for a party in the evening? ",
-      "category": "科学",
+      "id": "phys-chemists-develop-ai-tool-to-convert-human-ingenuity-into-l",
+      "title": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
+      "dek": "Many have voiced concerns that artificial intelligence will take jobs away from humans. ",
+      "category": "科技",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-30T21:00:04.000Z",
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T19:00:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-chemists-tattoos-science.html"
+        "url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html"
       },
       "cover": "bulb",
-      "accent": "yellow",
+      "accent": "blue",
       "paragraphs": [
-        "How handy would it be if you could make your tattoos invisible for a job interview in the morning, and reveal them again for a party in the evening? This sounds like science fiction, but it may soon be reality.",
-        "Researchers at the University of Colorado Boulder have developed invisible tattoo ink that can be revealed with a UV flashlight and stays visible until switched off with white light. They have published their research in the journal Matter & Light .",
-        "They created different motifs with this ink ranging from a lantern that reveals its light when activated, to multicolored scales like those in the much-loved children's book \"The Rainbow Fish.\"",
-        "The pigments used in these inks are so-called photochromic dyes (from the Greek \"photos,\" which means \"light,\" and \"chroma,\" which means \"color\"). In other words, they are compounds that change color when exposed to light. These dyes have been used for years in color-changing sunglasses.",
-        "Light carries energy, and photochromic compounds are designed in such a way that this energy is enough to cause a chemical change that alters the shape and therefore the properties of the molecule.",
-        "In the case of the \"invisible\" tattoo ink, two or three seconds of bright ultraviolet (UV) light is enough to form a new ring in the dye molecule, which switches a colorless pigment to a colored one. A variety of colors are available depending on the exact structure of the molecule.",
-        "A blast of bright white light reverses the reaction, breaking the ring and turning the color off again. For a long time, the challenge with this chemistry was that the colored form of the dye was relatively unstable and quickly reverted to the more stable, colorless form—especially at higher temperatures.",
-        "Another issue was fatigue: after a certain number of on-off cycles, the dyes degraded and took on a permanent colored hue. Have you ever bought transition lens sunglasses and noticed that they became less effective over time? This is due to the same deterioration of photochromic compounds in the lenses. But thanks to recent research efforts, remarkably stable dyes have been designed that reliably hold their color for months and can undergo over 10,000 activation and deactivation cycles without degrading.",
-        "Carson Bruns' team at the University of Colorado Boulder showed that these pigments could be formulated into tattoo inks by encapsulating them in poly(methyl methacrylate) (PMMA) , a polymer approved for medical use in bone cement, dentures and intraocular lenses. This family of inks is known as PhotoTat.",
-        "So, when will you be able to get one of these switchable tattoos? A red pigment was already launched in 2024 under the name Magic Ink by Colorado-based biotech company Hyprskn . A 2-milliliter (ml) vial will set you back £77, which is about 100 times more expensive than regular tattoo ink due to the specialized dyes and formulation process required. The ink is fully compliant with the EU's Reach (Registration, Evaluation, Authorisation and Restriction of Chemicals) safety regulations.",
-        "Now, Bruns' research team has developed three more PhotoTat inks—blue, magenta and yellow—that can combine into 16 other colors. \"So far,\" Bruns says , \"the only person who's tested this ink is me. I actually have hundreds of these tattoos on my legs now and they've all gone really well.\"",
-        "Some challenges remain, though: direct sunlight contains enough UV radiation to activate the tattoos unless they are protected by sunscreen. Indoor light will slowly switch them off over a period of several days.",
-        "In addition, the blue ink currently degrades after only 10–100 activations , leaving a permanent, purple-colored mark. Most importantly, the inks need to undergo thorough toxicity and safety testing before they can be rolled out to tattoo shops for general use, which will likely take several years. Don't get your hopes up just yet about your new \"business during the day, party at night\" look.",
-        "When Hyprskn launched Magic Ink, the reception in the tattoo community was mixed. While some tattoo enthusiasts viewed it as a revolutionary creative tool, others thought it was an overpriced gimmick. Bruns does not only see his photochromic tattoo inks as fashion accessories, however."
+        "Many have voiced concerns that artificial intelligence will take jobs away from humans. But assistant professor of chemistry Zhongyue (John) Yang, along with his former doctoral student Qianzhen Shao (now a postdoc at Stanford) and other team members, has created an AI tool that aims to elevate the work that scientists do—not replace them.",
+        "MutexaGPT can speed up the \"customization\" of enzymes that drive countless chemical reactions essential to our daily lives. Engineered enzymes synthesize new medications, preserve nutrient-rich foods and help recycle polymers to reduce plastic waste. MutexaGPT takes plain-English, intuition-driven requests as input and leverages large language model agents to elicit missing information, build physics-based models and convert the results into actionable design proposals. The study is published in Nature Computational Science .",
+        "\"I know there are increasing concerns about AI replacing humans in the workforce, and I share them,\" Yang said. \"However, with MutexaGPT, we are not using AI to get things done more efficiently without people. We are showing that with AI you can translate human intuition, which is often imaginative and incredible, to create a workable plan.\"",
+        "He noted that enzymes, which are specialized proteins that speed up chemical reactions, can be viewed as nature's catalysts. Each enzyme consists of hundreds of amino acids, and changing even a single amino acid, which is called a mutation, can lead to substantial change in its function.",
+        "\"Now comes the major challenge, as no one knows how to predict mutations that alter genetic code without relying heavily on trial and error in industry,\" Yang said. \"For the enzyme engineering market, which yields hundreds of billions of dollars in revenue each year, this simply means large amounts of super expensive testing and resource costs. MutexaGPT aims to change this paradigm by enabling researchers to use natural language to explore, predict and design enzyme mutations, drawing on artificial intelligence and fundamental principles of chemistry and physics.\"",
+        "Among the tasks MutexaGPT can assist with is cold-active enzyme technology—engineering enzymes into versions that maintain high catalytic competence at lower temperatures. This is vital for cold-temperature processes like lactose-free milk and food preservation that ensures retention of heat-sensitive nutrients. Another practical application is the manufacture of laundry detergents that break down complex stains without the need for hot water. Similarly, designing enzymes with greater catalytic efficiency and selectivity makes pharmaceutical manufacturing more sustainable by reducing energy consumption, chemical waste and reliance on harsh reaction conditions.",
+        "As for the name of this tool, Mutexa is short for \"Alexa for Mutant.\" Yang said, \"The name reflects our original vision of creating an Amazon Alexa–like intelligent assistant for designing enzyme mutants.",
+        "\"Just as Alexa helps people accomplish everyday tasks through natural-language conversations, MutexaGPT aims to help scientists navigate the complex world of enzyme mutations through an intuitive, conversational interface. The 'GPT' highlights the integration of large language models , which allow researchers to communicate with the system in natural language while connecting their questions to sophisticated computational tools for enzyme engineering.\"",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Yang, who grew up in China, was trained as a pure computational chemist while earning his Bachelor of Science from the Chang Po-ling Program of Chemistry at Nankai University. He then enrolled at UCLA in 2013, where he completed his doctorate in four and a half years. He had a postdoctoral fellowship at MIT prior to joining the Arts and Science faculty in 2020. Since then, he has been working to develop Mutexa and conduct experiments on its efficacy.",
+        "\"For researchers who work on enzyme engineering and design, they often develop their own intuition into how things work,\" Yang said. \"They can have the principle but might not know how to quantify it,\" Yang said. \"We can translate their principles into actual designs with MutexaGPT. I am excited to envision a future in which scientists can engineer enzymes for specific applications as readily as they consult an AI assistant, accelerating innovations in medicine, sustainable manufacturing and everyday consumer products.\"",
+        "BA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile &rarr;"
       ],
       "external": true,
       "order": 2
     },
     {
-      "id": "phys-are-narcissists-multiplying-or-is-the-social-media-algorit",
-      "title": "Are narcissists multiplying or is the social media algorithm making them bolder? The answer in five stages",
-      "dek": "Social media doesn't necessarily reflect who you are, but it may intensify particular personality traits and confirm or even persuade you that your worst behavior is justified.",
+      "id": "phys-calling-species-invasive-and-culling-them-isnt-done-lightl",
+      "title": "Calling species 'invasive'—and culling them—isn't done lightly. But it matters to Australia's threatened species",
+      "dek": "It may sound abstract, but distinctions between \"native,\" \"introduced\" or \"invasive\" species can often be life or death. ",
       "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-30T20:40:06.000Z",
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T18:00:05.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-narcissists-social-media-algorithm-bolder.html"
+        "url": "https://phys.org/news/2026-10-species-invasive-culling-isnt-australia.html"
       },
       "cover": "bulb",
       "accent": "yellow",
       "paragraphs": [
-        "Social media doesn't necessarily reflect who you are, but it may intensify particular personality traits and confirm or even persuade you that your worst behavior is justified.",
-        "We are addressing that imbalance with our framework, the Algorithmic Trait Amplification, or ATA, with particular regard to narcissism.",
-        "Narcissism runs on a spectrum . At the far end is narcissistic personality disorder, a clinical diagnosis. But many people have milder narcissistic traits—a strong need for admiration, a habit of overrating their own importance, difficulty taking criticism, little empathy. That said, some traits such as healthy ambition and assertiveness are beneficial.",
-        "People who have these traits , which are common, are especially drawn to social media and platforms built around status and approval from others.",
-        "For years we have been studying online behavior and the effect of social media on relationships , including how psychopathy shows up in romantic relationships and how TikTok shapes young women's attraction to dangerous partners .",
-        "That work, combined with what psychology already knows on how narcissistic people operate online , how algorithms chase engagement and what personality change requires , led us to a realization. The algorithmic loop process may slowly strengthen an inflated, entitled self-image.",
-        "These are the five steps over which ATA predicts that social media will heighten narcissistic traits.",
-        "Someone with narcissistic traits tends to react strongly to content that matches their self-image. Winning. Status. Being special. Always being right. Most of us have some version of a For You content feed. But for people high in these traits, the pull is more powerful. Such content fulfills a narcissist's higher need for validation.",
-        "Social media recommendation systems are designed to keep us engaged, but they cannot tell whether the content is good for us. They only measure whether it holds our attention. Our reactions become instructions : give this person more of this, feed the loop.",
-        "For example, a user rewatches a video about how \"strong personalities intimidate weak people.\" The app notices and fills the feed with content about cutting off \"toxic\" friends and refusing to apologize. Every video tells them the problem is everyone else. And they agree. So, they watch more.",
-        "Audit studies of online recommendation systems show that feeds narrow in proportion to how selectively a user engages. Someone low in narcissistic traits engages more evenly in different types of content. Someone high in these traits engages hard and narrow, and the algorithm obliges.",
+        "It may sound abstract, but distinctions between \"native,\" \"introduced\" or \"invasive\" species can often be life or death. Species considered invasive in Australia—such as European rabbits and feral pigs—are often culled, while most native animals are generally left alone.",
+        "Debate over these terms doesn't usually go mainstream. But this month was different. On Oct. 13, independent Sen. David Pocock brought a motion in federal Parliament calling for a long-term plan to \"protect Australia's landscapes and wildlife from invasive species.\"",
+        "In response, Greens Sen. Mehreen Faruqi took aim at the term \"invasive,\" saying: \"There's no need for labeling introduced species as invasive in a way that blames animals for the man-made problems raised by this motion. Language matters. Animals are not villains to be shot or obstacles to be poisoned to death.\"",
+        "As an ecologist and conservation scientist, the debate spoke to me about how important it is to explain why \"invasive\" species are given this title, the damage they can do and why many need to be eradicated or their numbers greatly reduced.",
+        "If we stop trying to control some invasive species, we risk condemning even more native animals to extinction and worsening Australia's environmental decline.",
+        "Conservationists and authorities commonly use four words—introduced, feral, invasive and pest—to describe species present in Australia. Definitions can differ and there is debate over their exact meaning. But their broad meanings are clear:",
+        "An introduced species has been moved by humans to areas outside its known natural historic range. This can be accidental (think black rats on ships) or intentional (deer species introduced for hunting). Native species—such as the superb lyrebird—can also be considered introduced when moved to new locations in the same country.",
+        "Feral: This term refers to introduced domesticated species that now have wild populations independent of people. Feral cats, goats, horses, pigeons, pigs and camels are common examples in Australia.",
+        "Invasive: Invasives are introduced species whose presence is concerning, either due to their clear (typically negative) impact on ecosystems or their rapid spread after introduction. Not all introduced species are considered invasive, but all invasive species are introduced.",
+        "Pest: A species is considered a pest if it damages things humans care about, such as crops. Typically, pest species are relatively abundant. Both native and non-native species can be pests.",
+        "While these terms have some overlap, they are generally not interchangeable. They help inform environmental decision-making and guide conservation efforts—including culling or biological controls.",
         "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
-        "We call this the echo algorithm, after the Greek myth of Narcissus . The nymph Echo can only repeat what is said to her. She cannot challenge or answer back.",
-        "Social media algorithms are the same. Over time, the user unknowingly builds a mirror: more praise, more validation, more self-image inflation. And the worst part for narcissistic users is that the feed feels like the world agrees with them. Objective. External. Almost all-knowing. But it is an oracle that they trained themselves to say exactly what they wanted to hear."
+        "For millions of years, Australia was relatively isolated. This shaped the evolution of the continent's extraordinary array of native species. Most plants, animals and other life forms here are found nowhere else on Earth.",
+        "These species have a right to persist in the face of European colonization, land clearing and waves of introduced species."
       ],
       "external": true,
       "order": 3
     },
     {
-      "id": "phys-hidden-erosion-study-reveals-soft-mountain-rock-erodes-thr",
-      "title": "Hidden erosion: Study reveals soft mountain rock erodes three times faster than hard rock—with climate implications",
-      "dek": "A University of Massachusetts Amherst-led research team has discovered that weaker rock in mountain landscapes erodes three times faster than harder rock—even on gentler…",
-      "category": "环境",
+      "id": "phys-ultracold-atoms-simulate-hard-to-observe-matter-antimatter",
+      "title": "Ultracold atoms simulate hard-to-observe matter-antimatter pair production",
+      "dek": "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in…",
+      "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-30T20:40:01.000Z",
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T17:00:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html"
+        "url": "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html"
       },
-      "cover": "wave",
+      "cover": "star",
       "accent": "blue",
       "paragraphs": [
-        "A University of Massachusetts Amherst-led research team has discovered that weaker rock in mountain landscapes erodes three times faster than harder rock—even on gentler slopes—and is one of the main attributes governing mountain erosion. The finding also challenges our current understanding of the relationship between erosion and the release of carbon dioxide, and suggests that geologists and atmospheric scientists may be underestimating the CO₂ contributions coming from the Earth's rocky places.",
-        "The research, recently published in Science Advances , depends on a new technique relying on common quartz grains, the rare isotope beryllium-10 (known as ¹⁰Be) and cosmic rays from exploded stars.",
-        "Over the course of the universe's nearly 14 billion years, countless stars have exploded, and when they do, they blast out showers of cosmic shrapnel in the form of high-energy particles. These cosmic particles have been raining down on the Earth for uncountable ages at a constant rate. When the particles penetrate rocks on the surface, ¹⁰Be is produced within quartz. For four decades, geologists have been able to harvest these quartz grains from rocks like granite and sandstone, in which the quartz grains are comparatively large, to test all sorts of hypotheses.",
-        "But in rocks where the grains are too fine, such as shale, the conventional ¹⁰Be technique hasn't worked. And that has limited geologists' abilities to accurately pinpoint things like erosion rates across a broad spectrum of rock types.",
-        "That is, until Marder and his colleagues developed a new method for harvesting the rare isotope from such rocks.",
-        "\"When we look at landscapes, we are only seeing a snapshot in time,\" says Eyal Marder, a postdoctoral researcher in earth, geographic and climate sciences at the University of Massachusetts Amherst and the lead author of the new paper.",
-        "But researchers want to understand the full geological movie from start to finish in order to understand the land's life cycle. Marder and his team studied Colorado's East River Watershed, which drains approximately 465 square kilometers (180 square miles) of the southern Elk and West Elk mountains—jagged peaks whose most famous landmark, Crested Butte, is revered as one of the U. S.' s premier ski areas.",
-        "The sheer alpine topography is notable for its diverse geological composition: a mix of incredibly durable igneous rock and much weaker shale, deposited by rivers eons ago.",
-        "Their new technique allowed Marder and his team to make a few surprising discoveries. As expected, weaker sedimentary rocks erode faster than harder igneous ones. What was surprising is how much faster they erode.",
-        "\"Shale's erodibility is three times that of the harder rocks in the East River Watershed,\" says Marder.",
-        "It's so fast that the contrast with the slower-eroding rocks can prolong landscape erosion over millions of years. This also means that the fastest erosion might happen not in steeper, more resistant parts of the mountains, but rather in lower, comparatively gentle, rounder, sedimentary ones.",
-        "This shift means that the best way to evaluate whether or not a landscape has reached equilibrium is not just by visually gauging its pitch, but also by estimating erosion rates from the amounts of ¹⁰Be in the sediment carried by the streams that drain mountainous regions.",
-        "Marder and his team have also exposed a missing piece in global climate models. Geologists recognize that weathering of different minerals on the surface can either release or absorb CO₂. But the fact that in mountainous landscapes, shale, which releases CO₂ to the atmosphere, is eroding faster and at a larger magnitude than intrusive rocks, which absorb CO₂ from the atmosphere, means that geologists and atmospheric scientists may have underestimated the CO₂ contributions coming from mountains.",
-        "\"Scale our work up from the Elk and West Elk mountains to all the mountainous regions of the world, and getting erosion rates and their equivalent impact on CO₂ release right has a marked impact on what we know about biogeochemical global cycles and climate change,\" says Marder. \"Give us the type of rock and enough quartz for our ¹⁰Be measurements, and we can estimate what effect it will have on CO₂ emissions from thousands to millions of years.\""
+        "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in principle, convert some of its energy into particles and their antimatter partners. A particle's antimatter partner has the same mass and, for electrically charged particles, the opposite electric charge.",
+        "The creation of particle–antiparticle pairs via an electric field and from the vacuum is known as the Schwinger effect. As the production of these pairs is strongly suppressed at electric field strengths that can be realized in a laboratory setting, observing this effect experimentally has so far proved challenging.",
+        "Researchers at the University of Science and Technology of China and other institutions have now introduced an experiment that could be used to simulate and study this rare particle production process. Their experiment, outlined in a paper published in Physical Review Letters , entails representing particles and electric fields through the arrangement and motion of ultracold rubidium atoms trapped in an optical lattice , a laser light-based pattern that can trap atoms.",
+        "\"We were inspired by the Schwinger effect, the prediction that a strong electric field can spontaneously create electron-positron pairs from the vacuum,\" Zhen-Sheng Yuan, co-senior author of the paper, told Phys. org.",
+        "\"This is an example of 'false vacuum decay,' and in its original form it has never been observed directly. Our goal was to build a simple, controllable laboratory model with cold atoms, where we could simulate this process and tune how it unfolds.\"",
+        "In their experiments, Yuan and his colleagues used laser light to trap ultracold rubidium atoms in a one-dimensional chain, a straight row of tiny optical traps. Every second trap on this chain contained two atoms, while the traps in between were empty.",
+        "\"This arrangement is a 'false vacuum,' a state that can release energy by creating particle-antiparticle pairs,\" explained Yuan. \"We then changed the settings so atoms could hop between neighboring sites in a way that mimics pair creation, tuning the background electric field to control the process. A quantum gas microscope imaged the atoms at different times, letting us watch it happen.\"",
+        "The researchers changed the mass of the simulated particles in their system and the background electric field to determine how these changes affected the production of particle-antiparticle pairs. They found that when the simulated particles were heavier or when the electric field became too dominant relative to other interactions in their model, fewer pairs formed.",
+        "\"We also linked pair production directly to the 'vacuum persistence amplitude'—whose squared magnitude gives the probability that the initial vacuum survives—and saw long-lived oscillations in some physical limit,\" said Yuan. \"Together, these show how cold atoms bring otherwise hard-to-observe quantum-field processes into a controlled laboratory.\"",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "This study introduces a new experimental platform for simulating and studying the production of particle-antiparticle pairs. When the simulated particle mass was set to zero, the researchers observed oscillations that resembled the collective excitations predicted by the Schwinger model.",
+        "In the future, the team's proposed experiment could be used to investigate particle-antiparticle production processes that are extremely difficult to observe directly in an experimental setting. Yuan and his colleagues are now planning more studies that will rely on the experiment to study rare physical phenomena.",
+        "\"We would now like to study what happens when these simulated particles meet, collide and scatter,\" added Yuan. \"We also hope to extend the experiment from a one-dimensional chain to two dimensions and to other gauge theories, where richer phenomena such as string breaking become accessible.\"",
+        "Written for you by our author Ingrid Fadelli , edited by Gaby Clark , and fact-checked and reviewed by Robert Egan —this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you."
       ],
       "external": true,
       "order": 4
     },
     {
-      "id": "phys-tiny-photonic-chip-links-telescopes-together-to-view-the-u",
-      "title": "Tiny photonic chip links telescopes together to view the universe in 'astonishing' detail",
-      "dek": "A tiny glass chip developed by researchers at Heriot-Watt University has linked two telescopes together to enable them to act as a single powerful instrument, marking an…",
+      "id": "scitechdaily-alzheimers-linked-proteins-have-a-hidden-role-in-human-rep",
+      "title": "Alzheimer’s-Linked Proteins Have a Hidden Role in Human Reproduction",
+      "dek": "Proteins commonly associated with Alzheimer’s and Parkinson’s disease may have a surprising function in human reproduction. ",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T16:36:19.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/alzheimers-linked-proteins-have-a-hidden-role-in-human-reproduction/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Proteins commonly associated with Alzheimer’s and Parkinson’s disease may have a surprising function in human reproduction. Researchers at Columbia University’s Zuckerman Institute have discovered that amyloid fibrils, tiny protein fibers found in semen, can help transport RNA into sperm cells. The findings suggest a previously unknown pathway for moving genetic material into sperm and could eventually lead to new methods for delivering gene therapies.",
+        "Published in Molecular Cell , the research shows that amyloids can serve a useful biological purpose despite their association with neurodegenerative diseases. The scientists also demonstrated that these protein fibers can carry RNA molecules large enough to produce functional proteins in developing embryos.",
+        "The investigation grew out of earlier research showing that amyloid fibrils in semen can help HIV enter cells in the reproductive tract. Anthony Fitzpatrick, PhD, a Columbia researcher who studies amyloids in brain diseases, wondered whether these same structures might help transport the body’s own genetic material into sperm.",
+        "His team focused on RNA, a molecule involved in converting genetic instructions into proteins and regulating gene activity. Seminal fluid contains numerous small RNA molecules that may influence gene expression during embryonic development. However, scientists have not fully understood how these molecules move from semen into sperm.",
+        "HIV provided a potential connection because the virus uses RNA as its genetic material. If seminal amyloids could facilitate viral entry into cells, researchers reasoned, they might also help deliver free RNA molecules.",
+        "William Mallen, PhD, the study’s lead author, investigated whether amyloid fibrils could attach to RNA. The two have complementary electrical properties: amyloids carry a positive charge, while RNA is negatively charged. Using fluorescent markers, Mallen confirmed that the molecules bind together.",
+        "The researchers proposed that amyloids might also protect RNA during transport. RNA is relatively fragile and can be broken down by enzymes, whereas amyloid fibrils form highly stable structures. Encasing RNA within these fibers could potentially help preserve it, although that protective function has not yet been established.",
+        "To determine whether the fibrils actually enter sperm, the team used cryo-electron tomography (cryo-ET), a powerful imaging technique that creates detailed three-dimensional views of frozen biological samples. Amyloid fibers marked with tiny gold particles were found inside sperm cells, confirming that they could cross the cell boundary rather than simply attach to its surface.",
+        "“Seeing those amyloid fibers inside sperm cells was just so extraordinary to me,” said Mallen, who is now a medical student at the University of Vermont. “There were hints of this happening earlier in our other experiments, but actually seeing this just totally blew us away.”",
+        "Additional experiments using fluorescent markers showed that amyloid fibrils greatly increased the amount of RNA entering sperm. The researchers also identified a possible mechanism for releasing the transported material: a protein called clusterin could help separate RNA from its amyloid carrier once inside cells.",
+        "The team tested whether the fibrils could deliver larger RNA molecules capable of directing protein production. Sperm exposed to amyloid-bound RNA encoding green fluorescent protein were used in fertilization experiments. The resulting embryos produced at least 10 times more of the fluorescent protein than embryos fertilized with sperm exposed to the same RNA without amyloids.",
+        "Previous studies have suggested that RNA carried by sperm can influence gene activity in offspring through epigenetic mechanisms, which regulate how genes are used without altering the underlying DNA sequence. Research in mice has also linked paternal transmission of certain metabolic conditions, including insulin resistance, to RNA-mediated processes.",
+        "Beyond reproduction, the findings could have implications for RNA delivery in medicine. Technologies such as CRISPR rely on RNA to guide gene-editing machinery toward specific DNA sequences, but getting these components safely and efficiently into cells remains a major challenge.",
+        "Some gene therapies use modified viruses to transport genetic material into cells. Although effective in many applications, viral delivery systems can provoke immune responses. Amyloid fibrils derived from human proteins might eventually provide another approach, although their safety and effectiveness as therapeutic carriers still require investigation."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "phys-four-superconducting-cables-link-two-large-quantum-process",
+      "title": "Four superconducting cables link two large quantum processors into one",
+      "dek": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-01",
+      "publishedAt": "2026-10-31T16:00:02.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can work together as one larger machine. For this to happen, however, connections must carry fragile quantum information without destroying it.",
+        "For superconducting processors, this means building reliable links around a meter (3. 3 feet) long inside equipment chilled to just above absolute zero. A team at IBM Research has now achieved this for the first time: joining two large superconducting processors using four separate high-quality quantum links, all installed after both chips were already in place.",
+        "Their work is detailed in a new paper published on the arXiv preprint server.",
+        "So far, quantum links between superconducting chips have mostly involved a single connection between small experimental processors. These links have allowed researchers to transfer quantum states from one chip to another, and to create quantum entanglement .",
+        "To build larger machines, however, engineers will need to install many connections between processors that are already mounted in their refrigerators. These attachments must be packed closely together, lose very little of the signal passing through them, and keep working as the system is repeatedly warmed and cooled.",
+        "To tackle this challenge, the IBM team linked two of its 120-qubit Nighthawk R1 processors. In each link, a qubit inside one processor passed its information to a dedicated 'interface' qubit.",
+        "An adjustable coupler then fed this information into an 80 cm (31-inch) superconducting aluminum cable, which carried it to a matching set of components on the other chip. To allow for denser packing in the cables, the team plugged each one into its chip from directly above, rather than from the side.",
+        "With their setup complete, researchers tested how well it could pass quantum states between the chips, and carry out logic operations involving qubits on both processors.",
+        "Across the four links, quantum states were transferred with an average accuracy of 99%, reaching 99. 29% on the best link. Two-qubit logic operations spanning both processors reached an average accuracy of 94. 75%.",
+        "Using these operations, the team created entangled states shared across both processors, including 4- and 6-qubit states, and generated two entangled pairs at the same time through neighboring links. With the new attachment approach, all four connections remained operational through three cycles of warming and cooling.",
+        "For now, further improvements will be needed before the system can become commercially practical—especially in the longevity of its quantum information. All the same, the system's achievements mark an important step forward in quantum computing.",
+        "Altogether, the team's result paves the way for computers where quantum information is stored and processed across many processors, making future machines far easier to expand and maintain.",
+        "Written for you by our author Sam Jarman , edited by Gaby Clark , and fact-checked and reviewed by Robert Egan —this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.",
+        "Science X contributing writer; covers astrophysics, novel materials, medical imaging, and bio-inspired tech. Full profile &rarr;"
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "scitechdaily-a-natural-compound-found-in-everyday-foods-shows-surprisin",
+      "title": "A Natural Compound Found in Everyday Foods Shows Surprising Power Against Lung Cancer",
+      "dek": "Quercetin, a compound found in citrus fruits, onions, and buckwheat, slowed lung cancer cell division and movement in laboratory experiments. ",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T15:25:14.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-natural-compound-found-in-everyday-foods-shows-surprising-power-against-lung-cancer/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Quercetin, a compound found in citrus fruits, onions, and buckwheat, slowed lung cancer cell division and movement in laboratory experiments. At the highest dose tested, cell migration nearly stopped.",
+        "The findings come from researchers at Universitätsklinikum Erlangen at Friedrich-Alexander Universität Erlangen-Nürnberg (FAU), who examined the compound’s effects in laboratory-grown lung cancer cells, mouse lung tissue sections, and living mice. Their study appeared in Cell Death Discovery .",
+        "Lung cancer is the most common cancer worldwide and causes more cancer deaths than any other type. Available treatments do not work for everyone, prompting researchers to investigate additional approaches, including plant compounds such as quercetin, which is known for its anti-inflammatory properties.",
+        "The team in the hospital’s Department of Molecular Pneumology found that quercetin affected several processes involved in cancer growth. “Many drugs against lung cancer target a single molecule,” explains Prof. Dr. Susetta Finotto. “Quercetin, by contrast, attacked at several points simultaneously in our experiments.”",
+        "Treated tumor cells divided more slowly. In one of the two lung cancer cell types examined, quercetin also lowered oxidative stress. This occurs when reactive oxygen compounds overwhelm cells’ defenses, potentially causing damage that contributes to cancer development.",
+        "The effect on movement was particularly striking because migration helps cancer cells spread and establish new tumors, known as metastases. “The higher the quercetin dose, the fewer cancer cells migrated. At the highest dose, the migration almost completely stopped,” reports Christine Carvalho, the study’s lead author.",
+        "Quercetin also reduced levels of two proteins, EGFR and PD-L1, in the cancer cells studied. EGFR passes growth signals into cells, while PD-L1 can help tumors evade immune defenses.",
+        "In mouse lung tissue sections, quercetin increased levels of interferon-alpha-2, a signaling molecule that helps the immune system defend against tumors. The researchers also observed changes beyond the lungs, involving the community of microbes living in the gut.",
+        "“In the mice that received quercetin, the gut microbiome also changed,” explains Prof. Susetta Finotto. “Bacteria that produce certain short-chain fatty acids were more common.” These fatty acids can enter the bloodstream and reach the lungs, where they can inhibit cancer cell growth.",
+        "The mice given quercetin also showed signs of fewer tumor sites. However, only a few animals developed tumors, leaving too little evidence to confirm that finding. Further studies are needed, and whether the effects seen in cells and mice extend to people remains unknown. The experiments also do not establish whether eating quercetin-containing foods would reproduce these results.",
+        "“Our results suggest that a quercetin-rich diet could support treatment for lung cancer,” says Prof. Susetta Finotto. “We also think it may have preventive effects. We want to investigate that next.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "phys-rare-iron-age-celtic-helmet-discovered-in-northeastern-pol",
+      "title": "Rare Iron Age Celtic helmet discovered in northeastern Poland far from its homeland",
+      "dek": "Around 2,400 years ago, at Łysa Góra in Poland, a group of people took a bronze helmet, crushed it, broke it into pieces and threw it into a pit with iron adzes and a scythe.…",
       "category": "科学",
       "tags": [
         "Phys.org"
       ],
       "date": "2026-10-31",
-      "publishedAt": "2026-10-30T20:20:06.000Z",
+      "publishedAt": "2026-10-31T15:00:06.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html"
+        "url": "https://phys.org/news/2026-10-rare-iron-age-celtic-helmet.html"
       },
-      "cover": "orbit",
-      "accent": "lilac",
+      "cover": "star",
+      "accent": "blue",
       "paragraphs": [
-        "A tiny glass chip developed by researchers at Heriot-Watt University has linked two telescopes together to enable them to act as a single powerful instrument, marking an important step toward a new generation of astronomical technology.",
-        "The CHARA Array is one of the world's leading facilities for high-resolution astronomy and consists of six telescopes that can be linked together to study celestial objects in extraordinary detail. To make this possible, the light collected by each telescope must be combined with extreme precision.",
-        "The photonic chip—which guided light through thin glass channels in the manner of integrated circuits guiding electrons—has been successfully used for the first time in on-sky observations at the CHARA Array in California. The results show that the technology, small enough to fit in the palm of a hand, can perform a task that has traditionally required much larger and more complex optical systems.",
-        "The achievement could help transform the way future astronomical instruments are designed, making them smaller, more robust and easier to upgrade while still delivering the precision needed to study distant stars and planetary systems.",
-        "The study appears in Monthly Notices of the Royal Astronomical Society .",
-        "Researchers believe the technology could eventually support some of astronomy's most ambitious goals, including studying how planetary systems form and evolve while helping scientists directly detect and characterize planets around other stars.",
-        "The international project brought together researchers from the U. K. (Heriot-Watt University), Germany (Cologne and Potsdam universities) and the United States (the CHARA Array of Georgia State University). The photonic chip at the heart of the instrument was developed at Heriot-Watt University's Institute of Photonics and Quantum Sciences by professor Robert Thomson and Dr. Aurélien Benoît. The team also played a central role in the observing campaigns that demonstrated the technology on the telescope array.",
-        "Thomson said, \"This is a significant milestone for a research program that began more than 15 years ago. Astronomers can achieve much sharper views of the universe by combining observations from several telescopes at the same time. Doing this allows the telescopes to work together as though they were one much larger telescope.",
-        "\"Traditionally, combining the light from multiple telescopes requires bulky instruments with complex arrangements of mirrors and lenses. We have shown that much of that work can instead be carried out by a glass chip only a couple of centimeters in size.",
-        "\"Seeing this technology progress from fundamental research and early laboratory demonstrations to successful operation at one of the world's leading facilities is a particularly significant outcome and a demonstration of the power of international collaboration.\"",
-        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
-        "The Heriot-Watt photonic chip performs that role. Tiny channels are written directly using an ultrafast-laser inscription technique inside an innovative glass to provide access to an unexplored spectral range for this fabrication process. The channels combine the incoming light, enabling the separate telescopes to work together as a single telescope.",
-        "The chip sits at the heart of an instrument called CHARIOT, which was designed as a testbed for new photonic technologies. During observing campaigns in 2024 and 2025, CHARIOT successfully combined light from telescopes at the CHARA Array and recorded signals from a range of stars, demonstrating the precision required for advanced astronomical research. The instrument also detected signals from stars fainter than those reached by the system it replaced.",
-        "Benoît, from Heriot-Watt University's Institute of Photonics and Quantum Sciences, said, \"There is something very special about seeing a device that we conceived, designed, fabricated and characterized in the laboratory being used to efficiently collect and analyze light from real stars at one of the world's leading astronomical interferometers."
+        "Around 2,400 years ago, at Łysa Góra in Poland, a group of people took a bronze helmet, crushed it, broke it into pieces and threw it into a pit with iron adzes and a scythe. Such helmets are sometimes found in lavish graves of the Celtic warrior elite, from Champagne, France, to Dürrnberg, Austria.",
+        "A new study published in Antiquity reports the discovery of a rare Berru-type helmet. Its find spot in northeast Poland makes it the only known helmet of its kind found outside its Celtic homeland in the 4th century B. C.",
+        "\"Łysa Góra is one of the most exciting and mysterious archaeological sites dating to the Early Iron Age,\" said Bartłomiej Kaczyński, an archaeologist at the State Archaeological Museum in Warsaw. \"The helmet is a symbol of power and direct evidence of long-distance contacts.\"",
+        "Łysa Góra was a fortified Iron Age settlement located on a sand dune between the Orzyc River and a lake. According to the study, it was inhabited between the 6th and 4th centuries B. C. , possibly by people belonging to the West Baltic Barrow Culture.",
+        "Archaeologists had known about Łysa Góra for decades, with excavations conducted on and off between 1971 and 1992. However, because few of the finds from those excavations were ever published, Łysa Góra's untapped potential was never fully realized, the study reports.",
+        "On top of that, its reputation made excavators doubtful of finding anything useful. \"We did not know what to expect, as the site had a reputation for being severely disturbed,\" Kaczyński said.",
+        "Then excavations of a ritual pit filled with charred remains revealed something unexpected. Along with adzes and a scythe, they uncovered what appeared to be an unusual bronze vessel.",
+        "\"During the excavation, we uncovered an object made of bronze sheet metal, which we initially thought was a vessel,\" Kaczyński said. \"It was only when we exposed the tip that we realized we had found a helmet of a very rare type.\"",
+        "Similar bronze helmets are known from sites such as Dürrnberg in Austria, located far to the south. Together with around 31 mostly fragmented La Tène brooches and ring ornaments, this suggests Łysa Góra may not have simply traded with the Celts, but may have had Celtic people living there.",
+        "The helmet could have been traded in, but the study suggests this is unlikely. Given the object's association with high status and warrior elites, a social concept very different from the local populace in northeastern Poland, it's far more likely the owner of that helmet once stayed at Łysa Góra.",
+        "Nearly 80 La Tène artifacts have been found at the site so far. \"Their diversity suggests that a group of Celts lived at the site for approximately two generations,\" Kaczyński said.",
+        "As for why they were there, the study suggests that Łysa Góra may have been a trading post. Situated near the amber-rich Kurpie region and routes leading north toward the Sambian Peninsula, the site's location gave its occupants a strategic position to control and facilitate the movement of amber and other goods toward central Europe.",
+        "\"Based on ancient written sources, we cannot rule out the possibility that enslaved people were traded there as well,\" Kaczyński said.",
+        "Ongoing excavations have revealed that Łysa Góra was a place bustling with trade and production, as revealed by nearly 350 metal objects, amber beads, an unfinished amber ring and a bronze coin possibly of Seuthes III, a Thracian king."
       ],
       "external": true,
-      "order": 5
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-a-last-refuge-australian-waters-could-save-a-critically-en",
+      "title": "A Last Refuge: Australian Waters Could Save a Critically Endangered Ocean Predator",
+      "dek": "Despite decades of research, major gaps in scientists’ understanding of green sawfish could complicate efforts to save the species.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T12:27:42.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-last-refuge-australian-waters-could-save-a-critically-endangered-ocean-predator/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Despite decades of research, major gaps in scientists’ understanding of green sawfish could complicate efforts to save the species.",
+        "Green sawfish have disappeared from large parts of their former range, but northern Australia still supports some of the last relatively intact populations of this critically endangered species. A new scientific review suggests these waters could be central to the animal’s survival, although major gaps in researchers’ knowledge continue to complicate conservation efforts.",
+        "Green sawfish are a type of ray with a sharklike body and a distinctive, tooth-lined snout resembling a saw. Overfishing and habitat loss have driven their decline worldwide. Researchers at Murdoch University’s Centre for Sustainable Aquatic Ecosystems, part of the Harry Butler Institute, have now brought together decades of scientific findings to identify the species’ remaining strongholds and determine where further research is needed.",
+        "“Although the species has disappeared from large parts of its historic range, including parts of Africa and southern Asia, northern Australia still supports some of the last intact populations left anywhere on Earth,” said Dr. Jack Ingelbrecht, a postdoctoral research associate who led the review alongside Associate Professor David Morgan. Ingelbrecht added, “We’re fortunate that the main factors responsible for the global decline of sawfish are less severe in northern Australia.”",
+        "Western Australia’s Pilbara region is particularly valuable because it contains important green sawfish habitat and populations that remain relatively healthy. “The Pilbara region in particular has become one of the world’s most important areas for green sawfish research, as it still supports relatively healthy populations of this species and provides critical habitat,” said Morgan, who has studied Australian sawfish for more than 25 years. “It gives us a rare opportunity to understand how green sawfish use their environment, and identify which conservation measures would best facilitate their recovery.”",
+        "The survival of green sawfish in Australian waters has also shaped the global scientific understanding of the species. “To research something, you first need specimens to study. Naturally, opportunities for green sawfish research will be greater in areas where this species still occurs in relatively high numbers,” Ingelbrecht explained.",
+        "“Our review found that, for decades, Australia has been the global leader in green sawfish research. This is partly because green sawfish populations have been wiped out in many countries, but still exist in Australia,” he said. Australia’s contribution extends across many different areas of scientific investigation. “Interestingly, when we looked at the specific types of information that have been produced, we found that Australia has also been at the forefront of almost every major sub-discipline of research relating to green sawfish.”",
+        "The research team compiled existing studies into a single resource intended to support conservation planning and future investigations. “Renowned zoologist Ferdinando Boero said it best: ‘you can’t protect what you don’t know,'” Ingelbrecht said. “It’s incredibly difficult to stay up to date with research on any topic, particularly when there’s a lot of information to cover. Ultimately, if conservation experts don’t fully understand the species they’re trying to protect, they can’t implement the most-suitable recovery initiatives.”",
+        "Despite Australia’s extensive research history, the review identified substantial gaps in the information needed to protect green sawfish. “By synthesizing the current knowledge of green sawfish, we wanted to provide an all-in-one resource to guide conservation efforts and researchers, alike,” Ingelbrecht said.",
+        "The most pressing uncertainties concern how many green sawfish survive, where their most important habitats are located, and how many individuals are old enough to reproduce. “Sadly, when it comes to the research areas most relevant to conservation – the size of remaining populations, the locations of critical habitat, and the number of mature individuals present in the wild – we realized that there’s very little information currently available.”",
+        "These missing data make it difficult to design conservation strategies suited to the species’ biological needs. “Research is the lifeblood of conservation. In order to be successful, recovery efforts often need to be tailored towards the species they’re intended for. To do that, you need scientific input,” Ingelbrecht said.",
+        "As green sawfish disappear from more of their historical range, Australia’s role in protecting the species could become increasingly significant. “Conservation biologists bear the responsibility of enhancing recovery initiatives through research. If green sawfish populations continue to decline, that responsibility – that burden – will fall more and more towards Australia,” Ingelbrecht warned."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-do-spiders-dream-scientists-discover-a-mysterious-sleep-st",
+      "title": "Do Spiders Dream? Scientists Discover a Mysterious Sleep State",
+      "dek": "Scientists have discovered that spiders experience REM-like sleep, complete with twitching muscles and moving eyes, raising the intriguing possibility that they might dream.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T11:16:37.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/do-spiders-dream-scientists-discover-a-mysterious-sleep-state/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Scientists have discovered that spiders experience REM-like sleep, complete with twitching muscles and moving eyes, raising the intriguing possibility that they might dream.",
+        "Spiders may have more in common with sleeping humans than scientists previously realized. Researchers at the University of Bonn have discovered that Australian jumping spiders experience two distinct stages of sleep, including a state that closely resembles REM sleep in humans. During this stage, the spiders move their eyes and twitch their muscles, behaviors that raise intriguing questions about the origins of sleep and whether spiders might experience something resembling dreams.",
+        "The findings provide the first comprehensive experimental confirmation of regulated sleep in spiders. They also suggest that complex sleep patterns may be far more widespread throughout the animal kingdom than previously understood.",
+        "In humans and other vertebrates, sleep involves multiple stages, including REM (rapid eye movement) sleep. This stage is associated with rapid eye movements, changes in muscle activity, and vivid dreaming in humans. Scientists have long wondered whether animals with very different nervous systems, including spiders, experience comparable sleep states.",
+        "To investigate, researchers from the Institute of Organismic Biology at the University of Bonn turned to an unusual subject: the Australian jumping spider Portia fimbriata .",
+        "The spider belongs to the genus Portia, a group of predators known for their sophisticated hunting techniques. Unlike many spiders that primarily capture insects, Portia species specialize in hunting other spiders.",
+        "One of their most remarkable strategies involves manipulating the webs of their prey. By producing vibrations that imitate insects struggling in silk, these spiders can lure web-building spiders toward them. Such complex hunting behavior suggests an unusual capacity for learning and adapting to different situations.",
+        "Despite their impressive abilities, these predators are quite small. A fully grown Portia fimbriata is roughly the size of a one-euro coin.",
+        "Their sophisticated behavior made them particularly interesting subjects for investigating sleep. Scientists wanted to determine whether these spiders simply become inactive at night or enter a genuine, biologically regulated sleep state similar to those observed in vertebrates.",
+        "The researchers found convincing behavioral evidence that Portia fimbriata does more than rest. The spiders exhibit regulated sleep with two clearly distinguishable stages.",
+        "One of these stages closely resembles REM sleep, a well-known phase of human sleep characterized by rapid eye movements and muscle twitches.",
+        "During the spiders’ REM-like periods, the researchers observed eye movements and twitching muscles, suggesting that certain features of sleep may be shared by animals whose nervous systems are dramatically different from our own.",
+        "The discovery is especially significant because most scientific knowledge about sleep has come from studies of vertebrates, including humans, other mammals, birds, and reptiles. Until now, comprehensive experimental evidence establishing true sleep behavior in spiders had been lacking.",
+        "Although the REM-like movements are intriguing, they do not demonstrate that spiders dream. Determining whether spiders experience anything comparable to human dreams would require evidence beyond the behavioral observations available in this study."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "scitechdaily-scientists-uncover-why-breast-cancer-becomes-deadlier-as-w",
+      "title": "Scientists Uncover Why Breast Cancer Becomes Deadlier As We Age",
+      "dek": "Scientists have uncovered a biological mechanism that may help explain why breast cancer becomes more dangerous with age.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T00:47:55.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-uncover-why-breast-cancer-becomes-deadlier-as-we-age/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Scientists have uncovered a biological mechanism that may help explain why breast cancer becomes more dangerous with age.",
+        "In older mice, breast cancer was far more likely to spread to the lungs, even when the original tumors grew at roughly the same rate as those in younger animals. Researchers at Georgetown’s Lombardi Comprehensive Cancer Center have identified an inflammation-related receptor that appears to play a central role in this age-related increase in metastasis.",
+        "The researchers found that genetically removing the receptor, known as RAGE, almost completely eliminated the increased spread of cancer in older mice. Published May 15, 2026, in Communications Biology , the findings suggest that changes occurring throughout the body during aging can influence how aggressively cancer behaves.",
+        "The study focused on RAGE (Receptor for Advanced Glycation End-products), a receptor on the surface of cells that amplifies inflammatory signals. Aging increased levels of molecules that activate RAGE, including the proteins S100 and HMGB1. These molecules were found in both primary tumors and metastatic sites, where the resulting inflammatory activity helped cancer cells invade surrounding tissues and spread.",
+        "“Our study addresses a major gap by showing that aging dramatically increases breast cancer metastasis and that this effect depends on RAGE, a receptor on the surface of cells that fuels inflammation,” says Barry Hudson, PhD, associate professor of oncology at Georgetown Lombardi and corresponding author for this article. “Most laboratory studies rely on young mice, which has limited our understanding of how aging itself alters the host environment, including immune function and chronic inflammatory states that, in turn, influence cancer behavior.”",
+        "“These findings show that aging doesn’t just increase cancer risk — it actively changes the body in ways that help tumors spread,” says Hudson. “RAGE appears to be a key mediator of these harmful age-related pathways.”",
+        "The research benefited from an unusual circumstance during the COVID-19 pandemic. Reduced laboratory activity meant some mouse colonies were allowed to age longer than originally planned. Because maintaining older laboratory mice is expensive and time-consuming, the situation gave researchers a rare opportunity to examine how aging affects cancer progression. They compared younger and older animals across three mouse models of triple-negative breast cancer, an aggressive form of the disease.",
+        "The team also investigated whether the findings had parallels in humans. An analysis of breast cancer data from more than 1,000 patients showed that higher expression of AGER (the gene encoding RAGE), along with elevated activity in related inflammatory genes, was associated with poorer outcomes. Although these associations do not establish that RAGE causes metastasis in patients, they support the potential clinical relevance of the animal experiments.",
+        "RAGE is being studied as a therapeutic target in several diseases associated with aging. Earlier research from the Georgetown team showed that the RAGE inhibitor TTP488 (azeliragon) could suppress breast cancer metastasis in preclinical models. In the latest experiments, the drug also reduced the invasiveness of cancer cells exposed to blood serum from aged mice, which otherwise promoted more invasive behavior.",
+        "A clinical study at Georgetown Lombardi is now evaluating TTP488 in breast cancer patients undergoing chemotherapy, with particular attention to safety and cognitive outcomes. The drug has previously demonstrated a favorable safety profile in humans, although its ability to prevent breast cancer metastasis in patients remains unproven.",
+        "“This study highlights the importance of the host environment in cancer. While cancer is often viewed as driven primarily by mutations intrinsic to tumor cells, systemic factors such as aging and inflammation play a critical role in shaping how cancers behave,” says Hudson. “Most deaths due to cancer occur because tumors spread to other organs, so understanding these influences may help identify new strategies to limit metastasis.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "scitechdaily-scientists-discover-a-surprising-new-target-for-treating-t",
+      "title": "Scientists Discover a Surprising New Target for Treating Type 2 Diabetes",
+      "dek": "A clinical trial has uncovered a molecular change in skeletal muscle that may help explain why exercise improves insulin sensitivity in people with Type 2 diabetes.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-30T23:36:18.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-a-surprising-new-target-for-treating-type-2-diabetes/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A clinical trial has uncovered a molecular change in skeletal muscle that may help explain why exercise improves insulin sensitivity in people with Type 2 diabetes.",
+        "A protein found in unusually high amounts in the muscles of people with Type 2 diabetes may be interfering with the body’s ability to respond to insulin. Researchers discovered that removing the protein, known as Miro1, restored insulin responsiveness in preclinical models, suggesting a possible new approach to treating insulin resistance.",
+        "The study, published in Nature Communications , also found that aerobic exercise reduced Miro1 levels in people with Type 2 diabetes. Those reductions occurred alongside improvements in insulin sensitivity and the muscles’ ability to produce energy.",
+        "Miro1 (Mitochondrial Rho GTPase1) sits on the outer membrane of mitochondria, the structures responsible for producing much of a cell’s usable energy. Skeletal muscle plays a major role in regulating blood sugar because it absorbs glucose from the bloodstream in response to insulin. When muscle becomes resistant to insulin, glucose is less effectively removed from the blood, contributing to the elevated blood sugar associated with Type 2 diabetes.",
+        "To investigate Miro1’s involvement, scientists examined its effects in cells, preclinical models, and people with Type 2 diabetes. Their experiments showed that excess Miro1 impaired insulin responses in muscle, while removing the protein reversed those effects in preclinical models.",
+        "“Insulin resistance in muscle is at the heart of Type 2 diabetes, and its molecular causes have remained frustratingly unclear. This study, the product of years of work, identifies Miro1 as a key part of the answer. By tracing Miro1 from cells to preclinical models to patients, we show that Miro1 accumulation impairs the muscle’s response to insulin, that removing it causally restores that response in our models, and that exercise reverses its buildup in people. For the field, this is a new therapeutic target. For patients, it deepens our understanding of why exercise is so effective and opens a path toward treatments that could one day complement it,” said senior author Dr. John P. Kirwan.",
+        "The researchers also conducted a randomized controlled trial involving participants with obesity and Type 2 diabetes. One group performed aerobic exercise, while another received standard medical care. Participants assigned to exercise showed lower Miro1 levels in their muscles, together with improved insulin sensitivity and mitochondrial energy production.",
+        "These human findings support a connection between exercise, Miro1, and metabolic health. However, they do not establish that reducing Miro1 is responsible for the benefits of exercise. The preclinical experiments provide more direct evidence that the protein can influence insulin responses.",
+        "Kirwan led the research while working at LSU’s Pennington Biomedical Research Center. He has since been appointed executive director of the OU Health Harold Hamm Diabetes Center at the University of Oklahoma, where he will continue investigating the biological mechanisms of diabetes and potential treatments.",
+        "The study’s first author, Elizabeth Heintz, conducted research as a doctoral candidate in Pennington Biomedical’s Integrated Physiology and Molecular Medicine Laboratory. Co-corresponding author Christopher Axelrod has since joined Kirwan at the Harold Hamm Diabetes Center.",
+        "“This research exemplifies the breadth of scientific discovery at Pennington Biomedical, where research spans all levels, from basic science that reveals the biological mechanisms underlying disease to clinical studies and population-based research that informs public health,” said Dr. Jennifer Rood, Interim Senior Vice Chancellor and Executive Director of Pennington Biomedical. “Dr. Kirwan and his team’s findings on Miro1 demonstrate the value of this integrated approach, connecting fundamental discoveries about muscle function with insights into insulin resistance and the benefits of exercise in people with Type 2 diabetes.",
+        "This work is advancing our understanding of diabetes and helping lay the foundation for future approaches to prevention and treatment.”",
+        "Although removing Miro1 improved insulin responses in experimental models, researchers have not yet established whether targeting the protein would be safe or effective as a treatment for people. Further studies will need to clarify how Miro1 contributes to insulin resistance and whether modifying its activity can improve blood sugar regulation.",
+        "At the Harold Hamm Diabetes Center, Kirwan plans to build on these findings through research that connects laboratory discoveries with studies involving people with diabetes."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "scitechdaily-eating-a-handful-of-peanuts-could-change-your-blood-in-a-s",
+      "title": "Eating a Handful of Peanuts Could Change Your Blood in a Surprising Way, Study Finds",
+      "dek": "A handful of peanuts may leave a telltale signature in your blood, and researchers have linked that pattern to a lower risk of type 2 diabetes.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-30T22:25:14.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/eating-a-handful-of-peanuts-could-change-your-blood-in-a-surprising-way-study-finds/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A handful of peanuts may leave a telltale signature in your blood, and researchers have linked that pattern to a lower risk of type 2 diabetes.",
+        "What happens inside your body after eating a handful of peanuts? Beyond providing protein, fiber, and healthy fats, these popular legumes appear to leave a distinctive chemical fingerprint in the bloodstream. Scientists have now linked this pattern of circulating fats to a lower risk of type 2 diabetes, offering new clues about the complex relationship between diet, body weight, and metabolic health.",
+        "To investigate, researchers combined a six-month dietary experiment with data from a long-term population study involving more than 27,000 people. Their findings revealed how peanut consumption reshapes certain blood lipids and suggested that body mass index plays an important role in the observed connection to diabetes risk.",
+        "Cholesterol tests capture only part of the fat circulating in the bloodstream. A technique called lipidomics provides a more detailed inventory, revealing differences among lipid classes that conventional measurements may miss.",
+        "The type of fat you eat helps shape how your body processes and stores it. Replacing saturated fats with unsaturated fats can improve blood lipid profiles and reduce inflammation, helping address the cardiometabolic risks associated with unhealthy diets.",
+        "Even saturated fatty acids are not a uniform group. Very long chain saturated fatty acids (VLCSFA), which contain more than 20 carbon atoms, may have distinctive metabolic effects. Peanuts, which are legumes, supply these fats alongside monounsaturated fatty acids.",
+        "Dr. Inés Domínguez-López and Professor Matthias Schulze at the German Institute of Human Nutrition Potsdam-Rehbruecke worked with University of Barcelona researchers to investigate how peanuts influence this broader lipid landscape.",
+        "They began with ARISTOTLE, a randomized controlled trial involving 63 healthy adults ages 18 to 33. For six months, participants consumed either 25 grams (0. 88 ounces) of skin-roasted peanuts, 32 grams (1. 13 ounces) of peanut butter, or 32 grams (1. 13 ounces) of a control butter containing peanut oil each day.",
+        "Using high-resolution mass spectrometry, an approach known as “deep lipidomics,” the team identified a characteristic pattern of blood fats following peanut consumption. They called it the “Peanut Lipidomic Signature” (PeLS).",
+        "Peanut consumption significantly increased certain very long-chain saturated fatty acids, particularly C24:0 and C22:0. These were preferentially incorporated into specific lipid classes, including ceramides, through processes involving enzymes that lengthen fatty acid chains.",
+        "“This is not merely a simple increase in fat levels but a complex ‘remodeling’ of the lipidome,” explains first author Domínguez-López.",
+        "“By characterizing this specific peanut lipid signature, we have uncovered a potential biological marker that links dietary fat quality to metabolic outcomes,” explains Schulze.",
+        "The researchers then examined samples and records from EPIC-Potsdam, a long-term population study with more than 27,000 participants. Its data included people who developed type 2 diabetes (774 cases) and cardiovascular disease (545 cases).",
+        "The peanut lipid signature was associated with a lower risk of type 2 diabetes, but not cardiovascular disease. Much of the relationship with diabetes was statistically explained by body mass index (BMI)."
+      ],
+      "external": true,
+      "order": 13
     },
     {
       "id": "conversation-zombies-are-real-just-ask-the-parasites-taking-over-the-bo",
@@ -269,12 +557,12 @@
         "Tara Deans receives funding from the National Institutes of Health."
       ],
       "external": true,
-      "order": 6
+      "order": 14
     },
     {
       "id": "nasa-nasa-releases-max-power-key-events-for-media-participants",
       "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-      "dek": "AmAmerica’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. ",
+      "dek": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. ",
       "category": "科学",
       "tags": [
         "NASA"
@@ -290,7 +578,7 @@
       "cover": "orbit",
       "accent": "lilac",
       "paragraphs": [
-        "AmAmerica’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida.",
+        "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida.",
         "Through multiple park experiences at MAX POWER , NASA and a variety of external collaborators will showcase the newest aircraft, autonomous vehicles, technologies, and more defining the future of air and space. NASA will display its quiet supersonic X-59 plane, and agency partners will showcase Moon rovers, spacecraft, and more. The expo also is a culmination of the agency’s recent Inspiration Tour , which included numerous flyovers to highlight NASA’s fleet of aircraft.",
         "A current schedule of events is available on the agency’s website .",
         "MAX POWER includes opportunities to meet leadership, astronauts, engineers, scientists, and other subject matter experts during the family-friendly public events with gates opening at 9 a. m. EST on Nov. 7 and Nov. 8.",
@@ -300,12 +588,12 @@
         "A short list of key NASA activities during MAX POWER are listed below. All times are listed in Eastern Standard Time, and are subject to change."
       ],
       "external": true,
-      "order": 7
+      "order": 15
     },
     {
       "id": "nasa-news-nasa-releases-max-power-key-events-for-media-participants",
       "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-      "dek": "AmAmerica’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. ",
+      "dek": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. ",
       "category": "科学",
       "tags": [
         "NASA News"
@@ -321,7 +609,7 @@
       "cover": "orbit",
       "accent": "lilac",
       "paragraphs": [
-        "AmAmerica’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida.",
+        "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida.",
         "Through multiple park experiences at MAX POWER , NASA and a variety of external collaborators will showcase the newest aircraft, autonomous vehicles, technologies, and more defining the future of air and space. NASA will display its quiet supersonic X-59 plane, and agency partners will showcase Moon rovers, spacecraft, and more. The expo also is a culmination of the agency’s recent Inspiration Tour , which included numerous flyovers to highlight NASA’s fleet of aircraft.",
         "A current schedule of events is available on the agency’s website .",
         "MAX POWER includes opportunities to meet leadership, astronauts, engineers, scientists, and other subject matter experts during the family-friendly public events with gates opening at 9 a. m. EST on Nov. 7 and Nov. 8.",
@@ -331,81 +619,7 @@
         "A short list of key NASA activities during MAX POWER are listed below. All times are listed in Eastern Standard Time, and are subject to change."
       ],
       "external": true,
-      "order": 8
-    },
-    {
-      "id": "scitechdaily-scientists-unlock-a-1-000-year-old-mystery-buried-inside-a",
-      "title": "Scientists Unlock a 1,000-Year-Old Mystery Buried Inside Ancient Melon Seeds",
-      "dek": "Ancient DNA recovered from melon seeds at a medieval Chinese port is revealing surprising clues about the fruit’s origins and evolution.",
-      "category": "校园",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-30T18:48:02.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-unlock-a-1000-year-old-mystery-buried-inside-ancient-melon-seeds/"
-      },
-      "cover": "pencil",
-      "accent": "blue",
-      "paragraphs": [
-        "Ancient DNA recovered from melon seeds at a medieval Chinese port is revealing surprising clues about the fruit’s origins and evolution.",
-        "Melons grown in medieval China may have looked and tasted very different from the sweet varieties enjoyed today. DNA recovered from ancient seeds suggests these fruits had light-green flesh, yellow skin, and genetic ties to South Asia. Their appearance may also have reflected the artistic tastes of China’s Song dynasty.",
-        "The findings, published in the Proceedings of the National Academy of Sciences , come from seeds discovered at the Gugang port (Shuomen Gugang) in southeastern China. Excavations in 2024 uncovered shipwrecks, porcelain, and remains of imported fruits. Waterlogged sediments preserved plant DNA dating to the Song dynasty (circa 960-1279).",
-        "Researchers at Washington University in St. Louis, working with colleagues in Germany and the United Kingdom, identified the seeds as belonging to the East Asian agrestis melon lineage. Genetic evidence suggests these melons originated in South Asia before reaching China, although independent domestication in China remains possible.",
-        "WashU biologist Susanne Renner, who has studied melons for more than 25 years, explained that scientists once favored a different origin. “At that time, it was assumed that because the genus Cucumis , to which melons belong, has numerous wild African species, that melons originated in Africa,” she said.",
-        "In 2010, Renner analyzed approximately 100 Cucumis samples from Africa, Australia, and Asia, identifying previously overlooked melon relatives around the Indian Ocean. “Based on biogeographic analysis, we inferred that melons most likely originated in Asia, not Africa,” Renner said. Research has since established separate domestication events in Northeast Africa and twice in India, with a possible additional event in southeastern China.",
-        "Two historical trade corridors could explain the arrival of South Asian melons in China. One followed the northern Silk Road along the Tibetan Plateau, while the other traveled south of the Himalayas through routes associated with the Tea Horse Road.",
-        "“Both corridors are historically plausible, as demonstrated by the movement of other food resources,” said WashU archaeologist Xinyi Liu. “Current archaeological evidence points more strongly to a southern route. The earliest melon remains in China have been recovered from Han and pre-Han royal tombs in southern China, predating comparable finds from northern ‘Silk Road’ sites by approximately 800 to 1,000 years. We therefore consider a southern route connecting southern China with Southeast and South Asia to be a candidate for the early introduction of melon into China.”",
-        "Genetic analysis suggests that melons cultivated during the 10th to 13th centuries had characteristics unlike those of modern dessert varieties. Rather than being selected primarily for sweetness, they may have been valued as vegetables, mildly sweet fruits, or sources of edible seeds.",
-        "“The color-related traits are particularly interesting. They suggest that these ancient melons likely had light-green flesh and yellow peel,” Liu said. “Melons with these characteristics are often consumed as vegetables, as mildly sweet fruit, or for their seeds, rather than as high-sugar dessert melons. In the lower Yangtze region today, culinary traditions of consuming melon as pickles or vegetables still persist.”",
-        "The fruit also held cultural meaning. Because melons contain numerous seeds, they traditionally symbolized fertility and prosperity in China. Their pale-green flesh may have complemented the aesthetic preferences of Song dynasty society.",
-        "Song dynasty artisans produced celadon pottery with delicate green glazes resembling jade. Many vessels were shaped like melons, suggesting a possible relationship between the fruit’s appearance and contemporary decorative traditions.",
-        "“The light-green color resonates with the fine-toned color of Chinese jade and with the glazes of celadon porcelain, both highly valued in East Asian aesthetic traditions,” Liu said. “During the Song dynasty, green celadon ceramics produced in the lower Yangtze region and beyond were frequently fashioned in melon-shaped forms , with glazes echoing the jade-green tones of melon flesh .”",
-        "Celadon ceramics circulated throughout China, Korea, and Japan, and numerous examples were recovered from Gugang. The researchers suggest that agricultural selection and cultural preferences may have influenced one another, although a direct connection remains unproven."
-      ],
-      "external": true,
-      "order": 9
-    },
-    {
-      "id": "scitechdaily-scientists-create-stunning-car-quality-paint-without-using",
-      "title": "Scientists Create Stunning, Car-Quality Paint Without Using a Single Pigment",
-      "dek": "A glossy, car-quality finish no longer has to depend on pigments. ",
-      "category": "校园",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-30T18:13:04.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-create-stunning-car-quality-paint-without-using-a-single-pigment/"
-      },
-      "cover": "pencil",
-      "accent": "blue",
-      "paragraphs": [
-        "A glossy, car-quality finish no longer has to depend on pigments. Researchers at Kobe University have developed a coating made from silicon nanoparticles that produces vivid, lasting color without the fading or angle-dependent shifts associated with many conventional coloring technologies.",
-        "Reported in the journal Small Structures , the advance combines several properties that have been difficult to achieve together: adjustable gloss, consistent color across viewing angles, compatibility with protective coatings, and application to large, three-dimensional surfaces. The technology could also dramatically reduce the weight of painted objects, including aircraft.",
-        "Traditional paints rely on pigments to absorb certain wavelengths of light and reflect others. These coatings often require relatively thick layers that add weight, while some pigments gradually degrade with exposure to sunlight. Structural color works differently. It arises from interactions between light and microscopic structures, as seen in the brilliant feathers of peacocks. However, reproducing these effects in manufactured coatings has generally required precisely arranged structures that can change appearance with viewing angle.",
-        "“Color coatings are expected to provide vivid color, brightness, gloss, and long-term durability, yet no existing technology satisfies all of these requirements simultaneously,” says Kobe University materials engineer Hiroshi Sugimoto. His earlier research established that silicon nanospheres could produce structural colors without unwanted viewing-angle shifts. His team subsequently developed an inkjet printing method for the material, but the resulting surfaces scattered light too diffusely to achieve a polished, glossy appearance.",
-        "The researchers addressed this limitation by surrounding silicon nanospheres with thin silica shells. These shells protect the particles and control the distance between them, encouraging more orderly arrangements that reduce diffuse light scattering. The improved organization makes it possible to produce a glossy finish while controlling its intensity.",
-        "“Packing the nano spheres in silica shells not only protects the particles but also controls their spacing and should improve self-assembly into neat arrays,” Sugimoto explains.",
-        "The team demonstrated the coating on large, complex three-dimensional surfaces and showed that an additional protective layer did not significantly alter the resulting color. This overcomes a major limitation of previous structural color systems, whose optical properties can be disrupted by protective coatings.",
-        "“The most exciting aspect of this work is that it demonstrates glossy, non-iridescent and protection-coated structural color coatings for 3D objects in a single platform, making the technology useful for real-world applications,” Sugimoto says.",
-        "The coating achieves high opacity and brightness using only a single layer of silicon nanospheres. This extremely thin structure offers a potentially enormous weight advantage over conventional paints. Coatings on wide-body passenger aircraft can add several hundred kilograms (about 660 pounds for 300 kilograms), whereas the researchers estimate that an equivalent structural color layer could theoretically weigh just several hundred grams (about 11 ounces for 300 grams). That comparison remains hypothetical rather than a demonstrated aircraft application.",
-        "The materials also offer potential environmental advantages. Silicon can be sourced from the semiconductor industry, while silica is among the most abundant materials in Earth’s crust. Because structural color does not depend on organic pigments that can break down under light exposure, the coatings could reduce fading and the need for replacement. Their actual environmental benefits at industrial scale have yet to be established.",
-        "Sugimoto is helping establish a company to bring the technology toward industrial production. The fabrication process can accommodate several established manufacturing techniques, potentially allowing the coatings to be applied over much larger areas.",
-        "“The process is compatible with scalable coating methods such as spray coating, slot-die coating, and roll-to-roll processing,” Sugimoto explains.",
-        "The research group’s longer-term ambitions extend beyond decorative and protective finishes. By engineering the optical behavior of silicon nanoparticles, the scientists hope to create coatings that perform additional functions, including detecting environmental changes, driving light-activated chemical reactions, and managing energy.",
-        "“We want to expand the possibility of applications for the science behind our technology beyond coloration. Looking ahead, we aim to develop multifunctional silicon nanoparticle coatings that combine structural coloration with additional optical functions such as sensing, photocatalysis, and energy management.”"
-      ],
-      "external": true,
-      "order": 10
+      "order": 16
     },
     {
       "id": "conversation-from-18th-century-false-ballots-to-the-second-jfk-and-doub",
@@ -452,7 +666,7 @@
         "The state of Washington is an outlier, where it is a felony to run under a rival’s surname if the intent is to confuse voters . In 2024, two Bob Fergusons were recruited by conservative activist Glen Morgan to run for governor against state Attorney General Bob Ferguson. Both opted to drop out of their race under threat of prosecution."
       ],
       "external": true,
-      "order": 11
+      "order": 17
     },
     {
       "id": "nasa-nasa-explores-potential-commercial-servicing-for-hubble-te",
@@ -489,7 +703,7 @@
         "Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…"
       ],
       "external": true,
-      "order": 12
+      "order": 18
     },
     {
       "id": "nasa-news-nasa-explores-potential-commercial-servicing-for-hubble-te",
@@ -526,118 +740,7 @@
         "Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…"
       ],
       "external": true,
-      "order": 13
-    },
-    {
-      "id": "scitechdaily-new-treatment-strategy-makes-cancer-cells-run-out-of-energ",
-      "title": "New Treatment Strategy Makes Cancer Cells Run Out of Energy and Die",
-      "dek": "Researchers have discovered a way to kill leukemia cells by forcing them to remain highly active even as their energy supply is disrupted. ",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-10-30",
-      "publishedAt": "2026-10-30T14:45:16.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/new-treatment-strategy-makes-cancer-cells-run-out-of-energy-and-die/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "Researchers have discovered a way to kill leukemia cells by forcing them to remain highly active even as their energy supply is disrupted. The experimental treatment has produced promising results in mice and patient-derived cancer cells, including a particularly aggressive form of the disease that often resists treatment.",
-        "The approach targets acute myeloid leukemia (AML), a rapidly progressing cancer of the blood and bone marrow that interferes with normal blood cell production. Developed by researchers at the University of Gothenburg in Sweden and Case Western Reserve University in Cleveland, the treatment exploits the energy demands of malignant cells rather than directly attacking their DNA.",
-        "At the center of the strategy is mTOR, a protein that helps regulate cell growth, metabolism, and activity. Under normal conditions, cells adjust these processes according to their available resources. The researchers designed a molecule called AcTor that blocks a signaling protein involved in controlling mTOR, allowing growth signals to remain active even when cellular energy production is impaired.",
-        "AcTor was combined with ixazomib (IXZ), a drug used to inhibit cancer cell proliferation. Together, the treatments disrupt energy production in mitochondria while preventing leukemia cells from slowing their activity. Unable to balance their energy needs with their available resources, the cancer cells experience severe stress and die.",
-        "The treatment emerged from a collaboration between biochemist Boaz Tirosh and computational chemist Leif Eriksson, whose expertise helped turn the underlying hypothesis into a potential drug.",
-        "“Boaz Tirosh is a biochemist and understands the processes taking place within a cell. It was he who put forward the hypothesis for this treatment. I am a computational chemist and have designed a molecule that enters the cancerous cell and alters it in the way we want,” says Leif Eriksson, Professor of Physical Chemistry at the University of Gothenburg.",
-        "In a study published in Molecular Cancer , the combination of AcTor and ixazomib demonstrated strong activity against AML in laboratory cell lines, primary samples from patients, and animal experiments. It also remained effective against TP53-mutant AML, an especially aggressive form of leukemia associated with poor outcomes and limited treatment options.",
-        "The researchers found that the treatment eliminated malignant blood cells as well as leukemic stem cells. These stem cells can survive conventional therapies and regenerate the disease, contributing to relapse. The mouse experiments also suggested that the treatment could avoid the development of drug resistance, although this has not been established in patients.",
-        "“It’s a completely new method and does not affect healthy blood cells; furthermore, our studies in mice show that drug resistance is avoided, which can otherwise happen,” says Leif Eriksson.",
-        "The researchers also detected a biological response that might eventually help doctors assess whether the treatment is working. Cells exposed to the drug combination released a protein called ADM2, which could potentially serve as a measurable indicator of treatment activity.",
-        "“We also observed that our treatment triggered the release of a protein (ADM2), which could therefore serve as a biomarker for the treatment’s response. This could guide future translational and clinical studies,” says Leif Eriksson.",
-        "The findings remain preclinical, meaning that the combination has not yet been shown to be safe or effective in humans. Further studies will be needed to confirm its activity, evaluate potential side effects, and determine whether it can progress to clinical trials. Patients with relapsed or refractory AML, whose disease has returned or failed to respond to treatment, could be among those who might benefit if the approach eventually proves successful.",
-        "Instead of relying primarily on treatments that damage cancer cell DNA, the research focuses on disrupting the metabolic processes that allow leukemia cells to survive.",
-        "“Our study is an example of the shift toward focusing research on cancer metabolism within cells, rather than relying solely on methods that damage DNA. Drug development is very expensive, but we hope that our findings will generate sufficient interest to enable us to continue our research into a cure for this serious disease,” says Leif Eriksson."
-      ],
-      "external": true,
-      "order": 14
-    },
-    {
-      "id": "scitechdaily-a-promising-way-to-reverse-cognitive-decline-just-failed-a",
-      "title": "A Promising Way To Reverse Cognitive Decline Just Failed a Major Clinical Test",
-      "dek": "Restoring blood flow to the brain seemed a promising way to protect thinking skills, but opening severely narrowed arteries did not deliver the cognitive boost researchers…",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-10-30",
-      "publishedAt": "2026-10-30T14:10:18.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/a-promising-way-to-reverse-cognitive-decline-just-failed-a-major-clinical-test/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "Restoring blood flow to the brain seemed a promising way to protect thinking skills, but opening severely narrowed arteries did not deliver the cognitive boost researchers hoped for.",
-        "A Columbia -led randomized trial found that people with severe carotid artery narrowing gained no additional cognitive benefit from stenting or surgery compared with medication alone over one year. The findings challenge the idea that reopening these arteries can reverse cognitive decline in patients without associated symptoms.",
-        "“We had hoped that improving blood flow in the brain in this way would improve cognition—and there were tantalizing clues from animal studies and case series that it would,” says study leader Randolph Marshall, MD, the Elisabeth K. Harris Professor of Neurology at Columbia University Vagelos College of Physicians and Surgeons. “But when we put it to the test in a randomized clinical trial, comparing cognition after opening the blockage or treatment with medication alone, we did not see a difference.”",
-        "The carotid arteries run through the neck and supply blood to the brain. Severe narrowing, known as carotid stenosis, is associated with cognitive impairment even in people who have never had a stroke. The link is particularly apparent when blood flow to the brain is reduced.",
-        "That connection raised a compelling possibility: restoring circulation might help preserve or improve cognition. Stenting holds a narrowed artery open, while surgery removes the material causing the blockage.",
-        "“We’ve thought for a long time that improving cognition by restoring blood flow with stenting or surgery could improve cognition, but until our study, the hypothesis had never been tested in a randomized clinical trial.”",
-        "To investigate, the researchers enrolled 291 patients in CREST-H, all with carotid artery narrowing of at least 70% but no associated symptoms. They assessed brain blood flow and cognition at enrollment and again one year later. Cognitive scores improved slightly in both groups, but patients who underwent a procedure did no better than those treated with medication alone.",
-        "CREST-H was part of CREST-2, a larger multicenter trial that Marshall helped design to compare approaches to preventing strokes in people with severe carotid blockages. In that trial, adding stenting to medication cut strokes by about half compared with medication alone. Surgery to remove the blockage did not show the same benefit.",
-        "“Those results do appear to have changed practice already, and more of these patients are getting stents,” says Marshall. The cognitive findings, however, suggest that patients should not expect the procedure to improve their thinking skills beyond what medication alone provides.",
-        "“We concluded that revascularization to reverse cognitive decline in these patients cannot be expected. Therefore, we need to reinforce the importance of preventing carotid stenosis to avoid its consequences,” says Marshall.",
-        "This study is supported by the NIH (R01NS097876). The CREST-2 parent trials are supported by the NIH (U01NS080168, U01NS080165, and U01NS086872), the Centers for Medicare and Medicaid Services, and the Department of Health and Human Services.",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
-        "Save my name, email, and website in this browser for the next time I comment.",
-        "Type above and press Enter to search. Press Esc to cancel."
-      ],
-      "external": true,
-      "order": 15
-    },
-    {
-      "id": "scitechdaily-scientists-challenge-a-long-held-belief-about-artificial-s",
-      "title": "Scientists Challenge a Long-Held Belief About Artificial Sweeteners",
-      "dek": "Replacing sugar with artificial sweeteners does not appear to increase hunger, intensify cravings for sweet foods, or interfere with weight management, according to a review…",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-10-30",
-      "publishedAt": "2026-10-30T13:35:11.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-challenge-a-long-held-belief-about-artificial-sweeteners/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "Replacing sugar with artificial sweeteners does not appear to increase hunger, intensify cravings for sweet foods, or interfere with weight management, according to a review of three major European clinical trials. The research also found little evidence that consuming a sweeter diet harms metabolic health, challenging concerns that sweetness itself encourages overeating.",
-        "The findings come from the SWEET, SWITCH, and Sweet Tooth research programs, which examined how sugar substitutes and overall dietary sweetness affect body weight, appetite, food preferences, and metabolic health.",
-        "In a yearlong weight maintenance trial, participants in the SWEET consortium who consumed non-nutritive sweeteners maintained slightly greater weight loss than those who avoided them. The difference was largest among participants who consistently followed their assigned diets.",
-        "The 52-week SWITCH trial produced similar results. Participants who drank beverages containing non-nutritive sweeteners lost somewhat more weight than those who drank water, although the difference was not considered clinically meaningful.",
-        "The Sweet Tooth trial instead examined whether increasing or decreasing dietary sweetness affected body weight without a weight loss intervention. Neither approach produced meaningful changes in weight or body composition.",
-        "Researchers also investigated whether regular exposure to sweetness encourages people to seek more sugary foods or consume additional calories. Across the trials, sweeteners did not consistently increase hunger, cravings, or overall food intake.",
-        "In the SWEET trial, participants who avoided sweeteners developed a stronger preference for sweet foods over time, while those consuming them did not. Changing the overall sweetness of participants’ diets also had little measurable effect on appetite or taste preferences.",
-        "Professor Graham Finlayson of the University of Leeds explained: “A common concern is that replacing sugar with non-nutritive sweeteners might lead to a stronger preference for sugary sweet foods or stimulate appetite. Across these controlled studies, that prediction was not supported. Sweeteners are not a weight-management strategy by themselves, but they can provide a useful way to reduce sugar while retaining sweetness within a broader healthy diet.”",
-        "The trials also measured blood glucose, insulin, cholesterol, blood pressure, liver enzymes, and other indicators of metabolic and cardiovascular health. Most remained comparable between participants consuming sweeteners and those avoiding them.",
-        "Some short-term experiments found that replacing sugar with sweeteners reduced post-meal increases in blood glucose and insulin. One substudy also identified modest changes in gut bacteria, but these were not accompanied by worsening cardiometabolic risk markers.",
-        "Health organizations have issued conflicting guidance about non-nutritive sweeteners. The World Health Organization has cautioned against relying on them for long-term weight control, while several professional organizations in the United Kingdom consider them useful for reducing sugar intake.",
-        "Much of the disagreement comes from differences between observational studies and randomized controlled trials. Observational research sometimes links sweetener consumption to metabolic health risks, but people already at higher risk may be more likely to use sugar substitutes. Randomized trials, which can better isolate cause and effect, generally report neutral or favorable outcomes when sweeteners replace sugar.",
-        "Most participants were adults with overweight, often enrolled in structured dietary programs. The findings may not apply equally to children, adolescents, or people following different eating patterns. Some studies also experienced participant dropout and relied on self-reported dietary information.",
-        "The results suggest that replacing sugar with non-nutritive sweeteners can support weight management without detectable adverse effects on appetite or metabolic health during the periods studied. However, the trials cannot rule out effects under other conditions, and the consequences of long-term consumption remain uncertain."
-      ],
-      "external": true,
-      "order": 16
+      "order": 19
     },
     {
       "id": "conversation-allegheny-county-is-reassessing-every-property-heres-how-y",
@@ -684,7 +787,7 @@
         "That understanding will matter more as the reassessment gets underway. When new values take effect, some homeowners will see their share of the tax burden rise and others will see it fall. The direction depends on how their property’s value has changed compared with changes of other similar properties since 2012."
       ],
       "external": true,
-      "order": 17
+      "order": 20
     },
     {
       "id": "conversation-why-achieving-your-goals-can-leave-you-feeling-so-empty",
@@ -731,7 +834,7 @@
         "The Greeks offer another kind of striving, one that locates pleasure in the pursuit itself rather than in the prize. In Plato’s “ Phaedrus ,” Socrates describes eros as giving the soul wings and treats philosophy as a love of wisdom no one can own."
       ],
       "external": true,
-      "order": 18
+      "order": 21
     },
     {
       "id": "conversation-florida-department-of-health-considers-dropping-4-school-v",
@@ -778,7 +881,7 @@
         "Unfortunately, it’s been difficult to know current measles rates in Florida. In May 2026, the Florida Department of Health removed county-level disease data from its website. The data has since been replaced, but there is currently no measles dashboard to track cases in the state. The department’s 2026 counts have often been delayed , and public tracking systems disagree on the statewide total."
       ],
       "external": true,
-      "order": 19
+      "order": 22
     },
     {
       "id": "conversation-figuring-out-where-cosmic-neutrinos-come-from-is-tricky-ra",
@@ -824,7 +927,7 @@
         "Yjan Gordon does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
-      "order": 20
+      "order": 23
     },
     {
       "id": "conversation-how-moving-civil-rights-enforcement-out-of-the-us-departme",
@@ -871,79 +974,54 @@
         "OCR has traditionally aimed to resolve complaints within 180 days of receipt , because unresolved discrimination hinders students’ ability to learn."
       ],
       "external": true,
-      "order": 21
+      "order": 24
     },
     {
-      "id": "scitechdaily-these-tiny-magnetic-waves-could-unlock-a-new-era-of-ultra-",
-      "title": "These Tiny Magnetic Waves Could Unlock a New Era of Ultra-Efficient Computers",
-      "dek": "Magnetic waves inside a quantum material can hold onto their energy far longer than scientists expected, potentially opening a path toward faster computers that consume less…",
-      "category": "科学",
+      "id": "conversation-are-american-voters-actually-gloomy-about-the-economy-or-i",
+      "title": "Are American voters actually gloomy about the economy, or is something else going on?",
+      "dek": "Polling is looking grim for Republicans ahead of the U. S. midterm elections on Nov. 3, 2026, due in large part to deep pessimism among the public about the economy.",
+      "category": "社会",
       "tags": [
-        "SciTechDaily"
+        "The Conversation"
       ],
       "date": "2026-10-30",
-      "publishedAt": "2026-10-30T11:04:56.000Z",
+      "publishedAt": "2026-10-30T12:13:27.000Z",
       "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/these-tiny-magnetic-waves-could-unlock-a-new-era-of-ultra-efficient-computers/"
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/are-american-voters-actually-gloomy-about-the-economy-or-is-something-else-going-on-295476"
       },
-      "cover": "star",
+      "cover": "books",
       "accent": "blue",
       "paragraphs": [
-        "Magnetic waves inside a quantum material can hold onto their energy far longer than scientists expected, potentially opening a path toward faster computers that consume less electricity. Researchers at the Paul Scherrer Institute (PSI) discovered that these microscopic excitations survive for an unusually long time before transferring their energy to the surrounding crystal structure. That delay could provide enough time to perform the logical operations needed for future computing technologies.",
-        "Using advanced X-ray techniques, the team tracked how energy moves among electrons, magnetic excitations, and vibrating atoms across extremely short timescales. “We have now investigated the dynamics of these excitations and, in doing so, have been able to reveal in unprecedented detail all important aspects that happen in the material with a microscopic view,” says Hiroki Ueda, who led the project at PSI. “We are particularly interested in the interrelationship between the various excitations in the material,” explains Ueda.",
-        "Conventional computer chips rely on moving electrical charges through silicon, a process that generates heat and consumes energy. As transistors become increasingly difficult to shrink and demand for computing power continues to grow, researchers are investigating alternative ways to process information. One promising approach is spintronics, a field whose name combines “spin” and “electronics.” Instead of depending entirely on the movement of electrons, spintronic devices could transmit information by manipulating their magnetic properties.",
-        "Electrons possess a quantum property called spin, which makes them behave somewhat like tiny magnetic compass needles. When neighboring spins move collectively, they can produce waves called magnons. These waves can carry information through a material without requiring electrons themselves to travel along the same path. The process resembles a stadium wave, where a pattern moves through the crowd even though individual spectators remain in their seats.",
-        "Another type of excitation, known as a phonon, represents vibrations of atoms within a crystal lattice. Magnons and phonons are both classified as “quasiparticles” because they behave like entities with measurable energy and momentum without being individual physical particles (such as atoms, electrons, or photons). Understanding how these two types of excitation exchange energy is essential for determining whether spin waves can be controlled efficiently in electronic devices.",
-        "To investigate these interactions, the researchers studied copper oxide, a magnetic material in which atomic vibrations and magnetism strongly influence one another. “We chose copper oxide because it is a well-known magnetic material with strong interactions between magnetism and the lattice,” said publication first-author Arnau Romaguera of the PSI Center for Photon Science.",
-        "The experiment began with an intense, ultrashort laser pulse that excited electrons in the material and triggered coordinated changes in their spins. Magnons emerged within femtoseconds (one quadrillionth of a second). Over the following picoseconds (one-trillionth of a second), the magnons scattered off one another, producing a disordered mixture of magnetic waves.",
-        "The transfer of energy from magnons to the vibrating crystal lattice occurred much later, on the scale of nanoseconds (one-billionth of a second). During this process, magnetic excitation energy was converted into phonons. Although a nanosecond is extraordinarily brief in everyday terms, it is a relatively long lifetime for excitations produced by processes occurring on femtosecond timescales.",
-        "“Considering the strong coupling between magnetism and the lattice of copper oxide, we were surprised how long it then takes the generated magnons to pass their energy to the lattice,” says Romaguera. Despite the strong connection between the material’s magnetic and atomic properties, the magnons retained their energy much longer than anticipated.",
-        "The explanation involves differences in how the two kinds of excitations carry energy and momentum. “The magnons and phonons exhibit very different relationships between their momentum and energy values,” explains Ueda. These differences restrict how efficiently energy can pass from magnetic waves into atomic vibrations.",
-        "“This modulates the efficiency in which magnons can transfer their energy to the lattice, leading to the long lifetime of the magnons and providing us with important insights into how to use specifically designed materials to adjust the lifetime of the magnons as desired.”",
-        "By selecting or engineering materials with suitable properties, researchers may eventually be able to control how long magnons persist. Longer lifetimes could give spintronic circuits more time to manipulate magnetic signals before their energy dissipates, potentially supporting fast logical operations with reduced power losses."
+        "Polling is looking grim for Republicans ahead of the U. S. midterm elections on Nov. 3, 2026, due in large part to deep pessimism among the public about the economy.",
+        "At first glance, this might seem surprising. With the exception of inflation , many economic measures remain strong, including gross domestic product growth . But consumer sentiment continues to languish .",
+        "This has prompted a debate over whether mere “vibes” are in play, or whether these long-used metrics are no longer capturing something fundamental to Americans’ economic well-being.",
+        "This debate matters politically because voters are placing an overwhelming priority on the economy as an issue in the midterms. A Pew Research survey in early October 2026 found that 84% of registered voters said the economy was very important to their vote, and the concern is bipartisan. Among the issues in that Pew survey, for example, “the economy” was the least polarizing, with 82% of Republicans and 88% of Democrats ranking it as very important.",
+        "Meanwhile, the overall drop in voters’ economic outlook has largely been driven by growing pessimism among Republicans. While Democrats remain much gloomier about the economy than Republicans, the gap is narrowing.",
+        "These trends help explain why Democrats are expected to make significant gains in Congress: This election will likely be seen as an indictment of how well the economy is working for ordinary Americans under President Donald Trump and the Republican-controlled Congress, despite strong macroeconomic measures.",
+        "As a scholar of financial markets and global inequality , I believe the relationship between how people see their own finances and their view of the broader economy is also changing on a more fundamental level. And this shift will affect how they judge the next class of lawmakers in power.",
+        "When scholars try to understand how people judge the economy – and how they separate their own personal circumstances from the broader economy – one of their key reference points is the University of Michigan’s consumer sentiment index . It asks respondents about their personal finances, their short-term and long-term economic outlook, and whether they think it’s a good time to make major purchases.",
+        "This gauge has historically tracked key economic measures of consumer spending and inflation: The state of the broader economy usually shapes the way people think about their own financial well-being.",
+        "But in recent years, these have diverged . By many measures, the economy is doing well, but people feel they’re falling behind. And this has only become more pronounced ahead of the midterms.",
+        "Despite strong consumer spending , robust business investment and low unemployment , consumer sentiment keeps slipping and is now 10% below where it was a year ago, according to the Michigan index.",
+        "Some commentators point to ongoing inflation as the reason for gloom. It has remained stubbornly above the Federal Reserve’s annual 2% target rate due to drivers like tariffs, energy price hikes stemming from Middle East turmoil, and massive amounts of investment in the artificial intelligence build-out.",
+        "But what’s really happening is that consumer sentiment data and inflation data have become untethered. Inflation has actually dropped sharply from its 21st-century peak of 9. 1% in June 2022 after the pandemic to 3. 7% in September 2026, but consumer sentiment is lower now than it was even then.",
+        "What about wages? Here, too, the data also doesn’t fully explain this disconnect. While inflation makes consumer goods pricier, it also lifts pay. Inflation-adjusted wages actually increased between 2022 and the first half of 2026, all while consumer sentiment remained weak. What has changed in recent months is that inflation-adjusted wages are now falling – which could help explain the darkening outlook among voters.",
+        "One possibility is that deeply entrenched inequality explains this divergence.",
+        "Compared with other eras of moderate-to-high inflation, the U. S. economy today is much more unequal . Income inequality has increased over the past 20 years, narrowing only during the 2008 and 2020 crises before quickly widening to prior levels.",
+        "This trend is important for understanding which consumers are shelling out cash. The Fed has consistently cited strong consumer spending in its economic assessments, but the richest 10% of Americans account for half of that spending today . Meanwhile, spending by the bottom 80% of earners has fallen behind inflation.",
+        "In other words, the strong total consumer spending figures reported as official data are being driven by very wealthy Americans and fail to reflect the experience of typical consumers who are the bulk of the electorate.",
+        "This trend of increasing inequality has been particularly acute in terms of wealth : The top 0. 1% of American households together own five times as much wealth as the bottom 50%. Much of this reflects the uneven gains of the stock market boom and how wealth is taxed.",
+        "In short, Americans’ economic malaise might be driven by concerns over income and wealth that conventional measures don’t fully capture.",
+        "When it comes to consumer surveys like the University of Michigan index, economists generally assume that the answers reflect the personal experience of respondents.",
+        "But I agree with other scholars who argue that sometimes these answers may be based less on people’s own circumstances and more on how they view the economy as a whole. This assessment could reflect, for example, concerns like equity, equality of opportunity and economic justice.",
+        "When responses are driven by a concern for collective well-being rather than just personal material self-interest, social scientists refer to such perceptions as “sociotropic.”",
+        "This last point isn’t just theoretical. Research suggests voters tend to weight their perceptions of the economy more heavily than their personal financial circumstances when deciding whether to vote for the incumbent party."
       ],
       "external": true,
-      "order": 22
-    },
-    {
-      "id": "scitechdaily-astronauts-just-installed-a-powerful-new-solar-array-high-",
-      "title": "Astronauts Just Installed a Powerful New Solar Array High Above Earth",
-      "dek": "NASA astronauts have completed another major step in upgrading the International Space Station’s power supply. ",
-      "category": "环境",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-10-30",
-      "publishedAt": "2026-10-30T10:29:57.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/astronauts-just-installed-a-powerful-new-solar-array-high-above-earth/"
-      },
-      "cover": "leaf",
-      "accent": "green",
-      "paragraphs": [
-        "NASA astronauts have completed another major step in upgrading the International Space Station’s power supply. During a spacewalk lasting more than seven hours, two crew members installed a new solar array that will help generate electricity for the orbiting laboratory, supporting everything from scientific experiments to the station’s eventual retirement.",
-        "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk finished their spacewalk outside the International Space Station at 3:08 p. m. EDT on October 29. The mission lasted 7 hours and 11 minutes and brought NASA closer to completing a significant expansion of the station’s electrical power system.",
-        "Their primary assignment was to install and deploy an International Space Station Roll-Out Solar Array (IROSA) on the station’s 2A electrical power channel. This channel is part of the network that distributes electricity throughout the massive spacecraft, ensuring that its equipment and systems receive the energy they need.",
-        "The newly installed equipment is the seventh of eight roll-out solar arrays planned for the station. Together, these additions will substantially increase the electricity available to support daily operations, research activities, and the station’s eventual safe and controlled return to Earth.",
-        "The International Space Station relies on sunlight as its primary source of electricity. Its large solar arrays contain thousands of solar cells that convert sunlight directly into electrical energy, much like solar panels installed on homes and buildings.",
-        "That electricity powers essential systems, including life support equipment, communications, temperature regulation, and the scientific instruments used by astronauts. When the station travels into Earth’s shadow and can no longer collect sunlight, rechargeable batteries supply stored electricity to keep everything running.",
-        "The newer roll-out solar arrays use a different design from the station’s original solar panels. Rather than requiring a large, rigid structure, the new arrays are lightweight and compact enough to be launched in a rolled configuration. Once positioned outside the station, they gradually unfurl, similar to a yoga mat being unrolled.",
-        "Although these newer arrays are roughly half the size of the original solar wings, advances in solar cell technology allow them to generate substantial additional electricity. They supplement the station’s older panels, which have gradually lost some of their generating capability after decades of exposure to the harsh environment of space.",
-        "The latest installation leaves just one solar array remaining. During their spacewalk, Menon and Kutryk also performed preliminary work to help prepare for the next installation, reducing the amount of preparation needed during the upcoming mission.",
-        "That final spacewalk is scheduled for Thursday, November 5, when the astronauts are expected to install the eighth IROSA on the station’s 3B power channel. NASA will begin live coverage at 6:45 a. m. , with the broadcast available through NASA’s live streaming service .",
-        "Once all eight arrays are installed, the station’s solar power expansion will be complete. NASA estimates that the upgrades will increase available power by up to 30%, raising the station’s electricity generation capacity from 160 kilowatts to approximately 215 kilowatts.",
-        "The additional energy will provide greater electrical capacity for the station’s demanding operations. It will also help ensure that the aging laboratory can continue supporting scientific research and other essential activities during its remaining years in orbit.",
-        "The International Space Station has supported continuous human occupation for more than 25 years, serving as a unique research laboratory where scientists can study everything from human health to materials and fluid behavior in microgravity.",
-        "Microgravity is the condition of apparent weightlessness experienced by astronauts in orbit. It allows researchers to investigate how physical and biological processes behave when the familiar effects of gravity are greatly reduced. Many of these experiments help scientists prepare for longer missions to the Moon, Mars, and beyond."
-      ],
-      "external": true,
-      "order": 23
+      "order": 25
     },
     {
       "id": "nasa-novembers-night-sky-notes-light-day-away",
@@ -971,7 +1049,7 @@
         "You can get a real understanding of what a gravity assist might be like with our Gravity Assist activity and learn what it’s like to measure a “light minute” with our Measuring a Kid Minute activity guide!"
       ],
       "external": true,
-      "order": 24
+      "order": 26
     },
     {
       "id": "nasa-news-novembers-night-sky-notes-light-day-away",
@@ -999,7 +1077,7 @@
         "You can get a real understanding of what a gravity assist might be like with our Gravity Assist activity and learn what it’s like to measure a “light minute” with our Measuring a Kid Minute activity guide!"
       ],
       "external": true,
-      "order": 25
+      "order": 27
     },
     {
       "id": "nasa-vega-island-frozen-in-fright",
@@ -1029,7 +1107,7 @@
         "Long before scientists began tracking its glaciers, Vega was a bright spot in a tale of terror born out of early exploration of the area. The Swedish Antarctic Expedition of 1901-1903 set out to study the geography, geology, climate, and wildlife on and around the eastern Antarctic Peninsula. The party became split into three groups during their explorations, isolated for a winter in different locations. Adding to the horror, they lost their ship to the pack ice. Cape Well-met, as it would come to be known, off the “forehead” of the Vega Island skull, was the site of a happy reunion of two of the groups in spring 1903. Soon thereafter, an Argentinean expedition rescued the survivors of the ordeal."
       ],
       "external": true,
-      "order": 26
+      "order": 28
     },
     {
       "id": "nasa-news-vega-island-frozen-in-fright",
@@ -1057,72 +1135,6 @@
         "The first comprehensive mapping of Vega Island’s ice was aided by Landsat imagery. In a study published in 1982 , scientists described the island’s four ice caps with protruding rocky cliffs and outlet glaciers. They leveraged early Landsat observations along with aerial photos and topographic maps to catalog 29 glaciers on Vega.",
         "Of those glaciers, Devil’s Bay Glacier has been closely monitored since the austral summer of 1998-1999, with researchers measuring an overall decline in its mass. Satellite images acquired in recent decades show ice loss from other glaciers on the island as well, with increased areas of exposed bedrock.",
         "Long before scientists began tracking its glaciers, Vega was a bright spot in a tale of terror born out of early exploration of the area. The Swedish Antarctic Expedition of 1901-1903 set out to study the geography, geology, climate, and wildlife on and around the eastern Antarctic Peninsula. The party became split into three groups during their explorations, isolated for a winter in different locations. Adding to the horror, they lost their ship to the pack ice. Cape Well-met, as it would come to be known, off the “forehead” of the Vega Island skull, was the site of a happy reunion of two of the groups in spring 1903. Soon thereafter, an Argentinean expedition rescued the survivors of the ordeal."
-      ],
-      "external": true,
-      "order": 27
-    },
-    {
-      "id": "nasa-nasa-funded-study-details-one-of-oldest-mars-meteorites-ev",
-      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-      "dek": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. ",
-      "category": "科学",
-      "tags": [
-        "NASA"
-      ],
-      "date": "2026-10-30",
-      "publishedAt": "2026-10-29T18:18:09.000Z",
-      "source": {
-        "name": "NASA",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
-      },
-      "cover": "bulb",
-      "accent": "yellow",
-      "paragraphs": [
-        "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4. 1 billion years ago, making it one of the oldest Martian meteorites ever found. Named Teghaza 001 after the salt plain in Mali where it was discovered, the meteorite is one of roughly 435 from the Red Planet.",
-        "In a paper published Thursday in Science, researchers offered an initial characterization of Teghaza 001, providing a rare snapshot of Mars’ ancient crust and formation. What scientists learn from future studies could help answer many questions, including how water and rocks interacted on ancient Mars. A separate paper published in Science Advances in June detailed the meteorite’s water content, offering a look at how water shaped the early planet’s surface.",
-        "“It was only after we started looking closely that we realized this meteorite is really unique,” said the paper’s lead author, Yang Liu of NASA’s Jet Propulsion Laboratory in Southern California. “One of the paper’s reviewers called it a Rosetta Stone for Mars.”",
-        "What sets Teghaza 001 apart from other Martian meteorites is its texture and age as well as the uniqueness of its igneous, or volcanic, minerals. It is one of the three most ancient Martian meteorites found on Earth. While invaluable, the others provide more limited glimpses of Mars’ geological history. They include ALH84001 , which is composed almost entirely of one mineral and is similar in age to Teghaza 001. The other meteorite, nicknamed “Black Beauty,” formed about 2. 1 billion years ago and is composed of small, volcanic rock fragments.",
-        "Unlike its ancient peers, Teghaza 001 has a mix of igneous minerals that tells a story about how the planet’s crust formed from cooling magma before it was eventually altered by subsurface water. The meteorite’s distinctive mineralogy matches what NASA’s Mars Reconnaissance Orbiter has observed in the planet’s cratered southern highlands. No one will ever know exactly where the meteorite originated on Mars, but the paper identifies several potential locations that match Teghaza 001’s mineralogy and chemistry.",
-        "“This is really our first piece of Martian crust from a part of Mars we’ve never had a sample of before,” said the new paper’s second author, Lee Saper, who conducted the research while at JPL as a postdoctoral scholar. Lee now is a scientist at NASA’s Ames Research Center in Silicon Valley. “It records interactions of water and rock and maybe even an imprint of the Martian atmosphere as it was losing water.”",
-        "Although the Mars meteorites found on Earth differ from one another, they share a common history, having been blasted off the Red Planet’s surface by an impact, followed by a trajectory that eventually placed them on Earth and into the hands of scientists. Meteorites are often found by collectors in deserts or snowy plains, where they stand out from the rest of the barren landscape. Scientists can verify a meteorite as Martian by matching its mineral and chemical components to data collected by NASA’s Mars missions, including the Viking landers as well as the Curiosity and Perseverance rovers.",
-        "When Liu was first asked to look at Teghaza 001, she almost passed on the opportunity.",
-        "Researchers at the University of New Mexico had already identified it as Martian based on its oxygen isotopes, which serve as geochemical fingerprints for different planetary bodies. In this case, the researchers matched the meteorite’s oxygen isotopes to those seen in other Martian meteorites. Teghaza 001 appeared to be a shergottite which is the most common class of meteorite from the Red Planet. As an expert in planetary samples, Liu has seen plenty of those, but she decided to take a peek, anyway.",
-        "At the very least, there were odd textures and unusual minerals she hadn’t seen before. Liu and her colleagues discovered zircon crystals in Teghaza 001, which record clues to a rock’s formation and can be used by geologists to precisely age-date a sample. Further analysis revealed when Teghaza 001 formed and when certain changes, like water alteration, occurred."
-      ],
-      "external": true,
-      "order": 28
-    },
-    {
-      "id": "nasa-news-nasa-funded-study-details-one-of-oldest-mars-meteorites-ev",
-      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-      "dek": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. ",
-      "category": "科学",
-      "tags": [
-        "NASA News"
-      ],
-      "date": "2026-10-30",
-      "publishedAt": "2026-10-29T18:18:09.000Z",
-      "source": {
-        "name": "NASA News",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
-      },
-      "cover": "bulb",
-      "accent": "yellow",
-      "paragraphs": [
-        "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4. 1 billion years ago, making it one of the oldest Martian meteorites ever found. Named Teghaza 001 after the salt plain in Mali where it was discovered, the meteorite is one of roughly 435 from the Red Planet.",
-        "In a paper published Thursday in Science, researchers offered an initial characterization of Teghaza 001, providing a rare snapshot of Mars’ ancient crust and formation. What scientists learn from future studies could help answer many questions, including how water and rocks interacted on ancient Mars. A separate paper published in Science Advances in June detailed the meteorite’s water content, offering a look at how water shaped the early planet’s surface.",
-        "“It was only after we started looking closely that we realized this meteorite is really unique,” said the paper’s lead author, Yang Liu of NASA’s Jet Propulsion Laboratory in Southern California. “One of the paper’s reviewers called it a Rosetta Stone for Mars.”",
-        "What sets Teghaza 001 apart from other Martian meteorites is its texture and age as well as the uniqueness of its igneous, or volcanic, minerals. It is one of the three most ancient Martian meteorites found on Earth. While invaluable, the others provide more limited glimpses of Mars’ geological history. They include ALH84001 , which is composed almost entirely of one mineral and is similar in age to Teghaza 001. The other meteorite, nicknamed “Black Beauty,” formed about 2. 1 billion years ago and is composed of small, volcanic rock fragments.",
-        "Unlike its ancient peers, Teghaza 001 has a mix of igneous minerals that tells a story about how the planet’s crust formed from cooling magma before it was eventually altered by subsurface water. The meteorite’s distinctive mineralogy matches what NASA’s Mars Reconnaissance Orbiter has observed in the planet’s cratered southern highlands. No one will ever know exactly where the meteorite originated on Mars, but the paper identifies several potential locations that match Teghaza 001’s mineralogy and chemistry.",
-        "“This is really our first piece of Martian crust from a part of Mars we’ve never had a sample of before,” said the new paper’s second author, Lee Saper, who conducted the research while at JPL as a postdoctoral scholar. Lee now is a scientist at NASA’s Ames Research Center in Silicon Valley. “It records interactions of water and rock and maybe even an imprint of the Martian atmosphere as it was losing water.”",
-        "Although the Mars meteorites found on Earth differ from one another, they share a common history, having been blasted off the Red Planet’s surface by an impact, followed by a trajectory that eventually placed them on Earth and into the hands of scientists. Meteorites are often found by collectors in deserts or snowy plains, where they stand out from the rest of the barren landscape. Scientists can verify a meteorite as Martian by matching its mineral and chemical components to data collected by NASA’s Mars missions, including the Viking landers as well as the Curiosity and Perseverance rovers.",
-        "When Liu was first asked to look at Teghaza 001, she almost passed on the opportunity.",
-        "Researchers at the University of New Mexico had already identified it as Martian based on its oxygen isotopes, which serve as geochemical fingerprints for different planetary bodies. In this case, the researchers matched the meteorite’s oxygen isotopes to those seen in other Martian meteorites. Teghaza 001 appeared to be a shergottite which is the most common class of meteorite from the Red Planet. As an expert in planetary samples, Liu has seen plenty of those, but she decided to take a peek, anyway.",
-        "At the very least, there were odd textures and unusual minerals she hadn’t seen before. Liu and her colleagues discovered zircon crystals in Teghaza 001, which record clues to a rock’s formation and can be used by geologists to precisely age-date a sample. Further analysis revealed when Teghaza 001 formed and when certain changes, like water alteration, occurred."
       ],
       "external": true,
       "order": 29
