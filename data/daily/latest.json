@@ -1,517 +1,571 @@
 {
-  "generatedAt": "2026-10-31T21:04:26.125Z",
-  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T21:45:45.840Z",
+  "date": "2026-11-02",
   "failedSources": [],
   "articles": [
     {
-      "id": "phys-giant-virus-yields-potassium-channel-gene-that-illuminates",
-      "title": "Giant virus yields potassium channel gene that illuminates complex protein evolution",
-      "dek": "Researchers have discovered a gene for a tandem potassium channel in an algal virus. ",
+      "id": "phys-mars-dust-may-be-less-abrasive-than-lunar-dust-spacesuit-s",
+      "title": "Mars dust may be less abrasive than lunar dust, spacesuit samples suggest",
+      "dek": "Tucked away among its sensors, cameras and navigation tools, NASA's Mars rover Perseverance is wearing small swatches of spacesuit material. ",
       "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-01",
-      "publishedAt": "2026-10-31T21:00:05.000Z",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-01T20:00:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html"
+        "url": "https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html"
       },
-      "cover": "star",
-      "accent": "blue",
+      "cover": "orbit",
+      "accent": "lilac",
       "paragraphs": [
-        "Researchers have discovered a gene for a tandem potassium channel in an algal virus. The finding supports the view that giant viruses may have contributed significantly to the evolution of complex proteins. The study is published in the journal Proceedings of the National Academy of Sciences .",
-        "So-called tandem potassium channels perform important functions in human physiology. Because they can conduct potassium ions (K + ) across the cell membrane, they help, among other things, to stabilize the membrane potential and thereby regulate the electrical excitability of nerve cells.",
-        "Structurally, they differ from all other potassium channels in that two of their four pore-forming subunits are directly linked to each other. It is this tandem-like linkage of the subunits that gives them their name.",
-        "Unlike every other type of potassium channel, precursors of tandem potassium channels have not been found in bacteria, which has raised questions about their evolutionary origin.",
-        "In the PNAS article, the international team, including researchers from the Department of Biology at TU Darmstadt and the Department of Natural Sciences at Bonn-Rhein-Sieg University of Applied Sciences (H-BRS), reports on a DNA virus that infects marine algae and whose genome contains a gene for a tandem potassium channel.",
-        "\"Our experiments show that this gene encodes a protein with the functional properties of a potassium channel,\" says Dr. Oliver Rauh, a scientist in the DFG research network \"CytoTransport\" at H-BRS.",
-        "The authors of the study also examined the evolutionary relationships between the newly discovered viral channel and known tandem potassium channels and made a striking discovery: Contrary to what is assumed for most viral genes, the newly discovered potassium channel gene did not end up in the viral genome by being stolen from the host's genetic material. Rather, the gene appears to be of viral origin.",
-        "\"This finding further reinforces a new perspective according to which the giant mimiviruses, to which this virus belongs, have played a central role in the evolution of proteins in higher organisms,\" emphasizes Gerhard Thiel, a professor in the Department of Biology at TU Darmstadt.",
-        "The results of the study also underline that these viruses are rich sources of interesting proteins. In the same virus, other researchers have already discovered a light-controlled ion channel that is used in optogenetics , a field recently recognized with the Nobel Prize.",
-        "Journal information: Proceedings of the National Academy of Sciences",
-        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
-        "A giant virus infecting marine algae carries a gene encoding a functional tandem potassium channel. Evolutionary analyses suggest the gene originated in viruses rather than being acquired from a host, supporting a viral contribution to the evolution of complex proteins.",
-        "Please select the most appropriate category to facilitate processing of your request",
-        "Thank you for taking time to provide your feedback to the editors."
+        "Tucked away among its sensors, cameras and navigation tools, NASA's Mars rover Perseverance is wearing small swatches of spacesuit material. A rover doesn't need a spacesuit, but the swatches—each less than a square inch (6. 5 square centimeters) in size—serve an important purpose: They're helping scientists assess the potential damage caused by ubiquitous Martian dust.",
+        "\"Mars is a very dusty place,\" said Scott VanBommel, a research assistant professor of earth, environmental and planetary sciences in WashU Arts & Sciences. \"Astronauts to Mars will have to be prepared.\"",
+        "VanBommel is the lead author of a new paper in the Proceedings of the National Academy of Sciences that examines how dust interacts with Perseverance's spacesuit swatches and other materials, including Teflon. Co-authors include Abigail Knight, a staff scientist who helped conceptualize and conduct the analysis as a Ph. D. student. Both researchers are also fellows of the McDonnell Center for the Space Sciences.",
+        "Planners of future Mars missions have good reason to plan around dust. On the Apollo missions, which were far shorter than any potential visit to Mars, lunar dust scratched visors and degraded spacesuits. When the astronauts returned to the lunar module, particles clinging to their suits contaminated the air and eventually entered their lungs, causing hay fever–like symptoms in some cases.",
+        "The new study suggests Martian dust may not be quite as abrasive or irritating as its lunar counterpart. The swatches showed little visible wear after 1,645 Martian days, an encouraging finding for future visitors.",
+        "Closer inspection revealed that particles on Mars were much smoother than the jagged grains found on the moon, suggesting they may be less likely to scratch equipment or irritate human lungs. \"The particles in the Martian atmosphere have been blowing in the wind for potentially billions of years, so they tend to be well rounded, like pebbles in a river,\" VanBommel said.",
+        "But there's another problem: Martian dust can be exceptionally fine. VanBommel developed a method to estimate the size of each particle, some of which were ultrafine specks measuring as small as 100 nanometers (one ten-thousandth of a millimeter) across.",
+        "On Earth, ultrafine particles from smoke and other forms of air pollution pose a significant health threat because they can penetrate deep into the lungs and enter the bloodstream. Astronauts won't breathe the Martian atmosphere directly, but engineers will need to account for these microscopic hazards when designing habitats, spacesuits and air filters, VanBommel said.",
+        "\"The electrostatic properties of Martian dust are likely causing it to preferentially adhere to some surfaces,\" Knight added.",
+        "The data acquired by Perseverance's PIXL (Planetary Instrument for X-ray Lithochemistry) instrument also enabled the researchers to analyze the particles' chemical composition. Unlike lunar dust, the material on Mars contains perchlorates and other potentially toxic compounds. It's also enriched in sulfur, iron and silica.",
+        "Brief exposure to these substances may not seriously threaten astronauts' health; a lot comes down to dose and duration. Still, their presence adds another risk for mission planners to consider, VanBommel said.",
+        "Perseverance and previous rovers have given researchers remarkable insights into the history and current conditions on Mars. But beyond their scientific discoveries, these missions also serve as real-world tests of technology that could one day support human exploration.",
+        "\"We've been operating rovers on the surface of Mars continuously for more than 20 years at this point,\" VanBommel said. \"We know that dust will be a challenge, but it's something we can prepare for and overcome.\"",
+        "Journal information: Proceedings of the National Academy of Sciences"
       ],
       "external": true,
       "order": 0
     },
     {
-      "id": "phys-why-do-people-prefer-human-empathy-despite-rating-ai-empat",
-      "title": "Why do people prefer human empathy despite rating AI empathy higher?",
-      "dek": "More people are turning to artificial intelligence (AI)-powered chatbots for companionship and to address loneliness. But can AI-generated empathy replace human connection?",
-      "category": "科技",
+      "id": "phys-new-restrictions-kick-in-as-delhi-battles-pollution",
+      "title": "New restrictions kick in as Delhi battles pollution",
+      "dek": "Authorities in New Delhi stepped up anti-pollution measures on Sunday, including higher parking fees and work-from-home orders, seeking to curb toxic smog in one of the…",
+      "category": "环境",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-01",
-      "publishedAt": "2026-10-31T21:00:01.000Z",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-01T19:40:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-people-human-empathy-ai-higher.html"
+        "url": "https://phys.org/news/2026-11-restrictions-delhi-pollution.html"
       },
-      "cover": "pencil",
-      "accent": "orange",
+      "cover": "wave",
+      "accent": "blue",
       "paragraphs": [
-        "More people are turning to artificial intelligence (AI)-powered chatbots for companionship and to address loneliness. But can AI-generated empathy replace human connection?",
-        "In a study published in the journal Communications Psychology , a team led by researchers at Penn State found that human users rated AI-generated empathetic responses higher in quality than human-generated empathetic responses, yet they preferred human empathy over AI .",
-        "In the following Q&A, C. Daryl Cameron, the Sherwin Early Career Professor and associate professor of psychology at Penn State, and doctoral student Joshua Wenger discussed AI empathy and why it may prove an effective complement to—and not a replacement for—human companionship.",
-        "Cameron: In our work, we took a research approach that allowed people to show through their choices what they actually want and care about. Studying people's actual choices in the moment can sometimes reveal their preferences. That was a core part of our study.",
-        "What's interesting is how, on the one hand, people don't seem to want AI empathy, but there is some subset of the population that does want it, so it's complicated. Nevertheless, people think that the actual content of what the large language models are saying is empathetic, interesting and validating, and so there's this paradox between what people want and what they choose to opt into, versus their actual evaluations of the material.",
-        "Wenger: We called this effect the \"AI empathy choice paradox,\" and it's this consistent pattern where people rate AI empathy or empathetic expressions from AI as higher in quality and more empathetic than those from real humans. It makes people feel more heard, cared for and validated than responses from human empathizers. But despite this higher quality, people still prefer to receive empathy—even lower-quality empathy—from humans over AI.",
-        "Wenger: For every response in our study, we asked people to rate how empathetic they found each response. We also asked them how much effort they thought the empathizer put into writing the response. This builds upon some theoretical work by the scholar Anat Perry and her paper \" AI will never convey the essence of human empathy. \"",
-        "In it she argues that one of the more important aspects of human empathy is the exertion of effort. Daryl's work has shown that empathy is an effortful act. The idea is that I, as a human empathizer, expend my emotional resources to express care for you, and by doing so, I am signaling your importance to me in some way. And because empathy is objectively effortless for AI, it's not emotionally effortful.",
-        "Interestingly, what our paper found is that when we asked people to rate the perceived effort in the AI- and human-generated responses, they rated AI overall as exerting more effort in the creation of these responses. What this means is complicated, because it's unclear whether people were answering the question as if AI were a human or genuinely perceiving effort. Regardless, we found this difference where, for AI empathy, it seemed like the empathizer put a lot of work into their response.",
-        "In addition, we found that the more effortful a response is perceived as being, the more empathetic people tend to perceive it. So, if someone puts a lot of effort into writing a response, it tends to make the response seem more empathetic. That could be one driver of the high-quality AI empathy.",
-        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
-        "Cameron: You might think that people who use AI more frequently would be more willing to choose AI empathy, but we don't tend to see that. Instead, we found these interesting patterns where AI empathy is rated as exerting more effort, but the relationship between effort and empathy also depends upon who's the one doing it. The relationship is stronger for humans than it is for AI. As you see higher levels of effort exerted, human empathizers catch up to AI. So, the gap between human and AI empathy is much smaller at higher levels of effort."
+        "Authorities in New Delhi stepped up anti-pollution measures on Sunday, including higher parking fees and work-from-home orders, seeking to curb toxic smog in one of the world's most polluted capitals.",
+        "The restrictions, which came into force Sunday, include a doubling of vehicle parking charges and work-from-home arrangements for government and private-sector offices aimed at cutting traffic emissions.",
+        "Authorities will also bar vehicles that do not comply with mandated emission standards from entering the capital, while a ban on all dust-generating demolition and outdoor construction activity takes effect immediately.",
+        "\"From Nov. 1 ... Delhi's Winter Action Plan comes into effect with stricter pollution controls, stronger enforcement and 24×7 monitoring,\" Chief Minister Rekha Gupta's office said in a statement.",
+        "\"We humbly request all Delhiites to follow the guidelines and contribute toward making Delhi's air cleaner and healthier.\"",
+        "Delhi's government has already rolled out a range of pollution-control measures over the past month, including a ban on trash burning and restrictions on food stalls using coal or firewood.",
+        "But similar efforts in previous years have done little to prevent the annual smog that engulfs the megacity from November to January, when cooler temperatures trap pollutants close to the ground.",
+        "Major sources of pollution include vehicle emissions, coal-fired power plants, industrial activity, construction dust and the burning of crop residue in neighboring states.",
+        "Vehicles account for 23% of Delhi's winter pollution, while biomass burning, including farm stubble fires, contributes 20%, according to India's environment ministry.",
+        "Industry, including coal-fired power plants, contributes about 9%.",
+        "Levels of PM2. 5, tiny cancer-causing particles that can penetrate deep into the lungs and bloodstream, frequently exceed 300 micrograms per cubic meter during peak winter months, around 20 times the World Health Organization's recommended daily limit.",
+        "Last year, pollution levels peaked at 846 micrograms per cubic meter, or 56 times the WHO guideline.",
+        "On Sunday, monitors recorded PM2. 5 at 201 micrograms per cubic meter, over 13 times the safe limit, a reading that was likely helped by intermittent rain over the last few days.",
+        "A 2024 study published in The Lancet Planetary Health estimated that 3. 8 million deaths in India between 2009 and 2019 were linked to air pollution ."
       ],
       "external": true,
       "order": 1
     },
     {
-      "id": "phys-chemists-develop-ai-tool-to-convert-human-ingenuity-into-l",
-      "title": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
-      "dek": "Many have voiced concerns that artificial intelligence will take jobs away from humans. ",
-      "category": "科技",
+      "id": "phys-air-con-nation-singapore-eyes-alternatives-to-cool-down",
+      "title": "'Air-con nation' Singapore eyes alternatives to cool down",
+      "dek": "Long dubbed an \"air-conditioned nation,\" Singapore is experimenting with cooling alternatives from chilled beams to \"passive displacement\" to curb its thirst for…",
+      "category": "环境",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-01",
-      "publishedAt": "2026-10-31T19:00:01.000Z",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-01T19:20:02.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html"
+        "url": "https://phys.org/news/2026-11-air-con-nation-singapore-eyes.html"
       },
-      "cover": "bulb",
-      "accent": "blue",
+      "cover": "leaf",
+      "accent": "green",
       "paragraphs": [
-        "Many have voiced concerns that artificial intelligence will take jobs away from humans. But assistant professor of chemistry Zhongyue (John) Yang, along with his former doctoral student Qianzhen Shao (now a postdoc at Stanford) and other team members, has created an AI tool that aims to elevate the work that scientists do—not replace them.",
-        "MutexaGPT can speed up the \"customization\" of enzymes that drive countless chemical reactions essential to our daily lives. Engineered enzymes synthesize new medications, preserve nutrient-rich foods and help recycle polymers to reduce plastic waste. MutexaGPT takes plain-English, intuition-driven requests as input and leverages large language model agents to elicit missing information, build physics-based models and convert the results into actionable design proposals. The study is published in Nature Computational Science .",
-        "\"I know there are increasing concerns about AI replacing humans in the workforce, and I share them,\" Yang said. \"However, with MutexaGPT, we are not using AI to get things done more efficiently without people. We are showing that with AI you can translate human intuition, which is often imaginative and incredible, to create a workable plan.\"",
-        "He noted that enzymes, which are specialized proteins that speed up chemical reactions, can be viewed as nature's catalysts. Each enzyme consists of hundreds of amino acids, and changing even a single amino acid, which is called a mutation, can lead to substantial change in its function.",
-        "\"Now comes the major challenge, as no one knows how to predict mutations that alter genetic code without relying heavily on trial and error in industry,\" Yang said. \"For the enzyme engineering market, which yields hundreds of billions of dollars in revenue each year, this simply means large amounts of super expensive testing and resource costs. MutexaGPT aims to change this paradigm by enabling researchers to use natural language to explore, predict and design enzyme mutations, drawing on artificial intelligence and fundamental principles of chemistry and physics.\"",
-        "Among the tasks MutexaGPT can assist with is cold-active enzyme technology—engineering enzymes into versions that maintain high catalytic competence at lower temperatures. This is vital for cold-temperature processes like lactose-free milk and food preservation that ensures retention of heat-sensitive nutrients. Another practical application is the manufacture of laundry detergents that break down complex stains without the need for hot water. Similarly, designing enzymes with greater catalytic efficiency and selectivity makes pharmaceutical manufacturing more sustainable by reducing energy consumption, chemical waste and reliance on harsh reaction conditions.",
-        "As for the name of this tool, Mutexa is short for \"Alexa for Mutant.\" Yang said, \"The name reflects our original vision of creating an Amazon Alexa–like intelligent assistant for designing enzyme mutants.",
-        "\"Just as Alexa helps people accomplish everyday tasks through natural-language conversations, MutexaGPT aims to help scientists navigate the complex world of enzyme mutations through an intuitive, conversational interface. The 'GPT' highlights the integration of large language models , which allow researchers to communicate with the system in natural language while connecting their questions to sophisticated computational tools for enzyme engineering.\"",
-        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
-        "Yang, who grew up in China, was trained as a pure computational chemist while earning his Bachelor of Science from the Chang Po-ling Program of Chemistry at Nankai University. He then enrolled at UCLA in 2013, where he completed his doctorate in four and a half years. He had a postdoctoral fellowship at MIT prior to joining the Arts and Science faculty in 2020. Since then, he has been working to develop Mutexa and conduct experiments on its efficacy.",
-        "\"For researchers who work on enzyme engineering and design, they often develop their own intuition into how things work,\" Yang said. \"They can have the principle but might not know how to quantify it,\" Yang said. \"We can translate their principles into actual designs with MutexaGPT. I am excited to envision a future in which scientists can engineer enzymes for specific applications as readily as they consult an AI assistant, accelerating innovations in medicine, sustainable manufacturing and everyday consumer products.\"",
-        "BA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile &rarr;"
+        "Long dubbed an \"air-conditioned nation,\" Singapore is experimenting with cooling alternatives from chilled beams to \"passive displacement\" to curb its thirst for energy-guzzling air conditioning.",
+        "The city-state has the highest per capita air conditioner ownership rate in Southeast Asia, with about 99% of private residences equipped with cooling units.",
+        "Singapore's local building sector accounts for one-fifth of its emissions, while cooling itself accounts for 40% to 60% of a building's energy consumption, according to studies.",
+        "A stroll down renowned thoroughfare Orchard Road highlights that dependence. Shoppers are greeted by blasts of cool air that waft into the street as doors swing open—a major draw given daytime highs hover between 31C and 33C (88 to 91 degrees Fahrenheit) year-round.",
+        "But air conditioning can make the heat problem worse. Compressor units belch hot air back out into the environment, and the electricity that powers the systems can contribute to climate change if generated from fossil fuels.",
+        "Some buildings in Singapore are looking at other options, including active chilled beams, which are perforated panels equipped with cooling coils that are mounted on ceilings.",
+        "A chiller plant on the building's top floor cools water down to 9C (48 degrees Fahrenheit), then pumps it into the coils. Simultaneously, air is blasted through small nozzles inside the beams.",
+        "The jets of air create a low-pressure zone that sucks up warmer air from the room below so it passes over the coils and is cooled before recirculating.",
+        "The technology keeps the offices at the eight-story Paya Lebar Green building in eastern Singapore at a comfortable 24C (75 degrees Fahrenheit).",
+        "A visiting AFP team felt noticeably cooler air flowing from the sleek white panels on the ceiling of the building, described as one of Singapore's \"greenest.\"",
+        "The system is also quiet, without the constant hum of air-conditioning units.",
+        "When HR professional Renuga Shekar first moved into an office space at Paya Lebar Green last November, the 30-year-old and her colleagues just thought the exposed pipes and panels on the ceiling were a \"warehouse kind of look.\"",
+        "\"We didn't really think much about it. No one really commented about it,\" she told AFP.",
+        "It was only months later, after noticing how quiet the office was and hearing technicians mention \"ACB\" during maintenance, that they realized it was cooled by active chilled beams."
       ],
       "external": true,
       "order": 2
     },
     {
-      "id": "phys-calling-species-invasive-and-culling-them-isnt-done-lightl",
-      "title": "Calling species 'invasive'—and culling them—isn't done lightly. But it matters to Australia's threatened species",
-      "dek": "It may sound abstract, but distinctions between \"native,\" \"introduced\" or \"invasive\" species can often be life or death. ",
-      "category": "科学",
+      "id": "phys-from-italy-to-croatia-a-warming-climate-threatens-prized-w",
+      "title": "From Italy to Croatia, a warming climate threatens prized white truffles",
+      "dek": "Guided by the beam of a flashlight, Tino Marolo follows his dog Stella through the darkness of a Piedmont woodland, searching for one of Italy's most prized culinary…",
+      "category": "环境",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-01",
-      "publishedAt": "2026-10-31T18:00:05.000Z",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-01T19:03:58.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-species-invasive-culling-isnt-australia.html"
+        "url": "https://phys.org/news/2026-11-italy-croatia-climate-threatens-prized.html"
       },
-      "cover": "bulb",
-      "accent": "yellow",
+      "cover": "leaf",
+      "accent": "green",
       "paragraphs": [
-        "It may sound abstract, but distinctions between \"native,\" \"introduced\" or \"invasive\" species can often be life or death. Species considered invasive in Australia—such as European rabbits and feral pigs—are often culled, while most native animals are generally left alone.",
-        "Debate over these terms doesn't usually go mainstream. But this month was different. On Oct. 13, independent Sen. David Pocock brought a motion in federal Parliament calling for a long-term plan to \"protect Australia's landscapes and wildlife from invasive species.\"",
-        "In response, Greens Sen. Mehreen Faruqi took aim at the term \"invasive,\" saying: \"There's no need for labeling introduced species as invasive in a way that blames animals for the man-made problems raised by this motion. Language matters. Animals are not villains to be shot or obstacles to be poisoned to death.\"",
-        "As an ecologist and conservation scientist, the debate spoke to me about how important it is to explain why \"invasive\" species are given this title, the damage they can do and why many need to be eradicated or their numbers greatly reduced.",
-        "If we stop trying to control some invasive species, we risk condemning even more native animals to extinction and worsening Australia's environmental decline.",
-        "Conservationists and authorities commonly use four words—introduced, feral, invasive and pest—to describe species present in Australia. Definitions can differ and there is debate over their exact meaning. But their broad meanings are clear:",
-        "An introduced species has been moved by humans to areas outside its known natural historic range. This can be accidental (think black rats on ships) or intentional (deer species introduced for hunting). Native species—such as the superb lyrebird—can also be considered introduced when moved to new locations in the same country.",
-        "Feral: This term refers to introduced domesticated species that now have wild populations independent of people. Feral cats, goats, horses, pigeons, pigs and camels are common examples in Australia.",
-        "Invasive: Invasives are introduced species whose presence is concerning, either due to their clear (typically negative) impact on ecosystems or their rapid spread after introduction. Not all introduced species are considered invasive, but all invasive species are introduced.",
-        "Pest: A species is considered a pest if it damages things humans care about, such as crops. Typically, pest species are relatively abundant. Both native and non-native species can be pests.",
-        "While these terms have some overlap, they are generally not interchangeable. They help inform environmental decision-making and guide conservation efforts—including culling or biological controls.",
-        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
-        "For millions of years, Australia was relatively isolated. This shaped the evolution of the continent's extraordinary array of native species. Most plants, animals and other life forms here are found nowhere else on Earth.",
-        "These species have a right to persist in the face of European colonization, land clearing and waves of introduced species."
+        "Guided by the beam of a flashlight, Tino Marolo follows his dog Stella through the darkness of a Piedmont woodland, searching for one of Italy's most prized culinary treasures hidden beneath the soil.",
+        "In the hills around Alba, home to the world's most famous white truffles, hunters known as \"trifolau\" traditionally begin their season on Oct. 1. But increasingly, they are confronting a challenge above ground: climate change.",
+        "Months of heat and drought have raised concerns about the future of the prized white truffle, a fungus that depends on cool, moist soils and a delicate relationship with tree roots .",
+        "\"The entire month of October was affected by the lack of rain in July and August and the high temperatures, so it was characterized by poor production and poor truffle shelf life,\" said Antonio Degiacomi, president of Italy's National Centre for Truffle Studies.",
+        "According to Degiacomi, dry and compacted soils have also produced smaller truffles this season.",
+        "The difficult harvest comes as Alba and the surrounding Langhe hills welcome visitors for the International White Truffle Fair, one of Italy's best-known food events, which opened on Oct. 10 and runs until Dec. 6.",
+        "For Axel Iberti, president of the fair, the season began slowly, with smaller truffles emerging after a hot, dry summer. More recent rains have improved conditions, helping larger specimens appear.",
+        "Despite tighter supplies, demand remains strong. Prices at Alba's truffle market are running about 20% to 30% higher than last year, Iberti said, while hotels and other accommodations have largely sold out during the fair period.",
+        "\"This year certainly stands out from a trend we all know has been going on for five or six years now,\" Degiacomi said, citing hotter summers and increasingly erratic rainfall patterns.",
+        "Back in the woods, Marolo says uncertainty has always been part of the hunt.",
+        "\"You certainly come home empty-handed more often than you do with a truffle,\" he said. \"It's really the thrill of saying: I don't know what I'm going to find.\"",
+        "Similar concerns are emerging elsewhere in Europe's truffle-producing regions, suggesting a challenge extending beyond any single forest or region.",
+        "Across the Adriatic Sea in Croatia, truffle hunters and scientists describe many of the same challenges, from shrinking harvests to declining habitat suitability.",
+        "In oak forests outside Zagreb, truffle hunter Petar Alebic says years of drought have made the prized fungi harder to find."
       ],
       "external": true,
       "order": 3
     },
     {
-      "id": "phys-ultracold-atoms-simulate-hard-to-observe-matter-antimatter",
-      "title": "Ultracold atoms simulate hard-to-observe matter-antimatter pair production",
-      "dek": "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in…",
-      "category": "科学",
+      "id": "phys-warmer-seas-and-shifting-pressure-systems-the-signs-that-s",
+      "title": "Warmer seas and shifting pressure systems: The signs that suggest the Mediterranean's climate is 'tropicalizing'",
+      "dek": "Nowhere in the Iberian Peninsula or the Balearic Islands has a tropical climate—for this to be the case, the average temperature in the coldest month would have to be 18°C…",
+      "category": "环境",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-01",
-      "publishedAt": "2026-10-31T17:00:01.000Z",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-01T19:00:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html"
+        "url": "https://phys.org/news/2026-10-warmer-seas-shifting-pressure-mediterranean.html"
       },
-      "cover": "star",
-      "accent": "blue",
+      "cover": "leaf",
+      "accent": "green",
       "paragraphs": [
-        "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in principle, convert some of its energy into particles and their antimatter partners. A particle's antimatter partner has the same mass and, for electrically charged particles, the opposite electric charge.",
-        "The creation of particle–antiparticle pairs via an electric field and from the vacuum is known as the Schwinger effect. As the production of these pairs is strongly suppressed at electric field strengths that can be realized in a laboratory setting, observing this effect experimentally has so far proved challenging.",
-        "Researchers at the University of Science and Technology of China and other institutions have now introduced an experiment that could be used to simulate and study this rare particle production process. Their experiment, outlined in a paper published in Physical Review Letters , entails representing particles and electric fields through the arrangement and motion of ultracold rubidium atoms trapped in an optical lattice , a laser light-based pattern that can trap atoms.",
-        "\"We were inspired by the Schwinger effect, the prediction that a strong electric field can spontaneously create electron-positron pairs from the vacuum,\" Zhen-Sheng Yuan, co-senior author of the paper, told Phys. org.",
-        "\"This is an example of 'false vacuum decay,' and in its original form it has never been observed directly. Our goal was to build a simple, controllable laboratory model with cold atoms, where we could simulate this process and tune how it unfolds.\"",
-        "In their experiments, Yuan and his colleagues used laser light to trap ultracold rubidium atoms in a one-dimensional chain, a straight row of tiny optical traps. Every second trap on this chain contained two atoms, while the traps in between were empty.",
-        "\"This arrangement is a 'false vacuum,' a state that can release energy by creating particle-antiparticle pairs,\" explained Yuan. \"We then changed the settings so atoms could hop between neighboring sites in a way that mimics pair creation, tuning the background electric field to control the process. A quantum gas microscope imaged the atoms at different times, letting us watch it happen.\"",
-        "The researchers changed the mass of the simulated particles in their system and the background electric field to determine how these changes affected the production of particle-antiparticle pairs. They found that when the simulated particles were heavier or when the electric field became too dominant relative to other interactions in their model, fewer pairs formed.",
-        "\"We also linked pair production directly to the 'vacuum persistence amplitude'—whose squared magnitude gives the probability that the initial vacuum survives—and saw long-lived oscillations in some physical limit,\" said Yuan. \"Together, these show how cold atoms bring otherwise hard-to-observe quantum-field processes into a controlled laboratory.\"",
+        "Nowhere in the Iberian Peninsula or the Balearic Islands has a tropical climate—for this to be the case, the average temperature in the coldest month would have to be 18°C (64 degrees Fahrenheit) or higher. The contrast between Spain's winters and summers, and the low temperatures reached in winter, do not resemble those of any tropical climate.",
+        "However, over recent decades, climates across the Mediterranean basin have begun to show signs of tropicalization: the process of transitioning toward a tropical climate.",
+        "This is evident in several areas, including rising air and sea temperatures, shifting atmospheric patterns, and increasingly erratic rainfall.",
+        "First, a marked rise in air temperature —more pronounced than the global average—is making the Mediterranean's winters shorter and its summers longer, bringing spring forward and delaying the onset of autumn. Some people believe that these transitional seasons have all but disappeared. They do still exist, but they have moved on the calendar.",
+        "The temperature of shallow and deep Mediterranean water—down to a depth of around 100m (328 feet)—has also risen markedly.",
+        "These are clear, statistically significant trends. Water temperatures to the south of Mallorca exceeded 30°C (86 degrees Fahrenheit) on some days in recent summers. These temperatures are similar to, or even higher than, those found in the Caribbean and the Gulf of Mexico.",
+        "The Northern Hemisphere's major wind belts and pressure systems, and the belt of tropical and subtropical high-pressure systems to the south of the Mediterranean basin—which cause the existence of the Sahara and other deserts at a similar latitude—all appear to be moving northward.",
+        "This is because of the expansion of the Hadley cell , a global-scale tropical atmospheric circulation that governs weather patterns at equatorial and tropical latitudes.",
+        "If this trend becomes established, it will increase atmospheric stability in the Mediterranean region. Rainfall would become less regular in the region, with long dry spells punctuated by heavy downpours.",
+        "Warm waters are one of the necessary ingredients for a hurricane to form and grow. Rising sea temperatures will therefore expand the areas of the ocean where such a phenomenon can potentially form.",
+        "For a hurricane to form, the minimum surface temperature—down to a depth of several tens of meters—has to be around 26. 5°C (79. 7 degrees Fahrenheit), a figure exceeded in large areas of the Mediterranean this summer. The abundant water vapor and the latent heat it carries provide the fuel for intense convective processes that generate storms, often resulting in torrential downpours.",
+        "For several decades now, atmospheric depressions have been developing in the Mediterranean with characteristics that are reminiscent of tropical cyclones. These are known as medicanes , \"Mediterranean mini-hurricanes,\" or \"Mediterranean tropical-like cyclones\" .",
         "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
-        "This study introduces a new experimental platform for simulating and studying the production of particle-antiparticle pairs. When the simulated particle mass was set to zero, the researchers observed oscillations that resembled the collective excitations predicted by the Schwinger model.",
-        "In the future, the team's proposed experiment could be used to investigate particle-antiparticle production processes that are extremely difficult to observe directly in an experimental setting. Yuan and his colleagues are now planning more studies that will rely on the experiment to study rare physical phenomena.",
-        "\"We would now like to study what happens when these simulated particles meet, collide and scatter,\" added Yuan. \"We also hope to extend the experiment from a one-dimensional chain to two dimensions and to other gauge theories, where richer phenomena such as string breaking become accessible.\"",
-        "Written for you by our author Ingrid Fadelli , edited by Gaby Clark , and fact-checked and reviewed by Robert Egan —this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you."
+        "These are low-pressure systems in the Mediterranean basin, with a warm core and a distinct, almost clear eye visible in satellite images, surrounded by dense, spiral-shaped cloud cover. They are accompanied by heavy rainfall and strong winds."
       ],
       "external": true,
       "order": 4
     },
     {
-      "id": "scitechdaily-alzheimers-linked-proteins-have-a-hidden-role-in-human-rep",
-      "title": "Alzheimer’s-Linked Proteins Have a Hidden Role in Human Reproduction",
-      "dek": "Proteins commonly associated with Alzheimer’s and Parkinson’s disease may have a surprising function in human reproduction. ",
-      "category": "校园",
+      "id": "phys-why-some-trees-thrive-far-from-home-and-what-that-means-fo",
+      "title": "Why some trees thrive far from home—and what that means for carbon sinks",
+      "dek": "In a study spanning 192 sites and four continents, researchers have discovered that conifers planted in the Southern Hemisphere grow up to four times faster and are more…",
+      "category": "环境",
       "tags": [
-        "SciTechDaily"
+        "Phys.org"
       ],
-      "date": "2026-11-01",
-      "publishedAt": "2026-10-31T16:36:19.000Z",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-01T18:00:01.000Z",
       "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/alzheimers-linked-proteins-have-a-hidden-role-in-human-reproduction/"
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-trees-home-carbon.html"
       },
-      "cover": "pencil",
+      "cover": "wave",
       "accent": "blue",
       "paragraphs": [
-        "Proteins commonly associated with Alzheimer’s and Parkinson’s disease may have a surprising function in human reproduction. Researchers at Columbia University’s Zuckerman Institute have discovered that amyloid fibrils, tiny protein fibers found in semen, can help transport RNA into sperm cells. The findings suggest a previously unknown pathway for moving genetic material into sperm and could eventually lead to new methods for delivering gene therapies.",
-        "Published in Molecular Cell , the research shows that amyloids can serve a useful biological purpose despite their association with neurodegenerative diseases. The scientists also demonstrated that these protein fibers can carry RNA molecules large enough to produce functional proteins in developing embryos.",
-        "The investigation grew out of earlier research showing that amyloid fibrils in semen can help HIV enter cells in the reproductive tract. Anthony Fitzpatrick, PhD, a Columbia researcher who studies amyloids in brain diseases, wondered whether these same structures might help transport the body’s own genetic material into sperm.",
-        "His team focused on RNA, a molecule involved in converting genetic instructions into proteins and regulating gene activity. Seminal fluid contains numerous small RNA molecules that may influence gene expression during embryonic development. However, scientists have not fully understood how these molecules move from semen into sperm.",
-        "HIV provided a potential connection because the virus uses RNA as its genetic material. If seminal amyloids could facilitate viral entry into cells, researchers reasoned, they might also help deliver free RNA molecules.",
-        "William Mallen, PhD, the study’s lead author, investigated whether amyloid fibrils could attach to RNA. The two have complementary electrical properties: amyloids carry a positive charge, while RNA is negatively charged. Using fluorescent markers, Mallen confirmed that the molecules bind together.",
-        "The researchers proposed that amyloids might also protect RNA during transport. RNA is relatively fragile and can be broken down by enzymes, whereas amyloid fibrils form highly stable structures. Encasing RNA within these fibers could potentially help preserve it, although that protective function has not yet been established.",
-        "To determine whether the fibrils actually enter sperm, the team used cryo-electron tomography (cryo-ET), a powerful imaging technique that creates detailed three-dimensional views of frozen biological samples. Amyloid fibers marked with tiny gold particles were found inside sperm cells, confirming that they could cross the cell boundary rather than simply attach to its surface.",
-        "“Seeing those amyloid fibers inside sperm cells was just so extraordinary to me,” said Mallen, who is now a medical student at the University of Vermont. “There were hints of this happening earlier in our other experiments, but actually seeing this just totally blew us away.”",
-        "Additional experiments using fluorescent markers showed that amyloid fibrils greatly increased the amount of RNA entering sperm. The researchers also identified a possible mechanism for releasing the transported material: a protein called clusterin could help separate RNA from its amyloid carrier once inside cells.",
-        "The team tested whether the fibrils could deliver larger RNA molecules capable of directing protein production. Sperm exposed to amyloid-bound RNA encoding green fluorescent protein were used in fertilization experiments. The resulting embryos produced at least 10 times more of the fluorescent protein than embryos fertilized with sperm exposed to the same RNA without amyloids.",
-        "Previous studies have suggested that RNA carried by sperm can influence gene activity in offspring through epigenetic mechanisms, which regulate how genes are used without altering the underlying DNA sequence. Research in mice has also linked paternal transmission of certain metabolic conditions, including insulin resistance, to RNA-mediated processes.",
-        "Beyond reproduction, the findings could have implications for RNA delivery in medicine. Technologies such as CRISPR rely on RNA to guide gene-editing machinery toward specific DNA sequences, but getting these components safely and efficiently into cells remains a major challenge.",
-        "Some gene therapies use modified viruses to transport genetic material into cells. Although effective in many applications, viral delivery systems can provoke immune responses. Amyloid fibrils derived from human proteins might eventually provide another approach, although their safety and effectiveness as therapeutic carriers still require investigation."
+        "In a study spanning 192 sites and four continents, researchers have discovered that conifers planted in the Southern Hemisphere grow up to four times faster and are more drought-resistant than those growing in their native ranges.",
+        "This rapid growth and resilience could make conifers a strong candidate for carbon storage, but there may also be drawbacks to planting trees outside their home turf.",
+        "University of Mississippi ecologist Stephen Brewer was among more than two dozen researchers across multiple continents who studied the growth rate of pines, spruces, firs, cedars and other conifers in their native and nonnative habitats. The group published its findings in Nature .",
+        "\"That result is surprising because ecological theory predicts that there should be a trade-off between how fast a plant can grow and how tolerant it would be of stressful conditions,\" said Brewer, an Ole Miss professor of biology. \"This is interesting to us because with the elevated carbon dioxide concentrations in the atmosphere contributing to climate change , there's a desire or push for afforestation , or planting trees in areas where there weren't any before, as carbon sinks.",
+        "\"For that to be effective, you want the trees to grow quickly and not die in droughts.\"",
+        "While the exact cause of the trees' increased resilience needs more study, the researchers found that Northern Hemisphere conifers planted in the Southern Hemisphere had higher concentrations of carbohydrates, such as sugars and starches, that could be used to store energy during stressful seasons.",
+        "\"This phenomenon of skipping the growth-stress tolerance trade-off is something crucial that this study is reporting,\" said Alex Fajardo, a researcher at the Institute of Ecology and Biodiversity and a professor at the University of Talca. \"It is also valuable that we pursued finding the physiological mechanism responsible for this: an increase in carbon reserves needed for drought tolerance.\"",
+        "Although the findings position conifers as well suited for afforestation efforts, the researchers cautioned that more factors are involved.",
+        "\"The easy answer to this question is to advocate for plantations with nonnative conifers that can both grow (quickly) and tolerate drought,\" Fajardo said. \"However, this decision has some serious risks, as nonnative conifer plantations, particularly in the Southern Hemisphere, have come with high biodiversity and social costs.\"",
+        "Pines and Douglas firs, two of the trees researchers studied, do not naturally grow in the Southern Hemisphere, but they have been planted in countries including Chile, Brazil and South Africa as a part of the lumber industry for decades.",
+        "\"The problem is, these pines are not necessarily staying in their plantations; they are actually expanding into natural, native habitats,\" Brewer said.",
+        "\"In Brazil, it's escaping into what they call their Cerrado, which is a savanna, and it grows much faster there and just basically eliminates all the native vegetation. It's actually become a big problem.\"",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "The problem of escaping or encroaching pines has also affected Mississippi, he said. Local lumber industries began replacing longleaf pines with slash pines in the 1930s because of their faster growth rate ."
       ],
       "external": true,
       "order": 5
     },
     {
-      "id": "phys-four-superconducting-cables-link-two-large-quantum-process",
-      "title": "Four superconducting cables link two large quantum processors into one",
-      "dek": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. ",
-      "category": "科学",
+      "id": "scitechdaily-a-breakthrough-in-magnetism-could-make-computer-chips-use-",
+      "title": "A Breakthrough in Magnetism Could Make Computer Chips Use Dramatically Less Energy",
+      "dek": "Researchers have overcome a longstanding obstacle that has prevented promising materials from being used in ultra-low-power computer chips.",
+      "category": "校园",
       "tags": [
-        "Phys.org"
+        "SciTechDaily"
       ],
-      "date": "2026-11-01",
-      "publishedAt": "2026-10-31T16:00:02.000Z",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-01T17:12:34.000Z",
       "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html"
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-breakthrough-in-magnetism-could-make-computer-chips-use-dramatically-less-energy/"
       },
-      "cover": "orbit",
-      "accent": "lilac",
+      "cover": "leaf",
+      "accent": "green",
       "paragraphs": [
-        "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can work together as one larger machine. For this to happen, however, connections must carry fragile quantum information without destroying it.",
-        "For superconducting processors, this means building reliable links around a meter (3. 3 feet) long inside equipment chilled to just above absolute zero. A team at IBM Research has now achieved this for the first time: joining two large superconducting processors using four separate high-quality quantum links, all installed after both chips were already in place.",
-        "Their work is detailed in a new paper published on the arXiv preprint server.",
-        "So far, quantum links between superconducting chips have mostly involved a single connection between small experimental processors. These links have allowed researchers to transfer quantum states from one chip to another, and to create quantum entanglement .",
-        "To build larger machines, however, engineers will need to install many connections between processors that are already mounted in their refrigerators. These attachments must be packed closely together, lose very little of the signal passing through them, and keep working as the system is repeatedly warmed and cooled.",
-        "To tackle this challenge, the IBM team linked two of its 120-qubit Nighthawk R1 processors. In each link, a qubit inside one processor passed its information to a dedicated 'interface' qubit.",
-        "An adjustable coupler then fed this information into an 80 cm (31-inch) superconducting aluminum cable, which carried it to a matching set of components on the other chip. To allow for denser packing in the cables, the team plugged each one into its chip from directly above, rather than from the side.",
-        "With their setup complete, researchers tested how well it could pass quantum states between the chips, and carry out logic operations involving qubits on both processors.",
-        "Across the four links, quantum states were transferred with an average accuracy of 99%, reaching 99. 29% on the best link. Two-qubit logic operations spanning both processors reached an average accuracy of 94. 75%.",
-        "Using these operations, the team created entangled states shared across both processors, including 4- and 6-qubit states, and generated two entangled pairs at the same time through neighboring links. With the new attachment approach, all four connections remained operational through three cycles of warming and cooling.",
-        "For now, further improvements will be needed before the system can become commercially practical—especially in the longevity of its quantum information. All the same, the system's achievements mark an important step forward in quantum computing.",
-        "Altogether, the team's result paves the way for computers where quantum information is stored and processed across many processors, making future machines far easier to expand and maintain.",
-        "Written for you by our author Sam Jarman , edited by Gaby Clark , and fact-checked and reviewed by Robert Egan —this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.",
-        "Science X contributing writer; covers astrophysics, novel materials, medical imaging, and bio-inspired tech. Full profile &rarr;"
+        "Researchers have overcome a longstanding obstacle that has prevented promising materials from being used in ultra-low-power computer chips.",
+        "A promising class of materials could help dramatically reduce the electricity needed for computing, but a persistent problem has kept them out of computer chips. When these materials are made thin enough for modern electronics, the electrical and magnetic properties that make them valuable can disappear.",
+        "Researchers at Brown University have now developed a way to overcome this limitation. Their technique produces ultrathin films of bismuth ferrite that retain their essential properties and develop an additional form of magnetism with potential advantages for future computing devices. The findings were published in Nature Materials .",
+        "Bismuth ferrite belongs to a class of materials called multiferroics, which have interconnected electrical and magnetic properties. Within their crystalline structures, positive and negative charges are displaced in opposite directions, creating electrical polarization. Applying a small voltage can reverse that polarization, allowing information to be stored as binary data (ones and zeros). Because the electrical and magnetic states are linked, the stored information could also be read magnetically, potentially enabling memory and logic devices that consume far less power.",
+        "The obstacle is a phenomenon known as the “dead layer” effect. When multiferroic films become extremely thin, their atomic structures and chemical environments can change enough to disrupt their functionality. At the same time, internal electric fields can destabilize their polarization. Together, these effects can eliminate the ferroelectric and magnetic behavior needed for electronic applications.",
+        "The Brown team addressed both problems by carefully engineering the layers surrounding the bismuth ferrite. First, they grew the material on dysprosium scandate, a rare earth-based crystalline substrate with a smaller lattice spacing than bismuth ferrite. The mismatch places the film under compressive strain, helping preserve the atomic arrangement required for its electrical and magnetic properties.",
+        "The researchers also incorporated a metallic layer that screens unwanted electric fields, preventing them from destabilizing the film’s polarization. With both effects controlled, bismuth ferrite remained functional even at thicknesses of only a few angstroms. An angstrom measures approximately four billionths of an inch.",
+        "“We’ve established that we can get rid of the dead layer,” said Lucas Caretta, an assistant professor of engineering at Brown who led the work. “We show that you can make this material basically as thin as you want — down to a few angstroms — and it’s still ferroelectric, and it’s still magnetic.”",
+        "Beyond preserving the material’s original properties, the engineered structure enhanced its magnetic behavior. The researchers demonstrated that the thin film exhibits altermagnetism, a magnetic state with characteristics that could overcome some limitations of conventional magnetic materials.",
+        "“Ferromagnets are useful for memory and logic because they produce strong magnetic signals that are easy to read out,” Caretta said. “The challenge is that they are relatively slow, and their stray magnetic fields make it difficult to pack devices densely on a chip without interference. Antiferromagnets can operate much faster and avoid those stray fields, but their signals are much harder to detect. Altermagnets are kind of the best of both worlds — they can be fast, densely integrated, and still provide a strong electrical signal for readout.”",
+        "These characteristics could eventually support faster, more densely packed electronic components while reducing energy consumption. Although the researchers have demonstrated the material’s properties rather than a finished computing device, the technique addresses a major barrier to incorporating multiferroics into practical chips, particularly as artificial intelligence increases demand for computing power.",
+        "“We know the underlying properties are already there in the bulk materials,” Caretta said. “The trick is learning how to engineer them into a form that’s useful — and sometimes even better than what nature gives us.”",
+        "The research was supported by the U. S. Army Research Office (W911NF-21-2-0162), the National Science Foundation (DMR-2039380, OIA-2327352) and the U. S. Department of Energy (DE-AC02-05CH11231).",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
       ],
       "external": true,
       "order": 6
     },
     {
-      "id": "scitechdaily-a-natural-compound-found-in-everyday-foods-shows-surprisin",
-      "title": "A Natural Compound Found in Everyday Foods Shows Surprising Power Against Lung Cancer",
-      "dek": "Quercetin, a compound found in citrus fruits, onions, and buckwheat, slowed lung cancer cell division and movement in laboratory experiments. ",
-      "category": "健康",
+      "id": "scitechdaily-a-mysterious-explosion-in-space-just-did-something-scienti",
+      "title": "A Mysterious Explosion in Space Just Did Something Scientists Didn’t Expect",
+      "dek": "An explosion that initially appeared unremarkable in gamma rays went on to produce one of the brightest afterglows astronomers have recorded in the past 20 years. ",
+      "category": "科学",
       "tags": [
         "SciTechDaily"
       ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-31T15:25:14.000Z",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-01T16:37:07.000Z",
       "source": {
         "name": "SciTechDaily",
         "license": "Free daily tech news",
         "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/a-natural-compound-found-in-everyday-foods-shows-surprising-power-against-lung-cancer/"
+        "url": "https://scitechdaily.com/a-mysterious-explosion-in-space-just-did-something-scientists-didnt-expect/"
       },
-      "cover": "flower",
-      "accent": "pink",
+      "cover": "bulb",
+      "accent": "yellow",
       "paragraphs": [
-        "Quercetin, a compound found in citrus fruits, onions, and buckwheat, slowed lung cancer cell division and movement in laboratory experiments. At the highest dose tested, cell migration nearly stopped.",
-        "The findings come from researchers at Universitätsklinikum Erlangen at Friedrich-Alexander Universität Erlangen-Nürnberg (FAU), who examined the compound’s effects in laboratory-grown lung cancer cells, mouse lung tissue sections, and living mice. Their study appeared in Cell Death Discovery .",
-        "Lung cancer is the most common cancer worldwide and causes more cancer deaths than any other type. Available treatments do not work for everyone, prompting researchers to investigate additional approaches, including plant compounds such as quercetin, which is known for its anti-inflammatory properties.",
-        "The team in the hospital’s Department of Molecular Pneumology found that quercetin affected several processes involved in cancer growth. “Many drugs against lung cancer target a single molecule,” explains Prof. Dr. Susetta Finotto. “Quercetin, by contrast, attacked at several points simultaneously in our experiments.”",
-        "Treated tumor cells divided more slowly. In one of the two lung cancer cell types examined, quercetin also lowered oxidative stress. This occurs when reactive oxygen compounds overwhelm cells’ defenses, potentially causing damage that contributes to cancer development.",
-        "The effect on movement was particularly striking because migration helps cancer cells spread and establish new tumors, known as metastases. “The higher the quercetin dose, the fewer cancer cells migrated. At the highest dose, the migration almost completely stopped,” reports Christine Carvalho, the study’s lead author.",
-        "Quercetin also reduced levels of two proteins, EGFR and PD-L1, in the cancer cells studied. EGFR passes growth signals into cells, while PD-L1 can help tumors evade immune defenses.",
-        "In mouse lung tissue sections, quercetin increased levels of interferon-alpha-2, a signaling molecule that helps the immune system defend against tumors. The researchers also observed changes beyond the lungs, involving the community of microbes living in the gut.",
-        "“In the mice that received quercetin, the gut microbiome also changed,” explains Prof. Susetta Finotto. “Bacteria that produce certain short-chain fatty acids were more common.” These fatty acids can enter the bloodstream and reach the lungs, where they can inhibit cancer cell growth.",
-        "The mice given quercetin also showed signs of fewer tumor sites. However, only a few animals developed tumors, leaving too little evidence to confirm that finding. Further studies are needed, and whether the effects seen in cells and mice extend to people remains unknown. The experiments also do not establish whether eating quercetin-containing foods would reproduce these results.",
-        "“Our results suggest that a quercetin-rich diet could support treatment for lung cancer,” says Prof. Susetta Finotto. “We also think it may have preventive effects. We want to investigate that next.”",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
-        "Save my name, email, and website in this browser for the next time I comment.",
-        "Type above and press Enter to search. Press Esc to cancel."
+        "An explosion that initially appeared unremarkable in gamma rays went on to produce one of the brightest afterglows astronomers have recorded in the past 20 years. Its visible light became brighter than its host galaxy, and its X-ray emission unexpectedly intensified again weeks later.",
+        "An international research team believes the extraordinary behavior can be explained by the direction of the explosion’s powerful jet. Rather than pointing directly toward Earth, the jet was viewed from an angle that initially concealed its most energetic region. The findings, published in The Astrophysical Journal Letters , suggest that some exceptionally powerful stellar explosions may be difficult to recognize from their initial gamma-ray flashes alone.",
+        "NASA’s Fermi Gamma-ray Space Telescope detected the event, designated GRB 260310A, on March 10, 2026. Its initial burst of gamma rays lasted approximately 53 seconds and appeared to release relatively little energy. Over the following hours, however, its visible afterglow steadily grew brighter before eventually fading.",
+        "The contrast became even more pronounced at other wavelengths. Compared with samples of previously observed gamma-ray bursts, the event’s X-ray and optical afterglows ranked among the brightest 1%, while its radio emission placed it among the brightest 5%. Approximately three weeks after the explosion, the X-ray afterglow brightened again, remaining unusually luminous for more than a week and detectable for months.",
+        "“We see hundreds of GRBs every year, but the oddballs are the most informative ones,” says co-author Roberto Ricci, who led the radio observations. “We could explain individual features of this burst, but fitting them all into the same picture proved much harder.”",
+        "Gamma-ray bursts are among the most energetic explosions in the universe. Many occur when massive stars collapse and launch narrow jets of matter traveling at nearly the speed of light. As these jets collide with surrounding gas, they generate afterglows that can be detected in X-rays, visible light, and radio waves.",
+        "Astronomers typically observe the brightest gamma-ray flashes when a jet points almost directly at Earth. GRB 260310A appears to have been different. Its relatively weak initial emission, followed by an exceptionally bright afterglow, is consistent with a jet viewed from outside its most intensely beamed region.",
+        "“Much like a flashlight, the jet appears brightest when seen head-on. Most of our models are calibrated using events seen from that same perspective. This burst gave us a chance to look beyond that glare,” explains Yu-Han Yang, a postdoctoral scholar and lead author of the study.",
+        "The researchers propose that the explosion produced a jet with a narrow, highly energetic core surrounded by a wider, slower outflow. From Earth’s viewing angle, the broader outer regions would dominate the early afterglow, while much of the core’s radiation would initially be directed elsewhere.",
+        "As the jet slowed, its emission became visible across a wider range of angles. Radiation from the energetic core could then reach Earth, potentially explaining the delayed increase in X-ray brightness. This structured jet model offers a possible explanation for the unusual observations, although the precise configuration remains uncertain.",
+        "“We looked at it from a side angle. As the jet slowed down, its light became visible over a wider range of angles, allowing us to probe the jet’s shape, from its outer edges toward its inner core.”",
+        "The delayed X-ray brightening was particularly difficult to explain. “That was unexpected. At first, I thought another X-ray source was contaminating our observations. But the brightening really came from the afterglow,” recalls Yang, who coordinated the X-ray monitoring. “This prompted us to explore a more complex jet’s shape.”",
+        "To investigate the event, the international team, led by the ERC-funded BHianca group at the University of Rome Tor Vergata, combined observations from NASA’s Chandra X-ray Observatory, ESA’s XMM-Newton, the Einstein Probe mission, the Large Binocular Telescope, and the Karl G. Jansky Very Large Array. Additional observations from Calar Alto Observatory detected the signature of a supernova, confirming that the gamma-ray burst accompanied the death of a massive star.",
+        "The team’s models indicate that the jet’s central region may have carried vastly more energy than the initial gamma-ray measurements suggested. “What appeared to us as an unremarkable GRB might have looked like a monster explosion to an observer looking straight down the jet’s core,” notes Yang. “Our models suggest that the explosion packed roughly a billion years of the Sun’s energy output into a pencil-thin beam.”"
       ],
       "external": true,
       "order": 7
     },
     {
-      "id": "phys-rare-iron-age-celtic-helmet-discovered-in-northeastern-pol",
-      "title": "Rare Iron Age Celtic helmet discovered in northeastern Poland far from its homeland",
-      "dek": "Around 2,400 years ago, at Łysa Góra in Poland, a group of people took a bronze helmet, crushed it, broke it into pieces and threw it into a pit with iron adzes and a scythe.…",
-      "category": "科学",
+      "id": "scitechdaily-nearly-everybody-had-given-up-scientists-finally-solve-a-6",
+      "title": "“Nearly Everybody Had Given Up” – Scientists Finally Solve a 60-Year Chemistry Mystery",
+      "dek": "After more than six decades of failed attempts, chemists have achieved a breakthrough involving a class of molecules long considered too unstable to isolate.",
+      "category": "校园",
       "tags": [
-        "Phys.org"
+        "SciTechDaily"
       ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-31T15:00:06.000Z",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-01T16:02:46.000Z",
       "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-10-rare-iron-age-celtic-helmet.html"
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/nearly-everybody-had-given-up-scientists-finally-solve-a-60-year-chemistry-mystery/"
       },
-      "cover": "star",
+      "cover": "pencil",
       "accent": "blue",
       "paragraphs": [
-        "Around 2,400 years ago, at Łysa Góra in Poland, a group of people took a bronze helmet, crushed it, broke it into pieces and threw it into a pit with iron adzes and a scythe. Such helmets are sometimes found in lavish graves of the Celtic warrior elite, from Champagne, France, to Dürrnberg, Austria.",
-        "A new study published in Antiquity reports the discovery of a rare Berru-type helmet. Its find spot in northeast Poland makes it the only known helmet of its kind found outside its Celtic homeland in the 4th century B. C.",
-        "\"Łysa Góra is one of the most exciting and mysterious archaeological sites dating to the Early Iron Age,\" said Bartłomiej Kaczyński, an archaeologist at the State Archaeological Museum in Warsaw. \"The helmet is a symbol of power and direct evidence of long-distance contacts.\"",
-        "Łysa Góra was a fortified Iron Age settlement located on a sand dune between the Orzyc River and a lake. According to the study, it was inhabited between the 6th and 4th centuries B. C. , possibly by people belonging to the West Baltic Barrow Culture.",
-        "Archaeologists had known about Łysa Góra for decades, with excavations conducted on and off between 1971 and 1992. However, because few of the finds from those excavations were ever published, Łysa Góra's untapped potential was never fully realized, the study reports.",
-        "On top of that, its reputation made excavators doubtful of finding anything useful. \"We did not know what to expect, as the site had a reputation for being severely disturbed,\" Kaczyński said.",
-        "Then excavations of a ritual pit filled with charred remains revealed something unexpected. Along with adzes and a scythe, they uncovered what appeared to be an unusual bronze vessel.",
-        "\"During the excavation, we uncovered an object made of bronze sheet metal, which we initially thought was a vessel,\" Kaczyński said. \"It was only when we exposed the tip that we realized we had found a helmet of a very rare type.\"",
-        "Similar bronze helmets are known from sites such as Dürrnberg in Austria, located far to the south. Together with around 31 mostly fragmented La Tène brooches and ring ornaments, this suggests Łysa Góra may not have simply traded with the Celts, but may have had Celtic people living there.",
-        "The helmet could have been traded in, but the study suggests this is unlikely. Given the object's association with high status and warrior elites, a social concept very different from the local populace in northeastern Poland, it's far more likely the owner of that helmet once stayed at Łysa Góra.",
-        "Nearly 80 La Tène artifacts have been found at the site so far. \"Their diversity suggests that a group of Celts lived at the site for approximately two generations,\" Kaczyński said.",
-        "As for why they were there, the study suggests that Łysa Góra may have been a trading post. Situated near the amber-rich Kurpie region and routes leading north toward the Sambian Peninsula, the site's location gave its occupants a strategic position to control and facilitate the movement of amber and other goods toward central Europe.",
-        "\"Based on ancient written sources, we cannot rule out the possibility that enslaved people were traded there as well,\" Kaczyński said.",
-        "Ongoing excavations have revealed that Łysa Góra was a place bustling with trade and production, as revealed by nearly 350 metal objects, amber beads, an unfinished amber ring and a bronze coin possibly of Seuthes III, a Thracian king."
+        "After more than six decades of failed attempts, chemists have achieved a breakthrough involving a class of molecules long considered too unstable to isolate.",
+        "Chemists have succeeded in isolating a group of molecules that researchers have struggled to capture for more than 60 years. Known as oxoboranes, these compounds contain an unusual triple bond between boron and oxygen, a combination long considered too unstable to isolate in a lasting form.",
+        "Researchers led by Professor Holger Braunschweig at the University of Würzburg have now developed a method that produces three surprisingly stable oxoboranes. Published in Nature Chemistry , the work was supported by computational research from Professor Ashwini K. Phukan’s team at Tezpur University in India.",
+        "The breakthrough began when Würzburg doctoral students Lukas Lubczyk and Christian Markl independently reacted a compound called a diboracumulene with different ketones, chemicals commonly used in organic synthesis. Instead of the anticipated products, they obtained unusual orange or yellow solids. The reactions had unexpectedly produced oxoboranes as their main products.",
+        "“The discovery was a pleasant surprise. I never thought the diboracumulene would react the way it did, let alone with multiple different, simple substrates. And when Christian came to me with his compound, I knew we were onto something,” says Lukas Lubczyk.",
+        "Boron has a strong tendency to avoid forming triple bonds, making these molecules particularly difficult to synthesize. Braunschweig has spent more than 15 years investigating this type of chemical bonding. His team created the first molecule containing a boron-boron triple bond in 2012, followed by the first neutral molecule with a boron-carbon triple bond in 2025. Organic oxoboranes represented the remaining challenge involving triple bonds between boron and other elements in the first row of the periodic table’s p-block.",
+        "Chemists have pursued oxoboranes since at least the early 1960s. Although previous experiments detected or trapped them under extreme conditions, inferred their presence from chemical reactions, or produced related derivatives, researchers had been unable to isolate stable examples.",
+        "“Nearly everybody in the field had given up on oxoboranes, as they were thought to be just too unstable to be isolated. So we were stunned to see them spontaneously form in these reactions and stick around long enough that we could study them,” says Holger Braunschweig.",
+        "The successful preparation of three oxoboranes suggests that the new approach could provide access to additional members of this difficult-to-synthesize molecular family. The researchers are now investigating whether the method can be extended to produce other elusive compounds involving elements across the periodic table.",
+        "The work was funded by the German Research Foundation (DFG), the German Academic Exchange Service (DAAD) and the Department of Science & Technology (DST) of India.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "It seems material sciences are likely to transform our world even faster than anyone anticipated. Good use of research and most likely AI…. looking forward to more discoveries. Can something like this be eventually used to expand “recycling” tch? Sort of reverse build from the used or discarded products?",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
       ],
       "external": true,
       "order": 8
     },
     {
-      "id": "scitechdaily-a-last-refuge-australian-waters-could-save-a-critically-en",
-      "title": "A Last Refuge: Australian Waters Could Save a Critically Endangered Ocean Predator",
-      "dek": "Despite decades of research, major gaps in scientists’ understanding of green sawfish could complicate efforts to save the species.",
-      "category": "环境",
+      "id": "conversation-parents-let-your-kids-eat-as-much-candy-as-they-want-less-",
+      "title": "Parents, let your kids eat as much candy as they want – less restriction could help reduce the urge to overeat",
+      "dek": "Kids and candy are a classic pairing. From trick-or-treating to Easter baskets, to local parades and birthday parties, it can feel like kids are almost always bringing home…",
+      "category": "社会",
       "tags": [
-        "SciTechDaily"
+        "The Conversation"
       ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-31T12:27:42.000Z",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T15:39:51.000Z",
       "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/a-last-refuge-australian-waters-could-save-a-critically-endangered-ocean-predator/"
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/parents-let-your-kids-eat-as-much-candy-as-they-want-less-restriction-could-help-reduce-the-urge-to-overeat-294113"
       },
-      "cover": "leaf",
-      "accent": "green",
+      "cover": "books",
+      "accent": "blue",
       "paragraphs": [
-        "Despite decades of research, major gaps in scientists’ understanding of green sawfish could complicate efforts to save the species.",
-        "Green sawfish have disappeared from large parts of their former range, but northern Australia still supports some of the last relatively intact populations of this critically endangered species. A new scientific review suggests these waters could be central to the animal’s survival, although major gaps in researchers’ knowledge continue to complicate conservation efforts.",
-        "Green sawfish are a type of ray with a sharklike body and a distinctive, tooth-lined snout resembling a saw. Overfishing and habitat loss have driven their decline worldwide. Researchers at Murdoch University’s Centre for Sustainable Aquatic Ecosystems, part of the Harry Butler Institute, have now brought together decades of scientific findings to identify the species’ remaining strongholds and determine where further research is needed.",
-        "“Although the species has disappeared from large parts of its historic range, including parts of Africa and southern Asia, northern Australia still supports some of the last intact populations left anywhere on Earth,” said Dr. Jack Ingelbrecht, a postdoctoral research associate who led the review alongside Associate Professor David Morgan. Ingelbrecht added, “We’re fortunate that the main factors responsible for the global decline of sawfish are less severe in northern Australia.”",
-        "Western Australia’s Pilbara region is particularly valuable because it contains important green sawfish habitat and populations that remain relatively healthy. “The Pilbara region in particular has become one of the world’s most important areas for green sawfish research, as it still supports relatively healthy populations of this species and provides critical habitat,” said Morgan, who has studied Australian sawfish for more than 25 years. “It gives us a rare opportunity to understand how green sawfish use their environment, and identify which conservation measures would best facilitate their recovery.”",
-        "The survival of green sawfish in Australian waters has also shaped the global scientific understanding of the species. “To research something, you first need specimens to study. Naturally, opportunities for green sawfish research will be greater in areas where this species still occurs in relatively high numbers,” Ingelbrecht explained.",
-        "“Our review found that, for decades, Australia has been the global leader in green sawfish research. This is partly because green sawfish populations have been wiped out in many countries, but still exist in Australia,” he said. Australia’s contribution extends across many different areas of scientific investigation. “Interestingly, when we looked at the specific types of information that have been produced, we found that Australia has also been at the forefront of almost every major sub-discipline of research relating to green sawfish.”",
-        "The research team compiled existing studies into a single resource intended to support conservation planning and future investigations. “Renowned zoologist Ferdinando Boero said it best: ‘you can’t protect what you don’t know,'” Ingelbrecht said. “It’s incredibly difficult to stay up to date with research on any topic, particularly when there’s a lot of information to cover. Ultimately, if conservation experts don’t fully understand the species they’re trying to protect, they can’t implement the most-suitable recovery initiatives.”",
-        "Despite Australia’s extensive research history, the review identified substantial gaps in the information needed to protect green sawfish. “By synthesizing the current knowledge of green sawfish, we wanted to provide an all-in-one resource to guide conservation efforts and researchers, alike,” Ingelbrecht said.",
-        "The most pressing uncertainties concern how many green sawfish survive, where their most important habitats are located, and how many individuals are old enough to reproduce. “Sadly, when it comes to the research areas most relevant to conservation – the size of remaining populations, the locations of critical habitat, and the number of mature individuals present in the wild – we realized that there’s very little information currently available.”",
-        "These missing data make it difficult to design conservation strategies suited to the species’ biological needs. “Research is the lifeblood of conservation. In order to be successful, recovery efforts often need to be tailored towards the species they’re intended for. To do that, you need scientific input,” Ingelbrecht said.",
-        "As green sawfish disappear from more of their historical range, Australia’s role in protecting the species could become increasingly significant. “Conservation biologists bear the responsibility of enhancing recovery initiatives through research. If green sawfish populations continue to decline, that responsibility – that burden – will fall more and more towards Australia,” Ingelbrecht warned."
+        "Kids and candy are a classic pairing. From trick-or-treating to Easter baskets, to local parades and birthday parties, it can feel like kids are almost always bringing home another bag of treats. But while these holidays and events may be exciting for kids, they often end with parents dreading what comes next: negotiations around how much candy to consume.",
+        "As a registered dietitian and mom of three, I understand the stress that comes with wanting to encourage healthy food choices without removing all the fun of childhood traditions. I also believe the answer to this dilemma may be simpler than the familiar back and forth of “Just one more piece of candy!” and “Haven’t you had enough already?”",
+        "Research suggests that by managing the candy inventory less and encouraging more autonomy around sweets, parents can help their kids practice tapping into their hunger and fullness cues , promoting a healthier relationship with food over time.",
+        "There is no question that some foods have greater nutritional value than others. A piece of cake – carrot cake included – will never provide the vitamins and minerals of a large garden salad. As a result, people often categorize different foods as “good” or “bad.”",
+        "The tendency to place food in two polarizing buckets can affect everything from what foods you purchase at the grocery store to the language you use to describe food. The problem is, “ good” and “bad” are moral concepts . When morality is consistently applied to food, a person’s relationship to food can become complicated. Instead of viewing food as fueling, it can become a measuring stick for whether your food choices are something to feel proud of or guilty about.",
+        "When a person’s inner monologue about food is preoccupied with whether it is good or bad for their health or diet plan, food choices can become less about enjoyment and more about their willpower to make the “right” decision at the grocery store and at mealtimes. Any guilt or shame that comes from this evaluation can spill over into what foods are served freely at home and which are restricted.",
+        "The idea of food restriction often sounds punishing. For parents and others who take care of children, food restriction often may simply be an attempt to limit sugary foods and introduce more fruits and vegetables.",
+        "But for kids, restricting certain foods may lead them to become preoccupied with those foods . They may be nagged by the knowledge that the foods adults often call “bad” are also the ones that are really delicious. What started as a simple candy rule can continue to influence a child’s relationship to food and eating long after the treats are gone.",
+        "Parents often approach food restriction in two different ways . In overt food restriction, kids are aware that their parents or guardians are limiting access to specific foods because they can see it or are told specific foods are off limits. In practice, this might mean the kids know candy is in the house but stored out of reach in the kitchen cupboards. Parents or caregivers who practice covert food restriction, on the other hand, may choose to not buy bags of candy at all in order to encourage more balanced food choices.",
+        "Research suggests that overt restriction can unintentionally increase kids’ interest in those restricted food items . That preoccupation may mean the child has a more difficult time listening to their fullness cues when presented with those foods. If bags of candy are usually stored out of reach, it may be tempting to eat more than just a few pieces when access is finally granted – and they may completely ignore any signs that their body is full.",
+        "Incorporating neutral language about food at mealtimes and encouraging kids to eat according to their own hunger and fullness cues can help them build trust in their bodies and improve family connection at the table. Taking the pressure off finishing all the food on the plate can instead place emphasis on savoring the sensory experience of each bite.",
+        "Eating according to internal cues is one part of intuitive eating , which aims to increase a person’s trust in their own body to signal when to start eating and when to stop. Kids can also benefit from this same framework, with some age-appropriate modifications.",
+        "The Satter Division of Responsibility in Feeding provides a simple, research-based approach to feeding kids in a way that avoids power struggles between kids and caretakers at the table. Developed by the Ellyn Satter Institute, a nonprofit focused on improving people’s relationship to food, the goal of the framework is to introduce intuitive eating in a kid-friendly way. When providing food through this approach, parents decide when and what food is served, while kids are in charge of deciding what and how much they eat from their plates. The emphasis is on helping kids eat according to their internal cues without pressuring them to eat specific foods.",
+        "Candy can be a part of the menu rotation in this feeding framework. Repeatedly exposing kids to a variety of foods, including sugary treats outside of special holidays or events, means no food becomes emphasized for being better or worse than another food – it is all simply food .",
+        "This approach can shift the conversation to how different foods affect their bodies in different ways: Some food – like candy – makes them run super fast, some foods grow their muscles, while other foods keep their eyes strong.",
+        "Regularly using neutral language to describe food and exposing kids to a variety of foods helps reduce the power that sugary treats have over their appetites. This doesn’t mean birthday cake, doughnuts and candy will no longer taste delicious. It simply means children can rest assured they will see their favorite treats again without the added urge to overconsume them.",
+        "If you’re interested in exploring how intuitive eating principles could change your child’s or your own relationship with food, here are a few practices you can try at home:",
+        "Involve children in menu planning and grocery shopping . Let your kids pick a treat to add to a few meals each week, and serve the treat with the rest of the food on the menu for that day. Presenting all food items at the same time on the plate – versus saving a dessert or treat for after the meal – visually reminds everyone that food does not have to be earned. Rather, each food nourishes their bodies in different ways.",
+        "Avoid commenting on what your kids eat . It can be tempting to praise a child when they choose to take a bite of the broccoli you’ve been encouraging for weeks. Praising kids for eating certain foods versus others can create a food hierarchy , leading them to think about food as a way to earn a reward instead of fueling their body.",
+        "Challenge your own relationship with food . Do you eat when you are hungry and stop when you are full? Do you restrict your own food cravings as a punishment, or do you struggle to control yourself when eating a treat you love? Kids are always watching, and your own food behaviors often speak louder than words.",
+        "Consider letting your kids indulge for a day . In my own family, I don’t limit how much candy my three kids eat on Halloween night. I won’t lie – they usually eat quite a bit. When they mention a stomachache afterward, we talk about how eating a lot of candy can make their bodies feel – without adding judgment. Their interest typically fades over the next few days while we continue to offer a piece of two with meals. Eventually the extras become props for elaborate trick-or-treat pretend play.",
+        "One day or evening of holiday eating does not define their health , but fun memories with friends and families can last a lifetime. So let them eat … candy!",
+        "Bryn Beeder does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
       "order": 9
     },
     {
-      "id": "scitechdaily-do-spiders-dream-scientists-discover-a-mysterious-sleep-st",
-      "title": "Do Spiders Dream? Scientists Discover a Mysterious Sleep State",
-      "dek": "Scientists have discovered that spiders experience REM-like sleep, complete with twitching muscles and moving eyes, raising the intriguing possibility that they might dream.",
-      "category": "健康",
+      "id": "phys-how-permanent-daylight-saving-time-could-affect-schools",
+      "title": "How permanent daylight saving time could affect schools",
+      "dek": "Sleep is fundamental to well-being. Decisions to end semiannual clock changes and remain on permanent daylight saving time (DST) in British Columbia , the Northwest…",
+      "category": "校园",
       "tags": [
-        "SciTechDaily"
+        "Phys.org"
       ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-31T11:16:37.000Z",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T15:30:02.000Z",
       "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/do-spiders-dream-scientists-discover-a-mysterious-sleep-state/"
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-10-permanent-daylight-affect-schools.html"
       },
-      "cover": "flower",
-      "accent": "pink",
+      "cover": "pencil",
+      "accent": "blue",
       "paragraphs": [
-        "Scientists have discovered that spiders experience REM-like sleep, complete with twitching muscles and moving eyes, raising the intriguing possibility that they might dream.",
-        "Spiders may have more in common with sleeping humans than scientists previously realized. Researchers at the University of Bonn have discovered that Australian jumping spiders experience two distinct stages of sleep, including a state that closely resembles REM sleep in humans. During this stage, the spiders move their eyes and twitch their muscles, behaviors that raise intriguing questions about the origins of sleep and whether spiders might experience something resembling dreams.",
-        "The findings provide the first comprehensive experimental confirmation of regulated sleep in spiders. They also suggest that complex sleep patterns may be far more widespread throughout the animal kingdom than previously understood.",
-        "In humans and other vertebrates, sleep involves multiple stages, including REM (rapid eye movement) sleep. This stage is associated with rapid eye movements, changes in muscle activity, and vivid dreaming in humans. Scientists have long wondered whether animals with very different nervous systems, including spiders, experience comparable sleep states.",
-        "To investigate, researchers from the Institute of Organismic Biology at the University of Bonn turned to an unusual subject: the Australian jumping spider Portia fimbriata .",
-        "The spider belongs to the genus Portia, a group of predators known for their sophisticated hunting techniques. Unlike many spiders that primarily capture insects, Portia species specialize in hunting other spiders.",
-        "One of their most remarkable strategies involves manipulating the webs of their prey. By producing vibrations that imitate insects struggling in silk, these spiders can lure web-building spiders toward them. Such complex hunting behavior suggests an unusual capacity for learning and adapting to different situations.",
-        "Despite their impressive abilities, these predators are quite small. A fully grown Portia fimbriata is roughly the size of a one-euro coin.",
-        "Their sophisticated behavior made them particularly interesting subjects for investigating sleep. Scientists wanted to determine whether these spiders simply become inactive at night or enter a genuine, biologically regulated sleep state similar to those observed in vertebrates.",
-        "The researchers found convincing behavioral evidence that Portia fimbriata does more than rest. The spiders exhibit regulated sleep with two clearly distinguishable stages.",
-        "One of these stages closely resembles REM sleep, a well-known phase of human sleep characterized by rapid eye movements and muscle twitches.",
-        "During the spiders’ REM-like periods, the researchers observed eye movements and twitching muscles, suggesting that certain features of sleep may be shared by animals whose nervous systems are dramatically different from our own.",
-        "The discovery is especially significant because most scientific knowledge about sleep has come from studies of vertebrates, including humans, other mammals, birds, and reptiles. Until now, comprehensive experimental evidence establishing true sleep behavior in spiders had been lacking.",
-        "Although the REM-like movements are intriguing, they do not demonstrate that spiders dream. Determining whether spiders experience anything comparable to human dreams would require evidence beyond the behavioral observations available in this study."
+        "Sleep is fundamental to well-being. Decisions to end semiannual clock changes and remain on permanent daylight saving time (DST) in British Columbia , the Northwest Territories , Alberta , Manitoba and northwestern Ontario have consequences for many Canadians due to potential sleep disruption.",
+        "The health risks of transitioning to DST , including increased heart attacks and fatal car accidents , have led most sleep and chronobiology experts , including the first author of this story , to advocate for ending seasonal clock changes in favor of permanent standard time .",
+        "Governments justify opting for DST to provide later daylight for a range of reasons, including facilitating evening activities , alignment with other areas and promoting health.",
+        "While permanent DST provides more daylight in the evening hours—something sometimes appealing for those with flexible schedules and access to outdoor spaces—it comes at the cost of later sunrises.",
+        "Being aware of the potential effects of permanent DST and how to mitigate these will be important for schools.",
+        "Due to the short winter days experienced in Canada, dawn will now occur later than the start times for many schools in many of the regions opting for permanent DST.",
+        "Communities to the north and west within a time zone will have sunrises later than 8 a. m. , or even later than 9 a. m. for a sizable portion of the school year. Grande Prairie, Alberta, will see sunrises in December and January after 10 a. m.",
+        "In the United States, the Sunshine Protection Act seeks to make daylight saving time permanent .",
+        "Because winter days are shorter in northern Canada areas than in the more southern United States, the negative consequences of the move to permanent DST will be more profound for Canadians.",
+        "A major concern around choosing the right clock for society has to do with our body's internal circadian clock . This circadian clock regulates our daily 24-hour rhythms, including our sleep-wake cycles. This clock naturally follows daylight, so as our days get shifted later with DST, our body rhythms also get shifted later .",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "One challenge that many people will face with permanent DST is social jetlag—a mismatch between what our body clock wants to do (follow the sun) and what our school or work schedules expect us to do (follow our alarm clocks).",
+        "DST worsens social jetlag in two ways. First, DST moves our social schedule an hour earlier relative to dawn. For people with earlier schedules, such as students and teachers, this means waking earlier than our bodies want with the later dawns during fall and winter. Second, later sunsets delay when our bodies want to fall asleep, leading to less sleep overall .",
+        "Social jetlag also erodes health in several ways, raising rates of depression, cardiovascular disease and metabolic diseases. How a person will respond to permanent DST depends on both their work or school schedule and their chronotype. Those with flexible schedules can adapt their sleep and activity schedules, but this isn't a luxury afforded to many."
       ],
       "external": true,
       "order": 10
     },
     {
-      "id": "scitechdaily-scientists-uncover-why-breast-cancer-becomes-deadlier-as-w",
-      "title": "Scientists Uncover Why Breast Cancer Becomes Deadlier As We Age",
-      "dek": "Scientists have uncovered a biological mechanism that may help explain why breast cancer becomes more dangerous with age.",
+      "id": "scitechdaily-a-hidden-dna-mechanism-could-explain-how-20-of-human-cance",
+      "title": "A Hidden DNA Mechanism Could Explain How 20% of Human Cancers Develop",
+      "dek": "Mutations found in roughly 20% of human cancers may promote tumor growth by changing how DNA is organized inside cells. ",
       "category": "健康",
       "tags": [
         "SciTechDaily"
       ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-31T00:47:55.000Z",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T13:57:52.000Z",
       "source": {
         "name": "SciTechDaily",
         "license": "Free daily tech news",
         "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-uncover-why-breast-cancer-becomes-deadlier-as-we-age/"
+        "url": "https://scitechdaily.com/a-hidden-dna-mechanism-could-explain-how-20-of-human-cancers-develop/"
       },
       "cover": "flower",
       "accent": "pink",
       "paragraphs": [
-        "Scientists have uncovered a biological mechanism that may help explain why breast cancer becomes more dangerous with age.",
-        "In older mice, breast cancer was far more likely to spread to the lungs, even when the original tumors grew at roughly the same rate as those in younger animals. Researchers at Georgetown’s Lombardi Comprehensive Cancer Center have identified an inflammation-related receptor that appears to play a central role in this age-related increase in metastasis.",
-        "The researchers found that genetically removing the receptor, known as RAGE, almost completely eliminated the increased spread of cancer in older mice. Published May 15, 2026, in Communications Biology , the findings suggest that changes occurring throughout the body during aging can influence how aggressively cancer behaves.",
-        "The study focused on RAGE (Receptor for Advanced Glycation End-products), a receptor on the surface of cells that amplifies inflammatory signals. Aging increased levels of molecules that activate RAGE, including the proteins S100 and HMGB1. These molecules were found in both primary tumors and metastatic sites, where the resulting inflammatory activity helped cancer cells invade surrounding tissues and spread.",
-        "“Our study addresses a major gap by showing that aging dramatically increases breast cancer metastasis and that this effect depends on RAGE, a receptor on the surface of cells that fuels inflammation,” says Barry Hudson, PhD, associate professor of oncology at Georgetown Lombardi and corresponding author for this article. “Most laboratory studies rely on young mice, which has limited our understanding of how aging itself alters the host environment, including immune function and chronic inflammatory states that, in turn, influence cancer behavior.”",
-        "“These findings show that aging doesn’t just increase cancer risk — it actively changes the body in ways that help tumors spread,” says Hudson. “RAGE appears to be a key mediator of these harmful age-related pathways.”",
-        "The research benefited from an unusual circumstance during the COVID-19 pandemic. Reduced laboratory activity meant some mouse colonies were allowed to age longer than originally planned. Because maintaining older laboratory mice is expensive and time-consuming, the situation gave researchers a rare opportunity to examine how aging affects cancer progression. They compared younger and older animals across three mouse models of triple-negative breast cancer, an aggressive form of the disease.",
-        "The team also investigated whether the findings had parallels in humans. An analysis of breast cancer data from more than 1,000 patients showed that higher expression of AGER (the gene encoding RAGE), along with elevated activity in related inflammatory genes, was associated with poorer outcomes. Although these associations do not establish that RAGE causes metastasis in patients, they support the potential clinical relevance of the animal experiments.",
-        "RAGE is being studied as a therapeutic target in several diseases associated with aging. Earlier research from the Georgetown team showed that the RAGE inhibitor TTP488 (azeliragon) could suppress breast cancer metastasis in preclinical models. In the latest experiments, the drug also reduced the invasiveness of cancer cells exposed to blood serum from aged mice, which otherwise promoted more invasive behavior.",
-        "A clinical study at Georgetown Lombardi is now evaluating TTP488 in breast cancer patients undergoing chemotherapy, with particular attention to safety and cognitive outcomes. The drug has previously demonstrated a favorable safety profile in humans, although its ability to prevent breast cancer metastasis in patients remains unproven.",
-        "“This study highlights the importance of the host environment in cancer. While cancer is often viewed as driven primarily by mutations intrinsic to tumor cells, systemic factors such as aging and inflammation play a critical role in shaping how cancers behave,” says Hudson. “Most deaths due to cancer occur because tumors spread to other organs, so understanding these influences may help identify new strategies to limit metastasis.”",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+        "Mutations found in roughly 20% of human cancers may promote tumor growth by changing how DNA is organized inside cells. Researchers have identified a mechanism that allows a regulatory protein to reshape the genome’s three-dimensional structure, altering the activity of genes involved in cell division.",
+        "The study, published October 28 in Nature , links these changes to mutations affecting a protein complex called BAF. Scientists at Weill Cornell Medicine found that blocking a key protein involved in the process reversed the cancer-promoting effects in an animal model, suggesting potential new approaches to treatment.",
+        "The BAF complex helps control gene activity by regulating how accessible DNA is to other proteins. Its numerous subunits are encoded by more than two dozen genes, and mutations affecting these components occur in cancers of the breast, ovaries, liver, and lymphatic system. Until now, researchers had struggled to explain how such mutations could contribute to malignancy across so many different tissues.",
+        "The new findings challenge expectations about how BAF normally functions. “We normally think of the BAF complex as making DNA more accessible, and so we expected its loss to have the opposite effect,” Dr. Meydan said. “Instead, its loss made DNA more accessible to CTCF, with surprisingly far-reaching effects.”",
+        "CTCF helps organize DNA into distinct regions by establishing boundaries that influence which genes interact with regulatory elements. These interactions depend partly on how DNA folds and loops within the nucleus. When BAF activity is lost, CTCF gains access to sites that would normally be less accessible, potentially disrupting this intricate organization.",
+        "“The challenge for us was to find a potential cancer-promoting effect occurring across many different cell types and tissue models,” said Dr. Barisic, who is also the John P. Leonard, M. D. /Gwirtzman Family Research Scholar in Lymphoma.",
+        "Using several animal and cell models with impaired BAF function, the researchers discovered that CTCF binding increased at thousands of locations throughout the genome. This widespread change reorganized DNA loops and folds, disrupting normal connections between genes and the regulatory regions that control their activity. The resulting shifts in gene expression encouraged faster cell division.",
+        "Evidence from mouse experiments and human cancer patient data further supported CTCF’s involvement. In particular, disruptions affecting CTCF were associated with better patient outcomes. The researchers also demonstrated that deleting CTCF in an animal model could reverse the effects of BAF mutations, providing experimental evidence that the protein contributes to the cancer-promoting process.",
+        "The team identified two additional protein complexes, PBAF and ISWI, that cooperate with CTCF in driving these changes. Removing either complex also blocked the effects of BAF mutations in experimental models, making all three potential targets for future therapies.",
+        "“These findings help us establish a unifying mechanism for one of the most common classes of cancer mutations, and identify CTCF and its partner proteins as candidate therapeutic targets in these cancers,” said study co-corresponding author Dr. Darko Barisic, an assistant professor of cancer biology in medicine and a member of the Sandra and Edward Meyer Cancer Center at Weill Cornell Medicine.",
+        "Although the experiments identify promising molecular targets, researchers have not yet established whether blocking these proteins can safely treat cancer in humans. The next challenge is understanding precisely how increased CTCF binding changes the genome and finding ways to interfere with that process.",
+        "“We’re currently investigating in more detail what this extensive gain of CTCF does to the genome, and we hope before long to find a drug that blocks this process,” Dr. Barisic said.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment."
       ],
       "external": true,
       "order": 11
     },
     {
-      "id": "scitechdaily-scientists-discover-a-surprising-new-target-for-treating-t",
-      "title": "Scientists Discover a Surprising New Target for Treating Type 2 Diabetes",
-      "dek": "A clinical trial has uncovered a molecular change in skeletal muscle that may help explain why exercise improves insulin sensitivity in people with Type 2 diabetes.",
+      "id": "scitechdaily-can-cats-really-go-vegan-new-research-reveals-a-surprising",
+      "title": "Can Cats Really Go Vegan? New Research Reveals a Surprising Health Connection",
+      "dek": "More cat owners are turning to vegan diets for their pets. But is a plant-based diet actually safe for cats?",
       "category": "健康",
       "tags": [
         "SciTechDaily"
       ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-30T23:36:18.000Z",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T13:22:31.000Z",
       "source": {
         "name": "SciTechDaily",
         "license": "Free daily tech news",
         "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-discover-a-surprising-new-target-for-treating-type-2-diabetes/"
+        "url": "https://scitechdaily.com/can-cats-really-go-vegan-new-research-reveals-a-surprising-health-connection/"
       },
       "cover": "flower",
       "accent": "pink",
       "paragraphs": [
-        "A clinical trial has uncovered a molecular change in skeletal muscle that may help explain why exercise improves insulin sensitivity in people with Type 2 diabetes.",
-        "A protein found in unusually high amounts in the muscles of people with Type 2 diabetes may be interfering with the body’s ability to respond to insulin. Researchers discovered that removing the protein, known as Miro1, restored insulin responsiveness in preclinical models, suggesting a possible new approach to treating insulin resistance.",
-        "The study, published in Nature Communications , also found that aerobic exercise reduced Miro1 levels in people with Type 2 diabetes. Those reductions occurred alongside improvements in insulin sensitivity and the muscles’ ability to produce energy.",
-        "Miro1 (Mitochondrial Rho GTPase1) sits on the outer membrane of mitochondria, the structures responsible for producing much of a cell’s usable energy. Skeletal muscle plays a major role in regulating blood sugar because it absorbs glucose from the bloodstream in response to insulin. When muscle becomes resistant to insulin, glucose is less effectively removed from the blood, contributing to the elevated blood sugar associated with Type 2 diabetes.",
-        "To investigate Miro1’s involvement, scientists examined its effects in cells, preclinical models, and people with Type 2 diabetes. Their experiments showed that excess Miro1 impaired insulin responses in muscle, while removing the protein reversed those effects in preclinical models.",
-        "“Insulin resistance in muscle is at the heart of Type 2 diabetes, and its molecular causes have remained frustratingly unclear. This study, the product of years of work, identifies Miro1 as a key part of the answer. By tracing Miro1 from cells to preclinical models to patients, we show that Miro1 accumulation impairs the muscle’s response to insulin, that removing it causally restores that response in our models, and that exercise reverses its buildup in people. For the field, this is a new therapeutic target. For patients, it deepens our understanding of why exercise is so effective and opens a path toward treatments that could one day complement it,” said senior author Dr. John P. Kirwan.",
-        "The researchers also conducted a randomized controlled trial involving participants with obesity and Type 2 diabetes. One group performed aerobic exercise, while another received standard medical care. Participants assigned to exercise showed lower Miro1 levels in their muscles, together with improved insulin sensitivity and mitochondrial energy production.",
-        "These human findings support a connection between exercise, Miro1, and metabolic health. However, they do not establish that reducing Miro1 is responsible for the benefits of exercise. The preclinical experiments provide more direct evidence that the protein can influence insulin responses.",
-        "Kirwan led the research while working at LSU’s Pennington Biomedical Research Center. He has since been appointed executive director of the OU Health Harold Hamm Diabetes Center at the University of Oklahoma, where he will continue investigating the biological mechanisms of diabetes and potential treatments.",
-        "The study’s first author, Elizabeth Heintz, conducted research as a doctoral candidate in Pennington Biomedical’s Integrated Physiology and Molecular Medicine Laboratory. Co-corresponding author Christopher Axelrod has since joined Kirwan at the Harold Hamm Diabetes Center.",
-        "“This research exemplifies the breadth of scientific discovery at Pennington Biomedical, where research spans all levels, from basic science that reveals the biological mechanisms underlying disease to clinical studies and population-based research that informs public health,” said Dr. Jennifer Rood, Interim Senior Vice Chancellor and Executive Director of Pennington Biomedical. “Dr. Kirwan and his team’s findings on Miro1 demonstrate the value of this integrated approach, connecting fundamental discoveries about muscle function with insights into insulin resistance and the benefits of exercise in people with Type 2 diabetes.",
-        "This work is advancing our understanding of diabetes and helping lay the foundation for future approaches to prevention and treatment.”",
-        "Although removing Miro1 improved insulin responses in experimental models, researchers have not yet established whether targeting the protein would be safe or effective as a treatment for people. Further studies will need to clarify how Miro1 contributes to insulin resistance and whether modifying its activity can improve blood sugar regulation.",
-        "At the Harold Hamm Diabetes Center, Kirwan plans to build on these findings through research that connects laboratory discoveries with studies involving people with diabetes."
+        "More cat owners are turning to vegan diets for their pets. But is a plant-based diet actually safe for cats?",
+        "An online survey of 1,305 cats found that those eating vegan diets had 34% lower odds of being assessed as overweight than those eating conventional meat-based food.",
+        "The findings came from caregiver reports of veterinary assessments. All cats had followed their diets for at least one year, with conventional meat-based diets accounting for most (90%) and vegan diets for the remainder (10%).",
+        "Researchers calculated the difference after accounting for age, sex, neuter status, activity, and feeding practices.",
+        "The lower rates of excess weight came despite feeding habits that might have tipped the scales the other way, as Knight explained, “Interestingly, most vegan-fed cats were eating predominantly dry food and were more likely to have food available throughout the day. These are feeding patterns normally associated with increased overweight risk. Yet we still observed lower rates of overweight in this group.”",
+        "That observation came from study author Andrew Knight, an adjunct professor at Australia’s Griffith University School of Environment and Science. He emphasized that the relatively small vegan-fed group limited what researchers could conclude.",
+        "Veterinary studies estimate that around 30–60% of domestic cats are overweight or obese. Excess weight is associated with arthritis, diabetes, urinary tract disease, and reduced quality of life, giving researchers a reason to investigate dietary patterns that might help.",
+        "Caregivers of vegan-fed cats reported fewer weight-related disorders, with no cases reported for several conditions examined. However, the small number of cats in this group made those results uncertain.",
+        "“Carers feeding cats vegan diets also reported lower rates of body weight-related disorders such as osteoarthritis and other musculoskeletal and mobility problems,” Knight said. “However, the relatively small number of vegan-fed cats means these results cannot be considered conclusive.”",
+        "The survey could not establish why vegan-fed cats appeared less likely to be overweight. Researchers did not analyze the foods themselves, so explanations involving their ingredients or nutritional composition remain possibilities.",
+        "Some commercial vegan cat foods may provide more fiber and fewer calories or less fat than comparable meat-based products, potentially supporting weight control. Differences in L-carnitine, a nutrient involved in energy metabolism and maintaining lean body tissue, could also contribute.",
+        "The results do not establish that avoiding meat prevents excess weight. Determining whether the diets themselves explain the pattern would require direct measurements of food consumption, calorie intake, and body condition over time.",
+        "Knight said the findings provide a reason for further investigation, rather than a definitive answer about vegan diets and feline weight.",
+        "“We can’t conclude from this study that vegan diets definitely protect cats against becoming overweight, but we have found a consistent pattern that is worth further investigation. An ideal next step would be a larger, prospective study that directly measured what cats are eating, their energy intake, and their body condition.”"
       ],
       "external": true,
       "order": 12
     },
     {
-      "id": "scitechdaily-eating-a-handful-of-peanuts-could-change-your-blood-in-a-s",
-      "title": "Eating a Handful of Peanuts Could Change Your Blood in a Surprising Way, Study Finds",
-      "dek": "A handful of peanuts may leave a telltale signature in your blood, and researchers have linked that pattern to a lower risk of type 2 diabetes.",
+      "id": "scitechdaily-a-nutrient-found-in-red-meat-could-make-dangerous-inflamma",
+      "title": "A Nutrient Found in Red Meat Could Make Dangerous Inflammation Even Worse",
+      "dek": "A nutrient known for helping the body burn fat may also cause inflammation when the immune system is in overdrive.",
       "category": "健康",
       "tags": [
         "SciTechDaily"
       ],
-      "date": "2026-10-31",
-      "publishedAt": "2026-10-30T22:25:14.000Z",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T12:47:46.000Z",
       "source": {
         "name": "SciTechDaily",
         "license": "Free daily tech news",
         "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/eating-a-handful-of-peanuts-could-change-your-blood-in-a-surprising-way-study-finds/"
+        "url": "https://scitechdaily.com/a-nutrient-found-in-red-meat-could-make-dangerous-inflammation-even-worse/"
       },
       "cover": "flower",
       "accent": "pink",
       "paragraphs": [
-        "A handful of peanuts may leave a telltale signature in your blood, and researchers have linked that pattern to a lower risk of type 2 diabetes.",
-        "What happens inside your body after eating a handful of peanuts? Beyond providing protein, fiber, and healthy fats, these popular legumes appear to leave a distinctive chemical fingerprint in the bloodstream. Scientists have now linked this pattern of circulating fats to a lower risk of type 2 diabetes, offering new clues about the complex relationship between diet, body weight, and metabolic health.",
-        "To investigate, researchers combined a six-month dietary experiment with data from a long-term population study involving more than 27,000 people. Their findings revealed how peanut consumption reshapes certain blood lipids and suggested that body mass index plays an important role in the observed connection to diabetes risk.",
-        "Cholesterol tests capture only part of the fat circulating in the bloodstream. A technique called lipidomics provides a more detailed inventory, revealing differences among lipid classes that conventional measurements may miss.",
-        "The type of fat you eat helps shape how your body processes and stores it. Replacing saturated fats with unsaturated fats can improve blood lipid profiles and reduce inflammation, helping address the cardiometabolic risks associated with unhealthy diets.",
-        "Even saturated fatty acids are not a uniform group. Very long chain saturated fatty acids (VLCSFA), which contain more than 20 carbon atoms, may have distinctive metabolic effects. Peanuts, which are legumes, supply these fats alongside monounsaturated fatty acids.",
-        "Dr. Inés Domínguez-López and Professor Matthias Schulze at the German Institute of Human Nutrition Potsdam-Rehbruecke worked with University of Barcelona researchers to investigate how peanuts influence this broader lipid landscape.",
-        "They began with ARISTOTLE, a randomized controlled trial involving 63 healthy adults ages 18 to 33. For six months, participants consumed either 25 grams (0. 88 ounces) of skin-roasted peanuts, 32 grams (1. 13 ounces) of peanut butter, or 32 grams (1. 13 ounces) of a control butter containing peanut oil each day.",
-        "Using high-resolution mass spectrometry, an approach known as “deep lipidomics,” the team identified a characteristic pattern of blood fats following peanut consumption. They called it the “Peanut Lipidomic Signature” (PeLS).",
-        "Peanut consumption significantly increased certain very long-chain saturated fatty acids, particularly C24:0 and C22:0. These were preferentially incorporated into specific lipid classes, including ceramides, through processes involving enzymes that lengthen fatty acid chains.",
-        "“This is not merely a simple increase in fat levels but a complex ‘remodeling’ of the lipidome,” explains first author Domínguez-López.",
-        "“By characterizing this specific peanut lipid signature, we have uncovered a potential biological marker that links dietary fat quality to metabolic outcomes,” explains Schulze.",
-        "The researchers then examined samples and records from EPIC-Potsdam, a long-term population study with more than 27,000 participants. Its data included people who developed type 2 diabetes (774 cases) and cardiovascular disease (545 cases).",
-        "The peanut lipid signature was associated with a lower risk of type 2 diabetes, but not cardiovascular disease. Much of the relationship with diabetes was statistically explained by body mass index (BMI)."
+        "A nutrient known for helping the body burn fat may also cause inflammation when the immune system is in overdrive.",
+        "Yale researchers found that L-carnitine, a nutrient abundant in red meat and widely used in exercise and weight-loss supplements, could worsen severe inflammation in mice. After a bacterial component triggered inflammation and sharply lowered blood levels of L-carnitine, restoring the nutrient made the animals sicker, suggesting the decline was protective.",
+        "L-carnitine is best known for helping cells turn fat into energy. The body produces it naturally, and skeletal muscle contains particularly high concentrations.",
+        "“L-carnitine helps transport fats into mitochondria so they can be broken down for energy,” says Eric Elliott, MD, PhD, assistant professor of medicine (infectious diseases) at Yale School of Medicine (YSM) and the study’s first author. “In simpler terms, it has become synonymous with fat burning, which is why it has also gained prominence as an exercise and weight-loss supplement.”",
+        "The team was investigating metabolic changes during sepsis, a life-threatening condition in which the body’s response to infection damages its own tissues and organs. Much of that damage can come from uncontrolled inflammation rather than a failure to contain the infection.",
+        "“Sepsis is incredibly challenging,” Elliott says. “Patients with sepsis can become critically ill, and among patients with sepsis treated in intensive care units, some studies report mortality rates approaching 40%.”",
+        "To model the inflammation associated with sepsis, the researchers exposed mice to lipopolysaccharide (LPS), a bacterial component. When L-carnitine levels in the animals’ blood dropped sharply, the team tested whether restoring the nutrient would improve their outcomes.",
+        "“We predicted giving carnitine back to these animals might improve their outcomes, but they actually did much worse,” Elliott says. “That told us the reduction in carnitine was an adaptive response.”",
+        "To understand why, the researchers conducted experiments in mouse and human immune cells. They found that L-carnitine activated part of the cell’s internal alarm system called the pyrin inflammasome. This triggered an inflammatory response involving the immune signaling molecule IL-17 and increased deaths among the mice.",
+        "“What was particularly striking was how detrimental IL-17 was in this model,” Elliott says. The team now wants to investigate whether blocking IL-17 might eventually help a subset of patients with sepsis, although that possibility remains untested.",
+        "The findings offer a potential research direction in a field where treatment advances have been limited. “We have made frustratingly little progress in improving sepsis treatment beyond learning how to better deliver fluids, antibiotics, and medications that support blood pressure,” Elliott says.",
+        "Because skeletal muscle contains high levels of L-carnitine, the researchers suspected that its release from damaged muscle could help drive inflammation. Senior author Andrew Wang, MD, PhD, associate professor of medicine (rheumatology, allergy & immunology) and of immunobiology at YSM, says the pathway may have implications beyond sepsis.",
+        "“There is tantalizing genetic evidence that the pathway we uncovered could be contributing to inflammation in a variety of diseases, particularly diseases in which muscle involvement has perhaps been thought to be a casualty of the disease rather than a potential driver,” Wang says.",
+        "The team found support for this idea in rhabdomyolysis, a condition in which skeletal muscle rapidly breaks down and releases its contents into the bloodstream, potentially causing acute kidney injury. In a mouse model, L-carnitine transport and pyrin inflammasome activation contributed to inflammation, suggesting that immune cells may interpret L-carnitine released from damaged muscle as a warning signal."
       ],
       "external": true,
       "order": 13
+    },
+    {
+      "id": "scitechdaily-new-x-ray-technology-captures-4-6-times-more-light-without",
+      "title": "New X-Ray Technology Captures 4.6 Times More Light Without Losing Sharpness",
+      "dek": "Scientists have developed a new approach to X-ray imaging that captures significantly more light without sacrificing image sharpness.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T00:39:15.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/new-x-ray-technology-captures-4-6-times-more-light-without-losing-sharpness/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Scientists have developed a new approach to X-ray imaging that captures significantly more light without sacrificing image sharpness.",
+        "A major obstacle to sharper X-ray images is that much of the light generated inside detectors never reaches the camera. Researchers have developed a nanostructured surface that increased average light output by 4. 64 times and improved the imaging signal-to-noise ratio by 13 decibels. The experimental system also maintained spatial resolution finer than 25 μm (about 0. 001 inch).",
+        "Developed by scientists at Chongqing University, the 26th Institute of CETC, and Stevens Institute of Technology, the approach could help X-ray detectors produce clearer images when very few photons are available. Potential applications include medical scans using lower radiation doses, security screening, and detailed industrial inspections.",
+        "X-ray imaging relies on materials called scintillators to convert invisible X-ray radiation into visible light. These “photosensitive” components act as a “translator,” converting the “language” of high-energy radiation into optical signals that cameras or photodetectors can capture and turn into images.",
+        "High-density inorganic scintillators (such as GAGG) are particularly effective at absorbing X-rays and generating light, but much of that light cannot escape. Because these materials have a substantially higher refractive index than their surroundings, light striking the surface at certain angles undergoes total internal reflection. Up to 90% of the generated photons can become trapped in guided optical modes, reducing the amount of light available for imaging.",
+        "This problem becomes more severe when detectors operate with weak X-ray signals. Increasing scintillator thickness can improve X-ray absorption, but it also allows light to spread sideways before detection, reducing image sharpness. Thinner scintillators preserve fine details but can produce weaker signals.",
+        "The researchers addressed this trade-off by modifying how light escapes the scintillator rather than increasing its thickness. Their design uses a photonic crystal, a regularly repeating nanoscale structure that changes how light travels through a material.",
+        "Through a process known as Bragg diffraction, the periodic structure provides additional momentum that allows previously trapped light to escape into free space. This increases the amount of visible light reaching the detector without requiring a thicker scintillator.",
+        "Manufacturing such structures over large areas has been difficult. Conventional lithography offers precise patterning but requires costly equipment and complicated processing, particularly on brittle scintillator surfaces. Simpler self-assembly techniques can cover larger areas, but cracks, missing particles, and poorly aligned crystal regions can reduce light extraction and introduce imaging artifacts.",
+        "The team developed a self-assembly technique that uses the Marangoni effect, in which differences in surface tension drive liquid movement. By combining ethanol and water, the researchers created surface tension gradients that helped organize polystyrene nanospheres into a highly ordered layer.",
+        "Surfactants helped pack the particles more tightly, while a vibration-free drainage process transferred the assembled structure onto a 25 mm (about 0. 98 inch) diameter GAGG scintillator wafer. The resulting photonic crystal consisted of a continuous monolayer of nanospheres arranged in a hexagonal close-packed pattern.",
+        "The research was led by Associate Professor Feng Peng of Chongqing University, working with Dr. Ding Yuchong of the 26th Institute of CETC and PhD candidate Kaifeng Liu of Stevens Institute of Technology. Their paper was published in Opto-Electronic Advances .",
+        "The experimental findings demonstrate that modifying the scintillator surface can substantially improve light extraction while preserving fine image details. This approach could be particularly useful in photon-starved conditions, where limited X-ray exposure makes it difficult to distinguish weak signals from background noise.",
+        "Further development is still needed before the technology can be widely adopted. Residual structural defects can affect spatial resolution, and the researchers plan to refine the assembly process and investigate compatibility with other scintillator materials."
+      ],
+      "external": true,
+      "order": 14
     },
     {
       "id": "conversation-zombies-are-real-just-ask-the-parasites-taking-over-the-bo",
@@ -557,7 +611,7 @@
         "Tara Deans receives funding from the National Institutes of Health."
       ],
       "external": true,
-      "order": 14
+      "order": 15
     },
     {
       "id": "nasa-nasa-releases-max-power-key-events-for-media-participants",
@@ -588,7 +642,7 @@
         "A short list of key NASA activities during MAX POWER are listed below. All times are listed in Eastern Standard Time, and are subject to change."
       ],
       "external": true,
-      "order": 15
+      "order": 16
     },
     {
       "id": "nasa-news-nasa-releases-max-power-key-events-for-media-participants",
@@ -619,7 +673,7 @@
         "A short list of key NASA activities during MAX POWER are listed below. All times are listed in Eastern Standard Time, and are subject to change."
       ],
       "external": true,
-      "order": 16
+      "order": 17
     },
     {
       "id": "conversation-from-18th-century-false-ballots-to-the-second-jfk-and-doub",
@@ -666,7 +720,7 @@
         "The state of Washington is an outlier, where it is a felony to run under a rival’s surname if the intent is to confuse voters . In 2024, two Bob Fergusons were recruited by conservative activist Glen Morgan to run for governor against state Attorney General Bob Ferguson. Both opted to drop out of their race under threat of prosecution."
       ],
       "external": true,
-      "order": 17
+      "order": 18
     },
     {
       "id": "nasa-nasa-explores-potential-commercial-servicing-for-hubble-te",
@@ -703,7 +757,7 @@
         "Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…"
       ],
       "external": true,
-      "order": 18
+      "order": 19
     },
     {
       "id": "nasa-news-nasa-explores-potential-commercial-servicing-for-hubble-te",
@@ -740,7 +794,7 @@
         "Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…"
       ],
       "external": true,
-      "order": 19
+      "order": 20
     },
     {
       "id": "conversation-allegheny-county-is-reassessing-every-property-heres-how-y",
@@ -787,7 +841,7 @@
         "That understanding will matter more as the reassessment gets underway. When new values take effect, some homeowners will see their share of the tax burden rise and others will see it fall. The direction depends on how their property’s value has changed compared with changes of other similar properties since 2012."
       ],
       "external": true,
-      "order": 20
+      "order": 21
     },
     {
       "id": "conversation-why-achieving-your-goals-can-leave-you-feeling-so-empty",
@@ -834,7 +888,7 @@
         "The Greeks offer another kind of striving, one that locates pleasure in the pursuit itself rather than in the prize. In Plato’s “ Phaedrus ,” Socrates describes eros as giving the soul wings and treats philosophy as a love of wisdom no one can own."
       ],
       "external": true,
-      "order": 21
+      "order": 22
     },
     {
       "id": "conversation-florida-department-of-health-considers-dropping-4-school-v",
@@ -881,7 +935,7 @@
         "Unfortunately, it’s been difficult to know current measles rates in Florida. In May 2026, the Florida Department of Health removed county-level disease data from its website. The data has since been replaced, but there is currently no measles dashboard to track cases in the state. The department’s 2026 counts have often been delayed , and public tracking systems disagree on the statewide total."
       ],
       "external": true,
-      "order": 22
+      "order": 23
     },
     {
       "id": "conversation-figuring-out-where-cosmic-neutrinos-come-from-is-tricky-ra",
@@ -927,7 +981,7 @@
         "Yjan Gordon does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
-      "order": 23
+      "order": 24
     },
     {
       "id": "conversation-how-moving-civil-rights-enforcement-out-of-the-us-departme",
@@ -972,53 +1026,6 @@
         "But shifting OCR’s enforcement responsibilities to the Department of Justice will mean that students lose their guarantee that a federal agency will review and evaluate their allegations that a school district violated their civil rights.",
         "Another distinction is that the Office for Civil Rights typically resolves complaints on its own, without involving federal courts.",
         "OCR has traditionally aimed to resolve complaints within 180 days of receipt , because unresolved discrimination hinders students’ ability to learn."
-      ],
-      "external": true,
-      "order": 24
-    },
-    {
-      "id": "conversation-are-american-voters-actually-gloomy-about-the-economy-or-i",
-      "title": "Are American voters actually gloomy about the economy, or is something else going on?",
-      "dek": "Polling is looking grim for Republicans ahead of the U. S. midterm elections on Nov. 3, 2026, due in large part to deep pessimism among the public about the economy.",
-      "category": "社会",
-      "tags": [
-        "The Conversation"
-      ],
-      "date": "2026-10-30",
-      "publishedAt": "2026-10-30T12:13:27.000Z",
-      "source": {
-        "name": "The Conversation",
-        "license": "CC BY-ND 4.0",
-        "licenseLabel": "CC BY-ND 4.0",
-        "url": "https://theconversation.com/are-american-voters-actually-gloomy-about-the-economy-or-is-something-else-going-on-295476"
-      },
-      "cover": "books",
-      "accent": "blue",
-      "paragraphs": [
-        "Polling is looking grim for Republicans ahead of the U. S. midterm elections on Nov. 3, 2026, due in large part to deep pessimism among the public about the economy.",
-        "At first glance, this might seem surprising. With the exception of inflation , many economic measures remain strong, including gross domestic product growth . But consumer sentiment continues to languish .",
-        "This has prompted a debate over whether mere “vibes” are in play, or whether these long-used metrics are no longer capturing something fundamental to Americans’ economic well-being.",
-        "This debate matters politically because voters are placing an overwhelming priority on the economy as an issue in the midterms. A Pew Research survey in early October 2026 found that 84% of registered voters said the economy was very important to their vote, and the concern is bipartisan. Among the issues in that Pew survey, for example, “the economy” was the least polarizing, with 82% of Republicans and 88% of Democrats ranking it as very important.",
-        "Meanwhile, the overall drop in voters’ economic outlook has largely been driven by growing pessimism among Republicans. While Democrats remain much gloomier about the economy than Republicans, the gap is narrowing.",
-        "These trends help explain why Democrats are expected to make significant gains in Congress: This election will likely be seen as an indictment of how well the economy is working for ordinary Americans under President Donald Trump and the Republican-controlled Congress, despite strong macroeconomic measures.",
-        "As a scholar of financial markets and global inequality , I believe the relationship between how people see their own finances and their view of the broader economy is also changing on a more fundamental level. And this shift will affect how they judge the next class of lawmakers in power.",
-        "When scholars try to understand how people judge the economy – and how they separate their own personal circumstances from the broader economy – one of their key reference points is the University of Michigan’s consumer sentiment index . It asks respondents about their personal finances, their short-term and long-term economic outlook, and whether they think it’s a good time to make major purchases.",
-        "This gauge has historically tracked key economic measures of consumer spending and inflation: The state of the broader economy usually shapes the way people think about their own financial well-being.",
-        "But in recent years, these have diverged . By many measures, the economy is doing well, but people feel they’re falling behind. And this has only become more pronounced ahead of the midterms.",
-        "Despite strong consumer spending , robust business investment and low unemployment , consumer sentiment keeps slipping and is now 10% below where it was a year ago, according to the Michigan index.",
-        "Some commentators point to ongoing inflation as the reason for gloom. It has remained stubbornly above the Federal Reserve’s annual 2% target rate due to drivers like tariffs, energy price hikes stemming from Middle East turmoil, and massive amounts of investment in the artificial intelligence build-out.",
-        "But what’s really happening is that consumer sentiment data and inflation data have become untethered. Inflation has actually dropped sharply from its 21st-century peak of 9. 1% in June 2022 after the pandemic to 3. 7% in September 2026, but consumer sentiment is lower now than it was even then.",
-        "What about wages? Here, too, the data also doesn’t fully explain this disconnect. While inflation makes consumer goods pricier, it also lifts pay. Inflation-adjusted wages actually increased between 2022 and the first half of 2026, all while consumer sentiment remained weak. What has changed in recent months is that inflation-adjusted wages are now falling – which could help explain the darkening outlook among voters.",
-        "One possibility is that deeply entrenched inequality explains this divergence.",
-        "Compared with other eras of moderate-to-high inflation, the U. S. economy today is much more unequal . Income inequality has increased over the past 20 years, narrowing only during the 2008 and 2020 crises before quickly widening to prior levels.",
-        "This trend is important for understanding which consumers are shelling out cash. The Fed has consistently cited strong consumer spending in its economic assessments, but the richest 10% of Americans account for half of that spending today . Meanwhile, spending by the bottom 80% of earners has fallen behind inflation.",
-        "In other words, the strong total consumer spending figures reported as official data are being driven by very wealthy Americans and fail to reflect the experience of typical consumers who are the bulk of the electorate.",
-        "This trend of increasing inequality has been particularly acute in terms of wealth : The top 0. 1% of American households together own five times as much wealth as the bottom 50%. Much of this reflects the uneven gains of the stock market boom and how wealth is taxed.",
-        "In short, Americans’ economic malaise might be driven by concerns over income and wealth that conventional measures don’t fully capture.",
-        "When it comes to consumer surveys like the University of Michigan index, economists generally assume that the answers reflect the personal experience of respondents.",
-        "But I agree with other scholars who argue that sometimes these answers may be based less on people’s own circumstances and more on how they view the economy as a whole. This assessment could reflect, for example, concerns like equity, equality of opportunity and economic justice.",
-        "When responses are driven by a concern for collective well-being rather than just personal material self-interest, social scientists refer to such perceptions as “sociotropic.”",
-        "This last point isn’t just theoretical. Research suggests voters tend to weight their perceptions of the economy more heavily than their personal financial circumstances when deciding whether to vote for the incumbent party."
       ],
       "external": true,
       "order": 25
