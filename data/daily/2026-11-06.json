@@ -1,0 +1,1100 @@
+{
+  "generatedAt": "2026-11-05T23:19:53.429Z",
+  "date": "2026-11-06",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-pinning-down-the-structure-of-quark-gluon-plasma-the-unive",
+      "title": "Pinning down the structure of quark-gluon plasma, the universe's first fluid",
+      "dek": "In the first fraction of a second following the Big Bang, matter existed as a trillion-degree plasma of quarks and gluons—subatomic particles that zinged around at close to…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T23:10:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-pinning-quark-gluon-plasma-universe.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "In the first fraction of a second following the Big Bang, matter existed as a trillion-degree plasma of quarks and gluons—subatomic particles that zinged around at close to the speed of light. This roiling soup lasted for just a few microseconds before the particles coalesced into more stable protons and neutrons.",
+        "To study this primordial fluid, scientists recreate quark-gluon plasma in large particle accelerators, where ions are smashed together at close to the speed of light. These collisions create droplets of plasma roughly the size of an atomic nucleus that exist for only tens of septillionths of a second.",
+        "One way scientists study this plasma is by tracking other particles, such as heavy quarks, that are not part of the plasma but happen to move through it. The way a heavy particle moves through a fluid should tell something about the microscopic structure of the fluid itself. This general relationship was established famously by physicist Albert Einstein in 1905.",
+        "But in such extreme conditions, where particles are moving at close to the speed of light, something in Einstein's theory starts to break down; there are interactions within the plasma that the theory can't quite capture.",
+        "Now, physicists at MIT and the University of California at Santa Barbara (UCSB) have taken up where Einstein's theory left off. They have worked out a theory that predicts how a relativistic particle, moving at close to the speed of light, is likely to be pushed and pulled by a fluid as it flies through it.",
+        "The researchers envision that the new theory could be applied to predict how a heavy quark will move through quark-gluon plasma. Such predictions could then be compared to experiments to characterize the microscopic structure of quark-gluon plasma and what kind of fluid must have existed in the universe's first moments.",
+        "\"Our result reveals a new source of information carried by heavy quarks in rare, unusually large changes in their motion,\" says Jean Du Plessis, a graduate student in MIT's Center for Theoretical Physics—a Leinweber Institute. \"How often those large changes occur depends on the microscopic nature of the plasma, raising the possibility that they could provide a new way to learn what the quark-gluon plasma is actually like inside.\"",
+        "Du Plessis and Bruno Scheihing-Hitschfeld of the Kavli Institute for Theoretical Physics at UCSB report their findings in Physical Review Letters .",
+        "In 1905, Einstein developed a theory to describe a particle's motion through fluid and how that motion can reveal the fluid's microscopic structure. His theory was inspired by the botanist Robert Brown. In 1827, Brown observed a surprising phenomenon: Grains of pollen appeared to randomly jiggle and swirl when suspended in seemingly still water. This curious jittering of particles in fluid was later named \"Brownian motion.\"",
+        "Einstein's 1905 theory showed that Brownian motion was a product of invisible, microscopic forces within the fluid. A particle's motion is a balance between the drag that the fluid exerts on the particle to slow it down and the random kicks within the fluid that keep the particle moving. These random kicks, Einstein argued, must come from microscopic forces within the fluid, exerted by none other than the atoms and molecules that make up the fluid. The energy of these microscopic particles can add up to kick and jostle larger particles.",
+        "Since he first published his theory, scientists have applied Einstein's explanation of Brownian motion to characterize a host of fluids, including quark-gluon plasma. As with most other fluids, it was assumed that a particle moving through quark-gluon plasma should experience a similar balance of microscopic kicks as a grain of pollen moving through water.",
+        "This balance is represented by a bell-shaped probability distribution, where a particle is most likely to experience medium-strength kicks (the highest point of the bell) and has an equally low probability of experiencing the most extreme kicks (the tail ends of the bell) as the particle moves through and eventually settles into a fluid."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-what-ai-can-lose-when-it-makes-holocaust-writings-easier-t",
+      "title": "What AI can lose when it makes Holocaust writings easier to read",
+      "dek": "In an Amsterdam prison during the Nazi occupation, Sal Bramson drew his cell on pieces of cotton cloth. ",
+      "category": "科技",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T23:00:05.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-ai-holocaust-easier.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "In an Amsterdam prison during the Nazi occupation, Sal Bramson drew his cell on pieces of cotton cloth. He added handwritten explanations and sent these messages to his mother, concealed inside a shirt collar among the prison laundry. The cloth could travel because it passed as something ordinary. Its material was part of what made communication possible.",
+        "I study Holocaust writings that survive on fragile or improvised surfaces. In these objects, the words and the things carrying them remain intimately connected. Bramson's captions guide his mother's eye around his cell. His drawings give shape to the space he describes. The small, crowded textile carries both his account of confinement and evidence of his effort to reach her.",
+        "What happens to these relationships when an archival object becomes data?",
+        "AI and other computational tools can make historical collections easier to search, transcribe and translate. These are substantial gains. A person unable to decipher handwriting or read the original language may encounter a document that would otherwise remain inaccessible. Yet the process of making words available can also obscure the material evidence through which they survive.",
+        "My recent study , published in AI & Society , examines this problem through a concept I call \"material uncertainty.\" It describes writing whose meaning remains bound to the damaged, improvised or unstable form in which it reaches us. The uncertainty may concern the circumstances of composition, the surface carrying the words, their intended recipient or the route by which the object entered an archive. These relationships shape what the writing allows us to know, including what remains unresolved.",
+        "I followed digital reproductions of three Holocaust writings through a sequence of computational operations: enhancing images, separating regions, recognizing handwriting, correcting and translating text, and generating descriptions for searchable records. I examined what each operation preserved or weakened. I used these deliberately difficult cases to trace how particular workflows change an object's representation. The study makes no claim to measure AI's overall accuracy.",
+        "Bramson's cloth showed how an apparently helpful operation could complicate interpretation. Suppressing the visible weave made some marks easier to distinguish. Separating drawings from writing helped organize the image for processing. But the textile was the means of concealment, and the captions and drawings worked together to address his mother. Handwriting recognition also produced fragments that correction could make plausible without establishing what Bramson had actually written.",
+        "A second object was an illustrated pencil poem by Eva Schulzová, a child imprisoned in Terezín. Her page moves between the camp's exterior, the women's bunks and an imagined meal of turkey and cake. The placement of words and drawings participates in that movement. She was later deported to Auschwitz-Birkenau, where she was murdered.",
+        "The workflow recovered much of her verbal text. Yet its generated description listed the illustrations without adequately representing their relationship to the poem. It described the imagined meal as a \"food still life.\" I read that imagined abundance in relation to the child's confinement and hunger. The label gives little sense of that relationship. A searchable description can be informative and still leave the reader far from the work it describes.",
+        "Eliezer Heiman's paired clay tablets posed a different difficulty. Inscribed in Hebrew while he was in hiding in the Kovno ghetto, they record names and address future generations. Their paired form recalls the biblical Tablets of the Law. The surviving surface bears smoke staining and flaking, while the letters are cut into the clay.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "In a photograph, shadows cast by engraved letters and damaged areas can look alike. The workflow could enhance some features but could not reliably separate inscription from deterioration. Here, the problem began with how the object was photographed. Imaging it under multiple lighting directions could better record its relief.",
+        "That distinction matters for anyone building an archive. Some evidence is missing because the initial image never captured it. Other evidence is visible in the image but becomes less accessible when processing separates elements that belong together. These problems require different responses."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-new-research-explores-how-offshore-wind-development-may-al",
+      "title": "New research explores how offshore wind development may alter marine food webs",
+      "dek": "As offshore wind development expands along the U. S. Atlantic Coast, understanding its potential effects on marine ecosystems is increasingly important.",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T23:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-explores-offshore-marine-food-webs.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "As offshore wind development expands along the U. S. Atlantic Coast, understanding its potential effects on marine ecosystems is increasingly important.",
+        "A newly published study in Scientific Reports , led by Kim Lato, a BRI scientist and postdoctoral research associate at the University of New Hampshire, examines how offshore wind infrastructure may alter seafloor communities, marine food webs and the movement of energy through marine ecosystems.",
+        "The study, \"Assessing potential impacts of offshore wind development on U. S. marine ecosystems using food web modeling,\" is the first publication from BRI's Projecting the Effects of Offshore Wind-Mediated Benthic Changes on U. S. Marine Ecosystems project .",
+        "Offshore wind turbine foundations and associated structures introduce hard surfaces into marine environments that are often dominated by soft sediments. These structures can function as artificial reefs , creating habitat for organisms such as mussels, barnacles and other invertebrates. As these communities develop, they may alter how energy and nutrients move through the marine food web, potentially affecting fish and other marine species.",
+        "To investigate these changes, Lato and an international team of collaborators synthesized existing ecological data and developed food web models for three offshore wind development sites in the U. S. Atlantic. The models compared conditions before construction to observed (or projected) conditions approximately four years after construction, allowing researchers to explore potential changes in ecosystem structure, function and stability.",
+        "The results suggest that offshore wind development may contribute to shifts toward more mature and stable marine food webs, although responses varied across study sites and ecological measures.",
+        "The study identified sediment-dwelling invertebrates as particularly important to food web dynamics across the modeled scenarios. Among organisms associated with turbine structures, bivalves such as mussels emerged as especially influential, highlighting their potential role in altering energy flows and interactions among marine species.",
+        "Researchers also identified significant gaps in existing ecological data, particularly concerning microorganisms and the processes that recycle organic matter and nutrients within marine food webs.",
+        "These findings provide a foundation for identifying research priorities and improving environmental monitoring as offshore wind development continues along the Atlantic Coast. The research provides a framework for investigating how offshore wind infrastructure may influence marine ecosystems and informing future conservation and management decisions.",
+        "Swati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has experience editing research documents across technology, health care, and materials science, and has a particular interest in technology and space. Full profile &rarr;",
+        "Food web models for three U. S. Atlantic offshore wind sites suggest development may increase ecosystem maturity and stability, with site-specific responses. Sediment-dwelling invertebrates and turbine-associated bivalves were key to modeled food web dynamics. Data gaps concerning microorganisms and nutrient recycling limit ecosystem assessments.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors.",
+        "Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-leaf-nutrient-balance-helps-explain-earlier-fall-color-in-",
+      "title": "Leaf nutrient balance helps explain earlier fall color in US forests",
+      "dek": "For devout leaf peepers, timing is everything. A new study led by researchers from Duke University's Nicholas School of the Environment shows that leaf nutrient levels affect…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T22:40:05.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-leaf-nutrient-earlier-fall-forests.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "For devout leaf peepers, timing is everything. A new study led by researchers from Duke University's Nicholas School of the Environment shows that leaf nutrient levels affect the onset of fall color. The findings, published in Nature Communications , could improve leaf drop forecasts and carbon cycle tracking.",
+        "Starting roughly in September in the United States, deciduous trees—species that seasonally drop their leaves—stop making the green pigment chlorophyll, used in photosynthesis. As other pigments become visible, leaves shift to shades of turmeric and crimson before dropping off. By mid-November, most deciduous trees are bare.",
+        "That process, called senescence, is a tree's way of conserving energy for winter. As days shorten, less sunlight is available to leaves to convert carbon dioxide from the air into life-sustaining sugars. Photosynthesis, which is energy-intensive, basically becomes more trouble than it's worth for several months.",
+        "Although trees in a given locale start changing color at roughly the same time each year, environmental factors such as temperature and rainfall can affect autumn leaf senescence. For example, more rain during autumn can extend how long leaves cling to trees.",
+        "Nutrients in leaves also play a role in senescence. For instance, the elements nitrogen, phosphorus and potassium regulate critical leaf processes, including chlorophyll production and the transport and use of sugars.",
+        "Those same nutrients are also important components of fertilizers used on crops. Their release into the environment could disrupt the balance of nutrients in leaves and therefore alter the timing of senescence, according to Tong Qiu, assistant professor of ecology at the Nicholas School, who oversaw the new study.",
+        "However, measuring nutrient levels in leaves has traditionally been labor-intensive and expensive, inhibiting evidence-based research on autumn senescence. \"Usually, measuring nutrients requires people to collect leaves and go back to the lab and do an experiment to quantify their concentrations,\" Qiu says.",
+        "To work around those obstacles, Qiu and a multi-institutional team turned to the National Ecological Observatory Network, or NEON. NEON assembles troves of ecological data collected by remote-sensing instruments, such as satellites and airplanes, and by researchers in the field.",
+        "The data cover \"a diverse range of ecosystems, from boreal tundra to tropical rainforest and dry forest, and to eastern deciduous forest and western conifers,\" says Hanshi Chen, a Ph. D. candidate at the Nicholas School and the study's first author.",
+        "The team first chose 25 U. S. forests representing different species compositions and locations. Using NEON, they assembled remote-sensing data on hundreds of different wavelengths of light reflected and absorbed by the forests. From that spectral data, they derived information about nutrient content in tree canopies.",
+        "Next, the researchers used statistical models to determine how ratios of nitrogen, phosphorus and potassium affected senescence in each forest.",
+        "They found that higher ratios of nitrogen to phosphorus—that is, more nitrogen, less phosphorus—were associated with earlier senescence across 20 forests, regardless of climate, elevation, species composition and tree canopy structure. By contrast, canopies with a high ratio of nitrogen to potassium were slower to drop leaves.",
+        "\"There seems to be a sweet spot where nitrogen and phosphorus are in balance. If that gets crossed, trees will start changing color earlier,\" Qiu says.",
+        "Further analysis indicated that higher ratios of nitrogen to phosphorus cause stress to leaves, likely causing them to shut down photosynthesis and drop sooner."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-new-research-explores-what-our-appetite-for-a-digital-deto",
+      "title": "New research explores what our appetite for a digital detox can tell us",
+      "dek": "How we feel about taking a break from our screens could tell us something important about the way we behave online, according to new research from the University of Bath and…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T22:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-explores-appetite-digital-detox.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "How we feel about taking a break from our screens could tell us something important about the way we behave online, according to new research from the University of Bath and Goethe University Frankfurt. Researchers have developed the first validated scale specifically designed to measure people's attitudes toward temporarily reducing their digital consumption, finding considerable differences in how positively people view the prospect of switching off.",
+        "The researchers say measuring these attitudes provides a new way to investigate our increasingly complex relationship with digital technology, including what makes people want to disconnect, why some are more receptive to the idea than others and whether that willingness ultimately translates into changes in behavior. More than eight in 10 participants were positive about the idea of a digital detox, suggesting a widespread appetite for switching off, although the study did not test whether they subsequently did so.",
+        "Published in Psychology & Marketing , the research found that attitudes toward digital detox were associated with characteristics including mindfulness and self-control. They could also help predict how much time people subsequently spent watching online videos.",
+        "From work emails and instant messaging to social media, push notifications and AI-driven recommendations, digital technology increasingly competes for our attention. Digital detox, deliberately reducing our use of digital devices for a period of time, has emerged as one response to this constant connectivity.",
+        "Goethe University Frankfurt professor Jan Landwehr said, \"Many people feel overwhelmed by the constant digital information flow and experience a need to switch off. We developed a scientifically validated measurement scale to make this vague positive attitude toward reducing digital activities measurable. And we find that a vast majority of our participants have a latent need to detox from digital activities.\"",
+        "The team developed the Attitude toward Digital Detox (ADD) scale, a seven-item measure of how positively people feel about temporarily reducing their digital consumption. Across seven studies, the researchers tested the scale with a mix of participants, including adult U. S. residents recruited through online research platforms, university students in Central Europe, members of Reddit communities focused on online and offline activities and consumer-behavior experts from European universities.",
+        "Goethe University Frankfurt professor Torsten Bornemann said: \"The scale could now be used to explore when and why people want to reduce their digital consumption and whether changing attitudes toward switching off might ultimately help people take greater control of their relationship with technology.\"",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "A seven-item scale validated across seven studies measures attitudes toward temporarily reducing digital use. Over 80% of participants viewed digital detox positively. Attitudes were associated with mindfulness and self-control and predicted later online video viewing, but whether participants undertook a detox was not tested.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors.",
+        "Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages.",
+        "Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose. The information you enter will appear in your e-mail message and is not retained by Phys. org in any form.",
+        "Get weekly and/or daily updates delivered to your inbox. You can unsubscribe at any time and we'll never share your details to third parties."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-plastic-bags-and-bottles-become-industrial-strength-adhesi",
+      "title": "Plastic bags and bottles become industrial-strength adhesives through new upcycling method",
+      "dek": "Around 450 million metric tons of plastics are produced worldwide each year. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T22:20:05.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-plastic-bags-bottles-industrial-strength.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Around 450 million metric tons of plastics are produced worldwide each year. The major share of this sheer volume is used only once and then winds up in an incinerator or in landfills. This also applies to so-called polyolefins, which include polyethylene (PE) and polypropylene (PP). As packaging materials and films, they account for approximately half of our plastic consumption.",
+        "Although polyolefins can be melted down and recast into new shapes, this process results in significant quality losses. The dyes in the waste impart a dark color to the recycled material, while the heating process damages its quality: as a result, the material is only suitable for low-grade applications such as plant pots or paving slabs.",
+        "So far, it has proved impossible to selectively break down polyolefins into their basic building blocks—the monomers—from which new, high-quality polymers could be synthesized.",
+        "Olefins, which consist exclusively of carbon and hydrogen, lack the oxygen, nitrogen or chlorine atoms required for targeted cleavage reactions. To date, the only feasible method is random breakdown by way of an energy-intensive heating process known as pyrolysis . This produces petroleum-based feedstocks from which the monomers must be rebuilt.",
+        "Now, a team of researchers led by polymer chemist and ETH Professor Tae-Lim Choi has developed a process that allows polyolefins to be upcycled into higher-value plastics, rather than simply being recycled in a manner that reduces their value. To achieve this, they graft additional polymer chains with new functionalities onto the plastics.",
+        "The research is published in the Journal of the American Chemical Society . ETH Zurich has patented the process and nominated it for the Spark Award.",
+        "Hongsik Kim, the senior scientist in Choi's group who was primarily responsible for developing the method, produced adhesives as the first product using standard plastic bags and bottles. Their adhesive strength with various materials such as metal, glass or wood meets the requirements for an industrial adhesive employed in load-bearing and high-stress joints in vehicle or equipment manufacturing.",
+        "The range of potential applications, however, is much broader: the additional polymer chains allow the entire spectrum of chemical functionalities to be introduced into polyolefins: from polar groups that interact with water to varying degrees, through acids and bases, to chemical groups capable of undergoing very specific reactions.",
+        "Chlorinated solvents are a key chemical component of the process. When irradiated with short-wavelength light, these solvents can generate highly reactive individual chlorine atoms, known as radicals. These transfer their reactivity to carbon atoms in the polyolefin chains, resulting in carbon radicals, which can be used as a starting point for the synthesis of additional polymer chains.",
+        "The idea of using chlorinated solvents to create reactive sites in the polyolefin chains stems from a collaboration between Choi and the group led by Athina Anastasaki, Professor of Sustainable Polymers at ETH Zurich. She has applied this principle to the recycling of acrylic glass, also known under the brand name Plexiglas.",
+        "The major advantages of the newly patented method are the fact that it is extremely simple, does not require expensive special reagents or catalysts, and does not necessitate high process temperatures.",
+        "The entire process takes place in a single step: the plastic waste is dissolved in a chlorinated solvent, after which the monomers required for the synthesis of the desired graft polymer are added.",
+        "Furthermore, the process can be precisely controlled. \"We are able to control how many radicals are generated—and consequently how many sites in the polyolefin chains are activated for grafting—by adjusting the degree of chlorination of the solvent and the wavelength of the light as required,\" explains Kim.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "conversation-black-michiganders-helped-push-abdul-el-sayed-to-victory-b",
+      "title": "Black Michiganders helped push Abdul El-Sayed to victory – but the numbers show he was less popular with this key voting block than some other Democratic candidates",
+      "dek": "Progressive Abdul El-Sayed’s victory in Michigan’s U. S. Senate race was one of the most-watched contests in the 2026 midterm elections.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T20:56:31.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/black-michiganders-helped-push-abdul-el-sayed-to-victory-but-the-numbers-show-he-was-less-popular-with-this-key-voting-block-than-some-other-democratic-candidates-289777"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Progressive Abdul El-Sayed’s victory in Michigan’s U. S. Senate race was one of the most-watched contests in the 2026 midterm elections.",
+        "As the results for this race came in, I had my eye on one demographic: Black voters. I am a political scientist who studies Black political behavior. My research has been published in numerous journals , as well as in my forthcoming book, “Black Resilience,” which examines Black voters’ political participation.",
+        "The support of Black voters for El-Sayed was not a given. In the August primary, 62% of Detroit voters chose U. S. Rep. Haley Stevens over El-Sayed. Many pundits predicted it would be difficult for El-Sayed to gain support in Detroit, which is about 75% Black .",
+        "After the primary, El-Sayed made overtures by sharing his plans to improve the lives of Black Americans, which included supporting the growth of minority-owned businesses, creating more affordable housing, eliminating food deserts and expanding the Rx Kids cash assistance program nationwide.",
+        "About 91. 8% of Detroit voters supported El-Sayed in the general election, according to the city’s unofficial results . Detroit City Clerk Janice Winfrey said 209,924 residents voted in the 2026 midterms , up about 21% from the 2022 midterm elections. For the 2024 presidential election, 247,770 city residents cast a ballot.",
+        "In fact, El-Sayed received 70. 6% of Wayne County votes , which includes Detroit. In 2024, Kamala Harris received 62. 7% of the vote in Wayne County .",
+        "In the 2024 presidential election, Michigan’s Democratic vote share fell to 48. 3% , from 50. 6% in 2020 , as the state went for Donald Trump instead of Democratic nominee Harris.",
+        "Despite their ideological differences, Sen. Elissa Slotkin and El-Sayed drew similar support among Black voters. In 2024, Slotkin – a moderate Democrat – won 48. 6% of the vote, a small margin over Mike Rogers, who was the Republican candidate in that race. In 2026, El-Sayed defeated Rogers statewide by a substantially wider margin, winning 52% of the vote.",
+        "In other words, these early election results do not indicate whether Black voters embraced El-Sayed’s progressive platform or simply voted for the Democratic candidate. Voters may have been rejecting Republican Party politics or expressing anger toward Trump over pocketbook issues.",
+        "Researchers from Michigan State University found that precincts with more than 80% of Black voters supported Democratic statewide candidates over Republicans at a rate of 92% to 94% during the 2024 general election, which is only slightly lower than the 94% to 95% levels observed in similar precincts during the 2020 contest between Trump and Joe Biden.",
+        "Even while Black voters overwhelmingly support Democrats, small shifts in their support and turnout can influence the outcome of close and competitive races. These shifts may help explain differing outcomes, including El-Sayed’s victory in 2026 and Harris’ defeat there in 2024.",
+        "While Black voter support for El-Sayed was high, estimated at around 86% statewide , Gov. Gretchen Whitmer’s support among Black voters was about 94% in the 2022 gubernatorial race, according to an ABC exit poll .",
+        "Similarly, preelection polling indicated that Jocelyn Benson, the Democratic nominee for governor, polled more favorably among nonwhite voters compared to El-Sayed . NBC exit poll data shows that 86% of Black voters in Michigan supported El-Sayed, while 90% supported Benson , who won the governorship over Republican John James.",
+        "Black voters are often strategic voters who support the candidate they believe best aligns with Black interests, which has usually been the Democratic candidate since the Civil Rights Movement.",
+        "Generally, Black voters have made their electoral choices based on what’s believed to be best for the group as a whole – a concept described by political scientist Michael C. Dawson as linked fate .",
+        "However, recent research shows that Black social networks and institutions, including churches and civic organizations, reinforce expectations of political solidarity . Weaker ties to these networks may lessen the social pressure that encourages Black Americans to participate in politics and support Democratic candidates.",
+        "Lower participation by Black Americans could lead to elected officials paying less attention to issues important to Black voters, such as affordability and the cost of living, healthcare, and reducing racial discrimination . If officials assume Black voters will remain loyal to Democrats, they’re under less pressure to win their votes by addressing their concerns.",
+        "My research has demonstrated that after the 2024 election, Black women in particular felt frustrated with the Democratic Party, yet they participated in elections despite these frustrations.",
+        "El-Sayed was part of a field of notable Democratic candidates in this election cycle. For example, Angie Nixon, a state representative in Florida, championed affordability alongside a moratorium on evictions and a universal jobs program , while James Talarico, a former schoolteacher in Texas, focused on public education.",
+        "El-Sayed is a former public health official who had not previously held elected office. This may have turned off some Black voters who often value governing experience . El-Sayed advocated for Medicare For All and lowering the costs of gas prices and groceries.",
+        "Although he doesn’t identify as a democratic socialist, El-Sayed campaigned with several progressive elected officials, such as U. S. Rep. Alexandria Ocasio-Cortez. U. S. Sen. Bernie Sanders endorsed El-Sayed on the day he announced his candidacy in 2025. El-Sayed also campaigned with the Black establishment, including U. S. Rep. Jim Clyburn of South Carolina. Former President Barack Obama spoke at a rally for El-Sayed in Detroit in October 2026.",
+        "Stevens, who lost the Democratic nomination to El-Sayed in the primary, endorsed Republican Mike Rogers after she attended a service with the Republican candidate at a predominantly Black church in Detroit two days before the election . Stevens’ tactic drew severe backlash from Democratic leaders and may have mobilized some Black voters to turn out for El-Sayed on Election Day.",
+        "“I felt like she pimped my community,” one Black voter from Detroit told ABC News in response to Stevens’ last-minute endorsement of Rogers.",
+        "Christine Slaughter does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "scitechdaily-less-sugar-in-early-life-could-protect-your-mental-health-",
+      "title": "Less Sugar in Early Life Could Protect Your Mental Health Decades Later",
+      "dek": "An observational study links sugar rationing in early life to lower adult anxiety and depression risks, raising the possibility that our earliest diets have lasting mental…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T20:07:51.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/less-sugar-in-early-life-could-protect-your-mental-health-decades-later/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "An observational study links sugar rationing in early life to lower adult anxiety and depression risks, raising the possibility that our earliest diets have lasting mental health implications.",
+        "Could the amount of sugar we consume before birth and during infancy influence our mental health decades later? An experiment rooted in postwar Britain suggests that the effects of our earliest diets may extend far beyond childhood.",
+        "During World War II and the years that followed, the United Kingdom strictly rationed sugar, limiting how much families could purchase. When those restrictions ended in September 1953, sugar consumption surged, creating a rare opportunity for scientists to examine how early-life exposure to sugar might shape long-term health.",
+        "A study published in General Psychiatry found that exposure to rationing during early life was associated with a 17% lower risk of anxiety and a 14% lower risk of depression compared with no exposure. The researchers analyzed data from 66,223 UK Biobank participants born around the policy change, linking the timing of their earliest years to health records later in life.",
+        "Because the availability of other foods remained relatively stable when sugar consumption increased, the end of rationing offered a natural experiment. Researchers could compare people who experienced different periods of restricted sugar availability at the start of life. They estimated exposure using birth dates relative to the policy change, with exposure ranging from before birth only to periods extending through about age two.",
+        "That approach tracked exposure to a national policy, rather than measuring what individual mothers or children ate. The researchers did not have individual childhood food records, and unmeasured factors, including other aspects of maternal diet, may have influenced the results. The findings therefore cannot establish that lower sugar intake caused the differences in mental health.",
+        "The strongest associations appeared among people exposed to rationing throughout the first 1,000 days after conception, spanning pregnancy and roughly the first two years after birth. Compared with people without early exposure, this group had approximately 24% lower relative risk of anxiety and 21% lower relative risk of depression. Across the analysis, the association generally strengthened with longer exposure to rationing.",
+        "For participants exposed throughout those first 1,000 days, diagnoses also appeared later in their health records. The first recorded anxiety diagnosis occurred about two years later, and the first recorded depression diagnosis about four years later, than among participants with no early exposure. These findings concern when diagnoses were first recorded, rather than necessarily when symptoms began.",
+        "Early nutrition could potentially influence later mental health through its effects on stress regulation, inflammation, and brain development. The authors drew these possible explanations from previous research, but did not directly test the mechanisms in the UK Biobank analysis. Further studies that measure individual diets and examine other populations will help clarify how dietary conditions during pregnancy and infancy relate to mental health across the life course, and what that relationship could mean for public health.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "THE NEW CURES FOR (PARKINSONS-ALTIMERIZER-BRAIN TUMORS)ARE INTRODCUTIONS FORM THEORTICAL CONCLUSIONS INTO INCLUDED OFTEN BY (DEHARTED & INTERFERMENTED) ANNALYSIS ARE SERIES OFTEN SIMPLE ISSUES BECOME OVER-THE-LEAST ARE THESE MATHAEMATICAL-VIRTUES OF COLLECTIONS ARE NOT DEVISED DEPENDS DESCRIPTIONS OF THREE-REPLACED BY EACH & EVENLY CORRECTED UPON ALL SUMS ARE SEQUENCES DEPENDS ARE VALUES FEATURED-CONTENT NOT INDEX OF ALL LANGUAGES ARE COMPROMISED BY REALITY BIO-INFINITY -PROVES EXTENTIONS OF NUMERICAL VIRTUES OF SIMPLE RESULTS QUESTIONS OF ANY NOTED & COLLECTIONS OF THE REVESRED SIMPLE COMPREHENSIONS ARE AMOUNTS OF THE FOLLOW ALL-CONCEPTS ARE FACTORS OFTEN INTO THESE COMPREHENSIONS ARE VALUES ARE COMPLETED INTO QUESTIONS REPEATED CHEMICAL-BALANCE NEW CELLS AND GENETIC-METHOD OF CURES FOR ALL DISEASAED INNER-CORE QUESTIONS OFTEN RELEASED NTO REFERED FACTORS WITHOUT ALL ‘FEATURES’ A SERIES RESULT INTO COMPREHENSIONS NOT AC COMPLISHED NEGTATIVE-DATA-BASE AND SERIES DUE TO REDUCTIONS INCLUDES ARE RESOURCES DEFINTIONS SERIES ASSUMPTIONS ARE VALUES QUESTIONS INTO ALWAYS -FORMED-CELLS ARE RATIO(S) ACCOMPLISHES FEATURES INTO THESE COMPROMISED NEVER-THE-LEAST IS THEORTICAL, NEVER-THE LESS DESCRIPTIONS COMBINAITONS OF SERIES OFETN ALL INTO ALL DUE THESE “NEW FORMULAS” ARE REPEATED BY SEQUENCES ANNALYSIS INTO THE SIMPLE INNER-CORES ARE INCLUDED BY AMOUNTS FORMED ALL RATIO(S) ARE NOT VALUES OF ALL VIRTUES.",
+        "THE DEHAYRTIONS (OR)FREEZER-TEMEPERTURES ARE VALUES DESCRIPTIONS SERIES INNER-CORE OF SEQUENCES INTO THESE COMBINATIONS ARE VALUES OF AMOUNTS ."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "scitechdaily-animal-vs-plant-protein-new-study-reveals-unexpected-testo",
+      "title": "Animal vs. Plant Protein: New Study Reveals Unexpected Testosterone Differences",
+      "dek": "An observational study of middle-aged men links animal protein to lower testosterone and plant protein to higher levels, but the differences are small, and their health…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T19:32:10.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/animal-vs-plant-protein-new-study-reveals-unexpected-testosterone-differences/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "An observational study of middle-aged men links animal protein to lower testosterone and plant protein to higher levels, but the differences are small, and their health effects remain unclear.",
+        "A protein-rich meal gives the body amino acids, the building blocks it needs to make and repair tissues, including muscle. Testosterone helps regulate muscle growth and also supports bones and sexual function. Food provides essential materials, while hormones help direct what the body does with them.",
+        "That connection makes diet a reasonable place to look when studying testosterone, yet relatively few studies have examined its relationship with protein intake.",
+        "Researchers at the University of Eastern Finland found that men who consumed more animal protein tended to have lower total testosterone levels in their blood. Those who consumed more plant protein tended to have higher levels. The findings do not mean that higher testosterone is necessarily healthier or that one protein source improves hormone function.",
+        "The research, published in the International Journal of Food Sciences and Nutrition , included 2,546 men aged 42 to 60 living in eastern Finland. It drew on the university’s ongoing Kuopio Ischaemic Heart Disease Risk Factor Study. Researchers assessed the men’s diets using four-day food records collected between 1984 and 1989 and measured total testosterone in blood samples. They also measured sex hormone-binding globulin, or SHBG, a protein that binds to sex hormones and influences total testosterone concentrations in the blood.",
+        "Looking at individual foods revealed a distinction that the broad category of animal protein could obscure. Higher dairy protein intake was associated with lower total testosterone and SHBG levels. Meat protein intake was associated with lower SHBG, but it had no association with total testosterone. Among plant foods, higher protein intake from vegetables and sources other than cereal products was associated with higher total testosterone.",
+        "To compare the differences, the researchers divided the men into four groups according to their protein intake. Those in the highest animal protein group had total testosterone concentrations averaging 1. 2 nanomoles per liter (nmol/L) below those in the lowest group. For plant protein, the highest intake group averaged 1. 1 nmol/L above the lowest group. SHBG showed similar opposing associations with animal and plant protein intake.",
+        "“Although the observed differences in testosterone concentrations were statistically significant, they were relatively small. Based on this study, it is not possible to infer whether these differences have implications for health,” says Doctoral Researcher Miika Wynne-Ellis from the University of Eastern Finland.",
+        "Age, excess weight, and lifestyle can influence testosterone levels. The analyses accounted for the men’s age and body mass index, along with several other dietary, lifestyle, and health factors. Even with those adjustments, other aspects of their diets or metabolic factors could help explain the associations.",
+        "Because the study was cross-sectional, it cannot establish that eating particular proteins caused the hormone differences. It also cannot determine whether consuming different protein sources affects how much testosterone the body produces or how the hormone acts in the body.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-scientists-unlock-a-hidden-superconducting-power-inside-a-",
+      "title": "Scientists Unlock a Hidden Superconducting Power Inside a Strange Quantum Material",
+      "dek": "Researchers have discovered how pressure can unlock hidden superconducting properties in a complex quantum material.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T16:02:03.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-unlock-a-hidden-superconducting-power-inside-a-strange-quantum-material/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Researchers have discovered how pressure can unlock hidden superconducting properties in a complex quantum material.",
+        "Applying intense pressure to an unusual quantum material can transform how it conducts electricity, allowing superconductivity to spread throughout its three-dimensional structure at temperatures roughly three times higher than normal. Researchers also found a sevenfold increase in the number of electrons participating in superconductivity.",
+        "The discovery comes from a team led by Zurab Guguchia at the Paul Scherrer Institute (PSI) in Switzerland. Their findings, published in Nature Communications , provide new insight into how superconductivity might be strengthened and eventually achieved under more practical conditions.",
+        "Tantalum disulfide has a simple chemical composition but a remarkably complex electronic structure. It consists of extremely thin atomic layers that behave differently as temperatures fall.",
+        "“Its chemical formula sounds very simple: for every tantalum atom there are two sulfur atoms,” says Guguchia. “But inside it is an enormously complex material with almost paradoxical properties.”",
+        "When produced in a particular way, the material contains alternating layers with two distinct atomic arrangements. Both conduct electricity at higher temperatures, but cooling causes one to become an insulator while the other becomes superconducting, carrying current without electrical resistance. “This means that the electronic properties of these two layers behave in completely opposite ways,” Guguchia explains.",
+        "Initially, superconductivity remains confined to individual conducting layers because the insulating layers obstruct electron movement between them. But cooling the material to just over 1 kelvin (about −458°F) produces a dramatic change.",
+        "“Suddenly the entire material becomes superconducting, so the insulating layers also become conductive and take part in superconductivity,” Guguchia says. Instead of remaining restricted to separate planes, superconductivity extends throughout the crystal in three dimensions.",
+        "Scientists knew that applying pressure could raise the temperature at which this transition occurs, but the underlying mechanisms were unclear. The PSI team investigated how compression affects the material’s electrons and the interactions between its layers.",
+        "The researchers subjected tantalum disulfide to pressures several hundred times greater than those inside a typical car tire. Compression brought the superconducting layers closer together, reducing the disruptive effect of the insulating layers. It also allowed previously localized electrons within the insulating layers to participate in superconductivity.",
+        "“Due to these effects, high pressure causes tantalum disulfide to become superconducting in all three dimensions at temperatures approximately three times higher.” Measurements also revealed a sevenfold increase in the number of electrons participating in superconductivity.",
+        "“So, pressure not only raises the temperature at which superconductivity can occur, but also changes the very nature of the superconducting state,” the researcher explained. “It alters the way electrons pair up and move together through the material, resulting in a more robust form of superconductivity.”",
+        "To investigate these changes, the team used muon spin spectroscopy, a technique that detects magnetic conditions inside materials. Muons are elementary particles similar to electrons but approximately 200 times heavier. Although they survive for only a few millionths of a second, their sensitivity to local magnetic fields makes them especially useful for studying superconductors.",
+        "“Since muons are exceptionally sensitive probes for magnetic and superconducting properties, we can gain unique insights into quantum materials here at PSI,” Guguchia says."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-a-hidden-star-may-be-plowing-through-betelgeuses-giant-atm",
+      "title": "A Hidden Star May Be Plowing Through Betelgeuse’s Giant Atmosphere",
+      "dek": "Radio images suggest a link between Betelgeuse’s changing outline and its companion’s expected orbit, offering clues to how a smaller star may influence a giant’s later life.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T15:27:51.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-hidden-star-may-be-plowing-through-betelgeuses-giant-atmosphere/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Radio images suggest a link between Betelgeuse’s changing outline and its companion’s expected orbit, offering clues to how a smaller star may influence a giant’s later life.",
+        "Betelgeuse, the bright red supergiant marking Orion’s shoulder, may have another star stirring its atmosphere from within. Its recently identified companion, Siwarha, is thought to orbit at a distance of only about twice the giant’s radius. New radio observations suggest that this close neighbor is leaving a visible mark on the shape of Betelgeuse’s outer gas, even though the companion itself is too faint to appear in those observations.",
+        "Researchers proposed Siwarha’s existence in 2024 to explain Betelgeuse’s mysterious 2,100-day brightness cycle. Direct imaging and spectroscopic studies of the star’s light have since supported its existence. The companion’s name means “her bracelet,” a reference to Betelgeuse’s Arabic meaning, “the hand of al-Jawza.”",
+        "The new study was led by Dr. Lynn D. Matthews, Principal Research Scientist and Assistant Director at MIT Haystack Observatory, with colleagues from the Center for Astrophysics | Harvard & Smithsonian, the University of Manchester, and the European Southern Observatory. The team combined observations from the U. S. National Science Foundation’s Karl G. Jansky Very Large Array (NSF VLA) and the Atacama Large Millimeter/submillimeter Array (ALMA), collected between 2021 and 2026 at seven radio frequencies ranging from 22 to 485 GHz.",
+        "Radio waves at different frequencies reveal different depths in a star’s atmosphere. Using both observatories allowed the researchers to build a picture of Betelgeuse layer by layer, from just above its visible surface to several times the star’s radius.",
+        "“It was the combination of the incredible data from the NSF VLA and ALMA that gave us a convincing result here,” said Matthews. “The fact that we can use these facilities to actually resolve the disks of nearby stars is amazing.”",
+        "Detecting Siwarha directly was beyond the observations’ reach. The team calculated that the companion would be tens to hundreds of times too faint to see at radio wavelengths. They could, however, measure the ellipticity of Betelgeuse’s radio-emitting atmosphere, meaning how stretched or egg-shaped it appeared, at different observing times.",
+        "The atmosphere looked noticeably more elongated near the times when Siwarha was expected to be at its greatest apparent separation from Betelgeuse. It appeared rounder when the companion was expected to pass in front of or behind the giant star. That correspondence suggests that the smaller star’s gravity and movement are disturbing the surrounding gas.",
+        "“This companion is orbiting so close to the star that it actually passes through its extended atmosphere,” Matthews explained. Its passage could leave a wake, much as a boat leaves one as it moves through water.",
+        "The team will need observations covering more of Siwarha’s orbit, particularly at frequencies that have not yet been well sampled, to confirm and refine these findings.",
+        "The same radio data also show that Betelgeuse’s extended atmosphere has largely recovered from a much more conspicuous disturbance. In late 2019 and early 2020, the star faded to its faintest level in more than a century of record-keeping. During that episode, known as the Great Dimming, Betelgeuse ejected a billion tons of stellar material that partially blocked our view.",
+        "Months before the dimming, a 2019 study led by Matthews had found that Betelgeuse’s atmosphere was unusually cool at radio wavelengths. That team proposed that convection, the circulation of gas carrying heat from deep within the star, had triggered a shock wave. The wave could have disturbed gas in the outer layers, setting the stage for the massive dust-forming outburst that followed.",
+        "The new measurements show that the atmosphere’s brightness temperature, a temperature inferred from the strength of its radio emission, has returned to more typical levels at those same wavelengths. At a distance from the center of about 2. 7 times Betelgeuse’s radius, the gas now registers around 3,500 kelvin, or about 5,840°F. That is comparable to the temperature of the star’s visible surface.",
+        "Closer to the surface, the highest-frequency ALMA measurements revealed a much cooler layer. These observations probed nearer to Betelgeuse’s surface than previous radio measurements and found temperatures of roughly 2,200 kelvin, or about 3,500°F. That is more than 1,000 kelvin cooler than the photosphere, the star’s visible surface."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "nasa-nasa-astronauts-to-answer-questions-from-florida-students",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "dek": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station .",
+      "category": "校园",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T15:11:25.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station .",
+        "The Earth-to-space call will begin at 10:40 a. m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel.",
+        "This event is hosted by Freedom Crossing Academy in St. Johns, Florida, for students in grades K-12, and the community. This unique opportunity aims to deepen understanding of space exploration and enhance awareness of STEM careers.",
+        "Media interested in covering the event must RSVP no later than 5 p. m. EST, Monday, Nov. 9, to Christina Upchurch at (904) 547-7517, or at christina. upchurch@stjohns. k12. fl. us .",
+        "For more than 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs not possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis program, and to Mars."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "nasa-news-nasa-astronauts-to-answer-questions-from-florida-students",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "dek": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station .",
+      "category": "校园",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T15:11:25.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station .",
+        "The Earth-to-space call will begin at 10:40 a. m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel.",
+        "This event is hosted by Freedom Crossing Academy in St. Johns, Florida, for students in grades K-12, and the community. This unique opportunity aims to deepen understanding of space exploration and enhance awareness of STEM careers.",
+        "Media interested in covering the event must RSVP no later than 5 p. m. EST, Monday, Nov. 9, to Christina Upchurch at (904) 547-7517, or at christina. upchurch@stjohns. k12. fl. us .",
+        "For more than 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs not possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis program, and to Mars."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "scitechdaily-a-black-hole-could-split-in-two-according-to-a-surprising-",
+      "title": "A Black Hole Could Split in Two, According to a Surprising New Theory",
+      "dek": "Black holes might split in two under extreme conditions, theoretical calculations suggest, offering physicists a way to explore the limits of our understanding of gravity.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T14:52:10.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-black-hole-could-split-in-two-according-to-a-surprising-new-theory/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Black holes might split in two under extreme conditions, theoretical calculations suggest, offering physicists a way to explore the limits of our understanding of gravity.",
+        "Two black holes can collide and merge into one. But could a single black hole divide into two smaller ones that go their separate ways? Reversing a merger might sound straightforward, but the rules governing black holes make it difficult.",
+        "One obstacle is entropy, a measure of how many different microscopic arrangements can give a physical system the same overall properties. Think of rolling two dice. Several combinations produce a total of seven, but only two ones produce a total of two. Entropy captures a similar distinction between an overall result and the different underlying arrangements that can produce it. More possible arrangements mean higher entropy.",
+        "For an ordinary black hole that is not rotating, two smaller black holes would have less combined entropy than the original. That makes splitting thermodynamically unfavorable. The usual requirement of thermodynamics is that the total entropy of an isolated system should stay the same or increase, rather than decrease.",
+        "Whether black holes can split is the subject of “When Black Holes Admit Pair-of-pants Topologies,” a theoretical study published in Physical Review D . The unusual title describes what a split would look like through time. A black hole’s outer boundary, called its horizon, would trace a trouser-like shape, with one section dividing into two “legs.”",
+        "“In our study, we investigate which physical laws normally prevent a black hole from splitting into two. We also investigate if certain circumstances may allow a split to happen”, says Francesco Sannino, a co-author and professor of physics at the University of Naples Federico II in Italy and the Quantum Field Theory Center at the University of Southern Denmark.",
+        "Sannino’s co-authors are Giacomo Cacciapaglia, a Centre National de la Recherche Scientifique (CNRS) researcher at the Laboratoire de Physique Théorique et Hautes Énergies, a joint laboratory of CNRS and Sorbonne Université in Paris, and Manuel Del Piano and Vania Vellucci, both from the Quantum Field Theory Center at the University of Southern Denmark.",
+        "Their calculations suggest that rapid rotation could offer a loophole in the thermodynamic barrier. A spinning black hole might be able to divide under conditions that would make splitting unfavorable for a nonrotating one.",
+        "“But the two resulting black holes must also be able to separate rather than immediately fall back together. When we include this requirement, the window largely closes again, except possibly for black holes rotating close to their maximum possible rate,” says Francesco Sannino.",
+        "The researchers also explore theories with additional dimensions of space. Within these theories, physicists already know of black-hole-like objects that can become unstable and begin to break apart. Under some of these conditions, splitting can be thermodynamically favorable, particularly when one resulting black hole is much smaller than the other. Even then, showing that entropy permits a split does not establish that the process will actually happen.",
+        "The possibilities also extend to primordial black holes, hypothetical objects that could have formed in the early universe.",
+        "“We cannot yet give a single probability for a black hole to split. It depends on how gravity behaves beyond Einstein’s theory, and we are working to quantify this. We expect small primordial black holes to be more prone to splitting than much larger astrophysical black holes. We may detect a split indirectly: gamma-ray telescopes such as Fermi-LAT can search for signals from tiny black-hole fragments that might form during mergers,” says Francesco Sannino.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "conversation-how-amendment-3-vaccine-mandates-and-school-vouchers-will-",
+      "title": "How Amendment 3, vaccine mandates and school vouchers will shape Florida under the leadership of Byron Donalds",
+      "dek": "In the midst of what pundits are calling a blue tsunami nationwide , Florida remained resolutely red , electing Republican Byron Donalds as its first Black governor and…",
+      "category": "健康",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T14:26:38.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/how-amendment-3-vaccine-mandates-and-school-vouchers-will-shape-florida-under-the-leadership-of-byron-donalds-295720"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "In the midst of what pundits are calling a blue tsunami nationwide , Florida remained resolutely red , electing Republican Byron Donalds as its first Black governor and sending Republican Ashley Moody back to the U. S. Senate.",
+        "Donalds ran on a promise to continue the legacy of his predecessor , Gov. Ron DeSantis.",
+        "His victory was not as easily won as polls had predicted . In the week leading up to the election, polls put him at 4 points over his opponent, Democrat David Jolly. In the end, Donalds won by 1. 3 points – about 107,000 votes.",
+        "I’m a political scientist who has lived in Florida for almost two decades and seen the powers of the governor’s office grow. We can see based on Donalds’ campaign promises the direction in which he plans to lead the state.",
+        "Donalds’ term as governor will start with a major change: On Nov. 3, Floridians voted to pass Amendment 3 to the state constitution.",
+        "This will cause a shift in the state’s long-standing commitment to home rule , the principle that local governments, such as cities and counties, should be able to set policy on local issues.",
+        "The amendment limits local government spending from tax revenue to core categories such as public safety, schools and natural resources. With a lower tax base, some local governments in rural areas may not be able to maintain basic services and might need help from the state.",
+        "DeSantis has called for a special session to address Amendment 3 before Donalds takes office.",
+        "DeSantis has said he plans to restrict home rule by stopping local governments from trying to raise revenue through additional taxation at the local level .",
+        "Donalds supported the amendment , and it will give him and the Legislature the opportunity to redistribute tax funding throughout the state.",
+        "This election has changed the makeup of the state Legislature, though, with the GOP losing its supermajority in the Florida House of Representatives, which requires holding 80 out of the 120 seats. This change in the Legislature could make it more difficult for Donalds to control the agenda in Tallahassee the way DeSantis did during his second term, when he had a supermajority in both houses of the Legislature.",
+        "Donalds has affirmed that he supports the big steps DeSantis has taken to limit home rule – such as limiting local control over land development and removing local elected officials from office – and plans to take executive authority further , scheduling more DOGE audits of local government and removing more elected officials as he sees fit.",
+        "When it comes to data centers, on the other hand, Donalds has said he favors local communities deciding whether to allow them to be built nearby.",
+        "One of the first choices awaiting Donalds will be whom to appoint as Florida surgeon general, a position created in 2007 . The position comes with the power to declare public health emergencies , forcibly quarantine people and set vaccine mandates for illnesses such as chickenpox that fall outside the state Legislature’s framework of seven childhood vaccine mandates .",
+        "As part of his conservative remake of Florida policies , DeSantis appointed the current surgeon general, Dr. Joseph Ladapo , to the position in 2021. During the COVID-19 pandemic, Ladapo emerged as a leading medical freedom advocate and vaccine skeptic.",
+        "Ladapo opposes all vaccine mandates . He also proposed new Florida health rules in October 2026 to drop mandates for four vaccines required for school attendance, including chickenpox and hepatitis B. Currently, the state allows exemptions only for approved religious or medical reasons.",
+        "The Florida Chapter of the American Academy of Pediatrics opposes the rule change on public health grounds.",
+        "Donalds has long opposed vaccine mandates and says that he did not personally receive a COVID-19 vaccine . He supports Ladapo’s proposed rule change to reduce school vaccination mandates and said during his campaign that he is open to reappointing Ladapo as surgeon general.",
+        "The Florida Legislature, however, will limit how far Donalds can push vaccine policy. The Legislature has mandated measles and polio vaccines for all K-12 public school students, so getting rid of that requirement would require a change in the law.",
+        "One of the biggest developments in Florida K-12 education in recent years has been the creation of a system of universal vouchers by DeSantis and the Legislature in 2023. This program allows parents of any income level to use US$8,000 in state money on average, based on county of residence , for their children’s private or homeschooling education.",
+        "The universal voucher program has created intense pressure on the state budget. It cost an estimated $4. 5 billion in fiscal year 2026 . State auditors have identified accountability problems in tracking funds through the system. Public schools have faced declining enrollment , with fewer resources to serve the neediest students they cannot turn away.",
+        "Donalds strongly supports the universal voucher program. He has expressed an interest in making Florida “ the model state for school choice ” by allowing parents to choose among private educational providers competing in the marketplace .",
+        "His wife, Erika Donalds, is a former Collier County school board member who operates a network of for-profit charter schools and advocates nationally for school choice . Whether the Donaldses will divest from the charter school business during the governor-elect’s term remains to be seen.",
+        "Already, the governor-elect has indicated that he might work with the Legislature to change the way the Florida Education Finance Program funds K-12 schools, allowing districts to spend funds with more flexibility."
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "conversation-delayed-international-support-has-hampered-efforts-to-cont",
+      "title": "Delayed international support has hampered efforts to contain and treat Ebola in the Democratic Republic of Congo",
+      "dek": "I visited a family of 19 in Sierra Leone in 2015. By the time I arrived, eight had died. The other 11 were left to live with the grief and fear of what might happen next.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T13:36:16.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/delayed-international-support-has-hampered-efforts-to-contain-and-treat-ebola-in-the-democratic-republic-of-congo-295610"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "I visited a family of 19 in Sierra Leone in 2015. By the time I arrived, eight had died. The other 11 were left to live with the grief and fear of what might happen next.",
+        "I am a medical doctor and epidemiologist , and at that time I was serving on an African Union Ebola response mission. The 2014-16 epidemic in West Africa caused more than 28,600 cases and 11,300 deaths. Over roughly six months in Sierra Leone, I saw how quickly the disease could overwhelm families and health services.",
+        "That’s also when I learned that good medical advice can fail if people do not trust those delivering it. Some families buried relatives secretly, despite warnings. In certain communities, funeral practices included washing the body and sprinkling water on mourners , which risked exposing people to infected bodily fluids.",
+        "Simply repeating instructions did not help. But those of us working in the field found that working with families to make burials safer while respecting their grief helped them to mourn their loss while stopping the virus from spreading.",
+        "More than a decade later, those experiences have returned to my mind. The Ebola outbreak now sweeping across parts of Central Africa is different from the one I responded to. Still, one lesson remains: Timely international support makes a huge difference.",
+        "The current outbreak was declared in the Democratic Republic of Congo, or DRC, in May 2026. By Oct. 28, 2026, the U. S. Centers for Disease Control and Prevention reported 10,305 confirmed cases and 4,996 deaths across five countries, with new updates daily. The DRC accounts for nearly all of those cases and deaths.",
+        "This is already the second-largest Ebola outbreak ever recorded, after the 2014-16 epidemic.",
+        "The current outbreak is caused by the Bundibugyo virus , whereas the 2014-16 epidemic involved a different Ebola virus. No vaccine or specific treatment is currently approved for Bundibugyo.",
+        "The World Health Organization warns that late detection, deaths outside health facilities and sustained transmission in the DRC remain serious concerns .",
+        "The DRC has extensive experience with responding to outbreaks , and African institutions are coordinating a continental response . Africa has the expertise and leadership. What it needs right now is sustained support that reaches the front line – quickly, safely and accountably.",
+        "Ebola follows human movement. In October, Kenya reported infections linked to a traveler who had passed through Uganda from the DRC. Nigeria also reported an imported case around the same time.",
+        "Symptoms can appear between two and 21 days after exposure, and people are generally not infectious before symptoms begin. A traveler may therefore pass a temperature check and become ill days later.",
+        "These events show why countries need to share information quickly, verify travel histories and maintain contact tracing across borders.",
+        "International partners are, in fact, contributing. In September 2026, the United States reported US$887 million in Ebola-related health and humanitarian assistance . The U. K. announced a contribution of roughly £78 million ($104 million) .",
+        "In October, the World Bank described $426. 6 million in current and planned financing for the DRC and neighboring countries. And Africa Centres for Disease Control and Prevention reported nearly $3 billion in international pledges following a September mobilization effort.",
+        "But pledges are not the same as supplies delivered or services provided, and these contributions are coming late in the outbreak.",
+        "In 2014, Britain helped expand treatment and safe-burial operations in Sierra Leone. The U. S. mobilized logistics capacity in Liberia, while France assisted Guinea. And African Union health workers served alongside local teams and other partners.",
+        "That cooperation saved lives, though the global response was slow to scale up. It has been discouraging for me to see that today’s response has not built on that experience without waiting for the outbreak to grow further.",
+        "According to the WHO, massive cuts to international aid over the past year diminished a quicker response.",
+        "The success of international collaboration will be measured in how many contacts are reached, how rapidly patients are tested, how many health workers have protective equipment and are consistently paid, whether women can still deliver babies safely, and whether remote communities can get care.",
+        "My experience in Sierra Leone in 2014 taught me that trust is essential to outbreak control. Families need credible explanations, timely information and opportunities to ask questions. Local health workers, faith leaders, survivors and community organizations can help bridge the gap between an emergency response and the people it seeks to protect.",
+        "That gap can be large even when a disease is widely known. A colleague and I conducted a study involving 440 secondary school students in Nigeria in 2014, and we found that 95. 4% had heard of Ebola . Yet only 42. 3% identified fever as a possible symptom, and only 33. 2% recognized the risk associated with certain burial practices. Seeing that awareness of the disease alone was not enough, we subsequently began Ebola education activities in local Nigerian schools.",
+        "The need for reliable information from trusted sources remains in 2026. Risk messages must be consistent, culturally sensitive and practical. This works only when communities are partners in recognizing illness, seeking early care, contact follow-up and safe, dignified burials. Even in times of emergency, health workers cannot treat communities simply as audiences for instructions.",
+        "In August 2026, Africa CDC and the WHO jointly called for expanded laboratory and treatment capacity and faster delivery of supplies."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "conversation-mammograms-can-do-more-than-detect-breast-cancer-they-also",
+      "title": "Mammograms can do more than detect breast cancer – they also offer important clues on heart health",
+      "dek": "If you’re a woman over 40, you have no doubt heard your doctor tell you to get a mammogram as part of routine screening for breast cancer . But there’s another reason, too.",
+      "category": "健康",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T13:26:33.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/mammograms-can-do-more-than-detect-breast-cancer-they-also-offer-important-clues-on-heart-health-294073"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "If you’re a woman over 40, you have no doubt heard your doctor tell you to get a mammogram as part of routine screening for breast cancer . But there’s another reason, too.",
+        "A mammogram can show no sign of breast cancer and still reveal something worth discussing with a doctor: calcium deposits in the medium-sized arteries that carry blood to the breast. These calcium deposits may offer a clue to a woman’s future heart health.",
+        "I’m a cardiologist who studies cardiovascular health around menopause . My colleagues and I have investigated how mammograms might help identify women who are at increased risk of heart disease and stroke . Artificial intelligence now makes these calcium deposits – called breast arterial calcification , or BAC – easier to measure.",
+        "In October 2026, Maryland became the first U. S. state to require mammography centers to notify patients in writing if these calcium deposits are found in their mammograms. Other states may institute similar rules soon. Research shows that these calcium deposits are a robust marker for cardiovascular risk, and I expect its adoption to grow.",
+        "Here’s what women need to know about calcium deposits in the breast – and what they should do if their mammogram shows they have them.",
+        "Breast arterial calcification is calcium buildup in the walls of medium-sized arteries that carry blood through the breast. On a mammogram image, the calcium deposits appear as parallel white lines tracing those vessels.",
+        "This finding is not a sign of breast cancer. And it differs from the fatty and calcified plaque that can narrow arteries supplying the heart muscle. In the case of breast arterial calcification, the calcium lies mainly in the artery’s muscular wall, where it is associated with blood vessel stiffening.",
+        "Finding breast arterial calcification on a mammogram does not, by itself, establish that a woman has heart disease or a blocked heart artery. But research has now clearly shown that this marker signals that a person’s risk of these outcomes is elevated.",
+        "It’s important to remember, however, that its absence does not rule out cardiovascular disease or an increased risk of heart attack or stroke.",
+        "Doctors have known about breast arterial calcification for decades, with studies in the 1980s linking it to diabetes and advanced kidney disease . Early findings about its relationship with heart disease were mixed , and many studies were small and relied on radiologists’ visual review of mammograms.",
+        "In 2022, my colleagues and I published the results of a 10-year study in which radiologists reviewed mammograms of more than 1,000 women to identify these calcium deposits. Women who had them had about three times the odds of developing coronary heart disease and five times the odds of having a stroke compared with women who didn’t, even after taking age into account.",
+        "To confirm that breast arterial calcification in mammograms predicts cardiovascular risk, we assessed 45 published studies involving more than 68,000 women , in a type of study called a meta-analysis . This work, published in 2026, found that women who had these calcium deposits in their breast arteries on a mammogram had roughly twice the risk of stroke, heart failure and death from any cause, and nearly three times the risk of dying from heart disease, compared with women who did not.",
+        "The studies we analyzed differed considerably in design and quality, so these averages cannot precisely predict an individual woman’s cardiovascular risk. Also, while these findings establish an association between breast arterial calcification and cardiovascular disease, they do not show that calcium in the breast arteries causes those health outcomes.",
+        "Radiologists can see breast artery calcium on a routine mammogram. But there’s no common standard for grading and reporting how much calcification is present. AI tools which are being used more commonly by doctors can measure how much is there using the same images, with no extra radiation.",
+        "These calcium deposits become more common with age, so my colleagues and I used AI to assess data from more than 100,000 women in nine countries in order to map how calcium builds up in breast arteries by age. We developed and tested a metric that, when added to standard tools, improved doctors’ ability to accurately predict a woman’s risk of cardiovascular disease.",
+        "Maryland became the first state to require a notice about breast arterial calcification in screening results. The goal is to give women who have it a reason to talk with their doctor about heart health.",
+        "The bill’s sponsor modeled the law on a 2023 regulation on breast density notices , which required mammography centers to inform patients and their doctors about their breast density and its link to cancer detection. The breast density rule was first implemented in Connecticut and then adopted by many other states, before becoming a nationwide requirement .",
+        "An Australian trial called TIM-TAM will test whether using breast arterial calcification to guide care improves measures of heart health. Researchers still need to find out whether treating women based on the presence of breast arterial calcification prevents heart attacks or strokes. But research already shows that the marker has a link to cardiovascular disease, and I expect it to follow a similar pattern of adoption as reporting breast density.",
+        "Until other states adjust their requirements, look for “breast arterial calcification” or “vascular calcifications” in the radiologist’s report. Mammography centers’ reporting practices vary, so some reports may omit BAC even when it’s visible. Some imaging centers offer an optional AI review for breast arterial calcification as an out-of-pocket add-on to a screening mammogram.",
+        "On its own, the presence of breast arterial calcification on a mammogram does not determine whether someone needs a heart test or a new prescription. But in my view, this marker can provide a useful nudge to get an updated assessment of cardiovascular health.",
+        "Your doctor may suggest a blood pressure measurement and blood tests for cholesterol and kidney function. An estimate called eGFR describes how well the kidneys filter blood.",
+        "Your doctor can use these results alongside age, smoking, diabetes and other information in the American Heart Association’s PREVENT calculator . It estimates the chance of developing cardiovascular disease over the next 10 years for adults ages 30 to 79 who are not already diagnosed with cardiovascular disease.",
+        "You can then discuss with your doctor which steps could make the biggest difference for your heart health depending on your risk. That might mean finding ways to move more, choosing foods that are good for your heart or getting help to quit smoking if you smoke. Depending on your overall risk, your doctor may also suggest taking a statin to lower your cholesterol or starting or adjusting blood pressure medicine. These treatments can help lower your chances of a heart attack or stroke.",
+        "A routine breast screening visit can thus become an opportunity to help women understand their cardiovascular risk and take steps to lower it."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "conversation-i-research-play-and-heres-why-recess-is-much-more-importan",
+      "title": "I research play – and here’s why recess is much more important than just a fun break",
+      "dek": "School recess has long been considered a standard part of children’s education in the United States. But it’s more than just a fun break from sitting at a desk.",
+      "category": "科学",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T13:17:35.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/i-research-play-and-heres-why-recess-is-much-more-important-than-just-a-fun-break-294764"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "School recess has long been considered a standard part of children’s education in the United States. But it’s more than just a fun break from sitting at a desk.",
+        "Daily recess is necessary for supporting young children and adolescents’ learning, as well as their physical and mental health .",
+        "It’s so important that the American Academy of Pediatrics notes that reducing the amount of time set aside for playing, running and exploring in order to fit in more academic work could actually be counterproductive.",
+        "But in recent decades many schools have cut back on recess, which many states do not require .",
+        "As a scholar who researches childhood play, I have studied and witnessed the benefits of play in children’s lives, including the significant social, emotional and cognitive impacts it has on students’ overall well-being.",
+        "The U. S. Centers for Disease Control and Prevention recommends that children and adolescents get at least 60 minutes of physical activity per day.",
+        "The CDC also defines recess as a “regularly scheduled period in the school day for physical activity and play that is monitored by trained staff or volunteers.”",
+        "Recess can look different across various schools – while some kids play outside on play structures or in grassy fields, others might play indoors during inclement weather.",
+        "Research also shows, for example, that children living in lower-income communities have fewer opportunities than their peers in higher-income communities to play outside.",
+        "Unlike physical education classes or participating in organized sports, recess gives students the time to engage in physical activity and interact with their peers however they like.",
+        "This time for unstructured play can offer much-needed relief from the mental focus that students need to maintain throughout the school day. It can also support their cognitive development and overall emotional and physical well-being.",
+        "Research also consistently shows that giving children breaks each day for recess has immense benefits for their mental health and the executive functioning skills that support academic achievement.",
+        "This includes benefits for students’ focus and creativity , as well as their memory and executive function .",
+        "Most states do not mandate that schools have recess every day or spell out a minimum amount of time students must spend moving their bodies.",
+        "A 2025 report from the Johns Hopkins Bloomberg School of Public Health found that 11 states have laws addressing school recess. This ranges from Arizona’s requirement for 40 minutes of daily recess to Georgia, Indiana and Kentucky all requiring recess, but with no minimum duration.",
+        "Massachusetts is one of the nearly 40 states without any laws regarding recess time. A recent article in The Boston Globe reported schools in Cambridge having 25 minutes of recess, while other schools across the state had only 15 minutes per day.",
+        "Overall, there has been an uptick in state legislation aimed at preserving mandated daily school recess time, thanks partly to a new parent-led advocacy group called Say Yes to Recess . This group is pushing for schools across the country to provide a minimum of 60 minutes of protected school recess time each day.",
+        "Started by three Tennessee moms, Say Yes to Recess has also helped advocate for Tennessee legislation that increased the state’s mandated daily school recess time from 15 to 40 minutes in July 2025.",
+        "During the 2001-02 school year, elementary school students from 349 school districts spent on average 36. 8 minutes per day at recess.",
+        "By 2025, the CDC found that students were spending 27 minutes on average in recess each day.",
+        "It’s also hard to track how much physical activity students get at school because public school districts and private schools often do not record and report this information.",
+        "While the benefits of recess are not just isolated to young children , a 2026 international study showed that the amount of daily recess time across U. S. schools declines from a mean of 39. 3 minutes per day for 6- to 7-year-olds to 24. 5 minutes per day for 12- to 18-year-olds.",
+        "I conducted research at the Project Zero research center for creativity, ethics and the arts at Harvard University and highlighted the significance of play and the arts within urban public schools.",
+        "This 2024 study showed how play with materials supports both children’s and teachers’ creative learning. As someone who designs and studies children’s play spaces, I worry about what could happen if schools continue to reduce school recess because of staffing issues, budget cuts or prioritization of students’ preparation for high-stakes tests focused solely on literacy and numeracy."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "conversation-why-do-blind-people-and-musicians-hear-pitch-better-new-re",
+      "title": "Why do blind people and musicians hear pitch better? New research suggests they have less internal noise",
+      "dek": "People who have lived most of their lives blind often have extraordinary hearing abilities . ",
+      "category": "科学",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T13:17:15.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/why-do-blind-people-and-musicians-hear-pitch-better-new-research-suggests-they-have-less-internal-noise-294114"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "People who have lived most of their lives blind often have extraordinary hearing abilities . In new research published in the Journal of Neuroscience, my colleagues and I discovered that this ability arises from how their auditory systems are able to more consistently and reliably process sounds compared with people who aren’t blind. And interestingly, sighted musicians seem to enhance their hearing through a similar mechanism.",
+        "Hearing is a complicated process. It involves many stages , starting from how the ears detect sounds and going all the way up to how the brain extracts meaningful information from those sounds.",
+        "Different mechanisms are involved, too. You can get better at hearing by being more selective or more consistent . Think of writing the letter “A.” You can practice to make your “A” either more distinguishable from “B” or look more similar to other “A’s” every time you write it. The latter is called internal noise – how consistently your auditory system responds to the same sound over time. The less internal noise you have, the more reliably you can tell similar sounds apart.",
+        "We recruited nine individuals who became blind before the age of 2 and 18 sighted individuals. Participants in both groups had varying levels of musical training, giving us an opportunity to examine how musical experience can also affect hearing abilities.",
+        "Participants completed two simple hearing tasks. In one task, they detected a tone presented in background noise, which allowed us to assess how the cochlea in the inner ear processes different sound frequencies. In the other task, they judged which of the two tones had a higher pitch, a task that also relies on how the brain interprets sound information.",
+        "We found that people with early-life blindness were better than sighted people only in the pitch discrimination task. This means that their improved hearing abilities may selectively originate from changes in how their brains process auditory information and not from how their ears detect sounds.",
+        "Importantly, we used a mathematical model to better understand what drives differences in pitch discrimination. The model showed that the enhanced ability to tell pitches apart in people with early-life blindness happens by reducing internal noise : more consistent and reliable processing of sounds rather than greater selectivity for different sound frequencies.",
+        "Surprisingly, we found that musical training seems to similarly reduce internal noise. Sighted musicians also responded to sounds more consistently compared with people who neither experienced early-life blindness nor received extensive musical training.",
+        "Because your brain doesn’t know what kind of sensory environment it’ll encounter when you’re born, it’s equipped with a special ability: to tune its responses to parts of the world that matter to it.",
+        "This ability helps people see, hear and master new skills as their experiences change, like when children learn to read and when adults learn to identify different bird species . Words and birds have become a meaningful part of their experiences, so their brains are tuned to the new information.",
+        "Our study identifies internal noise as an important factor that facilitates this brain plasticity . There are many ways a person can come to have reduced levels of internal noise, and one is by building a more accurate template for perceiving the world.",
+        "It is possible that sensory experience, whether it be being blind or being a musician, might help create and fine-tune the perceptual template relevant for hearing.",
+        "If sensory experiences and training can tap into the brain’s ability to adapt, researchers may be able to use them to improve perceptual abilities. For example, targeted training to hear sound locations could help people who are beginning to lose vision learn to rely on other senses to navigate.",
+        "However, researchers still don’t know how much training is needed and what aspects of the auditory experience are key to drive behaviorally meaningful changes in the brain.",
+        "Another important question is whether and how this brain plasticity varies depending on when someone loses their vision or begins musical training. The brain might have greater plasticity early in development, and how sensory experiences shape the brain may differ in adulthood.",
+        "How far can people push their ability to learn? Can everyone become super listeners with training? If the brain’s plasticity is limited in adulthood, are there ways to reopen the door? And what role does internal noise play in this learning?",
+        "Moving forward, our team is interested in understanding whether the enhanced pitch discrimination we saw in people with early-life blindness and sighted musicians extends to more complex, everyday listening.",
+        "The Research Brief is a short take about interesting academic work.",
+        "Woon Ju Park receives funding from NIH and the Georgia Institute of Technology Smithgall-Watts Early Career Award."
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "nasa-hubble-learns-galactic-history-from-stars",
+      "title": "Hubble Learns Galactic History From Stars",
+      "dek": "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T12:56:21.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier , who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about 27,500 light-years away in the constellation Capricornus.",
+        "M30 is a globular cluster : a roughly spherical grouping of stars containing anywhere from tens of thousands to millions of stars. These clusters generally reside on the outskirts of galaxies, orbiting within a vast, diffuse region called the halo like a swarm of moths around a lightbulb. Our Milky Way galaxy has at least 150 globular clusters, the nearest of which is about 6,000 light-years away. These clusters are impressively ancient: astronomers estimate their ages are between 11. 5 to 13. 5 billion years, making certain globular clusters nearly as old as the universe itself.",
+        "Globular clusters have long played an important role in helping us learn about our galaxy. More than a century ago, astronomer Harlow Shapley used observations of a particular type of variable star to measure the locations of and distances to dozens of globular clusters within our galaxy. His work showed that the Sun is not in the center of our galaxy, and that the galactic center lies toward the constellation Sagittarius. (His distance measurements were incorrect, however, and he concluded that our galaxy is about twice as large as it really is. )",
+        "Today, astronomers continue to learn about our galaxy by observing globular clusters. Because globular clusters are so ancient, they can give us clues about how our galaxy developed long ago. Globular clusters that formed within our galaxy can act as time capsules, preserving the original chemistry of our young galaxy.",
+        "However, it’s possible that not all globular clusters that orbit within our galaxy today formed there. Researchers have discovered that M30 and many other globular clusters orbit in the direction opposite from the way our galaxy spins. This may mean that these clusters did not form within our galaxy at all. Instead, our Milky Way galaxy may have captured them in the distant past!",
+        "Hubble has observed M30 multiple times. A previously released image of M30 featured data from Hubble’s Advanced Camera for Surveys (ACS) and was part of an observing program (# 10775 ; PI: Sarajedini) that surveyed dozens of Milky Way globular clusters in red and near-infrared light, revealing stars down to just 20% of the mass of the Sun. A more recent program (# 13297 ; PI: Piotto) returned to M30 and other globular clusters in our galaxy, this time observing the clusters with Hubble’s Wide Field Camera 3 and using three filters that captured bluer light.",
+        "This program collected data that was critical for studying exotic objects like “ blue straggler ” stars as well as for investigating the multiple populations of stars that can inhabit a single globular cluster.",
+        "More recently, Hubble’s ACS viewed many of these globular clusters again. Those observations were part of a program (# 16298 , PI: Libralato) that looked at how different populations of stars in globular clusters moved over the 15 years since Hubble first observed them — a feat made possible by Hubble’s longevity and ability to discern fantastically small details in distant objects.",
+        "The image above was created with data from all three observing programs and includes the wide range of wavelengths Hubble can see — ultraviolet, visible, and near-infrared light. Each wavelength helps us better understand how these groups of stars formed and evolved.",
+        "Claire Andreoli NASA’s Goddard Space Flight Center , Greenbelt, MD claire. andreoli@nasa. gov",
+        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
+        "These jewels of the night sky offer us a glimpse at the lifecycle of stars.",
+        "Hubble’s most notable scientific discoveries reflect the broad range of research and the breakthroughs it has achieved.",
+        "Explore Hubble’s iconic images of the universe, and view photos of mission operations and astronauts servicing Hubble in space."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "nasa-news-hubble-learns-galactic-history-from-stars",
+      "title": "Hubble Learns Galactic History From Stars",
+      "dek": "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T12:56:21.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier , who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about 27,500 light-years away in the constellation Capricornus.",
+        "M30 is a globular cluster : a roughly spherical grouping of stars containing anywhere from tens of thousands to millions of stars. These clusters generally reside on the outskirts of galaxies, orbiting within a vast, diffuse region called the halo like a swarm of moths around a lightbulb. Our Milky Way galaxy has at least 150 globular clusters, the nearest of which is about 6,000 light-years away. These clusters are impressively ancient: astronomers estimate their ages are between 11. 5 to 13. 5 billion years, making certain globular clusters nearly as old as the universe itself.",
+        "Globular clusters have long played an important role in helping us learn about our galaxy. More than a century ago, astronomer Harlow Shapley used observations of a particular type of variable star to measure the locations of and distances to dozens of globular clusters within our galaxy. His work showed that the Sun is not in the center of our galaxy, and that the galactic center lies toward the constellation Sagittarius. (His distance measurements were incorrect, however, and he concluded that our galaxy is about twice as large as it really is. )",
+        "Today, astronomers continue to learn about our galaxy by observing globular clusters. Because globular clusters are so ancient, they can give us clues about how our galaxy developed long ago. Globular clusters that formed within our galaxy can act as time capsules, preserving the original chemistry of our young galaxy.",
+        "However, it’s possible that not all globular clusters that orbit within our galaxy today formed there. Researchers have discovered that M30 and many other globular clusters orbit in the direction opposite from the way our galaxy spins. This may mean that these clusters did not form within our galaxy at all. Instead, our Milky Way galaxy may have captured them in the distant past!",
+        "Hubble has observed M30 multiple times. A previously released image of M30 featured data from Hubble’s Advanced Camera for Surveys (ACS) and was part of an observing program (# 10775 ; PI: Sarajedini) that surveyed dozens of Milky Way globular clusters in red and near-infrared light, revealing stars down to just 20% of the mass of the Sun. A more recent program (# 13297 ; PI: Piotto) returned to M30 and other globular clusters in our galaxy, this time observing the clusters with Hubble’s Wide Field Camera 3 and using three filters that captured bluer light.",
+        "This program collected data that was critical for studying exotic objects like “ blue straggler ” stars as well as for investigating the multiple populations of stars that can inhabit a single globular cluster.",
+        "More recently, Hubble’s ACS viewed many of these globular clusters again. Those observations were part of a program (# 16298 , PI: Libralato) that looked at how different populations of stars in globular clusters moved over the 15 years since Hubble first observed them — a feat made possible by Hubble’s longevity and ability to discern fantastically small details in distant objects.",
+        "The image above was created with data from all three observing programs and includes the wide range of wavelengths Hubble can see — ultraviolet, visible, and near-infrared light. Each wavelength helps us better understand how these groups of stars formed and evolved.",
+        "Claire Andreoli NASA’s Goddard Space Flight Center , Greenbelt, MD claire. andreoli@nasa. gov",
+        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
+        "These jewels of the night sky offer us a glimpse at the lifecycle of stars.",
+        "Hubble’s most notable scientific discoveries reflect the broad range of research and the breakthroughs it has achieved.",
+        "Explore Hubble’s iconic images of the universe, and view photos of mission operations and astronauts servicing Hubble in space."
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "scitechdaily-study-reveals-how-brain-function-changes-when-we-learn-som",
+      "title": "Study Reveals How Brain Function Changes When We Learn Something New",
+      "dek": "A beginner’s violin lesson may seem worlds apart from dementia research, yet wearable brain scans are revealing signals that could help scientists understand both learning…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T12:21:09.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/study-reveals-how-brain-function-changes-when-we-learn-something-new/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A beginner’s violin lesson may seem worlds apart from dementia research, yet wearable brain scans are revealing signals that could help scientists understand both learning and neurological disease.",
+        "Playing a familiar tune on a violin is no simple task for someone who has never held the instrument. Each movement must produce the intended sound, and the brain has to learn how to coordinate those movements. Researchers at the University of Nottingham have now captured changes in brain activity as beginners learned to play, revealing measurable differences after just one violin lesson.",
+        "The study, published in the journal Imaging Neuroscience , involved 22 novice violin players. Using a wearable brain scanner, the scientists tracked patterns of neural activity while participants attempted to play “Twinkle Twinkle Little Star.” They found that those who improved the most also showed the greatest changes in certain brain signals associated with movement and learning.",
+        "Capturing those signals while someone plays an instrument presents a technical challenge. The electrical activity of neurons generates extremely weak magnetic fields, which can be measured to study brain function. However, the equipment must be sensitive enough to detect these signals without interference, while still allowing the person being studied to move naturally.",
+        "The researchers used a technology called OPM-MEG, developed in Nottingham, that incorporates brain-scanning sensors into a lightweight helmet connected to a backpack-mounted control unit. Unlike scanning systems that restrict movement, this wearable design allows researchers to monitor brain activity as people perform everyday tasks.",
+        "There was still one problem. A conventional violin contains metal components that would interfere with the scanner’s measurements.",
+        "To overcome this obstacle, the team enlisted Alan Kirby, an expert violinist and violin maker from Nottingham. Kirby sourced a standard violin and replaced every metal part with alternatives he crafted himself, producing an entirely wooden instrument operating at frequencies associated with Baroque music.",
+        "“Bringing together the ancient art of violin making, with the quantum physics underpinning this brain scanner, has been amazing. Perhaps even more impressive was to actually see the effects of my lessons on peoples brains. That was quite an experience,” Kirby said.",
+        "Kirby also served as the participants’ violin instructor. At the beginning of the experiment, all 22 beginners watched a video of him playing “Twinkle Twinkle Little Star.” They then attempted to perform the same melody during their first scanning session, while the researchers recorded their brain activity.",
+        "After completing that initial recording, the participants received a violin lesson from Kirby. They then returned for a second scanning session, following the same procedure and attempting to play the tune again. By comparing recordings from before and after the lesson, the researchers could examine how the brain responded to a brief period of musical training.",
+        "Their attention focused on brain waves, rhythmic fluctuations in electrical activity that occur across groups of neurons. In particular, they examined oscillations in the beta frequency range, which are thought to help signal whether an action produces the result the brain expects.",
+        "When learning the violin, that process could involve predicting the sound of a note before playing it and registering whether the actual sound matches the prediction. Unexpected notes provide information that the movement did not produce the intended outcome.",
+        "“Your brain works by making predictions about what will happen as a result of your actions. So, if I am playing a violin, my brain will have an expectation of what sound it will make. If I play the expected note, my brain receives information that the outcome matched its prediction; if I hit an unexpected note, it receives information that it did not. In this experiment, we were able to measure these signals in real time while the instrument was being played,” said Joe Gibson, a Ph. D. researcher in the School of Physics and Astronomy.",
+        "The recordings revealed changes in beta-wave activity following the lesson, providing evidence that even a short period of musical instruction can alter measurable patterns of brain function. The researchers also found a relationship between those neural changes and improvements in playing ability."
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "nasa-cyprus-island-of-snakes-cats-and-ophiolites",
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "dek": "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic…",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T05:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic crust . Over time, portions of this oceanic rock were wrenched upward by tectonic forces , eventually emerging as a rugged island made of ophiolite , a type of rock with a mottled green appearance said to look like the skin of a snake. Remnants of that ancient island are still visible in the dark rocks of the Troodos Mountains .",
+        "During the Miocene , considerably younger layers of chalk, limestone, marl, and other marine sedimentary rocks accumulated around the island, providing material that developed into a second, smaller island to the south during a later period of geologic uplift . Over time, sediment poured from rivers into the channel separating the two islands and combined with marine sediments to create deltas and eventually two land bridges, or tombolos . The joined landmass comprises the Akrotiri Peninsula , now the southernmost tip of Cyprus.",
+        "The sandy edges of the peninsula were visible when Landsat 8 captured these images on October 10, 2026. Akrotiri Salt Lake , a coastal lagoon that was once an arm of the Mediterranean Sea, lies between the two tombolos. The more westerly feature, the Kouris River tombolo, formed first, developing about 50,000 years ago from river-deposited gravels and sands. The eastern tombolo extended southward from Cyprus, cutting off the Mediterranean Sea only within the past 2,000 years, according to geologists .",
+        "The lake’s water levels now vary markedly with the seasons, typically filling in the late autumn and winter and drying out in the summer. The influx of winter water has historically attracted sizable overwintering flamingo populations, averaging about 4,000 birds. However, the wintering flamingo population has declined in recent years, plummeting to 30 birds in 2025, according to news reports . Flamingos have long flocked to the lake to feed on fairy shrimp , which are rich in colorful substances called carotenoids that give the birds their famously pink hue .",
+        "Snakes are another of the island’s more notorious animal inhabitants. In antiquity, Cyprus was known as Ophiousa , or “ land of snakes ,” likely due to its robust population of blunt-nosed vipers . According to legend, the island’s snake communities grew to be so problematic during a drought in the fourth century that the Roman Empress Helena , mother of Constantine the Great, called for shiploads of cats to be sent from Egypt to control the venomous reptiles.",
+        "The first feline imports were released in a particularly snake-infested area on the southeastern part of the Akrotiri Peninsula, an area that came to be known as Cape Gata (Cape Cat in Greek). The cape today is still home to the Holy Monastery of St. Nicholas of the Cats , a place where legend says that monks encouraged newly arrived Egyptian cats to hunt snakes. Today, Cyprus has as many cats as people, with more than one million of the feline predators stalking the island. The handful of nuns who now live in the monastery still care for hundreds of cats, according to the St. Nicholas Center ."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "nasa-news-cyprus-island-of-snakes-cats-and-ophiolites",
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "dek": "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic…",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T05:01:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic crust . Over time, portions of this oceanic rock were wrenched upward by tectonic forces , eventually emerging as a rugged island made of ophiolite , a type of rock with a mottled green appearance said to look like the skin of a snake. Remnants of that ancient island are still visible in the dark rocks of the Troodos Mountains .",
+        "During the Miocene , considerably younger layers of chalk, limestone, marl, and other marine sedimentary rocks accumulated around the island, providing material that developed into a second, smaller island to the south during a later period of geologic uplift . Over time, sediment poured from rivers into the channel separating the two islands and combined with marine sediments to create deltas and eventually two land bridges, or tombolos . The joined landmass comprises the Akrotiri Peninsula , now the southernmost tip of Cyprus.",
+        "The sandy edges of the peninsula were visible when Landsat 8 captured these images on October 10, 2026. Akrotiri Salt Lake , a coastal lagoon that was once an arm of the Mediterranean Sea, lies between the two tombolos. The more westerly feature, the Kouris River tombolo, formed first, developing about 50,000 years ago from river-deposited gravels and sands. The eastern tombolo extended southward from Cyprus, cutting off the Mediterranean Sea only within the past 2,000 years, according to geologists .",
+        "The lake’s water levels now vary markedly with the seasons, typically filling in the late autumn and winter and drying out in the summer. The influx of winter water has historically attracted sizable overwintering flamingo populations, averaging about 4,000 birds. However, the wintering flamingo population has declined in recent years, plummeting to 30 birds in 2025, according to news reports . Flamingos have long flocked to the lake to feed on fairy shrimp , which are rich in colorful substances called carotenoids that give the birds their famously pink hue .",
+        "Snakes are another of the island’s more notorious animal inhabitants. In antiquity, Cyprus was known as Ophiousa , or “ land of snakes ,” likely due to its robust population of blunt-nosed vipers . According to legend, the island’s snake communities grew to be so problematic during a drought in the fourth century that the Roman Empress Helena , mother of Constantine the Great, called for shiploads of cats to be sent from Egypt to control the venomous reptiles.",
+        "The first feline imports were released in a particularly snake-infested area on the southeastern part of the Akrotiri Peninsula, an area that came to be known as Cape Gata (Cape Cat in Greek). The cape today is still home to the Holy Monastery of St. Nicholas of the Cats , a place where legend says that monks encouraged newly arrived Egyptian cats to hunt snakes. Today, Cyprus has as many cats as people, with more than one million of the feline predators stalking the island. The handful of nuns who now live in the monastery still care for hundreds of cats, according to the St. Nicholas Center ."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "nasa-nasa-announces-x-70-experimental-aircraft-to-advance-fligh",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "dek": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T01:43:21.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.",
+        "The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore aircraft maneuverability in ways never before demonstrated in crewed flight. The aircraft can also accommodate up to 2,000 pounds of experimental payloads in internal and external locations, enabling a wide range of research and flight-testing opportunities.",
+        "“The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” said NASA Administrator Jared Isaacman. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, and moving quickly from one experiment to the next. We expect her first flight under the NASA banner within the next two years, and X-70 is just one part of this new beginning for aeronautics. This is why people come to NASA: to build, to learn, and most importantly, to fly.”",
+        "The X-70 Fractal has a takeoff weight of 10,000 pounds and is designed to cruise at Mach . 75, reach altitudes of up to 45,000 feet, and provide an operational range exceeding about 1,726 miles (1,500 nautical miles). These capabilities will enable NASA to conduct demanding flight research across a broad range of operating conditions.",
+        "“For decades, NASA Aeronautics has used X-planes to develop technologies that advance aviation,” said Laurie Grindle, director of the Aeronautics Division within NASA’s Research and Technology Mission Directorate. “It’s exciting to bring on another X-plane to accelerate and drive aeronautics research.”",
+        "The X-70 joins a storied legacy of experimental aircraft that have helped establish America’s leadership in aviation. From the Bell X-1, which first broke the sound barrier in 1947, to the X-15 hypersonic research aircraft and today’s X-59 quiet supersonic demonstrator, NASA has spent decades pushing the boundaries of flight.",
+        "With the X-70, NASA will expand its capacity to conduct experimental flight research, accelerate the testing of emerging technologies, and advance the next generation of American aviation."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "nasa-news-nasa-announces-x-70-experimental-aircraft-to-advance-fligh",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "dek": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T01:43:21.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.",
+        "The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore aircraft maneuverability in ways never before demonstrated in crewed flight. The aircraft can also accommodate up to 2,000 pounds of experimental payloads in internal and external locations, enabling a wide range of research and flight-testing opportunities.",
+        "“The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” said NASA Administrator Jared Isaacman. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, and moving quickly from one experiment to the next. We expect her first flight under the NASA banner within the next two years, and X-70 is just one part of this new beginning for aeronautics. This is why people come to NASA: to build, to learn, and most importantly, to fly.”",
+        "The X-70 Fractal has a takeoff weight of 10,000 pounds and is designed to cruise at Mach . 75, reach altitudes of up to 45,000 feet, and provide an operational range exceeding about 1,726 miles (1,500 nautical miles). These capabilities will enable NASA to conduct demanding flight research across a broad range of operating conditions.",
+        "“For decades, NASA Aeronautics has used X-planes to develop technologies that advance aviation,” said Laurie Grindle, director of the Aeronautics Division within NASA’s Research and Technology Mission Directorate. “It’s exciting to bring on another X-plane to accelerate and drive aeronautics research.”",
+        "The X-70 joins a storied legacy of experimental aircraft that have helped establish America’s leadership in aviation. From the Bell X-1, which first broke the sound barrier in 1947, to the X-15 hypersonic research aircraft and today’s X-59 quiet supersonic demonstrator, NASA has spent decades pushing the boundaries of flight.",
+        "With the X-70, NASA will expand its capacity to conduct experimental flight research, accelerate the testing of emerging technologies, and advance the next generation of American aviation."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "nasa-nasa-shares-plans-to-accelerate-artemis-return-to-moon",
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "dek": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028.",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-04T21:04:10.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028.",
+        "Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon landing mission in 2028. Building on the priorities announced at Ignition earlier this year, NASA leadership shared the agency’s significant progress across its missions, working with industry partners to test critical capabilities, reduce risk, and build toward a sustained American presence on the Moon.",
+        "“This is a very energized NASA, and these updates are only a small part of that story. We are bringing extreme focus to the mission to ensure delivery of world-changing outcomes as quickly, safely, affordably, and successfully as possible,” said Isaacman. “NASA is driving outcomes to make Moon missions a reality, and we’re not waiting for others to bring their plans to us — the campaign must move with urgency as strategic competitors pursue a permanent presence beyond Earth.”",
+        "The agency shared details of the Artemis III mission, which will test rendezvous, docking, and operations between NASA’s Orion spacecraft and lunar lander test vehicles from SpaceX and Blue Origin in Earth orbit. Four astronauts will fly aboard Orion, launched on NASA’s SLS (Space Launch System) rocket, for a planned 14-day mission in Earth orbit to reduce risk ahead of the Artemis IV moon landing mission.",
+        "The Artemis III mission will unfold in sequence: Blue Origin will launch a Blue Moon lander test article into Earth orbit, SLS will launch Orion and its crew, docking with the Blue Moon lander test article, then SpaceX will launch a Version 3 Starship lander test article while Orion will undock from Blue Moon and dock with Starship.",
+        "The Oct. 23 updates follow other recent updates about the Artemis missions. Hardware for Artemis III is on track, with processing timelines sharply reduced by about half. NASA also redesigned, built, and tested a critical fuel-line component in-house in five months, at roughly a tenth of the cost of an earlier outside-vendor estimate.",
+        "“NASA should be expected to do this kind of work, and we have some of the best technical knowledge in the world on rocket hardware and operations to do it,” said Jeremy Parsons, the agency’s Artemis program manager. “It’s an example of how we are rebuilding our core competencies and developing centers of excellence in technical functions instead of continuing to outsource expertise.”",
+        "For the agency’s Artemis IV mission in 2028, astronauts will launch aboard Orion on the SLS rocket from NASA’s Kennedy Space Center in Florida. NASA is working with SpaceX and Blue Origin to develop lunar landers to carry those astronauts to the Moon’s surface. Both companies have redesigned their approaches to simplify the missions and make them more efficient and flexible as compared to previous mission designs.",
+        "SpaceX’s Starship will refuel in Earth orbit, rendezvous with Orion, and then carry the spacecraft toward the Moon. Blue Origin’s approach involves transfer stages in Earth orbit to push its Blue Moon Mark 2 lander toward the Moon, where it will meet Orion in a closer lunar orbit before descending to the surface.",
+        "Both SpaceX and Blue Origin are targeting to be able to support a crewed lunar landing in 2028.",
+        "For Artemis IV, NASA is pursuing two upper-stage options for the SLS rocket: its current stage, the interim cryogenic propulsion stage; and a stretched version of ULA’s Centaur V which can carry more propellant. Pursuing both options ensures NASA is maintaining flexibility and preventing single-point dependency.",
+        "NASA also announced plans with spacesuit provider Axiom Space to develop a second, lighter suit design called the “Sortie suit” to enable the first moonwalks. The Sortie suit will not replace Axiom’s primary suit, which will be used for longer, more demanding missions in the future. The Sortie suit is roughly half the weight of the larger suit and lets NASA move faster on the earliest surface missions."
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "nasa-news-nasa-shares-plans-to-accelerate-artemis-return-to-moon",
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "dek": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028.",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-04T21:04:10.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028.",
+        "Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon landing mission in 2028. Building on the priorities announced at Ignition earlier this year, NASA leadership shared the agency’s significant progress across its missions, working with industry partners to test critical capabilities, reduce risk, and build toward a sustained American presence on the Moon.",
+        "“This is a very energized NASA, and these updates are only a small part of that story. We are bringing extreme focus to the mission to ensure delivery of world-changing outcomes as quickly, safely, affordably, and successfully as possible,” said Isaacman. “NASA is driving outcomes to make Moon missions a reality, and we’re not waiting for others to bring their plans to us — the campaign must move with urgency as strategic competitors pursue a permanent presence beyond Earth.”",
+        "The agency shared details of the Artemis III mission, which will test rendezvous, docking, and operations between NASA’s Orion spacecraft and lunar lander test vehicles from SpaceX and Blue Origin in Earth orbit. Four astronauts will fly aboard Orion, launched on NASA’s SLS (Space Launch System) rocket, for a planned 14-day mission in Earth orbit to reduce risk ahead of the Artemis IV moon landing mission.",
+        "The Artemis III mission will unfold in sequence: Blue Origin will launch a Blue Moon lander test article into Earth orbit, SLS will launch Orion and its crew, docking with the Blue Moon lander test article, then SpaceX will launch a Version 3 Starship lander test article while Orion will undock from Blue Moon and dock with Starship.",
+        "The Oct. 23 updates follow other recent updates about the Artemis missions. Hardware for Artemis III is on track, with processing timelines sharply reduced by about half. NASA also redesigned, built, and tested a critical fuel-line component in-house in five months, at roughly a tenth of the cost of an earlier outside-vendor estimate.",
+        "“NASA should be expected to do this kind of work, and we have some of the best technical knowledge in the world on rocket hardware and operations to do it,” said Jeremy Parsons, the agency’s Artemis program manager. “It’s an example of how we are rebuilding our core competencies and developing centers of excellence in technical functions instead of continuing to outsource expertise.”",
+        "For the agency’s Artemis IV mission in 2028, astronauts will launch aboard Orion on the SLS rocket from NASA’s Kennedy Space Center in Florida. NASA is working with SpaceX and Blue Origin to develop lunar landers to carry those astronauts to the Moon’s surface. Both companies have redesigned their approaches to simplify the missions and make them more efficient and flexible as compared to previous mission designs.",
+        "SpaceX’s Starship will refuel in Earth orbit, rendezvous with Orion, and then carry the spacecraft toward the Moon. Blue Origin’s approach involves transfer stages in Earth orbit to push its Blue Moon Mark 2 lander toward the Moon, where it will meet Orion in a closer lunar orbit before descending to the surface.",
+        "Both SpaceX and Blue Origin are targeting to be able to support a crewed lunar landing in 2028.",
+        "For Artemis IV, NASA is pursuing two upper-stage options for the SLS rocket: its current stage, the interim cryogenic propulsion stage; and a stretched version of ULA’s Centaur V which can carry more propellant. Pursuing both options ensures NASA is maintaining flexibility and preventing single-point dependency.",
+        "NASA also announced plans with spacesuit provider Axiom Space to develop a second, lighter suit design called the “Sortie suit” to enable the first moonwalks. The Sortie suit will not replace Axiom’s primary suit, which will be used for longer, more demanding missions in the future. The Sortie suit is roughly half the weight of the larger suit and lets NASA move faster on the earliest surface missions."
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "nasa-nasa-announces-ka-band-satellite-relay-awards-for-space-co",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "dek": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-04T18:00:02.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems.",
+        "Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration elements, as one of many customers in the commercial marketplace.",
+        "The awards, under the Next Space Technologies for Exploration Partnerships-3 Broad Agency Announcement Appendix E, are firm-fixed-price contracts that give NASA the option to provide additional funding up to the award limit to advance from initial concept development and risk reduction to an in-orbit flight demonstration. The initial period of performance runs from Nov. 4 through May 3, 2027, with additional priced options to continue work through 2029.",
+        "The contract awardees with maximum potential value inclusive of all future options are:",
+        "Facilitated through the agency’s SCaN (Space Communications and Navigation) program’s Communications Services Project, this work supports NASA’s decision to gradually retire the Tracking and Data Relay Satellite fleet and adopt commercial services for future missions. In addition to the commercial capabilities currently under development by the program’s industry partners, Ka-band services are needed to support select in-orbit missions that cannot feasibly modify flight hardware or transition to non-compatible commercial services.",
+        "To learn more about NASA’s Network Extension for User Continuity and Sustainability Ka-band service acquisition, visit:",
+        "Jennifer Dooren / Jessica Taveau Headquarters, Washington 202-358-1600 jennifer. m. dooren@nasa. gov / jessica. c. taveau@nasa. gov"
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "nasa-news-nasa-announces-ka-band-satellite-relay-awards-for-space-co",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "dek": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-04T18:00:02.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems.",
+        "Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration elements, as one of many customers in the commercial marketplace.",
+        "The awards, under the Next Space Technologies for Exploration Partnerships-3 Broad Agency Announcement Appendix E, are firm-fixed-price contracts that give NASA the option to provide additional funding up to the award limit to advance from initial concept development and risk reduction to an in-orbit flight demonstration. The initial period of performance runs from Nov. 4 through May 3, 2027, with additional priced options to continue work through 2029.",
+        "The contract awardees with maximum potential value inclusive of all future options are:",
+        "Facilitated through the agency’s SCaN (Space Communications and Navigation) program’s Communications Services Project, this work supports NASA’s decision to gradually retire the Tracking and Data Relay Satellite fleet and adopt commercial services for future missions. In addition to the commercial capabilities currently under development by the program’s industry partners, Ka-band services are needed to support select in-orbit missions that cannot feasibly modify flight hardware or transition to non-compatible commercial services.",
+        "To learn more about NASA’s Network Extension for User Continuity and Sustainability Ka-band service acquisition, visit:",
+        "Jennifer Dooren / Jessica Taveau Headquarters, Washington 202-358-1600 jennifer. m. dooren@nasa. gov / jessica. c. taveau@nasa. gov"
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
