@@ -1,0 +1,1116 @@
+{
+  "generatedAt": "2026-11-06T22:45:49.568Z",
+  "date": "2026-11-07",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-the-wasps-that-horrified-darwin-reveal-evolutions-one-way-",
+      "title": "The wasps that horrified Darwin reveal evolution's one-way streets",
+      "dek": "Few insects have a more gruesome lifestyle than Darwin wasps. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T22:20:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-wasps-horrified-darwin-reveal-evolution.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Few insects have a more gruesome lifestyle than Darwin wasps. Rather than simply hunting other animals, these parasitic wasps lay their eggs on or inside living hosts, including caterpillars, beetles and spiders. Their larvae then feed on their hosts, gradually consuming them and eventually killing them.",
+        "This disturbing biology fascinated Charles Darwin. In an 1860 letter to American botanist Asa Gray, he questioned how a benevolent God could have deliberately created creatures that feed \"within the living bodies of caterpillars.\" This famous observation later inspired the name Darwin wasps for the insect family Ichneumonidae, which includes more than 25,000 described species.",
+        "Different species employ remarkably different strategies. Some wasps permanently paralyze their hosts before laying their eggs, effectively turning them into immobile food supplies for their offspring. Others adopt a more intricate approach: they allow their hosts to remain alive, feeding and growing even as the developing wasp larvae consume them.",
+        "These contrasting strategies offer a window into a fundamental question in evolutionary biology: how predictable is evolution? Scientists have long recognized that similar adaptations can arise independently in different organisms, suggesting that evolution sometimes arrives at the same solutions again and again. But a related question has received less attention: when evolution takes a particular direction, how easily can it turn back?",
+        "Now, an international team of scientists led by the Museum für Naturkunde Berlin has used Darwin wasps to investigate this question, revealing that some evolutionary innovations arise repeatedly but are almost never reversed.",
+        "By analyzing genetic data from 697 wasp species, representing every major lineage of Darwin wasps, researchers reconstructed the evolutionary history of these strategies. They discovered a striking pattern: the transition from paralyzing hosts to allowing them to continue developing occurred independently at least 23 times, but they found no evidence of reversals. Similarly, the evolution of larvae developing inside rather than outside their hosts occurred repeatedly but was only rarely reversed.",
+        "\"Evolution doesn't necessarily keep all its options open,\" explains Bernardo F. Santos, lead author of the study and researcher at the Museum für Naturkunde Berlin. \"Once a wasp lineage evolves a close relationship with a living, developing host, returning to its ancestral strategy seems extremely difficult. It's something like an evolutionary ratchet: you can move forward, but going backward becomes nearly impossible.\"",
+        "The study, published in the journal Current Biology , provides compelling evidence that evolution can be both remarkably repeatable and strongly directional. Different lineages independently arrived at similar solutions, yet almost never returned to their previous ways of life.",
+        "The findings highlight how evolution is shaped not only by chance and natural selection, but also by the constraints imposed by an organism's own evolutionary history. Rather than an unlimited exploration of possibilities, evolution may follow paths that become increasingly difficult to abandon once taken.",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "Genetic analysis of 697 Darwin wasp species inferred at least 23 independent transitions from permanent host paralysis to continued host development, with no detected reversals. Internal larval development also evolved repeatedly but rarely reversed, suggesting that evolutionary history constrains subsequent transitions.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-air-holes-turn-silicon-wafers-into-flat-ultraviolet-focusi",
+      "title": "Air holes turn silicon wafers into flat ultraviolet focusing mirrors for compact optics",
+      "dek": "Traditional lenses and mirrors focus light using curved surfaces. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T22:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Traditional lenses and mirrors focus light using curved surfaces. Metasurfaces can achieve similar functions with a flat layer of nanoscale structures that locally control the phase of light. Extending these flat optics into the ultraviolet could support compact systems for high-resolution imaging, spectroscopy, and sensing, but it introduces a fundamental materials problem: many of the materials used to make metasurfaces strongly absorb UV light.",
+        "Researchers at the University of Stuttgart have developed an alternative approach that turns this limitation on its head. Rather than trying to make an absorbing material transparent, their metasurface confines much of the light inside tiny air-filled cavities etched directly into silicon.",
+        "The device focuses reflected ultraviolet light at a wavelength of 325 nm and demonstrates a new approach to controlling light in wavelength ranges where suitable transparent materials can be difficult to find.",
+        "The research is published in the journal Advanced Photonics .",
+        "Many conventional dielectric metasurfaces rely on tiny pillars made from materials with a high refractive index. Light becomes concentrated inside the pillars, and variations in their geometry allow the metasurface to control the emerging wavefront. Silicon works well for this purpose at visible and longer wavelengths, but becomes strongly absorbing in the ultraviolet. Light confined within a silicon resonator would therefore be lost rather than efficiently redirected.",
+        "Structures called Mie voids invert this concept. Instead of forming resonators from solid pillars surrounded by air, the researchers etched small air cavities into bulk silicon. Light entering a void reflects from the surrounding silicon boundaries, creating a resonant mode concentrated predominantly in the air cavity, where absorption is negligible. This reduces the optical field's overlap with the absorbing silicon.",
+        "Counterintuitively, silicon's strong absorption at ultraviolet wavelengths can contribute to this confinement. The complex optical properties that accompany absorption increase the reflectivity of the air-silicon interface, helping light remain confined within the void. The strategy therefore does not eliminate silicon's UV absorption. Instead, it uses the optical properties of the absorbing material while keeping much of the resonant field away from it.",
+        "To turn these resonators into a focusing element, the voids are shaped as ellipses approximately 470 nanometers long and 100 nanometers deep. When circularly polarized light illuminates an elliptical void, the reflected light acquires a so-called geometric phase equal to twice the void's rotation angle. By varying this rotation across the half-millimeter-sized metasurface, a focusing profile is encoded directly into the silicon. Under a standard optical microscope, this arrangement appears as colored ring patterns, making the encoded focusing design directly visible.",
+        "When illuminated at an incidence angle of 45 degrees with 325 nanometer UV light, these metasurfaces act as flat equivalents of off-axis parabolic mirrors, redirecting the beam by 90 degrees while focusing it. Metasurfaces with focal lengths from 5 millimeters down to 1. 25 millimeters were fabricated and produced circular focal spots as small as about 1 micrometer. Up to a numerical aperture of 0. 15, the spots approached the diffraction limit, which is the fundamental resolution bound set by the wave nature of light.",
+        "The versatility of possible wavefront shaping is further demonstrated by adding a spiral phase to the layout, generating so-called orbital angular momentum beams. They can be understood as light twisting its phase around its propagation axis and display doughnut-shaped intensity distributions in the beam's cross-section.",
+        "The core advantage of the concept is its simplicity. The metasurfaces are fabricated in a single lithography and etching step on standard silicon substrates, compatible with established semiconductor processing. The bulk substrate remains mechanically robust and dissipates heat effectively.",
+        "Moreover, because the mechanism tolerates and even benefits from material absorption, it can be extended into the deep and vacuum UV spectral range and can be applied to a multitude of other material platforms. Furthermore, because many biomolecules have characteristic UV absorption signatures, such compact UV metasurfaces could eventually find applications in integrated sensing.",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "Air cavities etched into silicon confine ultraviolet light mainly in air, reducing overlap with absorbing silicon. Flat mirrors made from rotated elliptical cavities focused 325 nm light into spots as small as 1 µm, approaching the diffraction limit up to a numerical aperture of 0. 15."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-how-a-metabolite-protects-the-enzyme-that-consumes-it",
+      "title": "How a metabolite protects the enzyme that consumes it",
+      "dek": "Metabolites are consumed by enzymes to produce other vital molecules as well as to control metabolite levels. But how do cells avoid consuming too much? ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T21:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-metabolite-enzyme-consumes.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Metabolites are consumed by enzymes to produce other vital molecules as well as to control metabolite levels. But how do cells avoid consuming too much? Researchers from the MPI of Biochemistry, with the University of Nevada, Las Vegas, and the de Duve Institute in Brussels, have deciphered such molecular regulation in tryptophan metabolism. The essential amino acid tryptophan binds to a second site on the enzyme TDO2, distinct from where it is consumed. This sequesters a region needed by two effectors, the kinase CK2 and the ubiquitin ligase CUL1–β-TrCP, which act sequentially to signal TDO2 degradation. The findings are now published in Molecular Cell .",
+        "The essential amino acid tryptophan is a key building block for proteins and also serves as a precursor for serotonin, melatonin, niacin (vitamin B3) and NAD+. These molecules are vital for the nervous and immune systems and the cell's energy supply. As tryptophan can only be obtained through dietary supply, the body must maintain tryptophan levels within a physiological range.",
+        "The enzyme tryptophan 2,3-dioxygenase (TDO2) carries out the first and rate-limiting step of the kynurenine pathway. While the cell requires the downstream products of TDO2, it must also avoid consuming too much tryptophan.",
+        "Researchers have known since the 1950s that TDO2 is stable when there is sufficient tryptophan and is rapidly broken down when tryptophan supply is limiting. It has recently been shown that this feedback mechanism relies on the ubiquitin-proteasome system, the cellular system that marks and degrades unwanted proteins. How tryptophan controls this system has now been elucidated.",
+        "Alina Thielen, the first author of the study, explains, \"To identify the molecular mechanism underlying TDO2 degradation, we conducted a genome-wide CRISPRi screen. This enabled us to discover the two proteins controlling the degradation process: the kinase CK2 and the E3 ligase CUL1–β-TrCP. To understand their mechanism of action, we performed biochemical reactions with purified proteins in a test tube and used cryo-electron microscopy to examine the structure of TDO2 with and without tryptophan occupying the second binding site.\"",
+        "The kinase and E3 ligase proteins act sequentially on TDO2 to mark it for degradation. When tryptophan becomes scarce, the kinase CK2 attaches phosphate groups to TDO2. This phosphorylation serves as a recognition signal for the E3 ligase CUL1–β-TrCP, which then attaches ubiquitin to TDO2. Ubiquitin-tagged TDO2 is recognized by the proteasome, the cell's waste disposal system.",
+        "Thielen explains, \"It was already known that tryptophan binds to a second site on TDO2, which is located distal from the catalytic center. Using cryo-electron microscopy, we were able to see how tryptophan organizes a section of the protein near this second binding site to stabilize TDO2. This section folds over the bound tryptophan like a flap, so that the nearby recognition sequence for CK2 and CUL1–β-TrCP is inaccessible.",
+        "\"If the tryptophan level drops, tryptophan dissociates from the second binding site. As a result, the flap becomes unstructured, making the recognition sequence for CK2 and CUL1–β-TrCP accessible and thereby initiating the process of protein degradation.\"",
+        "Upregulation of TDO2 has been observed in neurological disorders and various types of cancer. In tumors, elevated TDO2 levels can weaken the antitumor immune response. TDO2 is therefore a potential target for new therapeutic agents.",
+        "Brenda Schulman explains, \"A detailed understanding of TDO2 regulation is important to be able to utilize TDO2 as a therapeutic target. A drug that targets the site where the enzyme consumes tryptophan could also bind to the second binding site and thereby promote unintended TDO2 stabilization. On the other hand, a molecule that occupies the second binding site but keeps the recognition sequence for CK2 and CUL1–β-TrCP accessible could induce the degradation of TDO2.\"",
+        "Schulman summarizes the new findings: \"Tryptophan is not only a metabolite and substrate for TDO2—it also acts as a signal that determines how long the TDO2 enzyme remains stable within the cell. Our study reveals a general principle for how a metabolite directly controls the stability of the enzyme that consumes it, thereby linking the cell's metabolism to protein degradation. We are now investigating how cells use this strategy more widely to regulate metabolism according to nutrient supply.\"",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;"
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-new-method-measures-microplastics-in-the-air-using-an-uncr",
+      "title": "New method measures microplastics in the air using an uncrewed aerial system",
+      "dek": "Microplastics have been found in our bodies and the food we eat—and even in remote environments around the world, including seawater and ice in the Arctic. ",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T21:20:04.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-method-microplastics-air-uncrewed-aerial.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Microplastics have been found in our bodies and the food we eat—and even in remote environments around the world, including seawater and ice in the Arctic. Despite their prevalence, little is known about how they move through the atmosphere. New CIRES-led research , which demonstrates a new method for sampling microplastics in the atmosphere using an uncrewed aerial system (UAS), aims to change that. The findings are published in the journal Scientific Reports .",
+        "\"Atmospheric microplastics are usually sampled from a rooftop, ground-based location or ship,\" said Radiance Calmer, a former CIRES researcher who is now working at the Norwegian Polar Institute and lead author of the paper. \"Our proof-of-concept study shows we can sample atmospheric microplastics using UAS flights for a specific height.\"",
+        "Their results not only indicate microplastics are present 100 meters (328 feet) high in the atmosphere near areas with intense human activity but also confirm the team's UAS sampling method is a feasible approach for measuring microplastics in the atmosphere. They are the first team to successfully use an environmental cyclone sampler on a UAS to collect microplastics.",
+        "The work establishes a potential framework for atmospheric microplastics sampling in remote environments, including above the ocean and in the lower atmosphere, where traditional sampling methods are limited and often cost-prohibitive.",
+        "\"Microplastics can be transported to places people aren't looking for them, making them hard to track,\" said Gijs de Boer, the Environment & Energy Division director at Brookhaven National Laboratory and a co-author who was a faculty research scientist at CIRES and CU Boulder.",
+        "Tracking these tiny particles is important because they are potentially harmful to human health and have unknown impacts on important Earth system processes, such as cloud formation and sea ice melting.",
+        "The new project was an engineering and atmospheric science puzzle, bringing together experts from CIRES, CU Boulder and the University of Rhode Island (URI).",
+        "First, the team adapted an instrument commonly used in aerosol monitoring—an environmental cyclone sampler—to capture particles from 1 to 10 micrometers in size and attached it to a small UAS. Since the concentration of microplastics in the atmosphere is small, they then had to adapt their sampling method to ensure they captured enough particles.",
+        "\"The challenge was to sample a large enough volume of air to ensure that some microplastics were present among all the particles,\" Calmer said. \"It was not easy because of the limited UAS flight time, which was around 25 minutes.\"",
+        "In fall 2024, the team deployed their instrument above two sites in Colorado: near a heavily trafficked highway in Erie and residential areas and a landfill in Arvada.",
+        "After the UAS flights, the samples were preprocessed at CU Boulder to separate the microplastics from organic particles. The samples then traveled to URI, where researchers counted and identified each particle by plastic type.",
+        "Their samples were dominated by clusters of plastic and environmental material called hetero-aggregates, which are often found near highways and areas with high levels of human activity.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Calmer and de Boer, who were principal investigators on the project, emphasized that the CIRES IRP was key to getting this research off the ground. The program is an internal competition that supports novel or unconventional research that might be difficult to fund through traditional approaches."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-future-warming-events-will-outdo-the-extreme-heat-waves-of",
+      "title": "Future warming events will outdo the extreme heat waves of the recent past, new study finds",
+      "dek": "The extreme heat waves we have seen over the last few years may only serve as a preview of what is to come as a result of climate change. ",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T21:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-future-events-outdo-extreme.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "The extreme heat waves we have seen over the last few years may only serve as a preview of what is to come as a result of climate change. A new study led by researcher Philipp Aglas-Leitner from Freie Universität Berlin, published in Nature Communications , finds that future heat waves could last longer, impact larger areas, and be much more severe.",
+        "In the study \"Recent extreme heatwaves are no match for future events,\" the research team analyzed 22 exceptional heat waves that occurred between 2010 and 2023 in regions such as Europe, Australia, China, India and Pakistan, North Africa and the Middle East, and South America. Nine heat waves from between 2015 and 2023 were investigated in depth. The researchers then compared these events with climate model projections for the period from 2020 to 2100.",
+        "Unlike analyses that observe individual temperature records, this new study investigates several heat wave characteristics at the same time, such as duration, cumulative heat, median and maximum event severity, and median and maximum spatial extent of locally heat-affected areas.",
+        "Two independent reference data sets from Berkeley Earth and ERA5 were used to analyze the 22 exceptional heat waves. The team used multimodel ensembles from the international model comparison projects CMIP5 and CMIP6 to create climate projections and assessed different scenarios, ranging from substantial emissions reductions through to scenarios with high and very high emissions, as well as a number of different global warming levels.",
+        "\"The results demonstrate a clear pattern across different climate model ensembles and emission scenarios: A substantial proportion of future heat waves surpass exceptional events in the recent lived experience. They could last longer, impact larger areas, be more severe and produce much higher accumulated temperature anomalies. Recent observed events are outmatched by a substantial margin, particularly toward the end of the 21st century,\" says Philipp Aglas-Leitner, first author of the study from the Department of Physics and Department of Mathematics and Computer Science, Freie Universität Berlin.",
+        "The study's projections of severe heat waves are especially striking. The authors state that they will become much more frequent in many regions in the period from 2015 to 2054. The majority of the model ensembles for a lot of the regions investigated are projected to have at least one exceptional heat wave period per year between 2060 and 2099. In Europe, future heat waves could stretch out over several months and impact a significant portion of the continent.",
+        "\"Our results clearly demonstrate that many of the extreme heat waves that people today have experienced in recent years could be outmatched by those of the future. This has far-reaching implications for human health, infrastructure and ecosystems,\" Aglas-Leitner explains. \"Even ambitious emission reduction goals offer only limited protection. Without substantial emission reductions and consistent adaptation measures, however, a significant part of the 21st century will be defined by heat that goes far beyond our recent experiences.\"",
+        "BA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "Climate projections indicate that future heat waves will exceed exceptional events from 2010–2023 in duration, extent, severity and cumulative heat. By 2060–2099, many regions could face such events annually. Substantial emissions cuts and adaptation are needed to limit risks, although ambitious mitigation cannot eliminate them.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors.",
+        "Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages.",
+        "Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose. The information you enter will appear in your e-mail message and is not retained by Phys. org in any form."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-light-powered-method-resurrects-dead-end-compounds-for-dru",
+      "title": "Light-powered method resurrects 'dead-end' compounds for drug discovery",
+      "dek": "Throughout the drug development process, which can take a decade or more, tens of thousands of chemical compounds are produced that never go on to become medicines. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T20:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-powered-method-resurrects-dead-compounds.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Throughout the drug development process, which can take a decade or more, tens of thousands of chemical compounds are produced that never go on to become medicines. A Florida State University researcher is part of a team that has discovered a new way to give some of these \"dead ends\" a second chance at becoming the foundation for tomorrow's blockbuster drugs.",
+        "Assistant professor of chemistry and biochemistry Bryan Kudisch and his collaborators have developed a light-powered chemical reaction that can transform a difficult-to-repurpose class of compounds known as sulfonamides into useful building blocks for future drug discoveries. Their research was published in the Journal of the American Chemical Society .",
+        "\"Kudisch is a molecular spectroscopist who develops and applies laser-based techniques to measure extraordinarily short-time processes, particularly chemically important processes induced by light,\" said Wei Yang, Department of Chemistry and Biochemistry chair. \"His work demonstrates both exceptional technical ability and extraordinary insight into some of the most fundamental and complex processes in chemistry. This publication addressed an important problem closely related to drug discovery, which is a major strategic area of the FSU ASPIRE initiative.\"",
+        "Sulfonamides—which appear in and give rise to the name \"sulfa drugs\"—are one of the most important molecular substructures in medicinal chemistry. These synthetic medications were some of the first widely used antibiotics almost 90 years ago. Today, they're still used and found in a variety of medicines that treat diseases and symptoms including type 2 diabetes, high blood pressure, HIV and melanoma.",
+        "Despite their usefulness in many pharmaceuticals, sulfonamides are difficult to repurpose because they are chemically inert. Chemists have developed recipes to interconvert many other functional groups that change the biological properties of a compound, but relatively few options are available to do this with sulfonamides—especially for the sulfur atom that lies at the center of these substructures. Removing this atom or replacing it with a new chemical group could allow researchers to create new versions of existing compounds while preserving their other useful features.",
+        "Kudisch and his collaborators addressed this challenge by using a photochemical reaction that converts sulfonamides into anilines, a different class of chemical compounds that serves as the foundation for some cancer-fighting medicines. By transforming part of the molecular structure, otherwise dead-end compounds once again become potential starting points for developing new medicines.",
+        "\"This outcome was achieved through a chemical 'surgery' that uses light to excise a sulfur atom from a sulfonamide,\" Kudisch said. \"We're optimistic these types of photochemical surgical tools could underpin a range of powerful processes for reshaping molecules that could advance the development of new medicines.\"",
+        "To better understand the molecular reaction during this excision, Kudisch used advanced laser spectroscopic methods to observe the reaction as it happened within a single microsecond.",
+        "\"We essentially spy on what the light is doing to sulfonamides,\" Kudisch said. \"Our research focuses on what photochemistry secrets are encoded in this transformation. We can track the molecules to understand how they transition into structures that eventually become the desired product or unwanted side product.\"",
+        "Kudisch collaborated with assistant professors of chemistry Eric Nacsa and Elvira Sayfutyarova at Pennsylvania State University as well as pharmaceutical company GSK on the research. Kudisch's group conducted experimental studies to investigate the reaction's mechanism while Sayfutyarova completed computational studies explaining how the reaction occurs. Nacsa's group discovered and optimized the reaction, demonstrated its broad applications and conducted additional mechanistic studies. GSK helped show the potential application of the new reaction in drug discovery.",
+        "\"Experimental contributions from the Kudisch Lab at FSU combined with computational work by the Sayfutyarova group at Penn State were critical for understanding the reaction's mechanism,\" Nacsa said. \"We anticipate these results and ongoing collaborations with the Kudisch group will provide new fundamental insight into how light can transform molecular structures.\"",
+        "With structure-based drug design becoming more essential for efficient medicine development, this technique can play a key role in contributing to new drug discoveries when applied to different groups of molecules."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "conversation-pope-leos-trip-is-a-homecoming-to-peru-where-debate-over-l",
+      "title": "Pope Leo’s trip is a homecoming to Peru – where debate over liberation theology roiled the church during his early years as a priest",
+      "dek": "Pope Leo XIV travels to Latin America on Nov. 6, 2026, with a packed itinerary that will bring him through Uruguay, Argentina and Peru. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T18:52:07.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/pope-leos-trip-is-a-homecoming-to-peru-where-debate-over-liberation-theology-roiled-the-church-during-his-early-years-as-a-priest-294299"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Pope Leo XIV travels to Latin America on Nov. 6, 2026, with a packed itinerary that will bring him through Uruguay, Argentina and Peru. It is Leo’s first trip to the region since his elevation to the papacy – and a homecoming for a pope who spent two decades in Peru and holds Peruvian citizenship.",
+        "As a historian of Catholicism in the late 20th century , I couldn’t help but notice that the pope’s plans walk a fine line during a fraught political moment in Latin America.",
+        "Leo plans to meet with the right-wing presidents of Argentina and Peru . He will also visit sites often associated with the progressive wing of the Catholic Church, including Casavalle, one of the poorest neighborhoods in Uruguay’s capital. In Argentina, where President Javier Milei has drastically cut funding for disability services, the pope will go to a Catholic home for disabled people.",
+        "And in Chiclayo, Peru, where Leo served as a bishop, he will pray at a chapel dedicated to St. Óscar Romero. A Salvadoran archbishop, Romero was assassinated in 1980 after years of speaking out against the human rights violations committed by the U. S. -supported Salvadoran military . His ministry was influenced by liberation theology , a controversial movement born in Peru that roiled church politics for decades – including during Leo’s years in Peru.",
+        "The name itself was coined in a 1968 lecture by Gustavo Gutiérrez , a Peruvian theologian and priest. He expanded on his ideas in a 1971 book, “ A Theology of Liberation .”",
+        "Gutiérrez and like-minded theologians argued that Christians have a moral duty to liberate the oppressed . They saw poverty, violence, racism and discrimination as not just problems but collective sins. While building on earlier Catholic social teachings, these “liberationists” envisioned profound change that went beyond the spiritual care and charitable work of traditional Latin American Catholicism.",
+        "Catholics inspired by liberation theology created community organizations and work cooperatives, organized labor unions and fostered other initiatives that sought to measurably improve the lives of the poor. In my own research , I’ve documented how priests and nuns in rural Mexico helped organize transportation, corn milling and carpentry cooperatives.",
+        "Gutiérrez also argued that Christians should use Marxist ideas about analyzing society and the economy to better understand inequality . In nations like Peru, which possessed rich natural resources , liberationists tailored their economic justice projects to address how international and national companies profited off the low wages of miners and farmers.",
+        "During the Cold War, however, these ideas led some politicians and church leaders to accuse liberationists of socialism and communism.",
+        "A minority fringe of liberationists did embrace left-ring radicalism. Christians for Socialism , for example, argued that liberation meant rejecting capitalism . Some clergy, although only a handful, even picked up arms to fight alongside clandestine left-wing revolutionary groups.",
+        "In 1891, Pope Leo XIII – the current pope’s namesake – published “Rerum Novarum ,” an encyclical focused on workers’ rights amid the Industrial Revolution. Since then, the Vatican had critiqued the worst excesses of capitalism while also rejecting socialism and communism, which it viewed as godless ideologies.",
+        "During the 1960s and ’70s, Pope Paul VI generally supported local initiatives by liberationist Catholics , including some in Chulucanas, Peru , where Leo began his missionary work. Paul appointed and elevated bishops who shared a vision that the church could help empower the poor and alleviate oppression.",
+        "But the Vatican shifted when the Polish cardinal Karol Józef Wojtyla became Pope John Paul II in 1978. For most of his adult life, Poland had been part of the Soviet bloc, which imposed restrictions on organized religion. A staunch opponent of communism , he worried about liberation theology’s use of Marxist analysis. So did one of his top Vatican officials, Joseph Ratzinger – the future Pope Benedict XVI.",
+        "The Vatican began investigating some liberation theologians for violations of church teachings. In 1985, for example, Brazilian liberationist theologian Leonardo Boff was ordered to observe a year of silence – no publishing, no public speaking – to discipline him for his critique of the church’s hierarchy. Several priests were suspended over their work in Sandinista Nicaragua.",
+        "John Paul ordered that the Peruvian bishops begin an investigation of Gutiérrez – above all, over Marxism’s influence on his work . Gutiérrez was ultimately not punished.",
+        "One factor in his favor may have been his consistent opposition to armed revolution, even before violence raged in Peru from the 1980s into the ’90s. The Shining Path , a Maoist guerrilla group, was waging a war of terrorism against the Peruvian government, setting off bombs across Peru.",
+        "Under President Alberto Fujimori, the government escalated existing counterinsurgency operations, often using indiscriminate violence against citizens in the region where the Shining Path emerged. In 2009, Fujimori was convicted of human rights violations .",
+        "Leo has never described himself as a liberationist Catholic. However, his experiences as a priest were indelibly shaped by liberation theology , the Peruvian armed conflict and the church debates that roiled much of Latin America during his years there.",
+        "Leo, born Robert Prevost, was raised in Chicago. After ordination, his journey as a priest began in Peru, where he landed for missionary work in 1985. The young friar followed in the footsteps of other U. S. Catholic missionaries who had been serving among Peru’s poor and Indigenous, urban and rural, since the 1940s.",
+        "Sent to Chulucanas, in Peru’s coastal northwest, Prevost found himself in a region of pastoral experimentation. Since the 1960s, Augustinian missionaries had been working closely with the community to provide literacy education, discussion groups about poverty and inequality, and workshops to train artisans.",
+        "These programs were a far cry from the more radical actions of some Catholics who supported liberation theology. Nevertheless, the programs in Chulucanas aimed to empower the Peruvian poor, chipping away at exploitation and low wages on the region’s sugarcane and cotton estates. Like Gutiérrez, many Peruvian Christians believed that the Shining Path drew support because of pervasive poverty and inequality , and that churches could help transform the nation.",
+        "But the Catholic Church in Latin America was in the midst of another transformation. John Paul gradually appointed conservative bishops across the continent. Experimental pastoral programs lost support, and institutions that trained priests to put liberation theology into action, such as the Regional Seminary of the Southeast in Mexico, were shuttered or “reoriented.”",
+        "Yet even as the hierarchy shifted conservative, work on the ground among Latin America’s poorest continued apace. From coffee cooperatives in Mexico to human rights activists across the continent, many programs survived.",
+        "Leo’s 2026 itinerary includes multiple stops that speak to this history and on-the-ground pastoral work. The most symbolic, perhaps, is the Capilla San Óscar Romero, located in Chiclayo, the pope’s former diocese."
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "scitechdaily-could-type-2-diabetes-be-reversed-14-year-study-reveals-re",
+      "title": "Could Type 2 Diabetes Be Reversed? 14-Year Study Reveals Remarkable Results",
+      "dek": "In a long-term trial, weight-loss surgery led to more type 2 diabetes remissions than intensive medical and lifestyle management, while patients’ disease histories offered…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T18:51:14.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/could-type-2-diabetes-be-reversed-14-year-study-reveals-remarkable-results/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "In a long-term trial, weight-loss surgery led to more type 2 diabetes remissions than intensive medical and lifestyle management, while patients’ disease histories offered clues to who might benefit most.",
+        "For some people with type 2 diabetes, keeping blood sugar under control without medication is possible. This state, known as remission, raises a question that could shape years of treatment decisions: Which approaches give people the best chance of reaching it, and what makes it more likely to last?",
+        "A long-term study found that 58% of participants assigned to weight-loss surgery achieved remission during follow-up, compared with 3% of those assigned to intensive medical and lifestyle management. Participants were followed for a median of 11 years, with some followed for up to 14 years. Those percentages describe how many people reached remission, rather than how many remained in remission throughout that time.",
+        "Researchers analyzed data from 262 people with type 2 diabetes, including 166 assigned to metabolic-bariatric surgery, commonly called weight-loss surgery, and 96 assigned to medical and lifestyle management. They defined remission as an A1C below 6. 5% without blood sugar-lowering medication. A1C is a blood test that reflects average blood sugar levels over approximately three months.",
+        "The findings were published in Diabetes Care , a journal of the American Diabetes Association®. They come from the Alliance of Randomized Trials of Medicine vs. Metabolic Surgery in Type 2 Diabetes (ARMMS-T2D), the largest, longest-running trial of metabolic surgery for diabetes. The study’s lead author is Donald Simonson, M. D. , MPH, Sc. D. , of Brigham and Women’s Hospital and Harvard Medical School in Boston.",
+        "Participants who had lived with diabetes for fewer years, did not use insulin, and took fewer types of blood sugar-lowering medications before treatment were more likely to achieve remission. Greater weight loss during the first year after treatment was also associated with a higher likelihood of remission.",
+        "Among people who initially reached remission, diabetes was more likely to return in those who had lived with the disease longer and those who took more types of blood sugar-lowering medications before treatment. Together, these associations suggest that a patient’s diabetes history and response to treatment may help physicians assess both the likelihood of remission and its potential duration.",
+        "The study’s principal investigator, John P. Kirwan, Ph. D. , was named executive director of the University of Oklahoma Health Harold Hamm Diabetes Center this summer. He also serves as Vice Provost for Diabetes Programs at the University of Oklahoma and holds the Chickasaw Nation Endowed Chair in Diabetes Research.",
+        "“For years, one of the most consequential questions in diabetes care has been whether the benefits of metabolic surgery endure,” Kirwan said. “Now we have a durable answer. Over 14 years, 58% of surgical patients achieved remission, compared with just 3% on medication and lifestyle alone. By identifying who is most likely to achieve lasting remission, including shorter diabetes duration, no insulin use, and greater early weight loss, we can offer surgery to the right people earlier, rather than as a last resort.”",
+        "Kirwan has led the study since its inception, through his years at the Cleveland Clinic and the Pennington Biomedical Research Center at Louisiana State University. He now brings his expertise in translational and clinical research to the OU Harold Hamm Health Campus.",
+        "“Recruiting Dr. Kirwan to lead the Harold Hamm Diabetes Center brings to Oklahoma one of the world’s foremost authorities on long-term treatment for type 2 diabetes,” said Gary Raskob, Ph. D. , Senior Vice President and Provost of the OU Harold Hamm Health Campus. “Research of this caliber is exactly what this center, and Harold Hamm’s investment in it, was created to advance.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "conversation-georgia-gov-elect-keisha-lance-bottoms-stands-on-the-shoul",
+      "title": "Georgia Gov.-elect Keisha Lance Bottoms stands on the shoulders of Stacey Abrams, Charlotta Bass and countless other Black women who dreamed",
+      "dek": "There are elections that change the political map. And then there are elections that make you wonder whether the land itself remembers.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T17:09:28.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/georgia-gov-elect-keisha-lance-bottoms-stands-on-the-shoulders-of-stacey-abrams-charlotta-bass-and-countless-other-black-women-who-dreamed-296027"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "There are elections that change the political map. And then there are elections that make you wonder whether the land itself remembers.",
+        "The auction blocks . The cotton fields . The lynching trees . The Black women who cleaned governors’ homes but could not dream of becoming governor themselves.",
+        "And now Keisha Lance Bottoms has been elected Georgia’s first Black woman governor . The first Black woman elected governor of any American state.",
+        "Bottoms has traced her ancestry back five generations to an enslaved person on a plantation near Crawfordville, Georgia.",
+        "An ancestor held in bondage on Georgia soil. A descendant elected to govern it.",
+        "The same earth. An entirely different claim to power. How many women had to believe in a future they would never live to see?",
+        "Bottoms’s victory represents the paradox of Black political advancement amid racial violence and the often-unrecognized labor of women who build futures they may never inhabit. Ultimately, Bottoms’ victory reflects both extraordinary progress and the unfinished work of American democracy.",
+        "Between 1979 and 1981, Atlanta was terrorized by the disappearances and murders of Black children and young adults. Mothers pleaded for answers. Families lived in a city where childhood itself had become dangerous.",
+        "The murders unfolded just years after Maynard Jackson’s historic 1973 election as Atlanta’s first Black mayor. His victory announced a new era of Black political power. Yet that power could not shield the city’s most vulnerable children. Suspicions of Ku Klux Klan involvement circulated , although the Klan’s responsibility was never established.",
+        "Bottoms was born in 1970 . She was 9 when the murders began. She grew up in the same Atlanta where Black parents searched desperately for their missing children. She belonged to the generation whose futures were being stolen. And now she is preparing to lead the entire state.",
+        "Those murdered children were not symbols waiting to become useful to history. They were sons and daughters who deserved the ordinary miracle of growing older. They deserved a future.",
+        "Bottoms later occupied the mayor’s office that Jackson first opened to Black leadership. Now she is preparing to occupy the governor’s mansion. History has not erased its cruelty. But it has delivered an astonishing answer.",
+        "This victory belongs, in no small measure, to democracy advocate, legislator and lawyer Stacey Abrams . Perhaps those who recognize what Abrams made possible have sent her flowers.",
+        "Abrams ran for Georgia governor in 2018 and 2022. She lost both races . But through the New Georgia Project and Fair Fight , organizations focused on engaging voters and protecting voting rights, she helped build an electorate that could imagine Georgia differently. She registered voters, challenged barriers to participation , and refused to accept that the South’s political future was fixed.",
+        "And now another Black woman has won the office Abrams twice sought, in the third gubernatorial race in a row headed by a Black Democratic woman . There is something biblical about the path Abrams steadfastly cleared. I think of Moses, guiding his people toward the Promised Land but never entering it himself.",
+        "Abrams’ journey is not over. Nor should her accomplishments be measured by another woman’s victory. But I believe there is sacred work in preparing a future you may never personally enjoy. Some people plant trees. Some people sit in their shade. Stacey Abrams planted. Bottoms is standing beneath the branches.",
+        "And as a scholar of Black media history , I can reach even further back, to another woman who understood the audacity of claiming political power: Charlotta Bass .",
+        "In 1952, Bass became the first Black woman nominated for vice president of the United States, running on the Progressive Party ticket.",
+        "Before the Voting Rights Act in 1965, before the March on Washington in 1963, before Jackson was elected mayor in 1973 and before Abrams or Bottoms drew their first breaths, there was Bass.",
+        "A Black newspaper publisher who confronted segregation, police brutality and white supremacist violence in her four-decade ownership of The California Eagle , Bass understood that political power was about more than winning office. It was about who had the right to imagine themselves in one.",
+        "Bass ran when a Black woman entering the White House seemed almost unimaginable. Almost. But not to her. I imagine she would have loved this election. And I suspect she would have had pointed questions for Gov. -elect Bottoms.",
+        "What will you do for the poor? The disenfranchised? How will you protect the vote that brought you here?",
+        "History-making is not the same as justice-making, and representation matters. The true measure of Bottoms’ victory will be whether Georgians experience the more just state she promised to bring about .",
+        "For generations, Black women have been asked to save a democracy that would not save them. We have carried clipboards, protest signs and entire movements on our backs. We have been told to wait. To be patient. To be grateful."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-the-secret-to-saving-shellfish-from-acidifying-oceans-coul",
+      "title": "The Secret to Saving Shellfish From Acidifying Oceans Could Be Hiding in Crushed Shells",
+      "dek": "Crushed shells helped young clams grow larger shells in laboratory tests, showing how a long-standing Indigenous coastal practice can offer local protection against ocean…",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T16:20:28.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/the-secret-to-saving-shellfish-from-acidifying-oceans-could-be-hiding-in-crushed-shells/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Crushed shells helped young clams grow larger shells in laboratory tests, showing how a long-standing Indigenous coastal practice can offer local protection against ocean acidification.",
+        "For a young clam, the surrounding water can threaten the shell it is trying to grow. When seawater absorbs excess carbon dioxide from the atmosphere, it becomes more acidic, making shell growth more difficult and energetically costly for animals such as clams, oysters, and mussels. Acidic seawater can even dissolve shells. Larvae and juveniles are thought to be especially vulnerable to this process, known as ocean acidification.",
+        "Indigenous communities have long added crushed shells to coastal sands to help keep these ecosystems healthy. Research from the University of California, Davis now helps explain how this material, called shell hash, can protect young clams from some of acidification’s effects. Published in Biogeosciences , the study connects the chemistry of water between sand grains with changes in clam growth and gene activity.",
+        "At the UC Davis Bodega Marine Laboratory, researchers raised baby Pacific littleneck clams in four conditions. Two groups burrowed in sediment beneath either non-acidified or acidified seawater. The other two experienced the same seawater conditions, but their sediment contained shell hash. During the 90-day experiment, the team tracked shell growth and sampled the seawater three times a week, monitoring acidity, salinity, temperature, and dissolved oxygen.",
+        "“We found that, on average, clams grew larger shells when shell hash was present in their treatment,” said study first author Hannah Kempf, an environmental scientist at the California State Water Board who graduated from UC Davis with a Ph. D. in earth and planetary sciences in 2024. “Interestingly, we also found that, on a genetic level, the ‘acidification’ signal was dramatically minimized when shell hash was present.”",
+        "The crushed shells altered the chemistry of the water filling the tiny spaces between sand particles, reducing its overall acidity and creating better conditions for shell growth. That finding places the protection at a very local scale, in the water surrounding the burrowing clams.",
+        "“Adding crushed shells removed the negative genetic changes that occur when young clams are raised in acidified water,” said study corresponding author David Gold, an associate professor of earth and planetary sciences at UC Davis.",
+        "To examine gene activity, the researchers collected samples of the clams’ mantle tissue, which produces their shells, after 90 days and used them for follow-up gene sequencing. The analysis revealed gene expression profiles, or patterns of activity across genes. In clams raised in acidified seawater with shell hash, those profiles were largely indistinguishable from those of clams raised in non-acidified water.",
+        "“This was the first time the question was studied from a genetic perspective,” Gold said.",
+        "Traditional ecological knowledge provides significant evidence that shell hash benefits shell-making animals, said study co-author Tsim Schneider, an associate professor of anthropology at UC Santa Cruz. In the Pacific Northwest, some Indigenous communities build large-scale structures that expand intertidal spaces, the areas of shore between high and low tide. These structures promote habitat for invertebrates and other marine organisms.",
+        "“For me, one of the interesting aspects of this research is the potential to engage more fully with tribes on designing projects that promote their long-standing expertise and Indigenous science,” said Schneider, who is also affiliated with the National Science Foundation’s Center for Braiding Indigenous Knowledges and Science. “If there’s a history of adding shell hash to clam beds in California, for example, western science might be able to better support communities interested in reawakening dormant cultural knowledge and coastal stewardship practices.”",
+        "The research was supported by a California Sea Grant and the Russell J. and Dorothy S. Bilinski Fellowship.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-earthquake-faults-can-suddenly-become-almost-as-fluid-as-w",
+      "title": "Earthquake Faults Can Suddenly Become Almost As Fluid as Water, Study Finds",
+      "dek": "Scientists have uncovered evidence of an unexpected process that may allow earthquake faults to slip enormous distances.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T15:09:24.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/earthquake-faults-can-suddenly-become-almost-as-fluid-as-water-study-finds/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Scientists have uncovered evidence of an unexpected process that may allow earthquake faults to slip enormous distances.",
+        "Rocks along Japan’s Boso Peninsula have preserved evidence of an extraordinary process that may occur during powerful earthquakes. Researchers discovered ancient fault structures suggesting that clay trapped between moving rock surfaces became nearly as fluid as water, potentially allowing the fault to slip enormous distances with little resistance.",
+        "The findings, from a research team led by Professor Tetsuro Hirono of Osaka Metropolitan University, could help explain how some earthquakes produce the massive seafloor movements capable of triggering devastating tsunamis.",
+        "The researchers examined exposed rocks that formed in an ancient seafloor environment approximately 15 million years ago. Within an old earthquake fault, they identified unusual wavy and curved layers, along with swirling structures resembling vortices formed by moving fluids.",
+        "The team described these formations as “turbulent-flow-like.” Using fluid dynamics to analyze their shapes, the scientists found evidence that a process called thermal pressurization had caused clay within the fault to become fluidized.",
+        "Thermal pressurization occurs when rapid movement along a fault generates intense frictional heat. As water trapped in microscopic spaces within the rock heats up, pressure increases, reducing the frictional resistance that normally keeps the fault surfaces locked together. This weakening can allow much greater movement during an earthquake.",
+        "“Our analysis suggests that the viscosity approached that of water,” Professor Hirono explained. “This would have been a dramatic reduction. The fluidized state would have acted as a form of dynamic lubrication, causing the fault to weaken dramatically. The resulting large-scale slip would have produced a large displacement on the fault near the seafloor, potentially causing a tsunami.”",
+        "The mechanism could help explain the extreme seafloor displacement associated with some major earthquakes. In 2011, a magnitude 9. 1 earthquake struck eastern Japan, with shaking and fault rupture lasting nearly six minutes. The earthquake shifted the ocean floor enough to generate a devastating tsunami. Although the ancient rocks do not establish whether the same weakening process occurred in 2011, they provide physical evidence of how faults may undergo dramatic changes during seismic events.",
+        "The researchers hope to apply their analytical methods to modern faults, using changes in the viscosity of fault materials to better estimate how far those faults might slip during an earthquake. More accurate assessments of fault movement could improve estimates of potential seafloor displacement and associated tsunami hazards.",
+        "“Understanding the change in viscosity in fault-slips may allow us to more accurately recognize the magnitude of fault slips, which would support tsunami mitigation efforts,” Professor Hirono concluded.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "conversation-young-people-turned-out-in-near-record-numbers-for-the-202",
+      "title": "Young people turned out in near-record numbers for the 2026 midterms, with the economy top of their minds",
+      "dek": "The economy was the top issue for voters in the November 2026 midterm elections, which saw Democrats win decisive majorities in both houses of Congress.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:14:07.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/young-people-turned-out-in-near-record-numbers-for-the-2026-midterms-with-the-economy-top-of-their-minds-295947"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "The economy was the top issue for voters in the November 2026 midterm elections, which saw Democrats win decisive majorities in both houses of Congress.",
+        "And for young voters, whether in college or not, the economy and jobs, as well as healthcare, were their top concerns, our research at CIRCLE , a nonpartisan, research organization focused on youth civic engagement at Tufts University, shows.",
+        "Overall, 27% of young people – meaning people ages 18 to 29 – went to the polls during the midterms, our Nov. 5 analysis shows. This marks the second-highest midterm youth voter turnout in the past 30 years, behind only the 2018 election cycle.",
+        "As a scholar at CIRCLE who studies young people and their voting behavior, I think it’s helpful to understand some of the factors that motivated so many young people to vote – and to cast their lot with the Democrats.",
+        "Among youth, being enrolled as a college student or not did not make a big difference in who they voted for during these midterms.",
+        "But there are some voting trend differences based on young people’s educational attainment, especially in the gap between young people with an education level of high school or less, and those with at least some college experience and more. Those with only a high school degree or less voted Democratic by a 24-point margin, compared with a 42-point margin among those with at least some college education.",
+        "College students who are young men also voted Democrat by a 24-point margin . Female college students, meanwhile, voted Democrat at a 45-point margin. A similar gender gap appears among young voters who aren’t in college.",
+        "Overall, this gender gap has persisted at least since 2024, as young women then were also voting more Democratic than men were.",
+        "About 66% of young people ages 18-29 voted for a Democratic candidate for the U. S. House of Representatives, compared with 31% for a Republican candidate, our data shows. This marks the highest percentage of support for Democratic candidates among all age groups.",
+        "Within this group, 70% of young women voted for a Democratic U. S. House candidate in the midterms, as opposed to 59% of young men.",
+        "Partisan trends among young voters have fluctuated over the past few decades – in 2000, for example, 49% of young people voted Democratic, while 48% voted Republican.",
+        "In 2026, Asian American and Pacific Islander, Black and Latino young people gave Democrat candidates the strongest support, at 81%, 79% and 71%, respectively. By comparison, 61% of white young people voted for Democratic House candidates, with 36% voting Republican.",
+        "Across race, education, income and geographic location, young people overwhelmingly indicated that the economy and jobs was their top issue in this election.",
+        "Healthcare and the Iran war also showed up as areas of importance for young voters. All three of these issues are connected to young people’s concerns about the cost of living.",
+        "We found that voting preferences did vary according to how young people viewed their own financial circumstances, a pattern that held among college students.",
+        "Low-income students were more likely than their affluent peers to vote for Democrats .",
+        "The issues that matter most to young people have shifted considerably over the past several years.",
+        "In 2020, we were seeing different groups of young people prioritize social issues like racism , climate change and gun control.",
+        "In 2022, we began to see young people prioritize the economy – their concern about inflation was the second-most important issue to them after abortion.",
+        "Now, after the economy , healthcare was ranked second for young voters. The third-most important issue was the war in Iran. This is striking, because in the past, we’ve polled young voters about foreign policy issues like the war between Israel and Palestinians and the war between Russia and Ukraine. Young people have never really ranked these other foreign policy issues as a top area of concern.",
+        "Youth voter turnout generally tends to be much weaker in midterm elections than in presidential elections. In 2018, there was 28% turnout for young people – a midterm turnout that was considerably higher than 2014, when only 13% of young people turned out to vote.",
+        "Campaigns seem to recognize that young voters tend to be less politically engaged. For example, our research shows that during the 2024 presidential election cycle, more than 1 in 3 young people were never contacted about the election. Among those without college experience, 48% were never contacted.",
+        "Our research still shows that college students face logistical barriers to voting.",
+        "Young people are frequent movers, which means they might need to reregister whenever they change addresses. The fact that college students may be living on campus while they’re registered to vote from their parents’ address can also create complications."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "conversation-what-c-s-lewis-said-about-narnias-most-famous-character-th",
+      "title": "What C.S. Lewis said about Narnia’s most famous character: the Jesus-like lion Aslan",
+      "dek": "As Netflix teases glimpses of Greta Gerwig’s newest project , an adaptation of C. S. Lewis’ novel “The Magician’s Nephew,” many Narnia fans are worried . ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:13:51.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/what-c-s-lewis-said-about-narnias-most-famous-character-the-jesus-like-lion-aslan-294140"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "As Netflix teases glimpses of Greta Gerwig’s newest project , an adaptation of C. S. Lewis’ novel “The Magician’s Nephew,” many Narnia fans are worried . In particular, there’s been online chatter about the new film’s depiction of the great lion Aslan: Will he really look like David Bowie , with the voice of Meryl Streep ?",
+        "For many readers, Aslan is not just a literary character, nor an ordinary hero: He is a representation of Jesus . Aslan sings the entire world of Narnia into existence and performs Christ-like acts throughout Lewis’ “ Chronicles of Narnia ,” which have sold over 120 million copies worldwide since the series’ publication in the 1950s.",
+        "As a scholar of medieval history and literature, I’ve taught and written about Lewis and “Lord of the Rings” author J. R. R. Tolkien , who were close friends and colleagues for more than 30 years. Lewis himself was a medievalist at Oxford , and both of their popular literary series are steeped in their knowledge of medieval languages, literature, mythology and theology.",
+        "Both authors acknowledged the ethical and religious themes of their fiction . Yet Lewis rejected the idea that “The Chronicles” were simply an allegory.",
+        "“ The Magician’s Nephew ,” published in 1955, was actually the last book in the series to be completed. Yet it serves as a prequel, narrating the creation of Narnia and the first appearance of its legitimate ruler, Aslan – the Turkish word for “lion.”",
+        "Later in the series, Aslan sacrifices himself to save a young British boy, Edmund Pevensie, from the White Witch, Jadis. Aslan is resurrected through his knowledge of “deeper magic,” and royal power passes to the four Pevensie children.",
+        "Christian readers have long seen the series as an imaginative retelling of events from the Gospels, intended for children but offering much to adult readers as well. Critics like Philip Pullman , who wrote the 1990s fantasy trilogy “His Dark Materials,” have denounced “The Chronicles” as religious “propaganda .”",
+        "Adding to the book’s religious appeal was Lewis’ own very public faith. An atheist since his youth, he returned to worshipping in the Church of England after a famous late-night conversation with Tolkien in September 1931.",
+        "The two English professors had bonded over their interest in Norse myths, which Lewis called beautiful “lies breathed through silver.” For the devoutly Catholic Tolkien, however, ancient myths pointed to truths, not lies, and ultimately to the Gospels. He and other Christian friends at Oxford helped Lewis come to accept Christianity as the “true myth.”",
+        "Almost immediately, Lewis began writing Christian apologetics , intellectual defenses of his faith, as well as fiction infused with Christian symbolism and theology. In 1947, he appeared on the cover of Time magazine – well on his way to becoming arguably the most famous Christian apologist of the 20th century.",
+        "His letters and scholarly work indicate that “The Chronicles” were not meant to be allegorical . In other words, Aslan was not simply a stand-in for Jesus, and the series was not an extended metaphor.",
+        "Rather, Lewis called the books “supposals:” a way of asking, “What if?”",
+        "Aslan gives “an imaginary answer to the question, ‘What might Christ become like if there really were a world like Narnia and He chose to be incarnate and die and rise again in that world as He actually has done in ours?” Lewis wrote in a 1958 letter . “This is not allegory at all.”",
+        "Neither Lewis nor Tolkien approved of easy allegorical readings of their fiction. Both professors argued that imaginative literature was not simply the product of the author and their time , a sealed treasure waiting for a biographical key to unlock its meaning.",
+        "And both men knew formal allegory quite well. Lewis’ 1936 book “ The Allegory of Love ” established his reputation as a critic of medieval and Renaissance literature. His 1933 novel “ The Pilgrim’s Regress ” was an allegorical exploration of his own conversion, with characters that personified various abstract concepts and ideologies.",
+        "Tolkien wrote the allegorical short story “ Leaf by Niggle ” as a way to explore his own doubts about ever finishing “ The Lord of the Rings .” Like his earlier novel “ The Hobbit ,” “The Lord of the Rings” only came to fruition through Lewis’ constant encouragement.",
+        "Narnia came to Lewis’ mind in bits and pieces. During World War II, when he took young evacuees from bombed cities into his home, a lion had haunted his dreams. A few other mental pictures came to him – a faun carrying packages, a lamppost in the snow – and he began writing. Aslan “just insisted on behaving in His own way,” Lewis later wrote to one schoolgirl .",
+        "“The Chronicles” were not an allegory, he insisted, but symbolic. As he described in “ The Allegory of Love ,” “The symbolist leaves the given [facts] to find that which is more real.” Myth and symbols can, if used correctly, point to philosophical or theological truths more effectively than realistic fiction, making their created worlds feel more real.",
+        "For fans of “The Chronicles,” Narnia feels “real” in this sense – an escape to truth, rather than an escape from truth. Adapting these stories to film, however, always runs the risk of moving further away from what Lewis captured so brilliantly in his prose.",
+        "In 2018, the author’s estate sold Netflix the rights to adapt the book series to screen, and Gerwig was later tapped to write and direct at least two Narnia films. Douglas Gresham, one of Lewis’ stepsons, has an executive producer credit on “ Narnia: The Magician’s Nephew ,” and has generally been enthusiastic about the project.",
+        "Gerwig herself has expressed her “reverence” for Lewis’ work . “It was the book of my childhood,” she said at a press event in 2024. “It was the book series that I loved, and I lived through, and I spent so much time imagining myself inside of Narnia.”",
+        "Intense scrutiny of the project should surprise no one. As with her film “Little Women,” Gerwig is adapting a beloved novel . And this time, it is a novel written by a very public atheist-turned-Christian whose works have inspired the faith of countless others. Still, her “Magician’s Nephew” should not be judged by a trailer and a handful of interviews.",
+        "Lewis likely never expected that “The Chronicles” would turn into a live-action film, but he did believe in the power of imaginative art – whether ancient, medieval or modern – to move one toward truth. The virtues Faith, Hope, Charity and Prudence are frequently depicted in the medieval and Renaissance literature that Lewis loved and taught. Fans and filmmaker alike might benefit from remembering these virtues as well.",
+        "Christopher A. Snyder, PhD does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "conversation-im-an-athletic-trainer-heres-how-to-know-when-kids-sports-",
+      "title": "I’m an athletic trainer – here’s how to know when kids sports are too intense",
+      "dek": "At a recent T-ball game, I was talking with another father who mentioned that his son had never played before. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:13:36.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/im-an-athletic-trainer-heres-how-to-know-when-kids-sports-are-too-intense-293479"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "At a recent T-ball game, I was talking with another father who mentioned that his son had never played before. As we watched our children falling over trying to scoop up a ground ball, we laughed about how they were still figuring everything out. There was something refreshing about seeing kids learn a game without worrying about how well they were playing.",
+        "That moment stayed with me. I’ve spent years as an athletic trainer in collegiate and professional sports, helping athletes stay healthy, handle the demands of competition and perform at their best. Today, I’m a clinical associate professor of kinesiology and chief health and performance adviser for an NCAA Division I athletics program. Given my work, you might expect me to take an active role in developing my own children’s athletic abilities, especially in a youth sports culture where early specialization and greater commitment are often seen as advantages.",
+        "And I understand the appeal. Like any parent, I want my children to have opportunities, and it’s easy to wonder whether another practice or lesson might help them get ahead. But with twins who are nearly 6, I’m more interested in whether they enjoy sports than how good they become at them.",
+        "As they get older, particularly if they want to pursue sports seriously, my role as a parent will change. Right now, I can step back and let them explore. But as training and competition become more demanding, I’ll want to become more involved in understanding and questioning those demands. Research on training, recovery and athletic development can help parents navigate what’s appropriate as their children’s sports experiences intensify.",
+        "When I’m watching my children play, I’d rather be their dad than their performance coach. When they ask to practice hitting or throwing, I’m happy to help. They usually decide when we’re done. Twenty minutes? Great. Five minutes? That’s fine too.",
+        "Practice matters, but giving children some control over when and how they practice can help keep it from becoming another obligation.",
+        "Research involving more than 9,000 young athletes found that children tend to be more motivated to participate in sports when parents support their ability to make decisions about their participation .",
+        "As children get older, their goals may change. Some will want to compete at higher levels or focus on a particular sport. Those ambitions deserve support, but giving children a voice doesn’t mean parents should step away from important decisions. As commitments grow, parents may need to ask more questions about training schedules, recovery time and the expectations placed on their children.",
+        "I’ve heard parents describe traveling hours for youth sports tournaments, only to discover that many of the teams competing came from the same communities they had traveled from. One parent recalled driving to Houston for a tournament where six of the eight teams were from the Dallas-Fort Worth area.",
+        "I understand how families end up in these situations. An extra practice, private lessons or joining a more competitive team can each seem reasonable. Over time, those commitments become expectations, and saying no isn’t always easy when your child is part of a team.",
+        "But more training doesn’t automatically produce better athletes. My experience in sports medicine and performance has taught me that improvement depends on how athletes respond to training, not simply how much they do. Training places demands on the body , and athletes need time to adapt.",
+        "The American Academy of Pediatrics cautions that excessive training and early specialization are associated with increased overuse injury risk and may contribute to burnout. Risk depends on training volume, recovery and individual development, particularly during adolescence.",
+        "As training demands increase, parents should pay attention to how their children are responding, not just whether they’re experiencing pain. Persistent fatigue, declining performance, changes in sleep or a loss of enthusiasm may suggest that recovery isn’t keeping pace with training. Even an athlete who loves their sport can reach a point where the demands become too much. These are reasons for a parent to discuss the workload with their child and coaches, while persistent or worsening pain warrants medical evaluation.",
+        "Athletic development also benefits from variety. Running, climbing, jumping and exploring different activities can help develop coordination and a range of movement skills . The International Olympic Committee recommends varied physical activity and developmentally appropriate training, including for children who may eventually specialize.",
+        "Just as important is whether young athletes want to keep playing. Children who enjoy sports are more likely to want to continue participating , research shows. When young soccer players were asked what made sports fun , they identified working hard, improving and spending time with teammates. Even the best training program won’t accomplish much if an athlete no longer wants to participate.",
+        "In collegiate and professional sports, reviewing performance is routine. After competition, staff identify what worked, what didn’t and what needs attention. But children don’t need a performance review every time they climb into the car.",
+        "I let my children start conversations about their games. If they want to talk about a missed ball, something funny or something that upset them, I’ll listen. If they want to talk about something else, that’s fine too.",
+        "Researchers who recorded parent-child car rides around sporting events found that much of the time passed in silence and sports came up relatively infrequently . They also observed occasions when parents interrupted or provided feedback before children could respond. The findings don’t establish one right way to handle the drive home, but they offer parents a reason to consider whether their children want feedback in the first place.",
+        "No parent knows whether their child will become a competitive athlete, play recreationally or eventually find interests outside organized sports. I’m comfortable leaving that future open for my children. As a father, I’m far more interested in whether my kids will want to play again next week than how well they played today.",
+        "Adam Annaccone does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "conversation-what-the-measles-vaccines-97-effective-rating-means-for-pi",
+      "title": "What the measles vaccine’s ‘97% effective’ rating means for Pittsburgh parents",
+      "dek": "Pennsylvania is experiencing its worst measles outbreak in more than three decades, with more than 1,400 confirmed cases and six measles-associated deaths so far in 2026,…",
+      "category": "健康",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:13:08.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/what-the-measles-vaccines-97-effective-rating-means-for-pittsburgh-parents-295297"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Pennsylvania is experiencing its worst measles outbreak in more than three decades, with more than 1,400 confirmed cases and six measles-associated deaths so far in 2026, according to statistics compiled by the state.",
+        "Each new case brings a new warning of a measles exposure in that community. Exposures have occurred at hospitals and doctors’ offices , grocery stores and restaurants , and K-12 schools and universities .",
+        "Exposure alerts come with the same instructions: Check your MMR vaccine status, and watch for symptoms for the next three weeks. People are told that two doses of the measles, mumps and rubella vaccine are 97% effective at preventing measles. The underlying message is that if you’re vaccinated, you’re protected.",
+        "The MMR vaccine is highly effective at preventing disease, but it isn’t a guarantee. People may hear that 97% figure and wonder about the other 3% .",
+        "Parents ask me: Should I be worried? How do I know if my kid has measles? Do I need an MMR booster? Most recently, my teenage daughter texted me to ask about her MMR vaccine status. She was worried about what would happen if she were exposed.",
+        "These are questions I can answer as both a mother and an epidemiologist in northwestern Pennsylvania . I became both at once. My daughter was born at the start of my doctoral program, and I read epidemiology textbooks aloud to her while studying for my comprehensive exams. I defended my dissertation on my son’s due date. I’m a better mother because I’m an epidemiologist, and a better epidemiologist because I’m a mom.",
+        "The advice in each public measles exposure alert matches the guidance doctors follow when a patient may have been exposed.",
+        "Everyone is asked to watch for symptoms , whether or not they’re vaccinated. The number of unvaccinated people across Pennsylvania is growing . As a result, many communities , including Allegheny County, no longer have herd immunity.",
+        "Four of the over 1,400 confirmed measles cases in Pennsylvania were people who had been vaccinated . These cases are known as breakthrough infections .",
+        "The term “herd immunity” wasn’t coined until 1918 . That year, a veterinarian wrote about an outbreak of “contagious abortion” in sheep and cattle, a literal herd. Today, herd immunity means that the risk of disease for susceptible people, those without immunity, drops when they are surrounded by people who are immune.",
+        "In other words, if the people around you are immune, you’re unlikely to get sick even if you’re susceptible. For measles, that protection depends on about 95% of people being immune. In a school or community where fewer than 95% of people are vaccinated, measles can spread more easily.",
+        "In Allegheny County, 93. 8% of children are fully vaccinated against measles . Some neighborhoods are above 97% uptake, while others are below the necessary 95% needed for herd immunity .",
+        "Measles exposures are announced publicly by the Department of Health and local healthcare providers . During a measles outbreak, public health departments may get in touch with close contacts to alert them to an exposure.",
+        "Public exposure alerts, like the one made in October after there was a measles exposure at a Target near Pittsburgh , are also used. Public alerts are for settings where exposed people can’t be identified and contacted individually. Measles is so contagious that a single case can infect up to 18 susceptible people .",
+        "Measles spreads through the air and through respiratory droplets, like those released when someone sneezes. The virus can also survive outside the body , lingering in the air and on surfaces.",
+        "Imagine I have measles and walk into my local grocery store. I’m contagious from about four days before the rash appears until four days after. Every time I breathe out, I release virus particles into the air, and those particles can stay infectious for up to two hours. If I sneeze in the produce section, the virus can survive on surfaces for up to two hours.",
+        "However, if you’ve had measles or were vaccinated with two doses of the MMR vaccine, you are protected. Two doses provides 97% lifetime protection against measles . This means that even without herd immunity, fewer than 3% of individuals with immunity are likely to contract measles. Adults who have had measles, or who have documentation of the recommended doses of the MMR vaccine, don’t need a booster .",
+        "People who were vaccinated between 1963 and 1967, or who aren’t sure which vaccine they received, should talk to their primary care provider about whether they need another dose. This is because the measles vaccine used between those years was not as effective as the MMR vaccine that is currently given .",
+        "Today, children typically get their first dose of the MMR vaccine at 12 to 15 months old and a second dose at 4 to 6 years old . Because the vaccine is given in early childhood, people born in the early to mid-1960s are the most likely to have received the older vaccine. People born before 1957 are generally considered immune , because measles was so widespread then that almost everyone caught it as a child.",
+        "Symptoms of measles include a high fever that can reach 105 degrees Fahrenheit (40. 6 degrees Celsius), a cough, a runny nose and conjunctivitis, also known as pin keye. These symptoms overlap with those of other respiratory viruses, such as flu and COVID-19.",
+        "Most people with measles develop a red, blotchy rash. It starts on the face and spreads down the body, like paint poured from a bucket . People who are immunocompromised or were previously vaccinated, even with one dose of the MMR vaccine, may not develop the rash. Between 25% and 40% of immunocompromised people with measles never get the rash .",
+        "A telltale sign of measles is Koplik spots , tiny white spots inside the mouth that can show up a day or two before the rash.",
+        "Measles can have serious consequences. About 1 in 20 people with measles develop pneumonia, and up to 3 in 1,000 cases end in death. Children younger than 5 and adults older than 20 are most likely to experience these severe complications.",
+        "Without herd immunity in many communities, measles cases, hospitalizations and deaths in Pennsylvania are likely to keep rising. The state Department of Health reports community spread of measles in 14 of Pennsylvania’s 67 counties ."
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "conversation-flesh-eating-screwworm-is-spreading-in-the-us-threatening-",
+      "title": "Flesh-eating screwworm is spreading in the US, threatening livestock and wildlife – hunters can be the first line of defense",
+      "dek": "For the first time in over 50 years, an infestation of the flesh-eating fly known as the New World screwworm ( Cochliomyia hominivorax ) is spreading on the U. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:11:46.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "For the first time in over 50 years, an infestation of the flesh-eating fly known as the New World screwworm ( Cochliomyia hominivorax ) is spreading on the U. S. mainland, and it is putting livestock and other animals at risk.",
+        "The New World screwworm doesn’t just attack cattle. All warm-blooded animals are susceptible, including deer and elk, as well as small game and waterfowl.",
+        "That means hunters headed to the field this fall may be the most important line of defense for spotting this destructive parasite and keeping it from spreading further.",
+        "As co-directors of the Mississippi State University deer lab , we believe the country’s millions of hunters can serve as a powerful early warning system by keeping a close eye on the state of wildlife they see. Wildlife agencies are already asking them to be vigilant and report any signs of screwworm infestations .",
+        "Unlike other blowflies , New World screwworm larvae feed on living tissue rather than dead tissue. They lay eggs in open wounds or mucosal openings, such as the eyes and nose of livestock, deer or elk.",
+        "Wounds as small as tick bites or scratches, as well as natural openings such as the umbilical stump on newborns or on deer’s pedicles , where their antlers grow and are shed, can attract these parasites.",
+        "Once the eggs hatch, the maggots burrow into the animal’s flesh and feed, enlarging the wound and attracting more flies. Over time, this leads to infection and death.",
+        "All warm-blooded animals are susceptible to the New World screwworm, but America has seen firsthand the harm they can cause to livestock.",
+        "In the 1950s, livestock producers in the U. S. Southwest lost up to US$100 million annually to New World screwworm infections, equivalent to over $1 billion today.",
+        "The nation was eventually able to eradicate the New World screwworm from the mainland in 1966 using a combination of treating infected animals and raising hundreds of millions of sterilized male flies and releasing them in infested areas.",
+        "The New World screwworm has a life cycle of only about 21 days, and each female mates only once. Because of that, inundating areas with sterile male flies for a few months, which equates to a few generations of flies, can eradicate a screwworm population.",
+        "Over time, sterile flies were used to push the New World screwworm further south, where they had been contained behind the Darién Gap , Panama’s narrow border region with Colombia. Sterile flies kept the parasite south of Panama for years, but the movement of cattle and wildlife likely brought it north again . Since 2022, the parasites have been reproducing and moving farther northward . There have been hundreds of detections in Mexico and now in the U. S.",
+        "Wildlife have received far less attention than livestock during screwworm infestations, with one exception: In July 2016, the New World screwworm was detected in the Florida Keys in an endangered deer population : the Florida Key deer ( Odocoileus virginianus clavium ).",
+        "At the time, the Florida Key deer population was estimated at only about 800 to 1,000 individuals . Because they were endangered and isolated, primarily on the islands of Big Pine Key and No Name Key , they were monitored more closely than most wildlife.",
+        "U. S. Fish and Wildlife Service biologists established quarantine zones. They inspected more than 16,900 animals – dogs, cats, a pig and a raccoon were also found with larvae – and they released 150 million sterile flies across the area. The islands lost 9% to 20% of the total Key Deer population , but the New World screwworm was declared eradicated there on March 23, 2017, less than a year after it was discovered.",
+        "In June 2026, screwworm was back in the United States. A rancher discovered the first New World screwworm case in a calf near La Pryor, Texas. A few more cases were confirmed in livestock and domestic animals in Texas and New Mexico .",
+        "The number of cases had reached 116 detections in animals as of Nov. 5, 2026 , including in two elk shot by hunters in Texas . The U. S. government has started ramping up production of sterile flies to try to keep the parasites from spreading.",
+        "Although there have been only a couple of cases reported in wildlife, that isn’t necessarily reassuring.",
+        "Wildlife are far more likely to carry the parasite without being detected. Once the screwworm is detected, treatment would also be much more complicated for wildlife than for livestock, because wildlife cannot be treated individually and thus are more dependent on the use of sterile flies to eradicate screwworm.",
+        "For this reason, quickly identifying areas with New World screwworm and targeting those areas by releasing sterile flies would be more important than ever.",
+        "Fortunately, there is an army of conservationists across the country who spend much of their time afield. These conservationists are also known as hunters.",
+        "According to the latest U. S. Fish and Wildlife Service National Survey of Fishing, Hunting, and Wildlife-Associated Recreation, nearly 11. 5 million hunters pursue big game and spend part of the fall and winter in the field hunting ungulate species such as deer and elk.",
+        "White-tailed deer ( Odocoileus virginianus ) hunters alone are expected to harvest about 6 million deer during the 2026-27 season and will observe millions more. Hunters also review tens of millions of wildlife pictures collected each year by game cameras used for scouting.",
+        "That level of surveillance can’t be matched. New Mexico’s Department of Agriculture has already called on hunters to report any suspicious larvae, particularly in Grant and Otero counties, where screwworm has been found in livestock. Hunters of all kinds, everywhere, can help."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "scitechdaily-scientists-reveal-how-a-mysterious-brain-structure-keeps-m",
+      "title": "Scientists Reveal How a Mysterious Brain Structure Keeps Memories From Fading",
+      "dek": "Memories that last only seconds shape everyday thinking, and research in mice is revealing how a small brain structure supports an ability impaired in ADHD and schizophrenia.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T11:57:34.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-reveal-how-a-mysterious-brain-structure-keeps-memories-from-fading/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Memories that last only seconds shape everyday thinking, and research in mice is revealing how a small brain structure supports an ability impaired in ADHD and schizophrenia.",
+        "To understand a sentence, the brain has to keep earlier words in mind as new ones arrive. Working memory makes that possible, holding information for a few seconds so we can compare it with new information, manipulate it, and use it to guide our behavior.",
+        "We rely on it to follow conversations, solve problems, and decide what to do next. Yet sensory information fades within moments once a stimulus ends, leaving the brain with the demanding task of maintaining a usable representation of something that is no longer there.",
+        "In mice, researchers at UNIGE have found that this ability relies partly on the claustrum, a thin structure deep within the brain between the insular cortex and the striatum. Their findings appear in Nature Communications .",
+        "The scientists tested mice on tasks that required them to remember either a smell or a touch. Each animal received an initial stimulus, waited several seconds, and then received a second stimulus. The mouse had to determine whether the two were identical or different. By the time the second stimulus arrived, the first was gone, so success depended on retaining information about it during the wait.",
+        "Temporarily reducing the activity of claustrum neurons cut the mice’s working memory performance in half. To control these neurons at precise moments during the task, the researchers used techniques including optogenetics. This method uses specific proteins to make selected neurons sensitive to light, allowing scientists to alter their activity through an optical fiber. The intervention helped establish that the claustrum contributes to working memory rather than simply becoming active while another brain region does the necessary work.",
+        "“The result was similar regardless of the type of stimulus, olfactory or tactile, and regardless of when the disruption occurred during the waiting period between the two stimuli,” says study co-leader Alan Carleton, Full Professor in the Department of Basic Neurosciences at UNIGE’s Faculty of Medicine. “Moreover, disrupting the claustrum specifically impairs the ability to use temporarily held information to guide behavior, without affecting perception itself.”",
+        "Working memory depends on interactions across a broad network that includes the prefrontal cortex, sensory regions, the parietal cortex, the thalamus, and other structures beneath the cortex. These networks must preserve information while allowing the brain to continue perceiving, thinking, and acting, but how they maintain a representation over time remains largely unknown. The claustrum’s anatomy offers a reason to examine its contribution.",
+        "“Its neurons are connected to almost all regions of the cortex, which puts it in a good position to receive and influence information from very different networks,” explains Carleton.",
+        "Recordings from the mice allowed the researchers to examine how information was represented in claustrum activity during the gap between stimuli.",
+        "“Our live recordings of claustrum neuron activity showed that a trace of the initial information persisted throughout the entire waiting period,” says fellow study leader Ivan Rodriguez, Full Professor in the Department of Genetics and Evolution at UNIGE’s Faculty of Science. “Far from being a static memory, neuronal activity changed over time. Nevertheless, the identity of the stimulus remained sufficiently present to be decoded up to 30 seconds later.”",
+        "“Our discovery could help us better understand cognitive disorders in which working memory is impaired, such as schizophrenia or ADHD,” explains Carleton. “Identifying the brain circuits that allow information to be maintained over time is an important step towards understanding how these functions can be disrupted. We now need to determine how the claustrum communicates with cortical networks, and how this interaction preserves the fidelity of the representations held in working memory.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "scitechdaily-the-hidden-brain-mechanism-that-makes-you-love-coffee-choc",
+      "title": "The Hidden Brain Mechanism That Makes You Love Coffee, Chocolate, Fat, and Sugar",
+      "dek": "Scientists have uncovered a previously understudied dopamine pathway that may explain how we learn to enjoy flavors we initially dislike.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T10:46:59.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/the-hidden-brain-mechanism-that-makes-you-love-coffee-chocolate-fat-and-sugar/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Scientists have uncovered a previously understudied dopamine pathway that may explain how we learn to enjoy flavors we initially dislike.",
+        "A food can become more appealing even when its flavor stays exactly the same. Researchers at UC San Francisco have identified a previously understudied dopamine pathway that helps the brain learn which flavors are worth seeking out based on what happens after nutrients reach the gut.",
+        "The study, published November 4 in Nature , reveals how a slow chemical signal connects digestion with learned food preferences. The mechanism could help explain why people develop a taste for initially unpleasant flavors, including the bitterness of coffee.",
+        "Dopamine helps the brain learn which experiences are rewarding, but most research has examined rapid signals that appear within seconds of external cues, such as seeing a favorite meal. The newly studied “slow” dopamine system responds to events inside the body. When digestive sensors detect nutrients such as sugar and fat, they initiate signals that can sustain dopamine release in the brain for several minutes.",
+        "“We’ve shown that this slow dopamine system is what drives us to learn to like certain foods over time, and we can see where and how that happens,” said Zachary Knight, PhD, professor of Physiology and senior author of the study.",
+        "Coffee provides a familiar example of how this learning may work. Although its bitterness can be unpleasant initially, repeated experiences can teach the brain to associate the flavor with caffeine’s stimulating effects. Once that association develops, Knight explained, “that coffee starts to taste a lot better.”",
+        "To isolate the brain’s response to nutrients from its response to taste, Knight and James Grove, PhD, who was then a graduate student, delivered sugar water or a milkshake-like liquid directly into the stomachs of mice. They simultaneously measured dopamine release throughout the brain.",
+        "Nutrients entering the stomach produced a strong, sustained dopamine response in the anterior basolateral amygdala, or BLA. Although researchers already knew this region received dopamine signals, their role in learning about food was unclear.",
+        "“We could see that this dopamine is part of a different system and begin to understand its role,” Knight said.",
+        "The researchers next tested whether the pathway was necessary for learning. When they blocked it, the mice continued eating normally but could no longer learn that a particular unfamiliar flavor was associated with calories. This showed that the pathway was important for forming food preferences rather than simply controlling food consumption.",
+        "In a separate experiment, the researchers artificially stimulated dopamine fibers in the BLA after mice sampled a calorie-free flavor. The animals subsequently developed a preference for that flavor, even though it provided no nutritional reward.",
+        "Together, the experiments demonstrated that dopamine signaling in this region can teach mice to associate a flavor with the beneficial effects of nutrients. Artificial stimulation could substitute for the signal normally generated when nutrients reach the gut.",
+        "Human brain imaging provided additional evidence of a similar response. Yale psychologist Dana Small, PhD, reanalyzed an earlier PET study involving 13 men who consumed either a milkshake or a noncaloric drink. Nutrient consumption was associated with dopamine release concentrated in the left BLA.",
+        "In another experiment, Marc Tittgemeyer, PhD, and colleagues used fMRI scans to study 38 adults after glucose consumption. They detected increased activity in the same brain region, although fMRI measures brain activity rather than dopamine release directly."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "nasa-taking-a-gander-at-utahs-goosenecks",
+      "title": "Taking a Gander at Utah’s Goosenecks",
+      "dek": "Tens of millions of years ago, the San Juan River in what is now southern Utah shared some characteristics with today’s Mississippi River. ",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T05:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Tens of millions of years ago, the San Juan River in what is now southern Utah shared some characteristics with today’s Mississippi River. In a bygone geologic era, the San Juan flowed across a relatively flat plain that formed in an ancient marine environment. Unencumbered by rugged terrain, the river was free to take a long, meandering path on its gradual journey downslope.",
+        "But this part of the San Juan changed when geologic forces pushed the Colorado Plateau upward. Some experts think that within the later stages of this “ still-enigmatic ” history, starting around 20 million years ago, the plateau’s rise elevated the San Juan’s headwaters , which increased the river’s gradient and sped its flow. With that, the water’s erosive power intensified, and the river started carving its winding path deeper and deeper through 300-million-year-old rock.",
+        "Today, on its westward path to Lake Powell, the San Juan River flows through an impressive series of entrenched meanders, also known as “goosenecks.” An astronaut aboard the International Space Station photographed the stark desert topography on October 6, 2026.",
+        "In Utah’s Goosenecks State Park , the river runs through a canyon 1,000 feet (300 meters) deep. In places, it nearly loops back on itself, making horseshoe-shaped bends. One section is so curvy that the river travels 5. 5 miles (8. 9 kilometers) between two points that are only 1. 3 miles (2. 1 kilometers) apart as the crow—nay, goose—flies.",
+        "While the goosenecks are an unusual geologic wonder to behold by day, the area’s dark skies are a spectacle by night. Goosenecks State Park’s remote, high-desert location and 360-degree views of the sky helped earn it an International Dark Sky Park designation in 2021. According to DarkSky International, features such as the Double Cluster in Perseus and the Messier 24 star cloud in the Sagittarius spiral arm of the Milky Way are visible to the unaided eye from the park. In November 2026 , dark skies offer the chance to view several meteor showers, with the Northern Taurids, Southern Taurids, and Leonids reaching their peaks throughout the month.",
+        "Astronaut photograph ISS075-E-188830 was acquired on October 6, 2026, with a Nikon Z9 digital camera using a focal length of 400 millimeters. It is provided by the ISS Crew Earth Observations Facility and the Earth Science and Remote Sensing Unit at NASA Johnson Space Center. The image was taken by a member of the Expedition 75 crew. The image has been cropped and enhanced to improve contrast, and lens artifacts have been removed. The International Space Station Program supports the laboratory as part of the ISS National Lab to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public, and to make those images freely available on the internet.",
+        "Additional images taken by astronauts and cosmonauts can be viewed at the NASA/JSC Gateway to Astronaut Photography of Earth ."
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "nasa-news-taking-a-gander-at-utahs-goosenecks",
+      "title": "Taking a Gander at Utah’s Goosenecks",
+      "dek": "Tens of millions of years ago, the San Juan River in what is now southern Utah shared some characteristics with today’s Mississippi River. ",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T05:01:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Tens of millions of years ago, the San Juan River in what is now southern Utah shared some characteristics with today’s Mississippi River. In a bygone geologic era, the San Juan flowed across a relatively flat plain that formed in an ancient marine environment. Unencumbered by rugged terrain, the river was free to take a long, meandering path on its gradual journey downslope.",
+        "But this part of the San Juan changed when geologic forces pushed the Colorado Plateau upward. Some experts think that within the later stages of this “ still-enigmatic ” history, starting around 20 million years ago, the plateau’s rise elevated the San Juan’s headwaters , which increased the river’s gradient and sped its flow. With that, the water’s erosive power intensified, and the river started carving its winding path deeper and deeper through 300-million-year-old rock.",
+        "Today, on its westward path to Lake Powell, the San Juan River flows through an impressive series of entrenched meanders, also known as “goosenecks.” An astronaut aboard the International Space Station photographed the stark desert topography on October 6, 2026.",
+        "In Utah’s Goosenecks State Park , the river runs through a canyon 1,000 feet (300 meters) deep. In places, it nearly loops back on itself, making horseshoe-shaped bends. One section is so curvy that the river travels 5. 5 miles (8. 9 kilometers) between two points that are only 1. 3 miles (2. 1 kilometers) apart as the crow—nay, goose—flies.",
+        "While the goosenecks are an unusual geologic wonder to behold by day, the area’s dark skies are a spectacle by night. Goosenecks State Park’s remote, high-desert location and 360-degree views of the sky helped earn it an International Dark Sky Park designation in 2021. According to DarkSky International, features such as the Double Cluster in Perseus and the Messier 24 star cloud in the Sagittarius spiral arm of the Milky Way are visible to the unaided eye from the park. In November 2026 , dark skies offer the chance to view several meteor showers, with the Northern Taurids, Southern Taurids, and Leonids reaching their peaks throughout the month.",
+        "Astronaut photograph ISS075-E-188830 was acquired on October 6, 2026, with a Nikon Z9 digital camera using a focal length of 400 millimeters. It is provided by the ISS Crew Earth Observations Facility and the Earth Science and Remote Sensing Unit at NASA Johnson Space Center. The image was taken by a member of the Expedition 75 crew. The image has been cropped and enhanced to improve contrast, and lens artifacts have been removed. The International Space Station Program supports the laboratory as part of the ISS National Lab to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public, and to make those images freely available on the internet.",
+        "Additional images taken by astronauts and cosmonauts can be viewed at the NASA/JSC Gateway to Astronaut Photography of Earth ."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "scitechdaily-a-new-era-of-bionic-vision-ai-helps-scientists-unlock-the-",
+      "title": "A New Era of Bionic Vision? AI Helps Scientists Unlock the Brain’s Visual Cortex",
+      "dek": "Researchers have used artificial intelligence to improve how a brain implant stimulates the visual cortex of a blind person, potentially advancing the development of bionic eyes.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T01:48:48.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-new-era-of-bionic-vision-ai-helps-scientists-unlock-the-brains-visual-cortex/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Researchers have used artificial intelligence to improve how a brain implant stimulates the visual cortex of a blind person, potentially advancing the development of bionic eyes.",
+        "Artificial intelligence could make future bionic eyes more precise and responsive by improving how electrical signals communicate with the brain. In a study published in Neuron , researchers used deep learning to control brain stimulation in a blind man, producing more accurate neural responses with less electrical current.",
+        "The findings could advance visual prostheses that bypass damaged eyes and optic nerves, stimulating the visual cortex directly to generate perceptions of light.",
+        "Researchers from UC Santa Barbara , ETH Zurich , and Miguel Hernández University (MHU) tested the approach in a 27-year-old man who lost his sight following a traumatic brain injury. At a hospital in Spain, a temporary implant containing 96 electrodes stimulated his visual cortex, producing phosphenes, perceived as flashes or shapes of light.",
+        "Led in part by UCSB professor Michael Beyeler, the team trained a deep neural network to predict brain responses to different stimulation patterns. The AI model also incorporated measurements of resting brain activity, allowing it to account for changes in the brain’s condition before each test.",
+        "The AI-designed stimulation patterns produced targeted neural responses more accurately and required less electrical current than comparison approaches. Researchers also found that recorded brain activity predicted the participant’s visual perceptions better than the electrical settings alone.",
+        "“Engineers naturally want to treat phosphenes like pixels: stimulate more electrodes, and you should get a more complete image,” Beyeler said. “But the brain does not work that way. Electrodes interact, neural responses fluctuate, and what we put into the brain is not necessarily what the person perceives. The challenge is to learn more about that transformation.”",
+        "The implant could both stimulate neurons and record their responses, enabling the AI to learn from actual brain activity. The participant also described perceived flashes, including their brightness, size, shape, and color.",
+        "The technology could eventually help people who lose their sight through injuries or neurological and inherited conditions. Beyeler emphasized those “who have been able to see for part of their life, but then, because of an inherited eye disease or an accident, have lost their vision,” adding, “For those people, the desire may be very strong to get some vision back.”",
+        "Describing the international research effort as “a true collaboration,” Beyeler said the study demonstrated how computational models could influence experiments involving human participants.",
+        "“Building a model in the abstract is one thing,” he said. “Seeing it shape an experiment with a person is something else entirely. That ability to go from theory to something that may one day help people is what drives much of the work in our lab.”",
+        "Although the research remains an early proof of concept, it suggests that future visual prostheses may work better by continuously adjusting stimulation to an individual’s neural responses.",
+        "“A useful visual prosthesis cannot rely on a fixed recipe,” Beyeler said. “It has to learn how an individual brain responds and adapt the stimulation accordingly. Ultimately, the device should adapt to the person, not the other way around.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "scitechdaily-scientists-spent-7-years-studying-moth-wings-and-discovere",
+      "title": "Scientists Spent 7 Years Studying Moth Wings and Discovered Something Unexpected",
+      "dek": "A search to change the patterns on moth wings uncovered something unexpected: wider tails, suggesting that evolution may reshape insects’ defenses by modifying features they…",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T00:36:34.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-spent-7-years-studying-moth-wings-and-discovered-something-unexpected/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "A search to change the patterns on moth wings uncovered something unexpected: wider tails, suggesting that evolution may reshape insects’ defenses by modifying features they already possess.",
+        "A luna moth’s leaf-like wings help it escape the notice of predators that hunt by sight. Other giant silk moths display prominent eyespots that can make them look threatening. A new study suggests that moving between those appearances can require only a small change in the signals that guide wing development.",
+        "Over seven years, Andrei Sourakov hand-reared more than 700 luna ( Actias luna ) and polyphemus ( Antheraea polyphemus ) moths from egg to adulthood. Sourakov is the collection coordinator of Lepidoptera at the Florida Museum of Natural History and an affiliate associate professor of entomology at the University of Florida. His findings, recently published in Evolution & Development , reveal how treatments during development can alter both the patterns and shapes of moth wings.",
+        "Sourakov treated developing moths with small amounts of heparin and dextran sulfate. Both are sulfated polysaccharides, molecules made of linked sugars with attached sulfate groups. They increase the activity of a group of proteins called Wnt, which help direct development.",
+        "He administered tiny quantities of heparin shortly before and after pupation, when caterpillars enter the pupal stage and undergo their final transformation into adults. Wing patterns are determined during this period. For two years, the treatments failed to produce the changes he was seeking, so he continued adjusting the concentration and timing of the doses.",
+        "“I kept trying, and eventually, I achieved a single transformation. But it wasn’t of the wing pattern. It was the wing shape. This single specimen was so different that I couldn’t ignore it,” he said.",
+        "That specimen was a luna moth whose hindwing tails had grown wider than those of any moth he had previously reared. Scientists think luna moths evolved their long tails to deflect bat attacks away from the main part of their bodies.",
+        "“I thought, this is very bizarre. Maybe the genes that are normally responsible for wing patterns are here responsible for wing shape, because that’s seemingly the only thing that was transformed.”",
+        "Further adjustments to the timing of heparin treatment eventually produced changes in both wing shape and eyespots, overturning that initial explanation.",
+        "In polyphemus moths, the yellow borders around the two lemon-shaped eyespots on the forewings thickened. Brown scales surrounding those markings, which normally matched the rest of the wings, became whiter. On the hindwings, the black borders around the eyespots expanded. Together, these changes made the markings more conspicuous.",
+        "Luna moths underwent a similarly striking transformation. Their round hindwing eyespots took on a squinting appearance and developed thick, dark borders resembling mascara, turning subtle markings into a more noticeable display. Both heparin and dextran sulfate also changed the shape of luna moth wings, something not previously achieved experimentally in Lepidoptera, the group that includes all moths and butterflies.",
+        "“Some giant silk moths have eyespots that make them appear threatening to would-be predators. Others look like leaves, with translucent eyespots resembling holes to make it more convincing. What’s amazing to me, and what I learned from this study, is how easy it is for these features to go from one state to another. They do this without big inventions by simply expanding or contracting existing elements to the point where eyespots look completely different. All they need is a slight increase in the amount of certain compounds at the right moment,” Sourakov said.",
+        "Moth and butterfly eyespots occupy different parts of the wings, a clue that they evolved independently. Sourakov’s original goal was to investigate whether the two groups used the same genes to create these markings or had independently arrived at similar designs.",
+        "He tested the responses of several giant silk moth species to sulfated polysaccharides, reasoning that similar responses in different species could indicate homologous eyespots, meaning markings with a shared evolutionary origin. Further experiments would be needed to confirm that relationship."
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "nasa-nasa-astronauts-to-answer-questions-from-florida-students",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "dek": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station .",
+      "category": "校园",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T15:11:25.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station .",
+        "The Earth-to-space call will begin at 10:40 a. m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel.",
+        "This event is hosted by Freedom Crossing Academy in St. Johns, Florida, for students in grades K-12, and the community. This unique opportunity aims to deepen understanding of space exploration and enhance awareness of STEM careers.",
+        "Media interested in covering the event must RSVP no later than 5 p. m. EST, Monday, Nov. 9, to Christina Upchurch at (904) 547-7517, or at christina. upchurch@stjohns. k12. fl. us .",
+        "For more than 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs not possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis program, and to Mars."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "nasa-news-nasa-astronauts-to-answer-questions-from-florida-students",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "dek": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station .",
+      "category": "校园",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T15:11:25.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station .",
+        "The Earth-to-space call will begin at 10:40 a. m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel.",
+        "This event is hosted by Freedom Crossing Academy in St. Johns, Florida, for students in grades K-12, and the community. This unique opportunity aims to deepen understanding of space exploration and enhance awareness of STEM careers.",
+        "Media interested in covering the event must RSVP no later than 5 p. m. EST, Monday, Nov. 9, to Christina Upchurch at (904) 547-7517, or at christina. upchurch@stjohns. k12. fl. us .",
+        "For more than 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs not possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis program, and to Mars."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "nasa-hubble-learns-galactic-history-from-stars",
+      "title": "Hubble Learns Galactic History From Stars",
+      "dek": "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T12:56:21.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier , who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about 27,500 light-years away in the constellation Capricornus.",
+        "M30 is a globular cluster : a roughly spherical grouping of stars containing anywhere from tens of thousands to millions of stars. These clusters generally reside on the outskirts of galaxies, orbiting within a vast, diffuse region called the halo like a swarm of moths around a lightbulb. Our Milky Way galaxy has at least 150 globular clusters, the nearest of which is about 6,000 light-years away. These clusters are impressively ancient: astronomers estimate their ages are between 11. 5 to 13. 5 billion years, making certain globular clusters nearly as old as the universe itself.",
+        "Globular clusters have long played an important role in helping us learn about our galaxy. More than a century ago, astronomer Harlow Shapley used observations of a particular type of variable star to measure the locations of and distances to dozens of globular clusters within our galaxy. His work showed that the Sun is not in the center of our galaxy, and that the galactic center lies toward the constellation Sagittarius. (His distance measurements were incorrect, however, and he concluded that our galaxy is about twice as large as it really is. )",
+        "Today, astronomers continue to learn about our galaxy by observing globular clusters. Because globular clusters are so ancient, they can give us clues about how our galaxy developed long ago. Globular clusters that formed within our galaxy can act as time capsules, preserving the original chemistry of our young galaxy.",
+        "However, it’s possible that not all globular clusters that orbit within our galaxy today formed there. Researchers have discovered that M30 and many other globular clusters orbit in the direction opposite from the way our galaxy spins. This may mean that these clusters did not form within our galaxy at all. Instead, our Milky Way galaxy may have captured them in the distant past!",
+        "Hubble has observed M30 multiple times. A previously released image of M30 featured data from Hubble’s Advanced Camera for Surveys (ACS) and was part of an observing program (# 10775 ; PI: Sarajedini) that surveyed dozens of Milky Way globular clusters in red and near-infrared light, revealing stars down to just 20% of the mass of the Sun. A more recent program (# 13297 ; PI: Piotto) returned to M30 and other globular clusters in our galaxy, this time observing the clusters with Hubble’s Wide Field Camera 3 and using three filters that captured bluer light.",
+        "This program collected data that was critical for studying exotic objects like “ blue straggler ” stars as well as for investigating the multiple populations of stars that can inhabit a single globular cluster.",
+        "More recently, Hubble’s ACS viewed many of these globular clusters again. Those observations were part of a program (# 16298 , PI: Libralato) that looked at how different populations of stars in globular clusters moved over the 15 years since Hubble first observed them — a feat made possible by Hubble’s longevity and ability to discern fantastically small details in distant objects.",
+        "The image above was created with data from all three observing programs and includes the wide range of wavelengths Hubble can see — ultraviolet, visible, and near-infrared light. Each wavelength helps us better understand how these groups of stars formed and evolved.",
+        "Claire Andreoli NASA’s Goddard Space Flight Center , Greenbelt, MD claire. andreoli@nasa. gov",
+        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
+        "These jewels of the night sky offer us a glimpse at the lifecycle of stars.",
+        "Hubble’s most notable scientific discoveries reflect the broad range of research and the breakthroughs it has achieved.",
+        "Explore Hubble’s iconic images of the universe, and view photos of mission operations and astronauts servicing Hubble in space."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "nasa-news-hubble-learns-galactic-history-from-stars",
+      "title": "Hubble Learns Galactic History From Stars",
+      "dek": "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T12:56:21.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier , who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about 27,500 light-years away in the constellation Capricornus.",
+        "M30 is a globular cluster : a roughly spherical grouping of stars containing anywhere from tens of thousands to millions of stars. These clusters generally reside on the outskirts of galaxies, orbiting within a vast, diffuse region called the halo like a swarm of moths around a lightbulb. Our Milky Way galaxy has at least 150 globular clusters, the nearest of which is about 6,000 light-years away. These clusters are impressively ancient: astronomers estimate their ages are between 11. 5 to 13. 5 billion years, making certain globular clusters nearly as old as the universe itself.",
+        "Globular clusters have long played an important role in helping us learn about our galaxy. More than a century ago, astronomer Harlow Shapley used observations of a particular type of variable star to measure the locations of and distances to dozens of globular clusters within our galaxy. His work showed that the Sun is not in the center of our galaxy, and that the galactic center lies toward the constellation Sagittarius. (His distance measurements were incorrect, however, and he concluded that our galaxy is about twice as large as it really is. )",
+        "Today, astronomers continue to learn about our galaxy by observing globular clusters. Because globular clusters are so ancient, they can give us clues about how our galaxy developed long ago. Globular clusters that formed within our galaxy can act as time capsules, preserving the original chemistry of our young galaxy.",
+        "However, it’s possible that not all globular clusters that orbit within our galaxy today formed there. Researchers have discovered that M30 and many other globular clusters orbit in the direction opposite from the way our galaxy spins. This may mean that these clusters did not form within our galaxy at all. Instead, our Milky Way galaxy may have captured them in the distant past!",
+        "Hubble has observed M30 multiple times. A previously released image of M30 featured data from Hubble’s Advanced Camera for Surveys (ACS) and was part of an observing program (# 10775 ; PI: Sarajedini) that surveyed dozens of Milky Way globular clusters in red and near-infrared light, revealing stars down to just 20% of the mass of the Sun. A more recent program (# 13297 ; PI: Piotto) returned to M30 and other globular clusters in our galaxy, this time observing the clusters with Hubble’s Wide Field Camera 3 and using three filters that captured bluer light.",
+        "This program collected data that was critical for studying exotic objects like “ blue straggler ” stars as well as for investigating the multiple populations of stars that can inhabit a single globular cluster.",
+        "More recently, Hubble’s ACS viewed many of these globular clusters again. Those observations were part of a program (# 16298 , PI: Libralato) that looked at how different populations of stars in globular clusters moved over the 15 years since Hubble first observed them — a feat made possible by Hubble’s longevity and ability to discern fantastically small details in distant objects.",
+        "The image above was created with data from all three observing programs and includes the wide range of wavelengths Hubble can see — ultraviolet, visible, and near-infrared light. Each wavelength helps us better understand how these groups of stars formed and evolved.",
+        "Claire Andreoli NASA’s Goddard Space Flight Center , Greenbelt, MD claire. andreoli@nasa. gov",
+        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
+        "These jewels of the night sky offer us a glimpse at the lifecycle of stars.",
+        "Hubble’s most notable scientific discoveries reflect the broad range of research and the breakthroughs it has achieved.",
+        "Explore Hubble’s iconic images of the universe, and view photos of mission operations and astronauts servicing Hubble in space."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "nasa-cyprus-island-of-snakes-cats-and-ophiolites",
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "dek": "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic…",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T05:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic crust . Over time, portions of this oceanic rock were wrenched upward by tectonic forces , eventually emerging as a rugged island made of ophiolite , a type of rock with a mottled green appearance said to look like the skin of a snake. Remnants of that ancient island are still visible in the dark rocks of the Troodos Mountains .",
+        "During the Miocene , considerably younger layers of chalk, limestone, marl, and other marine sedimentary rocks accumulated around the island, providing material that developed into a second, smaller island to the south during a later period of geologic uplift . Over time, sediment poured from rivers into the channel separating the two islands and combined with marine sediments to create deltas and eventually two land bridges, or tombolos . The joined landmass comprises the Akrotiri Peninsula , now the southernmost tip of Cyprus.",
+        "The sandy edges of the peninsula were visible when Landsat 8 captured these images on October 10, 2026. Akrotiri Salt Lake , a coastal lagoon that was once an arm of the Mediterranean Sea, lies between the two tombolos. The more westerly feature, the Kouris River tombolo, formed first, developing about 50,000 years ago from river-deposited gravels and sands. The eastern tombolo extended southward from Cyprus, cutting off the Mediterranean Sea only within the past 2,000 years, according to geologists .",
+        "The lake’s water levels now vary markedly with the seasons, typically filling in the late autumn and winter and drying out in the summer. The influx of winter water has historically attracted sizable overwintering flamingo populations, averaging about 4,000 birds. However, the wintering flamingo population has declined in recent years, plummeting to 30 birds in 2025, according to news reports . Flamingos have long flocked to the lake to feed on fairy shrimp , which are rich in colorful substances called carotenoids that give the birds their famously pink hue .",
+        "Snakes are another of the island’s more notorious animal inhabitants. In antiquity, Cyprus was known as Ophiousa , or “ land of snakes ,” likely due to its robust population of blunt-nosed vipers . According to legend, the island’s snake communities grew to be so problematic during a drought in the fourth century that the Roman Empress Helena , mother of Constantine the Great, called for shiploads of cats to be sent from Egypt to control the venomous reptiles.",
+        "The first feline imports were released in a particularly snake-infested area on the southeastern part of the Akrotiri Peninsula, an area that came to be known as Cape Gata (Cape Cat in Greek). The cape today is still home to the Holy Monastery of St. Nicholas of the Cats , a place where legend says that monks encouraged newly arrived Egyptian cats to hunt snakes. Today, Cyprus has as many cats as people, with more than one million of the feline predators stalking the island. The handful of nuns who now live in the monastery still care for hundreds of cats, according to the St. Nicholas Center ."
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "nasa-news-cyprus-island-of-snakes-cats-and-ophiolites",
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "dek": "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic…",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T05:01:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic crust . Over time, portions of this oceanic rock were wrenched upward by tectonic forces , eventually emerging as a rugged island made of ophiolite , a type of rock with a mottled green appearance said to look like the skin of a snake. Remnants of that ancient island are still visible in the dark rocks of the Troodos Mountains .",
+        "During the Miocene , considerably younger layers of chalk, limestone, marl, and other marine sedimentary rocks accumulated around the island, providing material that developed into a second, smaller island to the south during a later period of geologic uplift . Over time, sediment poured from rivers into the channel separating the two islands and combined with marine sediments to create deltas and eventually two land bridges, or tombolos . The joined landmass comprises the Akrotiri Peninsula , now the southernmost tip of Cyprus.",
+        "The sandy edges of the peninsula were visible when Landsat 8 captured these images on October 10, 2026. Akrotiri Salt Lake , a coastal lagoon that was once an arm of the Mediterranean Sea, lies between the two tombolos. The more westerly feature, the Kouris River tombolo, formed first, developing about 50,000 years ago from river-deposited gravels and sands. The eastern tombolo extended southward from Cyprus, cutting off the Mediterranean Sea only within the past 2,000 years, according to geologists .",
+        "The lake’s water levels now vary markedly with the seasons, typically filling in the late autumn and winter and drying out in the summer. The influx of winter water has historically attracted sizable overwintering flamingo populations, averaging about 4,000 birds. However, the wintering flamingo population has declined in recent years, plummeting to 30 birds in 2025, according to news reports . Flamingos have long flocked to the lake to feed on fairy shrimp , which are rich in colorful substances called carotenoids that give the birds their famously pink hue .",
+        "Snakes are another of the island’s more notorious animal inhabitants. In antiquity, Cyprus was known as Ophiousa , or “ land of snakes ,” likely due to its robust population of blunt-nosed vipers . According to legend, the island’s snake communities grew to be so problematic during a drought in the fourth century that the Roman Empress Helena , mother of Constantine the Great, called for shiploads of cats to be sent from Egypt to control the venomous reptiles.",
+        "The first feline imports were released in a particularly snake-infested area on the southeastern part of the Akrotiri Peninsula, an area that came to be known as Cape Gata (Cape Cat in Greek). The cape today is still home to the Holy Monastery of St. Nicholas of the Cats , a place where legend says that monks encouraged newly arrived Egyptian cats to hunt snakes. Today, Cyprus has as many cats as people, with more than one million of the feline predators stalking the island. The handful of nuns who now live in the monastery still care for hundreds of cats, according to the St. Nicholas Center ."
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "nasa-nasa-announces-x-70-experimental-aircraft-to-advance-fligh",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "dek": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T01:43:21.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.",
+        "The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore aircraft maneuverability in ways never before demonstrated in crewed flight. The aircraft can also accommodate up to 2,000 pounds of experimental payloads in internal and external locations, enabling a wide range of research and flight-testing opportunities.",
+        "“The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” said NASA Administrator Jared Isaacman. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, and moving quickly from one experiment to the next. We expect her first flight under the NASA banner within the next two years, and X-70 is just one part of this new beginning for aeronautics. This is why people come to NASA: to build, to learn, and most importantly, to fly.”",
+        "The X-70 Fractal has a takeoff weight of 10,000 pounds and is designed to cruise at Mach . 75, reach altitudes of up to 45,000 feet, and provide an operational range exceeding about 1,726 miles (1,500 nautical miles). These capabilities will enable NASA to conduct demanding flight research across a broad range of operating conditions.",
+        "“For decades, NASA Aeronautics has used X-planes to develop technologies that advance aviation,” said Laurie Grindle, director of the Aeronautics Division within NASA’s Research and Technology Mission Directorate. “It’s exciting to bring on another X-plane to accelerate and drive aeronautics research.”",
+        "The X-70 joins a storied legacy of experimental aircraft that have helped establish America’s leadership in aviation. From the Bell X-1, which first broke the sound barrier in 1947, to the X-15 hypersonic research aircraft and today’s X-59 quiet supersonic demonstrator, NASA has spent decades pushing the boundaries of flight.",
+        "With the X-70, NASA will expand its capacity to conduct experimental flight research, accelerate the testing of emerging technologies, and advance the next generation of American aviation."
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "nasa-news-nasa-announces-x-70-experimental-aircraft-to-advance-fligh",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "dek": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T01:43:21.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.",
+        "The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore aircraft maneuverability in ways never before demonstrated in crewed flight. The aircraft can also accommodate up to 2,000 pounds of experimental payloads in internal and external locations, enabling a wide range of research and flight-testing opportunities.",
+        "“The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” said NASA Administrator Jared Isaacman. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, and moving quickly from one experiment to the next. We expect her first flight under the NASA banner within the next two years, and X-70 is just one part of this new beginning for aeronautics. This is why people come to NASA: to build, to learn, and most importantly, to fly.”",
+        "The X-70 Fractal has a takeoff weight of 10,000 pounds and is designed to cruise at Mach . 75, reach altitudes of up to 45,000 feet, and provide an operational range exceeding about 1,726 miles (1,500 nautical miles). These capabilities will enable NASA to conduct demanding flight research across a broad range of operating conditions.",
+        "“For decades, NASA Aeronautics has used X-planes to develop technologies that advance aviation,” said Laurie Grindle, director of the Aeronautics Division within NASA’s Research and Technology Mission Directorate. “It’s exciting to bring on another X-plane to accelerate and drive aeronautics research.”",
+        "The X-70 joins a storied legacy of experimental aircraft that have helped establish America’s leadership in aviation. From the Bell X-1, which first broke the sound barrier in 1947, to the X-15 hypersonic research aircraft and today’s X-59 quiet supersonic demonstrator, NASA has spent decades pushing the boundaries of flight.",
+        "With the X-70, NASA will expand its capacity to conduct experimental flight research, accelerate the testing of emerging technologies, and advance the next generation of American aviation."
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
