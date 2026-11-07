@@ -1,225 +1,556 @@
 {
-  "generatedAt": "2026-11-06T22:45:49.568Z",
-  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T21:30:16.733Z",
+  "date": "2026-11-08",
   "failedSources": [],
   "articles": [
     {
-      "id": "phys-the-wasps-that-horrified-darwin-reveal-evolutions-one-way-",
-      "title": "The wasps that horrified Darwin reveal evolution's one-way streets",
-      "dek": "Few insects have a more gruesome lifestyle than Darwin wasps. ",
-      "category": "科学",
+      "id": "phys-the-hidden-ways-insects-support-animal-life-from-habitat-t",
+      "title": "The hidden ways insects support animal life—from habitat to health—go way beyond being food",
+      "dek": "by Eliza Grames, Chris Elphick, Rob Cooke, The Conversation",
+      "category": "健康",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-07",
-      "publishedAt": "2026-11-06T22:20:01.000Z",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-07T21:00:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-wasps-horrified-darwin-reveal-evolution.html"
+        "url": "https://phys.org/news/2026-11-hidden-ways-insects-animal-life.html"
       },
-      "cover": "bulb",
-      "accent": "yellow",
+      "cover": "flower",
+      "accent": "pink",
       "paragraphs": [
-        "Few insects have a more gruesome lifestyle than Darwin wasps. Rather than simply hunting other animals, these parasitic wasps lay their eggs on or inside living hosts, including caterpillars, beetles and spiders. Their larvae then feed on their hosts, gradually consuming them and eventually killing them.",
-        "This disturbing biology fascinated Charles Darwin. In an 1860 letter to American botanist Asa Gray, he questioned how a benevolent God could have deliberately created creatures that feed \"within the living bodies of caterpillars.\" This famous observation later inspired the name Darwin wasps for the insect family Ichneumonidae, which includes more than 25,000 described species.",
-        "Different species employ remarkably different strategies. Some wasps permanently paralyze their hosts before laying their eggs, effectively turning them into immobile food supplies for their offspring. Others adopt a more intricate approach: they allow their hosts to remain alive, feeding and growing even as the developing wasp larvae consume them.",
-        "These contrasting strategies offer a window into a fundamental question in evolutionary biology: how predictable is evolution? Scientists have long recognized that similar adaptations can arise independently in different organisms, suggesting that evolution sometimes arrives at the same solutions again and again. But a related question has received less attention: when evolution takes a particular direction, how easily can it turn back?",
-        "Now, an international team of scientists led by the Museum für Naturkunde Berlin has used Darwin wasps to investigate this question, revealing that some evolutionary innovations arise repeatedly but are almost never reversed.",
-        "By analyzing genetic data from 697 wasp species, representing every major lineage of Darwin wasps, researchers reconstructed the evolutionary history of these strategies. They discovered a striking pattern: the transition from paralyzing hosts to allowing them to continue developing occurred independently at least 23 times, but they found no evidence of reversals. Similarly, the evolution of larvae developing inside rather than outside their hosts occurred repeatedly but was only rarely reversed.",
-        "\"Evolution doesn't necessarily keep all its options open,\" explains Bernardo F. Santos, lead author of the study and researcher at the Museum für Naturkunde Berlin. \"Once a wasp lineage evolves a close relationship with a living, developing host, returning to its ancestral strategy seems extremely difficult. It's something like an evolutionary ratchet: you can move forward, but going backward becomes nearly impossible.\"",
-        "The study, published in the journal Current Biology , provides compelling evidence that evolution can be both remarkably repeatable and strongly directional. Different lineages independently arrived at similar solutions, yet almost never returned to their previous ways of life.",
-        "The findings highlight how evolution is shaped not only by chance and natural selection, but also by the constraints imposed by an organism's own evolutionary history. Rather than an unlimited exploration of possibilities, evolution may follow paths that become increasingly difficult to abandon once taken.",
-        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
-        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
-        "Genetic analysis of 697 Darwin wasp species inferred at least 23 independent transitions from permanent host paralysis to continued host development, with no detected reversals. Internal larval development also evolved repeatedly but rarely reversed, suggesting that evolutionary history constrains subsequent transitions.",
-        "Please select the most appropriate category to facilitate processing of your request",
-        "Thank you for taking time to provide your feedback to the editors."
+        "by Eliza Grames, Chris Elphick, Rob Cooke, The Conversation",
+        "There are at least 14 million insect species on Earth , and they play highly diverse roles in sustaining the natural world. Insects provide many well-known benefits—what scientists often call \"ecosystem services.\" For example, you can thank a bee or a hoverfly for pollinating wildflowers and agricultural crops , or credit dung beetles for decomposing manure and other waste materials.",
+        "Reports of rapid declines in insect abundance and biomass over the past decade have raised concerns about potential reductions in pollination , decomposition and other insect-provided services . Researchers have also noted that declines in insects could mean a change in the food supply for insectivores such as birds and bats.",
+        "In response to these concerns, a working group emerged as part of a Research Coordination Network on the Status of Insects . This international group of 21 researchers , including us , met via Zoom for a year and a half to discuss what declines in insects might mean for vertebrates—from birds to bats to bilbies .",
+        "What emerged from those discussions was a clear picture—insects are so much more than just food, and vertebrates rely on insects for everything from habitats to protection to health .",
+        "Insects can be ecosystem engineers, meaning they create and maintain habitats for other species.",
+        "Termites and ants build massive structures below and above ground that are used by many other species. Termite nests, for example, serve as climate-controlled spots for reptiles to lay eggs and for parrots to nest . In dry regions, some frogs live inside ant nests to take advantage of the humid conditions, masking themselves in pheromones to evade detection by their ant hosts.",
+        "The soil surrounding termite mounds also provides good conditions for species such as naked mole rats and aardvarks to make their burrows. Ant nests concentrate nutrients that enhance plant growth, thereby creating good grazing habitat for species like gazelles .",
+        "You probably don't usually think of something as small as a beetle as a protector, or of a wasp as a bodyguard. But vertebrates rely on insects for defense, even against other vertebrates.",
+        "For example, horned lizards turn chemicals from ants into a toxic, blood-spurting defense to ward off predators such as big cats. Poisonous frogs similarly get their toxicity from the chemical compounds found in insects they eat , as do some birds and snakes , which store toxins from ants and beetles as part of their defensive strategy.",
+        "Many birds will deliberately nest near wasp nests so the threat of being stung deters potential predators. Some vertebrates even mimic insects to avoid getting eaten, such as young songbirds in the Amazon that move their heads to look like fuzzy caterpillars —which they resemble—when predators are nearby.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Many insects, not just dung beetles, remove waste from ecosystems. By decomposing carcasses and dung, insects likely reduce disease transmission among wild vertebrates. For example, by tunneling through and burying dung, they make it an unsuitable place for parasites to live .",
+        "Certain mosquito species have gotten a bad reputation for transmitting diseases, including malaria, but other insects help control their populations. In their larval stage, dragonflies are fierce aquatic predators that eat mosquito larvae ."
       ],
       "external": true,
       "order": 0
     },
     {
-      "id": "phys-air-holes-turn-silicon-wafers-into-flat-ultraviolet-focusi",
-      "title": "Air holes turn silicon wafers into flat ultraviolet focusing mirrors for compact optics",
-      "dek": "Traditional lenses and mirrors focus light using curved surfaces. ",
-      "category": "科学",
+      "id": "phys-different-text-genres-help-doctoral-students-adapt-their-w",
+      "title": "Different text genres help doctoral students adapt their writing to reach new readers",
+      "dek": "An academic abstract, a blog post and a public outreach article all place different demands on the writer. ",
+      "category": "校园",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-07",
-      "publishedAt": "2026-11-06T22:00:01.000Z",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-07T19:00:02.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html"
-      },
-      "cover": "orbit",
-      "accent": "lilac",
-      "paragraphs": [
-        "Traditional lenses and mirrors focus light using curved surfaces. Metasurfaces can achieve similar functions with a flat layer of nanoscale structures that locally control the phase of light. Extending these flat optics into the ultraviolet could support compact systems for high-resolution imaging, spectroscopy, and sensing, but it introduces a fundamental materials problem: many of the materials used to make metasurfaces strongly absorb UV light.",
-        "Researchers at the University of Stuttgart have developed an alternative approach that turns this limitation on its head. Rather than trying to make an absorbing material transparent, their metasurface confines much of the light inside tiny air-filled cavities etched directly into silicon.",
-        "The device focuses reflected ultraviolet light at a wavelength of 325 nm and demonstrates a new approach to controlling light in wavelength ranges where suitable transparent materials can be difficult to find.",
-        "The research is published in the journal Advanced Photonics .",
-        "Many conventional dielectric metasurfaces rely on tiny pillars made from materials with a high refractive index. Light becomes concentrated inside the pillars, and variations in their geometry allow the metasurface to control the emerging wavefront. Silicon works well for this purpose at visible and longer wavelengths, but becomes strongly absorbing in the ultraviolet. Light confined within a silicon resonator would therefore be lost rather than efficiently redirected.",
-        "Structures called Mie voids invert this concept. Instead of forming resonators from solid pillars surrounded by air, the researchers etched small air cavities into bulk silicon. Light entering a void reflects from the surrounding silicon boundaries, creating a resonant mode concentrated predominantly in the air cavity, where absorption is negligible. This reduces the optical field's overlap with the absorbing silicon.",
-        "Counterintuitively, silicon's strong absorption at ultraviolet wavelengths can contribute to this confinement. The complex optical properties that accompany absorption increase the reflectivity of the air-silicon interface, helping light remain confined within the void. The strategy therefore does not eliminate silicon's UV absorption. Instead, it uses the optical properties of the absorbing material while keeping much of the resonant field away from it.",
-        "To turn these resonators into a focusing element, the voids are shaped as ellipses approximately 470 nanometers long and 100 nanometers deep. When circularly polarized light illuminates an elliptical void, the reflected light acquires a so-called geometric phase equal to twice the void's rotation angle. By varying this rotation across the half-millimeter-sized metasurface, a focusing profile is encoded directly into the silicon. Under a standard optical microscope, this arrangement appears as colored ring patterns, making the encoded focusing design directly visible.",
-        "When illuminated at an incidence angle of 45 degrees with 325 nanometer UV light, these metasurfaces act as flat equivalents of off-axis parabolic mirrors, redirecting the beam by 90 degrees while focusing it. Metasurfaces with focal lengths from 5 millimeters down to 1. 25 millimeters were fabricated and produced circular focal spots as small as about 1 micrometer. Up to a numerical aperture of 0. 15, the spots approached the diffraction limit, which is the fundamental resolution bound set by the wave nature of light.",
-        "The versatility of possible wavefront shaping is further demonstrated by adding a spiral phase to the layout, generating so-called orbital angular momentum beams. They can be understood as light twisting its phase around its propagation axis and display doughnut-shaped intensity distributions in the beam's cross-section.",
-        "The core advantage of the concept is its simplicity. The metasurfaces are fabricated in a single lithography and etching step on standard silicon substrates, compatible with established semiconductor processing. The bulk substrate remains mechanically robust and dissipates heat effectively.",
-        "Moreover, because the mechanism tolerates and even benefits from material absorption, it can be extended into the deep and vacuum UV spectral range and can be applied to a multitude of other material platforms. Furthermore, because many biomolecules have characteristic UV absorption signatures, such compact UV metasurfaces could eventually find applications in integrated sensing.",
-        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
-        "Air cavities etched into silicon confine ultraviolet light mainly in air, reducing overlap with absorbing silicon. Flat mirrors made from rotated elliptical cavities focused 325 nm light into spots as small as 1 µm, approaching the diffraction limit up to a numerical aperture of 0. 15."
-      ],
-      "external": true,
-      "order": 1
-    },
-    {
-      "id": "phys-how-a-metabolite-protects-the-enzyme-that-consumes-it",
-      "title": "How a metabolite protects the enzyme that consumes it",
-      "dek": "Metabolites are consumed by enzymes to produce other vital molecules as well as to control metabolite levels. But how do cells avoid consuming too much? ",
-      "category": "科学",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-07",
-      "publishedAt": "2026-11-06T21:40:01.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-metabolite-enzyme-consumes.html"
-      },
-      "cover": "bulb",
-      "accent": "yellow",
-      "paragraphs": [
-        "Metabolites are consumed by enzymes to produce other vital molecules as well as to control metabolite levels. But how do cells avoid consuming too much? Researchers from the MPI of Biochemistry, with the University of Nevada, Las Vegas, and the de Duve Institute in Brussels, have deciphered such molecular regulation in tryptophan metabolism. The essential amino acid tryptophan binds to a second site on the enzyme TDO2, distinct from where it is consumed. This sequesters a region needed by two effectors, the kinase CK2 and the ubiquitin ligase CUL1–β-TrCP, which act sequentially to signal TDO2 degradation. The findings are now published in Molecular Cell .",
-        "The essential amino acid tryptophan is a key building block for proteins and also serves as a precursor for serotonin, melatonin, niacin (vitamin B3) and NAD+. These molecules are vital for the nervous and immune systems and the cell's energy supply. As tryptophan can only be obtained through dietary supply, the body must maintain tryptophan levels within a physiological range.",
-        "The enzyme tryptophan 2,3-dioxygenase (TDO2) carries out the first and rate-limiting step of the kynurenine pathway. While the cell requires the downstream products of TDO2, it must also avoid consuming too much tryptophan.",
-        "Researchers have known since the 1950s that TDO2 is stable when there is sufficient tryptophan and is rapidly broken down when tryptophan supply is limiting. It has recently been shown that this feedback mechanism relies on the ubiquitin-proteasome system, the cellular system that marks and degrades unwanted proteins. How tryptophan controls this system has now been elucidated.",
-        "Alina Thielen, the first author of the study, explains, \"To identify the molecular mechanism underlying TDO2 degradation, we conducted a genome-wide CRISPRi screen. This enabled us to discover the two proteins controlling the degradation process: the kinase CK2 and the E3 ligase CUL1–β-TrCP. To understand their mechanism of action, we performed biochemical reactions with purified proteins in a test tube and used cryo-electron microscopy to examine the structure of TDO2 with and without tryptophan occupying the second binding site.\"",
-        "The kinase and E3 ligase proteins act sequentially on TDO2 to mark it for degradation. When tryptophan becomes scarce, the kinase CK2 attaches phosphate groups to TDO2. This phosphorylation serves as a recognition signal for the E3 ligase CUL1–β-TrCP, which then attaches ubiquitin to TDO2. Ubiquitin-tagged TDO2 is recognized by the proteasome, the cell's waste disposal system.",
-        "Thielen explains, \"It was already known that tryptophan binds to a second site on TDO2, which is located distal from the catalytic center. Using cryo-electron microscopy, we were able to see how tryptophan organizes a section of the protein near this second binding site to stabilize TDO2. This section folds over the bound tryptophan like a flap, so that the nearby recognition sequence for CK2 and CUL1–β-TrCP is inaccessible.",
-        "\"If the tryptophan level drops, tryptophan dissociates from the second binding site. As a result, the flap becomes unstructured, making the recognition sequence for CK2 and CUL1–β-TrCP accessible and thereby initiating the process of protein degradation.\"",
-        "Upregulation of TDO2 has been observed in neurological disorders and various types of cancer. In tumors, elevated TDO2 levels can weaken the antitumor immune response. TDO2 is therefore a potential target for new therapeutic agents.",
-        "Brenda Schulman explains, \"A detailed understanding of TDO2 regulation is important to be able to utilize TDO2 as a therapeutic target. A drug that targets the site where the enzyme consumes tryptophan could also bind to the second binding site and thereby promote unintended TDO2 stabilization. On the other hand, a molecule that occupies the second binding site but keeps the recognition sequence for CK2 and CUL1–β-TrCP accessible could induce the degradation of TDO2.\"",
-        "Schulman summarizes the new findings: \"Tryptophan is not only a metabolite and substrate for TDO2—it also acts as a signal that determines how long the TDO2 enzyme remains stable within the cell. Our study reveals a general principle for how a metabolite directly controls the stability of the enzyme that consumes it, thereby linking the cell's metabolism to protein degradation. We are now investigating how cells use this strategy more widely to regulate metabolism according to nutrient supply.\"",
-        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;"
-      ],
-      "external": true,
-      "order": 2
-    },
-    {
-      "id": "phys-new-method-measures-microplastics-in-the-air-using-an-uncr",
-      "title": "New method measures microplastics in the air using an uncrewed aerial system",
-      "dek": "Microplastics have been found in our bodies and the food we eat—and even in remote environments around the world, including seawater and ice in the Arctic. ",
-      "category": "环境",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-07",
-      "publishedAt": "2026-11-06T21:20:04.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-method-microplastics-air-uncrewed-aerial.html"
+        "url": "https://phys.org/news/2026-11-text-genres-doctoral-students-readers.html"
       },
       "cover": "leaf",
       "accent": "green",
       "paragraphs": [
-        "Microplastics have been found in our bodies and the food we eat—and even in remote environments around the world, including seawater and ice in the Arctic. Despite their prevalence, little is known about how they move through the atmosphere. New CIRES-led research , which demonstrates a new method for sampling microplastics in the atmosphere using an uncrewed aerial system (UAS), aims to change that. The findings are published in the journal Scientific Reports .",
-        "\"Atmospheric microplastics are usually sampled from a rooftop, ground-based location or ship,\" said Radiance Calmer, a former CIRES researcher who is now working at the Norwegian Polar Institute and lead author of the paper. \"Our proof-of-concept study shows we can sample atmospheric microplastics using UAS flights for a specific height.\"",
-        "Their results not only indicate microplastics are present 100 meters (328 feet) high in the atmosphere near areas with intense human activity but also confirm the team's UAS sampling method is a feasible approach for measuring microplastics in the atmosphere. They are the first team to successfully use an environmental cyclone sampler on a UAS to collect microplastics.",
-        "The work establishes a potential framework for atmospheric microplastics sampling in remote environments, including above the ocean and in the lower atmosphere, where traditional sampling methods are limited and often cost-prohibitive.",
-        "\"Microplastics can be transported to places people aren't looking for them, making them hard to track,\" said Gijs de Boer, the Environment & Energy Division director at Brookhaven National Laboratory and a co-author who was a faculty research scientist at CIRES and CU Boulder.",
-        "Tracking these tiny particles is important because they are potentially harmful to human health and have unknown impacts on important Earth system processes, such as cloud formation and sea ice melting.",
-        "The new project was an engineering and atmospheric science puzzle, bringing together experts from CIRES, CU Boulder and the University of Rhode Island (URI).",
-        "First, the team adapted an instrument commonly used in aerosol monitoring—an environmental cyclone sampler—to capture particles from 1 to 10 micrometers in size and attached it to a small UAS. Since the concentration of microplastics in the atmosphere is small, they then had to adapt their sampling method to ensure they captured enough particles.",
-        "\"The challenge was to sample a large enough volume of air to ensure that some microplastics were present among all the particles,\" Calmer said. \"It was not easy because of the limited UAS flight time, which was around 25 minutes.\"",
-        "In fall 2024, the team deployed their instrument above two sites in Colorado: near a heavily trafficked highway in Erie and residential areas and a landfill in Arvada.",
-        "After the UAS flights, the samples were preprocessed at CU Boulder to separate the microplastics from organic particles. The samples then traveled to URI, where researchers counted and identified each particle by plastic type.",
-        "Their samples were dominated by clusters of plastic and environmental material called hetero-aggregates, which are often found near highways and areas with high levels of human activity.",
-        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
-        "Calmer and de Boer, who were principal investigators on the project, emphasized that the CIRES IRP was key to getting this research off the ground. The program is an internal competition that supports novel or unconventional research that might be difficult to fund through traditional approaches."
-      ],
-      "external": true,
-      "order": 3
-    },
-    {
-      "id": "phys-future-warming-events-will-outdo-the-extreme-heat-waves-of",
-      "title": "Future warming events will outdo the extreme heat waves of the recent past, new study finds",
-      "dek": "The extreme heat waves we have seen over the last few years may only serve as a preview of what is to come as a result of climate change. ",
-      "category": "环境",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-07",
-      "publishedAt": "2026-11-06T21:00:01.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-future-events-outdo-extreme.html"
-      },
-      "cover": "wave",
-      "accent": "blue",
-      "paragraphs": [
-        "The extreme heat waves we have seen over the last few years may only serve as a preview of what is to come as a result of climate change. A new study led by researcher Philipp Aglas-Leitner from Freie Universität Berlin, published in Nature Communications , finds that future heat waves could last longer, impact larger areas, and be much more severe.",
-        "In the study \"Recent extreme heatwaves are no match for future events,\" the research team analyzed 22 exceptional heat waves that occurred between 2010 and 2023 in regions such as Europe, Australia, China, India and Pakistan, North Africa and the Middle East, and South America. Nine heat waves from between 2015 and 2023 were investigated in depth. The researchers then compared these events with climate model projections for the period from 2020 to 2100.",
-        "Unlike analyses that observe individual temperature records, this new study investigates several heat wave characteristics at the same time, such as duration, cumulative heat, median and maximum event severity, and median and maximum spatial extent of locally heat-affected areas.",
-        "Two independent reference data sets from Berkeley Earth and ERA5 were used to analyze the 22 exceptional heat waves. The team used multimodel ensembles from the international model comparison projects CMIP5 and CMIP6 to create climate projections and assessed different scenarios, ranging from substantial emissions reductions through to scenarios with high and very high emissions, as well as a number of different global warming levels.",
-        "\"The results demonstrate a clear pattern across different climate model ensembles and emission scenarios: A substantial proportion of future heat waves surpass exceptional events in the recent lived experience. They could last longer, impact larger areas, be more severe and produce much higher accumulated temperature anomalies. Recent observed events are outmatched by a substantial margin, particularly toward the end of the 21st century,\" says Philipp Aglas-Leitner, first author of the study from the Department of Physics and Department of Mathematics and Computer Science, Freie Universität Berlin.",
-        "The study's projections of severe heat waves are especially striking. The authors state that they will become much more frequent in many regions in the period from 2015 to 2054. The majority of the model ensembles for a lot of the regions investigated are projected to have at least one exceptional heat wave period per year between 2060 and 2099. In Europe, future heat waves could stretch out over several months and impact a significant portion of the continent.",
-        "\"Our results clearly demonstrate that many of the extreme heat waves that people today have experienced in recent years could be outmatched by those of the future. This has far-reaching implications for human health, infrastructure and ecosystems,\" Aglas-Leitner explains. \"Even ambitious emission reduction goals offer only limited protection. Without substantial emission reductions and consistent adaptation measures, however, a significant part of the 21st century will be defined by heat that goes far beyond our recent experiences.\"",
+        "An academic abstract, a blog post and a public outreach article all place different demands on the writer. Readers' prior knowledge varies, as does the purpose of the text and what needs explaining. Mastering one kind of text therefore does not automatically mean being able to write another.",
+        "Researchers need to be able to write for both colleagues and people outside academia. But how do they learn to write for new audiences? A study from Chalmers shows how working with different text genres simultaneously can help doctoral students learn to adapt their writing to new contexts.",
+        "\"We cannot teach every writing task that a doctoral student will encounter. Teaching therefore needs to help them understand how to approach an unfamiliar text type by developing rhetorical agility,\" says Peter Wingrove, a postdoctoral researcher at the Department of Communication and Learning in Science at Chalmers and lead author of the article published in the Journal of English for Academic Purposes .",
+        "In the study, the researchers trialed a teaching approach in which eight doctoral students worked with three different text genres during a single workshop. Participants first analyzed an academic abstract and discussed its intended audience, purpose and structure. They then worked in groups to turn a research blog post into an academic abstract and compared different ways of presenting the content.",
+        "Finally, they wrote an abstract of their own research and reworked it into a short popular science article. Participants were given examples to study, but no step-by-step guidance on how to complete the final task. The researchers analyzed participants' texts, recorded group discussions and conducted interviews about how they had approached the tasks.",
+        "The analysis showed how participants transferred both language and structure to the new writing task. Some placed key findings early in the text. Others used storytelling or questions to engage the reader. Participants also made different choices about technical terms in consideration of the new audience.",
+        "The interviews and group discussions also revealed how participants reasoned about their choices: which existing knowledge they could draw on, what needed to change and what they needed to learn more about. The researchers term the approach \"Multi-Genre Pedagogy.\" Its aim is to develop flexible writing skills and a deeper awareness of genres by allowing participants to compare and move between different texts.",
+        "\"Making research accessible can mean developing ideas in greater detail and explaining things that specialists take for granted. It is about understanding what readers need to follow the discussion,\" says Raffaella Negretti, professor at Chalmers and co-author of the study.",
         "BA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile &rarr;",
-        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
-        "Climate projections indicate that future heat waves will exceed exceptional events from 2010–2023 in duration, extent, severity and cumulative heat. By 2060–2099, many regions could face such events annually. Substantial emissions cuts and adaptation are needed to limit risks, although ambitious mitigation cannot eliminate them.",
+        "In a multi-genre workshop, eight doctoral students adapted research texts for academic and public audiences by changing structure, language and explanations. Analysis of texts, discussions and interviews indicated transfer of writing knowledge and awareness of audience needs, supporting multi-genre teaching for developing rhetorical flexibility.",
         "Please select the most appropriate category to facilitate processing of your request",
         "Thank you for taking time to provide your feedback to the editors.",
         "Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages.",
         "Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose. The information you enter will appear in your e-mail message and is not retained by Phys. org in any form."
       ],
       "external": true,
-      "order": 4
+      "order": 1
     },
     {
-      "id": "phys-light-powered-method-resurrects-dead-end-compounds-for-dru",
-      "title": "Light-powered method resurrects 'dead-end' compounds for drug discovery",
-      "dek": "Throughout the drug development process, which can take a decade or more, tens of thousands of chemical compounds are produced that never go on to become medicines. ",
+      "id": "nasa-nasa-seeks-next-generation-of-explorers-to-join-astronaut-",
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "dek": "NASA is looking for the explorers who will help write the next chapter of human spaceflight.",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-07T18:11:57.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "NASA is looking for the explorers who will help write the next chapter of human spaceflight.",
+        "Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars.",
+        "The next generation of astronauts will train to operate on the lunar surface, live and work beyond Earth, and take on missions that will push the boundaries of human exploration farther than ever before.",
+        "U. S. citizens interested in joining the astronaut corps have until 11:59 p. m. EST Thursday, Dec. 3, to submit their completed application materials at:",
+        "“This is an extraordinary time to join NASA’s astronaut corps,” said NASA Administrator Jared Isaacman. “The people we select could walk on the Moon, live and work at the Moon Base, and help pioneer the systems and operations that will ultimately carry crews to Mars. Those missions will demand technical excellence, sound judgment, teamwork, and courage. NASA’s astronaut corps has always called on remarkable Americans willing to take on extraordinary challenges in service to the nation. If you are ready to join that tradition, come help write the next chapter of humanity’s greatest adventure.”",
+        "NASA expects to make its final selection in late 2027 to begin training as the next class of astronaut candidates.",
+        "“The window is open. The mission is waiting. And the only thing missing from the greatest adventure humanity has ever embarked upon is you,” said NASA Deputy Administrator Matt Anderson.",
+        "The agency last opened applications in 2024. From more than 8,000 applications, 10 astronaut candidates were selected in 2025 and are currently completing nearly two years of training.",
+        "“For those who apply, becoming a NASA astronaut is more than a career opportunity,” said Scott Tingle, chief astronaut and chair of the Astronaut Selection Board at NASA’s Johnson Space Center in Houston. “It is a chance to join a legacy of explorers who have pushed the boundaries of discovery and play a role in the missions that will shape humanity’s future in space. The next generation of astronaut candidates could help write history while inspiring future scientists, engineers, and explorers.”",
+        "Since the 1960s, NASA has selected 370 people to train as astronaut candidates for its increasingly challenging missions. The agency has 32 astronauts active in the astronaut corps, and selected applicants will join their ranks to study spacewalking, lunar geology, operations of high-performance aircraft, and more.",
+        "The basic requirements to apply include United States citizenship and a master’s degree in a STEM field, including engineering, biological science, physical science, or computer science from an accredited institution. The requirement for the master’s degree can also be met by:",
+        "Candidates must also have at least three years of related professional experience after completing their qualifying degree.",
+        "For pilots, the professional experience requirement may be met through the following flight experience:",
+        "For medical doctors, residency training may count toward the professional experience requirement and must be completed by July 2027."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "nasa-news-nasa-seeks-next-generation-of-explorers-to-join-astronaut-",
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "dek": "NASA is looking for the explorers who will help write the next chapter of human spaceflight.",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-07T18:11:57.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "NASA is looking for the explorers who will help write the next chapter of human spaceflight.",
+        "Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars.",
+        "The next generation of astronauts will train to operate on the lunar surface, live and work beyond Earth, and take on missions that will push the boundaries of human exploration farther than ever before.",
+        "U. S. citizens interested in joining the astronaut corps have until 11:59 p. m. EST Thursday, Dec. 3, to submit their completed application materials at:",
+        "“This is an extraordinary time to join NASA’s astronaut corps,” said NASA Administrator Jared Isaacman. “The people we select could walk on the Moon, live and work at the Moon Base, and help pioneer the systems and operations that will ultimately carry crews to Mars. Those missions will demand technical excellence, sound judgment, teamwork, and courage. NASA’s astronaut corps has always called on remarkable Americans willing to take on extraordinary challenges in service to the nation. If you are ready to join that tradition, come help write the next chapter of humanity’s greatest adventure.”",
+        "NASA expects to make its final selection in late 2027 to begin training as the next class of astronaut candidates.",
+        "“The window is open. The mission is waiting. And the only thing missing from the greatest adventure humanity has ever embarked upon is you,” said NASA Deputy Administrator Matt Anderson.",
+        "The agency last opened applications in 2024. From more than 8,000 applications, 10 astronaut candidates were selected in 2025 and are currently completing nearly two years of training.",
+        "“For those who apply, becoming a NASA astronaut is more than a career opportunity,” said Scott Tingle, chief astronaut and chair of the Astronaut Selection Board at NASA’s Johnson Space Center in Houston. “It is a chance to join a legacy of explorers who have pushed the boundaries of discovery and play a role in the missions that will shape humanity’s future in space. The next generation of astronaut candidates could help write history while inspiring future scientists, engineers, and explorers.”",
+        "Since the 1960s, NASA has selected 370 people to train as astronaut candidates for its increasingly challenging missions. The agency has 32 astronauts active in the astronaut corps, and selected applicants will join their ranks to study spacewalking, lunar geology, operations of high-performance aircraft, and more.",
+        "The basic requirements to apply include United States citizenship and a master’s degree in a STEM field, including engineering, biological science, physical science, or computer science from an accredited institution. The requirement for the master’s degree can also be met by:",
+        "Candidates must also have at least three years of related professional experience after completing their qualifying degree.",
+        "For pilots, the professional experience requirement may be met through the following flight experience:",
+        "For medical doctors, residency training may count toward the professional experience requirement and must be completed by July 2027."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-two-paths-one-flux-trapped-ions-simulate-aharonov-bohm-int",
+      "title": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
+      "dek": "In a new Nature Physics study , researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer.",
       "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-07",
-      "publishedAt": "2026-11-06T20:40:01.000Z",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-07T18:00:02.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-powered-method-resurrects-dead-compounds.html"
+        "url": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html"
       },
-      "cover": "star",
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "In a new Nature Physics study , researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer.",
+        "Gauge theories describe how matter interacts through fields called gauge fields, which carry the electromagnetic, weak and strong forces. They form the basis of the Standard Model of particle physics. In lattice gauge theories, space is modeled as a grid with matter at the vertices and gauge fields on the links connecting them.",
+        "Quantum simulators offer a way to study these theories. However, most quantum simulations of the simplest version—the Z₂ lattice gauge theory—have been limited to one spatial dimension, where effects linked to magnetic flux cannot appear.",
+        "To address this issue, researchers from the University of Oxford have now used trapped ions to simulate a Z₂ lattice gauge theory in a quasi-two-dimensional loop. The trapped ions perform a dual role. Their electronic states encode the gauge fields and their vibrations encode the matter.",
+        "Phys. org spoke to the first author of the study, Sebastian Saner, about the work.",
+        "\"We first started brainstorming how to use a hybrid trapped-ion quantum system to simulate lattice gauge theories back in 2022. Later, during the project, we had the idea of using entangled qubits to encode the gauge-field flux. Coming up with this idea was one of the particularly exciting moments for us during the project,\" said Saner.",
+        "Using two trapped ions, the team built a closed loop to see how a flux stored in entangled qubits would affect a moving particle.",
+        "\"Gauge theories describe how particles interact with each other through gauge fields. A simple example is two electrons repelling each other through the electromagnetic field,\" explained Saner. \"In this picture, the electrons are described by a matter field, while the electromagnetic field is the gauge field that mediates their interaction.\"",
+        "Some of the most puzzling materials in physics, such as quantum spin liquids and high-temperature superconductors, are also described by gauge theories. Here, the gauge fields emerge from the collective behavior of electrons. Physicists often describe these materials using Z₂ lattice gauge theories, the simplest type, in which the field at each link of a grid can take only two values.",
+        "In these theories, the two values represent whether a field line is present or absent. Z₂ lattice gauge theories are also relevant to topological quantum error correction.",
+        "Simulating these theories on classical computers is challenging. According to Saner, computational complexity generally grows exponentially with system size, particularly in higher dimensions. The physics also becomes richer with each additional dimension.",
+        "For instance, in two spatial dimensions, links can form closed loops, which can be pierced by a magnetic flux. This gives rise to quasiparticles called visons, which have no counterpart in one dimension, where no loops can form.",
+        "Earlier experiments have studied Z₂ lattice gauge theories using cold atoms and superconducting qubits, but mostly in one-dimensional setups. Some experiments have simulated two-dimensional geometries, but removed the matter fields to simplify the model. As a result, these approaches could not capture how moving charges and gauge fields influence each other, including how flux affects particle motion.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-earths-gravity-may-have-kept-the-early-moons-volcanic-hear",
+      "title": "Earth's gravity may have kept the early moon's volcanic heart beating",
+      "dek": "We typically think of the moon as a static, floating object that has remained the same for basically its entire lifetime, with an occasional asteroid impact serving as an…",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-07T17:30:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-earth-gravity-early-moon-volcanic.html"
+      },
+      "cover": "wave",
       "accent": "blue",
       "paragraphs": [
-        "Throughout the drug development process, which can take a decade or more, tens of thousands of chemical compounds are produced that never go on to become medicines. A Florida State University researcher is part of a team that has discovered a new way to give some of these \"dead ends\" a second chance at becoming the foundation for tomorrow's blockbuster drugs.",
-        "Assistant professor of chemistry and biochemistry Bryan Kudisch and his collaborators have developed a light-powered chemical reaction that can transform a difficult-to-repurpose class of compounds known as sulfonamides into useful building blocks for future drug discoveries. Their research was published in the Journal of the American Chemical Society .",
-        "\"Kudisch is a molecular spectroscopist who develops and applies laser-based techniques to measure extraordinarily short-time processes, particularly chemically important processes induced by light,\" said Wei Yang, Department of Chemistry and Biochemistry chair. \"His work demonstrates both exceptional technical ability and extraordinary insight into some of the most fundamental and complex processes in chemistry. This publication addressed an important problem closely related to drug discovery, which is a major strategic area of the FSU ASPIRE initiative.\"",
-        "Sulfonamides—which appear in and give rise to the name \"sulfa drugs\"—are one of the most important molecular substructures in medicinal chemistry. These synthetic medications were some of the first widely used antibiotics almost 90 years ago. Today, they're still used and found in a variety of medicines that treat diseases and symptoms including type 2 diabetes, high blood pressure, HIV and melanoma.",
-        "Despite their usefulness in many pharmaceuticals, sulfonamides are difficult to repurpose because they are chemically inert. Chemists have developed recipes to interconvert many other functional groups that change the biological properties of a compound, but relatively few options are available to do this with sulfonamides—especially for the sulfur atom that lies at the center of these substructures. Removing this atom or replacing it with a new chemical group could allow researchers to create new versions of existing compounds while preserving their other useful features.",
-        "Kudisch and his collaborators addressed this challenge by using a photochemical reaction that converts sulfonamides into anilines, a different class of chemical compounds that serves as the foundation for some cancer-fighting medicines. By transforming part of the molecular structure, otherwise dead-end compounds once again become potential starting points for developing new medicines.",
-        "\"This outcome was achieved through a chemical 'surgery' that uses light to excise a sulfur atom from a sulfonamide,\" Kudisch said. \"We're optimistic these types of photochemical surgical tools could underpin a range of powerful processes for reshaping molecules that could advance the development of new medicines.\"",
-        "To better understand the molecular reaction during this excision, Kudisch used advanced laser spectroscopic methods to observe the reaction as it happened within a single microsecond.",
-        "\"We essentially spy on what the light is doing to sulfonamides,\" Kudisch said. \"Our research focuses on what photochemistry secrets are encoded in this transformation. We can track the molecules to understand how they transition into structures that eventually become the desired product or unwanted side product.\"",
-        "Kudisch collaborated with assistant professors of chemistry Eric Nacsa and Elvira Sayfutyarova at Pennsylvania State University as well as pharmaceutical company GSK on the research. Kudisch's group conducted experimental studies to investigate the reaction's mechanism while Sayfutyarova completed computational studies explaining how the reaction occurs. Nacsa's group discovered and optimized the reaction, demonstrated its broad applications and conducted additional mechanistic studies. GSK helped show the potential application of the new reaction in drug discovery.",
-        "\"Experimental contributions from the Kudisch Lab at FSU combined with computational work by the Sayfutyarova group at Penn State were critical for understanding the reaction's mechanism,\" Nacsa said. \"We anticipate these results and ongoing collaborations with the Kudisch group will provide new fundamental insight into how light can transform molecular structures.\"",
-        "With structure-based drug design becoming more essential for efficient medicine development, this technique can play a key role in contributing to new drug discoveries when applied to different groups of molecules."
+        "We typically think of the moon as a static, floating object that has remained the same for basically its entire lifetime, with an occasional asteroid impact serving as an exception. That understanding is grounded in physics—the moon should have cooled rapidly after forming when a huge protoplanet hit the early Earth around 4. 5 billion years ago. But some lunar material returned from the Chang'e-5 mission was notably formed only around 2 billion years ago, yet appeared to be volcanic in origin.",
+        "So how did a world that was supposed to have settled down without volcanism remain hot enough to create these materials more than 2 billion years after its violent birth? A new paper from Miao Chen of the Chengdu University of Technology and his colleagues, recently published in the journal Planet , offers an explanation—tidal heating.",
+        "Let's first set the stage of the moon's creation. Our best guess is that it was created when another early protoplanet, named Theia , slammed into Earth in a massive collision, creating a chunk of debris that coalesced into the moon. However, that amount of debris was relatively small—only about a quarter the size of the Earth itself, which meant the internal heat generated during its formation would rapidly radiate away, turning the moon itself geologically dormant.",
+        "But when Chang'e-5 returned some lunar basalts from Oceanus Procellarum back to Earth, laboratory dating showed them to be only around 2 billion years old. Basalts are only formed in active volcanoes or other environments with similarly high pressures and temperatures—environments that, at least according to traditional geological theory, shouldn't have existed on the moon 2 billion years ago.",
+        "Despite that, scientists have tried offering other solutions. Radioactive elements, such as potassium and uranium, emit some heat as they decay. But there wasn't enough undecayed material left on the moon to offer the amount of heat needed to form basalt 2 billion years ago. Asteroid strikes could cause localized high-impact thermal spikes, but the heavy bombardment period that gave the moon most of its craters had ended long before the basalt was formed.",
+        "So instead the authors turned to gravity—specifically to a phenomenon called tidal heating. This happens when a celestial body is squeezed, stretched and kneaded as it travels in an elliptical orbit around a larger parent body. Perhaps the most famous example of this in the solar system is Io. This moon of Jupiter is constantly erupting due to the tidal squishing it undergoes during its orbit around the largest planet.",
+        "Obviously, the moon doesn't seem to be undergoing any such squishing currently. However, 2 billion years ago, the moon was much closer to the Earth than it is today, orbiting our planet in 16 days rather than the 27 it takes now. Its orbit was also much more eccentric, looking much more like an oval than a circle. All of this means that Earth itself exerted huge rhythmic tidal forces on the moon's interior during the course of its orbit.",
+        "We've known that for a while, but astronomers have always modeled the moon as a mostly uniform sphere when trying to understand how these gravitational squeezes affected it. However, scientists knew this was a simplification—there is an ultra-low-viscosity zone of rock wrapping itself between the moon's core and mantle. When the research team plugged a more realistic 3D representation of the mantle setup into a convection simulation, they noticed that a ton of energy was directed specifically at two symmetric regions along the lunar core-mantle boundary.",
+        "These regions, which they named tidal heating anomaly zones (THAZs), absorbed a huge amount of energy. They calculated that, around 3. 2 billion years ago, despite taking up only 2. 5% of the mantle's total volume, the tidal strain on these regions delivered 150 gigawatts of power—more than four times the amount of energy generated by radioactive decay.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
       ],
       "external": true,
       "order": 5
+    },
+    {
+      "id": "scitechdaily-deep-sea-scientists-capture-extraordinary-4k-footage-of-a-",
+      "title": "Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head",
+      "dek": "MBARI’s first 4K footage of a barreleye fish offers a rare chance to study how its unusual eyes work in the ocean’s dim twilight zone.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-07T16:24:00.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/deep-sea-scientists-capture-extraordinary-4k-footage-of-a-fish-with-a-see-through-head/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "MBARI’s first 4K footage of a barreleye fish offers a rare chance to study how its unusual eyes work in the ocean’s dim twilight zone.",
+        "The day’s deep-sea research was over when a fish with a transparent head came into view. Research Specialist Shannon Johnson spotted it as MBARI’s pilots were “flying” the remotely operated vehicle (ROV) Doc Ricketts back to the surface for recovery, and she called for them to stop.",
+        "The animal was a barreleye fish ( Macropinna microstoma ), approximately 600 meters (1,970 feet) underwater and 90 kilometers (55 miles) offshore. For the MBARI scientists working aboard the research vessel David Packard , this was only the organization’s eleventh encounter with the species.",
+        "Senior Scientist Steven Haddock and researchers from MBARI’s Biodiversity and Biooptics Team were on the eight-day Diving Deep for Delicate Drifters expedition , studying gelatinous animals such as jellies, siphonophores, and ctenophores, also known as comb jellies. They combined scuba diving in open water near the surface with ROV surveys hundreds of meters below, filming and collecting animals to better understand how they have adapted to life in the deep water column.",
+        "Most of the scientists had already moved to the ship’s wet lab to prepare to catalog the specimens arriving with the ROV. When news of the barreleye reached them, they ran back to the control room. The encounter was an unexpected finish to a long, productive week of research.",
+        "“Seeing a barreleye fish is a rare treat. Crew from across the ship joined the science team in the control room, mesmerized by this remarkable animal. Deep-sea animals capture the imagination, creating wonder and awe that we hope will inspire stewardship of the largest living space on Earth,” said Haddock.",
+        "The team spent approximately 20 minutes observing the fish with Doc Ricketts ’ high-resolution 4K camera, examining its body and behavior and experimenting with different lighting conditions to show its transparent head shield. This was MBARI’s first barreleye sighting filmed in 4K and its first from the new flagship research vessel.",
+        "ROV Pilot/Technician Cameron Law also maneuvered Doc Ricketts close enough to record the fish with the vehicle’s virtual reality (VR) camera. The resulting 3D stereo imagery could contribute to future education and outreach efforts.",
+        "MBARI has completed roughly 7,000 ROV dives and recorded more than 41,000 hours of deep-sea video during nearly 40 years of ocean exploration. Its previous sighting of Macropinna was in 2021 . This summer, MBARI researchers leading an expedition with Schmidt Ocean Institute in the mid-Atlantic Ocean recorded another species of barreleye, the binocular fish ( Winteria telescopa ).",
+        "Earlier MBARI observations by Senior Scientist Bruce Robison and Research Specialist Kim Reisenbichler helped reveal how Macropinna uses its unusual eyes to feed. In the ocean’s dim twilight zone, the fish’s large fins keep it stable and allow it to maneuver as it hovers, looking upward for the silhouettes of prey. Once it spots food, its large, tubular eyes rotate beneath the transparent dome to keep the target in view. The gelatinous shield also protects those eyes when the fish plucks small crustaceans caught in the stinging tentacles of deep-sea siphonophores.",
+        "The researchers did not collect the barreleye, but their footage will support continued research on this elusive species. The Biodiversity and Biooptics Team studies how marine animals interact with light and has extensively investigated deep-sea visual systems. Its close-up examination of Macropinna ’s eyes will help researchers better understand vision in the twilight zone.",
+        "Pigments in the lenses of the fish’s eyes are thought to serve a similar function to the green pigments in the eyes of the strawberry squid ( Histioteuthis heteropsis ) , a deep-sea neighbor the team has previously studied.",
+        "“ Macropinna reminds us of the surprising ways that animals have adapted to thrive in the ocean’s midwater,” said Haddock. “So many of them survive by looking for subtle optical cues, like a shadow passing overhead, and this sets off evolutionary competition, pitting bioluminescent camouflage against increasingly sophisticated visual capabilities.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "phys-scientists-discover-new-jellyfish-species-in-waters-off-al",
+      "title": "Scientists discover new jellyfish species in waters off Alicante in Spain",
+      "dek": "The Mediterranean Sea still holds species unknown to science. One of them is Copula lucentia, a tiny jellyfish measuring just a few millimeters. ",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-07T16:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-scientists-jellyfish-species-alicante-spain.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "The Mediterranean Sea still holds species unknown to science. One of them is Copula lucentia, a tiny jellyfish measuring just a few millimeters. Discovered off El Campello, in Alicante, it was formally described in 2024 by a research team at the University of Alicante (UA) Marine Laboratory in Dénia, which forms part of the university's Ramón Margalef Multidisciplinary Institute for Environmental Research.",
+        "The finding makes Copula lucentia only the second box jellyfish species documented in the Mediterranean, following Carybdea marsupialis, described by Linnaeus in 1758. It shows that even one of the most thoroughly studied seas on the planet still has biodiversity to reveal.",
+        "Ranging from 1 to 7 millimeters (0. 04 to 0. 28 inches) in size, Copula lucentia was identified from specimens collected between 2016 and 2018. The description, published in the journal Marine Biodiversity in 2024, combined morphological studies with genetic analyses carried out in collaboration with international specialists.",
+        "Eva Fonfría, a researcher at the University of Alicante and lead author of the study, explained that the discovery was made during a sampling campaign. \"At first we were surprised because it was very small for that time of year, and it had certain morphological features that didnt fit,\" she recalled.",
+        "These anomalies prompted the team to analyze the specimens and compare them with known species. The results confirmed that, although the organism belonged to the genus Copula, its distinctive features warranted classification as a new species.",
+        "The scientific name, Copula lucentia, refers to Lucentum, the Latin name for Alicante. To date, the species has been recorded only off El Campello, which makes this stretch of the Alicante coastline a key site for further research.",
+        "\"Finding a new species in the Mediterranean, where everything is so heavily studied, is very important,\" said Fonfría, who stressed the need to continue studying these organisms in order to understand their distribution and ecological role in marine ecosystems.",
+        "Copula lucentia belongs to the box jellyfish group (Cubozoa), so called because of its cube-shaped bell. Its body is almost entirely transparent and has four tentacles, as well as small adhesive structures at the top that allow it to anchor itself to a variety of surfaces.",
+        "The specimens studied were found at depths of less than 1. 5 meters (4. 9 feet), in an environment of rocky and sandy seabeds and seagrass meadows.",
+        "Identifying the species required comparing several anatomical structures with those of Copula sivickisi, a related species found elsewhere in the world. Differences in the bell, together with genetic analysis, confirmed that the El Campello specimens belong to the same genus but constitute a distinct species.",
+        "According to César Bordehore, senior lecturer in the Department of Ecology at the University of Alicante and coordinator of the UA Marine Laboratory in Dénia, the discovery is a \"milestone\" for marine research. \"The fact that we have identified a second box jellyfish species in the Mediterranean shows how much we still have to learn about its biodiversity,\" he said.",
+        "He also emphasized the need to expand research into small marine organisms, whose presence can easily go unnoticed.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Despite the progress that its identification represents, many questions about the new jellyfish remain unanswered. Its reproductive cycle, its role in the food web and its ability to sting all require further investigation. Bordehore noted that, more broadly, there is a need to better understand the role of gelatinous organisms in marine ecosystems—particularly small ones such as salps, tintinnids and jellyfish—which can interact significantly with key areas such as fisheries. These tiny organisms prey on fish eggs and larvae."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "phys-heavy-rain-can-more-than-double-glacier-speeds-in-alaska",
+      "title": "Heavy rain can more than double glacier speeds in Alaska",
+      "dek": "Glaciers are often thought of as unyielding blocks of ice that slowly carve out the landscape as they move downhill by gravity. ",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T15:40:05.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-heavy-glacier-alaska.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Glaciers are often thought of as unyielding blocks of ice that slowly carve out the landscape as they move downhill by gravity. But sometimes their slow crawl becomes a surge that sees them move orders of magnitude faster than their usual speed.",
+        "Such events can have dramatic effects on the environment, acting like a bulldozer to erode valleys, shattering the glacier's surface into crevasses, blocking side valleys to create ice dams with temporary lakes behind, or causing catastrophic flooding when these ice dams burst. And as glaciers move toward the sea, increased ice calving and melting have considerable impacts on rising sea levels.",
+        "Understanding the mechanisms behind these aggressive advances is therefore vital for scientists to monitor instabilities in the world's glaciers and their wider implications for climate change conversations.",
+        "Parker Wilkerson, of Boise State University, and colleagues turned to the steep, highly crevassed Sít' Kusá (Turner Glacier) in Alaska to explore how rain can induce glacier surges.",
+        "Using GPS measurements from instruments installed around the glacier, the researchers recorded its position every 15 seconds to monitor speed changes in the short term compared to the glacier's longer-term movement. These were then associated with rain estimates validated by measurements taken at the weather station of the nearby Yakutat Airport to identify if there was a correlation between rainfall events and glacier surges. The results, published in The Cryosphere , show that there is.",
+        "Comparing a period of surge (2020–2021) to slow flow (2022–2024), the team found that over half of the rainfall events caused speed-ups, with the maximum reaching 7. 5 meters (24. 6 feet) in a single day—that's equivalent to a 116% increase in speed, or more than double.",
+        "This surge also lasted twice as long (66 hours) as any occurring during the quiescent flow period and tended to begin 12 hours after the start of the rainfall event when precipitation reached at least 20 mm (0. 79 inches). The glacier returned to a stable state three days later.",
+        "However, while rain-induced speed-ups were less frequent during quiescence, when they did occur, they required 60 mm (2. 4 inches) of rain since the start of the event and resulted in a much bigger percentage increase (251%) in speed, peaking on average 32 hours later. Despite this speed increase only being 1. 5 meters (4. 9 feet) per day, it is proportionately larger given the glacier is moving at such a slow background speed.",
+        "And during both phases, glacier acceleration was greatest in the downhill parts compared to those higher in the valley, likely a combination of landscape topography, gravity and meltwater aiding movement.",
+        "The researchers explain that the surge phenomenon is a consequence of the efficiency of the glacier's drainage system. An efficient one has linked channels running on top of, through and beneath the glacier that allow rainwater and meltwater to drain away quickly, meaning the glacier sits on the underlying bedrock and continues its slow, steady advance.",
+        "But an inefficient one creates issues. Water gets trapped in isolated pockets under the ice or in the sediment directly beneath the glacier (known as till) with nowhere to drain away. This causes pressure to build up as more water continues to enter these pockets and counteract the weight of the overlying ice, reducing friction and creating a lubricating layer for the glacier to slide quickly over the underlying ground.",
+        "Known as basal sliding, in other scenarios this can also be caused when the weight of ice reaches a critical point and the high pressure changes the temperature at which it melts to create a water layer between the glacier and bedrock.",
+        "These insights into the relationship between drainage efficiency and glacier speeds are vital for scientists to refine model projections for ice loss into the future.",
+        "Shifting weather patterns leading to more rain could be an important driving factor in the frequency and duration of surges in years to come. Coupled with increased melting in a warmer world, we are likely to see continued glacier ice loss and need to understand the implications of that for sea levels, especially for coastal and island communities at risk of flooding."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "phys-the-introduction-of-a-medieval-public-health-system-expose",
+      "title": "The introduction of a medieval public health system exposed the population to roundworm",
+      "dek": "by Idun Haugan, Norwegian University of Science and Technology",
+      "category": "健康",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T14:30:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-introduction-medieval-health-exposed-population.html"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "by Idun Haugan, Norwegian University of Science and Technology",
+        "Medieval health and sanitation efforts involved deliberate interventions; however, some of these measures had the opposite effect, leading to an increased spread of disease in Trondheim.",
+        "Ancient skeletons from the city can tell us a great deal about how people lived, what they ate, what diseases they suffered from and what caused their deaths. They also provide insight into social conditions and how society was organized.",
+        "Inside the Trondheim Public Library, you can see parts of a medieval cemetery unearthed by archaeologists. This was the burial ground for people who belonged to a stone church that once stood beneath the library building.",
+        "Another medieval cemetery lies just across the street, situated beneath the premises of the current bank building, SpareBank 1.",
+        "One cemetery was centrally located in the oldest part of the city, while the other was situated on the outskirts of the urban core. Archaeological excavations and findings at these two sites have revealed significant differences between the individuals buried there.",
+        "Bone analysis indicates that child mortality was significantly higher, and general health poorer, among those buried in the cemetery on the city's periphery at the time—an area inhabited primarily by craft workers.",
+        "Their diet was less varied than that of Kaupmannastretet (known today as Krambugata) residents, who belonged to the church beneath the public library. The latter group represented the city's social elite; they were engaged in trade and resided in large townhouses. Their diet was more diverse, including seafood, for example. Social inequality affected health and mortality—then and today.",
+        "MedHeal600 ( Medieval Urban Health: From private to public responsibility ) is a research project led by the NTNU University Museum.",
+        "The researchers have investigated public health and living conditions in Trondheim from the year 1000 to 1600, including how public authorities facilitated access to health care.",
+        "Analyses of the skeletons reveal that well over half of the city's inhabitants experienced physiological stress during childhood and adolescence, caused by an insufficient or overly monotonous diet. Many people also died from infectious diseases such as leprosy, typhoid fever and tuberculosis.",
+        "\"Society was familiar with these diseases, and public authorities implemented measures to limit their spread. In the Middle Ages, responsibility for health, hygiene and waste management shifted from being a private concern to increasingly becoming a public urban responsibility,\" says Axel Christophersen.",
+        "Christophersen is a professor emeritus of historical archaeology at the NTNU University Museum and has headed the Medieval Urban Health research project.",
+        "\"The city initiated measures to improve hygiene, ensure cleaner streets and manage waste,\" says Christophersen."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-scientists-find-that-older-brains-react-very-differently-t",
+      "title": "Scientists Find That Older Brains React Very Differently to a Night of Poor Sleep",
+      "dek": "A single bad night’s sleep may be easier on a healthy older brain than a younger one, though regularly missing sleep still carries risks.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T13:13:40.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-find-that-older-brains-react-very-differently-to-a-night-of-poor-sleep/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A single bad night’s sleep may be easier on a healthy older brain than a younger one, though regularly missing sleep still carries risks.",
+        "Sleep quality often declines with age, yet older adults can seem less affected by a single bad night than younger people. Understanding that apparent mismatch means looking at how the brain responds when sleep runs short.",
+        "A study from Simon Fraser University offers a possible explanation. After just three hours of sleep, certain connections in younger and older brains changed in opposite directions. The findings suggest that healthy older brains may adapt to acute sleep loss in ways that help preserve function, although the study measured brain activity rather than cognitive performance.",
+        "The research, published in Imaging Neuroscience , compared brain networks in younger adults ages 20 to 30 with those in older adults ages 65 to 75. Lead researcher Josh Neudorf, an affiliate member of SFU’s Institute for Neuroscience and Neurotechnology, says earlier research on the effects of poor sleep provided a reason to investigate the difference.",
+        "“Older adults tend to better handle the effects of poor sleep, whereas younger adults, as we know, have the common symptoms of decreased mood and cognitive ability following poor sleep,” says Neudorf.",
+        "“This study tries to get at the heart of this difference – how does the older brain react to lost sleep.”",
+        "Brain connectivity describes how activity in different regions is linked. Stronger connections do not automatically mean the brain is working more efficiently. The arrangement matters, too. In a more modular network, regions are organized into groups, with relatively stronger connections within each group than between groups.",
+        "“What we found was quite striking in that older and younger brains actually responded in opposite ways to acute sleep loss.",
+        "“Certain connections in the brains of younger adults showed increased connectivity as a response to less sleep, while those same connections in the brains of older adults showed decreased connectivity.",
+        "“That decrease in connectivity promotes more efficient modular connectivity for the brain as a whole. In other words, the brain is acting in a more efficient way to maintain cognitive function. In contrast, the increased connectivity in younger brains suggests the brain is having to work harder to maintain function.”",
+        "Whether those network changes actually helped the older participants think or perform tasks better was not tested. The proposed benefit is an interpretation of the brain activity, consistent with previous research suggesting that older adults are often less impaired by a single night of poor sleep.",
+        "The reason for the opposite responses also remains open. One of several possible explanations is compensation, in which an aging brain reorganizes its networks and uses different strategies to maintain function.",
+        "“The quality of sleep starts to change and deteriorates somewhat in older adults,” says Neudorf.",
+        "“The theory of compensation is the idea that older brains adapt or compensate for those changes.”"
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "scitechdaily-a-hidden-substance-in-drinking-water-may-be-linked-to-hear",
+      "title": "A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
+      "dek": "The water we drink may hold clues to a rare heart condition in children, but whether naturally occurring lithium plays a role in its development remains unknown.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T12:02:53.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-hidden-substance-in-drinking-water-may-be-linked-to-heart-problems-in-children/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "The water we drink may hold clues to a rare heart condition in children, but whether naturally occurring lithium plays a role in its development remains unknown.",
+        "A dangerously fast heartbeat can begin with an extra strand of heart muscle that forms before birth. The strand creates an abnormal electrical connection, allowing the heart’s rhythm to go awry. Doctors can eliminate these connections, but a larger question has remained largely unanswered. Why do they develop in the first place?",
+        "A study led by UC San Francisco researchers points to a possible environmental clue in drinking water. Children living in areas with higher levels of naturally occurring lithium were more likely to be diagnosed with Wolff-Parkinson-White syndrome, or WPW, a rare condition involving a particular type of abnormal connection. The findings, published online in The Journal of Clinical Investigation , show an association, but do not establish that lithium causes the condition.",
+        "These connections, known as accessory pathways, usually occur in people with no family history of the condition. That suggests environmental exposures during fetal development could play a role. Lithium attracted the researchers’ attention because medicinal doses taken during pregnancy have been associated with an increased risk of congenital heart defects, including Ebstein’s anomaly. This rare defect is frequently accompanied by accessory pathways, prompting the team to investigate whether lithium in drinking water might also be associated with changes in the developing heart.",
+        "The researchers analyzed health and water-quality data for more than 2. 3 million children in California. Just 686 had a documented WPW diagnosis. Children living in counties with lithium levels in the highest 25% had 71% greater odds of a diagnosis than those in counties with lower levels.",
+        "The team then tested its main finding among nearly 2 million children in New York. There, children living in areas with lithium levels above 10 parts per billion also had greater odds of a WPW diagnosis.",
+        "Higher lithium levels in California were also associated with palpitations, fainting, and supraventricular tachycardia, or SVT, a rapid heart rhythm that can cause palpitations and other symptoms. Accessory pathways are among the most common causes of SVT. WPW is also associated with a small increased risk of sudden death. Doctors can treat accessory pathways with catheter ablation, a minimally invasive procedure that eliminates the small area of heart tissue responsible for the abnormal electrical connection.",
+        "“We’ve known about these pathways for decades, and we know how to treat them, but we haven’t known why people develop them,” said Gregory Marcus, MD, MAS, an endowed professor in atrial fibrillation research in the UCSF Division of Cardiology and senior author of the study. “This is an exciting step because it points to a potential environmental factor that may be modifiable. But we need more research to determine whether lithium is actually contributing to their development.”",
+        "The study estimated exposure from the county of residence. Researchers did not know how much lithium individual children or their mothers consumed, and other environmental or genetic factors could help explain the association. Studies in other populations and research that measures exposure during pregnancy more precisely are needed to determine whether lithium plays a causal role.",
+        "Marcus said the findings should not alarm people about the safety of their drinking water, including those who are pregnant. Despite the association, WPW was rare in the children studied.",
+        "Lithium occurs naturally in groundwater, and its concentration varies widely by location. Groundwater used for drinking water across the United States and elsewhere contains lithium, raising questions about the findings’ potential public health significance beyond California and New York. The researchers said the results underscore the value of collecting environmental data to understand how ordinary exposures may affect health.",
+        "“We’re exposed to things in our environment every day, including substances that occur naturally,” Marcus said. “The more precisely we can measure those exposures and connect them with health outcomes, the better we can understand what may be influencing health.”",
+        "Lithium in drinking water is not currently regulated in the United States, although the U. S. Environmental Protection Agency requires monitoring through its program for unregulated contaminants. The U. S. Geological Survey also measures lithium in groundwater."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "scitechdaily-scientists-find-a-clever-way-to-read-quantum-information-w",
+      "title": "Scientists Find a Clever Way to Read Quantum Information Without Destroying It",
+      "dek": "Simulations suggest that one type of qubit could reveal its state through its own electric current, helping researchers monitor quantum computers with less disturbance and…",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T00:25:22.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-find-a-clever-way-to-read-quantum-information-without-destroying-it/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Simulations suggest that one type of qubit could reveal its state through its own electric current, helping researchers monitor quantum computers with less disturbance and fewer components.",
+        "Like a bit in an ordinary computer, a qubit stores information using states labeled 0 and 1. A qubit can also be prepared in a superposition, a quantum combination of the two. These states belong to a physical system that researchers build and control. In the design explored here, that system is a tiny wire connected to superconducting materials.",
+        "The aim of quantum computing is to use quantum behavior to perform certain calculations more efficiently than conventional computers. That requires control: researchers must prepare qubits and change their states deliberately. Unwanted interactions with the surroundings can disrupt them, and measuring a qubit can alter it, too.",
+        "A theoretical study proposes reading one type of qubit through an electric current it produces itself. This could let researchers follow its behavior with minimal disturbance and without the extra qubits used in many existing methods.",
+        "Andreev qubits hold information in states formed between superconducting materials, which carry electric current without resistance. They are named after Soviet physicist Alexander Andreev (1939–2023), who described the underlying process at the boundary between normal and superconducting materials in 1964.",
+        "“In the system under consideration, this region is a quantum dot—that is, a nanoscale structure in which electrons are spatially confined – formed in an indium arsenide [ InAs ] nanowire connected to superconducting materials on both sides. It’s in this environment that the states characterizing the Andreev qubit are formed,” explains José Carlos Egues, a full professor at the São Carlos Institute of Physics at the University of São Paulo (IFSC-USP) in Brazil.",
+        "“In the conventional formulation of quantum mechanics, a projective measurement causes the system to assume one of the states associated with the measured quantity. Thus, if a qubit has been prepared in a certain superposition of 0 and 1, its direct measurement tends to destroy that superposition and, consequently, the information it contained,” says Egues.",
+        "Many existing methods use a helper quantum system called an ancilla. Researchers prepare it, connect it to the qubit, transfer information to it, and measure it to preserve the original qubit as much as possible. These steps add time and equipment. “Our strategy is different. Instead of transferring the information to an auxiliary qubit, we seek to obtain it from a signal produced by the qubit under study itself,” says Egues.",
+        "The qubit would sit in a closed superconducting circuit carrying a supercurrent, an electric current that flows without resistance. The calculations predict that interference between the states in the qubit’s superposition makes part of this current oscillate. “It’s precisely that property that we use to read the qubit. It’s that supercurrent that lies at the heart of our proposal,” Egues points out.",
+        "An applied voltage usually causes this kind of oscillation, known as the AC Josephson effect. “Our system generates a supercurrent that varies over time like an alternating current but without voltage. It’s the very evolution of the qubit’s state that produces that oscillation,” says Egues.",
+        "A nearby superconducting quantum interference device, or SQUID, would act as the detector. These instruments are extremely sensitive to weak magnetic fields. Egues explains, “We can think of the qubit as one compass and the SQUID as another compass. The current in the circuit produces a magnetic field, and the SQUID ‘senses’ that field. Since the coupling between the two is very weak, the effect of the measuring instrument on the qubit tends to be very small.”",
+        "Identifying the qubit’s state requires knowing both the balance of 0 and 1 and their relative phase, or how the two components line up.",
+        "“Our study showed that this information is encoded in the supercurrent itself. The supercurrent has a constant component and a fluctuating component. The value of the constant component and the amplitude of the oscillation reveal the proportion of each state (0 and 1) in the superposition, and the moment when that oscillation begins reveals the phase relationship between them. Thus, by measuring how the current varies over time, it’s possible to reconstruct the initial state of the qubit,” Egues explains.",
+        "Researchers could also track the qubit through repeated readings without resetting it to its initial state after each measurement."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "scitechdaily-chemical-breakthrough-could-unlock-the-holy-grail-of-solid",
+      "title": "Chemical Breakthrough Could Unlock the “Holy Grail” of Solid-State Battery Technology",
+      "dek": "Scientists in China have developed a thin protective coating that could help overcome a major obstacle to longer-lasting, high-capacity batteries. ",
+      "category": "科技",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T23:14:17.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/chemical-breakthrough-could-unlock-the-holy-grail-of-solid-state-battery-technology/"
+      },
+      "cover": "pencil",
+      "accent": "orange",
+      "paragraphs": [
+        "Scientists in China have developed a thin protective coating that could help overcome a major obstacle to longer-lasting, high-capacity batteries. In laboratory tests, solid-state batteries using the treated lithium metal retained 82. 3% of their initial capacity after 300 charging cycles, compared with just 43. 0% for batteries using untreated lithium.",
+        "The researchers at Xidian University developed a simple liquid coating that reacts with lithium metal to form a protective barrier. Their findings, published in Science China Chemistry , suggest a possible route toward safer, more durable batteries for electric vehicles and energy storage.",
+        "Lithium metal has been called the “holy grail” of energy storage because it can theoretically store nearly ten times as much charge per gram as the graphite used in conventional lithium-ion batteries. Its exceptional capacity could enable lighter batteries that store more energy and potentially support longer driving ranges.",
+        "To address this problem, researchers led by Professors Siwu Li, Weiwei Wu, and Chuang Yu combined a silicon-based polymer with indium chloride. When applied to lithium, the mixture forms lithium fluoride and lithium-indium alloy nanoparticles within a flexible protective film just 12 micrometers thick (about 0. 00047 inches).",
+        "“This hybrid layer acts like a smart fortress,” explains corresponding author Siwu Li. “The polymer backbone provides flexibility to absorb the mechanical stress of lithium expanding and contracting. The lithium fluoride phase blocks electrons to prevent dendrite nucleation. And the lithium-indium alloy nanoparticles act as traffic conductors, guiding lithium ions to deposit evenly rather than piling up in dangerous spikes.”",
+        "The coated lithium electrodes withstood a critical current density of 3. 5 milliamperes per square centimeter, more than four times the 0. 8 achieved by untreated lithium. In complete batteries containing a nickel-cobalt-manganese oxide cathode and a sulfide solid electrolyte, the protected electrodes delivered an initial capacity of 129. 8 milliampere-hours per gram and retained 82. 3% after 300 cycles at 0. 5C.",
+        "Spectroscopy and electron microscopy confirmed the coating’s composition and revealed a dense, uniform layer without visible cracks or gaps.",
+        "The coating could help address the chemical instability between lithium metal and sulfide solid electrolytes, a major challenge in solid-state battery development.",
+        "Because the protective layer forms from an applied liquid, it may be compatible with existing industrial coating equipment without requiring expensive vacuum processing. The researchers also plan to explore alternatives to indium, including tin and zinc.",
+        "Although commercial performance remains unproven, the findings offer a promising approach to making high-energy lithium metal batteries more stable and longer-lasting.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "scitechdaily-kids-who-learn-to-swim-early-may-have-an-unexpected-advant",
+      "title": "Kids Who Learn To Swim Early May Have an Unexpected Advantage in School",
+      "dek": "Children who learn to swim early may have a head start in classroom skills, with research finding developmental advantages even after accounting for socioeconomic background.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T20:02:20.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/kids-who-learn-to-swim-early-may-have-an-unexpected-advantage-in-school/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Children who learn to swim early may have a head start in classroom skills, with research finding developmental advantages even after accounting for socioeconomic background.",
+        "When family budgets tighten, swimming lessons can be among the first expenses to go. Most swim schools operate as commercial businesses, and cost is the biggest barrier to participation. Yet the consequences of missing out may extend beyond water safety and fitness to the skills children need when they start school.",
+        "A four-year study involving nearly 7,000 survey respondents and individual testing of 177 children suggests that children who learn to swim early have developmental advantages over their peers. Participants younger than 5 could be 5 to 18 months ahead of typical milestones in literacy, numeracy, and following instructions compared with the general population of children their age. Those advantages remained when socioeconomic background was taken into account.",
+        "Robyn Jorgensen, Emeritus Professor at the University of Canberra in Australia, examines and expands on the research in her new book, Why Young Children Should Learn to Swim .",
+        "Jorgensen does not interpret the findings as evidence that children who learn to swim are innately smarter. Instead, she argues that lessons develop skills and habits children can carry into the classroom. A child counting kicks from one to ten with an instructor, for example, is practicing number sequencing and one-to-one correspondence, matching each number to a single action.",
+        "The project grew out of a conversation between Jorgensen and Laurie Lawrence, an Olympic swim coach inducted into both the Australian and U. S. Swimming Halls of Fame. Lawrence thought children who learned to swim early generally seemed more “school-ready.”",
+        "“There was no formal evidence to support this observation, but it was one that Laurie felt he and many others in the swim industry observed,” Jorgensen explains.",
+        "To investigate that “industry hunch,” Jorgensen and her colleagues used the Peabody Developmental Motor Scales and Woodcock-Johnson III assessments. These internationally recognized testing tools were normed against national census data, providing reference standards for comparing the children’s performance with that of the wider population.",
+        "The results surprised even Jorgensen, who said, “My early observations of the young learners piqued my interest while retaining some sense of skepticism about what could be achieved. I am not from a swimming background, so had no vested interest in the ‘proving’ or otherwise of Laurie’s hunch. My only interest in swimming was as a grandparent and around water safety for my children and grandchildren, and as a recreational activity.”",
+        "Beyond the literacy and numeracy findings, the research suggests that early swimming participants are more sociable and have measurable advantages in cognitive development, language skills, and emotional regulation. These findings point to potential benefits for academic success.",
+        "“It is reasonable to claim that swimming prepares children for the schooling years, particularly the early years and the transition into schooling,” Jorgensen explains.",
+        "Access to those potential benefits is sharply unequal. Jorgensen’s analysis identifies the United States and China as having the greatest inequities in access, with regular swimming lessons affordable only to very affluent families. Singapore, Australia, Brazil, and South Africa also face substantial economic and geographic barriers.",
+        "One respondent from Zimbabwe described how lessons compete with basic necessities. “So swimming is still seen in Africa in general as elite. But basically, if you are a working-level person well below average, swimming lessons will not be a priority; what will be a priority is feeding your family.”",
+        "Even reaching a pool can be difficult. In Australia, families on remote farming properties can face journeys of hundreds of kilometers to the nearest one. The study describes “a double whammy” for children from low-income and rural communities, who are both the least likely to have access to lessons and the most at risk of drowning."
+      ],
+      "external": true,
+      "order": 14
     },
     {
       "id": "conversation-pope-leos-trip-is-a-homecoming-to-peru-where-debate-over-l",
@@ -266,7 +597,7 @@
         "Leo’s 2026 itinerary includes multiple stops that speak to this history and on-the-ground pastoral work. The most symbolic, perhaps, is the Capilla San Óscar Romero, located in Chiclayo, the pope’s former diocese."
       ],
       "external": true,
-      "order": 6
+      "order": 15
     },
     {
       "id": "scitechdaily-could-type-2-diabetes-be-reversed-14-year-study-reveals-re",
@@ -303,7 +634,7 @@
         "Type above and press Enter to search. Press Esc to cancel."
       ],
       "external": true,
-      "order": 7
+      "order": 16
     },
     {
       "id": "conversation-georgia-gov-elect-keisha-lance-bottoms-stands-on-the-shoul",
@@ -350,80 +681,7 @@
         "For generations, Black women have been asked to save a democracy that would not save them. We have carried clipboards, protest signs and entire movements on our backs. We have been told to wait. To be patient. To be grateful."
       ],
       "external": true,
-      "order": 8
-    },
-    {
-      "id": "scitechdaily-the-secret-to-saving-shellfish-from-acidifying-oceans-coul",
-      "title": "The Secret to Saving Shellfish From Acidifying Oceans Could Be Hiding in Crushed Shells",
-      "dek": "Crushed shells helped young clams grow larger shells in laboratory tests, showing how a long-standing Indigenous coastal practice can offer local protection against ocean…",
-      "category": "环境",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-07",
-      "publishedAt": "2026-11-06T16:20:28.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/the-secret-to-saving-shellfish-from-acidifying-oceans-could-be-hiding-in-crushed-shells/"
-      },
-      "cover": "wave",
-      "accent": "blue",
-      "paragraphs": [
-        "Crushed shells helped young clams grow larger shells in laboratory tests, showing how a long-standing Indigenous coastal practice can offer local protection against ocean acidification.",
-        "For a young clam, the surrounding water can threaten the shell it is trying to grow. When seawater absorbs excess carbon dioxide from the atmosphere, it becomes more acidic, making shell growth more difficult and energetically costly for animals such as clams, oysters, and mussels. Acidic seawater can even dissolve shells. Larvae and juveniles are thought to be especially vulnerable to this process, known as ocean acidification.",
-        "Indigenous communities have long added crushed shells to coastal sands to help keep these ecosystems healthy. Research from the University of California, Davis now helps explain how this material, called shell hash, can protect young clams from some of acidification’s effects. Published in Biogeosciences , the study connects the chemistry of water between sand grains with changes in clam growth and gene activity.",
-        "At the UC Davis Bodega Marine Laboratory, researchers raised baby Pacific littleneck clams in four conditions. Two groups burrowed in sediment beneath either non-acidified or acidified seawater. The other two experienced the same seawater conditions, but their sediment contained shell hash. During the 90-day experiment, the team tracked shell growth and sampled the seawater three times a week, monitoring acidity, salinity, temperature, and dissolved oxygen.",
-        "“We found that, on average, clams grew larger shells when shell hash was present in their treatment,” said study first author Hannah Kempf, an environmental scientist at the California State Water Board who graduated from UC Davis with a Ph. D. in earth and planetary sciences in 2024. “Interestingly, we also found that, on a genetic level, the ‘acidification’ signal was dramatically minimized when shell hash was present.”",
-        "The crushed shells altered the chemistry of the water filling the tiny spaces between sand particles, reducing its overall acidity and creating better conditions for shell growth. That finding places the protection at a very local scale, in the water surrounding the burrowing clams.",
-        "“Adding crushed shells removed the negative genetic changes that occur when young clams are raised in acidified water,” said study corresponding author David Gold, an associate professor of earth and planetary sciences at UC Davis.",
-        "To examine gene activity, the researchers collected samples of the clams’ mantle tissue, which produces their shells, after 90 days and used them for follow-up gene sequencing. The analysis revealed gene expression profiles, or patterns of activity across genes. In clams raised in acidified seawater with shell hash, those profiles were largely indistinguishable from those of clams raised in non-acidified water.",
-        "“This was the first time the question was studied from a genetic perspective,” Gold said.",
-        "Traditional ecological knowledge provides significant evidence that shell hash benefits shell-making animals, said study co-author Tsim Schneider, an associate professor of anthropology at UC Santa Cruz. In the Pacific Northwest, some Indigenous communities build large-scale structures that expand intertidal spaces, the areas of shore between high and low tide. These structures promote habitat for invertebrates and other marine organisms.",
-        "“For me, one of the interesting aspects of this research is the potential to engage more fully with tribes on designing projects that promote their long-standing expertise and Indigenous science,” said Schneider, who is also affiliated with the National Science Foundation’s Center for Braiding Indigenous Knowledges and Science. “If there’s a history of adding shell hash to clam beds in California, for example, western science might be able to better support communities interested in reawakening dormant cultural knowledge and coastal stewardship practices.”",
-        "The research was supported by a California Sea Grant and the Russell J. and Dorothy S. Bilinski Fellowship.",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
-        "Save my name, email, and website in this browser for the next time I comment."
-      ],
-      "external": true,
-      "order": 9
-    },
-    {
-      "id": "scitechdaily-earthquake-faults-can-suddenly-become-almost-as-fluid-as-w",
-      "title": "Earthquake Faults Can Suddenly Become Almost As Fluid as Water, Study Finds",
-      "dek": "Scientists have uncovered evidence of an unexpected process that may allow earthquake faults to slip enormous distances.",
-      "category": "环境",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-06T15:09:24.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/earthquake-faults-can-suddenly-become-almost-as-fluid-as-water-study-finds/"
-      },
-      "cover": "wave",
-      "accent": "blue",
-      "paragraphs": [
-        "Scientists have uncovered evidence of an unexpected process that may allow earthquake faults to slip enormous distances.",
-        "Rocks along Japan’s Boso Peninsula have preserved evidence of an extraordinary process that may occur during powerful earthquakes. Researchers discovered ancient fault structures suggesting that clay trapped between moving rock surfaces became nearly as fluid as water, potentially allowing the fault to slip enormous distances with little resistance.",
-        "The findings, from a research team led by Professor Tetsuro Hirono of Osaka Metropolitan University, could help explain how some earthquakes produce the massive seafloor movements capable of triggering devastating tsunamis.",
-        "The researchers examined exposed rocks that formed in an ancient seafloor environment approximately 15 million years ago. Within an old earthquake fault, they identified unusual wavy and curved layers, along with swirling structures resembling vortices formed by moving fluids.",
-        "The team described these formations as “turbulent-flow-like.” Using fluid dynamics to analyze their shapes, the scientists found evidence that a process called thermal pressurization had caused clay within the fault to become fluidized.",
-        "Thermal pressurization occurs when rapid movement along a fault generates intense frictional heat. As water trapped in microscopic spaces within the rock heats up, pressure increases, reducing the frictional resistance that normally keeps the fault surfaces locked together. This weakening can allow much greater movement during an earthquake.",
-        "“Our analysis suggests that the viscosity approached that of water,” Professor Hirono explained. “This would have been a dramatic reduction. The fluidized state would have acted as a form of dynamic lubrication, causing the fault to weaken dramatically. The resulting large-scale slip would have produced a large displacement on the fault near the seafloor, potentially causing a tsunami.”",
-        "The mechanism could help explain the extreme seafloor displacement associated with some major earthquakes. In 2011, a magnitude 9. 1 earthquake struck eastern Japan, with shaking and fault rupture lasting nearly six minutes. The earthquake shifted the ocean floor enough to generate a devastating tsunami. Although the ancient rocks do not establish whether the same weakening process occurred in 2011, they provide physical evidence of how faults may undergo dramatic changes during seismic events.",
-        "The researchers hope to apply their analytical methods to modern faults, using changes in the viscosity of fault materials to better estimate how far those faults might slip during an earthquake. More accurate assessments of fault movement could improve estimates of potential seafloor displacement and associated tsunami hazards.",
-        "“Understanding the change in viscosity in fault-slips may allow us to more accurately recognize the magnitude of fault slips, which would support tsunami mitigation efforts,” Professor Hirono concluded.",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
-        "Save my name, email, and website in this browser for the next time I comment.",
-        "Type above and press Enter to search. Press Esc to cancel."
-      ],
-      "external": true,
-      "order": 10
+      "order": 17
     },
     {
       "id": "conversation-young-people-turned-out-in-near-record-numbers-for-the-202",
@@ -470,7 +728,7 @@
         "Young people are frequent movers, which means they might need to reregister whenever they change addresses. The fact that college students may be living on campus while they’re registered to vote from their parents’ address can also create complications."
       ],
       "external": true,
-      "order": 11
+      "order": 18
     },
     {
       "id": "conversation-what-c-s-lewis-said-about-narnias-most-famous-character-th",
@@ -517,7 +775,7 @@
         "Christopher A. Snyder, PhD does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
-      "order": 12
+      "order": 19
     },
     {
       "id": "conversation-im-an-athletic-trainer-heres-how-to-know-when-kids-sports-",
@@ -560,7 +818,7 @@
         "Adam Annaccone does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
-      "order": 13
+      "order": 20
     },
     {
       "id": "conversation-what-the-measles-vaccines-97-effective-rating-means-for-pi",
@@ -607,7 +865,7 @@
         "Without herd immunity in many communities, measles cases, hospitalizations and deaths in Pennsylvania are likely to keep rising. The state Department of Health reports community spread of measles in 14 of Pennsylvania’s 67 counties ."
       ],
       "external": true,
-      "order": 14
+      "order": 21
     },
     {
       "id": "conversation-flesh-eating-screwworm-is-spreading-in-the-us-threatening-",
@@ -644,7 +902,7 @@
         "At the time, the Florida Key deer population was estimated at only about 800 to 1,000 individuals . Because they were endangered and isolated, primarily on the islands of Big Pine Key and No Name Key , they were monitored more closely than most wildlife.",
         "U. S. Fish and Wildlife Service biologists established quarantine zones. They inspected more than 16,900 animals – dogs, cats, a pig and a raccoon were also found with larvae – and they released 150 million sterile flies across the area. The islands lost 9% to 20% of the total Key Deer population , but the New World screwworm was declared eradicated there on March 23, 2017, less than a year after it was discovered.",
         "In June 2026, screwworm was back in the United States. A rancher discovered the first New World screwworm case in a calf near La Pryor, Texas. A few more cases were confirmed in livestock and domestic animals in Texas and New Mexico .",
-        "The number of cases had reached 116 detections in animals as of Nov. 5, 2026 , including in two elk shot by hunters in Texas . The U. S. government has started ramping up production of sterile flies to try to keep the parasites from spreading.",
+        "The number of cases had reached 120 detections in animals as of Nov. 6, 2026 , including in two elk shot by hunters in Texas . The U. S. government has started ramping up production of sterile flies to try to keep the parasites from spreading.",
         "Although there have been only a couple of cases reported in wildlife, that isn’t necessarily reassuring.",
         "Wildlife are far more likely to carry the parasite without being detected. Once the screwworm is detected, treatment would also be much more complicated for wildlife than for livestock, because wildlife cannot be treated individually and thus are more dependent on the use of sterile flies to eradicate screwworm.",
         "For this reason, quickly identifying areas with New World screwworm and targeting those areas by releasing sterile flies would be more important than ever.",
@@ -654,81 +912,54 @@
         "That level of surveillance can’t be matched. New Mexico’s Department of Agriculture has already called on hunters to report any suspicious larvae, particularly in Grant and Otero counties, where screwworm has been found in livestock. Hunters of all kinds, everywhere, can help."
       ],
       "external": true,
-      "order": 15
+      "order": 22
     },
     {
-      "id": "scitechdaily-scientists-reveal-how-a-mysterious-brain-structure-keeps-m",
-      "title": "Scientists Reveal How a Mysterious Brain Structure Keeps Memories From Fading",
-      "dek": "Memories that last only seconds shape everyday thinking, and research in mice is revealing how a small brain structure supports an ability impaired in ADHD and schizophrenia.",
+      "id": "conversation-the-hidden-ways-insects-support-animal-life-from-habitat-t",
+      "title": "The hidden ways insects support animal life – from habitat to health – go way beyond being food",
+      "dek": "There are at least 14 million insect species on Earth , and they play highly diverse roles in sustaining the natural world. ",
       "category": "健康",
       "tags": [
-        "SciTechDaily"
+        "The Conversation"
       ],
       "date": "2026-11-06",
-      "publishedAt": "2026-11-06T11:57:34.000Z",
+      "publishedAt": "2026-11-06T13:11:26.000Z",
       "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-reveal-how-a-mysterious-brain-structure-keeps-memories-from-fading/"
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/the-hidden-ways-insects-support-animal-life-from-habitat-to-health-go-way-beyond-being-food-294617"
       },
       "cover": "flower",
       "accent": "pink",
       "paragraphs": [
-        "Memories that last only seconds shape everyday thinking, and research in mice is revealing how a small brain structure supports an ability impaired in ADHD and schizophrenia.",
-        "To understand a sentence, the brain has to keep earlier words in mind as new ones arrive. Working memory makes that possible, holding information for a few seconds so we can compare it with new information, manipulate it, and use it to guide our behavior.",
-        "We rely on it to follow conversations, solve problems, and decide what to do next. Yet sensory information fades within moments once a stimulus ends, leaving the brain with the demanding task of maintaining a usable representation of something that is no longer there.",
-        "In mice, researchers at UNIGE have found that this ability relies partly on the claustrum, a thin structure deep within the brain between the insular cortex and the striatum. Their findings appear in Nature Communications .",
-        "The scientists tested mice on tasks that required them to remember either a smell or a touch. Each animal received an initial stimulus, waited several seconds, and then received a second stimulus. The mouse had to determine whether the two were identical or different. By the time the second stimulus arrived, the first was gone, so success depended on retaining information about it during the wait.",
-        "Temporarily reducing the activity of claustrum neurons cut the mice’s working memory performance in half. To control these neurons at precise moments during the task, the researchers used techniques including optogenetics. This method uses specific proteins to make selected neurons sensitive to light, allowing scientists to alter their activity through an optical fiber. The intervention helped establish that the claustrum contributes to working memory rather than simply becoming active while another brain region does the necessary work.",
-        "“The result was similar regardless of the type of stimulus, olfactory or tactile, and regardless of when the disruption occurred during the waiting period between the two stimuli,” says study co-leader Alan Carleton, Full Professor in the Department of Basic Neurosciences at UNIGE’s Faculty of Medicine. “Moreover, disrupting the claustrum specifically impairs the ability to use temporarily held information to guide behavior, without affecting perception itself.”",
-        "Working memory depends on interactions across a broad network that includes the prefrontal cortex, sensory regions, the parietal cortex, the thalamus, and other structures beneath the cortex. These networks must preserve information while allowing the brain to continue perceiving, thinking, and acting, but how they maintain a representation over time remains largely unknown. The claustrum’s anatomy offers a reason to examine its contribution.",
-        "“Its neurons are connected to almost all regions of the cortex, which puts it in a good position to receive and influence information from very different networks,” explains Carleton.",
-        "Recordings from the mice allowed the researchers to examine how information was represented in claustrum activity during the gap between stimuli.",
-        "“Our live recordings of claustrum neuron activity showed that a trace of the initial information persisted throughout the entire waiting period,” says fellow study leader Ivan Rodriguez, Full Professor in the Department of Genetics and Evolution at UNIGE’s Faculty of Science. “Far from being a static memory, neuronal activity changed over time. Nevertheless, the identity of the stimulus remained sufficiently present to be decoded up to 30 seconds later.”",
-        "“Our discovery could help us better understand cognitive disorders in which working memory is impaired, such as schizophrenia or ADHD,” explains Carleton. “Identifying the brain circuits that allow information to be maintained over time is an important step towards understanding how these functions can be disrupted. We now need to determine how the claustrum communicates with cortical networks, and how this interaction preserves the fidelity of the representations held in working memory.”",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
-        "Save my name, email, and website in this browser for the next time I comment."
+        "There are at least 14 million insect species on Earth , and they play highly diverse roles in sustaining the natural world. Insects provide many well-known benefits – what scientists often call “ecosystem services.” For example, you can thank a bee or a hoverfly for pollinating wildflowers and agricultural crops , or credit dung beetles for decomposing manure and other waste materials.",
+        "Reports of rapid declines in insect abundance and biomass over the past decade have raised concerns about potential reductions in pollination , decomposition and other insect-provided services . Researchers have also noted that declines in insects could mean a change in the food supply for insectivores such as birds and bats.",
+        "In response to these concerns, a working group emerged as part of a Research Coordination Network on the Status of Insects , funded by the U. S. National Science Foundation. This international group of 21 researchers , including us , met via Zoom for a year and a half to discuss what declines in insects might mean for vertebrates – from birds to bats to bilbies .",
+        "What emerged from those discussions was a clear picture – insects are so much more than just food, and vertebrates rely on insects for everything from habitats to protection to health .",
+        "Insects can be ecosystem engineers, meaning they create and maintain habitats for other species.",
+        "Termites and ants build massive structures below and above ground that are used by many other species. Termite nests, for example, serve as climate-controlled spots for reptiles to lay eggs and for parrots to nest . In dry regions, some frogs live inside ant nests to take advantage of the humid conditions, masking themselves in pheromones to evade detection by their ant hosts.",
+        "The soil surrounding termite mounds also provides good conditions for species such as naked mole rats and aardvarks to make their burrows. Ant nests concentrate nutrients that enhance plant growth, thereby creating good grazing habitat for species like gazelles .",
+        "You probably don’t usually think of something as small as a beetle as a protector, or of a wasp as a bodyguard. But vertebrates rely on insects for defense, even against other vertebrates.",
+        "For example, horned lizards turn chemicals from ants into a toxic, blood-spurting defense to ward off predators such as big cats. Poisonous frogs similarly get their toxicity from the chemical compounds found in insects they eat , as do some birds and snakes , which store toxins from ants and beetles as part of their defensive strategy.",
+        "Many birds will deliberately nest near wasp nests so the threat of being stung deters potential predators. Some vertebrates even mimic insects to avoid getting eaten, such as young songbirds in the Amazon that move their heads to look like fuzzy caterpillars – which they resemble – when predators are nearby.",
+        "Many insects, not just dung beetles, remove waste from ecosystems. By decomposing carcasses and dung, insects likely reduce disease transmission among wild vertebrates. For example, by tunneling through and burying dung, they make it an unsuitable place for parasites to live .",
+        "Certain mosquito species have gotten a bad reputation for transmitting diseases, including malaria, but other insects help control their populations. In their larval stage, dragonflies are fierce aquatic predators that eat mosquito larvae .",
+        "The ability of insects to spread diseases has even led to conservation success stories. In Australia, when native marsupials such as bilbies were threatened by invasive European rabbits, scientists used mosquitoes to transmit a virus that helped control rabbit populations . This effort resulted in populations of bilbies and other native marsupials rebounding .",
+        "Researchers have also discovered hundreds of medicinal compounds in insects , and there are likely many more to be found. For instance, chimpanzees will press flying insects into wounds , suggesting that they may have a medicinal effect, though people don’t yet know the exact insect species the chimps use.",
+        "Of course, insects are really important food supplies. In terms of sheer numbers and biomass , they dominate nearly every terrestrial and freshwater ecosystem. If you added up the weight of all the insects on Earth , they would vastly outweigh all the wild vertebrates and be on par with the total weight of humans and livestock combined.",
+        "It is no wonder vertebrates eat a tremendous number of insects, and this is true not just of songbirds and bats but even grizzly bears , which eat moths to help bulk up for the winter.",
+        "Perhaps even more important are all the many indirect effects insects have on the food supply. Small wasps are the only pollinators of fig trees , which provide fruit to over 1,200 vertebrate species . Many other plants also rely on insects as pollinators and have for millions of years , and vertebrates in turn rely on the seeds and fruit those plants produce.",
+        "Changes in insect communities can also have big impacts on interactions between vertebrates. When an invasive ant disrupted the mutual relationship between a native ant species and an acacia bush, it led more elephants to eat the acacia. The loss of bushes made it harder for lions to ambush zebras, their primary prey, and resulted in a shift toward lions hunting more buffalo, altering the wider ecosystem.",
+        "Another fascinating example are sloths and their moths. For a long time, it was a bit of a mystery why sloths would make the slow and dangerous journey to the ground to defecate once a week. As it turns out, sloths host a moth species that lives in their fur. The moths provide nutrients to the algae that grows in the sloth fur, which the sloth then eats. The algae also gives sloths a green tinge that helps camouflage them in the forest. The moths reproduce in sloth dung, and thus the sloth returning to the ground allows the moths to complete their life cycle.",
+        "Insect conservation is critical to the future of biodiversity. Insects fill so many roles and perform so many services for human beings and other species, including charismatic vertebrates people know and love, such as sloths and songbirds. As a result, declines in insect abundance and biomass could ripple out and destabilize ecosystems.",
+        "The examples we brought together in our paper in the journal Nature Reviews Biodiversity are just some of the insect-vertebrate relationships that exist, and there is a vast array of fascinating things that insects do, and do for us, that scientists know very little about.",
+        "By conserving insects, people are not just conserving the insects themselves but also supporting the many species, including humans, that depend on them.",
+        "Eliza Grames receives funding from the US National Science Foundation.",
+        "Chris Elphick receives funding from the US National Science Foundation, US Fish and Wildlife Service, Long Island Sound Partnership, and National Audubon Society. He is affiliated with the Bird Conservation Fund."
       ],
       "external": true,
-      "order": 16
-    },
-    {
-      "id": "scitechdaily-the-hidden-brain-mechanism-that-makes-you-love-coffee-choc",
-      "title": "The Hidden Brain Mechanism That Makes You Love Coffee, Chocolate, Fat, and Sugar",
-      "dek": "Scientists have uncovered a previously understudied dopamine pathway that may explain how we learn to enjoy flavors we initially dislike.",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-06T10:46:59.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/the-hidden-brain-mechanism-that-makes-you-love-coffee-chocolate-fat-and-sugar/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "Scientists have uncovered a previously understudied dopamine pathway that may explain how we learn to enjoy flavors we initially dislike.",
-        "A food can become more appealing even when its flavor stays exactly the same. Researchers at UC San Francisco have identified a previously understudied dopamine pathway that helps the brain learn which flavors are worth seeking out based on what happens after nutrients reach the gut.",
-        "The study, published November 4 in Nature , reveals how a slow chemical signal connects digestion with learned food preferences. The mechanism could help explain why people develop a taste for initially unpleasant flavors, including the bitterness of coffee.",
-        "Dopamine helps the brain learn which experiences are rewarding, but most research has examined rapid signals that appear within seconds of external cues, such as seeing a favorite meal. The newly studied “slow” dopamine system responds to events inside the body. When digestive sensors detect nutrients such as sugar and fat, they initiate signals that can sustain dopamine release in the brain for several minutes.",
-        "“We’ve shown that this slow dopamine system is what drives us to learn to like certain foods over time, and we can see where and how that happens,” said Zachary Knight, PhD, professor of Physiology and senior author of the study.",
-        "Coffee provides a familiar example of how this learning may work. Although its bitterness can be unpleasant initially, repeated experiences can teach the brain to associate the flavor with caffeine’s stimulating effects. Once that association develops, Knight explained, “that coffee starts to taste a lot better.”",
-        "To isolate the brain’s response to nutrients from its response to taste, Knight and James Grove, PhD, who was then a graduate student, delivered sugar water or a milkshake-like liquid directly into the stomachs of mice. They simultaneously measured dopamine release throughout the brain.",
-        "Nutrients entering the stomach produced a strong, sustained dopamine response in the anterior basolateral amygdala, or BLA. Although researchers already knew this region received dopamine signals, their role in learning about food was unclear.",
-        "“We could see that this dopamine is part of a different system and begin to understand its role,” Knight said.",
-        "The researchers next tested whether the pathway was necessary for learning. When they blocked it, the mice continued eating normally but could no longer learn that a particular unfamiliar flavor was associated with calories. This showed that the pathway was important for forming food preferences rather than simply controlling food consumption.",
-        "In a separate experiment, the researchers artificially stimulated dopamine fibers in the BLA after mice sampled a calorie-free flavor. The animals subsequently developed a preference for that flavor, even though it provided no nutritional reward.",
-        "Together, the experiments demonstrated that dopamine signaling in this region can teach mice to associate a flavor with the beneficial effects of nutrients. Artificial stimulation could substitute for the signal normally generated when nutrients reach the gut.",
-        "Human brain imaging provided additional evidence of a similar response. Yale psychologist Dana Small, PhD, reanalyzed an earlier PET study involving 13 men who consumed either a milkshake or a noncaloric drink. Nutrient consumption was associated with dopamine release concentrated in the left BLA.",
-        "In another experiment, Marc Tittgemeyer, PhD, and colleagues used fMRI scans to study 38 adults after glucose consumption. They detected increased activity in the same brain region, although fMRI measures brain activity rather than dopamine release directly."
-      ],
-      "external": true,
-      "order": 17
+      "order": 23
     },
     {
       "id": "nasa-taking-a-gander-at-utahs-goosenecks",
@@ -758,7 +989,7 @@
         "Additional images taken by astronauts and cosmonauts can be viewed at the NASA/JSC Gateway to Astronaut Photography of Earth ."
       ],
       "external": true,
-      "order": 18
+      "order": 24
     },
     {
       "id": "nasa-news-taking-a-gander-at-utahs-goosenecks",
@@ -788,81 +1019,7 @@
         "Additional images taken by astronauts and cosmonauts can be viewed at the NASA/JSC Gateway to Astronaut Photography of Earth ."
       ],
       "external": true,
-      "order": 19
-    },
-    {
-      "id": "scitechdaily-a-new-era-of-bionic-vision-ai-helps-scientists-unlock-the-",
-      "title": "A New Era of Bionic Vision? AI Helps Scientists Unlock the Brain’s Visual Cortex",
-      "dek": "Researchers have used artificial intelligence to improve how a brain implant stimulates the visual cortex of a blind person, potentially advancing the development of bionic eyes.",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-06T01:48:48.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/a-new-era-of-bionic-vision-ai-helps-scientists-unlock-the-brains-visual-cortex/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "Researchers have used artificial intelligence to improve how a brain implant stimulates the visual cortex of a blind person, potentially advancing the development of bionic eyes.",
-        "Artificial intelligence could make future bionic eyes more precise and responsive by improving how electrical signals communicate with the brain. In a study published in Neuron , researchers used deep learning to control brain stimulation in a blind man, producing more accurate neural responses with less electrical current.",
-        "The findings could advance visual prostheses that bypass damaged eyes and optic nerves, stimulating the visual cortex directly to generate perceptions of light.",
-        "Researchers from UC Santa Barbara , ETH Zurich , and Miguel Hernández University (MHU) tested the approach in a 27-year-old man who lost his sight following a traumatic brain injury. At a hospital in Spain, a temporary implant containing 96 electrodes stimulated his visual cortex, producing phosphenes, perceived as flashes or shapes of light.",
-        "Led in part by UCSB professor Michael Beyeler, the team trained a deep neural network to predict brain responses to different stimulation patterns. The AI model also incorporated measurements of resting brain activity, allowing it to account for changes in the brain’s condition before each test.",
-        "The AI-designed stimulation patterns produced targeted neural responses more accurately and required less electrical current than comparison approaches. Researchers also found that recorded brain activity predicted the participant’s visual perceptions better than the electrical settings alone.",
-        "“Engineers naturally want to treat phosphenes like pixels: stimulate more electrodes, and you should get a more complete image,” Beyeler said. “But the brain does not work that way. Electrodes interact, neural responses fluctuate, and what we put into the brain is not necessarily what the person perceives. The challenge is to learn more about that transformation.”",
-        "The implant could both stimulate neurons and record their responses, enabling the AI to learn from actual brain activity. The participant also described perceived flashes, including their brightness, size, shape, and color.",
-        "The technology could eventually help people who lose their sight through injuries or neurological and inherited conditions. Beyeler emphasized those “who have been able to see for part of their life, but then, because of an inherited eye disease or an accident, have lost their vision,” adding, “For those people, the desire may be very strong to get some vision back.”",
-        "Describing the international research effort as “a true collaboration,” Beyeler said the study demonstrated how computational models could influence experiments involving human participants.",
-        "“Building a model in the abstract is one thing,” he said. “Seeing it shape an experiment with a person is something else entirely. That ability to go from theory to something that may one day help people is what drives much of the work in our lab.”",
-        "Although the research remains an early proof of concept, it suggests that future visual prostheses may work better by continuously adjusting stimulation to an individual’s neural responses.",
-        "“A useful visual prosthesis cannot rely on a fixed recipe,” Beyeler said. “It has to learn how an individual brain responds and adapt the stimulation accordingly. Ultimately, the device should adapt to the person, not the other way around.”",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
-      ],
-      "external": true,
-      "order": 20
-    },
-    {
-      "id": "scitechdaily-scientists-spent-7-years-studying-moth-wings-and-discovere",
-      "title": "Scientists Spent 7 Years Studying Moth Wings and Discovered Something Unexpected",
-      "dek": "A search to change the patterns on moth wings uncovered something unexpected: wider tails, suggesting that evolution may reshape insects’ defenses by modifying features they…",
-      "category": "科学",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-06T00:36:34.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-spent-7-years-studying-moth-wings-and-discovered-something-unexpected/"
-      },
-      "cover": "bulb",
-      "accent": "yellow",
-      "paragraphs": [
-        "A search to change the patterns on moth wings uncovered something unexpected: wider tails, suggesting that evolution may reshape insects’ defenses by modifying features they already possess.",
-        "A luna moth’s leaf-like wings help it escape the notice of predators that hunt by sight. Other giant silk moths display prominent eyespots that can make them look threatening. A new study suggests that moving between those appearances can require only a small change in the signals that guide wing development.",
-        "Over seven years, Andrei Sourakov hand-reared more than 700 luna ( Actias luna ) and polyphemus ( Antheraea polyphemus ) moths from egg to adulthood. Sourakov is the collection coordinator of Lepidoptera at the Florida Museum of Natural History and an affiliate associate professor of entomology at the University of Florida. His findings, recently published in Evolution & Development , reveal how treatments during development can alter both the patterns and shapes of moth wings.",
-        "Sourakov treated developing moths with small amounts of heparin and dextran sulfate. Both are sulfated polysaccharides, molecules made of linked sugars with attached sulfate groups. They increase the activity of a group of proteins called Wnt, which help direct development.",
-        "He administered tiny quantities of heparin shortly before and after pupation, when caterpillars enter the pupal stage and undergo their final transformation into adults. Wing patterns are determined during this period. For two years, the treatments failed to produce the changes he was seeking, so he continued adjusting the concentration and timing of the doses.",
-        "“I kept trying, and eventually, I achieved a single transformation. But it wasn’t of the wing pattern. It was the wing shape. This single specimen was so different that I couldn’t ignore it,” he said.",
-        "That specimen was a luna moth whose hindwing tails had grown wider than those of any moth he had previously reared. Scientists think luna moths evolved their long tails to deflect bat attacks away from the main part of their bodies.",
-        "“I thought, this is very bizarre. Maybe the genes that are normally responsible for wing patterns are here responsible for wing shape, because that’s seemingly the only thing that was transformed.”",
-        "Further adjustments to the timing of heparin treatment eventually produced changes in both wing shape and eyespots, overturning that initial explanation.",
-        "In polyphemus moths, the yellow borders around the two lemon-shaped eyespots on the forewings thickened. Brown scales surrounding those markings, which normally matched the rest of the wings, became whiter. On the hindwings, the black borders around the eyespots expanded. Together, these changes made the markings more conspicuous.",
-        "Luna moths underwent a similarly striking transformation. Their round hindwing eyespots took on a squinting appearance and developed thick, dark borders resembling mascara, turning subtle markings into a more noticeable display. Both heparin and dextran sulfate also changed the shape of luna moth wings, something not previously achieved experimentally in Lepidoptera, the group that includes all moths and butterflies.",
-        "“Some giant silk moths have eyespots that make them appear threatening to would-be predators. Others look like leaves, with translucent eyespots resembling holes to make it more convincing. What’s amazing to me, and what I learned from this study, is how easy it is for these features to go from one state to another. They do this without big inventions by simply expanding or contracting existing elements to the point where eyespots look completely different. All they need is a slight increase in the amount of certain compounds at the right moment,” Sourakov said.",
-        "Moth and butterfly eyespots occupy different parts of the wings, a clue that they evolved independently. Sourakov’s original goal was to investigate whether the two groups used the same genes to create these markings or had independently arrived at similar designs.",
-        "He tested the responses of several giant silk moth species to sulfated polysaccharides, reasoning that similar responses in different species could indicate homologous eyespots, meaning markings with a shared evolutionary origin. Further experiments would be needed to confirm that relationship."
-      ],
-      "external": true,
-      "order": 21
+      "order": 25
     },
     {
       "id": "nasa-nasa-astronauts-to-answer-questions-from-florida-students",
@@ -890,7 +1047,7 @@
         "For more than 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs not possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis program, and to Mars."
       ],
       "external": true,
-      "order": 22
+      "order": 26
     },
     {
       "id": "nasa-news-nasa-astronauts-to-answer-questions-from-florida-students",
@@ -918,7 +1075,7 @@
         "For more than 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs not possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis program, and to Mars."
       ],
       "external": true,
-      "order": 23
+      "order": 27
     },
     {
       "id": "nasa-hubble-learns-galactic-history-from-stars",
@@ -955,7 +1112,7 @@
         "Explore Hubble’s iconic images of the universe, and view photos of mission operations and astronauts servicing Hubble in space."
       ],
       "external": true,
-      "order": 24
+      "order": 28
     },
     {
       "id": "nasa-news-hubble-learns-galactic-history-from-stars",
@@ -990,124 +1147,6 @@
         "These jewels of the night sky offer us a glimpse at the lifecycle of stars.",
         "Hubble’s most notable scientific discoveries reflect the broad range of research and the breakthroughs it has achieved.",
         "Explore Hubble’s iconic images of the universe, and view photos of mission operations and astronauts servicing Hubble in space."
-      ],
-      "external": true,
-      "order": 25
-    },
-    {
-      "id": "nasa-cyprus-island-of-snakes-cats-and-ophiolites",
-      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-      "dek": "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic…",
-      "category": "环境",
-      "tags": [
-        "NASA"
-      ],
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T05:01:00.000Z",
-      "source": {
-        "name": "NASA",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/"
-      },
-      "cover": "wave",
-      "accent": "blue",
-      "paragraphs": [
-        "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic crust . Over time, portions of this oceanic rock were wrenched upward by tectonic forces , eventually emerging as a rugged island made of ophiolite , a type of rock with a mottled green appearance said to look like the skin of a snake. Remnants of that ancient island are still visible in the dark rocks of the Troodos Mountains .",
-        "During the Miocene , considerably younger layers of chalk, limestone, marl, and other marine sedimentary rocks accumulated around the island, providing material that developed into a second, smaller island to the south during a later period of geologic uplift . Over time, sediment poured from rivers into the channel separating the two islands and combined with marine sediments to create deltas and eventually two land bridges, or tombolos . The joined landmass comprises the Akrotiri Peninsula , now the southernmost tip of Cyprus.",
-        "The sandy edges of the peninsula were visible when Landsat 8 captured these images on October 10, 2026. Akrotiri Salt Lake , a coastal lagoon that was once an arm of the Mediterranean Sea, lies between the two tombolos. The more westerly feature, the Kouris River tombolo, formed first, developing about 50,000 years ago from river-deposited gravels and sands. The eastern tombolo extended southward from Cyprus, cutting off the Mediterranean Sea only within the past 2,000 years, according to geologists .",
-        "The lake’s water levels now vary markedly with the seasons, typically filling in the late autumn and winter and drying out in the summer. The influx of winter water has historically attracted sizable overwintering flamingo populations, averaging about 4,000 birds. However, the wintering flamingo population has declined in recent years, plummeting to 30 birds in 2025, according to news reports . Flamingos have long flocked to the lake to feed on fairy shrimp , which are rich in colorful substances called carotenoids that give the birds their famously pink hue .",
-        "Snakes are another of the island’s more notorious animal inhabitants. In antiquity, Cyprus was known as Ophiousa , or “ land of snakes ,” likely due to its robust population of blunt-nosed vipers . According to legend, the island’s snake communities grew to be so problematic during a drought in the fourth century that the Roman Empress Helena , mother of Constantine the Great, called for shiploads of cats to be sent from Egypt to control the venomous reptiles.",
-        "The first feline imports were released in a particularly snake-infested area on the southeastern part of the Akrotiri Peninsula, an area that came to be known as Cape Gata (Cape Cat in Greek). The cape today is still home to the Holy Monastery of St. Nicholas of the Cats , a place where legend says that monks encouraged newly arrived Egyptian cats to hunt snakes. Today, Cyprus has as many cats as people, with more than one million of the feline predators stalking the island. The handful of nuns who now live in the monastery still care for hundreds of cats, according to the St. Nicholas Center ."
-      ],
-      "external": true,
-      "order": 26
-    },
-    {
-      "id": "nasa-news-cyprus-island-of-snakes-cats-and-ophiolites",
-      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-      "dek": "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic…",
-      "category": "环境",
-      "tags": [
-        "NASA News"
-      ],
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T05:01:00.000Z",
-      "source": {
-        "name": "NASA News",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/"
-      },
-      "cover": "wave",
-      "accent": "blue",
-      "paragraphs": [
-        "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic crust . Over time, portions of this oceanic rock were wrenched upward by tectonic forces , eventually emerging as a rugged island made of ophiolite , a type of rock with a mottled green appearance said to look like the skin of a snake. Remnants of that ancient island are still visible in the dark rocks of the Troodos Mountains .",
-        "During the Miocene , considerably younger layers of chalk, limestone, marl, and other marine sedimentary rocks accumulated around the island, providing material that developed into a second, smaller island to the south during a later period of geologic uplift . Over time, sediment poured from rivers into the channel separating the two islands and combined with marine sediments to create deltas and eventually two land bridges, or tombolos . The joined landmass comprises the Akrotiri Peninsula , now the southernmost tip of Cyprus.",
-        "The sandy edges of the peninsula were visible when Landsat 8 captured these images on October 10, 2026. Akrotiri Salt Lake , a coastal lagoon that was once an arm of the Mediterranean Sea, lies between the two tombolos. The more westerly feature, the Kouris River tombolo, formed first, developing about 50,000 years ago from river-deposited gravels and sands. The eastern tombolo extended southward from Cyprus, cutting off the Mediterranean Sea only within the past 2,000 years, according to geologists .",
-        "The lake’s water levels now vary markedly with the seasons, typically filling in the late autumn and winter and drying out in the summer. The influx of winter water has historically attracted sizable overwintering flamingo populations, averaging about 4,000 birds. However, the wintering flamingo population has declined in recent years, plummeting to 30 birds in 2025, according to news reports . Flamingos have long flocked to the lake to feed on fairy shrimp , which are rich in colorful substances called carotenoids that give the birds their famously pink hue .",
-        "Snakes are another of the island’s more notorious animal inhabitants. In antiquity, Cyprus was known as Ophiousa , or “ land of snakes ,” likely due to its robust population of blunt-nosed vipers . According to legend, the island’s snake communities grew to be so problematic during a drought in the fourth century that the Roman Empress Helena , mother of Constantine the Great, called for shiploads of cats to be sent from Egypt to control the venomous reptiles.",
-        "The first feline imports were released in a particularly snake-infested area on the southeastern part of the Akrotiri Peninsula, an area that came to be known as Cape Gata (Cape Cat in Greek). The cape today is still home to the Holy Monastery of St. Nicholas of the Cats , a place where legend says that monks encouraged newly arrived Egyptian cats to hunt snakes. Today, Cyprus has as many cats as people, with more than one million of the feline predators stalking the island. The handful of nuns who now live in the monastery still care for hundreds of cats, according to the St. Nicholas Center ."
-      ],
-      "external": true,
-      "order": 27
-    },
-    {
-      "id": "nasa-nasa-announces-x-70-experimental-aircraft-to-advance-fligh",
-      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-      "dek": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. ",
-      "category": "科学",
-      "tags": [
-        "NASA"
-      ],
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T01:43:21.000Z",
-      "source": {
-        "name": "NASA",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
-      },
-      "cover": "star",
-      "accent": "blue",
-      "paragraphs": [
-        "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.",
-        "The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore aircraft maneuverability in ways never before demonstrated in crewed flight. The aircraft can also accommodate up to 2,000 pounds of experimental payloads in internal and external locations, enabling a wide range of research and flight-testing opportunities.",
-        "“The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” said NASA Administrator Jared Isaacman. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, and moving quickly from one experiment to the next. We expect her first flight under the NASA banner within the next two years, and X-70 is just one part of this new beginning for aeronautics. This is why people come to NASA: to build, to learn, and most importantly, to fly.”",
-        "The X-70 Fractal has a takeoff weight of 10,000 pounds and is designed to cruise at Mach . 75, reach altitudes of up to 45,000 feet, and provide an operational range exceeding about 1,726 miles (1,500 nautical miles). These capabilities will enable NASA to conduct demanding flight research across a broad range of operating conditions.",
-        "“For decades, NASA Aeronautics has used X-planes to develop technologies that advance aviation,” said Laurie Grindle, director of the Aeronautics Division within NASA’s Research and Technology Mission Directorate. “It’s exciting to bring on another X-plane to accelerate and drive aeronautics research.”",
-        "The X-70 joins a storied legacy of experimental aircraft that have helped establish America’s leadership in aviation. From the Bell X-1, which first broke the sound barrier in 1947, to the X-15 hypersonic research aircraft and today’s X-59 quiet supersonic demonstrator, NASA has spent decades pushing the boundaries of flight.",
-        "With the X-70, NASA will expand its capacity to conduct experimental flight research, accelerate the testing of emerging technologies, and advance the next generation of American aviation."
-      ],
-      "external": true,
-      "order": 28
-    },
-    {
-      "id": "nasa-news-nasa-announces-x-70-experimental-aircraft-to-advance-fligh",
-      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-      "dek": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. ",
-      "category": "科学",
-      "tags": [
-        "NASA News"
-      ],
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T01:43:21.000Z",
-      "source": {
-        "name": "NASA News",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
-      },
-      "cover": "star",
-      "accent": "blue",
-      "paragraphs": [
-        "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.",
-        "The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore aircraft maneuverability in ways never before demonstrated in crewed flight. The aircraft can also accommodate up to 2,000 pounds of experimental payloads in internal and external locations, enabling a wide range of research and flight-testing opportunities.",
-        "“The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” said NASA Administrator Jared Isaacman. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, and moving quickly from one experiment to the next. We expect her first flight under the NASA banner within the next two years, and X-70 is just one part of this new beginning for aeronautics. This is why people come to NASA: to build, to learn, and most importantly, to fly.”",
-        "The X-70 Fractal has a takeoff weight of 10,000 pounds and is designed to cruise at Mach . 75, reach altitudes of up to 45,000 feet, and provide an operational range exceeding about 1,726 miles (1,500 nautical miles). These capabilities will enable NASA to conduct demanding flight research across a broad range of operating conditions.",
-        "“For decades, NASA Aeronautics has used X-planes to develop technologies that advance aviation,” said Laurie Grindle, director of the Aeronautics Division within NASA’s Research and Technology Mission Directorate. “It’s exciting to bring on another X-plane to accelerate and drive aeronautics research.”",
-        "The X-70 joins a storied legacy of experimental aircraft that have helped establish America’s leadership in aviation. From the Bell X-1, which first broke the sound barrier in 1947, to the X-15 hypersonic research aircraft and today’s X-59 quiet supersonic demonstrator, NASA has spent decades pushing the boundaries of flight.",
-        "With the X-70, NASA will expand its capacity to conduct experimental flight research, accelerate the testing of emerging technologies, and advance the next generation of American aviation."
       ],
       "external": true,
       "order": 29
