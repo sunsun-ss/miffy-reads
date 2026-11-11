@@ -1973,7 +1973,7 @@ body.is-reader {
   text-decoration-color: rgba(95, 149, 179, 0.8);
   text-decoration-thickness: 2px;
   text-underline-offset: 3px;
-  cursor: help;
+  cursor: pointer;
 }
 
 .phrase-token .cet6-word {
@@ -2483,6 +2483,44 @@ body.is-reader {
 
 .pop-add.is-saved {
   background: var(--green-soft);
+}
+
+.phrase-pop h3 {
+  font-size: 25px;
+}
+
+.phrase-pop .pop-head {
+  padding-right: 38px;
+}
+
+.phrase-pop-meaning {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 1.65;
+  color: #1F5235;
+}
+
+.phrase-pop-text {
+  margin: 0;
+  font-size: 12.5px;
+  line-height: 1.7;
+  color: var(--ink-soft);
+}
+
+.phrase-pop .phrase-example {
+  margin-top: 0;
+}
+
+.phrase-pop-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.phrase-pop .pop-foot {
+  margin-top: 14px;
 }
 
 .pop-foot {

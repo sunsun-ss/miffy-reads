@@ -1041,6 +1041,67 @@ function closeWordPop() {
   app.lookupToken += 1;
 }
 
+function findPhrase(key) {
+  return (app.currentPhrases || []).find((item) => item.key === key) || null;
+}
+
+function openPhrasePop(element) {
+  const phrase = findPhrase(element.dataset.phrase || '');
+  if (!phrase) return;
+  hideSelection();
+  closeWordPop();
+
+  const query = phrase.phrase.replace(/…/g, ' ').replace(/\s+/g, ' ').trim();
+  const backdrop = document.createElement('div');
+  backdrop.className = 'word-backdrop';
+  const pop = document.createElement('div');
+  pop.className = 'word-pop phrase-pop';
+  pop.setAttribute('role', 'dialog');
+  pop.setAttribute('aria-label', `固定短语：${phrase.phrase}`);
+  pop.style.visibility = 'hidden';
+  pop.innerHTML = `<button class="pop-close" data-act="pop-close" aria-label="关闭">${icon('close', 18)}</button>
+    <div class="pop-head">
+      <div>
+        <p class="pop-label">FIXED PHRASE</p>
+        <h3>${esc(phrase.phrase)}</h3>
+        <p class="pop-phon">固定短语 · 文中蓝色下划线</p>
+      </div>
+      <button class="pop-speak" type="button" data-act="phrase-speak" data-key="${esc(phrase.key)}" aria-label="朗读短语">${icon('speaker', 19)}</button>
+    </div>
+    <div class="pop-block">
+      <span class="pop-label">中文释义</span>
+      <p class="phrase-pop-meaning">${esc(phrase.meaning)}</p>
+    </div>
+    ${phrase.usage ? `<div class="pop-block"><span class="pop-label">用法</span><p class="phrase-pop-text">${esc(phrase.usage)}</p></div>` : ''}
+    ${phrase.example ? `<div class="pop-block"><span class="pop-label">例句</span><p class="phrase-example" lang="en">${esc(phrase.example)}</p>${phrase.exampleZh ? `<p class="phrase-example-zh">${esc(phrase.exampleZh)}</p>` : ''}</div>` : ''}
+    <div class="phrase-pop-actions">
+      <button class="btn btn-primary btn-small" type="button" data-act="phrase-copy" data-key="${esc(phrase.key)}">${icon('copy', 15)} 复制这条短语</button>
+    </div>
+    <div class="pop-foot">
+      <a href="https://dictionary.cambridge.org/search/english/direct/?q=${encodeURIComponent(query)}" target="_blank" rel="noopener noreferrer">Cambridge ${icon('linkOut', 12)}</a>
+      <a href="https://dict.youdao.com/result?word=${encodeURIComponent(query)}&lang=en" target="_blank" rel="noopener noreferrer">有道词典 ${icon('linkOut', 12)}</a>
+    </div>`;
+  document.body.appendChild(backdrop);
+  document.body.appendChild(pop);
+
+  if (window.innerWidth <= 680) {
+    pop.classList.add('is-sheet');
+  } else {
+    const rect = element.getBoundingClientRect();
+    const width = pop.offsetWidth || 340;
+    const height = pop.offsetHeight;
+    let top = rect.bottom + 10;
+    if (top + height > window.innerHeight - 12) top = Math.max(12, rect.top - height - 10);
+    let left = rect.left + rect.width / 2 - width / 2;
+    left = Math.min(Math.max(12, left), window.innerWidth - width - 12);
+    pop.style.top = `${top}px`;
+    pop.style.left = `${left}px`;
+  }
+  pop.style.visibility = 'visible';
+  pop.querySelector('.pop-close')?.focus({ preventScroll: true });
+  window.addEventListener('scroll', closeWordPop, { passive: true, once: true });
+}
+
 function toggleCurrentWord() {
   if (!app.lookup) return;
   const { base, word, phonetic, meaning, translation, english, articleId, articleTitle } = app.lookup;
@@ -1838,6 +1899,12 @@ function onDocumentClick(event) {
     handleAction(actionEl, event);
     return;
   }
+  const phraseEl = event.target.closest('.phrase-token');
+  if (phraseEl) {
+    event.preventDefault();
+    openPhrasePop(phraseEl);
+    return;
+  }
   const pendingBubble = Boolean(app.pendingQuote && document.getElementById('sel-bubble') && !document.getElementById('sel-bubble').hidden);
   const wordEl = pendingBubble ? null : event.target.closest('.cet6-word, .saved-word');
   if (wordEl) {
@@ -1973,6 +2040,21 @@ function handleAction(element, event) {
     case 'speak-word': {
       event.preventDefault();
       speak(element.dataset.word);
+      break;
+    }
+    case 'phrase-speak': {
+      event.preventDefault();
+      const phrase = findPhrase(element.dataset.key);
+      if (phrase) speak(phrase.phrase.replace(/…/g, ' ').replace(/\s+/g, ' ').trim());
+      break;
+    }
+    case 'phrase-copy': {
+      event.preventDefault();
+      const phrase = findPhrase(element.dataset.key);
+      if (!phrase) break;
+      copyText(phraseAsText(phrase)).then((ok) => {
+        toast(ok ? '短语已复制' : '复制失败，请手动选中文字', ok ? 'copy' : 'trash');
+      });
       break;
     }
     case 'translate-para': {
