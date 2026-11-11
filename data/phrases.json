@@ -1380,6 +1380,83 @@
       "usage": "用于对比，表示情况完全不同。",
       "example": "The theory sounds simple, but the practice is a different story.",
       "exampleZh": "这个理论听起来简单，但实践起来就是另一回事了。"
+    },
+    {
+      "phrase": "form of",
+      "meaning": "……的形式；一种……形式",
+      "usage": "常与 a、an、the 或形容词连用，后接名词。",
+      "example": "The team found an unusual form of iron.",
+      "exampleZh": "团队发现了一种不寻常形态的铁。"
+    },
+    {
+      "phrase": "in the form of",
+      "meaning": "以……的形式",
+      "usage": "后接名词，说明表现形式。",
+      "example": "The data appears in the form of images.",
+      "exampleZh": "这些数据以图像形式呈现。"
+    },
+    {
+      "phrase": "evidence of",
+      "meaning": "……的证据",
+      "usage": "后接名词，表示证据所证明的对象。",
+      "example": "The glass preserves evidence of the Moon’s magnetic past.",
+      "exampleZh": "这些玻璃保存了月球磁历史的证据。"
+    },
+    {
+      "phrase": "exposed to",
+      "meaning": "接触到；暴露于",
+      "usage": "常与 be 连用，后接环境、风险或影响。",
+      "example": "The material changes when exposed to heat.",
+      "exampleZh": "这种材料接触热量时会发生变化。"
+    },
+    {
+      "phrase": "transform into",
+      "meaning": "转变成；变成",
+      "usage": "后接变化后的形态。",
+      "example": "The crystal transforms into a different structure as it cools.",
+      "exampleZh": "晶体冷却时会转变成另一种结构。"
+    },
+    {
+      "phrase": "under normal conditions",
+      "meaning": "在正常条件下",
+      "usage": "用于说明通常情况。",
+      "example": "Under normal conditions, the metal stays stable.",
+      "exampleZh": "在正常条件下，这种金属保持稳定。"
+    },
+    {
+      "phrase": "at high temperature",
+      "meaning": "在高温下",
+      "usage": "temperature 可加 s，表示高温环境。",
+      "example": "The mineral forms at high temperature.",
+      "exampleZh": "这种矿物在高温下形成。"
+    },
+    {
+      "phrase": "no longer",
+      "meaning": "不再",
+      "usage": "表示某状态已经结束，置于助动词后或 be 动词后。",
+      "example": "The Moon no longer has a global magnetic field.",
+      "exampleZh": "月球不再拥有全球磁场。"
+    },
+    {
+      "phrase": "a member of",
+      "meaning": "……的一员",
+      "usage": "后接组织、团队或群体。",
+      "example": "She is a member of the research team.",
+      "exampleZh": "她是研究团队的一员。"
+    },
+    {
+      "phrase": "information about",
+      "meaning": "关于……的信息",
+      "usage": "后接信息所涉及的对象。",
+      "example": "The rocks preserve information about past conditions.",
+      "exampleZh": "这些岩石保存了关于过去环境的信息。"
+    },
+    {
+      "phrase": "range of",
+      "meaning": "……的范围；一系列",
+      "usage": "常与 a、the 或 wide 连用。",
+      "example": "The discovery expands the range of materials scientists can study.",
+      "exampleZh": "这一发现拓展了科学家可研究的材料范围。"
     }
   ]
 }
