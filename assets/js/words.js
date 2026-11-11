@@ -1,3 +1,5 @@
+import { findPhraseMatches, phraseSummary } from './phrases.js';
+
 let wordMap = new Map();
 let loaded = false;
 
@@ -79,7 +81,7 @@ function normalizeToken(token) {
   return String(token || '').toLowerCase().replace(/’/g, "'").replace(/^[^a-z]+|[^a-z']+$/g, '');
 }
 
-export function renderTokenized(text, savedKeys = new Set()) {
+function renderWords(text, savedKeys = new Set()) {
   let out = '';
   let last = 0;
   const source = String(text || '');
@@ -104,19 +106,65 @@ export function renderTokenized(text, savedKeys = new Set()) {
   return out;
 }
 
+export function renderTokenized(text, savedKeys = new Set(), phrases = null) {
+  const source = String(text || '');
+  const matches = Array.isArray(phrases) ? phrases : findPhraseMatches(source);
+  if (!matches.length) return renderWords(source, savedKeys);
+  let out = '';
+  let last = 0;
+  for (const match of matches) {
+    if (match.start < last) continue;
+    out += renderWords(source.slice(last, match.start), savedKeys);
+    const inner = renderWords(source.slice(match.start, match.end), savedKeys);
+    out += `<span class="phrase-token" data-phrase="${escapeHtml(match.entry.key)}" title="固定短语 · ${escapeHtml(match.entry.meaning)}">${inner}</span>`;
+    last = match.end;
+  }
+  out += renderWords(source.slice(last), savedKeys);
+  return out;
+}
+
+function renderPhraseOnly(text) {
+  const source = String(text || '');
+  const matches = findPhraseMatches(source);
+  if (!matches.length) return escapeHtml(source);
+  let out = '';
+  let last = 0;
+  for (const match of matches) {
+    if (match.start < last) continue;
+    out += escapeHtml(source.slice(last, match.start));
+    out += `<span class="phrase-token" data-phrase="${escapeHtml(match.entry.key)}" title="固定短语 · ${escapeHtml(match.entry.meaning)}">${escapeHtml(source.slice(match.start, match.end))}</span>`;
+    last = match.end;
+  }
+  out += escapeHtml(source.slice(last));
+  return out;
+}
+
 export function analyzeArticle(article, savedKeys = new Set()) {
   const paragraphs = Array.isArray(article?.paragraphs) ? article.paragraphs : [];
   const bases = new Set();
+  const phraseMap = new Map();
+  const html = [];
+  for (const match of findPhraseMatches(article?.title || '')) {
+    if (!phraseMap.has(match.entry.key)) phraseMap.set(match.entry.key, phraseSummary(match.entry));
+  }
   for (const paragraph of paragraphs) {
-    for (const match of String(paragraph).matchAll(TOKEN_RE)) {
+    const text = String(paragraph);
+    for (const match of text.matchAll(TOKEN_RE)) {
       const base = findBase(match[0]);
       if (base) bases.add(base);
+    }
+    const matches = findPhraseMatches(text);
+    html.push(renderTokenized(text, savedKeys, matches));
+    for (const match of matches) {
+      if (!phraseMap.has(match.entry.key)) phraseMap.set(match.entry.key, phraseSummary(match.entry));
     }
   }
   return {
     count: bases.size,
     bases,
-    html: paragraphs.map((p) => renderTokenized(p, savedKeys)),
+    html,
+    titleHtml: renderPhraseOnly(article?.title || ''),
+    phrases: [...phraseMap.values()],
   };
 }
 

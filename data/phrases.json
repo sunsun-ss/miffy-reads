@@ -1,0 +1,1385 @@
+{
+  "version": 1,
+  "updated": "2026-11-11",
+  "phrases": [
+    {
+      "phrase": "according to",
+      "meaning": "根据；按照",
+      "usage": "引出信息来源或依据，后接名词、名词短语或从句。",
+      "example": "According to the survey, most students read on their phones.",
+      "exampleZh": "调查显示，大多数学生用手机阅读。"
+    },
+    {
+      "phrase": "in spite of",
+      "meaning": "尽管；不顾",
+      "usage": "后接名词或名词短语表示让步，语气比 although 更正式。",
+      "example": "In spite of the heavy rain, the match went on.",
+      "exampleZh": "尽管大雨倾盆，比赛仍继续进行。"
+    },
+    {
+      "phrase": "due to",
+      "meaning": "由于；因为",
+      "usage": "说明原因，常后接名词或名词短语。",
+      "example": "The flight was delayed due to bad weather.",
+      "exampleZh": "航班因恶劣天气延误。"
+    },
+    {
+      "phrase": "thanks to",
+      "meaning": "多亏；由于",
+      "usage": "强调带来好结果的积极原因。",
+      "example": "Thanks to her help, we finished on time.",
+      "exampleZh": "多亏她帮忙，我们按时完成了。"
+    },
+    {
+      "phrase": "instead of",
+      "meaning": "代替；而不是",
+      "usage": "后接名词或动名词，表示替代关系。",
+      "example": "She walked to work instead of driving.",
+      "exampleZh": "她步行上班，而不是开车。"
+    },
+    {
+      "phrase": "rather than",
+      "meaning": "而不是",
+      "usage": "连接两个并列成分，强调取舍。",
+      "example": "He chose to listen rather than argue.",
+      "exampleZh": "他选择倾听而不是争辩。"
+    },
+    {
+      "phrase": "as well as",
+      "meaning": "以及；和……一样",
+      "usage": "连接并列成分，强调前者，谓语通常与前者一致。",
+      "example": "The course builds confidence as well as skills.",
+      "exampleZh": "这门课既培养技能，也建立信心。"
+    },
+    {
+      "phrase": "such as",
+      "meaning": "例如；像……这样的",
+      "usage": "用于举例，后接名词或名词短语。",
+      "example": "Fruits such as apples and pears are rich in fiber.",
+      "exampleZh": "苹果、梨之类的水果富含纤维。"
+    },
+    {
+      "phrase": "in terms of",
+      "meaning": "就……而言；在……方面",
+      "usage": "用于限定讨论的范围或角度。",
+      "example": "In terms of cost, the new plan is better.",
+      "exampleZh": "就成本而言，新方案更好。"
+    },
+    {
+      "phrase": "on behalf of",
+      "meaning": "代表；为了……的利益",
+      "usage": "常后接组织或群体，表示代表其行事。",
+      "example": "She accepted the award on behalf of the team.",
+      "exampleZh": "她代表团队领奖。"
+    },
+    {
+      "phrase": "in charge of",
+      "meaning": "负责；掌管",
+      "usage": "后接被负责的人或事。",
+      "example": "He is in charge of the research project.",
+      "exampleZh": "他负责这个研究项目。"
+    },
+    {
+      "phrase": "in favor of",
+      "meaning": "支持；赞成",
+      "usage": "后接人或观点，也可表示以某物替代。",
+      "example": "Most members voted in favor of the change.",
+      "exampleZh": "多数成员投票支持这项改变。"
+    },
+    {
+      "phrase": "in case of",
+      "meaning": "如果发生；以防",
+      "usage": "后接名词，常用于说明应急情况。",
+      "example": "In case of fire, use the stairs.",
+      "exampleZh": "如遇火灾，请使用楼梯。"
+    },
+    {
+      "phrase": "in the face of",
+      "meaning": "面对；尽管有",
+      "usage": "后接困难、危险或反对等。",
+      "example": "She stayed calm in the face of criticism.",
+      "exampleZh": "面对批评，她保持冷静。"
+    },
+    {
+      "phrase": "in the absence of",
+      "meaning": "缺乏……时；在没有……的情况下",
+      "usage": "后接名词，表示某条件不存在。",
+      "example": "In the absence of evidence, the claim remains weak.",
+      "exampleZh": "缺乏证据时，这一说法仍然站不住脚。"
+    },
+    {
+      "phrase": "in the course of",
+      "meaning": "在……过程中",
+      "usage": "后接时间段或事件，表示事情发生的进程。",
+      "example": "The idea developed in the course of the discussion.",
+      "exampleZh": "这个想法在讨论过程中逐渐成形。"
+    },
+    {
+      "phrase": "in the wake of",
+      "meaning": "在……之后；随着……而来",
+      "usage": "常指某事件造成的影响或后果。",
+      "example": "New rules followed in the wake of the accident.",
+      "exampleZh": "事故之后出台了新规定。"
+    },
+    {
+      "phrase": "in the long run",
+      "meaning": "从长远来看",
+      "usage": "用于说明长期结果，常与短期形成对比。",
+      "example": "Learning a language pays off in the long run.",
+      "exampleZh": "学一门语言从长远看是有回报的。"
+    },
+    {
+      "phrase": "in the meantime",
+      "meaning": "与此同时；在此期间",
+      "usage": "指两件事之间的空档时间。",
+      "example": "The report is being checked; in the meantime, please wait.",
+      "exampleZh": "报告正在核对，在此期间请稍候。"
+    },
+    {
+      "phrase": "in particular",
+      "meaning": "尤其；特别是",
+      "usage": "用于强调某个具体对象。",
+      "example": "I enjoy science fiction, in particular stories about time.",
+      "exampleZh": "我喜欢科幻，尤其是关于时间的故事。"
+    },
+    {
+      "phrase": "in general",
+      "meaning": "一般来说；总体上",
+      "usage": "用于概括总体情况，允许个别例外。",
+      "example": "In general, readers prefer short paragraphs.",
+      "exampleZh": "一般来说，读者更喜欢短段落。"
+    },
+    {
+      "phrase": "in fact",
+      "meaning": "事实上；实际上",
+      "usage": "用于补充、强调或纠正前文。",
+      "example": "In fact, the two methods are closely related.",
+      "exampleZh": "事实上，这两种方法密切相关。"
+    },
+    {
+      "phrase": "in other words",
+      "meaning": "换句话说",
+      "usage": "用更清楚的方式重述前文。",
+      "example": "In other words, the plan needs more time.",
+      "exampleZh": "换句话说，这个计划需要更多时间。"
+    },
+    {
+      "phrase": "in addition",
+      "meaning": "此外；另外",
+      "usage": "用于补充信息，可单独使用或后接 to。",
+      "example": "In addition, the study found a gender gap.",
+      "exampleZh": "此外，研究还发现了性别差异。"
+    },
+    {
+      "phrase": "in contrast",
+      "meaning": "相比之下",
+      "usage": "用于对比两个对象，常与 to/with 连用。",
+      "example": "In contrast, the second group improved quickly.",
+      "exampleZh": "相比之下，第二组进步很快。"
+    },
+    {
+      "phrase": "in comparison with",
+      "meaning": "与……相比",
+      "usage": "用于比较两个对象的异同。",
+      "example": "In comparison with last year, sales have doubled.",
+      "exampleZh": "与去年相比，销售额翻了一番。"
+    },
+    {
+      "phrase": "in response to",
+      "meaning": "回应；作为对……的反应",
+      "usage": "后接名词，表示作出反应的对象。",
+      "example": "The company changed its policy in response to criticism.",
+      "exampleZh": "公司因应批评修改了政策。"
+    },
+    {
+      "phrase": "in relation to",
+      "meaning": "关于；与……有关",
+      "usage": "用于说明两者之间的联系。",
+      "example": "The data should be read in relation to local conditions.",
+      "exampleZh": "这些数据应结合当地情况来解读。"
+    },
+    {
+      "phrase": "with regard to",
+      "meaning": "关于；就……而言",
+      "usage": "较正式，用于引出话题。",
+      "example": "With regard to your question, here is a short answer.",
+      "exampleZh": "关于你的问题，这里给一个简短回答。"
+    },
+    {
+      "phrase": "on the basis of",
+      "meaning": "根据；在……基础上",
+      "usage": "后接名词，说明判断或行动的依据。",
+      "example": "Decisions should be made on the basis of evidence.",
+      "exampleZh": "决策应建立在证据基础上。"
+    },
+    {
+      "phrase": "on average",
+      "meaning": "平均而言",
+      "usage": "用于给出平均值或一般水平。",
+      "example": "On average, students spend two hours online each day.",
+      "exampleZh": "平均而言，学生每天上网两小时。"
+    },
+    {
+      "phrase": "on the whole",
+      "meaning": "总体上；大体上",
+      "usage": "用于概括整体评价。",
+      "example": "On the whole, the results are encouraging.",
+      "exampleZh": "总体而言，结果令人鼓舞。"
+    },
+    {
+      "phrase": "on the other hand",
+      "meaning": "另一方面",
+      "usage": "用于引入对比观点，常与 on the one hand 呼应。",
+      "example": "The job is demanding; on the other hand, it is rewarding.",
+      "exampleZh": "这份工作要求高；另一方面，也很有成就感。"
+    },
+    {
+      "phrase": "on the verge of",
+      "meaning": "即将；濒临",
+      "usage": "后接名词或动名词，表示非常接近某状态。",
+      "example": "The species is on the verge of extinction.",
+      "exampleZh": "该物种濒临灭绝。"
+    },
+    {
+      "phrase": "by and large",
+      "meaning": "大体上；总的来说",
+      "usage": "用于总体判断，语气较口语化。",
+      "example": "By and large, the new system works well.",
+      "exampleZh": "总的来说，新系统运行良好。"
+    },
+    {
+      "phrase": "by means of",
+      "meaning": "通过；借助",
+      "usage": "后接名词或动名词，表示手段。",
+      "example": "The message was sent by means of a secret code.",
+      "exampleZh": "信息通过密码传送。"
+    },
+    {
+      "phrase": "by no means",
+      "meaning": "绝不；一点也不",
+      "usage": "用于强调否定，可置于句首引起倒装。",
+      "example": "The task is by no means easy.",
+      "exampleZh": "这项任务绝不容易。"
+    },
+    {
+      "phrase": "to some extent",
+      "meaning": "在某种程度上",
+      "usage": "用于弱化判断，表示部分成立。",
+      "example": "To some extent, we are all shaped by habit.",
+      "exampleZh": "在某种程度上，我们都受习惯塑造。"
+    },
+    {
+      "phrase": "for the sake of",
+      "meaning": "为了；为了……的利益",
+      "usage": "后接名词或动名词，说明目的。",
+      "example": "They moved for the sake of their children.",
+      "exampleZh": "他们为了孩子搬了家。"
+    },
+    {
+      "phrase": "for example",
+      "meaning": "例如",
+      "usage": "用于举例说明，可置于句首或句中。",
+      "example": "Some animals, for example dolphins, use sound to communicate.",
+      "exampleZh": "有些动物，例如海豚，用声音交流。"
+    },
+    {
+      "phrase": "as a result",
+      "meaning": "结果；因此",
+      "usage": "引出结果，可单独使用。",
+      "example": "The road was closed, and as a result, traffic slowed.",
+      "exampleZh": "道路封闭，结果交通变慢。"
+    },
+    {
+      "phrase": "as a result of",
+      "meaning": "由于……的结果",
+      "usage": "后接原因，强调因果关系。",
+      "example": "Sea levels rose as a result of warming.",
+      "exampleZh": "由于变暖，海平面上升。"
+    },
+    {
+      "phrase": "as long as",
+      "meaning": "只要",
+      "usage": "引导条件状语从句，表示前提。",
+      "example": "You can borrow the book as long as you return it.",
+      "exampleZh": "只要你归还，就可以借这本书。"
+    },
+    {
+      "phrase": "as soon as",
+      "meaning": "一……就",
+      "usage": "引导时间状语从句，表示紧接着发生。",
+      "example": "Call me as soon as you arrive.",
+      "exampleZh": "你一到就给我打电话。"
+    },
+    {
+      "phrase": "as if",
+      "meaning": "好像；仿佛",
+      "usage": "常接虚拟语气，表示与事实不符的假设。",
+      "example": "He spoke as if he had seen the future.",
+      "exampleZh": "他说话的样子仿佛看到了未来。"
+    },
+    {
+      "phrase": "even if",
+      "meaning": "即使；纵然",
+      "usage": "引导让步状语从句，表示假设。",
+      "example": "Even if it rains, the event will go on.",
+      "exampleZh": "即使下雨，活动也会继续。"
+    },
+    {
+      "phrase": "even though",
+      "meaning": "尽管；虽然",
+      "usage": "引导让步状语从句，所述内容通常是事实。",
+      "example": "Even though the task was hard, she finished it.",
+      "exampleZh": "尽管任务艰难，她还是完成了。"
+    },
+    {
+      "phrase": "no matter",
+      "meaning": "无论",
+      "usage": "后接 what/how/when 等，引导让步状语从句。",
+      "example": "No matter how busy you are, take a short break.",
+      "exampleZh": "无论多忙，都要短暂休息。"
+    },
+    {
+      "phrase": "at the same time",
+      "meaning": "同时；然而",
+      "usage": "既可表示同时发生，也可表示转折。",
+      "example": "The plan is cheap; at the same time, it is effective.",
+      "exampleZh": "这个方案便宜，同时也有效。"
+    },
+    {
+      "phrase": "at the expense of",
+      "meaning": "以……为代价",
+      "usage": "后接名词，表示牺牲某物换取另一物。",
+      "example": "Growth should not come at the expense of health.",
+      "exampleZh": "增长不应以健康为代价。"
+    },
+    {
+      "phrase": "in plain sight",
+      "meaning": "显而易见；公然",
+      "usage": "表示某物就在眼前却未被注意，或公开进行。",
+      "example": "The error was hiding in plain sight.",
+      "exampleZh": "这个错误一直明明白白地摆在那里。"
+    },
+    {
+      "phrase": "out of place",
+      "meaning": "不合适；不相称",
+      "usage": "表示与环境或场合不协调。",
+      "example": "The joke felt out of place at the ceremony.",
+      "exampleZh": "这个玩笑在典礼上显得不合时宜。"
+    },
+    {
+      "phrase": "not only * but also",
+      "meaning": "不仅……而且",
+      "usage": "连接两个并列成分，强调后者；连接主语时谓语与后者一致。",
+      "example": "The book is not only informative but also enjoyable.",
+      "exampleZh": "这本书不仅信息丰富，而且读起来很有趣。"
+    },
+    {
+      "phrase": "either * or",
+      "meaning": "要么……要么；或者……或者",
+      "usage": "表示两者择一。",
+      "example": "You can either walk or take the bus.",
+      "exampleZh": "你可以走路，也可以坐公交。"
+    },
+    {
+      "phrase": "neither * nor",
+      "meaning": "既不……也不",
+      "usage": "表示两者都否定；连接主语时谓语与后者一致。",
+      "example": "The room was neither clean nor quiet.",
+      "exampleZh": "房间既不干净也不安静。"
+    },
+    {
+      "phrase": "both * and",
+      "meaning": "既……又；两者都",
+      "usage": "连接两个并列成分，表示两者都成立。",
+      "example": "Both students and teachers joined the event.",
+      "exampleZh": "学生和老师都参加了活动。"
+    },
+    {
+      "phrase": "whether * or",
+      "meaning": "无论……还是；是否……或",
+      "usage": "引导选择或让步，可接从句或短语。",
+      "example": "Whether you agree or not, the rule applies.",
+      "exampleZh": "无论你同意与否，规则都适用。"
+    },
+    {
+      "phrase": "so * that",
+      "meaning": "如此……以至于",
+      "usage": "so 后接形容词或副词，that 引导结果从句。",
+      "example": "The noise was so loud that we could not talk.",
+      "exampleZh": "噪音太大，我们无法交谈。"
+    },
+    {
+      "phrase": "too * to",
+      "meaning": "太……而不能",
+      "usage": "too 后接形容词或副词，to 后接动词原形。",
+      "example": "The box was too heavy to lift.",
+      "exampleZh": "箱子太重，搬不起来。"
+    },
+    {
+      "phrase": "take * into account",
+      "meaning": "把……考虑在内",
+      "usage": "宾语放在 take 与 into account 之间，也可说 take into account + 宾语。",
+      "example": "The plan should take local weather into account.",
+      "exampleZh": "这个方案应该把当地天气考虑在内。"
+    },
+    {
+      "phrase": "take * for granted",
+      "meaning": "认为……理所当然；不重视",
+      "usage": "宾语放在 take 与 for granted 之间。",
+      "example": "We often take clean water for granted.",
+      "exampleZh": "我们常把干净的水视为理所当然。"
+    },
+    {
+      "phrase": "provide * with",
+      "meaning": "为……提供",
+      "usage": "provide 后接人，with 后接所提供的事物。",
+      "example": "The program provides students with free books.",
+      "exampleZh": "该项目为学生提供免费书籍。"
+    },
+    {
+      "phrase": "replace * with",
+      "meaning": "用……替换",
+      "usage": "replace 后接被替换物，with 后接替代物。",
+      "example": "We replaced plastic with paper.",
+      "exampleZh": "我们用纸替代塑料。"
+    },
+    {
+      "phrase": "associate * with",
+      "meaning": "把……与……联系起来",
+      "usage": "associate 后接一方，with 后接另一方。",
+      "example": "People often associate silence with peace.",
+      "exampleZh": "人们常把安静与平和联系起来。"
+    },
+    {
+      "phrase": "play * role in",
+      "meaning": "在……中发挥作用",
+      "usage": "role 前可加 a、an 或形容词，in 后接领域或事件。",
+      "example": "Parents play a key role in language learning.",
+      "exampleZh": "父母在语言学习中起关键作用。"
+    },
+    {
+      "phrase": "carry out",
+      "meaning": "执行；实施",
+      "usage": "常与 plan、test、research 等搭配。",
+      "example": "The team carried out a series of tests.",
+      "exampleZh": "团队进行了一系列测试。"
+    },
+    {
+      "phrase": "bring about",
+      "meaning": "带来；造成",
+      "usage": "后接变化、结果等，强调促成。",
+      "example": "The new policy brought about major changes.",
+      "exampleZh": "新政策带来了重大变化。"
+    },
+    {
+      "phrase": "break down",
+      "meaning": "分解；出故障；崩溃",
+      "usage": "可指机器故障、数据分解或情绪失控。",
+      "example": "The machine broke down after a week.",
+      "exampleZh": "机器一周后出故障了。"
+    },
+    {
+      "phrase": "break out",
+      "meaning": "爆发",
+      "usage": "常指战争、火灾、疾病等突然发生。",
+      "example": "A fire broke out in the factory.",
+      "exampleZh": "工厂发生火灾。"
+    },
+    {
+      "phrase": "come across",
+      "meaning": "偶然遇到；给人以……印象",
+      "usage": "可接人或物，也可表示给人的感觉。",
+      "example": "I came across an old photo yesterday.",
+      "exampleZh": "昨天我偶然发现一张旧照片。"
+    },
+    {
+      "phrase": "come up with",
+      "meaning": "想出；提出",
+      "usage": "后接想法、方案、答案等。",
+      "example": "They came up with a creative solution.",
+      "exampleZh": "他们想出了一个有创意的解决方案。"
+    },
+    {
+      "phrase": "come down to",
+      "meaning": "归结为；取决于",
+      "usage": "后接关键因素。",
+      "example": "It comes down to a question of trust.",
+      "exampleZh": "这归结为信任问题。"
+    },
+    {
+      "phrase": "die out",
+      "meaning": "灭绝；消失",
+      "usage": "常指物种、习俗、语言等逐渐消失。",
+      "example": "Many languages are dying out.",
+      "exampleZh": "许多语言正在消失。"
+    },
+    {
+      "phrase": "end up",
+      "meaning": "最终成为；最终处于",
+      "usage": "后接名词、形容词或动名词。",
+      "example": "They ended up staying for dinner.",
+      "exampleZh": "他们最后留下来吃晚饭。"
+    },
+    {
+      "phrase": "figure out",
+      "meaning": "弄清楚；想出",
+      "usage": "后接问题、原因或做法。",
+      "example": "I cannot figure out how this works.",
+      "exampleZh": "我弄不清这是怎么运作的。"
+    },
+    {
+      "phrase": "find out",
+      "meaning": "查明；发现",
+      "usage": "后接事实、真相或信息。",
+      "example": "We found out the truth later.",
+      "exampleZh": "我们后来才知道真相。"
+    },
+    {
+      "phrase": "get rid of",
+      "meaning": "摆脱；去除",
+      "usage": "后接不需要的人或物。",
+      "example": "It is hard to get rid of old habits.",
+      "exampleZh": "旧习惯很难摆脱。"
+    },
+    {
+      "phrase": "get over",
+      "meaning": "克服；恢复",
+      "usage": "后接困难、疾病或失望等。",
+      "example": "She soon got over the disappointment.",
+      "exampleZh": "她很快从失望中恢复过来。"
+    },
+    {
+      "phrase": "give up",
+      "meaning": "放弃；戒掉",
+      "usage": "后接名词或动名词。",
+      "example": "He gave up sweets for a month.",
+      "exampleZh": "他戒甜食一个月。"
+    },
+    {
+      "phrase": "give in",
+      "meaning": "屈服；让步",
+      "usage": "常与 to 连用，表示向压力让步。",
+      "example": "The government refused to give in to pressure.",
+      "exampleZh": "政府拒绝向压力屈服。"
+    },
+    {
+      "phrase": "give off",
+      "meaning": "发出（光、热、气味等）",
+      "usage": "后接光、热、气体、气味等。",
+      "example": "The lamp gives off a warm light.",
+      "exampleZh": "这盏灯发出温暖的光。"
+    },
+    {
+      "phrase": "go through",
+      "meaning": "经历；仔细检查",
+      "usage": "可指经历困难，也可指逐项检查。",
+      "example": "The company went through a difficult period.",
+      "exampleZh": "公司经历了一段困难时期。"
+    },
+    {
+      "phrase": "keep up with",
+      "meaning": "跟上；保持联系",
+      "usage": "后接速度、变化或人。",
+      "example": "It is hard to keep up with the news.",
+      "exampleZh": "跟上新闻很难。"
+    },
+    {
+      "phrase": "catch up with",
+      "meaning": "赶上；追上",
+      "usage": "后接人或进度。",
+      "example": "She worked hard to catch up with her classmates.",
+      "exampleZh": "她努力学习以赶上同学。"
+    },
+    {
+      "phrase": "look into",
+      "meaning": "调查；研究",
+      "usage": "后接案件、问题等。",
+      "example": "The police are looking into the case.",
+      "exampleZh": "警方正在调查此案。"
+    },
+    {
+      "phrase": "look forward to",
+      "meaning": "期待；盼望",
+      "usage": "to 是介词，后接名词或动名词。",
+      "example": "We look forward to hearing from you.",
+      "exampleZh": "我们期待收到你的消息。"
+    },
+    {
+      "phrase": "make up for",
+      "meaning": "弥补；补偿",
+      "usage": "后接损失、不足或过错。",
+      "example": "Hard work can make up for a lack of experience.",
+      "exampleZh": "努力可以弥补经验不足。"
+    },
+    {
+      "phrase": "pay off",
+      "meaning": "取得成功；还清",
+      "usage": "可指努力见效，也可指还清债务。",
+      "example": "The extra practice paid off in the end.",
+      "exampleZh": "额外练习最终见效了。"
+    },
+    {
+      "phrase": "point out",
+      "meaning": "指出；提醒",
+      "usage": "后接事实、问题或错误。",
+      "example": "The report points out several weaknesses.",
+      "exampleZh": "报告指出几个弱点。"
+    },
+    {
+      "phrase": "put off",
+      "meaning": "推迟；使失去兴趣",
+      "usage": "可指延期，也可指让人反感。",
+      "example": "The meeting was put off until Friday.",
+      "exampleZh": "会议推迟到周五。"
+    },
+    {
+      "phrase": "put up with",
+      "meaning": "忍受；容忍",
+      "usage": "后接不喜欢但不得不接受的人或事。",
+      "example": "She could not put up with the noise any longer.",
+      "exampleZh": "她再也无法忍受噪音。"
+    },
+    {
+      "phrase": "rule out",
+      "meaning": "排除；不予考虑",
+      "usage": "后接可能性、方案等。",
+      "example": "We cannot rule out the possibility of rain.",
+      "exampleZh": "我们不能排除下雨的可能。"
+    },
+    {
+      "phrase": "run out of",
+      "meaning": "用完；耗尽",
+      "usage": "后接时间、金钱、资源等。",
+      "example": "We ran out of time before finishing.",
+      "exampleZh": "我们没做完时间就用完了。"
+    },
+    {
+      "phrase": "set up",
+      "meaning": "建立；安排",
+      "usage": "后接组织、系统、实验等。",
+      "example": "They set up a small lab in the garage.",
+      "exampleZh": "他们在车库里建了一个小实验室。"
+    },
+    {
+      "phrase": "show up",
+      "meaning": "出现；露面",
+      "usage": "指人到达或事物显现。",
+      "example": "Only half the guests showed up.",
+      "exampleZh": "只有一半客人露面。"
+    },
+    {
+      "phrase": "sort out",
+      "meaning": "整理；解决",
+      "usage": "后接问题、计划或物品。",
+      "example": "We need to sort out the travel plans.",
+      "exampleZh": "我们需要整理旅行计划。"
+    },
+    {
+      "phrase": "stand out",
+      "meaning": "突出；显眼",
+      "usage": "常与 from 连用，表示明显不同。",
+      "example": "Her work stands out for its clarity.",
+      "exampleZh": "她的作品因清晰而突出。"
+    },
+    {
+      "phrase": "take over",
+      "meaning": "接管；接手",
+      "usage": "后接工作、公司或职责。",
+      "example": "A new manager will take over next month.",
+      "exampleZh": "一位新经理下个月接手。"
+    },
+    {
+      "phrase": "take up",
+      "meaning": "开始从事；占用",
+      "usage": "可指开始爱好，也可指占据时间空间。",
+      "example": "He took up running last year.",
+      "exampleZh": "他去年开始跑步。"
+    },
+    {
+      "phrase": "turn out",
+      "meaning": "结果是；证明是",
+      "usage": "后接形容词、名词或从句。",
+      "example": "The plan turned out to be a success.",
+      "exampleZh": "结果这个计划很成功。"
+    },
+    {
+      "phrase": "turn to",
+      "meaning": "求助于；转向",
+      "usage": "后接人或事物。",
+      "example": "She turned to her friends for advice.",
+      "exampleZh": "她向朋友寻求建议。"
+    },
+    {
+      "phrase": "work out",
+      "meaning": "解决；算出；锻炼",
+      "usage": "可指解决问题、计算或运动。",
+      "example": "We finally worked out the problem.",
+      "exampleZh": "我们最终解决了问题。"
+    },
+    {
+      "phrase": "make sense",
+      "meaning": "有意义；讲得通",
+      "usage": "主语通常是事物，也可说 make sense of。",
+      "example": "The explanation makes sense now.",
+      "exampleZh": "这个解释现在讲得通了。"
+    },
+    {
+      "phrase": "make sure",
+      "meaning": "确保；查明",
+      "usage": "后接从句或 of 短语。",
+      "example": "Make sure the door is locked.",
+      "exampleZh": "确保门锁好了。"
+    },
+    {
+      "phrase": "make a difference",
+      "meaning": "有影响；起作用",
+      "usage": "常与 to 连用，说明影响对象。",
+      "example": "Small choices can make a difference.",
+      "exampleZh": "小小的选择也能产生影响。"
+    },
+    {
+      "phrase": "make progress",
+      "meaning": "取得进步",
+      "usage": "progress 不可数，常与 in 连用。",
+      "example": "She has made great progress in speaking.",
+      "exampleZh": "她在口语上取得了很大进步。"
+    },
+    {
+      "phrase": "make an effort",
+      "meaning": "努力；尽力",
+      "usage": "后接不定式，表示努力做某事。",
+      "example": "Please make an effort to arrive on time.",
+      "exampleZh": "请尽量准时到达。"
+    },
+    {
+      "phrase": "make use of",
+      "meaning": "利用",
+      "usage": "后接资源、机会、时间等。",
+      "example": "They made use of every free hour.",
+      "exampleZh": "他们利用每一个空闲小时。"
+    },
+    {
+      "phrase": "make the most of",
+      "meaning": "充分利用",
+      "usage": "强调尽可能获得最大价值。",
+      "example": "Make the most of your time abroad.",
+      "exampleZh": "充分利用你在国外的时间。"
+    },
+    {
+      "phrase": "take place",
+      "meaning": "发生；举行",
+      "usage": "通常指有计划的事件，不用被动语态。",
+      "example": "The meeting will take place online.",
+      "exampleZh": "会议将在线举行。"
+    },
+    {
+      "phrase": "take part in",
+      "meaning": "参加；参与",
+      "usage": "后接活动、调查、比赛等。",
+      "example": "More than 200 students took part in the survey.",
+      "exampleZh": "200多名学生参与了调查。"
+    },
+    {
+      "phrase": "take steps",
+      "meaning": "采取措施",
+      "usage": "后接不定式，说明具体行动。",
+      "example": "The city has taken steps to reduce traffic.",
+      "exampleZh": "该市已采取措施减少交通。"
+    },
+    {
+      "phrase": "take measures",
+      "meaning": "采取措施",
+      "usage": "较正式，常与 to do 连用。",
+      "example": "We must take measures to protect the forest.",
+      "exampleZh": "我们必须采取措施保护森林。"
+    },
+    {
+      "phrase": "take advantage of",
+      "meaning": "利用；占便宜",
+      "usage": "可指利用机会，也可指占人便宜。",
+      "example": "She took advantage of the quiet morning to write.",
+      "exampleZh": "她利用安静的早晨写作。"
+    },
+    {
+      "phrase": "pay attention to",
+      "meaning": "注意；关注",
+      "usage": "to 是介词，后接名词或动名词。",
+      "example": "Pay attention to the details.",
+      "exampleZh": "注意细节。"
+    },
+    {
+      "phrase": "have access to",
+      "meaning": "有机会接触；可以使用",
+      "usage": "后接资源、信息、场所等。",
+      "example": "Students have access to the online library.",
+      "exampleZh": "学生可以使用在线图书馆。"
+    },
+    {
+      "phrase": "have an impact on",
+      "meaning": "对……有影响",
+      "usage": "impact 前可加形容词。",
+      "example": "Sleep has a strong impact on memory.",
+      "exampleZh": "睡眠对记忆有很大影响。"
+    },
+    {
+      "phrase": "raise awareness of",
+      "meaning": "提高对……的认识",
+      "usage": "后接议题或问题。",
+      "example": "The campaign raises awareness of mental health.",
+      "exampleZh": "这项活动提高人们对心理健康的关注。"
+    },
+    {
+      "phrase": "draw attention to",
+      "meaning": "引起对……的注意",
+      "usage": "后接需要关注的人或事。",
+      "example": "The report draws attention to a hidden risk.",
+      "exampleZh": "报告提醒人们注意一个隐藏风险。"
+    },
+    {
+      "phrase": "shed light on",
+      "meaning": "阐明；使……更清楚",
+      "usage": "后接谜团、问题或现象。",
+      "example": "New data shed light on the mystery.",
+      "exampleZh": "新数据揭示了这个谜团。"
+    },
+    {
+      "phrase": "give rise to",
+      "meaning": "引起；导致",
+      "usage": "后接问题、变化或现象。",
+      "example": "Poor planning gave rise to many problems.",
+      "exampleZh": "计划不周引发了许多问题。"
+    },
+    {
+      "phrase": "bear in mind",
+      "meaning": "记住；考虑到",
+      "usage": "后接名词或 that 从句。",
+      "example": "Bear in mind that prices may change.",
+      "exampleZh": "请记住价格可能会变。"
+    },
+    {
+      "phrase": "keep in mind",
+      "meaning": "记住；考虑到",
+      "usage": "后接名词或 that 从句。",
+      "example": "Keep in mind the needs of older readers.",
+      "exampleZh": "请考虑年长读者的需求。"
+    },
+    {
+      "phrase": "come to terms with",
+      "meaning": "逐渐接受；与……达成协议",
+      "usage": "常指接受不愉快的事实。",
+      "example": "She came to terms with the loss.",
+      "exampleZh": "她逐渐接受了这次失去。"
+    },
+    {
+      "phrase": "get in touch with",
+      "meaning": "与……联系",
+      "usage": "后接人或组织。",
+      "example": "Please get in touch with us by email.",
+      "exampleZh": "请通过邮件与我们联系。"
+    },
+    {
+      "phrase": "lose touch with",
+      "meaning": "与……失去联系",
+      "usage": "后接人或现实等。",
+      "example": "He lost touch with his old friends.",
+      "exampleZh": "他与老朋友失去了联系。"
+    },
+    {
+      "phrase": "be likely to",
+      "meaning": "很可能",
+      "usage": "后接动词原形，表示可能性。",
+      "example": "Readers are likely to share surprising stories.",
+      "exampleZh": "读者很可能会分享令人惊讶的故事。"
+    },
+    {
+      "phrase": "be able to",
+      "meaning": "能够",
+      "usage": "后接动词原形，可用于各种时态。",
+      "example": "She was able to solve the problem alone.",
+      "exampleZh": "她能够独自解决这个问题。"
+    },
+    {
+      "phrase": "be aware of",
+      "meaning": "意识到；知道",
+      "usage": "后接名词或从句。",
+      "example": "Many people are aware of the risk.",
+      "exampleZh": "许多人意识到这一风险。"
+    },
+    {
+      "phrase": "be capable of",
+      "meaning": "有能力做；能够",
+      "usage": "后接名词或动名词。",
+      "example": "The system is capable of learning from data.",
+      "exampleZh": "这个系统能够从数据中学习。"
+    },
+    {
+      "phrase": "be responsible for",
+      "meaning": "对……负责；是……的原因",
+      "usage": "后接人或事。",
+      "example": "Human activity is responsible for much of the warming.",
+      "exampleZh": "人类活动是大部分变暖的原因。"
+    },
+    {
+      "phrase": "be subject to",
+      "meaning": "受……影响；服从于",
+      "usage": "后接规则、变化或条件。",
+      "example": "The plan is subject to approval.",
+      "exampleZh": "该计划须经批准。"
+    },
+    {
+      "phrase": "be exposed to",
+      "meaning": "接触到；暴露于",
+      "usage": "后接环境、信息、风险等。",
+      "example": "Children are exposed to many kinds of media.",
+      "exampleZh": "儿童会接触多种媒体。"
+    },
+    {
+      "phrase": "be based on",
+      "meaning": "基于；根据",
+      "usage": "后接事实、数据或故事。",
+      "example": "The film is based on a true story.",
+      "exampleZh": "这部电影根据真实故事改编。"
+    },
+    {
+      "phrase": "be associated with",
+      "meaning": "与……有关",
+      "usage": "后接现象、风险或特征。",
+      "example": "The risk is associated with poor sleep.",
+      "exampleZh": "这一风险与睡眠不足有关。"
+    },
+    {
+      "phrase": "rely on",
+      "meaning": "依赖；依靠",
+      "usage": "后接人或物。",
+      "example": "We rely on data to make decisions.",
+      "exampleZh": "我们依靠数据做决策。"
+    },
+    {
+      "phrase": "depend on",
+      "meaning": "取决于；依赖",
+      "usage": "后接因素或人。",
+      "example": "Success depends on consistent practice.",
+      "exampleZh": "成功取决于持续练习。"
+    },
+    {
+      "phrase": "focus on",
+      "meaning": "集中于；关注",
+      "usage": "后接对象或目标。",
+      "example": "The study focuses on young readers.",
+      "exampleZh": "这项研究关注年轻读者。"
+    },
+    {
+      "phrase": "refer to",
+      "meaning": "指的是；提到；查阅",
+      "usage": "可指提及、指代或参考。",
+      "example": "The term refers to a type of memory.",
+      "exampleZh": "这个术语指一种记忆。"
+    },
+    {
+      "phrase": "result in",
+      "meaning": "导致；造成",
+      "usage": "后接结果。",
+      "example": "The delay resulted in higher costs.",
+      "exampleZh": "延误导致成本上升。"
+    },
+    {
+      "phrase": "result from",
+      "meaning": "由……造成",
+      "usage": "后接原因。",
+      "example": "The problem results from poor communication.",
+      "exampleZh": "问题源于沟通不畅。"
+    },
+    {
+      "phrase": "lead to",
+      "meaning": "导致；通向",
+      "usage": "后接结果或地点。",
+      "example": "Better roads can lead to economic growth.",
+      "exampleZh": "更好的道路可以带来经济增长。"
+    },
+    {
+      "phrase": "contribute to",
+      "meaning": "促成；有助于",
+      "usage": "后接结果或现象，可指积极或消极作用。",
+      "example": "Exercise contributes to better sleep.",
+      "exampleZh": "运动有助于改善睡眠。"
+    },
+    {
+      "phrase": "account for",
+      "meaning": "解释；占（比例）",
+      "usage": "可指说明原因，也可指所占份额。",
+      "example": "The region accounts for a third of production.",
+      "exampleZh": "该地区占产量的三分之一。"
+    },
+    {
+      "phrase": "consist of",
+      "meaning": "由……组成",
+      "usage": "后接组成部分，不用进行时。",
+      "example": "The team consists of five researchers.",
+      "exampleZh": "团队由五名研究人员组成。"
+    },
+    {
+      "phrase": "belong to",
+      "meaning": "属于",
+      "usage": "后接所有者或类别。",
+      "example": "The manuscript belongs to the museum.",
+      "exampleZh": "这份手稿属于博物馆。"
+    },
+    {
+      "phrase": "apply to",
+      "meaning": "适用于；向……申请",
+      "usage": "后接对象。",
+      "example": "The rule applies to all students.",
+      "exampleZh": "这条规则适用于所有学生。"
+    },
+    {
+      "phrase": "respond to",
+      "meaning": "回应；对……作出反应",
+      "usage": "后接人、问题或刺激。",
+      "example": "The body responds to stress in different ways.",
+      "exampleZh": "身体对压力的反应各不相同。"
+    },
+    {
+      "phrase": "adapt to",
+      "meaning": "适应",
+      "usage": "后接新环境或变化。",
+      "example": "Plants adapt to changes in light.",
+      "exampleZh": "植物会适应光照变化。"
+    },
+    {
+      "phrase": "adjust to",
+      "meaning": "适应；调整以适应",
+      "usage": "后接新情况。",
+      "example": "It took time to adjust to the new routine.",
+      "exampleZh": "适应新作息需要时间。"
+    },
+    {
+      "phrase": "cope with",
+      "meaning": "应对；处理",
+      "usage": "后接困难、压力或问题。",
+      "example": "She learned to cope with pressure.",
+      "exampleZh": "她学会了应对压力。"
+    },
+    {
+      "phrase": "deal with",
+      "meaning": "处理；应对",
+      "usage": "后接问题、人或事务。",
+      "example": "The team deals with thousands of requests.",
+      "exampleZh": "团队处理成千上万的请求。"
+    },
+    {
+      "phrase": "interfere with",
+      "meaning": "干扰；妨碍",
+      "usage": "后接进程、工作或信号。",
+      "example": "Noise can interfere with concentration.",
+      "exampleZh": "噪音会干扰注意力。"
+    },
+    {
+      "phrase": "compete with",
+      "meaning": "与……竞争",
+      "usage": "后接对手。",
+      "example": "Small shops struggle to compete with giants.",
+      "exampleZh": "小商店难以与巨头竞争。"
+    },
+    {
+      "phrase": "correspond to",
+      "meaning": "对应于；相当于",
+      "usage": "后接另一事物。",
+      "example": "Each color corresponds to a category.",
+      "exampleZh": "每种颜色对应一个类别。"
+    },
+    {
+      "phrase": "compensate for",
+      "meaning": "补偿；弥补",
+      "usage": "后接损失或不足。",
+      "example": "Nothing can compensate for lost time.",
+      "exampleZh": "什么都无法弥补失去的时间。"
+    },
+    {
+      "phrase": "allow for",
+      "meaning": "考虑到；留出",
+      "usage": "后接可能发生的情况。",
+      "example": "The plan allows for unexpected delays.",
+      "exampleZh": "这个计划考虑到了意外延误。"
+    },
+    {
+      "phrase": "call for",
+      "meaning": "需要；呼吁",
+      "usage": "后接行动、措施或某物。",
+      "example": "The crisis calls for quick action.",
+      "exampleZh": "这场危机需要迅速行动。"
+    },
+    {
+      "phrase": "known as",
+      "meaning": "被称为；以……闻名",
+      "usage": "后接名称或身份，常与 be 连用。",
+      "example": "The phenomenon is known as the default mode network.",
+      "exampleZh": "这一现象被称为默认模式网络。"
+    },
+    {
+      "phrase": "be known as",
+      "meaning": "被称为；以……闻名",
+      "usage": "后接名称或身份，强调人们普遍这样称呼。",
+      "example": "The region is known as the cradle of civilization.",
+      "exampleZh": "该地区被称为文明的摇篮。"
+    },
+    {
+      "phrase": "in search of",
+      "meaning": "寻找；寻求",
+      "usage": "后接寻找的目标。",
+      "example": "They walked through the market in search of fresh fruit.",
+      "exampleZh": "他们穿过市场寻找新鲜水果。"
+    },
+    {
+      "phrase": "for years",
+      "meaning": "多年来",
+      "usage": "表示持续多年的时间。",
+      "example": "For years, scientists debated the cause of the gap.",
+      "exampleZh": "多年来，科学家一直在争论这一缺口的成因。"
+    },
+    {
+      "phrase": "the result is that",
+      "meaning": "结果是；这意味着",
+      "usage": "后接从句，引出结果。",
+      "example": "The result is that many readers now skim instead of reading.",
+      "exampleZh": "结果是，许多读者现在只是浏览而不是阅读。"
+    },
+    {
+      "phrase": "at first",
+      "meaning": "起初；一开始",
+      "usage": "用于描述最初的情况，常与 later 对比。",
+      "example": "At first, the task seemed impossible.",
+      "exampleZh": "起初，这项任务看起来不可能完成。"
+    },
+    {
+      "phrase": "in the end",
+      "meaning": "最后；终于",
+      "usage": "表示经过一段时间后的最终结果。",
+      "example": "In the end, they chose the simpler design.",
+      "exampleZh": "最后，他们选择了更简单的设计。"
+    },
+    {
+      "phrase": "over time",
+      "meaning": "随着时间推移",
+      "usage": "表示逐渐发生的变化。",
+      "example": "Small habits become stronger over time.",
+      "exampleZh": "小习惯会随着时间推移变得更有力量。"
+    },
+    {
+      "phrase": "a sense of",
+      "meaning": "一种……感；……意识",
+      "usage": "后接抽象名词，如 purpose、humor、belonging。",
+      "example": "The place gives visitors a sense of calm.",
+      "exampleZh": "这个地方给访客一种平静感。"
+    },
+    {
+      "phrase": "a range of",
+      "meaning": "一系列；各种",
+      "usage": "后接复数名词，表示范围广泛。",
+      "example": "The course covers a range of reading skills.",
+      "exampleZh": "这门课涵盖一系列阅读技巧。"
+    },
+    {
+      "phrase": "a variety of",
+      "meaning": "各种各样的",
+      "usage": "后接复数名词，强调种类多样。",
+      "example": "The library offers a variety of quiet spaces.",
+      "exampleZh": "图书馆提供各种安静空间。"
+    },
+    {
+      "phrase": "a lack of",
+      "meaning": "缺乏",
+      "usage": "后接不可数名词或抽象概念。",
+      "example": "A lack of sleep can affect memory.",
+      "exampleZh": "缺乏睡眠会影响记忆。"
+    },
+    {
+      "phrase": "the number of",
+      "meaning": "……的数量",
+      "usage": "后接复数名词，谓语通常用单数。",
+      "example": "The number of online readers has grown quickly.",
+      "exampleZh": "在线读者的数量增长很快。"
+    },
+    {
+      "phrase": "the amount of",
+      "meaning": "……的数量；……的总量",
+      "usage": "后接不可数名词。",
+      "example": "The amount of data is growing every year.",
+      "exampleZh": "数据总量每年都在增长。"
+    },
+    {
+      "phrase": "in turn",
+      "meaning": "反过来；依次",
+      "usage": "表示因果循环或顺序。",
+      "example": "Better data leads to better decisions, which in turn build trust.",
+      "exampleZh": "更好的数据带来更好的决策，进而建立信任。"
+    },
+    {
+      "phrase": "as a whole",
+      "meaning": "作为整体；总体上",
+      "usage": "用于把某事物作为一个整体来看。",
+      "example": "The plan should be judged as a whole.",
+      "exampleZh": "这个方案应该作为整体来评价。"
+    },
+    {
+      "phrase": "by contrast",
+      "meaning": "相比之下",
+      "usage": "用于引出鲜明的对比。",
+      "example": "By contrast, the second method is much cheaper.",
+      "exampleZh": "相比之下，第二种方法便宜得多。"
+    },
+    {
+      "phrase": "in short",
+      "meaning": "简言之",
+      "usage": "用于简要总结前文。",
+      "example": "In short, the technology is promising but unproven.",
+      "exampleZh": "简言之，这项技术有前景但尚未得到验证。"
+    },
+    {
+      "phrase": "in conclusion",
+      "meaning": "总之；最后",
+      "usage": "用于总结观点或结束论述。",
+      "example": "In conclusion, small changes can have lasting effects.",
+      "exampleZh": "总之，小改变可以产生持久影响。"
+    },
+    {
+      "phrase": "for the first time",
+      "meaning": "第一次",
+      "usage": "表示首次发生。",
+      "example": "For the first time, the team observed the behavior in the wild.",
+      "exampleZh": "团队第一次在野外观察到这种行为。"
+    },
+    {
+      "phrase": "in a sense",
+      "meaning": "在某种意义上",
+      "usage": "用于补充一种较弱的判断。",
+      "example": "In a sense, we are all storytellers.",
+      "exampleZh": "在某种意义上，我们都是讲故事的人。"
+    },
+    {
+      "phrase": "in part",
+      "meaning": "部分地；在某种程度上",
+      "usage": "表示原因或情况只成立一部分。",
+      "example": "The delay was in part due to bad weather.",
+      "exampleZh": "延误部分是由于天气恶劣。"
+    },
+    {
+      "phrase": "point to",
+      "meaning": "指向；表明",
+      "usage": "可指方向，也可指证据表明。",
+      "example": "The evidence points to a simple explanation.",
+      "exampleZh": "证据表明有一个简单的解释。"
+    },
+    {
+      "phrase": "set out",
+      "meaning": "出发；着手做",
+      "usage": "可指出发，也可指开始某项工作。",
+      "example": "The researchers set out to test a new idea.",
+      "exampleZh": "研究人员着手验证一个新想法。"
+    },
+    {
+      "phrase": "step up",
+      "meaning": "加强；加紧",
+      "usage": "后接行动、努力等。",
+      "example": "The city stepped up its efforts to cut waste.",
+      "exampleZh": "该市加大了减少浪费的力度。"
+    },
+    {
+      "phrase": "keep track of",
+      "meaning": "记录；跟踪",
+      "usage": "后接需要持续关注的对象。",
+      "example": "It is hard to keep track of so many sources.",
+      "exampleZh": "要跟踪这么多信息来源很难。"
+    },
+    {
+      "phrase": "stem from",
+      "meaning": "源于；由……造成",
+      "usage": "后接原因或根源。",
+      "example": "The problem stems from a lack of trust.",
+      "exampleZh": "这个问题源于缺乏信任。"
+    },
+    {
+      "phrase": "pave the way for",
+      "meaning": "为……铺平道路",
+      "usage": "后接后续发展或事件。",
+      "example": "The discovery paved the way for new treatments.",
+      "exampleZh": "这一发现为新疗法铺平了道路。"
+    },
+    {
+      "phrase": "open the door to",
+      "meaning": "为……打开大门；使……成为可能",
+      "usage": "后接机会、变化或风险。",
+      "example": "The policy opened the door to wider participation.",
+      "exampleZh": "这项政策为更广泛的参与打开了大门。"
+    },
+    {
+      "phrase": "give way to",
+      "meaning": "让位于；被……取代",
+      "usage": "后接取代前者的事物。",
+      "example": "Old habits gradually gave way to new routines.",
+      "exampleZh": "旧习惯逐渐让位于新作息。"
+    },
+    {
+      "phrase": "play down",
+      "meaning": "淡化；贬低",
+      "usage": "后接重要性或严重性。",
+      "example": "The company played down the risks of the new device.",
+      "exampleZh": "公司淡化了新设备的风险。"
+    },
+    {
+      "phrase": "call on",
+      "meaning": "呼吁；拜访",
+      "usage": "后接人或组织，后可接不定式。",
+      "example": "The report calls on governments to act quickly.",
+      "exampleZh": "报告呼吁各国政府迅速行动。"
+    },
+    {
+      "phrase": "single out",
+      "meaning": "挑出；单独指出",
+      "usage": "后接被特别关注的人或事。",
+      "example": "The study singled out sleep as a key factor.",
+      "exampleZh": "研究特别指出睡眠是关键因素。"
+    },
+    {
+      "phrase": "scale up",
+      "meaning": "扩大规模",
+      "usage": "后接项目、生产或行动。",
+      "example": "The team hopes to scale up the experiment next year.",
+      "exampleZh": "团队希望明年扩大实验规模。"
+    },
+    {
+      "phrase": "roll out",
+      "meaning": "推出；推广",
+      "usage": "后接产品或政策。",
+      "example": "The company will roll out the service in March.",
+      "exampleZh": "公司将在三月推出这项服务。"
+    },
+    {
+      "phrase": "phase out",
+      "meaning": "逐步淘汰",
+      "usage": "后接被淘汰的事物。",
+      "example": "The city plans to phase out older buses.",
+      "exampleZh": "该市计划逐步淘汰老旧公交车。"
+    },
+    {
+      "phrase": "make it possible",
+      "meaning": "使……成为可能",
+      "usage": "常后接不定式，说明可以实现的事。",
+      "example": "New tools make it possible to read anywhere.",
+      "exampleZh": "新工具使随时随地阅读成为可能。"
+    },
+    {
+      "phrase": "make it harder",
+      "meaning": "使……更难",
+      "usage": "常后接不定式，说明增加的难度。",
+      "example": "Noise can make it harder to concentrate.",
+      "exampleZh": "噪音会让人更难集中注意力。"
+    },
+    {
+      "phrase": "a different story",
+      "meaning": "另一回事；情况不同",
+      "usage": "用于对比，表示情况完全不同。",
+      "example": "The theory sounds simple, but the practice is a different story.",
+      "exampleZh": "这个理论听起来简单，但实践起来就是另一回事了。"
+    }
+  ]
+}

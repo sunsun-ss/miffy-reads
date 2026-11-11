@@ -20,6 +20,7 @@ import {
   readingMinutes,
 } from './words.js';
 import { fetchDetails, speak, englishSummary, translateParagraph } from './dict.js';
+import { loadPhrases } from './phrases.js';
 
 const root = document.getElementById('app');
 const overlayRoot = document.getElementById('overlay-root');
@@ -59,6 +60,7 @@ const app = {
   lookup: null,
   lookupToken: 0,
   refreshReaderProgress: null,
+  currentPhrases: [],
 };
 
 init();
@@ -73,7 +75,7 @@ function init() {
 
 async function boot() {
   try {
-    const [data] = await Promise.all([loadArticles(), loadWords()]);
+    const [data] = await Promise.all([loadArticles(), loadWords(), loadPhrases()]);
     app.articles = data.articles;
     app.byId = data.byId;
     app.issue = buildIssue(app.articles);
@@ -296,6 +298,7 @@ function onRouteChange() {
   app.route = parseRoute();
   app.hasRendered = true;
   app.currentArticle = null;
+  app.currentPhrases = [];
   document.body.dataset.route = app.route.name;
   document.body.classList.toggle('is-reader', app.route.name === 'read');
   window.scrollTo(0, 0);
@@ -586,6 +589,7 @@ function renderReader(id) {
   store.startReading(article.id);
   onCleanup(() => store.endReading());
   const analyzed = analyzeArticle(article, store.savedWordKeys());
+  app.currentPhrases = analyzed.phrases;
   const saved = store.isBookmarked(article.id);
   const read = store.getRead(article.id);
   const minutes = readingMinutes(article);
@@ -622,7 +626,7 @@ function renderReader(id) {
           <span class="dot">·</span>
           <span>${store.prettyDate(article.date)}</span>
         </div>
-        <h1 lang="en">${esc(article.title)}</h1>
+        <h1 lang="en">${analyzed.titleHtml}</h1>
         <p class="article-dek" lang="en">${esc(article.dek || '')}</p>
         <div class="article-meta">
           <span>${icon('clock', 15)} ${minutes} 分钟</span>
@@ -655,6 +659,8 @@ function renderReader(id) {
           </div>
         </div>
       </section>
+
+      ${renderPhraseBank(analyzed.phrases)}
 
       ${next ? `<a class="next-read" href="#/read/${encodeURIComponent(next.id)}">
         <div>
@@ -771,6 +777,33 @@ function refreshReadingTimer() {
   const seconds = store.getReadingSeconds(app.currentArticle.id);
   label.textContent = seconds < 60 ? `已读 ${seconds} 秒` : `已读 ${Math.floor(seconds / 60)} 分钟`;
   chip.title = `本篇已读 ${store.formatClock(seconds)}`;
+}
+
+function renderPhraseBank(phrases) {
+  if (!Array.isArray(phrases) || !phrases.length) return '';
+  return `<section class="phrase-bank" id="phrase-bank" aria-labelledby="phrase-bank-title">
+    <div class="phrase-bank-head">
+      <div>
+        <p class="eyebrow">PHRASE BANK</p>
+        <h2 id="phrase-bank-title">这篇的固定短语 <span>${phrases.length}</span></h2>
+      </div>
+      <button class="btn btn-ghost btn-small" type="button" data-act="copy-phrases">${icon('copy', 16)} 复制全部</button>
+    </div>
+    <p class="phrase-bank-intro">文章里带蓝色下划线的就是这些搭配。可以逐条复制，也可以整篇贴进笔记。</p>
+    <ol class="phrase-list">
+      ${phrases.map((phrase, index) => `<li class="phrase-item">
+        <div class="phrase-item-head">
+          <h3 lang="en">${esc(phrase.phrase)}</h3>
+          <button class="phrase-copy" type="button" data-act="copy-phrase" data-index="${index}" aria-label="复制短语 ${esc(phrase.phrase)}" title="复制这条">${icon('copy', 16)}</button>
+        </div>
+        <p class="phrase-meaning">${esc(phrase.meaning)}</p>
+        ${phrase.usage ? `<p class="phrase-usage"><span>用法</span>${esc(phrase.usage)}</p>` : ''}
+        ${phrase.example ? `<p class="phrase-example" lang="en">${esc(phrase.example)}</p>` : ''}
+        ${phrase.exampleZh ? `<p class="phrase-example-zh">${esc(phrase.exampleZh)}</p>` : ''}
+      </li>`).join('')}
+    </ol>
+    <p class="phrase-bank-foot">${flowerSvg('#B7DCEB')} 读到一个好搭配，就把它收进自己的句子里。</p>
+  </section>`;
 }
 
 function showSelectionBubble(article, prose, cachedText = '') {
@@ -1662,6 +1695,54 @@ function downloadTextFile(filename, content) {
   setTimeout(() => URL.revokeObjectURL(url), 1000);
 }
 
+function phraseAsText(phrase, index = 0) {
+  const lines = [index ? `${index}. ${phrase.phrase}` : phrase.phrase];
+  lines.push(`释义：${phrase.meaning}`);
+  if (phrase.usage) lines.push(`用法：${phrase.usage}`);
+  if (phrase.example) lines.push(`例句：${phrase.example}`);
+  if (phrase.exampleZh) lines.push(`       ${phrase.exampleZh}`);
+  return lines.join('\r\n');
+}
+
+function allPhrasesAsText() {
+  const phrases = app.currentPhrases || [];
+  const head = [
+    'Miffy Reads · 米菲短语本',
+    `文章：${app.currentArticle?.title || '阅读'}`,
+    `共 ${phrases.length} 条`,
+    '----------------------------------------',
+    '',
+  ];
+  const body = phrases.map((phrase, index) => phraseAsText(phrase, index + 1)).join('\r\n\r\n');
+  return `${head.join('\r\n')}${body}\r\n`;
+}
+
+async function copyText(text) {
+  try {
+    if (navigator.clipboard && window.isSecureContext) {
+      await navigator.clipboard.writeText(text);
+      return true;
+    }
+  } catch {
+    /* fall back to the textarea method below */
+  }
+  try {
+    const area = document.createElement('textarea');
+    area.value = text;
+    area.setAttribute('readonly', '');
+    area.style.position = 'fixed';
+    area.style.top = '-1000px';
+    area.style.opacity = '0';
+    document.body.appendChild(area);
+    area.select();
+    const ok = document.execCommand('copy');
+    area.remove();
+    return ok;
+  } catch {
+    return false;
+  }
+}
+
 function exportWords() {
   const words = store.state.words;
   if (!words.length) {
@@ -2029,6 +2110,26 @@ function handleAction(element, event) {
     case 'export-quotes': {
       event.preventDefault();
       exportQuotes();
+      break;
+    }
+    case 'copy-phrase': {
+      event.preventDefault();
+      const phrase = app.currentPhrases[Number(element.dataset.index)];
+      if (!phrase) break;
+      copyText(phraseAsText(phrase, Number(element.dataset.index) + 1)).then((ok) => {
+        toast(ok ? '这条短语已复制' : '复制失败，请手动选中文字', ok ? 'copy' : 'trash');
+      });
+      break;
+    }
+    case 'copy-phrases': {
+      event.preventDefault();
+      if (!app.currentPhrases.length) {
+        toast('这篇暂时没有收录到固定短语', 'quote');
+        break;
+      }
+      copyText(allPhrasesAsText()).then((ok) => {
+        toast(ok ? `已复制 ${app.currentPhrases.length} 条短语` : '复制失败，请手动选中文字', ok ? 'copy' : 'trash');
+      });
       break;
     }
     case 'remove-word': {
