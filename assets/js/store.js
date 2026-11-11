@@ -246,6 +246,16 @@ export function endReading() {
   activeReading = null;
 }
 
+/** 某篇文章截至此刻的累计阅读秒数（含正在进行的这一段）。 */
+export function getReadingSeconds(id, now = Date.now()) {
+  if (!id) return 0;
+  let seconds = Number(state.reads[id]?.seconds) || 0;
+  if (activeReading && activeReading.id === id) {
+    seconds += Math.max(0, Math.round((now - activeReading.startedAt) / 1000));
+  }
+  return seconds;
+}
+
 /** 某天累计阅读秒数。 */
 export function getDayTime(key) {
   return Number(state.dayTime[key]) || 0;

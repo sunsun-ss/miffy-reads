@@ -1598,6 +1598,26 @@ body.is-reader {
   text-align: right;
 }
 
+.reader-time {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  flex: none;
+  padding: 4px 10px;
+  border: 1.5px solid rgba(42, 38, 32, 0.2);
+  border-radius: 999px;
+  background: var(--yellow-soft);
+  font-size: 10.5px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  color: var(--ink-soft);
+  white-space: nowrap;
+}
+
+.reader-time .ic {
+  opacity: 0.65;
+}
+
 .font-group {
   display: flex;
   border: 2px solid var(--ink);
@@ -2496,6 +2516,12 @@ body.is-reader {
   font-weight: 800;
   letter-spacing: 0.08em;
   color: var(--muted);
+}
+
+.ci-metrics .ci-duration strong {
+  font-size: 22px;
+  letter-spacing: 0;
+  white-space: nowrap;
 }
 
 .ci-week {
@@ -3828,6 +3854,11 @@ body.is-reader {
     font-size: 11px;
   }
 
+  .reader-time {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+
   .font-btn {
     padding: 5px 9px;
   }
@@ -4275,6 +4306,12 @@ body.is-reader {
 
   .reader-pct {
     display: none;
+  }
+
+  .reader-time {
+    margin-left: auto;
+    padding: 4px 7px;
+    font-size: 9.5px;
   }
 
   .reader-bar {

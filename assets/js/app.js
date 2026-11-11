@@ -610,6 +610,7 @@ function renderReader(id) {
           <button class="font-btn" data-act="font" data-step="1" aria-label="放大字号">A+</button>
         </div>
         <button class="icon-btn reader-save ${saved ? 'is-saved' : ''}" data-act="bookmark" data-id="${esc(article.id)}" aria-label="${saved ? '取消收藏' : '收藏文章'}" aria-pressed="${saved}">${icon('bookmark', 19)}</button>
+        <span class="reader-time" id="reader-time" title="本篇已读 0 秒">${icon('clock', 13)}<span id="reader-time-value">已读 0 分钟</span></span>
       </div>
     </header>
 
@@ -719,6 +720,8 @@ function bindReader(article, readState) {
   };
 
   app.refreshReaderProgress = update;
+  refreshReadingTimer();
+  const timerId = window.setInterval(refreshReadingTimer, 5000);
   window.addEventListener('scroll', onScroll, { passive: true });
   const restore = readState?.progress && !readState.finishedAt && readState.progress > 4 && readState.progress < 97;
   requestAnimationFrame(() => {
@@ -749,6 +752,7 @@ function bindReader(article, readState) {
   document.addEventListener('selectionchange', onSelect);
 
   onCleanup(() => {
+    window.clearInterval(timerId);
     window.removeEventListener('scroll', onScroll);
     prose.removeEventListener('mouseup', onSelect);
     prose.removeEventListener('touchend', onSelect);
@@ -758,6 +762,15 @@ function bindReader(article, readState) {
     const progress = max > 0 ? Math.min(100, Math.max(0, Math.round((window.scrollY / max) * 100))) : 0;
     store.setProgress(article.id, progress);
   });
+}
+
+function refreshReadingTimer() {
+  const chip = document.getElementById('reader-time');
+  const label = document.getElementById('reader-time-value');
+  if (!chip || !label || app.route.name !== 'read' || !app.currentArticle) return;
+  const seconds = store.getReadingSeconds(app.currentArticle.id);
+  label.textContent = seconds < 60 ? `已读 ${seconds} 秒` : `已读 ${Math.floor(seconds / 60)} 分钟`;
+  chip.title = `本篇已读 ${store.formatClock(seconds)}`;
 }
 
 function showSelectionBubble(article, prose, cachedText = '') {
@@ -1070,6 +1083,7 @@ function openCheckin(article) {
   const copy = result.counted
     ? (result.streak > 1 ? `连续第 ${result.streak} 天，花园里又多了一朵小花。` : '从今天开始，米菲陪你一天读一点。')
     : '今天已经点亮啦，这篇就不重复计数了。';
+  const spent = store.getReadingSeconds(article.id);
 
   overlayRoot.innerHTML = `<div class="checkin-layer">
     <div class="checkin-backdrop" data-act="close-overlay"></div>
@@ -1086,6 +1100,7 @@ function openCheckin(article) {
       <div class="ci-metrics">
         <div><strong>${result.streak}</strong><span>连续天数</span></div>
         <div><strong>${result.count}</strong><span>今日篇数</span></div>
+        <div class="ci-duration"><strong>${store.formatClock(spent)}</strong><span>本篇用时</span></div>
       </div>
       <div class="ci-week">
         ${week.map((day) => `<div class="ci-day ${day.on ? 'is-on' : ''} ${day.today ? 'is-today' : ''}">
@@ -1695,6 +1710,24 @@ function bindGlobalEvents() {
   document.addEventListener('input', onDocumentInput);
   document.addEventListener('keydown', onDocumentKeydown);
   window.addEventListener('pagehide', () => store.endReading());
+  document.addEventListener('visibilitychange', onVisibilityChange);
+  window.addEventListener('pageshow', resumeReading);
+}
+
+function resumeReading() {
+  if (document.hidden) return;
+  if (app.route.name === 'read' && app.currentArticle) {
+    store.startReading(app.currentArticle.id);
+    refreshReadingTimer();
+  }
+}
+
+function onVisibilityChange() {
+  if (document.hidden) {
+    store.endReading();
+    return;
+  }
+  resumeReading();
 }
 
 function onDocumentClick(event) {
@@ -1878,7 +1911,7 @@ function handleAction(element, event) {
       panel.innerHTML = `<div class="para-tr-head"><span class="para-tr-label" title="机器翻译由有道提供，失败时使用 MyMemory">中文译文 · 机器翻译</span>${closeButton}</div><p class="para-tr-loading">米菲正在翻译这一段…</p>`;
       button.disabled = true;
       button.textContent = '…';
-      const source = paragraph ? paragraph.textContent.replace(/s+/g, ' ').trim() : '';
+      const source = paragraph ? paragraph.textContent.replace(/\s+/g, ' ').trim() : '';
       translateParagraph(source).then((translation) => {
         panel.innerHTML = `<div class="para-tr-head"><span class="para-tr-label" title="机器翻译由有道提供，失败时使用 MyMemory">中文译文 · 机器翻译</span>${closeButton}</div><div class="para-tr-text" lang="zh-CN">${esc(translation)}</div>`;
         block.dataset.translationLoaded = 'true';
