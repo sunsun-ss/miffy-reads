@@ -1425,6 +1425,7 @@ function renderShelfCard(article, tab) {
   const read = store.getRead(article.id);
   const finished = Boolean(read?.finishedAt);
   const progress = Math.min(100, Math.max(0, Number(read?.progress) || 0));
+  const spent = Math.max(0, Math.round(Number(read?.seconds) || 0));
   const meta = finished && read.finishedAt
     ? `读完于 ${store.prettyDate(new Date(read.finishedAt))}`
     : `收录于 ${store.prettyDate(new Date(article.publishedAt))}`;
@@ -1437,7 +1438,7 @@ function renderShelfCard(article, tab) {
     <div class="shelf-copy">
       <p class="card-kicker">${esc(article.external ? article.source.name : '编辑部原创')} <span>·</span> ${store.prettyDate(article.date)}</p>
       <h3><a href="#/read/${encodeURIComponent(article.id)}">${esc(article.title)}</a></h3>
-      <p class="shelf-meta">${meta} · ${readingMinutes(article)} 分钟</p>
+      <p class="shelf-meta">${meta} · 预读 ${readingMinutes(article)} 分钟 · 实读 ${readingTimeLabel(spent)}</p>
       ${progress > 0 && !finished ? `<div class="card-progress"><span style="width:${progress}%"></span></div>` : ''}
       <div class="shelf-actions">
         <a class="btn btn-primary btn-small" href="#/read/${encodeURIComponent(article.id)}">${finished ? '再读一遍' : '继续阅读'}</a>
@@ -1448,6 +1449,15 @@ function renderShelfCard(article, tab) {
 }
 
 /* ---------------------------------------------------------- words & quotes */
+
+function readingTimeLabel(seconds) {
+  const total = Math.max(0, Math.round(Number(seconds) || 0));
+  if (total <= 0) return '0 分钟';
+  if (total < 60) return '不足 1 分钟';
+  const minutes = Math.floor(total / 60);
+  if (minutes < 60) return `${minutes} 分钟`;
+  return store.formatDuration(total);
+}
 
 function renderWordsPage() {
   const tab = app.ui.wordTab;
