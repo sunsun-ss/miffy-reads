@@ -1,155 +1,627 @@
 {
-  "generatedAt": "2026-11-10T22:53:51.526Z",
-  "date": "2026-11-11",
+  "generatedAt": "2026-11-12T00:07:26.435Z",
+  "date": "2026-11-12",
   "failedSources": [],
   "articles": [
     {
-      "id": "phys-sexual-violence-can-hide-in-plain-sight-at-music-festivals",
-      "title": "Sexual violence can hide in plain sight at music festivals, according to new study",
-      "dek": "The pressure to maintain an atmosphere of fun and escapism can make it harder for festival organizations to acknowledge and respond to harm, while frontline workers are left…",
-      "category": "文化",
+      "id": "phys-independent-technique-validates-landmark-m87-image",
+      "title": "Independent technique validates landmark M87* image",
+      "dek": "The 2019 Event Horizon Telescope (EHT) image was the work of hundreds of scientists and captured the first direct view of a black hole's shadow—becoming one of the most…",
+      "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-11",
-      "publishedAt": "2026-11-10T22:40:23.000Z",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T00:00:04.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-sexual-violence-plain-sight-music.html"
+        "url": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html"
       },
-      "cover": "books",
-      "accent": "yellow",
+      "cover": "star",
+      "accent": "blue",
       "paragraphs": [
-        "The pressure to maintain an atmosphere of fun and escapism can make it harder for festival organizations to acknowledge and respond to harm, while frontline workers are left dealing with its consequences, a new study finds.",
-        "Previous research into gender-based violence (GBV) at music festivals has largely focused on the experiences of audiences and the risks they face.",
-        "A new study from the University of Portsmouth takes a different perspective, examining the experiences of the workers who keep festivals running and are often the first to encounter or respond to violence and harassment. The work is published in the journal Organization .",
-        "The research suggests that the atmosphere festivals work to create can make GBV harder to acknowledge. In spaces designed around joy, freedom and escapism, violence can seem out of place or be treated as incompatible with the experience organizers want to promote.",
-        "At the same time, organizational politics, workplace hierarchies and unclear processes can combine to make incidents difficult to recognize, understand and act upon.",
-        "Based on 24 trauma-informed interviews with festival workers and fieldwork at five U. K. music festivals, the study explores how violence can become part of the background of an event rather than something an organization properly acknowledges and addresses.",
-        "One example involved a lighting technician who was asked by a promoter to reduce lighting because it was \"ruining the vibe.\" The technician challenged the decision, saying: \"Unless the vibe you're going for is a rapey one, then you need more lighting.\" The promoter had the final say and kept the lighting low.",
-        "This example illustrates how a decision that could improve people's safety can be overridden by the desire to preserve the festival atmosphere.",
-        "The study also found that workers could be reluctant to report harassment because of the insecure nature of festival employment. Two women who experienced sexual harassment from a male security guard asked only for him to be told to leave them alone, fearing that making a formal complaint could affect their chances of being employed at future events.",
-        "The researchers found that even when incidents were reported, responsibility for dealing with them was often unclear. Disclosures could be redirected, minimized or lost as they passed between teams, while the people receiving them did not always have the authority or support to take action.",
-        "In one interview, a worker recalls having encountered four incidents of sexual violence by 10 p. m. at a festival. After briefly retreating to a tent to cry, they returned to their shift while the event continued around them.",
-        "The researchers describe this as \"organizational disorientation\"—a situation in which the atmosphere, working practices and structures of a festival make gender-based violence difficult to recognize, interpret and respond to.",
-        "They suggest their findings challenge the idea that the festival atmosphere is simply a backdrop to incidents of violence. Instead, the way festivals are organized, including their informal hierarchies, working practices and competing priorities, can shape whether harm is recognized and addressed.",
-        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
+        "The 2019 Event Horizon Telescope (EHT) image was the work of hundreds of scientists and captured the first direct view of a black hole's shadow—becoming one of the most recognized scientific images of the modern era. A team of four from CSIRO, Australia's national science agency, has developed a powerful new imaging technique that validated the landmark 2019 image of the black hole at the center of galaxy M87.",
+        "CSIRO astronomer and lead author Dr. Samuel Lai explained the challenge of imaging a distant black hole. \"It is like standing in your backyard and trying to take a photo of a doughnut on the moon,\" Lai said.",
+        "The new approach to analyzing the EHT data, published in Nature , reduces the effects of calibration errors and subjective image-processing decisions, which have challenged astronomers for decades.",
+        "\"Our small Australian team developed advanced machine learning and artificial intelligence techniques to capture information about the black hole's structure and filter out atmospheric interference,\" Lai explained.",
+        "\"When we applied it to the original Event Horizon Telescope dataset, we found a black hole almost identical in size and shape to the historic EHT image. Importantly, our model had no idea what a black hole looked like when we applied it to the M87 data.",
+        "\"This is the first truly independent validation of the EHT image, an important step in the scientific process.\"",
+        "While the EHT's first image of M87's black hole transformed our understanding of these extreme objects, scientists have questioned how much the final image may have been influenced by the processing methods needed to reconstruct pictures from sparse telescope measurements.",
+        "To address this, the CSIRO team developed elegant mathematical algorithms to eliminate biases and calibration errors.",
+        "CSIRO astronomer and project leader Dr. Nithyanandan Thyagarajan used his experience in solving similar challenges in synchrotron experiments to build the new technique.",
+        "\"In order to image certain astronomical objects like distant black holes, we need very big telescopes, which isn't practically possible. So, groups like the Event Horizon Telescope Collaboration connect telescopes across the globe to mimic a telescope the size of the planet, a technique called very long baseline interferometry ,\" Thyagarajan said.",
+        "\"Creating an image this way is tricky and can introduce errors and biases that could lead to questions about the accuracy of the image. Our technique combines triplets rather than the standard pairs of telescope data to eliminate those errors.\"",
+        "The findings strengthen confidence that the ring surrounding M87's central black hole is a genuine astrophysical feature rather than an artifact introduced during image reconstruction.",
+        "Event Horizon Telescope Collaboration director Dr. Laurent Loinard said studies like this are at the heart of the scientific process, providing valuable independent validation of the Event Horizon Telescope results.",
+        "\"It is extremely gratifying to see that GenDIReCT, an elegant, entirely independent method, recovers the ring structure of M87* across several years, in excellent agreement with the EHT Collaboration's published results. Studies like this strengthen our confidence in what we have learned about black holes, and enrich the toolkit available to the whole community,\" Loinard said."
       ],
       "external": true,
       "order": 0
     },
     {
-      "id": "phys-seafloor-clay-reveals-past-dramatic-ice-loss-in-west-antar",
-      "title": "Seafloor clay reveals past dramatic ice loss in West Antarctica",
-      "dek": "Scientists have discovered the best evidence yet to show that West Antarctica's most vulnerable ice streams—including its giant Thwaites Glacier—repeatedly collapsed and…",
+      "id": "phys-clean-water-hidden-risks-new-technology-reveals-neurotoxic",
+      "title": "Clean water, hidden risks: New technology reveals neurotoxicity missed by conventional water quality monitoring",
+      "dek": "A photograph of an orchestra can tell you whether the musicians are on stage and their instruments are intact. But it cannot tell you whether they are playing in harmony. ",
       "category": "环境",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-11",
-      "publishedAt": "2026-11-10T22:40:12.000Z",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T23:40:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-seafloor-clay-reveals-ice-loss.html"
+        "url": "https://phys.org/news/2026-11-hidden-technology-reveals-neurotoxicity-conventional.html"
       },
-      "cover": "wave",
-      "accent": "blue",
+      "cover": "leaf",
+      "accent": "green",
       "paragraphs": [
-        "Scientists have discovered the best evidence yet to show that West Antarctica's most vulnerable ice streams—including its giant Thwaites Glacier—repeatedly collapsed and retreated far inland during natural warm periods of the last 800,000 years.",
-        "The study, published in Nature Communications , suggests much of the region's marine-based ice sheet has a historic \"tipping point\" triggered by global warming to temperatures similar to those the Earth is experiencing today.",
-        "The question of how the West Antarctic Ice Sheet (WAIS) responded to previous warm periods—known as interglacials—has long divided researchers. Now, an international team led by the British Antarctic Survey (BAS) has found the answer buried in mud cores drilled from the nearby ocean floor.",
-        "It's a distinctive mineral called kaolinite—what most people know as china clay. It typically forms in warm, wet, tropical climates or swampy environments—like those that existed on the Antarctic continent more than 34 million years ago.",
-        "Today, this ancient kaolinite is locked away in the bedrock beneath the WAIS, and it takes the immense weight of glaciers such as Thwaites and neighboring Pine Island to grind it out and carry it offshore in icebergs and water currents.",
-        "But sediment cores pulled from 4,000m (13,000 feet) below the sea surface on Antarctica's continental margin tell a dramatic story: During every single interglacial over the past 800,000 years, that kaolinite signal plummeted to near zero.",
-        "\"When the kaolinite signal at our drill-core sites suddenly collapses, it tells us the marine-based ice in the Amundsen Sea sector of the West Antarctic—including Thwaites and Pine Island glaciers—must have melted and retreated far back into the continent's interior,\" says Dr. Claus-Dieter Hillenbrand, the BAS marine geologist who led the study.",
-        "\"It's the only way to explain why the delivery of kaolinite-rich debris to the ocean floor stops.\"",
-        "Identifying that the ice retreated is only half the story, however, so the team wanted to find the cause as well.",
-        "They discovered it in a second clay mineral: smectite. Unlike the local clays weathered from Antarctica's own rocks and volcanoes, this specific, magnesium-rich variety carries a chemical signature unique to the deep Pacific Ocean floor far to the north.",
-        "Something had to carry the smectite south and deposit it in the nearshore muds—and, crucially, at the same time as the kaolinite disappears.",
-        "The obvious explanation is warm deep-water currents intruding onto the West Antarctic continental shelf. These would have transported the smectite south toward the continent, simultaneously melting the grounded ice whose erosion produces the kaolinite signal.",
-        "To cement this narrative, the team then turned to the fossilized remains of diatoms—microscopic marine algae—in the mud layers. The shell-like structures take different shapes depending on water temperature.",
-        "The results of this analysis revealed a powerful regional thermal amplification. While global average temperatures during past warm periods were only 1. 0°C to 1. 5°C warmer than preindustrial levels (i. e. , similar to today) or even colder, the local waters in front of the WAIS surged to between about 1°C and 3°C warmer than today's near-freezing baseline."
+        "A photograph of an orchestra can tell you whether the musicians are on stage and their instruments are intact. But it cannot tell you whether they are playing in harmony. Even when every musician is present, a subtle loss of coordination can change the entire performance.",
+        "Neuronal networks work in much the same way. Individual neurons may retain their normal appearance, yet the electrical signals coordinating their activity can become disrupted. Looking at neuronal structure alone may therefore miss important changes in network function. This led me to wonder whether listening to neuronal networks could reveal subtle disruptions caused by complex mixtures of environmental contaminants.",
+        "Environmental water contains complex mixtures of pharmaceuticals, pesticides, industrial chemicals and their transformation products. Identifying individual contaminants is important, but understanding how they interact and affect biological systems as a mixture is far more challenging.",
+        "Various effect-based methods have been developed to complement chemical analysis. Yet assessing subtle changes in neuronal network function directly in complex whole-water samples remains challenging. Because neurons communicate through electrical signals, I wondered whether recording these signals could provide a more direct way to assess their responses to environmental exposures.",
+        "My colleagues and I therefore developed an in vitro functional neurotoxicity testing method, or iFNT, based on high-density microelectrode arrays . We cultured primary rat cortical neurons on the chips, allowing electrodes to simultaneously record electrical activity across interconnected networks. By analyzing 14 electrophysiological parameters related to neuronal firing, bursting and network synchronization, we constructed multidimensional profiles of neuronal network function. Our study is published in the journal Environmental Science &; Technology .",
+        "We first tested individual neuroactive chemicals and a representative mixture, comparing iFNT with a conventional neurite outgrowth (NOG) assay that measures structural changes.",
+        "The difference was substantial. For individual compounds, iFNT showed 5- to more than 500-fold greater sensitivity than NOG. For the chemical mixture, the sensitivity was about 50-fold greater. Some compounds produced detectable functional responses at concentrations as low as 10⁻⁸ M.",
+        "These findings suggest that electrophysiological profiling can reveal chemical effects that may not be detected as readily through changes in neurite morphology. They also demonstrate the value of examining neuronal network function alongside structural measurements.",
+        "However, laboratory-prepared chemicals represent only part of the environmental picture. Real-world water contains mixtures of known and unidentified substances, whose combined effects cannot always be predicted by measuring individual compounds. Could iFNT capture these effects in actual environmental samples?",
+        "We applied iFNT to whole-water samples collected from municipal wastewater treatment plants and their receiving waters. Importantly, the samples were tested without solid-phase extraction or preconcentration. This approach allowed us to assess the biological effects of the water samples more directly.",
+        "The results were consistent with our findings from reference chemicals. Compared with NOG, iFNT showed 3- to 145-fold greater sensitivity for whole-water samples, with a median improvement of approximately 25-fold. Thus, electrophysiological profiling could detect functional responses in complex environmental mixtures without preconcentration.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Testing real-world samples raised another question: Do conventional measures of wastewater quality reflect the same biological effects captured by neuronal network activity?",
+        "We compared iFNT profiles across wastewater treatment stages with routine water-quality indicators, including chemical oxygen demand, ammonia nitrogen, total nitrogen and total phosphorus. No statistically significant correspondence was found between these indicators and the electrophysiological profiles. We also found no significant correspondence between iFNT profiles and toxicity endpoints measured in zebrafish embryos ."
       ],
       "external": true,
       "order": 1
     },
     {
-      "id": "phys-swordfish-may-be-using-deep-dives-to-navigate-the-open-oce",
-      "title": "Swordfish may be using deep dives to navigate the open ocean",
-      "dek": "Swordfish spend much of their time hunting prey about 600 meters (1,970 feet) below the surface in the ocean twilight zone, but occasionally, they reach depths of more than…",
-      "category": "环境",
+      "id": "phys-fluorescent-probes-reveal-fluid-like-barriers-inside-nucle",
+      "title": "Fluorescent probes reveal fluid-like barriers inside nuclear pores of living human cells",
+      "dek": "Our genetic material is hidden inside the nucleus of our cells, well protected by a double membrane. ",
+      "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-11",
-      "publishedAt": "2026-11-10T22:40:06.000Z",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T23:20:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-swordfish-deep-ocean.html"
+        "url": "https://phys.org/news/2026-11-fluorescent-probes-reveal-fluid-barriers.html"
       },
-      "cover": "wave",
-      "accent": "blue",
+      "cover": "bulb",
+      "accent": "yellow",
       "paragraphs": [
-        "Swordfish spend much of their time hunting prey about 600 meters (1,970 feet) below the surface in the ocean twilight zone, but occasionally, they reach depths of more than 1,000 meters (3,280 feet). Now, scientists from the Woods Hole Oceanographic Institution (WHOI) are investigating what may be behind these extreme dives.",
-        "The new study , published in Marine Biology , suggests these rare, extreme dives may help swordfish gather information about their surroundings in the open ocean. By moving through different water masses and ocean features, the fish may be sampling changes in ocean conditions for cues that help them navigate during their long-distance movements. The swordfish in the study traveled thousands of miles during their migrations, moving between waters off Canada and the Caribbean.",
-        "\"If we want to understand how these animals move and navigate to make use of the information in their environment, these rare behaviors can be really valuable,\" said Martin Arostegui, a marine biologist at WHOI and an author of the study. \"Being able to start to get at that question represents just how much more we know about what happens above the surface of the ocean than what we do under it.\"",
-        "During the 3,666 deployment days, \"extreme\" dives were identified 39 times. This data was collected in partnership with NOAA's Southeast Fisheries Science Center and the Massachusetts Division of Marine Fisheries.",
-        "\"It wouldn't have been possible to analyze this from just a single tagging operation, or from a single lab,\" said Simon Thorrold, a fish ecologist at WHOI and author of the study. \"It was necessary to pull tagging data from different studies and to begin building longer-term data sets to give us enough power to at least begin to sort of ask questions about what those dives might be for.\"",
-        "\"This study demonstrates the value of collaboration and long-term data collection,\" said Eric Orbesen, a research fishery biologist at the Southeast Fisheries Science Center and co-author on the study. \"Individual tagging projects provide important snapshots in time and space, but maintaining and combining these data sets over many years allows scientists to identify behaviors and patterns that would otherwise be very difficult to see.\"",
-        "Understanding how swordfish respond to ocean conditions could also help scientists better predict how these important predators may move as the ocean changes. Swordfish support valuable fisheries and play an important role in marine food webs, making it important to understand where they travel, what influences their movements and how they interact with the changing ocean.",
-        "\"They could be coming into an ocean weather system, like an eddy or a frontal system, where we have a change in water masses. Maybe that change in the ocean system prompts them to check out what's happening deeper in the water column—to get a sense of where they are, how deep the feature extends or answer other questions about their world that we don't even know they're asking yet,\" said Ciara Willis, who led the study as a doctoral student in the MIT-WHOI Joint Program. Willis is now a postdoctoral investigator at the Monterey Bay Aquarium Research Institute.",
-        "Researchers still don't know to what extent extreme diving is shared broadly across swordfish or how it varies among populations or life stages. They also want to determine how important these rare dives are to swordfish overall and whether they represent an occasional way of gathering information or a more significant part of how these highly migratory predators navigate the ocean.",
-        "BA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile &rarr;",
-        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
-        "Tagging data from 34 North Atlantic swordfish recorded 39 extreme dives over 3,666 deployment days. A proposed role for these rare dives in gathering environmental cues for navigation remains unconfirmed, and their prevalence across populations is unknown.",
-        "Please select the most appropriate category to facilitate processing of your request",
-        "Thank you for taking time to provide your feedback to the editors."
+        "Our genetic material is hidden inside the nucleus of our cells, well protected by a double membrane. All molecules wishing to pass through must thread their way through one of several thousand nuclear pores. The scaffold structure of these pores is well known. However, exactly how transport takes place within them has been the subject of much debate. Researchers at Johannes Gutenberg University Mainz (JGU), the Max Planck Institute for Biophysics (MPI-BP) in Frankfurt am Main and Wuhan University in China have now shed light on the matter.",
+        "\"For the first time, we have been able to measure intrinsic protein dynamics within the nanocanal of a living cell and demonstrate that the interior of this canal is fluid-like,\" said professor Edward Lemke, professor of synthetic biophysics at JGU, who led the current study together with professor Gerhard Hummer from the MPI-BP. The researchers at the MPI-BP, in turn, have succeeded in creating the most comprehensive simulation model of a nuclear pore to date, based on the findings of Lemke and his team.",
+        "In particular, this model answers the question of the transport pathway through the pore. \"These complex calculations were made possible by JUPITER, Europe's first exascale supercomputer at the Jülich Research Center,\" said Hummer. The researchers published their findings in the journal Nature .",
+        "\"As the nuclear pore protects the genome and controls all exchange between the cell nucleus and the cytoplasm, it is one of the most important molecular machines in the human cell,\" said professor Miao Yu from Wuhan University, co-first author of the study. \"And also one of the most complex,\" added co-first author Maziar Heidari from the MPI-BP.",
+        "Anyone traveling to a town in the Middle Ages first had to pass through one of the town gates—and might well have been turned away there. The situation at the membrane, which protectively surrounds the interior of human cell nuclei containing the valuable genetic information, is comparable in a certain sense. If signaling molecules or pathogens wish to pass through, the only route is via the nuclear pores, each of which controls tens of thousands of visitors per minute. While certain molecules are specifically permitted to pass, others are held back.",
+        "Essential to this selection process is a barrier of proteins that fills the opening—that much was already known. However, opinions differed widely regarding the exact nature of this barrier: studies on isolated proteins yielded varying results, ranging from stretched polymers to liquid-like condensates and even solid-like gels with a consistency similar to that of gummy bears. \"Such studies did not, however, allow any direct conclusions to be drawn about how the barrier behaves within the living cell,\" said Lemke.",
+        "How dynamic are these protein chains anchored within the pore in their natural environment? Do they act more like a rigid comb, or are they soft and flexible like yogurt or a liquid? And to what extent do their dynamics contribute to selective transport? Such questions have remained unanswered until now.",
+        "To find answers, Lemke and his team specifically coupled fluorescent dyes to the proteins in the nuclear pores as probes: tiny glowing dots whose mobility reveals a great deal about the dynamics of the proteins. \"As the dyes move extremely quickly, the state inside the nuclear pores must be fluid-like,\" said Lemke.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "In living cells, the proteins remained highly mobile throughout the entire two-hour observation period. The team compared these results with an in vitro model, i. e. , with isolated proteins in a test tube: There, however, after about two hours, the protein mass invariably turned into a rigid \"gummy bear\" or even a solid resembling the deposits found in the brains of people with neurodegenerative diseases such as Alzheimer's or Parkinson's. \"This was a crucial turning point: there had to be something keeping the barrier in the cells dynamic,\" said Lemke."
       ],
       "external": true,
       "order": 2
     },
     {
-      "id": "phys-ai-generated-molecular-fingerprints-help-identify-existing",
-      "title": "AI-generated molecular fingerprints help identify existing compounds with therapeutic potential",
-      "dek": "Health care researchers have long sought to harness the power of computing to design molecules that bind to specific receptors and can be used as targeted treatments for…",
-      "category": "科技",
+      "id": "phys-superconducting-vortices-provide-experimental-evidence-tha",
+      "title": "Superconducting vortices provide experimental evidence that clogging is a phase transition",
+      "dek": "Clogging is a phenomenon in which moving particles get stuck, slowing or blocking the flow, but how this transition occurs has remained experimentally unproven. ",
+      "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-11",
-      "publishedAt": "2026-11-10T22:30:01.000Z",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T23:00:05.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-ai-generated-molecular-fingerprints-compounds.html"
+        "url": "https://phys.org/news/2026-11-superconducting-vortices-experimental-evidence-clogging.html"
       },
-      "cover": "pencil",
-      "accent": "orange",
+      "cover": "orbit",
+      "accent": "lilac",
       "paragraphs": [
-        "Health care researchers have long sought to harness the power of computing to design molecules that bind to specific receptors and can be used as targeted treatments for diseases. Even with the increasing sophistication of artificial intelligence, however, this technological promise has yet to be realized.",
-        "Junmei Wang, professor of pharmaceutical sciences in the School of Pharmacy, is tackling the problem from a different perspective.",
-        "In a paper published Oct. 28 in the journal Science Advances , Wang outlined Full-Spectrum Generative Lead Discovery (FSGLD), a novel, practical and reusable framework that takes advantage of generative AI to screen for existing compounds with potential for therapeutic development.",
-        "Developing pharmaceuticals using AI isn't new, but it is laborious and often leads to a dead end. \"If you generate a brand-new molecule, that's actually a limitation,\" Wang said. \"A lot of compounds can't be synthesized, and that is a big issue.\"",
-        "\"We use a simpler representation of a molecule: a molecular fingerprint,\" Wang said, referring to a digital encoding of a molecule's key chemical features. To uncover patterns in the fingerprints that might point to useful properties, Wang's lab used a generative adversarial network called DRUG-GAN. This system is made of two components: a generator that creates fake fingerprints and a discriminator that attempts to distinguish the fakes from fingerprints of real molecules.",
-        "This back-and-forth is the GAN's training. Over time, the generator learns to generate fingerprints that more closely resemble those of real molecules. Researchers then search chemical databases for existing compounds with similar fingerprints; the AI-generated pattern leads to the discovery of real molecules that researchers can test—no need to synthesize a new molecule.",
-        "In this work, the lab screened for target-specific compounds, or molecules that bind to and act on a receptor related to a particular disease or condition.",
-        "They screened for compounds linked to two of the most commonly targeted drug receptors: G protein-coupled receptors (GPCRs) and protein kinase.",
-        "\"We saw good results,\" Wang said. The team identified novel compounds that were different from the molecules used to train the GAN, but that would still bind to the target receptors.",
-        "The promise of FSGLD goes beyond these two receptors; much of its value lies in its flexibility.",
-        "\"It's a reusable framework that connects generative AI with practical compound discovery.\"",
-        "Wang's lab is taking advantage of this flexibility to explore two complementary approaches. One, called ADSeqGAN, generates new molecular structures by learning from text-based descriptions of molecules, without requiring a receptor's three-dimensional structure. Another, currently in development and called DRUG-FF, uses the three-dimensional shape of a receptor and/or a bound molecule to guide the design of new compounds that could fit the binding site.",
+        "Clogging is a phenomenon in which moving particles get stuck, slowing or blocking the flow, but how this transition occurs has remained experimentally unproven. Researchers from Science Tokyo studied superconducting vortices to demonstrate that clogging is a nonequilibrium phase transition. Using a two-step measurement protocol, they distinguished clogging from conventional pinning and revealed that both transitions share a critical point, offering new insights into predicting and controlling clogging across diverse systems.",
+        "Clogging is a common phenomenon where flowing particles encounter bottlenecks that restrict their passage, slowing down or completely halting movement. This phenomenon is observed across a wide range of systems, including granular materials, filtration devices, industrial pipelines and biological transport networks. Understanding how and why clogging occurs is essential for preventing blockages and maintaining efficient transport across natural and engineered systems.",
+        "Despite its widespread incidence, the physical mechanisms governing the transition from continuous flow to complete clogging remain incompletely understood. Previous studies predicted that this transition represents a nonequilibrium phase transition, in which the time required to reach a stable flowing or completely blocked state diverges near a critical point. However, experimental confirmation of this prediction remained lacking.",
+        "Addressing this long-standing question, a research team led by former graduate student Takahide Minemura and professor emeritus Satoshi Okuma of the Department of Physics, Institute of Science Tokyo, has provided the first experimental evidence that the widely observed phenomenon of clogging is a nonequilibrium phase transition. This study investigated the critical dynamics of superconducting vortices driven by direct current (DC) and was published in Communications Physics on Sept. 25, 2026.",
+        "Okuma explains, \"Clogging can also cause serious problems in industrial plants, infrastructure pipelines and biological transport systems such as blood vessels. Although it has been predicted in simulation that the transition from a flowing state to a completely clogged state represents a nonequilibrium phase transition, experimental verification had remained elusive. This was the main motivation of our study.\"",
+        "The team examined superconducting vortices moving through amorphous molybdenum-germanium (MoGe) thin films under an applied direct current, where material defects acted as pinning sites. Trapped vortices can form bottlenecks that obstruct the movement of other vortices, producing clogging.",
+        "To distinguish this phenomenon from conventional pinning, they developed a modified two-step measurement protocol involving successive current drives applied in parallel or opposite directions. By measuring the resulting time-dependent voltage, they tracked vortex motion and separated the fast relaxation associated with clogging from the slower relaxation associated with pinning.",
+        "The results revealed that both relaxation times increased greatly and adhered to power-law divergence as the driving current approached a critical value. At the same time, the critical current for clogging coincided with the depinning current within experimental uncertainty. Additionally, the critical exponents associated with both transitions were similar to the predictions for the two-dimensional directed-percolation universality class, which is a type of nonequilibrium absorbing phase transition.",
+        "These findings demonstrate that clogging and depinning share the same critical point and exhibit consistent critical behavior, even though they represent distinct dynamical processes.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Beyond superconductivity, the findings provide a foundation for understanding clogging across diverse systems. In Okuma's words, \"Understanding, predicting and controlling clogging is important across scientific and engineering disciplines. The findings of our study may help guide future studies of flow obstruction in granular materials, colloids, active matter and other systems in which collective motion can become blocked.\"",
+        "In the future, further research could explore how these critical dynamics vary across different materials and transport environments. Ultimately, a deeper understanding of the transition from flow to blockage could support more effective strategies for anticipating and controlling clogging in industrial processes, infrastructure and biological transport systems.",
         "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
         "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;"
       ],
       "external": true,
       "order": 3
+    },
+    {
+      "id": "phys-what-lurks-below-newfoundland-waters-a-marine-biologist-ex",
+      "title": "What lurks 'Below' Newfoundland waters? A marine biologist explains the science behind the show",
+      "dek": "When I learned that Netflix planned to film the miniseries Below, about a sea monster terrorizing a Newfoundland outport , I thought to myself: \"THIS I've gotta see!\"",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T23:00:02.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-lurks-newfoundland-marine-biologist-science.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "When I learned that Netflix planned to film the miniseries Below, about a sea monster terrorizing a Newfoundland outport , I thought to myself: \"THIS I've gotta see!\"",
+        "First, the series showcases coastal Newfoundland, where I was raised and live. Second, I have studied ocean life in the island's waters for most of my career. Third, it features the marine lab where I work , the Ocean Sciences Centre. And fourth, it stars a giant squid(-ish) animal (sorry, Josh Hartnett).",
+        "Giant squid have a special place in Newfoundland folklore and science, from early encounters with fishermen to some of the first scientific evidence of their existence.",
+        "One key player in this history was the Irish clergyman Moses Harvey , who moved to Newfoundland in 1852 and undertook natural history research in what was then a British colony.",
+        "Harvey's research included revealing the existence of giant squid to the world based on a specimen that washed ashore. Fishermen had brought it to him to photograph and communicate to the science community in London.",
+        "Fast forward to the 1960s, when the founding director of the Ocean Sciences Centre, Fred Aldrich , joined the faculty at Memorial University and soon focused his career on pursuing giant squid.",
+        "Although Aldrich tried to catch a living specimen, he only obtained squid that washed up on beaches.",
+        "Newfoundland is one of the global hot spots where giant squid appear more frequently, every 30 years or so (New Zealand is another, attesting to giant squid's affinity for cooler waters). Below's arrival roughly coincides with one of those cycles.",
+        "The Rooms provincial museum in St. John's displays a preserved version of one of these amazing animals.",
+        "Early in the series, we meet an (oddly) barefooted marine biologist walking through the hallways of the marine lab. This scene earned a loud \"ewww\" from my graduate students on the grounds of hygiene as well as occupational health and safety.",
+        "The biologist turns out to be the expert on giant squid and the voice of sanity when fishermen, the military and a local developer all pursue the creature (nicknamed \"Mudder\" by the locals, foreshadowing why she is attacking the community) with bloodlust.",
+        "This marine biologist also provides impromptu medical expertise when residents fall ill from drinking ice water tainted by the animal. (Side note: DO NOT entrust your local marine biologist with urgent medical needs—we are not that type of doctor! )",
+        "I could join the Facebook crowd quibbling about who got the Newfoundland accents right and who missed the mark. Or I could ask why the Coast Guard would fully abandon people living on a small, isolated island in crisis.",
+        "But Below generally did a good job on the science. The biology of the animal was reasonably plausible, including its swimming skills and even its ability to survive in ice."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "scitechdaily-scientists-just-found-a-key-ingredient-for-superconductivi",
+      "title": "Scientists Just Found a Key Ingredient for Superconductivity at Room Temperature",
+      "dek": "Researchers have discovered that a key requirement for superconductivity can persist even at room temperature.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T22:42:16.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-just-found-a-key-ingredient-for-superconductivity-at-room-temperature/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Researchers have discovered that a key requirement for superconductivity can persist even at room temperature.",
+        "Scientists searching for a superconductor that works at room temperature have identified a potential way forward. New research from Utrecht, Leiden, and Munich shows that electrons can form the pairs needed for superconductivity even at room temperature. The findings, published in Science , suggest that a different requirement may be preventing these materials from conducting electricity without resistance.",
+        "The key appears to be how paired electrons behave collectively. Although the pairs can survive at much higher temperatures than previously understood, they must also act in a coordinated way for superconductivity to emerge.",
+        "Electrical resistance causes energy to be lost as heat whenever current passes through an ordinary conductor. This is useful in a toaster, where resistance heats a metal wire until it glows, but undesirable in power transmission and electronic devices. Superconductors eliminate electrical resistance, potentially enabling more efficient energy storage, levitating trains, and advanced quantum computers.",
+        "The obstacle is temperature. Many superconductors must be cooled to approximately -260°C (-436°F), often using expensive liquid helium. Superconductivity was first discovered in 1911, and researchers made major progress in the mid-1980s when they identified materials that could become superconducting at temperatures around -173°C (-279°F). Yet these higher-temperature superconductors presented a mystery: the established theory explaining conventional superconductivity could not account for their behavior.",
+        "“We don’t understand superconductivity at these higher temperatures at all,” says Ingmar Swart [LINK], one of the research leaders. “And if you don’t understand it, you can’t systematically search for materials that become superconducting at room temperature, which is ultimately our goal.”",
+        "Superconductivity requires two essential conditions. First, electrons must form partnerships known as Cooper pairs. Second, those pairs must move in a coordinated quantum state called phase coherence. Without both conditions, a material cannot sustain superconductivity.",
+        "In conventional superconductors, electron pairing and phase coherence emerge together as the material cools below a critical temperature. The new research shows that these processes can occur separately in high-temperature superconductors. Electron pairs can form and remain stable at temperatures far above the point where electrical resistance disappears, including at room temperature.",
+        "“This is really good news,” says Swart. “We show that one of the two key conditions for superconductivity can be met at room temperature. If that weren’t possible, room-temperature superconductivity would be out of reach altogether.”",
+        "The findings indicate that the interaction binding electrons into pairs can remain sufficiently strong at room temperature. This shifts attention toward phase coherence, which may be the limiting factor preventing superconductivity at higher temperatures.",
+        "“The ‘glue’ that holds the pairs together is strong enough to keep them together even at room temperature,” says Swart. “This suggests that the second key ingredient, phase coherence, is the bottleneck.”",
+        "The researchers have not demonstrated room-temperature superconductivity, but their results help narrow the search for what is missing. Swart plans to investigate how phase coherence develops and what prevents electron pairs from achieving it at higher temperatures.",
+        "“If we understand phase coherence, it may point to a path toward superconductivity at higher temperatures.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "phys-looping-dna-may-help-flowers-grow-nectar-producing-organs",
+      "title": "Looping DNA may help flowers grow nectar-producing organs",
+      "dek": "Nectaries are specialized floral tissues that secrete nectar to attract pollinators. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T22:40:05.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-looping-dna-nectar.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Nectaries are specialized floral tissues that secrete nectar to attract pollinators. Although the protein CRABS CLAW (CRC) is established as essential for nectary formation, the exact molecular mechanisms governing how it drives organ growth and secretion have remained unknown.",
+        "To understand the mechanism, a research team led by Professor Toshiro Ito from the Laboratory of Molecular Genetics of Floral Development, Nara Institute of Science and Technology (NAIST), Japan, worked toward identifying key genes and regulatory connections underlying nectary development and function.",
+        "The findings were published online in the journal Nature Communications .",
+        "The researchers combined single-nucleus RNA sequencing with spatial transcriptomics in Arabidopsis thaliana, a widely popular model plant. Their analyses identified CRC and MYB expression in nectary-associated cell populations.",
+        "\"We discovered that CRC and MYB proteins help form a DNA loop that promotes the growth of nectar-producing organs in flowers. We also found that CRC regulates genes involved in sugar transport and the synthesis of scent-related compounds,\" says Ito.",
+        "They also found that CRC interacts with three MYB proteins, namely MYB21, MYB24 and MYB57. Plants lacking the functions of all these proteins developed smaller nectaries, highlighting their contribution to nectary growth.",
+        "The team then focused on MAB4, a gene involved in nectary growth. They identified a regulatory DNA region downstream of MAB4 that acts as an enhancer whose disruption reduced MAB4 expression and resulted in smaller nectaries. Crucially, they detected a physical contact between the region near the MAB4 transcription start site and the downstream enhancer, a connection that was significantly reduced in the absence of functional CRC.",
+        "Based on these findings, the researchers proposed a model in which CRC and MYB proteins form a chromatin loop to activate MAB4, which regulates auxin transport to drive nectary growth.",
+        "Beyond organ development, the study revealed that CRC also regulates genes associated with sugar transport and terpene synthesis, including pathways involved in floral fragrance.",
+        "\"Our study reveals connections between long-range DNA interactions, gene expression, auxin distribution and organ growth, providing new insights and broader understanding of plant organ development,\" says Ito.",
+        "Future research could explore how CRC-dependent gene regulation influences the quantity and composition of nectar and the production of floral scent compounds.",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "In Arabidopsis, CRC interacts with MYB21, MYB24 and MYB57 to support nectary growth. CRC-dependent contact between a downstream enhancer and the MAB4 promoter supports a DNA-looping model linking MAB4 activation to auxin-mediated growth. CRC also regulates genes involved in sugar transport and terpene synthesis.",
+        "Please select the most appropriate category to facilitate processing of your request"
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "scitechdaily-scientists-discover-a-hidden-weakness-in-one-of-the-deadli",
+      "title": "Scientists Discover a Hidden Weakness in One of the Deadliest Cancers",
+      "dek": "Researchers have identified another potential approach to treating pancreatic cancer, with early experiments suggesting that blocking a protein could slow tumor growth and…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T19:25:31.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-a-hidden-weakness-in-one-of-the-deadliest-cancers/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Researchers have identified another potential approach to treating pancreatic cancer, with early experiments suggesting that blocking a protein could slow tumor growth and strengthen immune defenses.",
+        "Pancreatic tumors can be surrounded by tissue so dense that it compresses blood vessels, making it difficult for nutrients to reach cancer cells. Even under these conditions, the cells continue growing. How they obtain the materials needed to survive has remained an important question.",
+        "Researchers at Fox Chase Cancer Center have identified one way pancreatic cancer cells obtain cholesterol and other fats, known as lipids. Their study, published in Nature Cancer , also identified a protein that helps control this process and could offer a potential target for cancer treatment.",
+        "The research focused on pancreatic ductal adenocarcinoma (PDAC), the most common type of pancreatic cancer. These tumors contain large numbers of cancer-associated fibroblasts (CAFs), cells that produce and organize connective tissue. As CAFs and their collagen fibers expand, they can compress nearby blood vessels, restricting the tumor’s blood supply.",
+        "Despite contributing to this nutrient shortage, CAFs also help cancer cells overcome it.",
+        "“We found that CAFs can act as a source of these nutrients,” said Edna Cukierman, PhD, a professor and co-leader of the Cancer Signaling and Microenvironment Program at Fox Chase and co-senior author of the study. “Using laboratory and animal models, we discovered that CAF units acquire cholesterol from the bloodstream and transfer it to nearby pancreatic cancer cells through a process called trogocytosis”",
+        "Trogocytosis occurs when one cell takes small pieces of another cell’s membrane during direct contact. In this case, pancreatic cancer cells acquire pieces of CAF membranes containing cholesterol and other lipids that support their survival and growth.",
+        "The researchers discovered that this transfer depends on a protein called anoctamin 6 (ANO6), which helps prepare the CAF membrane for the exchange.",
+        "“These findings help explain how pancreatic cancer cells obtain essential nutrients despite the unusual structure of the pancreatic tumor microenvironment,” said Igor Astsaturov, MD, PhD, a professor at Fox Chase and co-senior author of the study. “Cancer-associated fibroblasts are not passive bystanders. They actively support tumor growth by transferring lipids to cancer cells.”",
+        "When researchers reduced or eliminated ANO6 in CAFs, the cells became less effective at supporting pancreatic cancer cell survival. In mouse models, tumors supported by CAFs with functional ANO6 grew substantially faster than those without functional ANO6.",
+        "The same nutrient transfer process also appeared to interfere with the immune system.",
+        "Cytotoxic T lymphocytes (CTLs) are immune cells that recognize and kill cancer cells. When these T cells come into contact with CAFs, they can acquire membrane material containing cholesterol. Excess cholesterol in the tumor environment can contribute to T-cell exhaustion, making these immune cells less effective at fighting cancer.",
+        "“With Serge Fuchs, professor at the University of Pennsylvania and co-author on the paper, we were surprised to find that the same cellular mechanism can benefit the tumor in two ways – by supplying cancer cells with lipids while also weakening cancer-fighting T cells,” said Astsaturov. “Targeting ANO6 could potentially disrupt both of these tumor-supporting functions at the same time.”",
+        "In mouse models, blocking ANO6 reduced cholesterol accumulation in T cells within tumors and improved markers of their activity. Laboratory experiments also showed that T cells exposed to CAFs with reduced ANO6 were better able to kill cancer cells."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "conversation-you-likely-have-genes-that-affect-how-well-your-medication",
+      "title": "You likely have genes that affect how well your medications work – testing for them could improve treatment",
+      "dek": "All people carry differences in their DNA that could affect how they respond to medication , according to my team’s newly published research. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T19:00:24.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/you-likely-have-genes-that-affect-how-well-your-medications-work-testing-for-them-could-improve-treatment-296352"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "All people carry differences in their DNA that could affect how they respond to medication , according to my team’s newly published research. Moreover, 1 in 4 already take a medication their body processes differently because of their genetics.",
+        "Clinicians often take a trial and error approach to prescriptions. Two people take the same medicine at the same dose. One starts feeling better, but the other experiences side effects or sees little benefit. For some medications, part of the reason behind that difference in response is written in a person’s DNA.",
+        "The field of pharmacogenomics studies how variations in your DNA contribute to how your body processes and responds to medicines. For instance, genes can influence how quickly your liver breaks down a drug and how long it stays in your bloodstream.",
+        "But using genetic testing to guide prescriptions is not yet routine. Part of the problem is a lack of large population data to study this approach more broadly. Clinicians don’t know when it’s best to order genetic testing. And because most genetic research has been done on people of European ancestry , researchers know less about how common key gene variants are in everyone else.",
+        "To improve the diversity of pharmacogenomic data, my team of researchers and I analyzed the whole genome sequences and health records of nearly 100,000 participants in the All of Us Research Program . All of Us is an effort from the National Institutes of Health to study the health of 1 million or more people across the U. S. and its territories, with a focus on groups historically left out of biomedical research.",
+        "We examined 16 genes with well-established links to how someone responds to different medications, pairing this data with electronic health records to identify which drugs participants had already taken.",
+        "We found that every participant carried at least one relevant genetic variant , and many carried several. Around 99. 5% of participants had a genetic variant for which the Food and Drug Administration or medical guidelines recommend a different drug or change in dose for certain medications.",
+        "Even more telling, about 24% had taken a drug that is affected by a genetic variant they carried. Common examples included drugs used to reduce excess stomach acid, such as omeprazole and pantoprazole, and statins used to lower cholesterol levels. Because health records can be incomplete, our results likely underestimate the actual prevalence of these gene-drug interactions.",
+        "These findings can help improve the databases clinicians and researchers use routinely in research. We identified 17,704 previously unreported variants in the regions of these genes that encode proteins. Computer models predicted that about a quarter may have significant effects on how the body processes drugs.",
+        "Our team also reported the frequencies of hundreds of genetic variants linked to drug response for people from genetic ancestries that previously had incomplete data.",
+        "Overall, our research shows that DNA variation is very common, and broader genetic testing may help optimize the medications clinicians prescribe to patients. It’s also an example of how big initiatives such as the All of Us Research Program can advance precision medicine .",
+        "However, this study doesn’t prove testing would improve outcomes for each of these people. Additionally, genes are only one factor; age, kidney and liver function, and other medications also affect how the body processes drugs .",
+        "Still, I believe the direction of the research is clear. Pharmacogenomics can provide potentially relevant benefits for many people who take medications.",
+        "Philip Empey receives funding from the NIH, Veterans Administration, Shear Family Foundation and Myers Family Foundation."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-could-vitamin-b12-hold-the-key-to-treating-a-rare-genetic-",
+      "title": "Could Vitamin B12 Hold the Key to Treating a Rare Genetic Disorder?",
+      "dek": "A search for genes linked to lifespan uncovered an unexpected connection between RNA splicing, metabolism, and developmental disorders.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T18:50:37.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/could-vitamin-b12-hold-the-key-to-treating-a-rare-genetic-disorder/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "A search for genes linked to lifespan uncovered an unexpected connection between RNA splicing, metabolism, and developmental disorders.",
+        "A mutation linked to a rare developmental disorder appears to interfere with more than the way cells process genetic instructions. Researchers discovered that it also disrupts vitamin B12-dependent metabolism in tiny roundworms. Supplying the vitamin restored key metabolic processes and corrected developmental abnormalities in the animals, raising questions about whether a similar approach could eventually help people.",
+        "The findings concern Verheij syndrome, a rare genetic disorder that causes developmental delays, growth problems, and short stature in children. The condition is associated with changes in a gene involved in RNA splicing, an essential process that prepares messenger RNA for protein production. During splicing, cells remove unnecessary sections of RNA and join the remaining pieces to form instructions that can be used to build proteins.",
+        "The discovery emerged from experiments with the roundworm C. elegans , a widely used model organism in biological research. Scientists were initially searching for genes that influence lifespan when they identified a mutation in a splicing-related gene associated with Verheij syndrome in humans. Worms carrying the mutation grew more slowly and remained unusually small, resembling some of the developmental problems seen in affected children.",
+        "Further genetic screening and metabolic analysis showed that the mutation altered biochemical pathways that depend on vitamin B12. These pathways support normal growth and cellular function. When researchers administered vitamin B12 to the affected worms, the disrupted metabolic processes returned to normal, and the animals’ developmental defects were corrected.",
+        "“We were surprised to find that a change in a fundamental process of RNA processing had such a targeted effect on vitamin B12-dependent metabolism,” says Jonathan Kölschbach, first author of the study. “Even more exciting was that we were able to largely correct the consequences of this change in the worm model using vitamin B12.”",
+        "To investigate whether similar metabolic disruptions occur in humans, the researchers examined publicly available data from human cells. They also worked with Hormos Dafsari, a neuropediatrician at University Hospital Cologne, to obtain blood samples from patients with Verheij syndrome. The analyses provided evidence that metabolic pathways affected in the worms may also be altered in people with the condition.",
+        "However, the results do not establish that vitamin B12 supplementation can treat Verheij syndrome in humans. Additional research is needed to determine whether the metabolic changes contribute directly to patients’ symptoms and whether correcting them could provide clinical benefits. The findings also suggest that metabolic dysfunction may deserve greater attention in other genetic disorders involving defective RNA splicing.",
+        "“Our study is a good example of how basic research on model organisms can provide new insights into human diseases,” says Adam Antebi, Director at the Max Planck Institute for Biology of Ageing and lead author of the study. “A fundamental biological question can thus give rise to a new approach that could also become medically relevant in the long term.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-scientists-discover-that-male-and-female-hearts-age-in-sur",
+      "title": "Scientists Discover That Male and Female Hearts Age in Surprisingly Different Ways",
+      "dek": "The heart may age very differently from one region to another. ",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T18:15:27.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-that-male-and-female-hearts-age-in-surprisingly-different-ways/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "The heart may age very differently from one region to another. A detailed study of mouse hearts found that molecular signs associated with chronic inflammation and tissue scarring were concentrated around the aortic valves and aortic root, rather than being distributed evenly throughout the organ.",
+        "Researchers at The Jackson Laboratory (JAX) identified these hotspots by mapping thousands of cells from young and aged mice. Published in Aging Cell , the findings suggest that structures often overlooked in cardiac aging research may play a central role in how the heart changes over time.",
+        "Previous studies of cardiac aging have largely concentrated on heart muscle, particularly the left ventricle, which pumps oxygenated blood into the aorta and throughout the body. Because mammalian heart muscle cells have very limited capacity for regeneration, understanding how they deteriorate with age has been a major research priority. The JAX team instead examined the entire heart, using single-cell and spatial genomics technologies to identify both the molecular activity of individual cells and their locations within the organ.",
+        "“The valves and the major blood vessels are parts often thought of as plumbing rather than the main engine, but this is a very complicated little machine,” said study author Nadia Rosenthal, scientific director at JAX. “It turns out they’re home to many of the cells we’re interested in, and that’s where some of the most important aging-related signals were concentrated.”",
+        "“Some of the markers associated with inflammaging were there from the very beginning in young hearts, but they were focused specifically in areas no one had defined before, in the valves and the aorta rather than in muscle tissue,” Rosenthal said. “We really have to think of aging as something that is not linear, because just like we know that people don’t age at the same rate, what we know now is that organs and tissues don’t age at the same rate either, even within one individual.”",
+        "Aging is associated with persistent, low-grade inflammation, sometimes called “inflammaging.” The researchers focused on two cell populations involved in this process: immune cells that help regulate inflammation (macrophages) and structural cells responsible for maintaining connective tissue and producing scar tissue (fibroblasts). In older mouse hearts, macrophages showed increased activity in genes associated with inflammation and tissue remodeling, while fibroblasts exhibited molecular patterns linked to fibrosis (or scarring).",
+        "“To keep muscle cells happy, the other cells in the heart have to continue supporting them throughout life,” Rosenthal said. “What this study does, for the first time, is provide a comprehensive picture of how those support cells, particularly fibroblasts and macrophages, change with age and contribute to what we call inflammaging.”",
+        "The team also detected increased activity in two genes within the identified hotspots. Ccl8 produces an inflammatory signaling molecule, while Cdkn1a (also known as p21) helps regulate the cell cycle and is commonly associated with cellular senescence. Their activity points to changes in signaling between neighboring cells, not simply isolated changes within individual cell types. “We’re not talking about single genes. We’re talking about an entire conversation between immune cells and fibroblasts. As the heart ages, the way those cells communicate changes, and that shift appears to be linked to the inflammation and tissue remodeling we see in older hearts,” Rosenthal said.",
+        "Some molecular markers traditionally associated with senescent cells were already present in young mouse hearts. Cellular senescence occurs when cells permanently stop dividing, often following stress or damage. Senescent cells can contribute to inflammation and tissue deterioration, but the researchers found that the presence of commonly used senescence markers does not necessarily establish that a cell has entered this state.",
+        "“What surprised us was that some of these markers that have been associated with aging were already present in young hearts. They weren’t where anyone expected to find them, and that forced us to rethink what those markers are telling us,” Rosenthal said. “That turns the usual interpretation of cardiac aging on its ear because these markers alone don’t mean a cell is senescent. There’s nothing senescent about a six-month-old mouse heart.”"
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "conversation-the-religious-left-may-be-rising-but-black-christian-women",
+      "title": "The ‘religious left’ may be rising – but Black Christian women have been there all along",
+      "dek": "During campaign season, headlines were full of candidates who spoke openly about their faith – and many of them were Democrats.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T17:47:30.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/the-religious-left-may-be-rising-but-black-christian-women-have-been-there-all-along-296110"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "During campaign season, headlines were full of candidates who spoke openly about their faith – and many of them were Democrats.",
+        "Adam Hamilton , the new senator-elect from Kansas, is pastor of the United States’ largest United Methodist congregation. Frederick Haynes , who will represent a Texas district in the U. S. House of Representatives, is a Baptist pastor. Texas Sen. -elect James Talarico is a Presbyterian seminary student who put a biblical commandment – “Love thy neighbor” – at the center of his campaign.",
+        "Since election night, journalists and commentators have attributed a significant amount of credit for the proverbial “Blue Wave” to the religious left . Although some mention Michigan Sen. -elect Abdul El-Sayed, who is Muslim, and Ohio Gov. -elect Amy Acton, who is Jewish, the focus has been on progressive Christians .",
+        "As a scholar of race, gender and religion whose work focuses on Black Protestant Christianity , I found post-election reporting about a rise in the religious left curious. Voters from many faith traditions did help power the “Blue Wave,” but one often-overlooked group has long been the left’s staunchest supporters: Black Christian women.",
+        "Focus on the “return” of the religious Democrats highlights the contrast between the religious diversity on the left and the allegiance between MAGA Republicans and evangelicals on the right . According to NBC exit polls , 82% of voters who consider themselves white evangelicals or born-again Christians voted for GOP candidates in 2026. In 2024, 82% of evangelicals in 10 key states voted for President Donald Trump .",
+        "But talking about religious Democrats as if they are a new, shiny bauble implies that, until this election, religious progressives have been off the ballot. That is simply not the case, especially when it comes to Black women.",
+        "Over the last four elections , majorities of both female voters and Black voters have voted blue . Black women vote for Democrats by an ever bigger margin : 93%, in 2026 exit polls, compared with 59% of women overall and 86% of Black men. Although Black women account for only 5-7% of Americans, they have been the most consistent Democratic voting bloc.",
+        "More than 7 in 10 Black Americans are Christian , and the vast majority are Protestant. Another 4% belong to other faiths, including Islam, and 22% are religiously unaffiliated. According to Pew’s 2023-24 Religious Landscape Survey , 2 in 3 members of Black Protestant denominations are women.",
+        "Many Black women candidates spoke about faith on the campaign trail.",
+        "For example, Keisha Lance Bottoms , the governor-elect of Georgia, attends a Methodist church . A few days after her victory, she spoke at the historic Ebenezer Baptist Church in Atlanta, pastored by Democratic Sen. Raphael Warnock of Georgia. During her visit, Lance Bottoms recalled that she had prayed about whether to run for governor and said that “God told me to go.” Her billionaire opponent was a “Goliath,” she said, but “ our God supplied all of our needs .”",
+        "Anita Earls , who was re-elected as a judge on the North Carolina Supreme Court, is a longtime member of the African Methodist Episcopal Church .",
+        "Among sitting Democrats, Delaware Sen. Lisa Blunt Rochester has spoken about her Christian faith . Massachusetts Rep. Ayanna Pressley , who grew up Baptist, has called herself “ a sister in Christ and a woman of faith. Someone who believes in the power of prayer.”",
+        "Before them was Shirley Chisholm , who became the first Black woman elected to Congress in 1968. Four years later, she was the first Black woman to run for president on the Democratic ticket. Her 1970 memoir, “ Unbought and Unbossed ,” recounts her commitment to progressive ideals, ranging from education to women’s reproductive rights, and to her Christian faith.",
+        "“America has the laws and the material resources it takes to ensure justice for all its people,” she wrote . “What it lacks is the heart, the humanity, the Christian love that it would take. It is perhaps unrealistic to hope that I can help give this nation any of those things, but that is what I believe I have to try to do.”",
+        "Before Black women were voted into office, however, they were already pillars of progressive politics . Historically, Black churches have been more than a place to foster belief. They have also been community-based institutions that fostered social, political and economic justice.",
+        "Within Black denominations, men tend to hold senior leadership positions. In his famed book “ The Souls of Black Folk ,” sociologist W. E. B. DuBois observed that the Black preacher was also a community “leader, a politician, an orator, a ‘boss,’ an intriguer, an idealist.”",
+        "Women’s role was less public, but no less vital , including social and political organizing. In “ Witnessing and Testifying ,” religion professor Rosetta Ross showed how Black women’s faith and activism inspired each other during the Civil Rights Movement. Among the women Ross surveyed is Ella Baker, who organized the initial meeting for what would become the Student Nonviolent Coordinating Committee and often “used Christian scripture to admonish listeners to fight” for freedom.",
+        "Women like Baker, voting rights activist Fannie Lou Hamer , and Clara Muhammad , wife of Nation of Islam founder Elijah Muhammad, show how Black communities’ concerns and faith often intertwined with progressive politics . In 1958, Nannie Helen Burroughs, founder of the Women’s Auxiliary of the National Baptist Convention , said that African American Christians wanted “ Jesus, jobs and justice .”",
+        "Today, too, faith guides many progressive Black women’s politics and public service. For voting rights activists, for example, casting a ballot is not just a right , but something sacred .",
+        "Over the past week, journalists and political pundits have drawn attention to the many different groups that moved to the left to fuel Democrats’ midterm victories, including young voters, Latinos, Asian Americans, men and political independents. Black women voters, meanwhile, have remained steady .",
+        "Indeed, history has shown how their steadiness helped guide the Democratic Party’s political and moral compass . And I am willing to wager that they will continue to play an essential role in what the left does between now and 2028.",
+        "Dara Delgado does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "scitechdaily-james-webbs-mysteriously-bright-galaxies-may-finally-have-",
+      "title": "James Webb’s Mysteriously Bright Galaxies May Finally Have an Explanation",
+      "dek": "Calculations suggest powerful ultraviolet light from young stars could sweep gas out of early galaxies while leaving dense star-forming regions intact, offering a clue to…",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T15:46:32.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/james-webbs-mysteriously-bright-galaxies-may-finally-have-an-explanation/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Calculations suggest powerful ultraviolet light from young stars could sweep gas out of early galaxies while leaving dense star-forming regions intact, offering a clue to their mysterious brightness.",
+        "The James Webb Space Telescope has revealed something unexpected about the early universe: bright galaxies were far more common just a few hundred million years after the Big Bang than astronomers thought possible. A new analysis suggests these galaxies may not necessarily be producing more light than expected. Instead, powerful ultraviolet radiation from young stars could be clearing away gas and dust, allowing more of their light to reach us.",
+        "Researchers at the Simons Foundation’s Flatiron Institute in New York City and the University of Texas at Dallas investigated this possibility by examining how ultraviolet light called Lyman-alpha radiation interacts with material surrounding young stars. Their findings, published November 4 in The Astrophysical Journal , suggest that this radiation can drive gas and dust out of less dense regions of galaxies, potentially explaining why some of the earliest galaxies appear unusually bright.",
+        "“Our results show Lyman-alpha radiation can push low-density gas and dust away really, really fast,” says Shyam Menon, a research fellow at the Flatiron Institute’s Center for Computational Astrophysics and the study’s lead author. “It can sort of clear the ‘fog,’ allowing us to see stars in the early universe much more clearly than we would otherwise.”",
+        "Lyman-alpha radiation forms when an electron collides with a hydrogen atom or joins a hydrogen ion, and it can be especially abundant in regions where young stars are forming. When this light encounters gas or dust, it transfers momentum to the material, creating pressure that can push it outward.",
+        "What makes Lyman-alpha radiation particularly powerful is how hydrogen responds to it. While most absorbed light is released at a different wavelength, hydrogen atoms almost immediately re-emit Lyman-alpha radiation at the same wavelength, allowing nearby atoms to absorb and release it repeatedly. These repeated interactions increase the force exerted by the light, potentially pushing surrounding material away from regions where stars are forming.",
+        "Astronomers have long suspected that this pressure could reshape stellar nurseries by removing gas needed for star formation, possibly even stopping the process under extreme conditions. However, the repeated interactions between radiation and hydrogen are difficult to reproduce in computer simulations, making it challenging to determine how much influence the radiation actually has.",
+        "“We’ve known for a very long time that Lyman-alpha radiation could be important because it carries a lot of force,” Menon says. “But we’ve never actually been able to estimate how important it is in a realistic environment because of how challenging it is to model.”",
+        "To address this problem, Menon and collaborator Aaron Smith of the University of Texas at Dallas analyzed snapshots from an existing simulation of a star-forming region in the early universe. Rather than tracking every interaction between light and matter, they calculated how much pressure Lyman-alpha radiation would exert on the surrounding gas and dust.",
+        "Their calculations revealed that the radiation behaves differently depending on the density of the surrounding material. In dense star-forming regions, gravity remained strong enough to hold gas and dust in place despite the outward pressure, suggesting that Lyman-alpha radiation had little effect on star formation there. In less crowded regions between stars, however, the radiation could overcome gravity and drive material outward at high speeds.",
+        "Multiple views of a 2. 5-million-year simulation visualizing a gas cloud as it is cleared away and the formation of stars. From left to right, the views show the gas density, ionization, and temperature. Credit: Shyam Menon (Flatiron Institute) and Aaron Smith (UT Dallas)",
+        "“When the density is low enough, the Lyman-alpha radiation can push the gas to really high speeds, launching explosive winds that can shoot material clear out of the galaxy,” Menon says.",
+        "These winds could help explain the unexpectedly bright galaxies detected by the James Webb Space Telescope. By removing loosely distributed gas and dust from between stars, the radiation may create clearer paths for starlight to escape, making distant galaxies appear brighter without requiring them to produce unusually large amounts of light."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "scitechdaily-a-planet-11-times-bigger-than-jupiter-is-challenging-what-",
+      "title": "A Planet 11 Times Bigger Than Jupiter Is Challenging What We Thought About Planet Formation",
+      "dek": "New observations of the giant exoplanet Beta Pictoris b are challenging assumptions about how and where massive planets form.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T15:11:34.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-planet-11-times-bigger-than-jupiter-is-challenging-what-we-thought-about-planet-formation/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "New observations of the giant exoplanet Beta Pictoris b are challenging assumptions about how and where massive planets form.",
+        "New observations of Beta Pictoris b, a massive planet orbiting a young star, are challenging a method astronomers hoped could reveal where giant planets form. More precise measurements of the planet’s atmosphere have overturned an earlier result, raising doubts about whether a particular chemical signature can reliably trace a planet’s birthplace.",
+        "Located in a 23-million-year-old planetary system, Beta Pictoris b is approximately 11 times Jupiter’s mass. It orbits about 10 astronomical units (approximately 930 million miles) from its star, completing one revolution every 23 years. Earlier atmospheric measurements suggested the planet might have formed much farther away before migrating inward, but the latest evidence points to a different possibility.",
+        "Astronomers have proposed using the relative abundance of two forms of carbon monoxide (CO) to determine where giant planets formed within their original disks of gas and dust. These molecules contain different carbon isotopes, 12C and 13C, which have the same number of protons but different numbers of neutrons. Their slightly different masses can influence how they behave during chemical processes.",
+        "The method relies on the carbon monoxide snowline, the distance from a young star beyond which temperatures become cold enough for CO gas to freeze onto dust grains. Planets forming beyond this boundary may accumulate carbon monoxide ice, potentially leaving a different isotopic signature than planets that develop in warmer regions where CO remains gaseous.",
+        "Earlier observations of Beta Pictoris b using the original GRAVITY instrument produced a relatively low ratio of 12CO to 13CO. That result appeared consistent with formation beyond the snowline, followed by inward migration to the planet’s present orbit. However, the researchers cautioned that instrumental limitations could have affected the measurement.",
+        "A team led by Antonia von Stauffenberg, a doctoral student at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany, has now revisited the planet using GRAVITY+. The upgraded instrument operates at the Very Large Telescope Interferometer (VLTI), managed by the European Southern Observatory (ESO) in Chile.",
+        "The new observations reveal a substantially higher 12CO/13CO ratio than previously reported. While 12CO produces a readily detectable signal, its less abundant counterpart, 13CO, is considerably harder to measure accurately. GRAVITY+ provides improved adaptive optics and greater observational precision, allowing researchers to better distinguish the two molecules.",
+        "“The GRAVITY+ interferometric instrument is highly stable […], making it uniquely capable of high-fidelity characterization of directly imaged exoplanets,” says co-author and MPIA scientist Jonas Sauter.",
+        "The revised ratio agrees with independent measurements reported by González Picos et al. (2026) using a different instrument. This agreement supports the new result and indicates that systematic uncertainties affected the earlier GRAVITY measurements.",
+        "The researchers also detected tentative variations in the planet’s observed brightness. These fluctuations appear to follow a period of approximately 8. 7 hours, close to the planet’s rotation period.",
+        "If confirmed, the variations could arise from atmospheric clouds or chemical differences moving in and out of view as the planet rotates. However, the evidence remains statistically weak, and more sensitive observations will be necessary to establish whether the changes are real.",
+        "“The ability to accurately constrain both isotopologues and potential rotational variability using ground-based observations of a bona fide planet such as Beta Pictoris b demonstrates the exceptional data quality achieved with the updated GRAVITY+ instrument,” says von Stauffenberg.",
+        "Under the proposed formation model, the revised carbon monoxide ratio would favor an origin inside the snowline, consistent with Beta Pictoris b’s current orbital distance. Yet the measurement also closely resembles ratios observed throughout the Solar System and the interstellar medium, the gas and dust occupying the space between stars."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "nasa-water-surges-into-navajo-reservoir",
+      "title": "Water Surges Into Navajo Reservoir",
+      "dek": "Back-to-back extreme rain events inundated the Four Corners region of the U. S. ",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T05:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Back-to-back extreme rain events inundated the Four Corners region of the U. S. Southwest in late October and early November 2026. The storms alleviated short-term drought conditions in the Southwest but caused river levels to spike to record or near-record levels in places, triggering damaging floods.",
+        "One effect of the heavy rains detected by satellites was the rapid rise of water levels in Navajo Reservoir. The change is visible in the images above, acquired on September 20 (left) and November 7 (right) with the OLI (Operational Land Imager) on Landsat 9 . In that time, the lake in northern New Mexico and southern Colorado rose by nearly 60 feet (18 meters), according to data from the U. S. Army Corps of Engineers. (Note that the Bureau of Reclamation decreased releases from Navajo Dam on September 16 and 17. )",
+        "On November 7, the reservoir stood at its highest level since August 2019 and at 108 percent of the average capacity for that date. That contrasts with September 20, when it held just 60 percent of its average capacity. Due to snow drought across the West in winter 2025-26, the lake saw relatively little growth in the spring, when snowmelt often raises water levels.",
+        "The San Juan, Piedra, and other rivers swelled with runoff amid the wet weather. Pagosa Springs, Colorado, a town along the San Juan River about 40 miles (64 kilometers) northeast of the lake, was especially hard-hit by flooding. In the first round of rain, 5. 05 inches (12. 8 centimeters) fell in the town, and on October 23 the river reached major flood stage . After more rain, the river spiked again on November 1, this time nearly to the record level set in 1911 during a devastating flood . Officials issued evacuation orders, and responders rescued dozens of people, according to news reports , while water inundated streets and damaged property.",
+        "Heavy rain and flooding have been widespread across southwest Colorado, southeast Utah, northern Arizona, and northwest New Mexico in recent weeks. From early September through early November, precipitation totals were 2 to 4 times the average throughout the Four Corners region—an area beset by long-term drought that was exacerbated by snow drought and high temperatures in 2026.",
+        "Though the downpours posed hazards to communities along many rivers, they did provide drought relief throughout the region. Weekly U. S. Drought Monitor maps, derived from a suite of satellite data products and ground-based observations, have indicated improvements to drought conditions due to the fall storms. The group’s November 3 summary noted that “short-term drought has ended for the Southwest and Great Basin,” although long-term drought persists in places.",
+        "Wet weather in the Southwest is often associated with El Niño events, when the segment of the jet stream flowing eastward near the equatorial Pacific tends to strengthen. Experts noted that the low-pressure system delivering the heavy rainfall in autumn 2026 was at a low latitude for the time of year and drew energy from unusually high ocean temperatures. El Niño patterns—like the one currently underway —can increase the likelihood of moisture-laden storms being steered across the Southwest interior."
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "nasa-news-water-surges-into-navajo-reservoir",
+      "title": "Water Surges Into Navajo Reservoir",
+      "dek": "Back-to-back extreme rain events inundated the Four Corners region of the U. S. ",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T05:01:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Back-to-back extreme rain events inundated the Four Corners region of the U. S. Southwest in late October and early November 2026. The storms alleviated short-term drought conditions in the Southwest but caused river levels to spike to record or near-record levels in places, triggering damaging floods.",
+        "One effect of the heavy rains detected by satellites was the rapid rise of water levels in Navajo Reservoir. The change is visible in the images above, acquired on September 20 (left) and November 7 (right) with the OLI (Operational Land Imager) on Landsat 9 . In that time, the lake in northern New Mexico and southern Colorado rose by nearly 60 feet (18 meters), according to data from the U. S. Army Corps of Engineers. (Note that the Bureau of Reclamation decreased releases from Navajo Dam on September 16 and 17. )",
+        "On November 7, the reservoir stood at its highest level since August 2019 and at 108 percent of the average capacity for that date. That contrasts with September 20, when it held just 60 percent of its average capacity. Due to snow drought across the West in winter 2025-26, the lake saw relatively little growth in the spring, when snowmelt often raises water levels.",
+        "The San Juan, Piedra, and other rivers swelled with runoff amid the wet weather. Pagosa Springs, Colorado, a town along the San Juan River about 40 miles (64 kilometers) northeast of the lake, was especially hard-hit by flooding. In the first round of rain, 5. 05 inches (12. 8 centimeters) fell in the town, and on October 23 the river reached major flood stage . After more rain, the river spiked again on November 1, this time nearly to the record level set in 1911 during a devastating flood . Officials issued evacuation orders, and responders rescued dozens of people, according to news reports , while water inundated streets and damaged property.",
+        "Heavy rain and flooding have been widespread across southwest Colorado, southeast Utah, northern Arizona, and northwest New Mexico in recent weeks. From early September through early November, precipitation totals were 2 to 4 times the average throughout the Four Corners region—an area beset by long-term drought that was exacerbated by snow drought and high temperatures in 2026.",
+        "Though the downpours posed hazards to communities along many rivers, they did provide drought relief throughout the region. Weekly U. S. Drought Monitor maps, derived from a suite of satellite data products and ground-based observations, have indicated improvements to drought conditions due to the fall storms. The group’s November 3 summary noted that “short-term drought has ended for the Southwest and Great Basin,” although long-term drought persists in places.",
+        "Wet weather in the Southwest is often associated with El Niño events, when the segment of the jet stream flowing eastward near the equatorial Pacific tends to strengthen. Experts noted that the low-pressure system delivering the heavy rainfall in autumn 2026 was at a low latitude for the time of year and drew energy from unusually high ocean temperatures. El Niño patterns—like the one currently underway —can increase the likelihood of moisture-laden storms being steered across the Southwest interior."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "conversation-glp-1-drugs-carry-risk-of-rare-but-serious-eye-condition-a",
+      "title": "GLP-1 drugs carry risk of rare but serious eye condition – a physician studying these medicines explains the potential side effect",
+      "dek": "GLP-1 drugs must now carry a warning label about a potential link to a rare eye condition that can result in vision loss, the U. S. ",
+      "category": "健康",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-10T23:07:25.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/glp-1-drugs-carry-risk-of-rare-but-serious-eye-condition-a-physician-studying-these-medicines-explains-the-potential-side-effect-296237"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "GLP-1 drugs must now carry a warning label about a potential link to a rare eye condition that can result in vision loss, the U. S. Food and Drug Administration announced on Nov. 9. 2026. The eye condition is called non-arteritic anterior ischemic optic neuropathy , or NAION, and doctors often refer to it as a stroke of the eye.",
+        "I am a clinician and epidemiologist who has studied GLP-1 drugs, and my colleagues and I published one of the studies that identified a link between GLP-1 drugs and NAION .",
+        "Millions of people around the world take these medications – including 30 million in the U. S. – to treat diabetes and obesity and reduce the risk of cardiovascular disease. They are also being investigated for an expanding list of clinical conditions .",
+        "The data on which the FDA’s warning is based suggests a real but low risk of NAION for people taking GLP-1 medications. This is not a trivial or inconsequential outcome for those who develop the eye stroke. But on balance, if you’re using the medication for an FDA-approved condition such as diabetes or obesity on the advice of your doctor, the risk should not deter you from doing so.",
+        "Here’s what patients who use GLP-1 drugs need to know about this rare but serious side effect.",
+        "NAION is an injury to the optic nerve , which is the nerve that connects the eye to the brain. This eye condition is caused by a sudden reduction in blood flow. Without enough blood flow, patients may experience sudden, painless blurry vision, dark patches, partial loss of vision or even blindness.",
+        "These symptoms generally persist and often lead to permanent visual impairment. Patients often notice these symptoms first thing in the morning when they wake up, as it tends to happen more frequently at night when blood pressure is naturally lower.",
+        "As use of GLP-1 drugs increased – particularly since 2021, when they were approved for obesity – cases of NAION began to emerge. A 2024 study of close to 17,000 patients referred to ophthalmology clinics was the first to show a potential link. It reported an increased risk of the eye condition among the subset of those patients who were prescribed a GLP-1 drug.",
+        "To determine that the connection was strong enough to merit a warning, the FDA first compiled data from 126 randomized, controlled clinical trials of GLP-1 drugs. Those trials included a total of 134,253 patients – 78,217 of them were on GLP-1 drugs and 56,036 received a placebo or a different medication, for comparison.",
+        "Per year, on average, the incidence of NAION cases was 6. 4 per 100,000 people for patients taking the GLP-1 drugs and 3. 8 per 100,000 among people given a placebo or other drug. This translated into 2. 6 extra cases of NAION per 100,000 patients on GLP-1 drugs.",
+        "In a separate analysis, the FDA reviewed GLP-1 drug data from its own network of sentinel programs that track the real-world safety of approved medications. They assessed how often people with type 2 diabetes who started either a GLP-1 drug or two other common types of diabetes medications reported having NAION between 2019 and 2024.",
+        "Patients taking GLP-1 drugs had a small but meaningfully higher risk compared to one type of diabetes drug, called DPP-4 inhibitors, which prevent the breakdown of the body’s own natural GLP-1. Over the course of one year, those taking GLP-1 drugs experienced NAION at a rate of 32 per 100,000 and those taking DPP-4 inhibitors at a rate of 26 per 100,000. This resulted in 6 extra cases of NAION per 100,000 patients among people on GLP-1 drugs.",
+        "Other studies that use real-world data such as electronic health records or insurance claims to track the health of people over many years have also found a consistent association between GLP-1 drugs and NAION .",
+        "For example, my colleagues and I tracked nearly 600,000 U. S. veterans with type 2 diabetes starting either a GLP-1 drug or a different drug over three years. For patients on GLP-1 drugs, we found that the incidence of this eye disorder was roughly 390 cases per 100,000 people, compared with 290 per 100,000 on an alternative medication. In other words, among people taking GLP-1 drugs, there were about 100 extra cases per 100,000 patients.",
+        "That number varied somewhat across studies, probably because of group differences among patients. For example, in some, patients were on average older, or also had other conditions that might contribute to their risk.",
+        "What’s clear is that the slightly increased risk of NAION does not seem to be specific to any one GLP-1 drug but can occur regardless of which GLP-1 drug a patient takes. It’s possible that some GLP-1 drugs may have a higher risk than others, but so far, there’s no research addressing this.",
+        "The FDA’s announcement follows a 2025 review by European regulators, which examined NAION risk in only one type of GLP-1 drug, called semaglutide. It concluded that this eye condition is a very rare side effect of semaglutide and mandated that the package insert be updated to include NAION as a very rare side effect.",
+        "The risk of NAION with GLP-1 drugs is likely real. All the evidence – the FDA’s two analyses, the real-world studies conducted by independent researchers and the fact that two regulators reached the same view independently – points in the same direction.",
+        "But in terms of the total number of people who are likely to experience this side effect, the risk is small. In my view, this makes the FDA’s warning not a cause for alarm but rather an unlikely but not impossible outcome that both clinicians and patients should be aware of.",
+        "Clinicians should discuss it with their patients before prescribing a GLP-1 drug – and patients should be educated on the symptoms of NAION and how to tell if they are experiencing it.",
+        "Patients should also seek immediate care at the earliest signs of vision problems. For patients who have previously had NAION or who already have risk factors for it , including smoking, diabetes, high blood pressure, sleep apnea, anemia and kidney disease, careful discussion weighing the risks and benefits is important.",
+        "Ziyad Al-Aly does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 16
     },
     {
       "id": "conversation-pa-gov-josh-shapiros-popularity-and-get-sh-t-done-attitude",
@@ -191,81 +663,7 @@
         "But Nov. 3, 2026, showed us that he knows how to make sh-t happen. Whatever he decides, the next two years will be important for Shapiro, consequential for Democrats, and fascinating for political scientists like me, who will be watching events unfold with a keen eye and, probably, a bucket of popcorn."
       ],
       "external": true,
-      "order": 4
-    },
-    {
-      "id": "phys-detailed-3d-view-of-babesiosis-parasites-ribosome-could-gu",
-      "title": "Detailed 3D view of babesiosis parasite's ribosome could guide development of targeted treatments",
-      "dek": "A new study has revealed a three-dimensional, near-atomic-resolution view of the ribosome from Babesia divergens, one of several Babesia species known to infect humans and…",
-      "category": "科学",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-11",
-      "publishedAt": "2026-11-10T22:20:12.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-3d-view-babesiosis-parasite-ribosome.html"
-      },
-      "cover": "star",
-      "accent": "blue",
-      "paragraphs": [
-        "A new study has revealed a three-dimensional, near-atomic-resolution view of the ribosome from Babesia divergens, one of several Babesia species known to infect humans and cause babesiosis. The structural insights from this close-up view could help researchers identify parasite-specific features that may be exploited for future drug development.",
-        "The research also deepens the foundations of knowledge for the entire group of protozoa to which Babesia belongs, known as apicomplexan parasites, that are responsible for diseases including malaria and toxoplasmosis. The study is published in Nature Communications .",
-        "Very little is known about the fundamental mechanisms that these complex pathogens rely on to cause infection and survive in a diverse range of host species, said Mélissa Léger-Abraham, assistant professor of microbiology in the Blavatnik Institute at Harvard Medical School and HMS assistant professor of pediatrics at Boston Children's Hospital and senior author of the study.",
-        "\"Having detailed images of the Babesia ribosome lays an important foundation for deepening our understanding of how the organism lives and gives us step-by-step guidance in the search for new drugs to treat babesiosis,\" Léger-Abraham said.",
-        "The researchers focused their studies on the ribosome, which is a large molecule composed of ribosomal RNAs (rRNAs) and ribosomal proteins. Ribosomes are cellular biochemical machines that read an organism's genetic sequence and translate it into proteins that the cell needs to survive.",
-        "This process, and the ribosome itself, is the target of more than half of the antibiotics currently used against bacterial infections. Therefore, a detailed understanding of the ribosomes of other pathogens, such as parasites, could provide crucial information on how they differ from other organisms like humans or bacteria.",
-        "\"Once we can see the differences between parasite and human ribosomes, we could design drugs that interrupt the parasite's life cycle and its ability to infect humans, without interfering with any of the processes that our bodies rely on to keep us healthy,\" Léger-Abraham said.",
-        "Babesia divergens is a tick-borne pathogen prevalent in Europe that causes significant livestock loss and sometimes severe disease—even death—in humans, especially people with compromised immune systems. The disease can spread from one human to another in donated blood and from pregnant mothers to their babies. There are many different species of Babesia that cause this disease in humans.",
-        "In the United States, cases rose by 9% per year from 2015 to 2022, as the blacklegged ticks that host the closely related Babesia microti have increased their geographic range and the length of their biting season due to warming temperatures.",
-        "Léger-Abraham, who has a strong interest in deepening the understanding of neglected tropical diseases, said she was initially interested in imaging ribosomes from Plasmodium, the genus of pathogens that cause malaria, because of its significant global health impact. However, she chose an organism related to Plasmodium, Babesia divergens, because it is easy to cultivate and can produce larger quantities of material required for high-resolution structural studies.",
-        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
-        "The researchers used cryo-electron microscopy (cryo-EM) to image a sample of ribosome particles from Babesia divergens. In cryo-EM, many copies of the particles to be analyzed are rapidly frozen in a thin layer of vitreous ice, which is then imaged, providing two-dimensional views of the particles. Researchers then computationally align and combine the resulting two-dimensional images capturing different orientations of the same particles to reconstruct a three-dimensional model. Data were collected at the Harvard Cryo-EM Center for Structural Biology at HMS.",
-        "The structural map Léger-Abraham and colleagues assembled of the Babesia divergens cytosolic ribosomes described the intricate interactions between residues from ribosomal proteins and ribonucleotides from the rRNA. It is the most detailed map of this kind ever generated for an apicomplexan parasite.",
-        "Moreover, it is detailed enough to observe chemical modifications of the ribosome that could modulate its function. If you think of RNA as a language, these modifications work like punctuation, accents, and other diacritical marks to subtly modify the meaning of the code."
-      ],
-      "external": true,
-      "order": 5
-    },
-    {
-      "id": "phys-germanys-isar-aerospace-eyes-overtaking-elon-musks-spacex",
-      "title": "Germany's Isar Aerospace eyes overtaking Elon Musk's SpaceX",
-      "dek": "The head of Germany's Isar Aerospace voiced hope Tuesday that the company could one day overtake Elon Musk's SpaceX to become the world's premier space launch company.",
-      "category": "科学",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-11",
-      "publishedAt": "2026-11-10T22:20:01.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-germany-isar-aerospace-eyes-elon.html"
-      },
-      "cover": "orbit",
-      "accent": "lilac",
-      "paragraphs": [
-        "The head of Germany's Isar Aerospace voiced hope Tuesday that the company could one day overtake Elon Musk's SpaceX to become the world's premier space launch company.",
-        "Daniel Metzler, who founded the company with two fellow students in 2018, pointed to a huge backlog of launch orders, helped by European military clients.",
-        "\"SpaceX was founded in 2002. Back then I was playing with Pokemon cards,\" he said. \"Looking at what could happen in the next 18 years, I wouldn't rule out us being further ahead than SpaceX.\"",
-        "Isar became in September the first privately financed European company to get a rocket into orbit.",
-        "Europe is betting that competition between Isar and other players such as Rocket Factory Augsburg will bring down the price of satellite launches.",
-        "This would help ensure affordable access to space for sectors ranging from telecommunications to defense, independent of entities such as SpaceX, the sector leader valued at $1. 9 trillion (1. 7 trillion euros).",
-        "Speaking at a conference organized by the SZ newspaper, Metzler said Isar had already come a long way, noting that SpaceX needed four attempts to get into orbit compared to Isar's two.",
-        "Capacity rather than demand was now the big bottleneck, Metzler added.",
-        "He said the company was 15 times oversubscribed for 2028 launches as European governments now preferred European providers to put their defense satellites up as opposed to firms overseas.",
-        "\"There are 14 customers for every rocket that we have to disappoint,\" he said.",
-        "\"About 18 months ago, 85% of inquiries were commercial and 15% were military, and that ratio has since flipped,\" he added.",
-        "Isar is working on developing reusable rockets to boost capacity and bring launch costs down, hoping to catch up with SpaceX's reusable Falcon 9 rocket.",
-        "\"Already with our next launch, for which we are currently finalizing the launch vehicle, we will be taking initial measurements to assess the reentry of the rocket's first stage,\" he said.",
-        "\"Over the next three or four flights, we also plan to start flying hardware specifically designed for reusability.\""
-      ],
-      "external": true,
-      "order": 6
+      "order": 17
     },
     {
       "id": "conversation-students-creating-documentaries-with-scientists-deepens-st",
@@ -312,7 +710,7 @@
         "Uncommon Courses is an occasional series from The Conversation U. S. highlighting unconventional approaches to teaching."
       ],
       "external": true,
-      "order": 7
+      "order": 18
     },
     {
       "id": "conversation-democrats-agenda-will-be-set-by-their-ability-to-organize-",
@@ -359,127 +757,7 @@
         "But the power and success of congressional leadership lies in its procedural acumen, not its ideological vision. Some already in Congress have noted New York Democratic Rep. Hakeem Jeffries’ experience and working relationships in discussions of whether he should be house speaker. Furthermore, groups can extract concessions during leadership selection in exchange for their support, such as seats on powerful committees or an agreement on policy agenda items."
       ],
       "external": true,
-      "order": 8
-    },
-    {
-      "id": "scitechdaily-massive-study-of-2-8-million-people-reveals-new-secrets-of",
-      "title": "Massive Study of 2.8 Million People Reveals New Secrets of Alzheimer’s Disease",
-      "dek": "A genetic analysis of 2. 8 million people points to specific brain cells that may influence Alzheimer’s, offering researchers new leads to investigate in the search for treatments.",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-11",
-      "publishedAt": "2026-11-10T19:49:49.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/massive-study-of-2-8-million-people-reveals-new-secrets-of-alzheimers-disease/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "A genetic analysis of 2. 8 million people points to specific brain cells that may influence Alzheimer’s, offering researchers new leads to investigate in the search for treatments.",
-        "Alzheimer’s disease is the leading cause of dementia, which is projected to affect more than 150 million people worldwide by 2050. Genes play a substantial role in Alzheimer’s risk, but scientists still do not fully understand which genes matter or how they influence the disease. Connecting those genetic clues to what happens inside the brain could help researchers identify possible targets for treatment.",
-        "An international team has now identified 127 regions of human DNA associated with Alzheimer’s risk, including 48 that had not previously been mapped in this context. The findings offer a more detailed view of the biological processes involved, pointing to roles for both the brain’s immune cells and several specific types of nerve cells.",
-        "Led by Vrije Universiteit Amsterdam and published in Nature , the research is the largest genetic association study of Alzheimer’s to date. Researchers analyzed genetic data from approximately 2. 8 million people with diverse genetic backgrounds, including 183,620 people with Alzheimer’s.",
-        "“We already knew that immune processes play an important role in Alzheimer’s disease. What makes this study particularly valuable is that we can now connect new genetic risk factors to more specific biological processes, while also uncovering evidence pointing to the involvement of other brain cell types. This gives us a more detailed picture of the biology underlying Alzheimer’s and provides new directions for investigating potential treatments,” said research lead Danielle Posthuma of Vrije Universiteit Amsterdam.",
-        "The analysis strengthened the evidence for the involvement of microglia, immune cells in the brain that help clear away harmful substances and damaged cellular material. Linking genetic risk factors to the processes these cells carry out gives researchers more specific biological connections to investigate.",
-        "For the first time, the researchers also identified several specific types of neurons, the cells that receive and transmit information, that were enriched for genetic signals associated with Alzheimer’s. In other words, the genetic evidence pointed toward these particular cell types more often than expected. The findings suggest that they may play a key role in the disease’s development, opening research directions beyond the immune system.",
-        "Pooling data from 30 research groups allowed the team to detect genetic associations that might have gone unnoticed in smaller studies. The collaboration brought together academic researchers, biobanks, and industry under the International Psychiatric Genomics Consortium. Its Alzheimer’s disease working group is co-led by Posthuma and Ole Andreassen of the University of Oslo.",
-        "Among the contributors was the University of Exeter-led PROTECT study. Professor Anne Corbett of the University of Exeter, who leads PROTECT, said, “This exciting new genetic analysis has uncovered new information on how our genes influence our risk of Alzheimer’s disease. We’re delighted that the PROTECT-UK study contributed to these important new findings. PROTECT collects genetic samples from all participants through a simple at-home saliva sample. This data can then be combined with cohorts from around the world to help us to better understand dementia risk and how it can be treated.”",
-        "The genetic associations provide starting points for further investigation, rather than proof that targeting a particular gene will produce an effective treatment. Follow-up research must establish which associations reflect a causal role in Alzheimer’s and whether intervening in the processes involved would be safe and meaningfully beneficial.",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
-        "Save my name, email, and website in this browser for the next time I comment.",
-        "Type above and press Enter to search. Press Esc to cancel."
-      ],
-      "external": true,
-      "order": 9
-    },
-    {
-      "id": "scitechdaily-an-ancient-virus-may-hold-the-secret-to-what-makes-the-hum",
-      "title": "An Ancient Virus May Hold the Secret to What Makes the Human Brain Different",
-      "dek": "Could a virus that infected chimpanzees millions of years ago help explain how the human brain became different?",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-11",
-      "publishedAt": "2026-11-10T19:14:29.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/an-ancient-virus-may-hold-the-secret-to-what-makes-the-human-brain-different/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "Could a virus that infected chimpanzees millions of years ago help explain how the human brain became different?",
-        "Researchers at Lund University have discovered that ancient viral DNA embedded in the chimpanzee genome silences a gene involved in early human brain development. Their study, published in Science Advances , found that the gene, LINC00662, remains active in human brain organoids, where it helps support the development of nerve cells and the connections between them.",
-        "The finding offers a way to explore how humans and chimpanzees developed different biological traits despite sharing much of their genetic makeup. Evolution can change how existing genes are used, as well as which genes a species carries.",
-        "“The virus we investigated specifically affected chimpanzees. Yet humans and chimpanzees have largely the same genetic makeup. That is why it is important to understand the differences in how genes are regulated. Our findings suggest that one gene, LINC00662, plays a significant role in early human brain development,” says Johan Jakobsson, professor of molecular neurogenetics at Lund University.",
-        "The genetic remnant belongs to PTERV1, an endogenous retrovirus. Its DNA became embedded in the chimpanzee genome during an ancient infection and has been inherited ever since. The researchers found copies of the viral sequence at numerous locations throughout chimpanzee DNA.",
-        "Those sequences are systematically shut down through methylation, a chemical process that helps regulate gene activity. At the LINC00662 location, the inherited viral insertion also keeps the neighboring gene silent.",
-        "To examine this difference during brain development, the team grew brain organoids from human and chimpanzee stem cells. These miniature, three-dimensional structures resemble brain tissue and reproduce some features of its early development.",
-        "“The gene was strongly expressed in the human organoids, but not at all in the chimpanzee organoids,” says Patricia Gerdes, a postdoctoral researcher in molecular neurogenetics at Lund University.",
-        "The researchers then tested whether the viral sequence caused the shutdown. Using the CRISPR-Cas9 gene-editing tool, they removed it from chimpanzee cells. LINC00662 became active again.",
-        "“This shows that it is in fact the viral insertion that is responsible for the gene being switched off in chimpanzees,” says Patricia Gerdes.",
-        "A separate experiment explored the gene’s role in humans. When the team used CRISPR to silence LINC00662 in human brain organoids, genes involved in nerve cell development and the formation of connections between those cells became less active.",
-        "For Jakobsson, the results show how an infection can leave a lasting genetic change across a population, while helping explain how gene regulation can protect the brain or contribute to damage. The team will next investigate whether other viral remnants influenced brain evolution and whether such sequences are linked to brain diseases.",
-        "This study was funded by the Swedish Research Council; the Swedish Brain Foundation; Cancerfonden; Barncancerfonden; the Swedish Government Initiative for Strategic Research Areas (MultiPark & StemTherapy); and the European Union’s Horizon Europe research and innovation program.",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
-      ],
-      "external": true,
-      "order": 10
-    },
-    {
-      "id": "conversation-after-midterm-rout-republicans-can-still-confirm-a-supreme",
-      "title": "After midterm rout, Republicans can still confirm a Supreme Court justice, but at what cost?",
-      "dek": "The 2026 midterm rout that awarded Democrats decisive majorities in the Senate and House has also sparked interest in the future of the U. S. Supreme Court .",
-      "category": "社会",
-      "tags": [
-        "The Conversation"
-      ],
-      "date": "2026-11-11",
-      "publishedAt": "2026-11-10T18:45:09.000Z",
-      "source": {
-        "name": "The Conversation",
-        "license": "CC BY-ND 4.0",
-        "licenseLabel": "CC BY-ND 4.0",
-        "url": "https://theconversation.com/after-midterm-rout-republicans-can-still-confirm-a-supreme-court-justice-but-at-what-cost-296347"
-      },
-      "cover": "cup",
-      "accent": "orange",
-      "paragraphs": [
-        "The 2026 midterm rout that awarded Democrats decisive majorities in the Senate and House has also sparked interest in the future of the U. S. Supreme Court .",
-        "With Democrats securing at least a 54-seat majority in the Senate on Jan. 3, 2027 , the window is rapidly closing for President Donald Trump to appoint a new Supreme Court justice and safeguard conservative dominance on the court for decades.",
-        "As a Supreme Court scholar , I know that judicial appointments have real consequences. Look no further than Roe v. Wade : Within two years of securing a 6–3 conservative majority, the high court in 2022 eliminated the constitutional right to abortion that had existed for almost 50 years.",
-        "Now that Democrats have taken the Senate, if a Republican-appointed justice retires before Jan. 3, it will trigger one of the most explosive confirmation battles in American history.",
-        "Here’s how the fight is likely to play out – and why the stakes are so high.",
-        "Justices Samuel Alito and Clarence Thomas top the list of potential retirees after Democrats won the Senate – even if Alito has reportedly said he will not retire immediately . Alito and Thomas are the court’s oldest justices, at 76 and 78, respectively. Thomas is the court’s longest-serving justice, appointed by President George H. W. Bush in 1991.",
-        "Perhaps more importantly, both justices have deep ties to the conservative legal movement . This is a network of lawyers, judges and politicians who seek to etch conservative principles into law. Overturning Roe v. Wade was at the top of the conservative wish list .",
-        "My research suggests that both Alito and Thomas care about their legacies . And they both understand that a Democratic-controlled Senate will block another Trump-appointed nominee.",
-        "Senate Minority Leader Chuck Schumer made this clear just days after the midterms. And in October 2026, Senate Judiciary Committee member Richard Blumenthal, the Democrat from Connecticut , said, “It is slim to none that we would support a nominee from this administration.”",
-        "Though Alito has indicated he intends to stay on the court through its 2026 term, Thomas has made no recent public statements about retirement. And Alito is free to change his mind at any time.",
-        "If Alito or Thomas announce their retirement soon, Republicans would have enough time to confirm a successor. The Senate has four and a half work weeks scheduled between Election Day and Jan. 3. Justice Amy Coney Barrett was confirmed less than a month after her nomination, making the timeline tight but doable.",
-        "Democrats will likely attempt to slow down the process, but they face an uphill battle with few options. Republicans stripped away key delaying tactics in recent years by ending the filibuster in 2017 and ignoring the Judiciary Committee’s quorum rules in 2020. This rule requires nine members be present to transact business, including two members of the minority party.",
-        "A Republican effort to confirm a Supreme Court nominee during a lame-duck Senate would spark a historic battle with Democrats.",
-        "Democrats would surely point to how Republicans handled President Barack Obama’s appointment of Merrick Garland in 2016. A seat on the court opened up after conservative Antonin Scalia died on Feb. 13, almost nine months before the November presidential election.",
-        "Republicans refused to move Garland’s nomination through the confirmation process, using their majority power to set the Senate’s agenda . This marked the first time since 1866 that a Supreme Court nomination that was not withdrawn failed to receive an up-or-down vote in the Senate.",
-        "To justify this, Republicans created the so-called “ McConnell Rule ,” named after former Senate Majority Leader Mitch McConnell of Kentucky. According to McConnell , the Senate should not fill Supreme Court vacancies “in the middle of a presidential election year.”",
-        "Four years later, Senate Republicans abruptly abandoned the rule . This allowed them to push through Coney Barrett’s confirmation just days before the 2020 presidential election.",
-        "Schumer pulled no punches in a speech the day of Barrett’s confirmation vote. Schumer said the day “will go down as one of the darkest days in the 231-year history of the United States Senate.”",
-        "He alleged the Republican majority made “a mockery of its own stated principle – that the American people deserve a voice in the selection of Supreme Court Justices – completing the partisan theft of two seats on the Supreme Court using completely contradictory rationales.”",
-        "Democrats were clearly outraged by what they saw as two stolen Supreme Court seats.",
-        "However, I believe that pushing through a nominee will trigger an even fiercer fight. Senate Democrats will see such a confirmation as a power grab that sidelines the voice of voters.",
-        "Furthermore, if a Republican justice retires after the midterms, the move will almost certainly be viewed as purely partisan.",
-        "This has the potential to further erode public support for the court , which is sitting near historic lows . And it will likely fuel the fire of Supreme Court reform, including the possibility of expanding the number of justices on the court .",
-        "Put simply, in securing a short-term conservative victory, Republicans may end up handing Democrats the exact justification they need to reshape the high court."
-      ],
-      "external": true,
-      "order": 11
+      "order": 19
     },
     {
       "id": "nasa-nasa-to-welcome-expedition-74-astronauts-home-at-space-cen",
@@ -514,7 +792,7 @@
         "Anna Schneider / Shaneequa Vereen Johnson Space Center, Houston 281-483-5111 anna. c. schneider@nasa. gov / shaneequa. y. vereen@nasa. gov"
       ],
       "external": true,
-      "order": 12
+      "order": 20
     },
     {
       "id": "nasa-news-nasa-to-welcome-expedition-74-astronauts-home-at-space-cen",
@@ -549,44 +827,7 @@
         "Anna Schneider / Shaneequa Vereen Johnson Space Center, Houston 281-483-5111 anna. c. schneider@nasa. gov / shaneequa. y. vereen@nasa. gov"
       ],
       "external": true,
-      "order": 13
-    },
-    {
-      "id": "scitechdaily-james-webb-discovers-a-nearly-pristine-galaxy-from-the-daw",
-      "title": "James Webb Discovers a Nearly Pristine Galaxy From the Dawn of the Universe",
-      "dek": "A galaxy seen 13 billion years ago has just 1/240th the Sun’s oxygen abundance, offering a rare glimpse of what the ancestors of the Milky Way’s faintest neighbors may have…",
-      "category": "校园",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-11",
-      "publishedAt": "2026-11-10T16:05:50.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/james-webb-discovers-a-nearly-pristine-galaxy-from-the-dawn-of-the-universe/"
-      },
-      "cover": "pencil",
-      "accent": "blue",
-      "paragraphs": [
-        "A galaxy seen 13 billion years ago has just 1/240th the Sun’s oxygen abundance, offering a rare glimpse of what the ancestors of the Milky Way’s faintest neighbors may have looked like.",
-        "Some of the faintest galaxies near the Milky Way may be survivors from the earliest chapters of cosmic history. Their ancient stars preserve clues about how galaxies formed, but astronomers have struggled to connect these nearby relics to the small, primitive galaxies that existed billions of years ago.",
-        "An international research team led by Associate Professor Kimihiko Nakajima of Kanazawa University has now identified a possible link. A tiny galaxy called LAP1-B, seen as it existed 13 billion years ago, contains remarkably little oxygen and has several characteristics that resemble some of the oldest galaxies still found near the Milky Way.",
-        "The chemical evidence reaches back to a time when the universe was only beginning to acquire the elements familiar to us today. Shortly after the Big Bang, the universe consisted primarily of hydrogen and helium. Heavier elements, including the carbon and oxygen essential for life, were produced later inside the first generations of stars and eventually released into space.",
-        "Astronomers have long wanted to study galaxies from this early period to understand how those elements first accumulated. The challenge is that such galaxies are extraordinarily small and faint, making their chemical composition difficult to measure even with powerful telescopes.",
-        "LAP1-B became accessible thanks to gravitational lensing, a phenomenon in which the gravity of a massive object bends and magnifies light from something farther away. In this case, a massive galaxy cluster amplified the distant galaxy’s light approximately 100 times, allowing researchers to examine an object that would otherwise be extremely difficult to study.",
-        "Building on earlier detections, the team observed LAP1-B for more than 30 hours using the James Webb Space Telescope (JWST). They used spectroscopy, a technique that analyzes light to identify the chemical elements present in a distant object.",
-        "The observations revealed an oxygen abundance just 1/240th that of the Sun, a record low that places LAP1-B among the most chemically primitive galaxies ever characterized.",
-        "“I was instantly thrilled by the extreme lack of oxygen revealed in the data,” says Associate Professor Nakajima, the research team leader. “Finding a galaxy in such a primitive state is astonishing. It’s a chemical signature that clearly indicates a primordial galaxy caught in the moments shortly after its formation.”",
-        "The researchers also found an unusually high ratio of carbon to oxygen. That distinction matters because the relative amounts of different elements can reveal how a galaxy acquired its chemical ingredients. In LAP1-B, the elevated carbon-to-oxygen ratio closely matches theoretical predictions for material scattered into space by the explosions of the universe’s first-generation stars.",
-        "Together, these measurements suggest that LAP1-B was observed during an exceptionally early stage of chemical enrichment, when the products of the first stars were beginning to accumulate in its gas.",
-        "“Usually, we act like ‘cosmic archaeologists,’ trying to guess the past by looking at old stars in our own neighborhood. But now, we can analyze the gas directly from the original scene 13 billion years ago,” emphasizes Nakajima. “We are witnessing the moment when a galaxy first inherited the chemical building blocks created by the universe’s earliest stars.”",
-        "The galaxy’s extremely small size provides another clue about its origins. The team estimates that LAP1-B contains less than 3,300 times the Sun’s mass in stars and is associated with a halo dominated by dark matter, the invisible material thought to account for much of the mass in galaxies.",
-        "Those characteristics resemble a class of nearby objects called ultra-faint dwarf galaxies (UFDs). These exceptionally dim galaxies contain ancient stars and relatively few heavy elements, leading astronomers to suspect that they preserve conditions from the universe’s earliest periods of galaxy formation."
-      ],
-      "external": true,
-      "order": 14
+      "order": 21
     },
     {
       "id": "nasa-nasa-scientists-show-how-gravitational-waves-can-reveal-ne",
@@ -622,7 +863,7 @@
         "The team described a new method for confirming these planets by taking advantage of the Webb telescope’s infrared sensitivity. A planet in a double white dwarf system produces a larger portion of infrared light than what’s expected from the stars themselves. Webb’s instruments can easily detect this infrared excess out to a distance of at least 500 light-years."
       ],
       "external": true,
-      "order": 15
+      "order": 22
     },
     {
       "id": "nasa-news-nasa-scientists-show-how-gravitational-waves-can-reveal-ne",
@@ -658,205 +899,7 @@
         "The team described a new method for confirming these planets by taking advantage of the Webb telescope’s infrared sensitivity. A planet in a double white dwarf system produces a larger portion of infrared light than what’s expected from the stars themselves. Webb’s instruments can easily detect this infrared excess out to a distance of at least 500 light-years."
       ],
       "external": true,
-      "order": 16
-    },
-    {
-      "id": "scitechdaily-something-unusual-is-swirling-around-the-monster-black-hol",
-      "title": "Something Unusual Is Swirling around the Monster Black Hole at the Center of Our Galaxy",
-      "dek": "Webb’s measurements of metal-rich gas offer clues to the processes that fuel our galaxy’s supermassive black hole, which consumes material more slowly than others.",
-      "category": "校园",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-10",
-      "publishedAt": "2026-11-10T15:30:58.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/something-unusual-is-swirling-around-the-monster-black-hole-at-the-center-of-our-galaxy/"
-      },
-      "cover": "leaf",
-      "accent": "green",
-      "paragraphs": [
-        "Webb’s measurements of metal-rich gas offer clues to the processes that fuel our galaxy’s supermassive black hole, which consumes material more slowly than others.",
-        "The gas circling the Milky Way’s central black hole is rich in metals, probably supplied by stars that exploded and released material into its surroundings over time. Researchers at McGill University’s Trottier Space Institute uncovered chemical enrichment around Sagittarius A* (Sgr A*), offering clues to the origins of the material available for the black hole to consume.",
-        "For astronomers, “metals” means every element heavier than hydrogen and helium. The category includes carbon and oxygen as well as iron and gold.",
-        "Sgr A* is closer to Earth than any other supermassive black hole, making it easier to observe. The telescope measures infrared light across a wide range of wavelengths with unprecedented spectral and spatial resolution. Those capabilities allowed the researchers to distinguish the heat signatures of multiple gas clouds orbiting near the black hole and precisely measure each cloud’s metal composition.",
-        "The gas also turned out to have a composition similar to that of many stars orbiting Sgr A*. That resemblance suggests the gas and stars may have formed together. The researchers said the findings could help explain how metals are distributed around supermassive black holes in more distant galaxies, as well as the processes that supplied Earth with many of these elements.",
-        "Chemical composition also affects what happens to the gas. Metals influence how quickly it cools, which in turn influences how readily the black hole can draw it in.",
-        "“We know there’s a black hole at the center of our galaxy pulling material into itself, but we see that it’s eating a lot less material than other supermassive black holes, and more slowly,” said Nicole Ford, the study’s lead author and a PhD student in Professor Daryl Haggard’s research group in McGill’s Department of Physics. “Part of understanding why this is happening means looking at the properties of the materials available for it to consume, including gas, dust and the stars orbiting around it.”",
-        "The findings complement a recent study led by Banting Postdoctoral Fellow Mayura Balakrishnan, which examined whether the surrounding gas retained evidence of earlier bursts of energy from the black hole. That study found that local conditions shape the light emitted by the gas, making the black hole’s influence difficult to isolate. The results do not rule out past outbursts. They show that the surrounding gas cannot provide a reliable history of the black hole’s activity.",
-        "Ford said understanding how Sgr A* attracts material will require comparing these observations with simulations of how gas evolves over longer timescales.",
-        "Both studies were funded by the Natural Sciences and Engineering Research Council of Canada, the Canadian Space Agency, the Canada Research Chairs program, Fonds de recherche du Québec – Nature et technologies, Centre de recherche en astrophysique du Québec and the Trottier Space Institute of McGill University, and the International Space Science Institute (ISSI).",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
-        "Save my name, email, and website in this browser for the next time I comment.",
-        "Type above and press Enter to search. Press Esc to cancel."
-      ],
-      "external": true,
-      "order": 17
-    },
-    {
-      "id": "scitechdaily-scientists-discover-a-strange-form-of-iron-on-the-moon-tha",
-      "title": "Scientists Discover a Strange Form of Iron on the Moon That Shouldn’t Be There",
-      "dek": "Scientists examining lunar soil collected by China’s Chang’e-6 mission have discovered an unexpected form of iron preserved within microscopic impact glass.",
-      "category": "科学",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-10",
-      "publishedAt": "2026-11-10T14:55:44.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-discover-a-strange-form-of-iron-on-the-moon-that-shouldnt-be-there/"
-      },
-      "cover": "orbit",
-      "accent": "lilac",
-      "paragraphs": [
-        "Scientists examining lunar soil collected by China’s Chang’e-6 mission have discovered an unexpected form of iron preserved within microscopic impact glass.",
-        "Tiny particles of iron trapped inside lunar glass may preserve evidence of the Moon’s ancient magnetic history. Scientists studying soil returned by China’s Chang’e-6 mission have identified face-centered cubic γ-Fe, an unusual form of metallic iron never before confirmed in natural lunar samples.",
-        "The discovery is particularly unexpected because γ-Fe normally exists only at high temperatures and changes into a different crystal structure as it cools. Yet researchers found that this phase of iron had survived inside microscopic glass particles formed during impacts on the lunar surface.",
-        "Researchers led by Prof. Haifeng Du of the High Magnetic Field Laboratory at the Hefei Institutes of Physical Science (HFIPS) of the Chinese Academy of Sciences (CAS) examined impact glass containing numerous nanoscale iron particles. Using focused ion beam preparation, transmission electron microscopy, and chemical analysis, they confirmed that γ-Fe was the dominant iron phase in the two glass samples studied. Their findings were published September 16 in the Proceedings of the National Academy of Sciences (PNAS) .",
-        "Under normal conditions, γ-Fe transforms into α-Fe as temperatures fall. The team proposed that the extreme conditions created by lunar impacts could prevent this transformation. Rapid cooling of molten material, small amounts of carbon and other elements, and the surrounding glassy matrix may have helped preserve the unusual crystal structure at the lunar surface.",
-        "The scientists also investigated whether these particles could retain magnetic information. Using off-axis electron holography, a technique that can map magnetic fields at extremely small scales, they examined the magnetic structure of individual γ-Fe nanoparticles. Relatively large particles displayed a stable single-vortex magnetic state, with their magnetization arranged in a circulating pattern. They also maintained a stable magnetic response when exposed to an external magnetic field.",
-        "“This tiny magnetic fossil may help us better understand the Moon’s ancient magnetic history,” said Dr. Long Li of HFIPS, a member of the research team.",
-        "Although the Moon no longer possesses a global magnetic field, its rocks and soils contain magnetic minerals that can preserve information about past conditions. The newly identified γ-Fe expands the range of materials scientists can investigate when reconstructing that history.",
-        "Because γ-Fe and α-Fe develop under different physical conditions and exhibit distinct magnetic properties, they may retain records from different stages of lunar impact events. Further research will be needed to determine how reliably these minerals preserve ancient magnetic signals and what they can reveal about the evolution of magnetism on the Moon.",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
-        "Save my name, email, and website in this browser for the next time I comment.",
-        "Type above and press Enter to search. Press Esc to cancel."
-      ],
-      "external": true,
-      "order": 18
-    },
-    {
-      "id": "conversation-us-national-debt-keeps-rising-after-years-of-tax-cuts-and-",
-      "title": "US national debt keeps rising after years of tax cuts – and this will make policymaking all the more difficult",
-      "dek": "Democrats, set to take over Congress with robust majorities, will face at least one expensive obstacle to their policy agenda: a national debt that now equals the size of the…",
-      "category": "社会",
-      "tags": [
-        "The Conversation"
-      ],
-      "date": "2026-11-10",
-      "publishedAt": "2026-11-10T13:37:08.000Z",
-      "source": {
-        "name": "The Conversation",
-        "license": "CC BY-ND 4.0",
-        "licenseLabel": "CC BY-ND 4.0",
-        "url": "https://theconversation.com/us-national-debt-keeps-rising-after-years-of-tax-cuts-and-this-will-make-policymaking-all-the-more-difficult-292099"
-      },
-      "cover": "cup",
-      "accent": "orange",
-      "paragraphs": [
-        "Democrats, set to take over Congress with robust majorities, will face at least one expensive obstacle to their policy agenda: a national debt that now equals the size of the U. S. economy.",
-        "Clocking in at US$32 trillion, this debt-to-GDP ratio of 100% would likely raise alarms for other countries. But it attracted relatively little attention in an election season dominated by concerns over the economy and the cost of living .",
-        "Debt has grown to these levels because over the past 25 years, the federal government has been spending more than it collects in taxes . Even as the U. S. economy grew, lawmakers have cut taxes repeatedly, sometimes with bipartisan support, instead of paying down debt.",
-        "The series of tax cuts since 2001 has added over $10 trillion to the debt, according to an analysis of Congressional Budget Office data by the Center for American Progress. In fact, without these series of cuts, the debt-to-GDP ratio would be decreasing, the study found.",
-        "The debate over taxation often falls along partisan lines, with arguments focusing on which income groups are affected or the potential impact on economic growth. But as a public policy scholar , I believe that important context is often overlooked. Under conditions of strong gross domestic product growth and low debt, tax cuts may have a relatively benign fiscal impact . But today, because debt as a share of GDP is so much higher, and interest rates are steeper , the cost of adding new debt is much greater than 15 or 20 years ago, whether through additional spending or through tax cuts.",
-        "I believe Democrats will have to wrestle with this math as they try to advance a policy agenda focused on affordability that minimizes the risk of further borrowing.",
-        "Proponents of fiscal austerity argue that lower spending should accompany tax cuts so that debt doesn’t rise.",
-        "U. S. federal spending, however, has remained relatively flat – outside of emergencies like the 2009 recovery package and COVID-19 stimulus funds – even as GDP has risen.",
-        "At the same time, each round of tax cuts over the past quarter century has actually gotten smaller over time if they’re assessed as a share of GDP, as a study by the Tax Foundation , a nonpartisan think tank, noted.",
-        "President Ronald Reagan’s 1981 tax cuts were the most expensive in history, reducing annual federal revenue on average by 2. 9% of GDP, according to the Tax Foundation’s analysis . The next two biggest cuts occurred in 1945 and 1948, when the government rolled back the wartime hikes that helped pay for World War II. President Barack Obama’s 2012 legislation, extending most of the temporary tax cuts passed under President George W. Bush, comes in fourth at 1. 8% of GDP, while cuts passed under President Lyndon Johnson in 1964 rank fifth.",
-        "Coming in sixth place at 1. 2% of GDP: President Donald Trump’s sweeping policy and tax legislation in 2025, which made permanent most of his 2017 tax cuts.",
-        "While the Trump cuts amounted to a relatively small share of GDP, they had a much larger effect on the national debt due in part to the higher cost of borrowing. The original 2017 legislation was projected to increase public debt from 91. 2% to 97. 1% of GDP by 2027, with an overall 10-year cost of $1. 5 trillion . That was based on the assumption the cuts would expire after 2025.",
-        "But just like the earlier round of Bush tax cuts, Congress was loathe to let those provisions lapse. In 2025, the narrow Republican majority pushed through Trump’s legislation that extended or made permanent the 2017 cuts.",
-        "The Congressional Budget Office, the independent government scorekeeper of legislation, estimated that the 2025 bill would add another $3. 4 trillion over 10 years. And it projected that increasing deficits would push debt to 116% of GDP by the end of 2034 .",
-        "A basic calculation explains when debt stays stable, and when it does not.",
-        "If a government runs a “primary” budget surplus – that is, excluding interest payments – and economic growth is higher than the interest rate on government bonds, debt remains stable . The problem for the U. S. is that budget deficits have been growing faster than the economy, while interest payments on government debt are rising as well.",
-        "This math explains why the trajectory of economic growth is so important in understanding the impact of tax cuts. When taxes were cut after World War II, the economy was booming, the U. S. carried little debt, and reducing taxes didn’t further add to it. By contrast, government spending ballooned under Reagan, thanks in large part to defense outlays. Combined with lower tax revenue due to tax cuts , the national debt tripled during Reagan’s time in office.",
-        "In 2000, the economy was surging again. That was the last time the U. S. took in more tax revenue than it spent and began paying down the debt. President George W. Bush cited this surplus to justify his first round of major tax cuts in 2001, which also drew support from some Democrats.",
-        "It remains to be seen how much leverage the results of the midterms will grant Democratic lawmakers in the next two years as they try to enact legislation under Trump. But I believe lawmakers of all stripes will have to confront the hard choices that the U. S. national debt imposes on policy directions going ahead, thanks to a long series of decisions made over the past quarter century.",
-        "Hinckley Jones-Sanpei does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
-      ],
-      "external": true,
-      "order": 19
-    },
-    {
-      "id": "conversation-when-a-walmart-closes-what-happens-to-nearby-stores",
-      "title": "When a Walmart closes, what happens to nearby stores?",
-      "dek": "Shoppers often greet the closure of a Walmart with dismay , while competitors find cause to celebrate.",
-      "category": "文化",
-      "tags": [
-        "The Conversation"
-      ],
-      "date": "2026-11-10",
-      "publishedAt": "2026-11-10T13:36:57.000Z",
-      "source": {
-        "name": "The Conversation",
-        "license": "CC BY-ND 4.0",
-        "licenseLabel": "CC BY-ND 4.0",
-        "url": "https://theconversation.com/when-a-walmart-closes-what-happens-to-nearby-stores-294847"
-      },
-      "cover": "books",
-      "accent": "yellow",
-      "paragraphs": [
-        "Shoppers often greet the closure of a Walmart with dismay , while competitors find cause to celebrate.",
-        "Among critics of the big-box behemoth, a long-held assumption is that once a Walmart disappears, shoppers seeking groceries, household goods, meals and services will flow to businesses down the road.",
-        "But what if the economic downside of a closure is bigger?",
-        "We are marketing scholars who have studied dozens of Walmart closures in the United States. We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open. Our sample covered 39 Walmart stores that closed across 20 states from 2019 to 2026.",
-        "This finding suggests a large retailer can play two roles at once. Walmart competes with neighboring businesses for shopper visits and spending. But it can also act as an anchor, giving people a reason to travel to a shopping area in the first place. When that anchor disappears, the loss of shared shopper traffic can outweigh the benefit of having one less competitor.",
-        "Our finding underscores that retailers don’t operate as isolated dots on a map. Shoppers often decide where to go before deciding which stores they’ll visit once they get there. A trip to Walmart can generate a stop at a nearby restaurant, pharmacy, salon, specialty retailer or service business.",
-        "Economists call this kind of benefit an agglomeration effect : Businesses can gain from being near other businesses because the location itself attracts shoppers. Shopping center owners have long recognized this logic by using prominent stores to anchor a mix of tenants.",
-        "Other researchers have found that Walmart’s entry into a shopping area causes sales in nearby existing stores to drop . But these shops can adjust their product assortment, prices and promotions to mitigate this effect, follow-up studies suggest . What has not been studied until now is what happens when a Walmart store – or any other anchor store – closes.",
-        "A Walmart closure creates a tug-of-war between two forces, we argue. Competitive relief helps nearby businesses because a formidable rival is gone. But agglomeration loss hurts them because fewer shoppers have a reason to visit the area.",
-        "This means a store can capture a larger share of local consumer demand after Walmart leaves and still end up worse off if the total pool of shoppers arriving in the area shrinks enough.",
-        "We combined closure dates with monthly store-level shopper traffic and spending data. For each closed Walmart, we identified nearby non-Walmart businesses and compared their post-closure performance with that of businesses near Walmarts that stayed open.",
-        "We discovered not just a sizable decline in both shopper traffic and sales revenue after closure but a worsening trend in both over time. Specifically, following a Walmart’s closure, nearby stores experienced a roughly 5% drop in the following month and 6% in the month thereafter. The decline keeps getting worse, reaching about 17% in the ninth month and 20% a year after the anchor store closes.",
-        "That parallel movement in traffic and sales matters. If nearby stores were simply selling less to the same number of shoppers, we would expect spending per visit to fall. Instead, what was also happening is that fewer shoppers visited nearby businesses after the anchor disappeared.",
-        "In short, competitive relief didn’t overcome the loss of traffic that would have been generated by trips to the anchor store. But not all nearby businesses were affected equally.",
-        "Stores that competed more directly with Walmart had better post-closure sales than noncompeting stores. That is what we would expect if competitive relief is real: Grocery stores and other close substitutes are better positioned to capture some of the displaced consumer demand.",
-        "Well-known brand stores also fared relatively better than unbranded businesses. A recognizable brand can give shoppers an independent reason to visit, reducing reliance on traffic generated by the nearby anchor. And stores surrounded by more outlets with its own brands also had more favorable post-closure sales.",
-        "Another important factor is digital reach. Not surprisingly, the more a business engages with customers online, the less it depends on people physically traveling to a cluster of stores. We found that stores with a higher share of revenue from online orders saw a less severe drop in sales after a Walmart closed.",
-        "These patterns suggest that managers have options and can act: Opening another location or expanding online sales can protect a retailer from an anchor closure.",
-        "A large retailer decides whether to keep a store open based primarily on what makes sense for its own portfolio. But the surrounding businesses face a different calculation. A location that looks weak from the anchor retailer’s perspective can still drive valuable traffic to neighboring stores.",
-        "That creates what economists call an externality – a positive or negative effect of an economic activity that impacts other parties even though market prices don’t reflect it. In this case, some of the economic value produced by an anchor sits outside the anchor’s own sales and profits.",
-        "For neighboring businesses, the lesson is not to assume that a powerful competitor’s departure will create a windfall. Rather, managers need to know how many customers arrive because of the broader shopping destination, not merely how much their store’s products overlap with the anchor’s.",
-        "Meanwhile, commercial property owners should treat losing an anchor as more than risking an empty storefront. It can also hurt the rest of their portfolio by reducing consumer demand. Replacing the tenant quickly matters, but so does finding a replacement that can generate trips to the area.",
-        "Finally, local governments and economic development organizations need to understand that a major retail closure may affect businesses with no contractual relationship to the closed store. So their responses should extend beyond the vacant property itself – whether it’s speeding redevelopment, coordinating with local businesses and property owners to improve shoppers’ access, or helping create a new destination that restores shopper traffic.",
-        "The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment."
-      ],
-      "external": true,
-      "order": 20
-    },
-    {
-      "id": "scitechdaily-high-tech-drones-reveal-long-hidden-aboriginal-rock-art-sh",
-      "title": "High-Tech Drones Reveal Long-Hidden Aboriginal Rock Art Shelters in Australia",
-      "dek": "Drone-mounted lasers helped locate three unregistered Aboriginal rock art shelters in Australia, offering communities another way to document and protect their cultural…",
-      "category": "校园",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-10",
-      "publishedAt": "2026-11-10T12:36:59.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/high-tech-drones-reveal-long-hidden-aboriginal-rock-art-shelters-in-australia/"
-      },
-      "cover": "leaf",
-      "accent": "green",
-      "paragraphs": [
-        "Drone-mounted lasers helped locate three unregistered Aboriginal rock art shelters in Australia, offering communities another way to document and protect their cultural heritage for future generations.",
-        "In Australia’s Blue Mountains, rugged terrain and dense bushland make searching for Aboriginal cultural sites slow, difficult, and expensive.",
-        "More than 200 rock shelters containing cultural and archaeological evidence have been recorded there, but only an estimated 10 percent of the region has been surveyed, according to Dr. Amy Mosig Way, a research archaeologist at the University of Sydney and the Australian Museum.",
-        "Researchers from the two institutions, working alongside the Dharug Custodian Aboriginal Corporation, used drone-mounted lasers to help narrow that search. The technology, called LiDAR, short for Light Detection and Ranging, uses laser pulses to create detailed three-dimensional maps of the landscape, helping researchers detect features hidden beneath bushland and tree cover.",
-        "After the drone surveys identified potential rock shelters, Way led teams of students and volunteers into the field to verify their locations and assess whether they contained cultural material. The work confirmed the locations of six registered shelters and identified three previously unregistered ones. The newly recorded shelters contain stone artifacts and rock art, including red hand stencils.",
-        "“One of the most rewarding aspects of the Gulamada Project has been creating opportunities for students to gain hands-on experience in cultural heritage research in a community-centered project,” Way said.",
-        "The research, published in Remote Sensing , also produced much more accurate shelter coordinates than those listed in the official New South Wales sites register, the Aboriginal Heritage Information Management System (AHIMS).",
-        "“This work is exciting because it offers an efficient and accurate way to locate sites in rugged environments, which are notoriously arduous, expensive and time-consuming to survey,” said Dr. Jacob Bongers, lead author of the drone research and a digital archaeologist at the University of Sydney. He is also a former AMF/AMRI Visiting Research Fellow at the Australian Museum.",
-        "The surveys form part of the Gulamada Project , co-directed by Way and Wayne Brennan , an Indigenous rock art expert at the University of Sydney. Built on the principle of walking side by side, the project brings scientific knowledge and First Nations cultural knowledge together to better understand and care for Country. At the confirmed shelters, Brennan and Erin Wilkins , of the Dharug Custodian Aboriginal Corporation, led the rock art recording.",
-        "“From the outset, our vision for the Gulamada Project has been to create a true nexus of science and culture. This work highlights the importance of listening, learning and working together,” Brennan said.",
-        "Susan Templeman, the Federal Member for Macquarie, which includes the Blue Mountains, said, “This project demonstrates the power of bringing together First Nations knowledge and new technology to better understand and protect Australia’s rich cultural heritage. I’m proud that the Australian Government’s First Nations Heritage Grants program is supporting important projects like Gulamada here in the Blue Mountains, already renowned for the extraordinary natural and cultural significance within our rugged landscapes.”",
-        "The team says the approach allows Aboriginal communities, archaeologists, and heritage managers to search vast areas of challenging terrain much faster than traditional ground surveys. Used alongside existing knowledge and cultural practices, it could help communities locate, document, manage, and protect cultural sites before they are affected by development, erosion, bushfires, or other threats.",
-        "“Importantly, our methodology is helping expand the record of Aboriginal cultural sites in the Blue Mountains and has the potential to be applied in other regions,” Bongers said.",
-        "The researchers plan to work with Aboriginal communities to test and adapt the approach in different environments, including the tropical savannas of western Arnhem Land and the semi-arid landscapes of western New South Wales."
-      ],
-      "external": true,
-      "order": 21
+      "order": 23
     },
     {
       "id": "nasa-autumn-mornings-bring-valley-fog",
@@ -885,7 +928,7 @@
         "According to the National Weather Service, temperatures in many places on the morning of November 8 dipped into the 30s Fahrenheit before giving way to a mild, sunny afternoon. Forecasters reported locally dense valley fog that morning. Dense fog had also blanketed a wider part of the region earlier in the week, prompting advisories for hazardous travel conditions."
       ],
       "external": true,
-      "order": 22
+      "order": 24
     },
     {
       "id": "nasa-news-autumn-mornings-bring-valley-fog",
@@ -914,7 +957,7 @@
         "According to the National Weather Service, temperatures in many places on the morning of November 8 dipped into the 30s Fahrenheit before giving way to a mild, sunny afternoon. Forecasters reported locally dense valley fog that morning. Dense fog had also blanketed a wider part of the region earlier in the week, prompting advisories for hazardous travel conditions."
       ],
       "external": true,
-      "order": 23
+      "order": 25
     },
     {
       "id": "nasa-curiosity-blog-sols-5056-5062-charging-back-up",
@@ -949,7 +992,7 @@
         "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…"
       ],
       "external": true,
-      "order": 24
+      "order": 26
     },
     {
       "id": "nasa-news-curiosity-blog-sols-5056-5062-charging-back-up",
@@ -984,7 +1027,7 @@
         "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…"
       ],
       "external": true,
-      "order": 25
+      "order": 27
     },
     {
       "id": "nasa-curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hol",
@@ -1019,7 +1062,7 @@
         "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…"
       ],
       "external": true,
-      "order": 26
+      "order": 28
     },
     {
       "id": "nasa-news-curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hol",
@@ -1052,72 +1095,6 @@
         "Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…",
         "Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…",
         "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…"
-      ],
-      "external": true,
-      "order": 27
-    },
-    {
-      "id": "nasa-rubies-on-mars",
-      "title": "Rubies on Mars?",
-      "dek": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University",
-      "category": "科学",
-      "tags": [
-        "NASA"
-      ],
-      "date": "2026-11-10",
-      "publishedAt": "2026-11-09T22:27:12.000Z",
-      "source": {
-        "name": "NASA",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://science.nasa.gov/blog/rubies-on-mars/"
-      },
-      "cover": "orbit",
-      "accent": "lilac",
-      "paragraphs": [
-        "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University",
-        "Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and SuperCam have great capabilities for detecting all kinds of elements. SHERLOC, SuperCam, and PIXL can detect minerals using various techniques including x-ray fluorescence, Raman, and infrared spectroscopies. As a side benefit of the way SuperCam performs its Raman spectroscopy, it can also study time-resolved luminescence. Normally luminescence occurs over a broad wavelength range (most of Earth’s commercial lighting uses luminescence in some way or another).",
-        "Two years ago, the SuperCam team was startled to find strong, narrow luminescence peaks at two wavelengths of 692. 7 and 694. 1 nanometers when they shot a light-colored rock with the laser. This luminescence comes from delayed atomic transitions in chromium atoms present in a corundum mineral structure. SuperCam can time the delay of the atomic transitions via the resulting photons, and so we could verify that this emission came from chromium in corundum. The results were published in Geophysical Research Letters by a team led by Ann Ollila earlier this year, so you can read all about it. The gemstone version of chromium-containing corundum is ruby.",
-        "Prior to installing SuperCam on Perseverance, we placed a ruby in the laser beam and watched the entire room pulse a brilliant red as SuperCam’s laser beam hit the gemstone; it was extremely bright.",
-        "While we haven’t found collectable rubies on Mars yet, the little corundum crystals are helping us learn more about Mars’ past. Corundum is a metamorphic and pegmatitic mineral which we would not expect to find on Mars, a planet that lacks plate tectonics. However, large meteor and asteroid impacts can create local metamorphism due to long-term heating from the impact. Because we are in a very ancient terrain near the rim of Jezero crater, we can expect some evidence of localized metamorphism. As the first mission in such terrain, we are learning new things.",
-        "Earlier in the mission we tried this technique only rarely; lately we have carried out the time-resolved luminescence observations frequently on light-toned rocks to look for more evidence of impact effects. It’s great to have this unexpected tool on board as we delve further into Mars’ deep past.",
-        "Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…",
-        "Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…",
-        "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…",
-        "The Mars Perseverance rover is the first leg the Mars Sample Return Campaign’s interplanetary relay team. Its job is to…"
-      ],
-      "external": true,
-      "order": 28
-    },
-    {
-      "id": "nasa-news-rubies-on-mars",
-      "title": "Rubies on Mars?",
-      "dek": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University",
-      "category": "科学",
-      "tags": [
-        "NASA News"
-      ],
-      "date": "2026-11-10",
-      "publishedAt": "2026-11-09T22:27:12.000Z",
-      "source": {
-        "name": "NASA News",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://science.nasa.gov/blog/rubies-on-mars/"
-      },
-      "cover": "orbit",
-      "accent": "lilac",
-      "paragraphs": [
-        "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University",
-        "Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and SuperCam have great capabilities for detecting all kinds of elements. SHERLOC, SuperCam, and PIXL can detect minerals using various techniques including x-ray fluorescence, Raman, and infrared spectroscopies. As a side benefit of the way SuperCam performs its Raman spectroscopy, it can also study time-resolved luminescence. Normally luminescence occurs over a broad wavelength range (most of Earth’s commercial lighting uses luminescence in some way or another).",
-        "Two years ago, the SuperCam team was startled to find strong, narrow luminescence peaks at two wavelengths of 692. 7 and 694. 1 nanometers when they shot a light-colored rock with the laser. This luminescence comes from delayed atomic transitions in chromium atoms present in a corundum mineral structure. SuperCam can time the delay of the atomic transitions via the resulting photons, and so we could verify that this emission came from chromium in corundum. The results were published in Geophysical Research Letters by a team led by Ann Ollila earlier this year, so you can read all about it. The gemstone version of chromium-containing corundum is ruby.",
-        "Prior to installing SuperCam on Perseverance, we placed a ruby in the laser beam and watched the entire room pulse a brilliant red as SuperCam’s laser beam hit the gemstone; it was extremely bright.",
-        "While we haven’t found collectable rubies on Mars yet, the little corundum crystals are helping us learn more about Mars’ past. Corundum is a metamorphic and pegmatitic mineral which we would not expect to find on Mars, a planet that lacks plate tectonics. However, large meteor and asteroid impacts can create local metamorphism due to long-term heating from the impact. Because we are in a very ancient terrain near the rim of Jezero crater, we can expect some evidence of localized metamorphism. As the first mission in such terrain, we are learning new things.",
-        "Earlier in the mission we tried this technique only rarely; lately we have carried out the time-resolved luminescence observations frequently on light-toned rocks to look for more evidence of impact effects. It’s great to have this unexpected tool on board as we delve further into Mars’ deep past.",
-        "Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…",
-        "Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…",
-        "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…",
-        "The Mars Perseverance rover is the first leg the Mars Sample Return Campaign’s interplanetary relay team. Its job is to…"
       ],
       "external": true,
       "order": 29

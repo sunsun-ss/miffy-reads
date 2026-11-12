@@ -1,0 +1,1103 @@
+{
+  "generatedAt": "2026-11-12T00:07:26.435Z",
+  "date": "2026-11-12",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-independent-technique-validates-landmark-m87-image",
+      "title": "Independent technique validates landmark M87* image",
+      "dek": "The 2019 Event Horizon Telescope (EHT) image was the work of hundreds of scientists and captured the first direct view of a black hole's shadow—becoming one of the most…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T00:00:04.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "The 2019 Event Horizon Telescope (EHT) image was the work of hundreds of scientists and captured the first direct view of a black hole's shadow—becoming one of the most recognized scientific images of the modern era. A team of four from CSIRO, Australia's national science agency, has developed a powerful new imaging technique that validated the landmark 2019 image of the black hole at the center of galaxy M87.",
+        "CSIRO astronomer and lead author Dr. Samuel Lai explained the challenge of imaging a distant black hole. \"It is like standing in your backyard and trying to take a photo of a doughnut on the moon,\" Lai said.",
+        "The new approach to analyzing the EHT data, published in Nature , reduces the effects of calibration errors and subjective image-processing decisions, which have challenged astronomers for decades.",
+        "\"Our small Australian team developed advanced machine learning and artificial intelligence techniques to capture information about the black hole's structure and filter out atmospheric interference,\" Lai explained.",
+        "\"When we applied it to the original Event Horizon Telescope dataset, we found a black hole almost identical in size and shape to the historic EHT image. Importantly, our model had no idea what a black hole looked like when we applied it to the M87 data.",
+        "\"This is the first truly independent validation of the EHT image, an important step in the scientific process.\"",
+        "While the EHT's first image of M87's black hole transformed our understanding of these extreme objects, scientists have questioned how much the final image may have been influenced by the processing methods needed to reconstruct pictures from sparse telescope measurements.",
+        "To address this, the CSIRO team developed elegant mathematical algorithms to eliminate biases and calibration errors.",
+        "CSIRO astronomer and project leader Dr. Nithyanandan Thyagarajan used his experience in solving similar challenges in synchrotron experiments to build the new technique.",
+        "\"In order to image certain astronomical objects like distant black holes, we need very big telescopes, which isn't practically possible. So, groups like the Event Horizon Telescope Collaboration connect telescopes across the globe to mimic a telescope the size of the planet, a technique called very long baseline interferometry ,\" Thyagarajan said.",
+        "\"Creating an image this way is tricky and can introduce errors and biases that could lead to questions about the accuracy of the image. Our technique combines triplets rather than the standard pairs of telescope data to eliminate those errors.\"",
+        "The findings strengthen confidence that the ring surrounding M87's central black hole is a genuine astrophysical feature rather than an artifact introduced during image reconstruction.",
+        "Event Horizon Telescope Collaboration director Dr. Laurent Loinard said studies like this are at the heart of the scientific process, providing valuable independent validation of the Event Horizon Telescope results.",
+        "\"It is extremely gratifying to see that GenDIReCT, an elegant, entirely independent method, recovers the ring structure of M87* across several years, in excellent agreement with the EHT Collaboration's published results. Studies like this strengthen our confidence in what we have learned about black holes, and enrich the toolkit available to the whole community,\" Loinard said."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-clean-water-hidden-risks-new-technology-reveals-neurotoxic",
+      "title": "Clean water, hidden risks: New technology reveals neurotoxicity missed by conventional water quality monitoring",
+      "dek": "A photograph of an orchestra can tell you whether the musicians are on stage and their instruments are intact. But it cannot tell you whether they are playing in harmony. ",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T23:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-hidden-technology-reveals-neurotoxicity-conventional.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "A photograph of an orchestra can tell you whether the musicians are on stage and their instruments are intact. But it cannot tell you whether they are playing in harmony. Even when every musician is present, a subtle loss of coordination can change the entire performance.",
+        "Neuronal networks work in much the same way. Individual neurons may retain their normal appearance, yet the electrical signals coordinating their activity can become disrupted. Looking at neuronal structure alone may therefore miss important changes in network function. This led me to wonder whether listening to neuronal networks could reveal subtle disruptions caused by complex mixtures of environmental contaminants.",
+        "Environmental water contains complex mixtures of pharmaceuticals, pesticides, industrial chemicals and their transformation products. Identifying individual contaminants is important, but understanding how they interact and affect biological systems as a mixture is far more challenging.",
+        "Various effect-based methods have been developed to complement chemical analysis. Yet assessing subtle changes in neuronal network function directly in complex whole-water samples remains challenging. Because neurons communicate through electrical signals, I wondered whether recording these signals could provide a more direct way to assess their responses to environmental exposures.",
+        "My colleagues and I therefore developed an in vitro functional neurotoxicity testing method, or iFNT, based on high-density microelectrode arrays . We cultured primary rat cortical neurons on the chips, allowing electrodes to simultaneously record electrical activity across interconnected networks. By analyzing 14 electrophysiological parameters related to neuronal firing, bursting and network synchronization, we constructed multidimensional profiles of neuronal network function. Our study is published in the journal Environmental Science &; Technology .",
+        "We first tested individual neuroactive chemicals and a representative mixture, comparing iFNT with a conventional neurite outgrowth (NOG) assay that measures structural changes.",
+        "The difference was substantial. For individual compounds, iFNT showed 5- to more than 500-fold greater sensitivity than NOG. For the chemical mixture, the sensitivity was about 50-fold greater. Some compounds produced detectable functional responses at concentrations as low as 10⁻⁸ M.",
+        "These findings suggest that electrophysiological profiling can reveal chemical effects that may not be detected as readily through changes in neurite morphology. They also demonstrate the value of examining neuronal network function alongside structural measurements.",
+        "However, laboratory-prepared chemicals represent only part of the environmental picture. Real-world water contains mixtures of known and unidentified substances, whose combined effects cannot always be predicted by measuring individual compounds. Could iFNT capture these effects in actual environmental samples?",
+        "We applied iFNT to whole-water samples collected from municipal wastewater treatment plants and their receiving waters. Importantly, the samples were tested without solid-phase extraction or preconcentration. This approach allowed us to assess the biological effects of the water samples more directly.",
+        "The results were consistent with our findings from reference chemicals. Compared with NOG, iFNT showed 3- to 145-fold greater sensitivity for whole-water samples, with a median improvement of approximately 25-fold. Thus, electrophysiological profiling could detect functional responses in complex environmental mixtures without preconcentration.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Testing real-world samples raised another question: Do conventional measures of wastewater quality reflect the same biological effects captured by neuronal network activity?",
+        "We compared iFNT profiles across wastewater treatment stages with routine water-quality indicators, including chemical oxygen demand, ammonia nitrogen, total nitrogen and total phosphorus. No statistically significant correspondence was found between these indicators and the electrophysiological profiles. We also found no significant correspondence between iFNT profiles and toxicity endpoints measured in zebrafish embryos ."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-fluorescent-probes-reveal-fluid-like-barriers-inside-nucle",
+      "title": "Fluorescent probes reveal fluid-like barriers inside nuclear pores of living human cells",
+      "dek": "Our genetic material is hidden inside the nucleus of our cells, well protected by a double membrane. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T23:20:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-fluorescent-probes-reveal-fluid-barriers.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Our genetic material is hidden inside the nucleus of our cells, well protected by a double membrane. All molecules wishing to pass through must thread their way through one of several thousand nuclear pores. The scaffold structure of these pores is well known. However, exactly how transport takes place within them has been the subject of much debate. Researchers at Johannes Gutenberg University Mainz (JGU), the Max Planck Institute for Biophysics (MPI-BP) in Frankfurt am Main and Wuhan University in China have now shed light on the matter.",
+        "\"For the first time, we have been able to measure intrinsic protein dynamics within the nanocanal of a living cell and demonstrate that the interior of this canal is fluid-like,\" said professor Edward Lemke, professor of synthetic biophysics at JGU, who led the current study together with professor Gerhard Hummer from the MPI-BP. The researchers at the MPI-BP, in turn, have succeeded in creating the most comprehensive simulation model of a nuclear pore to date, based on the findings of Lemke and his team.",
+        "In particular, this model answers the question of the transport pathway through the pore. \"These complex calculations were made possible by JUPITER, Europe's first exascale supercomputer at the Jülich Research Center,\" said Hummer. The researchers published their findings in the journal Nature .",
+        "\"As the nuclear pore protects the genome and controls all exchange between the cell nucleus and the cytoplasm, it is one of the most important molecular machines in the human cell,\" said professor Miao Yu from Wuhan University, co-first author of the study. \"And also one of the most complex,\" added co-first author Maziar Heidari from the MPI-BP.",
+        "Anyone traveling to a town in the Middle Ages first had to pass through one of the town gates—and might well have been turned away there. The situation at the membrane, which protectively surrounds the interior of human cell nuclei containing the valuable genetic information, is comparable in a certain sense. If signaling molecules or pathogens wish to pass through, the only route is via the nuclear pores, each of which controls tens of thousands of visitors per minute. While certain molecules are specifically permitted to pass, others are held back.",
+        "Essential to this selection process is a barrier of proteins that fills the opening—that much was already known. However, opinions differed widely regarding the exact nature of this barrier: studies on isolated proteins yielded varying results, ranging from stretched polymers to liquid-like condensates and even solid-like gels with a consistency similar to that of gummy bears. \"Such studies did not, however, allow any direct conclusions to be drawn about how the barrier behaves within the living cell,\" said Lemke.",
+        "How dynamic are these protein chains anchored within the pore in their natural environment? Do they act more like a rigid comb, or are they soft and flexible like yogurt or a liquid? And to what extent do their dynamics contribute to selective transport? Such questions have remained unanswered until now.",
+        "To find answers, Lemke and his team specifically coupled fluorescent dyes to the proteins in the nuclear pores as probes: tiny glowing dots whose mobility reveals a great deal about the dynamics of the proteins. \"As the dyes move extremely quickly, the state inside the nuclear pores must be fluid-like,\" said Lemke.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "In living cells, the proteins remained highly mobile throughout the entire two-hour observation period. The team compared these results with an in vitro model, i. e. , with isolated proteins in a test tube: There, however, after about two hours, the protein mass invariably turned into a rigid \"gummy bear\" or even a solid resembling the deposits found in the brains of people with neurodegenerative diseases such as Alzheimer's or Parkinson's. \"This was a crucial turning point: there had to be something keeping the barrier in the cells dynamic,\" said Lemke."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-superconducting-vortices-provide-experimental-evidence-tha",
+      "title": "Superconducting vortices provide experimental evidence that clogging is a phase transition",
+      "dek": "Clogging is a phenomenon in which moving particles get stuck, slowing or blocking the flow, but how this transition occurs has remained experimentally unproven. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T23:00:05.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-superconducting-vortices-experimental-evidence-clogging.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Clogging is a phenomenon in which moving particles get stuck, slowing or blocking the flow, but how this transition occurs has remained experimentally unproven. Researchers from Science Tokyo studied superconducting vortices to demonstrate that clogging is a nonequilibrium phase transition. Using a two-step measurement protocol, they distinguished clogging from conventional pinning and revealed that both transitions share a critical point, offering new insights into predicting and controlling clogging across diverse systems.",
+        "Clogging is a common phenomenon where flowing particles encounter bottlenecks that restrict their passage, slowing down or completely halting movement. This phenomenon is observed across a wide range of systems, including granular materials, filtration devices, industrial pipelines and biological transport networks. Understanding how and why clogging occurs is essential for preventing blockages and maintaining efficient transport across natural and engineered systems.",
+        "Despite its widespread incidence, the physical mechanisms governing the transition from continuous flow to complete clogging remain incompletely understood. Previous studies predicted that this transition represents a nonequilibrium phase transition, in which the time required to reach a stable flowing or completely blocked state diverges near a critical point. However, experimental confirmation of this prediction remained lacking.",
+        "Addressing this long-standing question, a research team led by former graduate student Takahide Minemura and professor emeritus Satoshi Okuma of the Department of Physics, Institute of Science Tokyo, has provided the first experimental evidence that the widely observed phenomenon of clogging is a nonequilibrium phase transition. This study investigated the critical dynamics of superconducting vortices driven by direct current (DC) and was published in Communications Physics on Sept. 25, 2026.",
+        "Okuma explains, \"Clogging can also cause serious problems in industrial plants, infrastructure pipelines and biological transport systems such as blood vessels. Although it has been predicted in simulation that the transition from a flowing state to a completely clogged state represents a nonequilibrium phase transition, experimental verification had remained elusive. This was the main motivation of our study.\"",
+        "The team examined superconducting vortices moving through amorphous molybdenum-germanium (MoGe) thin films under an applied direct current, where material defects acted as pinning sites. Trapped vortices can form bottlenecks that obstruct the movement of other vortices, producing clogging.",
+        "To distinguish this phenomenon from conventional pinning, they developed a modified two-step measurement protocol involving successive current drives applied in parallel or opposite directions. By measuring the resulting time-dependent voltage, they tracked vortex motion and separated the fast relaxation associated with clogging from the slower relaxation associated with pinning.",
+        "The results revealed that both relaxation times increased greatly and adhered to power-law divergence as the driving current approached a critical value. At the same time, the critical current for clogging coincided with the depinning current within experimental uncertainty. Additionally, the critical exponents associated with both transitions were similar to the predictions for the two-dimensional directed-percolation universality class, which is a type of nonequilibrium absorbing phase transition.",
+        "These findings demonstrate that clogging and depinning share the same critical point and exhibit consistent critical behavior, even though they represent distinct dynamical processes.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Beyond superconductivity, the findings provide a foundation for understanding clogging across diverse systems. In Okuma's words, \"Understanding, predicting and controlling clogging is important across scientific and engineering disciplines. The findings of our study may help guide future studies of flow obstruction in granular materials, colloids, active matter and other systems in which collective motion can become blocked.\"",
+        "In the future, further research could explore how these critical dynamics vary across different materials and transport environments. Ultimately, a deeper understanding of the transition from flow to blockage could support more effective strategies for anticipating and controlling clogging in industrial processes, infrastructure and biological transport systems.",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;"
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-what-lurks-below-newfoundland-waters-a-marine-biologist-ex",
+      "title": "What lurks 'Below' Newfoundland waters? A marine biologist explains the science behind the show",
+      "dek": "When I learned that Netflix planned to film the miniseries Below, about a sea monster terrorizing a Newfoundland outport , I thought to myself: \"THIS I've gotta see!\"",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T23:00:02.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-lurks-newfoundland-marine-biologist-science.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "When I learned that Netflix planned to film the miniseries Below, about a sea monster terrorizing a Newfoundland outport , I thought to myself: \"THIS I've gotta see!\"",
+        "First, the series showcases coastal Newfoundland, where I was raised and live. Second, I have studied ocean life in the island's waters for most of my career. Third, it features the marine lab where I work , the Ocean Sciences Centre. And fourth, it stars a giant squid(-ish) animal (sorry, Josh Hartnett).",
+        "Giant squid have a special place in Newfoundland folklore and science, from early encounters with fishermen to some of the first scientific evidence of their existence.",
+        "One key player in this history was the Irish clergyman Moses Harvey , who moved to Newfoundland in 1852 and undertook natural history research in what was then a British colony.",
+        "Harvey's research included revealing the existence of giant squid to the world based on a specimen that washed ashore. Fishermen had brought it to him to photograph and communicate to the science community in London.",
+        "Fast forward to the 1960s, when the founding director of the Ocean Sciences Centre, Fred Aldrich , joined the faculty at Memorial University and soon focused his career on pursuing giant squid.",
+        "Although Aldrich tried to catch a living specimen, he only obtained squid that washed up on beaches.",
+        "Newfoundland is one of the global hot spots where giant squid appear more frequently, every 30 years or so (New Zealand is another, attesting to giant squid's affinity for cooler waters). Below's arrival roughly coincides with one of those cycles.",
+        "The Rooms provincial museum in St. John's displays a preserved version of one of these amazing animals.",
+        "Early in the series, we meet an (oddly) barefooted marine biologist walking through the hallways of the marine lab. This scene earned a loud \"ewww\" from my graduate students on the grounds of hygiene as well as occupational health and safety.",
+        "The biologist turns out to be the expert on giant squid and the voice of sanity when fishermen, the military and a local developer all pursue the creature (nicknamed \"Mudder\" by the locals, foreshadowing why she is attacking the community) with bloodlust.",
+        "This marine biologist also provides impromptu medical expertise when residents fall ill from drinking ice water tainted by the animal. (Side note: DO NOT entrust your local marine biologist with urgent medical needs—we are not that type of doctor! )",
+        "I could join the Facebook crowd quibbling about who got the Newfoundland accents right and who missed the mark. Or I could ask why the Coast Guard would fully abandon people living on a small, isolated island in crisis.",
+        "But Below generally did a good job on the science. The biology of the animal was reasonably plausible, including its swimming skills and even its ability to survive in ice."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "scitechdaily-scientists-just-found-a-key-ingredient-for-superconductivi",
+      "title": "Scientists Just Found a Key Ingredient for Superconductivity at Room Temperature",
+      "dek": "Researchers have discovered that a key requirement for superconductivity can persist even at room temperature.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T22:42:16.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-just-found-a-key-ingredient-for-superconductivity-at-room-temperature/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Researchers have discovered that a key requirement for superconductivity can persist even at room temperature.",
+        "Scientists searching for a superconductor that works at room temperature have identified a potential way forward. New research from Utrecht, Leiden, and Munich shows that electrons can form the pairs needed for superconductivity even at room temperature. The findings, published in Science , suggest that a different requirement may be preventing these materials from conducting electricity without resistance.",
+        "The key appears to be how paired electrons behave collectively. Although the pairs can survive at much higher temperatures than previously understood, they must also act in a coordinated way for superconductivity to emerge.",
+        "Electrical resistance causes energy to be lost as heat whenever current passes through an ordinary conductor. This is useful in a toaster, where resistance heats a metal wire until it glows, but undesirable in power transmission and electronic devices. Superconductors eliminate electrical resistance, potentially enabling more efficient energy storage, levitating trains, and advanced quantum computers.",
+        "The obstacle is temperature. Many superconductors must be cooled to approximately -260°C (-436°F), often using expensive liquid helium. Superconductivity was first discovered in 1911, and researchers made major progress in the mid-1980s when they identified materials that could become superconducting at temperatures around -173°C (-279°F). Yet these higher-temperature superconductors presented a mystery: the established theory explaining conventional superconductivity could not account for their behavior.",
+        "“We don’t understand superconductivity at these higher temperatures at all,” says Ingmar Swart [LINK], one of the research leaders. “And if you don’t understand it, you can’t systematically search for materials that become superconducting at room temperature, which is ultimately our goal.”",
+        "Superconductivity requires two essential conditions. First, electrons must form partnerships known as Cooper pairs. Second, those pairs must move in a coordinated quantum state called phase coherence. Without both conditions, a material cannot sustain superconductivity.",
+        "In conventional superconductors, electron pairing and phase coherence emerge together as the material cools below a critical temperature. The new research shows that these processes can occur separately in high-temperature superconductors. Electron pairs can form and remain stable at temperatures far above the point where electrical resistance disappears, including at room temperature.",
+        "“This is really good news,” says Swart. “We show that one of the two key conditions for superconductivity can be met at room temperature. If that weren’t possible, room-temperature superconductivity would be out of reach altogether.”",
+        "The findings indicate that the interaction binding electrons into pairs can remain sufficiently strong at room temperature. This shifts attention toward phase coherence, which may be the limiting factor preventing superconductivity at higher temperatures.",
+        "“The ‘glue’ that holds the pairs together is strong enough to keep them together even at room temperature,” says Swart. “This suggests that the second key ingredient, phase coherence, is the bottleneck.”",
+        "The researchers have not demonstrated room-temperature superconductivity, but their results help narrow the search for what is missing. Swart plans to investigate how phase coherence develops and what prevents electron pairs from achieving it at higher temperatures.",
+        "“If we understand phase coherence, it may point to a path toward superconductivity at higher temperatures.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "phys-looping-dna-may-help-flowers-grow-nectar-producing-organs",
+      "title": "Looping DNA may help flowers grow nectar-producing organs",
+      "dek": "Nectaries are specialized floral tissues that secrete nectar to attract pollinators. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T22:40:05.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-looping-dna-nectar.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Nectaries are specialized floral tissues that secrete nectar to attract pollinators. Although the protein CRABS CLAW (CRC) is established as essential for nectary formation, the exact molecular mechanisms governing how it drives organ growth and secretion have remained unknown.",
+        "To understand the mechanism, a research team led by Professor Toshiro Ito from the Laboratory of Molecular Genetics of Floral Development, Nara Institute of Science and Technology (NAIST), Japan, worked toward identifying key genes and regulatory connections underlying nectary development and function.",
+        "The findings were published online in the journal Nature Communications .",
+        "The researchers combined single-nucleus RNA sequencing with spatial transcriptomics in Arabidopsis thaliana, a widely popular model plant. Their analyses identified CRC and MYB expression in nectary-associated cell populations.",
+        "\"We discovered that CRC and MYB proteins help form a DNA loop that promotes the growth of nectar-producing organs in flowers. We also found that CRC regulates genes involved in sugar transport and the synthesis of scent-related compounds,\" says Ito.",
+        "They also found that CRC interacts with three MYB proteins, namely MYB21, MYB24 and MYB57. Plants lacking the functions of all these proteins developed smaller nectaries, highlighting their contribution to nectary growth.",
+        "The team then focused on MAB4, a gene involved in nectary growth. They identified a regulatory DNA region downstream of MAB4 that acts as an enhancer whose disruption reduced MAB4 expression and resulted in smaller nectaries. Crucially, they detected a physical contact between the region near the MAB4 transcription start site and the downstream enhancer, a connection that was significantly reduced in the absence of functional CRC.",
+        "Based on these findings, the researchers proposed a model in which CRC and MYB proteins form a chromatin loop to activate MAB4, which regulates auxin transport to drive nectary growth.",
+        "Beyond organ development, the study revealed that CRC also regulates genes associated with sugar transport and terpene synthesis, including pathways involved in floral fragrance.",
+        "\"Our study reveals connections between long-range DNA interactions, gene expression, auxin distribution and organ growth, providing new insights and broader understanding of plant organ development,\" says Ito.",
+        "Future research could explore how CRC-dependent gene regulation influences the quantity and composition of nectar and the production of floral scent compounds.",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "In Arabidopsis, CRC interacts with MYB21, MYB24 and MYB57 to support nectary growth. CRC-dependent contact between a downstream enhancer and the MAB4 promoter supports a DNA-looping model linking MAB4 activation to auxin-mediated growth. CRC also regulates genes involved in sugar transport and terpene synthesis.",
+        "Please select the most appropriate category to facilitate processing of your request"
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "scitechdaily-scientists-discover-a-hidden-weakness-in-one-of-the-deadli",
+      "title": "Scientists Discover a Hidden Weakness in One of the Deadliest Cancers",
+      "dek": "Researchers have identified another potential approach to treating pancreatic cancer, with early experiments suggesting that blocking a protein could slow tumor growth and…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T19:25:31.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-a-hidden-weakness-in-one-of-the-deadliest-cancers/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Researchers have identified another potential approach to treating pancreatic cancer, with early experiments suggesting that blocking a protein could slow tumor growth and strengthen immune defenses.",
+        "Pancreatic tumors can be surrounded by tissue so dense that it compresses blood vessels, making it difficult for nutrients to reach cancer cells. Even under these conditions, the cells continue growing. How they obtain the materials needed to survive has remained an important question.",
+        "Researchers at Fox Chase Cancer Center have identified one way pancreatic cancer cells obtain cholesterol and other fats, known as lipids. Their study, published in Nature Cancer , also identified a protein that helps control this process and could offer a potential target for cancer treatment.",
+        "The research focused on pancreatic ductal adenocarcinoma (PDAC), the most common type of pancreatic cancer. These tumors contain large numbers of cancer-associated fibroblasts (CAFs), cells that produce and organize connective tissue. As CAFs and their collagen fibers expand, they can compress nearby blood vessels, restricting the tumor’s blood supply.",
+        "Despite contributing to this nutrient shortage, CAFs also help cancer cells overcome it.",
+        "“We found that CAFs can act as a source of these nutrients,” said Edna Cukierman, PhD, a professor and co-leader of the Cancer Signaling and Microenvironment Program at Fox Chase and co-senior author of the study. “Using laboratory and animal models, we discovered that CAF units acquire cholesterol from the bloodstream and transfer it to nearby pancreatic cancer cells through a process called trogocytosis”",
+        "Trogocytosis occurs when one cell takes small pieces of another cell’s membrane during direct contact. In this case, pancreatic cancer cells acquire pieces of CAF membranes containing cholesterol and other lipids that support their survival and growth.",
+        "The researchers discovered that this transfer depends on a protein called anoctamin 6 (ANO6), which helps prepare the CAF membrane for the exchange.",
+        "“These findings help explain how pancreatic cancer cells obtain essential nutrients despite the unusual structure of the pancreatic tumor microenvironment,” said Igor Astsaturov, MD, PhD, a professor at Fox Chase and co-senior author of the study. “Cancer-associated fibroblasts are not passive bystanders. They actively support tumor growth by transferring lipids to cancer cells.”",
+        "When researchers reduced or eliminated ANO6 in CAFs, the cells became less effective at supporting pancreatic cancer cell survival. In mouse models, tumors supported by CAFs with functional ANO6 grew substantially faster than those without functional ANO6.",
+        "The same nutrient transfer process also appeared to interfere with the immune system.",
+        "Cytotoxic T lymphocytes (CTLs) are immune cells that recognize and kill cancer cells. When these T cells come into contact with CAFs, they can acquire membrane material containing cholesterol. Excess cholesterol in the tumor environment can contribute to T-cell exhaustion, making these immune cells less effective at fighting cancer.",
+        "“With Serge Fuchs, professor at the University of Pennsylvania and co-author on the paper, we were surprised to find that the same cellular mechanism can benefit the tumor in two ways – by supplying cancer cells with lipids while also weakening cancer-fighting T cells,” said Astsaturov. “Targeting ANO6 could potentially disrupt both of these tumor-supporting functions at the same time.”",
+        "In mouse models, blocking ANO6 reduced cholesterol accumulation in T cells within tumors and improved markers of their activity. Laboratory experiments also showed that T cells exposed to CAFs with reduced ANO6 were better able to kill cancer cells."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "conversation-you-likely-have-genes-that-affect-how-well-your-medication",
+      "title": "You likely have genes that affect how well your medications work – testing for them could improve treatment",
+      "dek": "All people carry differences in their DNA that could affect how they respond to medication , according to my team’s newly published research. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T19:00:24.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/you-likely-have-genes-that-affect-how-well-your-medications-work-testing-for-them-could-improve-treatment-296352"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "All people carry differences in their DNA that could affect how they respond to medication , according to my team’s newly published research. Moreover, 1 in 4 already take a medication their body processes differently because of their genetics.",
+        "Clinicians often take a trial and error approach to prescriptions. Two people take the same medicine at the same dose. One starts feeling better, but the other experiences side effects or sees little benefit. For some medications, part of the reason behind that difference in response is written in a person’s DNA.",
+        "The field of pharmacogenomics studies how variations in your DNA contribute to how your body processes and responds to medicines. For instance, genes can influence how quickly your liver breaks down a drug and how long it stays in your bloodstream.",
+        "But using genetic testing to guide prescriptions is not yet routine. Part of the problem is a lack of large population data to study this approach more broadly. Clinicians don’t know when it’s best to order genetic testing. And because most genetic research has been done on people of European ancestry , researchers know less about how common key gene variants are in everyone else.",
+        "To improve the diversity of pharmacogenomic data, my team of researchers and I analyzed the whole genome sequences and health records of nearly 100,000 participants in the All of Us Research Program . All of Us is an effort from the National Institutes of Health to study the health of 1 million or more people across the U. S. and its territories, with a focus on groups historically left out of biomedical research.",
+        "We examined 16 genes with well-established links to how someone responds to different medications, pairing this data with electronic health records to identify which drugs participants had already taken.",
+        "We found that every participant carried at least one relevant genetic variant , and many carried several. Around 99. 5% of participants had a genetic variant for which the Food and Drug Administration or medical guidelines recommend a different drug or change in dose for certain medications.",
+        "Even more telling, about 24% had taken a drug that is affected by a genetic variant they carried. Common examples included drugs used to reduce excess stomach acid, such as omeprazole and pantoprazole, and statins used to lower cholesterol levels. Because health records can be incomplete, our results likely underestimate the actual prevalence of these gene-drug interactions.",
+        "These findings can help improve the databases clinicians and researchers use routinely in research. We identified 17,704 previously unreported variants in the regions of these genes that encode proteins. Computer models predicted that about a quarter may have significant effects on how the body processes drugs.",
+        "Our team also reported the frequencies of hundreds of genetic variants linked to drug response for people from genetic ancestries that previously had incomplete data.",
+        "Overall, our research shows that DNA variation is very common, and broader genetic testing may help optimize the medications clinicians prescribe to patients. It’s also an example of how big initiatives such as the All of Us Research Program can advance precision medicine .",
+        "However, this study doesn’t prove testing would improve outcomes for each of these people. Additionally, genes are only one factor; age, kidney and liver function, and other medications also affect how the body processes drugs .",
+        "Still, I believe the direction of the research is clear. Pharmacogenomics can provide potentially relevant benefits for many people who take medications.",
+        "Philip Empey receives funding from the NIH, Veterans Administration, Shear Family Foundation and Myers Family Foundation."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-could-vitamin-b12-hold-the-key-to-treating-a-rare-genetic-",
+      "title": "Could Vitamin B12 Hold the Key to Treating a Rare Genetic Disorder?",
+      "dek": "A search for genes linked to lifespan uncovered an unexpected connection between RNA splicing, metabolism, and developmental disorders.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T18:50:37.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/could-vitamin-b12-hold-the-key-to-treating-a-rare-genetic-disorder/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "A search for genes linked to lifespan uncovered an unexpected connection between RNA splicing, metabolism, and developmental disorders.",
+        "A mutation linked to a rare developmental disorder appears to interfere with more than the way cells process genetic instructions. Researchers discovered that it also disrupts vitamin B12-dependent metabolism in tiny roundworms. Supplying the vitamin restored key metabolic processes and corrected developmental abnormalities in the animals, raising questions about whether a similar approach could eventually help people.",
+        "The findings concern Verheij syndrome, a rare genetic disorder that causes developmental delays, growth problems, and short stature in children. The condition is associated with changes in a gene involved in RNA splicing, an essential process that prepares messenger RNA for protein production. During splicing, cells remove unnecessary sections of RNA and join the remaining pieces to form instructions that can be used to build proteins.",
+        "The discovery emerged from experiments with the roundworm C. elegans , a widely used model organism in biological research. Scientists were initially searching for genes that influence lifespan when they identified a mutation in a splicing-related gene associated with Verheij syndrome in humans. Worms carrying the mutation grew more slowly and remained unusually small, resembling some of the developmental problems seen in affected children.",
+        "Further genetic screening and metabolic analysis showed that the mutation altered biochemical pathways that depend on vitamin B12. These pathways support normal growth and cellular function. When researchers administered vitamin B12 to the affected worms, the disrupted metabolic processes returned to normal, and the animals’ developmental defects were corrected.",
+        "“We were surprised to find that a change in a fundamental process of RNA processing had such a targeted effect on vitamin B12-dependent metabolism,” says Jonathan Kölschbach, first author of the study. “Even more exciting was that we were able to largely correct the consequences of this change in the worm model using vitamin B12.”",
+        "To investigate whether similar metabolic disruptions occur in humans, the researchers examined publicly available data from human cells. They also worked with Hormos Dafsari, a neuropediatrician at University Hospital Cologne, to obtain blood samples from patients with Verheij syndrome. The analyses provided evidence that metabolic pathways affected in the worms may also be altered in people with the condition.",
+        "However, the results do not establish that vitamin B12 supplementation can treat Verheij syndrome in humans. Additional research is needed to determine whether the metabolic changes contribute directly to patients’ symptoms and whether correcting them could provide clinical benefits. The findings also suggest that metabolic dysfunction may deserve greater attention in other genetic disorders involving defective RNA splicing.",
+        "“Our study is a good example of how basic research on model organisms can provide new insights into human diseases,” says Adam Antebi, Director at the Max Planck Institute for Biology of Ageing and lead author of the study. “A fundamental biological question can thus give rise to a new approach that could also become medically relevant in the long term.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-scientists-discover-that-male-and-female-hearts-age-in-sur",
+      "title": "Scientists Discover That Male and Female Hearts Age in Surprisingly Different Ways",
+      "dek": "The heart may age very differently from one region to another. ",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T18:15:27.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-that-male-and-female-hearts-age-in-surprisingly-different-ways/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "The heart may age very differently from one region to another. A detailed study of mouse hearts found that molecular signs associated with chronic inflammation and tissue scarring were concentrated around the aortic valves and aortic root, rather than being distributed evenly throughout the organ.",
+        "Researchers at The Jackson Laboratory (JAX) identified these hotspots by mapping thousands of cells from young and aged mice. Published in Aging Cell , the findings suggest that structures often overlooked in cardiac aging research may play a central role in how the heart changes over time.",
+        "Previous studies of cardiac aging have largely concentrated on heart muscle, particularly the left ventricle, which pumps oxygenated blood into the aorta and throughout the body. Because mammalian heart muscle cells have very limited capacity for regeneration, understanding how they deteriorate with age has been a major research priority. The JAX team instead examined the entire heart, using single-cell and spatial genomics technologies to identify both the molecular activity of individual cells and their locations within the organ.",
+        "“The valves and the major blood vessels are parts often thought of as plumbing rather than the main engine, but this is a very complicated little machine,” said study author Nadia Rosenthal, scientific director at JAX. “It turns out they’re home to many of the cells we’re interested in, and that’s where some of the most important aging-related signals were concentrated.”",
+        "“Some of the markers associated with inflammaging were there from the very beginning in young hearts, but they were focused specifically in areas no one had defined before, in the valves and the aorta rather than in muscle tissue,” Rosenthal said. “We really have to think of aging as something that is not linear, because just like we know that people don’t age at the same rate, what we know now is that organs and tissues don’t age at the same rate either, even within one individual.”",
+        "Aging is associated with persistent, low-grade inflammation, sometimes called “inflammaging.” The researchers focused on two cell populations involved in this process: immune cells that help regulate inflammation (macrophages) and structural cells responsible for maintaining connective tissue and producing scar tissue (fibroblasts). In older mouse hearts, macrophages showed increased activity in genes associated with inflammation and tissue remodeling, while fibroblasts exhibited molecular patterns linked to fibrosis (or scarring).",
+        "“To keep muscle cells happy, the other cells in the heart have to continue supporting them throughout life,” Rosenthal said. “What this study does, for the first time, is provide a comprehensive picture of how those support cells, particularly fibroblasts and macrophages, change with age and contribute to what we call inflammaging.”",
+        "The team also detected increased activity in two genes within the identified hotspots. Ccl8 produces an inflammatory signaling molecule, while Cdkn1a (also known as p21) helps regulate the cell cycle and is commonly associated with cellular senescence. Their activity points to changes in signaling between neighboring cells, not simply isolated changes within individual cell types. “We’re not talking about single genes. We’re talking about an entire conversation between immune cells and fibroblasts. As the heart ages, the way those cells communicate changes, and that shift appears to be linked to the inflammation and tissue remodeling we see in older hearts,” Rosenthal said.",
+        "Some molecular markers traditionally associated with senescent cells were already present in young mouse hearts. Cellular senescence occurs when cells permanently stop dividing, often following stress or damage. Senescent cells can contribute to inflammation and tissue deterioration, but the researchers found that the presence of commonly used senescence markers does not necessarily establish that a cell has entered this state.",
+        "“What surprised us was that some of these markers that have been associated with aging were already present in young hearts. They weren’t where anyone expected to find them, and that forced us to rethink what those markers are telling us,” Rosenthal said. “That turns the usual interpretation of cardiac aging on its ear because these markers alone don’t mean a cell is senescent. There’s nothing senescent about a six-month-old mouse heart.”"
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "conversation-the-religious-left-may-be-rising-but-black-christian-women",
+      "title": "The ‘religious left’ may be rising – but Black Christian women have been there all along",
+      "dek": "During campaign season, headlines were full of candidates who spoke openly about their faith – and many of them were Democrats.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-11T17:47:30.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/the-religious-left-may-be-rising-but-black-christian-women-have-been-there-all-along-296110"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "During campaign season, headlines were full of candidates who spoke openly about their faith – and many of them were Democrats.",
+        "Adam Hamilton , the new senator-elect from Kansas, is pastor of the United States’ largest United Methodist congregation. Frederick Haynes , who will represent a Texas district in the U. S. House of Representatives, is a Baptist pastor. Texas Sen. -elect James Talarico is a Presbyterian seminary student who put a biblical commandment – “Love thy neighbor” – at the center of his campaign.",
+        "Since election night, journalists and commentators have attributed a significant amount of credit for the proverbial “Blue Wave” to the religious left . Although some mention Michigan Sen. -elect Abdul El-Sayed, who is Muslim, and Ohio Gov. -elect Amy Acton, who is Jewish, the focus has been on progressive Christians .",
+        "As a scholar of race, gender and religion whose work focuses on Black Protestant Christianity , I found post-election reporting about a rise in the religious left curious. Voters from many faith traditions did help power the “Blue Wave,” but one often-overlooked group has long been the left’s staunchest supporters: Black Christian women.",
+        "Focus on the “return” of the religious Democrats highlights the contrast between the religious diversity on the left and the allegiance between MAGA Republicans and evangelicals on the right . According to NBC exit polls , 82% of voters who consider themselves white evangelicals or born-again Christians voted for GOP candidates in 2026. In 2024, 82% of evangelicals in 10 key states voted for President Donald Trump .",
+        "But talking about religious Democrats as if they are a new, shiny bauble implies that, until this election, religious progressives have been off the ballot. That is simply not the case, especially when it comes to Black women.",
+        "Over the last four elections , majorities of both female voters and Black voters have voted blue . Black women vote for Democrats by an ever bigger margin : 93%, in 2026 exit polls, compared with 59% of women overall and 86% of Black men. Although Black women account for only 5-7% of Americans, they have been the most consistent Democratic voting bloc.",
+        "More than 7 in 10 Black Americans are Christian , and the vast majority are Protestant. Another 4% belong to other faiths, including Islam, and 22% are religiously unaffiliated. According to Pew’s 2023-24 Religious Landscape Survey , 2 in 3 members of Black Protestant denominations are women.",
+        "Many Black women candidates spoke about faith on the campaign trail.",
+        "For example, Keisha Lance Bottoms , the governor-elect of Georgia, attends a Methodist church . A few days after her victory, she spoke at the historic Ebenezer Baptist Church in Atlanta, pastored by Democratic Sen. Raphael Warnock of Georgia. During her visit, Lance Bottoms recalled that she had prayed about whether to run for governor and said that “God told me to go.” Her billionaire opponent was a “Goliath,” she said, but “ our God supplied all of our needs .”",
+        "Anita Earls , who was re-elected as a judge on the North Carolina Supreme Court, is a longtime member of the African Methodist Episcopal Church .",
+        "Among sitting Democrats, Delaware Sen. Lisa Blunt Rochester has spoken about her Christian faith . Massachusetts Rep. Ayanna Pressley , who grew up Baptist, has called herself “ a sister in Christ and a woman of faith. Someone who believes in the power of prayer.”",
+        "Before them was Shirley Chisholm , who became the first Black woman elected to Congress in 1968. Four years later, she was the first Black woman to run for president on the Democratic ticket. Her 1970 memoir, “ Unbought and Unbossed ,” recounts her commitment to progressive ideals, ranging from education to women’s reproductive rights, and to her Christian faith.",
+        "“America has the laws and the material resources it takes to ensure justice for all its people,” she wrote . “What it lacks is the heart, the humanity, the Christian love that it would take. It is perhaps unrealistic to hope that I can help give this nation any of those things, but that is what I believe I have to try to do.”",
+        "Before Black women were voted into office, however, they were already pillars of progressive politics . Historically, Black churches have been more than a place to foster belief. They have also been community-based institutions that fostered social, political and economic justice.",
+        "Within Black denominations, men tend to hold senior leadership positions. In his famed book “ The Souls of Black Folk ,” sociologist W. E. B. DuBois observed that the Black preacher was also a community “leader, a politician, an orator, a ‘boss,’ an intriguer, an idealist.”",
+        "Women’s role was less public, but no less vital , including social and political organizing. In “ Witnessing and Testifying ,” religion professor Rosetta Ross showed how Black women’s faith and activism inspired each other during the Civil Rights Movement. Among the women Ross surveyed is Ella Baker, who organized the initial meeting for what would become the Student Nonviolent Coordinating Committee and often “used Christian scripture to admonish listeners to fight” for freedom.",
+        "Women like Baker, voting rights activist Fannie Lou Hamer , and Clara Muhammad , wife of Nation of Islam founder Elijah Muhammad, show how Black communities’ concerns and faith often intertwined with progressive politics . In 1958, Nannie Helen Burroughs, founder of the Women’s Auxiliary of the National Baptist Convention , said that African American Christians wanted “ Jesus, jobs and justice .”",
+        "Today, too, faith guides many progressive Black women’s politics and public service. For voting rights activists, for example, casting a ballot is not just a right , but something sacred .",
+        "Over the past week, journalists and political pundits have drawn attention to the many different groups that moved to the left to fuel Democrats’ midterm victories, including young voters, Latinos, Asian Americans, men and political independents. Black women voters, meanwhile, have remained steady .",
+        "Indeed, history has shown how their steadiness helped guide the Democratic Party’s political and moral compass . And I am willing to wager that they will continue to play an essential role in what the left does between now and 2028.",
+        "Dara Delgado does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "scitechdaily-james-webbs-mysteriously-bright-galaxies-may-finally-have-",
+      "title": "James Webb’s Mysteriously Bright Galaxies May Finally Have an Explanation",
+      "dek": "Calculations suggest powerful ultraviolet light from young stars could sweep gas out of early galaxies while leaving dense star-forming regions intact, offering a clue to…",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T15:46:32.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/james-webbs-mysteriously-bright-galaxies-may-finally-have-an-explanation/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Calculations suggest powerful ultraviolet light from young stars could sweep gas out of early galaxies while leaving dense star-forming regions intact, offering a clue to their mysterious brightness.",
+        "The James Webb Space Telescope has revealed something unexpected about the early universe: bright galaxies were far more common just a few hundred million years after the Big Bang than astronomers thought possible. A new analysis suggests these galaxies may not necessarily be producing more light than expected. Instead, powerful ultraviolet radiation from young stars could be clearing away gas and dust, allowing more of their light to reach us.",
+        "Researchers at the Simons Foundation’s Flatiron Institute in New York City and the University of Texas at Dallas investigated this possibility by examining how ultraviolet light called Lyman-alpha radiation interacts with material surrounding young stars. Their findings, published November 4 in The Astrophysical Journal , suggest that this radiation can drive gas and dust out of less dense regions of galaxies, potentially explaining why some of the earliest galaxies appear unusually bright.",
+        "“Our results show Lyman-alpha radiation can push low-density gas and dust away really, really fast,” says Shyam Menon, a research fellow at the Flatiron Institute’s Center for Computational Astrophysics and the study’s lead author. “It can sort of clear the ‘fog,’ allowing us to see stars in the early universe much more clearly than we would otherwise.”",
+        "Lyman-alpha radiation forms when an electron collides with a hydrogen atom or joins a hydrogen ion, and it can be especially abundant in regions where young stars are forming. When this light encounters gas or dust, it transfers momentum to the material, creating pressure that can push it outward.",
+        "What makes Lyman-alpha radiation particularly powerful is how hydrogen responds to it. While most absorbed light is released at a different wavelength, hydrogen atoms almost immediately re-emit Lyman-alpha radiation at the same wavelength, allowing nearby atoms to absorb and release it repeatedly. These repeated interactions increase the force exerted by the light, potentially pushing surrounding material away from regions where stars are forming.",
+        "Astronomers have long suspected that this pressure could reshape stellar nurseries by removing gas needed for star formation, possibly even stopping the process under extreme conditions. However, the repeated interactions between radiation and hydrogen are difficult to reproduce in computer simulations, making it challenging to determine how much influence the radiation actually has.",
+        "“We’ve known for a very long time that Lyman-alpha radiation could be important because it carries a lot of force,” Menon says. “But we’ve never actually been able to estimate how important it is in a realistic environment because of how challenging it is to model.”",
+        "To address this problem, Menon and collaborator Aaron Smith of the University of Texas at Dallas analyzed snapshots from an existing simulation of a star-forming region in the early universe. Rather than tracking every interaction between light and matter, they calculated how much pressure Lyman-alpha radiation would exert on the surrounding gas and dust.",
+        "Their calculations revealed that the radiation behaves differently depending on the density of the surrounding material. In dense star-forming regions, gravity remained strong enough to hold gas and dust in place despite the outward pressure, suggesting that Lyman-alpha radiation had little effect on star formation there. In less crowded regions between stars, however, the radiation could overcome gravity and drive material outward at high speeds.",
+        "Multiple views of a 2. 5-million-year simulation visualizing a gas cloud as it is cleared away and the formation of stars. From left to right, the views show the gas density, ionization, and temperature. Credit: Shyam Menon (Flatiron Institute) and Aaron Smith (UT Dallas)",
+        "“When the density is low enough, the Lyman-alpha radiation can push the gas to really high speeds, launching explosive winds that can shoot material clear out of the galaxy,” Menon says.",
+        "These winds could help explain the unexpectedly bright galaxies detected by the James Webb Space Telescope. By removing loosely distributed gas and dust from between stars, the radiation may create clearer paths for starlight to escape, making distant galaxies appear brighter without requiring them to produce unusually large amounts of light."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "scitechdaily-a-planet-11-times-bigger-than-jupiter-is-challenging-what-",
+      "title": "A Planet 11 Times Bigger Than Jupiter Is Challenging What We Thought About Planet Formation",
+      "dek": "New observations of the giant exoplanet Beta Pictoris b are challenging assumptions about how and where massive planets form.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T15:11:34.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-planet-11-times-bigger-than-jupiter-is-challenging-what-we-thought-about-planet-formation/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "New observations of the giant exoplanet Beta Pictoris b are challenging assumptions about how and where massive planets form.",
+        "New observations of Beta Pictoris b, a massive planet orbiting a young star, are challenging a method astronomers hoped could reveal where giant planets form. More precise measurements of the planet’s atmosphere have overturned an earlier result, raising doubts about whether a particular chemical signature can reliably trace a planet’s birthplace.",
+        "Located in a 23-million-year-old planetary system, Beta Pictoris b is approximately 11 times Jupiter’s mass. It orbits about 10 astronomical units (approximately 930 million miles) from its star, completing one revolution every 23 years. Earlier atmospheric measurements suggested the planet might have formed much farther away before migrating inward, but the latest evidence points to a different possibility.",
+        "Astronomers have proposed using the relative abundance of two forms of carbon monoxide (CO) to determine where giant planets formed within their original disks of gas and dust. These molecules contain different carbon isotopes, 12C and 13C, which have the same number of protons but different numbers of neutrons. Their slightly different masses can influence how they behave during chemical processes.",
+        "The method relies on the carbon monoxide snowline, the distance from a young star beyond which temperatures become cold enough for CO gas to freeze onto dust grains. Planets forming beyond this boundary may accumulate carbon monoxide ice, potentially leaving a different isotopic signature than planets that develop in warmer regions where CO remains gaseous.",
+        "Earlier observations of Beta Pictoris b using the original GRAVITY instrument produced a relatively low ratio of 12CO to 13CO. That result appeared consistent with formation beyond the snowline, followed by inward migration to the planet’s present orbit. However, the researchers cautioned that instrumental limitations could have affected the measurement.",
+        "A team led by Antonia von Stauffenberg, a doctoral student at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany, has now revisited the planet using GRAVITY+. The upgraded instrument operates at the Very Large Telescope Interferometer (VLTI), managed by the European Southern Observatory (ESO) in Chile.",
+        "The new observations reveal a substantially higher 12CO/13CO ratio than previously reported. While 12CO produces a readily detectable signal, its less abundant counterpart, 13CO, is considerably harder to measure accurately. GRAVITY+ provides improved adaptive optics and greater observational precision, allowing researchers to better distinguish the two molecules.",
+        "“The GRAVITY+ interferometric instrument is highly stable […], making it uniquely capable of high-fidelity characterization of directly imaged exoplanets,” says co-author and MPIA scientist Jonas Sauter.",
+        "The revised ratio agrees with independent measurements reported by González Picos et al. (2026) using a different instrument. This agreement supports the new result and indicates that systematic uncertainties affected the earlier GRAVITY measurements.",
+        "The researchers also detected tentative variations in the planet’s observed brightness. These fluctuations appear to follow a period of approximately 8. 7 hours, close to the planet’s rotation period.",
+        "If confirmed, the variations could arise from atmospheric clouds or chemical differences moving in and out of view as the planet rotates. However, the evidence remains statistically weak, and more sensitive observations will be necessary to establish whether the changes are real.",
+        "“The ability to accurately constrain both isotopologues and potential rotational variability using ground-based observations of a bona fide planet such as Beta Pictoris b demonstrates the exceptional data quality achieved with the updated GRAVITY+ instrument,” says von Stauffenberg.",
+        "Under the proposed formation model, the revised carbon monoxide ratio would favor an origin inside the snowline, consistent with Beta Pictoris b’s current orbital distance. Yet the measurement also closely resembles ratios observed throughout the Solar System and the interstellar medium, the gas and dust occupying the space between stars."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "nasa-water-surges-into-navajo-reservoir",
+      "title": "Water Surges Into Navajo Reservoir",
+      "dek": "Back-to-back extreme rain events inundated the Four Corners region of the U. S. ",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T05:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Back-to-back extreme rain events inundated the Four Corners region of the U. S. Southwest in late October and early November 2026. The storms alleviated short-term drought conditions in the Southwest but caused river levels to spike to record or near-record levels in places, triggering damaging floods.",
+        "One effect of the heavy rains detected by satellites was the rapid rise of water levels in Navajo Reservoir. The change is visible in the images above, acquired on September 20 (left) and November 7 (right) with the OLI (Operational Land Imager) on Landsat 9 . In that time, the lake in northern New Mexico and southern Colorado rose by nearly 60 feet (18 meters), according to data from the U. S. Army Corps of Engineers. (Note that the Bureau of Reclamation decreased releases from Navajo Dam on September 16 and 17. )",
+        "On November 7, the reservoir stood at its highest level since August 2019 and at 108 percent of the average capacity for that date. That contrasts with September 20, when it held just 60 percent of its average capacity. Due to snow drought across the West in winter 2025-26, the lake saw relatively little growth in the spring, when snowmelt often raises water levels.",
+        "The San Juan, Piedra, and other rivers swelled with runoff amid the wet weather. Pagosa Springs, Colorado, a town along the San Juan River about 40 miles (64 kilometers) northeast of the lake, was especially hard-hit by flooding. In the first round of rain, 5. 05 inches (12. 8 centimeters) fell in the town, and on October 23 the river reached major flood stage . After more rain, the river spiked again on November 1, this time nearly to the record level set in 1911 during a devastating flood . Officials issued evacuation orders, and responders rescued dozens of people, according to news reports , while water inundated streets and damaged property.",
+        "Heavy rain and flooding have been widespread across southwest Colorado, southeast Utah, northern Arizona, and northwest New Mexico in recent weeks. From early September through early November, precipitation totals were 2 to 4 times the average throughout the Four Corners region—an area beset by long-term drought that was exacerbated by snow drought and high temperatures in 2026.",
+        "Though the downpours posed hazards to communities along many rivers, they did provide drought relief throughout the region. Weekly U. S. Drought Monitor maps, derived from a suite of satellite data products and ground-based observations, have indicated improvements to drought conditions due to the fall storms. The group’s November 3 summary noted that “short-term drought has ended for the Southwest and Great Basin,” although long-term drought persists in places.",
+        "Wet weather in the Southwest is often associated with El Niño events, when the segment of the jet stream flowing eastward near the equatorial Pacific tends to strengthen. Experts noted that the low-pressure system delivering the heavy rainfall in autumn 2026 was at a low latitude for the time of year and drew energy from unusually high ocean temperatures. El Niño patterns—like the one currently underway —can increase the likelihood of moisture-laden storms being steered across the Southwest interior."
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "nasa-news-water-surges-into-navajo-reservoir",
+      "title": "Water Surges Into Navajo Reservoir",
+      "dek": "Back-to-back extreme rain events inundated the Four Corners region of the U. S. ",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T05:01:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Back-to-back extreme rain events inundated the Four Corners region of the U. S. Southwest in late October and early November 2026. The storms alleviated short-term drought conditions in the Southwest but caused river levels to spike to record or near-record levels in places, triggering damaging floods.",
+        "One effect of the heavy rains detected by satellites was the rapid rise of water levels in Navajo Reservoir. The change is visible in the images above, acquired on September 20 (left) and November 7 (right) with the OLI (Operational Land Imager) on Landsat 9 . In that time, the lake in northern New Mexico and southern Colorado rose by nearly 60 feet (18 meters), according to data from the U. S. Army Corps of Engineers. (Note that the Bureau of Reclamation decreased releases from Navajo Dam on September 16 and 17. )",
+        "On November 7, the reservoir stood at its highest level since August 2019 and at 108 percent of the average capacity for that date. That contrasts with September 20, when it held just 60 percent of its average capacity. Due to snow drought across the West in winter 2025-26, the lake saw relatively little growth in the spring, when snowmelt often raises water levels.",
+        "The San Juan, Piedra, and other rivers swelled with runoff amid the wet weather. Pagosa Springs, Colorado, a town along the San Juan River about 40 miles (64 kilometers) northeast of the lake, was especially hard-hit by flooding. In the first round of rain, 5. 05 inches (12. 8 centimeters) fell in the town, and on October 23 the river reached major flood stage . After more rain, the river spiked again on November 1, this time nearly to the record level set in 1911 during a devastating flood . Officials issued evacuation orders, and responders rescued dozens of people, according to news reports , while water inundated streets and damaged property.",
+        "Heavy rain and flooding have been widespread across southwest Colorado, southeast Utah, northern Arizona, and northwest New Mexico in recent weeks. From early September through early November, precipitation totals were 2 to 4 times the average throughout the Four Corners region—an area beset by long-term drought that was exacerbated by snow drought and high temperatures in 2026.",
+        "Though the downpours posed hazards to communities along many rivers, they did provide drought relief throughout the region. Weekly U. S. Drought Monitor maps, derived from a suite of satellite data products and ground-based observations, have indicated improvements to drought conditions due to the fall storms. The group’s November 3 summary noted that “short-term drought has ended for the Southwest and Great Basin,” although long-term drought persists in places.",
+        "Wet weather in the Southwest is often associated with El Niño events, when the segment of the jet stream flowing eastward near the equatorial Pacific tends to strengthen. Experts noted that the low-pressure system delivering the heavy rainfall in autumn 2026 was at a low latitude for the time of year and drew energy from unusually high ocean temperatures. El Niño patterns—like the one currently underway —can increase the likelihood of moisture-laden storms being steered across the Southwest interior."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "conversation-glp-1-drugs-carry-risk-of-rare-but-serious-eye-condition-a",
+      "title": "GLP-1 drugs carry risk of rare but serious eye condition – a physician studying these medicines explains the potential side effect",
+      "dek": "GLP-1 drugs must now carry a warning label about a potential link to a rare eye condition that can result in vision loss, the U. S. ",
+      "category": "健康",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-10T23:07:25.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/glp-1-drugs-carry-risk-of-rare-but-serious-eye-condition-a-physician-studying-these-medicines-explains-the-potential-side-effect-296237"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "GLP-1 drugs must now carry a warning label about a potential link to a rare eye condition that can result in vision loss, the U. S. Food and Drug Administration announced on Nov. 9. 2026. The eye condition is called non-arteritic anterior ischemic optic neuropathy , or NAION, and doctors often refer to it as a stroke of the eye.",
+        "I am a clinician and epidemiologist who has studied GLP-1 drugs, and my colleagues and I published one of the studies that identified a link between GLP-1 drugs and NAION .",
+        "Millions of people around the world take these medications – including 30 million in the U. S. – to treat diabetes and obesity and reduce the risk of cardiovascular disease. They are also being investigated for an expanding list of clinical conditions .",
+        "The data on which the FDA’s warning is based suggests a real but low risk of NAION for people taking GLP-1 medications. This is not a trivial or inconsequential outcome for those who develop the eye stroke. But on balance, if you’re using the medication for an FDA-approved condition such as diabetes or obesity on the advice of your doctor, the risk should not deter you from doing so.",
+        "Here’s what patients who use GLP-1 drugs need to know about this rare but serious side effect.",
+        "NAION is an injury to the optic nerve , which is the nerve that connects the eye to the brain. This eye condition is caused by a sudden reduction in blood flow. Without enough blood flow, patients may experience sudden, painless blurry vision, dark patches, partial loss of vision or even blindness.",
+        "These symptoms generally persist and often lead to permanent visual impairment. Patients often notice these symptoms first thing in the morning when they wake up, as it tends to happen more frequently at night when blood pressure is naturally lower.",
+        "As use of GLP-1 drugs increased – particularly since 2021, when they were approved for obesity – cases of NAION began to emerge. A 2024 study of close to 17,000 patients referred to ophthalmology clinics was the first to show a potential link. It reported an increased risk of the eye condition among the subset of those patients who were prescribed a GLP-1 drug.",
+        "To determine that the connection was strong enough to merit a warning, the FDA first compiled data from 126 randomized, controlled clinical trials of GLP-1 drugs. Those trials included a total of 134,253 patients – 78,217 of them were on GLP-1 drugs and 56,036 received a placebo or a different medication, for comparison.",
+        "Per year, on average, the incidence of NAION cases was 6. 4 per 100,000 people for patients taking the GLP-1 drugs and 3. 8 per 100,000 among people given a placebo or other drug. This translated into 2. 6 extra cases of NAION per 100,000 patients on GLP-1 drugs.",
+        "In a separate analysis, the FDA reviewed GLP-1 drug data from its own network of sentinel programs that track the real-world safety of approved medications. They assessed how often people with type 2 diabetes who started either a GLP-1 drug or two other common types of diabetes medications reported having NAION between 2019 and 2024.",
+        "Patients taking GLP-1 drugs had a small but meaningfully higher risk compared to one type of diabetes drug, called DPP-4 inhibitors, which prevent the breakdown of the body’s own natural GLP-1. Over the course of one year, those taking GLP-1 drugs experienced NAION at a rate of 32 per 100,000 and those taking DPP-4 inhibitors at a rate of 26 per 100,000. This resulted in 6 extra cases of NAION per 100,000 patients among people on GLP-1 drugs.",
+        "Other studies that use real-world data such as electronic health records or insurance claims to track the health of people over many years have also found a consistent association between GLP-1 drugs and NAION .",
+        "For example, my colleagues and I tracked nearly 600,000 U. S. veterans with type 2 diabetes starting either a GLP-1 drug or a different drug over three years. For patients on GLP-1 drugs, we found that the incidence of this eye disorder was roughly 390 cases per 100,000 people, compared with 290 per 100,000 on an alternative medication. In other words, among people taking GLP-1 drugs, there were about 100 extra cases per 100,000 patients.",
+        "That number varied somewhat across studies, probably because of group differences among patients. For example, in some, patients were on average older, or also had other conditions that might contribute to their risk.",
+        "What’s clear is that the slightly increased risk of NAION does not seem to be specific to any one GLP-1 drug but can occur regardless of which GLP-1 drug a patient takes. It’s possible that some GLP-1 drugs may have a higher risk than others, but so far, there’s no research addressing this.",
+        "The FDA’s announcement follows a 2025 review by European regulators, which examined NAION risk in only one type of GLP-1 drug, called semaglutide. It concluded that this eye condition is a very rare side effect of semaglutide and mandated that the package insert be updated to include NAION as a very rare side effect.",
+        "The risk of NAION with GLP-1 drugs is likely real. All the evidence – the FDA’s two analyses, the real-world studies conducted by independent researchers and the fact that two regulators reached the same view independently – points in the same direction.",
+        "But in terms of the total number of people who are likely to experience this side effect, the risk is small. In my view, this makes the FDA’s warning not a cause for alarm but rather an unlikely but not impossible outcome that both clinicians and patients should be aware of.",
+        "Clinicians should discuss it with their patients before prescribing a GLP-1 drug – and patients should be educated on the symptoms of NAION and how to tell if they are experiencing it.",
+        "Patients should also seek immediate care at the earliest signs of vision problems. For patients who have previously had NAION or who already have risk factors for it , including smoking, diabetes, high blood pressure, sleep apnea, anemia and kidney disease, careful discussion weighing the risks and benefits is important.",
+        "Ziyad Al-Aly does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "conversation-pa-gov-josh-shapiros-popularity-and-get-sh-t-done-attitude",
+      "title": "Pa. Gov. Josh Shapiro’s popularity and ‘get sh-t done’ attitude might not cut it in crowded 2028 Democratic field – but he has options",
+      "dek": "The 2026 midterm elections swept Democrats into office around the country in such numbers that journalists were running out of synonyms for “ massive .”",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-10T22:21:08.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/pa-gov-josh-shapiros-popularity-and-get-sh-t-done-attitude-might-not-cut-it-in-crowded-2028-democratic-field-but-he-has-options-295841"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "The 2026 midterm elections swept Democrats into office around the country in such numbers that journalists were running out of synonyms for “ massive .”",
+        "In Pennsylvania, Gov. Josh Shapiro won reelection by 22 percentage points, winning more than 60% of the vote – something that has been accomplished only twice before in the modern era in the Keystone State.",
+        "Not only did Shapiro wipe the floor with his opponent Stacy Garrity, the state treasurer, but he also helped flip four U. S. House seats from red to blue. His coattails benefited down-ballot candidates , helping Democrats solidify their control of the state House and flip the state Senate as well .",
+        "Shapiro’s political stock in Pennsylvania is riding high.",
+        "I’m a political science professor and political media researcher in central Pennsylvania, and many of my former students work in Harrisburg. Some are Democrats working for or around the governor; others are Republicans working in different corners of state government. All are finely tuned to the political gossip that swirls around a successful politician whose star is on the rise. It is the worst-kept secret in American politics that Josh Shapiro wants to be president.",
+        "I’ve met the governor a handful of times and can attest to his George Clooney-level charisma. He’s a hard worker, has maintained a remarkably clean political profile, and is from many accounts a genuinely nice dude.",
+        "And yet, there are plenty of reasons his ambitions may require some careful timing, regardless of his personal strengths.",
+        "Shapiro’s political victories didn’t just happen. Over the past four years, he has worked to demonstrate bipartisan competence as Pennsylvania’s chief executive, adopting an expression he uses frequently: “ get sh-t done .”",
+        "Now, with Democrats holding the governor’s office and both chambers of the General Assembly, Shapiro told reporters : “We got the power now, the House, the Senate. We have to deliver.”",
+        "Shapiro’s approval ratings have remained strong , consistent with his reelection margins. That’s unusual in a state that has swung back and forth between supporting Donald Trump in 2016 , Joe Biden in 2020 and Trump again in 2024 , each time by fewer than 2 percentage points.",
+        "If Shapiro is indeed seriously eyeing the White House , his current popularity will certainly serve him well. But winning the presidency is an enormous undertaking, particularly in a crowded field.",
+        "With Trump unable to run in 2028, the next presidential election will feature open seats for both parties and likely attract many candidates. Democrats, in particular, have a deep bench of attractive potential contenders .",
+        "There are so many possibilities that Shapiro could find himself running against people very much like him: younger centrists, swing-state politicians and accomplished elected officials with solid records. Consider just a few names that could be part of the conversation: Georgia Sen. Jon Ossoff, Illinois Gov. JB Pritzker and former Chicago Mayor Rahm Emanuel.",
+        "Shapiro would have to find a way to distinguish himself in a field filled with candidates who can make many of the same arguments about their experience, political appeal and accomplishments. That’s a tall order. A Plan B might be wise.",
+        "He could run for the Senate in 2028 against incumbent John Fetterman, if Fetterman seeks reelection . This would be a twofer: Shapiro would continue his rise in politics, and he would likely beat a guy he apparently does not like. The two reportedly don’t speak , much less get along.",
+        "Shapiro could also position himself for a vice presidential nomination by attaching himself to another 2028 hopeful. This would buy him time to build his national profile, allow the presidential field to sort itself out and potentially put him in a strong position for another run at the White House down the road. It would also give him an opportunity to demonstrate that he can work effectively on a national stage.",
+        "Or he could angle for a Cabinet post. The federal government has undergone significant restructuring under DOGE and Trump’s executive orders. Should a Democrat win the White House in 2028, rebuilding federal agencies and restoring institutional capacity will be a monumental undertaking. Shapiro could be an attractive candidate for a major administrative role.",
+        "The bottom line for Shapiro is that he will need to distinguish himself from a crowded field of Democrats by emphasizing his statewide victories in a major swing state, impressive fundraising ability and a political voice that can evoke Barack Obama without alienating either his party or the broader electorate. That’s a tricky feat, even for the most talented politicians.",
+        "But Nov. 3, 2026, showed us that he knows how to make sh-t happen. Whatever he decides, the next two years will be important for Shapiro, consequential for Democrats, and fascinating for political scientists like me, who will be watching events unfold with a keen eye and, probably, a bucket of popcorn."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "conversation-students-creating-documentaries-with-scientists-deepens-st",
+      "title": "Students creating documentaries with scientists deepens STEM belonging and public trust in science",
+      "dek": "Marine scientists navigate autonomous glider robots across the Atlantic Ocean and along the West Antarctic Peninsula , collecting data to help predict storm intensity.",
+      "category": "校园",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-10T21:56:42.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/students-creating-documentaries-with-scientists-deepens-stem-belonging-and-public-trust-in-science-293506"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Marine scientists navigate autonomous glider robots across the Atlantic Ocean and along the West Antarctic Peninsula , collecting data to help predict storm intensity.",
+        "When farmers’ fields are destroyed by an unknown pathogen, plant scientists spend years breeding new varieties of disease-resistant food crops.",
+        "A team of microbiologists explore deep-sea volcanoes in search of organisms that may contain anticancer compounds.",
+        "These are passionate people who are dedicated to seeking solutions to real-world problems. They are also the main characters in science documentaries produced in the Rutgers Immersive Learning Science Storytelling Lab that I oversee. Our lab pairs students with working scientists to co-create documentaries about research as it happens, while earning experiential learning credit.",
+        "At a time when confidence in science is declining , I was approached by scientists who wanted their authentic research stories communicated to broad audiences.",
+        "I am an educator, a researcher and anthropologist , and a science filmmaker who has been making science documentaries with Rutgers students and researchers since 2008. The science-in-action storytelling model I developed is intended to make the human journey of science visible to the public. Our stories communicate the process, motivations and integrity behind science, which helps earn public confidence and trust in science .",
+        "I also partner with STEM learning researchers to gauge whether our documentaries increase the relatability of scientists, increase public understanding of scientific processes and help students find belonging in STEM.",
+        "Science-in-action storytelling is composed of five steps that support student-scientist relationships.",
+        "First, the storytellers develop trust with the participating university scientists. This trust stems from shared respect and a mutual understanding of the co-creation process.",
+        "The scientists then invite storytellers into their labs and field sites, where we capture their research processes in real time. This is Step 2.",
+        "Our professional storytelling team, which includes students, then documents scientists conducting research, including experiments and data collection, as they describe the why and how of their work. Depending on the complexity of the project, we collect dozens to hundreds of hours of science-in-action video footage.",
+        "Importantly, this video data is maintained in our storytelling lab, as it often includes recordings of federally funded research. Maintaining the video data repository is a key component to establishing and sustaining trust with the participating scientists.",
+        "Step 3 invites students to immerse themselves in the video data and begin shaping the footage into documentary scenes, constructed using only the scientists’ words, without narration. As they analyze hours of footage, our students learn about the authentic scientific processes; in doing so, they participate in research through the process of storytelling.",
+        "Our students are not graded on their documentary skills, nor are they required to make a film. Instead, they are graded on the science they learn through the storytelling process.",
+        "Step 4 requires that the students share drafts of their documentary scenes with the featured scientist to verify the accuracy of the science communicated. This step is part of the foundational trust agreement with the scientists but is also an opportunity for the students to personally connect with scientists.",
+        "For Step 5, our lab works to distribute the documentaries to a wide variety of audiences, including the general public. Here we partner with STEM learning experts to assess audiences’ understanding of and trust in the science communicated in the film and audience perceptions of the featured scientists.",
+        "Our completed science-in-action documentaries have reached audiences far beyond the university. Our National Science Foundation-funded “ Antarctic Edge: 70° South ” had a theatrical release and aired on Netflix. “ Atlantic Crossing ” was broadcast on PBS stations and was included in a three-year Smithsonian exhibit . “ Fields of Devotion ” was shared by the Association of American Universities as part of its campaign to increase public trust in science . And our lab’s newest long-form documentary, “ Mysteries of 9° North ,” co-created with 14 undergraduates and featuring scientists studying life at deep-sea volcanoes, will be released to the public in early 2027.",
+        "Our surveys capture how these science documentaries change audience understanding of science and how it is done. For example, after screening “ Antarctic Edge ,” viewers’ self-reported understanding of climate change rose from 71% to 91% . On a 15-item knowledge quiz, average scores rose, with gains of up to 24 percentage points on the concepts they knew least about.",
+        "When 102 undergraduates were asked what made the scientists in “ Fields of Devotion ” relatable, they named passion for the subject (72%), desire to help others (71%) and commitment to their work (70%).",
+        "Our survey results also suggest that students who participated in the lab gained confidence and feelings of belonging in a science community. Undergraduates who once said they did not feel “smart enough” reported that they could now see themselves as scientists . All participating students reported that their collaboration with scientists positively transformed their understanding of science.",
+        "Nonscience majors gained a deep understanding of the scientific process, while science majors gained rare access to research outside their own disciplines.",
+        "Student-directed science documentaries include “ Growing the Caribbean Glider Fleet ,” featuring scientists monitoring hurricane development; “ Biting Back: The Lifesaving Potential of Catnip ,” about the development of natural insect repellents; “ Where Waters Meet on the Breathing Shore ,” featuring climate scientists studying coastal ecosystems; “ The B. A. S. I. L Project ,” about USDA-funded plant-breeding research; “ Ocean Farming ,” about NOAA supported oyster breeding; “ The Women of Nsongwe ,” about USAID-supported agriculture projects in Zambia; and “ Skycatcher ,” about an NSF-funded atmospheric chemistry study in Alabama.",
+        "This science-in-action model offers a path forward that other universities could follow. Institutions can strengthen students’ STEM learning and science identities while training a new generation of credible, relatable voices for science.",
+        "Uncommon Courses is an occasional series from The Conversation U. S. highlighting unconventional approaches to teaching."
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "conversation-democrats-agenda-will-be-set-by-their-ability-to-organize-",
+      "title": "Democrats’ agenda will be set by their ability to organize and compromise — not by the socialist, progressive or centrist factions all claiming victory",
+      "dek": "The massive Democratic majority in the U. S. House and Senate that was ushered in by a historic blue midterm vote is an ideologically diverse one .",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-10T19:52:39.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/democrats-agenda-will-be-set-by-their-ability-to-organize-and-compromise-not-by-the-socialist-progressive-or-centrist-factions-all-claiming-victory-296014"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "The massive Democratic majority in the U. S. House and Senate that was ushered in by a historic blue midterm vote is an ideologically diverse one .",
+        "Candidates spent much of the past year differentiating their positions from the mainstream Democratic coalition. The result is a freshman class filled with as many progressive liberals as moderate problem solvers .",
+        "By the morning after Election Day, pundits and current Democratic members across the political spectrum were quick to claim their ideologically aligned candidates as the “ majority makers ” – the group most responsible for the large victory.",
+        "Centrist Democrats pointed to pragmatic moderates flipping Trump-won seats. Liberal voices highlighted the enthusiasm and turnout driven by a new, progressive vision.",
+        "As a result, days after the election the focus had turned toward January: Who will become the majority maker within Congress?",
+        "Party caucus leaders have already started building their roster : The Progressive Caucus claims at least 25 new members in their ranks, growing their membership to over 100 Democratic members. The moderate Blue Dog Caucus doubled in size , from 10 to 20 new members. And in the middle, the center-left New Dems are projecting a caucus of over 140 members.",
+        "I’m a political scientist who has worked in and now studies Congress . Figuring out the dynamics and direction of the 120th Congress requires looking at more than the ideological positions of the candidates who won. Instead, focusing on the number of candidates who won can provide insight into the direction of the party as a whole.",
+        "The large – and at the time of writing, still growing – margins of Democratic control in the 120th Congress are the biggest since 1993 , before Congress became consistently competitive and increasingly polarized. Those large margins provide essential context for understanding how this new ideological coalition will work in Congress.",
+        "While history demonstrates that an ideologically diverse party can be hard to wrangle , the size of the new Democratic majority provides some breathing room for policy negotiation and procedural debates.",
+        "Unlike the current Republican Caucus that is reliant on keeping historically narrow majorities together to pass party goals, future Democratic leadership can stand to lose a few votes. With a minimum of 254 seats in the House and 54 seats in the Senate , small-scale Democratic defections are irrelevant.",
+        "This breathing room provides the potential for negotiation, while also limiting any mandate an ideological group may claim.",
+        "For instance, the 120th Congress will have eight members in the House who are backed or affiliated with the Democratic Socialists of America , known as the DSA. In raw terms of political power, when the majority has at least 36 votes to spare on any given party-line bill, this group may not matter in policymaking.",
+        "If a group – say, the entirety of the Progressive Caucus’ 100-plus membership – decides to stick together, leadership will be forced to listen. Thus, the potential power of ideological factions depends not only on their ideas but their own organizational skills.",
+        "When groups in Congress develop practices such as confidential meetings or binding rules that require members vote together on certain votes, the legitimacy of group demands can be strengthened. This is a strategy that has been employed with relative success by the far-right Republican Freedom Caucus since it was formed in 2014.",
+        "The overarching policy goals for newly elected Democrats are consistent across the ideological spectrum: lowering the cost of living and rooting out corruption.",
+        "This was highlighted in acceptance speeches by Democrats from South Carolina to Texas to Michigan . All emphasized the same policy-focused promise: Instead of fighting left versus right, the fight should focus on the top versus the bottom.",
+        "This shared vision is no doubt important. My research has shown that a cohesive message is a key part of winning and maintaining majority control.",
+        "However, the “blue tsunami” was powered by voters with very specific policy demands. And as is always the case with policymaking, the details matter. Does healthcare reform mean reinstating the Obamacare subsidies set to expire on Jan. 1, 2027? Or does it mean something bolder, such as Medicare for All ?",
+        "While there is power in numbers, the organizational strength and ultimate success of ideological groups in Congress depends on how unified they can be around specific policy goals and proposals.",
+        "This means that who is doing the unifying also matters.",
+        "The success of any potential legislative package heavily relies on congressional leaders’ knowledge of congressional rules and their willingness to incorporate member viewpoints.",
+        "This necessity of having leadership in place to get legislation moving is epitomized by the order of operations for a new congressional session. In the coming weeks, both parties will hold closed-door, secret-ballot elections to select their new party leaders . That’s well before any legislation is even drafted.",
+        "With a Democratic caucus filled with anti-establishment candidates across the ideological spectrum, and external pressure from political pundits to dump current Democratic leadership , the future of the Democratic Party has been projected onto this otherwise ritualistic vote .",
+        "But the power and success of congressional leadership lies in its procedural acumen, not its ideological vision. Some already in Congress have noted New York Democratic Rep. Hakeem Jeffries’ experience and working relationships in discussions of whether he should be house speaker. Furthermore, groups can extract concessions during leadership selection in exchange for their support, such as seats on powerful committees or an agreement on policy agenda items."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "nasa-nasa-to-welcome-expedition-74-astronauts-home-at-space-cen",
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "dek": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-10T18:06:33.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station.",
+        "NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission highlights at 6 p. m. CST Tuesday, Nov. 17, at NASA Johnson Space Center’s visitor center. An awards ceremony recognizing key mission contributors will follow the presentation.",
+        "The astronauts will be available for media interviews before the event. Media may request an in-person interview no later than 5 p. m. Monday, Nov. 16, by emailing the JSC Newsroom at jsc-newsroom@mail. nasa. gov .",
+        "Williams, Kud‑Sverchkov, and Mikaev launched aboard the Soyuz MS-28 spacecraft from the Baikonur Cosmodrome in Kazakhstan on Nov. 27, 2025. The trio returned to Earth on July 26, making a parachute-assisted landing southeast of Dzhezkazgan, Kazakhstan. The crew was in space for 241 days, orbiting the Earth 3,856 times and traveling more than 102 million miles. The mission was the first for Williams and Mikaev and the second for Kud-Sverchkov.",
+        "Meir, Hathaway, and Adenot launched aboard a Dragon spacecraft on Feb. 13 as part of NASA’s SpaceX Crew-12 mission from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. After more than seven months aboard the space station, Meir, Hathaway, and Adenot safely splashed down on Oct. 8 in the Pacific Ocean off the coast of Los Angeles.",
+        "During their 237-day mission, the four crew members traveled more than 100 million miles and completed more than 3,792 orbits around Earth. The mission was the second for Meir and the first for Hathaway and Adenot. Roscosmos cosmonaut Andrey Fedyaev also flew as part of Crew-12 but is unavailable for the event.",
+        "The Expedition 74 crew dedicated more than 1,400 hours to scientific research and technology demonstrations aboard the International Space Station. Its work advanced in-space manufacturing by testing metal and tissue 3D-printing technologies and supported human health studies examining the effects of long-duration spaceflight. Research included blood flow studies, assessments of piloting capabilities under changing gravitational conditions, and activation of a new compact exercise system . The crew also evaluated life-support and environmental systems critical to future exploration missions under NASA’s Artemis program.",
+        "In addition, the crew members conducted pharmaceutical research to crystalize proteins for cancer medications , advance tumor targeting treatments , and grow stem cells for therapeutics. They cared for the first set of plants studied outside of curated systems , upgraded an instrument used to advance our understanding of matter and develop new quantum technologies, managed visiting spacecraft, and performed essential maintenance to support the continued operation of the orbiting laboratory.",
+        "Beyond research and operational achievements, Expedition 74 engaged students and audiences around the world through live educational events, outreach activities, and the sharing of stunning imagery that highlights the importance of scientific discovery and international collaboration in space.",
+        "For more than 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs not possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis program, and to Mars.",
+        "Learn more about International Space Station research and operations at:",
+        "Anna Schneider / Shaneequa Vereen Johnson Space Center, Houston 281-483-5111 anna. c. schneider@nasa. gov / shaneequa. y. vereen@nasa. gov"
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "nasa-news-nasa-to-welcome-expedition-74-astronauts-home-at-space-cen",
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "dek": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-10T18:06:33.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station.",
+        "NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission highlights at 6 p. m. CST Tuesday, Nov. 17, at NASA Johnson Space Center’s visitor center. An awards ceremony recognizing key mission contributors will follow the presentation.",
+        "The astronauts will be available for media interviews before the event. Media may request an in-person interview no later than 5 p. m. Monday, Nov. 16, by emailing the JSC Newsroom at jsc-newsroom@mail. nasa. gov .",
+        "Williams, Kud‑Sverchkov, and Mikaev launched aboard the Soyuz MS-28 spacecraft from the Baikonur Cosmodrome in Kazakhstan on Nov. 27, 2025. The trio returned to Earth on July 26, making a parachute-assisted landing southeast of Dzhezkazgan, Kazakhstan. The crew was in space for 241 days, orbiting the Earth 3,856 times and traveling more than 102 million miles. The mission was the first for Williams and Mikaev and the second for Kud-Sverchkov.",
+        "Meir, Hathaway, and Adenot launched aboard a Dragon spacecraft on Feb. 13 as part of NASA’s SpaceX Crew-12 mission from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. After more than seven months aboard the space station, Meir, Hathaway, and Adenot safely splashed down on Oct. 8 in the Pacific Ocean off the coast of Los Angeles.",
+        "During their 237-day mission, the four crew members traveled more than 100 million miles and completed more than 3,792 orbits around Earth. The mission was the second for Meir and the first for Hathaway and Adenot. Roscosmos cosmonaut Andrey Fedyaev also flew as part of Crew-12 but is unavailable for the event.",
+        "The Expedition 74 crew dedicated more than 1,400 hours to scientific research and technology demonstrations aboard the International Space Station. Its work advanced in-space manufacturing by testing metal and tissue 3D-printing technologies and supported human health studies examining the effects of long-duration spaceflight. Research included blood flow studies, assessments of piloting capabilities under changing gravitational conditions, and activation of a new compact exercise system . The crew also evaluated life-support and environmental systems critical to future exploration missions under NASA’s Artemis program.",
+        "In addition, the crew members conducted pharmaceutical research to crystalize proteins for cancer medications , advance tumor targeting treatments , and grow stem cells for therapeutics. They cared for the first set of plants studied outside of curated systems , upgraded an instrument used to advance our understanding of matter and develop new quantum technologies, managed visiting spacecraft, and performed essential maintenance to support the continued operation of the orbiting laboratory.",
+        "Beyond research and operational achievements, Expedition 74 engaged students and audiences around the world through live educational events, outreach activities, and the sharing of stunning imagery that highlights the importance of scientific discovery and international collaboration in space.",
+        "For more than 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs not possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis program, and to Mars.",
+        "Learn more about International Space Station research and operations at:",
+        "Anna Schneider / Shaneequa Vereen Johnson Space Center, Houston 281-483-5111 anna. c. schneider@nasa. gov / shaneequa. y. vereen@nasa. gov"
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "nasa-nasa-scientists-show-how-gravitational-waves-can-reveal-ne",
+      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "dek": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-10T16:00:26.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.",
+        "“The most common source for LISA is expected to be double white dwarf systems, which are binaries composed of white dwarfs in tight orbits,” said Casey McGrath, a postdoctoral researcher at the University of Maryland, Baltimore County and NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “If an exoplanet also orbits within one of these systems, its presence becomes imprinted on the gravitational wave signal in a way we’ll be able to uncover.”",
+        "Two papers published Tuesday in The Astrophysical Journal detail the findings. The first , authored solely by McGrath, examines the detection method and determines the planet masses and orbital periods where it would work best. The second paper , by McGrath and coauthors, investigates how such planets could be confirmed using NASA’s James Webb Space Telescope .",
+        "The possibility of detecting exoplanets around LISA double white dwarf systems was first proposed by Japanese astronomer Naoki Seto in 2008.",
+        "Led by ESA (European Space Agency), the LISA mission is slated for launch in the mid-2030s. As a collaborative partner, NASA is contributing the telescopes, other critical hardware, and engineering and scientific support as part of its mission to better understand how the universe works.",
+        "The LISA detection method is similar to one called radial velocity that uses light and is already employed to find exoplanets around nearby stars. As a planet orbits, its gravity tugs on its host star, imparting a small reflex motion, or wobble, onto it. This wobble causes the star’s spectrum to oscillate, with spectral lines shifting from redder wavelengths as the star moves away from us to bluer ones as the star moves toward us. The shift is due to a phenomenon called the Doppler effect .",
+        "“Something similar occurs with gravitational waves,” said Scott Noble, a theoretical astrophysicist at NASA Goddard and a coauthor on the confirmation paper. “By themselves, double white dwarfs will emit gravitational waves at a nearly continuous frequency. Add a sufficiently massive planet to the system, and its presence causes the binary to experience reflex motion, adding a Doppler modulation to the gravitational signal.”",
+        "For LISA, this modulation will appear as sidebands, secondary signals at both higher and lower frequencies than the primary one.",
+        "McGrath likens the situation to modern radio communication, where some of the energy of a main radio carrier frequency goes into forming sidebands at adjacent upper and lower frequencies that carry messages (like voices or music). For gravitational waves, the sidebands carry messages about the presence of a planet.",
+        "White dwarfs are the Earth-sized remnants of stars like the Sun. While exoplanets have been detected around a few isolated white dwarfs, none have yet been found around a binary white dwarf, which means the LISA detections would represent a distinct new exoplanet population.",
+        "Astronomers estimate that our Milky Way galaxy contains 10 million double white dwarf systems with orbital periods of less than an hour, which generate gravitational waves in the right range for LISA to find. They expect LISA will resolve about 10,000 individual systems, as well as around 100 mixed binaries — with white dwarfs, neutron stars, or black holes — orbiting in similar periods.",
+        "“Once LISA captures its first exoplanet detections, it will be critical for us to validate some of them,” said Mary Anne Limbach, an assistant research scientist at the University of Michigan and a co-author on the confirmation paper. “These joint detections will allow us to establish that the gravitational signals correspond to genuine planets rather than false positives.”",
+        "The team described a new method for confirming these planets by taking advantage of the Webb telescope’s infrared sensitivity. A planet in a double white dwarf system produces a larger portion of infrared light than what’s expected from the stars themselves. Webb’s instruments can easily detect this infrared excess out to a distance of at least 500 light-years."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "nasa-news-nasa-scientists-show-how-gravitational-waves-can-reveal-ne",
+      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "dek": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-10T16:00:26.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.",
+        "“The most common source for LISA is expected to be double white dwarf systems, which are binaries composed of white dwarfs in tight orbits,” said Casey McGrath, a postdoctoral researcher at the University of Maryland, Baltimore County and NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “If an exoplanet also orbits within one of these systems, its presence becomes imprinted on the gravitational wave signal in a way we’ll be able to uncover.”",
+        "Two papers published Tuesday in The Astrophysical Journal detail the findings. The first , authored solely by McGrath, examines the detection method and determines the planet masses and orbital periods where it would work best. The second paper , by McGrath and coauthors, investigates how such planets could be confirmed using NASA’s James Webb Space Telescope .",
+        "The possibility of detecting exoplanets around LISA double white dwarf systems was first proposed by Japanese astronomer Naoki Seto in 2008.",
+        "Led by ESA (European Space Agency), the LISA mission is slated for launch in the mid-2030s. As a collaborative partner, NASA is contributing the telescopes, other critical hardware, and engineering and scientific support as part of its mission to better understand how the universe works.",
+        "The LISA detection method is similar to one called radial velocity that uses light and is already employed to find exoplanets around nearby stars. As a planet orbits, its gravity tugs on its host star, imparting a small reflex motion, or wobble, onto it. This wobble causes the star’s spectrum to oscillate, with spectral lines shifting from redder wavelengths as the star moves away from us to bluer ones as the star moves toward us. The shift is due to a phenomenon called the Doppler effect .",
+        "“Something similar occurs with gravitational waves,” said Scott Noble, a theoretical astrophysicist at NASA Goddard and a coauthor on the confirmation paper. “By themselves, double white dwarfs will emit gravitational waves at a nearly continuous frequency. Add a sufficiently massive planet to the system, and its presence causes the binary to experience reflex motion, adding a Doppler modulation to the gravitational signal.”",
+        "For LISA, this modulation will appear as sidebands, secondary signals at both higher and lower frequencies than the primary one.",
+        "McGrath likens the situation to modern radio communication, where some of the energy of a main radio carrier frequency goes into forming sidebands at adjacent upper and lower frequencies that carry messages (like voices or music). For gravitational waves, the sidebands carry messages about the presence of a planet.",
+        "White dwarfs are the Earth-sized remnants of stars like the Sun. While exoplanets have been detected around a few isolated white dwarfs, none have yet been found around a binary white dwarf, which means the LISA detections would represent a distinct new exoplanet population.",
+        "Astronomers estimate that our Milky Way galaxy contains 10 million double white dwarf systems with orbital periods of less than an hour, which generate gravitational waves in the right range for LISA to find. They expect LISA will resolve about 10,000 individual systems, as well as around 100 mixed binaries — with white dwarfs, neutron stars, or black holes — orbiting in similar periods.",
+        "“Once LISA captures its first exoplanet detections, it will be critical for us to validate some of them,” said Mary Anne Limbach, an assistant research scientist at the University of Michigan and a co-author on the confirmation paper. “These joint detections will allow us to establish that the gravitational signals correspond to genuine planets rather than false positives.”",
+        "The team described a new method for confirming these planets by taking advantage of the Webb telescope’s infrared sensitivity. A planet in a double white dwarf system produces a larger portion of infrared light than what’s expected from the stars themselves. Webb’s instruments can easily detect this infrared excess out to a distance of at least 500 light-years."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "nasa-autumn-mornings-bring-valley-fog",
+      "title": "Autumn Mornings Bring Valley Fog",
+      "dek": "On a cool November morning, low clouds traced the branching valleys of the Appalachian Plateau and the Cumberland River. ",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T05:00:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "On a cool November morning, low clouds traced the branching valleys of the Appalachian Plateau and the Cumberland River. By afternoon, they had faded, leaving clear skies over the autumn landscape.",
+        "The change is visible in this pair of images from November 8, 2026. The MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA’s Terra satellite acquired the left image that morning. In this natural-color view, low clouds appear white as they fill many of the valleys. Autumn vegetation appears in shades of brown and green.",
+        "The VIIRS (Visible Infrared Imaging Radiometer Suite) on NOAA-21 acquired the right image that afternoon, after the clouds had dissipated and exposed the rivers and lakes beneath them. This false-color view makes it easier to distinguish water (dark blue) from vegetation (bright green).",
+        "The clouds appear to be fog, a type of cloud that forms near the ground . Foggy mornings in the region are common this time of year. As nights lengthen, the ground has more time to radiate away the day’s heat, and the air just above it cools to the dew point —the temperature at which air becomes saturated and water vapor begins condensing into the tiny droplets that make up fog.",
+        "Because cold air is denser than warm air, it flows downslope and pools in valleys, so fog tends to form there first. Notice the fog filling the branching valleys across part of the Appalachian Plateau in eastern Kentucky and southwestern West Virginia. Rivers and streams that run along many of the valley floors add to the effect by supplying extra moisture. The same pattern is visible along the Cumberland River and its reservoirs in north-central Tennessee and south-central Kentucky.",
+        "According to the National Weather Service, temperatures in many places on the morning of November 8 dipped into the 30s Fahrenheit before giving way to a mild, sunny afternoon. Forecasters reported locally dense valley fog that morning. Dense fog had also blanketed a wider part of the region earlier in the week, prompting advisories for hazardous travel conditions."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "nasa-news-autumn-mornings-bring-valley-fog",
+      "title": "Autumn Mornings Bring Valley Fog",
+      "dek": "On a cool November morning, low clouds traced the branching valleys of the Appalachian Plateau and the Cumberland River. ",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T05:00:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "On a cool November morning, low clouds traced the branching valleys of the Appalachian Plateau and the Cumberland River. By afternoon, they had faded, leaving clear skies over the autumn landscape.",
+        "The change is visible in this pair of images from November 8, 2026. The MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA’s Terra satellite acquired the left image that morning. In this natural-color view, low clouds appear white as they fill many of the valleys. Autumn vegetation appears in shades of brown and green.",
+        "The VIIRS (Visible Infrared Imaging Radiometer Suite) on NOAA-21 acquired the right image that afternoon, after the clouds had dissipated and exposed the rivers and lakes beneath them. This false-color view makes it easier to distinguish water (dark blue) from vegetation (bright green).",
+        "The clouds appear to be fog, a type of cloud that forms near the ground . Foggy mornings in the region are common this time of year. As nights lengthen, the ground has more time to radiate away the day’s heat, and the air just above it cools to the dew point —the temperature at which air becomes saturated and water vapor begins condensing into the tiny droplets that make up fog.",
+        "Because cold air is denser than warm air, it flows downslope and pools in valleys, so fog tends to form there first. Notice the fog filling the branching valleys across part of the Appalachian Plateau in eastern Kentucky and southwestern West Virginia. Rivers and streams that run along many of the valley floors add to the effect by supplying extra moisture. The same pattern is visible along the Cumberland River and its reservoirs in north-central Tennessee and south-central Kentucky.",
+        "According to the National Weather Service, temperatures in many places on the morning of November 8 dipped into the 30s Fahrenheit before giving way to a mild, sunny afternoon. Forecasters reported locally dense valley fog that morning. Dense fog had also blanketed a wider part of the region earlier in the week, prompting advisories for hazardous travel conditions."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "nasa-curiosity-blog-sols-5056-5062-charging-back-up",
+      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "dek": "By Remington Free, Operations Systems Engineer, NASA-JPL",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T01:07:45.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "By Remington Free, Operations Systems Engineer, NASA-JPL",
+        "Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle of a drilling campaign on our target called “Nazca.” We’ve already drilled the hole, characterized the tailings from the drill hole with ChemCam, and have now done several sample dropoffs, both to our SAM and CheMin instruments within the belly of the rover. We still have a number of activities left to do as part of the campaign, including another dropoff to SAM for a different kind of analysis, and drilling cleanup activities.",
+        "One of those activities is called “RAGE” (Rotate to Agitate for Granule Expulsion, a very fun acronym) where we essentially shake the drill to get any remaining sample out of it. We’ll also make sure to take lots of imaging to continue document the drill hole and tailings.",
+        "In any case, those activities are very power-hungry for our rover! So today’s plan purposefully did not have a lot of activities in it so we could get a nice few power positive sols before we get back to drilling. Each of our three sols had a standard morning science block, with an extra exciting brand-new activity on 5061 (more on that shortly! ).",
+        "Over the three sols, we conducted remote science with ChemCam active and Remote Micro-Imager mosaics on some interesting targets (“Titicaca,” “Pampas,” and “Salta”), some Mastcam imaging of our calibration target and our drill target, several Navcam dust devil studies and Mastcam tau observations, and twilight imaging. Despite this plan being recharging/waiting, we got in lots of exciting science to continue to study the Nazca crystal formations and the nearby layered rocks and bedrock.",
+        "On 5061, we also conducted a brand-new engineering activity to test parallelism over one of our downlink communications windows. As the rover gets older and our power output slowly decreases over the length of the mission, we are continuously looking for new ways to execute activities with less power use. One of our strategies is parallelism – having two activities execute at the same time will save power due to the rover being awake for less time. However, we need to vet pairs of activities ahead of time to ensure they are safe to run together. This is a test of one of those pairs – running our CheMin “Get Data” activity at the same time as we are sending data to one of our orbiters.",
+        "CheMin Get Data is a high CPU activity which transfers science data from the instrument to our flight computers. The test seems to have gone well, but we’ll have to wait to hear back from our engineering team to analyze the results!",
+        "Overall, it was an exciting plan full of great remote science as we wait to be able to wrap up our drill campaign. Stay tuned to hear more about how the rest of the Nazca campaign went!",
+        "Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…",
+        "Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…",
+        "Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…",
+        "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…"
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "nasa-news-curiosity-blog-sols-5056-5062-charging-back-up",
+      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "dek": "By Remington Free, Operations Systems Engineer, NASA-JPL",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T01:07:45.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "By Remington Free, Operations Systems Engineer, NASA-JPL",
+        "Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle of a drilling campaign on our target called “Nazca.” We’ve already drilled the hole, characterized the tailings from the drill hole with ChemCam, and have now done several sample dropoffs, both to our SAM and CheMin instruments within the belly of the rover. We still have a number of activities left to do as part of the campaign, including another dropoff to SAM for a different kind of analysis, and drilling cleanup activities.",
+        "One of those activities is called “RAGE” (Rotate to Agitate for Granule Expulsion, a very fun acronym) where we essentially shake the drill to get any remaining sample out of it. We’ll also make sure to take lots of imaging to continue document the drill hole and tailings.",
+        "In any case, those activities are very power-hungry for our rover! So today’s plan purposefully did not have a lot of activities in it so we could get a nice few power positive sols before we get back to drilling. Each of our three sols had a standard morning science block, with an extra exciting brand-new activity on 5061 (more on that shortly! ).",
+        "Over the three sols, we conducted remote science with ChemCam active and Remote Micro-Imager mosaics on some interesting targets (“Titicaca,” “Pampas,” and “Salta”), some Mastcam imaging of our calibration target and our drill target, several Navcam dust devil studies and Mastcam tau observations, and twilight imaging. Despite this plan being recharging/waiting, we got in lots of exciting science to continue to study the Nazca crystal formations and the nearby layered rocks and bedrock.",
+        "On 5061, we also conducted a brand-new engineering activity to test parallelism over one of our downlink communications windows. As the rover gets older and our power output slowly decreases over the length of the mission, we are continuously looking for new ways to execute activities with less power use. One of our strategies is parallelism – having two activities execute at the same time will save power due to the rover being awake for less time. However, we need to vet pairs of activities ahead of time to ensure they are safe to run together. This is a test of one of those pairs – running our CheMin “Get Data” activity at the same time as we are sending data to one of our orbiters.",
+        "CheMin Get Data is a high CPU activity which transfers science data from the instrument to our flight computers. The test seems to have gone well, but we’ll have to wait to hear back from our engineering team to analyze the results!",
+        "Overall, it was an exciting plan full of great remote science as we wait to be able to wrap up our drill campaign. Stay tuned to hear more about how the rest of the Nazca campaign went!",
+        "Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…",
+        "Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…",
+        "Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…",
+        "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…"
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "nasa-curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hol",
+      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+      "dek": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T01:05:48.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK",
+        "As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and we compare them to Earth, they could be very interesting indicators of the environmental conditions. Hence, the excitement in the team is high that we found a good block to drill. Good means first and foremost that it contains abundant potential crystals, but of course there is more before we drill. We passed the rover’s stability test, as all wheels have to be on solid ground before we extend the arm.",
+        "Then we passed the preload test, which tests the stability of the rock and the forces the arm experiences when the drill bit presses into the rock.",
+        "With all those tests passed, we successfully drilled our 49th drill hole, called “Nazca.”",
+        "The drill campaign comes with many investigations before and after the drilling itself. Before the drill, we investigated the block with APXS, MAHLI and ChemCam – all on the target Nazca. After drilling, the sample was dropped off to CheMin, with the results still making their way from Mars to Earth. They are eagerly anticipated to reach us over the coming weekend. ChemCam obtained both passive spectral and active LIBS of the tailings and a LIBS measurement down the drill hole wall.",
+        "Other ChemCam activities this week included a LIBS investigation of “Palpala,” which is a dark pebble. We are on the lookout for those pebbles for a while and find that not all of them have the same composition. To make sure we understand their origin, we are measuring them when there are some in reach that are big enough. If a pebble is too small, it can move when it is being hit by the laser. Hence, we need to look out for some that are big enough.",
+        "Another such pebble was the target “Puna” identified in Friday’s planning. ChemCam LIBS on the target “Llama” is to get another depth profile to check whether our observations in the first such depth profile are consistently observed or whether they vary between locations.",
+        "The target “Pacaya” is another measurement of the disc shaped forms that drew us back to this region. In addition to the LIBS measurements, ChemCam has several long distance RMIs in the plan. They are all focused on the two buttes that have drawn a long-standing interest of the team for the various sedimentary structures and textures they reveal: Mishe Mokwa and Cordillera.",
+        "Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…",
+        "Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…",
+        "Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…",
+        "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…"
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "nasa-news-curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hol",
+      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+      "dek": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T01:05:48.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK",
+        "As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and we compare them to Earth, they could be very interesting indicators of the environmental conditions. Hence, the excitement in the team is high that we found a good block to drill. Good means first and foremost that it contains abundant potential crystals, but of course there is more before we drill. We passed the rover’s stability test, as all wheels have to be on solid ground before we extend the arm.",
+        "Then we passed the preload test, which tests the stability of the rock and the forces the arm experiences when the drill bit presses into the rock.",
+        "With all those tests passed, we successfully drilled our 49th drill hole, called “Nazca.”",
+        "The drill campaign comes with many investigations before and after the drilling itself. Before the drill, we investigated the block with APXS, MAHLI and ChemCam – all on the target Nazca. After drilling, the sample was dropped off to CheMin, with the results still making their way from Mars to Earth. They are eagerly anticipated to reach us over the coming weekend. ChemCam obtained both passive spectral and active LIBS of the tailings and a LIBS measurement down the drill hole wall.",
+        "Other ChemCam activities this week included a LIBS investigation of “Palpala,” which is a dark pebble. We are on the lookout for those pebbles for a while and find that not all of them have the same composition. To make sure we understand their origin, we are measuring them when there are some in reach that are big enough. If a pebble is too small, it can move when it is being hit by the laser. Hence, we need to look out for some that are big enough.",
+        "Another such pebble was the target “Puna” identified in Friday’s planning. ChemCam LIBS on the target “Llama” is to get another depth profile to check whether our observations in the first such depth profile are consistently observed or whether they vary between locations.",
+        "The target “Pacaya” is another measurement of the disc shaped forms that drew us back to this region. In addition to the LIBS measurements, ChemCam has several long distance RMIs in the plan. They are all focused on the two buttes that have drawn a long-standing interest of the team for the various sedimentary structures and textures they reveal: Mishe Mokwa and Cordillera.",
+        "Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…",
+        "Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…",
+        "Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…",
+        "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…"
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
