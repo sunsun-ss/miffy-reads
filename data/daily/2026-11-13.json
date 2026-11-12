@@ -1,0 +1,1108 @@
+{
+  "generatedAt": "2026-11-12T23:15:59.812Z",
+  "date": "2026-11-13",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-2021-heat-dome-a-near-miss-as-study-suggests-overlooked-hi",
+      "title": "2021 heat dome a 'near miss' as study suggests overlooked historic heat wave could offer valuable lessons",
+      "dek": "A new study suggests that the impacts of the 2021 heat dome could have been much worse for British Columbians, despite its widespread devastation, when compared to a…",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T23:00:16.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-dome-overlooked-historic-valuable-lessons.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "A new study suggests that the impacts of the 2021 heat dome could have been much worse for British Columbians, despite its widespread devastation, when compared to a previously overlooked heat wave during World War II.",
+        "While the weather and climate conditions of the deadly 1941 heat wave have previously been documented, little is known about its impact in British Columbia and across North America—until now.",
+        "By scouring thousands of historic newspaper articles and archives, a Simon Fraser University researcher has uncovered the true extent of the 1941 heat wave and believes it could offer valuable lessons in today's more extreme climate.",
+        "\"The wildfires of 1941 are the main reason I've now reinterpreted 2021 as being a near miss,\" says Sam Anderson, a postdoctoral research fellow in the School of Environmental Science.",
+        "\"You can imagine a future heat wave that could very plausibly initiate many wildfires around Vancouver, like 1941, and then amplify them with post–heat wave fire weather, as in 2021.\"",
+        "The research, which took two years to complete, is published in Communications Earth & Environment .",
+        "\"The 1941 event is the most direct and maybe the only comparison to the 2021 heat wave, considering its magnitude, extent, location and timing,\" says Anderson.",
+        "\"Both 1941 and 2021 were similarly shocking in their severity. But 1941 had a significantly different impact, notably when it came to wildfires. It essentially left Vancouverites trapped between water to the west and fires everywhere else.\"",
+        "On the evening of July 17, 1941, an electric set of thunderstorms ignited hundreds of wildfires that surrounded Vancouver to the north, east and south.",
+        "When the 1941 heat wave ended, the weather changed to a cool and wet pattern, suppressing wildfire activity.",
+        "In contrast, extreme heat and dry conditions persisted in 2021, resulting in out-of-control wildfires that burned the village of Lytton to the ground.",
+        "\"Vancouver, unlike Lytton, did not burn to the ground in 1941,\" says Anderson.",
+        "\"But 1941 reminds us that lightning is capricious in how and where it ignites wildfires, and from the perspective of a sweltering sky, there is little difference between a place like Vancouver and a place like Lytton.\"",
+        "Another important distinction between the two heat waves is the geographic impact and how this may have affected the death rate."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-matter-antimatter-asymmetry-still-provides-no-evidence-of-",
+      "title": "Matter–antimatter asymmetry still provides no evidence of new physics",
+      "dek": "The universe's dominance by ordinary matter is compelling evidence that matter and antimatter are not perfect reflections of each other. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T23:00:09.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-matterantimatter-asymmetry-evidence-physics.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "The universe's dominance by ordinary matter is compelling evidence that matter and antimatter are not perfect reflections of each other. However, known differences do not explain the scale of this imbalance, leaving open the possibility that unknown physics is responsible. A new analysis of meson decays, conducted by the LHCb collaboration, has narrowed the scope of the search for such a scenario while paving the way for more precise measurements in the future.",
+        "Over the past decade, scientists working at the Large Hadron Collider have focused their efforts on searching for differences between particles of matter and antimatter produced in proton-proton collisions. The latest and exceptionally thorough analysis of data collected between 2016 and 2018 as part of the LHCb experiment was carried out by a team of physicists from the universities of Warwick, Manchester and Oxford in the U. K. , TU Dortmund University in Germany, and the Institute of Nuclear Physics of the Polish Academy of Sciences (IFJ PAN) in Cracow.",
+        "The motivation behind this research lies in what is arguably the most astonishing feature of our world: the fact that it... simply exists. Why is this so surprising? Because, in its present form, it should not exist—at least according to our current understanding of physics. Cosmological models suggest that, shortly after the Big Bang, equal amounts of matter and antimatter must have been produced in the universe.",
+        "Yet when a particle meets its antiparticle, both are converted into energy in a process known as annihilation. Meanwhile, our reality is clearly dominated by particles of matter that have escaped annihilation. The worlds of matter and antimatter particles therefore cannot have been—and still are not—perfectly symmetrical.",
+        "\"In many physical processes, simultaneously replacing all particles with their antiparticles and inverting all spatial coordinates leaves the laws governing these phenomena unchanged. This principle is known as charge-parity symmetry, or CP symmetry. We have been searching for processes that violate this symmetry in the decays of particles produced in proton–proton collisions at the LHC, specifically in the decays of mesons containing beauty and strange quarks and antiquarks,\" explains Dr. Agnieszka Dziurda (IFJ PAN), an expert in the physics of these decays.",
+        "The Standard Model, a theoretical framework developed in the 1970s, describes the elementary particles and their interactions. According to this model, matter is made up of elementary particles known as fermions. These include quarks (down, up, strange, charm, beauty and top) and leptons (electrons, muons, tau leptons and their associated neutrinos). In addition, every type of matter particle has a corresponding antiparticle.",
+        "Each proton–proton collision at the LHC produces a large number of massive, short-lived particles. In earlier studies of CP violation, physicists have observed asymmetries in certain decay processes involving particles and antiparticles. However, these phenomena alone cannot account for the present-day dominance of matter.",
+        "Now, in a paper published in the journal Physical Review Letters , researchers have presented an analysis of the decays of Bₛ⁰ mesons. These mesons decay into lighter particles, and the Standard Model allows scientists to calculate the expected frequency of a given decay process and compare these predictions with experimental data.",
+        "\"Interestingly, we chose to investigate a process in which the Standard Model predicts no asymmetry at all. So why study it at all?\" asks Dziurda.",
+        "She explains, \"Because if an asymmetry were nevertheless observed, it could be a signal that previously unknown physics was at work. We also know that current theoretical predictions for the probabilities of certain beauty-meson decay channels differ significantly from the values obtained experimentally. This discrepancy could, for example, stem from theoretical effects that have not yet been fully accounted for in our calculations. At this stage, however, we cannot rule out the possibility that it points to physics beyond the Standard Model.\"",
+        "Beauty mesons were exceptionally well suited to the search for CP symmetry breaking for another reason. They possess a remarkable property: they oscillate extremely rapidly between states corresponding to matter (a strange quark paired with a beauty antiquark) and antimatter (a beauty quark paired with a strange antiquark). One of the earlier measurements by the LHCb experiment showed that these oscillations can occur several trillion times per second. Thanks to such fast oscillations, the analysis could be carried out without having to determine the initial state of each meson."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-extreme-weather-risk-is-scaring-big-corporations-away-from",
+      "title": "Extreme weather risk is scaring big corporations away from poorer countries—that hurts the companies, too",
+      "dek": "When multinational companies decide where to build a factory, open a mine or establish a regional office, they have to consider whether the investment will still be…",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T23:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-extreme-weather-big-corporations-poorer.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "When multinational companies decide where to build a factory, open a mine or establish a regional office, they have to consider whether the investment will still be profitable years into the future.",
+        "Making that decision increasingly means thinking about risks, like whether surrounding roads will flood, worker safety will be compromised by extreme heat in the summer, and clean water will be available.",
+        "As climate change increases the frequency and intensity of extreme weather events around the world, these effects can be especially severe in poorer countries that lack the resources to prepare for disasters or recover quickly after they hit.",
+        "I study how political and environmental risks affect international business . In my new book, \" Multinational Corporations and Climate Change: Risks, Responsibilities, and Resilience ,\" I explore how disaster risk is affecting the ways global companies see these climate-vulnerable markets, and how those views are leading some foreign investors to avoid these developing nations altogether.",
+        "Low- and middle-income countries aren't the only ones that suffer when multinational corporations pass them by. The companies themselves also stand to lose out on business opportunities in emerging markets if they pull away.",
+        "Evidence from several studies suggests that multinationals are systematically avoiding investing in the most climate-vulnerable countries. These include my own analysis of 159 countries. Although these studies focus on different samples, they identify the same trend: Countries characterized by greater climate vulnerability received less foreign investment .",
+        "The results are not trivial. My book identifies a 12% reduction in foreign direct investment for each 1-point rise in climate vulnerability on a 100-point scale, while holding other relevant factors constant. This vulnerability data measures countries' exposure to climate hazards as well as their capacity to adapt.",
+        "Companies rarely say why they're avoiding a particular location, but their climate-related concerns occasionally become visible.",
+        "For example, Google halted plans to build a US$200 million data center in Chile after an environmental court revoked its construction permit over the likely effects on water supplies and the environment. Similarly, a $1 billion data center proposed in Kenya by Microsoft and the Abu Dhabi-based artificial intelligence company G42 was delayed and ultimately suspended amid concerns about water stress in the area.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Companies have reason to be cautious about climate risks.",
+        "One analysis of 71 large publicly traded companies found that firms reporting major flood losses experienced a 5% average decline in shareholder value over the following year, after accounting for broader market movements.",
+        "In Vietnam, typhoons and floods caused an estimated $475 million in damage to energy and transportation infrastructure in 2022. Unreliable infrastructure cost companies there about $280 million .",
+        "Severe flooding in Thailand in 2011 forced several companies, including Toyota, Nissan and Honda, to temporarily suspend production as factories flooded, shutting down production of parts or vehicles made there."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-chip-based-laser-cooling-could-ease-quantum-computing-bott",
+      "title": "Chip-based laser cooling could ease quantum computing bottleneck",
+      "dek": "Researchers at Cornell have developed a laser-cooling technique that could potentially remove a significant bottleneck in the development of larger, faster quantum computers.",
+      "category": "科技",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T22:40:10.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-chip-based-laser-cooling-ease.html"
+      },
+      "cover": "bulb",
+      "accent": "blue",
+      "paragraphs": [
+        "Researchers at Cornell have developed a laser-cooling technique that could potentially remove a significant bottleneck in the development of larger, faster quantum computers.",
+        "The findings, published Nov. 9 in the journal PRX Quantum , demonstrate how specially designed laser beams delivered through a microfabricated chip can cool multiple types of atomic motion simultaneously.",
+        "The research was led by Karan Mehta, assistant professor of electrical and computer engineering in the Cornell Duffield College of Engineering.",
+        "Trapped-ion quantum computers use individual electrically charged atoms suspended in electromagnetic fields to process information in ways conventional computer bits cannot. These ions offer exceptionally precise quantum control, but even tiny amounts of unwanted movement can interfere with calculations. Lasers must repeatedly cool the ions to near their lowest possible energy states.",
+        "That cooling can consume a surprisingly large share of a quantum computer's operating time.",
+        "\"You might think that the logic operations associated with running a computer would be the dominant timescale,\" Mehta said. \"But cooling operations, particularly to near the quantum ground state, end up being a major bottleneck in leading systems.\"",
+        "Mehta's team is working on integrated photonic approaches to atom control , which guide light through microscopic pathways on the same chip that hosts the individual atoms. Their work uses the stability of this kind of optics to deliver a carefully controlled pattern of laser light, known as a standing wave, to trapped atoms.",
+        "The researchers used two laser beams traveling in opposite directions to create alternating regions of high- and low-light intensity. By positioning a trapped calcium ion at a point of minimum intensity, they could remove energy from its motion while suppressing unwanted interactions that otherwise cause heating.",
+        "The technique builds on theoretical predictions developed by doctoral student Zhenzhong Xing. Xing and doctoral student Hamim Mahmud Rivy, the co-first authors, implemented the techniques and experiments to translate the earlier modeling into an experimental demonstration. This included packaging that allowed chips to handle wavelengths from ultraviolet to near-infrared light, while operating at cryogenic temperatures.",
+        "Using a method called electromagnetically induced transparency cooling, the researchers brought the ion's targeted motion close to its quantum ground state in approximately 150 microseconds, compared with about 500 microseconds using a conventional laser arrangement.",
+        "In addition, the technique simultaneously cooled all three measured modes of the ion's motion, spanning a frequency range of approximately 5 megahertz. That capability matters because ions can oscillate in three dimensions, and each direction may have a different frequency. Conventional techniques often require separate cooling operations to address different types of motion.",
+        "\"Usually it's challenging to cool all of them with just one single cooling mechanism,\" Xing said. \"But what we demonstrate here is that if those motional frequencies are not too far apart, we can effectively cool them to the ground state.\"",
+        "The researchers also demonstrated cooling below the conventional Doppler limit, experimentally confirming a longstanding theoretical prediction.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-el-nin-o-threatens-health-too-early-warnings-done-right-ca",
+      "title": "El Niño threatens health, too—early warnings done right can save lives",
+      "dek": "by Kimberley Miner, John C. Ejiogu, Kimberly Rose Clark, The Conversation",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T22:40:06.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-el-nio-threatens-health-early.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "by Kimberley Miner, John C. Ejiogu, Kimberly Rose Clark, The Conversation",
+        "As communities around the world shore up their infrastructure in anticipation of one of the most powerful El Niños on record in late 2026 and early 2027, they need to think about rising health risks, too—and include them in early weather warnings.",
+        "El Niño is part of a natural climate phenomenon that shifts global weather patterns for months at a time. During El Niño years, global temperatures tend to rise, triggering heat waves; normally dry regions can be hit with flooding rainfall; and normally wet regions often face droughts. All carry serious health risks.",
+        "In southern Africa, for example, forecasters are warning of a rising risk of severe drought that could affect the 2026–27 growing season in key farming regions. At the same time, wetter-than-normal conditions in the Horn of Africa raise the risk of flooding and mosquito-borne disease outbreaks there.",
+        "Dry conditions in Southeast Asia are already fueling wildfires and sending water supplies falling. October downpours in Chile triggered mudslides that left a mess for people to clean up in homes and yards.",
+        "In the United States, the South tends to be wetter than normal during El Niño years; drought is more likely in the Northern Plains; and storms can be fierce, particularly along the Pacific Coast.",
+        "As researchers in psychology , global health and Earth system science , we study how environmental disruptions affect people's health and their ability to respond.",
+        "To protect the population, communities need plans that keep care accessible and weather warnings that provide advice people can act on before, during and after a disaster.",
+        "The health consequences of extreme weather events often extend beyond the immediate hazard .",
+        "For example, research has linked exposure to flooding , wildfire and ecosystem changes with elevated risks of illnesses, psychological distress and chronic stress.",
+        "Floodwater can lead to infections, such as hepatitis, cryptosporidium and fungal diseases , as well as longer-term health damage through exposure to harmful environmental microbes , chemicals and an increase in disease-carrying vectors such as mosquitoes.",
+        "Drought can lead to poor air quality and, in some places, malnutrition.",
+        "Disasters can also keep people from getting essential health care, disrupt their livelihoods and displace them from their homes and social networks.",
+        "The threat of a changing, potentially unsafe environment can also increase anticipatory, long-term distress. The World Health Organization identifies anxiety and post-traumatic stress as mental health consequences of extreme weather-related hazards. We believe mental health counseling services also belong in communities' preparedness and recovery plans, not as an optional add-on after addressing physical needs."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-europes-look-alike-alpine-newts-turn-out-to-be-five-distin",
+      "title": "Europe's look-alike Alpine newts turn out to be five distinct species",
+      "dek": "What scientists until recently called the Alpine newt has turned out to be five different species, following genetic research by Leiden biologists. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T22:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-europe-alike-alpine-newts-distinct.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "What scientists until recently called the Alpine newt has turned out to be five different species, following genetic research by Leiden biologists. One of these species was even new to science and has now been given a name: Mesotriton similis.",
+        "To the untrained eye (and even to the trained eye) they all look the same. But genetically, there are considerable differences between Alpine newts across Europe. Leiden researchers discovered a complex of five cryptic species: animals that look almost identical but can be clearly distinguished by their DNA.",
+        "Three of these species are found in the Netherlands alone, as animals from the Balkans and Italy have also been introduced here.",
+        "Elsewhere in Europe, more specifically on the Vlasina Plateau on the border between Serbia and Bulgaria, researchers even found a species that had not previously been described. It was given an official scientific name on Tuesday, following publication in a specialist taxonomic journal: Mesotriton similis. The authors propose \"Vlasina Alpine newt\" as its English name.",
+        "\"Similis' means 'similar,' which also neatly describes the new species' appearance: it looks just like an Alpine newt. But genetically, it is at least as different from the original Dutch newts as you are from a chimpanzee. Although the animals look identical to us, mating with other Alpine newt species produces offspring that are much less likely to survive,\" explains biologist Ben Wielstra of Naturalis and Leiden University.",
+        "The new species is also the rarest Alpine newt in Europe. \"Because of its limited range and small population, it is highly vulnerable to pollution, habitat degradation and the introduction of fish,\" Wielstra and his Serbian colleagues write in Zootaxa .",
+        "The authors have left open the possibility that the species may be renamed. Amphibian experts disagree on whether the group to which the five Alpine newts belong should be called Mesotriton or Ichthyosaura. \"That question has not yet been settled.\"",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "Genetic analysis distinguishes five cryptic species of Alpine newts in Europe, including the newly described Mesotriton similis from the Serbia–Bulgaria border region. Its restricted range and small population make it vulnerable to pollution, habitat degradation and introduced fish.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors.",
+        "Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages.",
+        "Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose. The information you enter will appear in your e-mail message and is not retained by Phys. org in any form."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "conversation-from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratage",
+      "title": "From ancient Asia to the AI age: Has China’s ‘beauty stratagem’ found a new victim in Nvidia’s Jensen Huang?",
+      "dek": "Extramarital activities have led to the resignation of one of America’s most influential tech bosses, Nvidia CEO Jensen Huang. ",
+      "category": "科技",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T20:25:32.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Extramarital activities have led to the resignation of one of America’s most influential tech bosses, Nvidia CEO Jensen Huang. The saga has also raised the specter of an age-old spying tactic: the “honey trap.”",
+        "Huang stepped down following media reports of an extramarital relationship with Alice Huang, a Singapore-based executive suspected of having ties to Chinese intelligence agencies . She previously worked for Megaspeed, a cloud computing company under U. S. scrutiny for allegedly helping China obtain restricted AI chips.",
+        "Jensen Huang acknowledged an affair . And amid reports of a second with a company executive who reports to him , he tendered his resignation to the Nvidia board on Nov. 12, 2026.",
+        "The sensitivity of Huang’s work – AI is increasingly seen as central to national security – has turned a company matter into an international issue. China’s Foreign Ministry has denied the espionage allegations and accused the U. S. of “fabricating so-called spy narratives and ⁠⁠⁠⁠using them as a pretext for imposing ⁠⁠⁠⁠a technological blockade.” Nvidia says it has no reason to believe company secrets have been leaked.",
+        "Yet part of what makes the accusations so believable is history is dotted with examples of men being distracted, compromised or spied on by attractive men and women deployed for that purpose.",
+        "Indeed, in China it recalls an ancient political tactic known as “meiren ji” or the “ beauty stratagem .”",
+        "As a scholar specializing in U. S. -China relations , I believe that regardless of the particulars of the Huang case, the political logic behind the beauty stratagem – using personal relationships to obtain information, influence decisions and weaken opponents – remains relevant today. As such, it would be no surprise if the tactic was being used amid the growing U. S. -China competition over AI and advanced semiconductors.",
+        "“Meiren ji” is one of “ Thirty-Six Stratagems ,” a Chinese military text of uncertain origin but generally believed to have derived from oral and written histories from the Warring States period — 475–221 BCE. Its 31st stratagem states that personal relationships can be used to influence political opponents and recommends exploiting an adversary’s personal desires and emotional vulnerabilities to weaken their judgment and undermine their leadership.",
+        "The “Thirty-Six Stratagems” is both a playbook for warfare and a reflection on past experience.",
+        "Indeed, one of China’s most famous beauty stratagem stories dates back more than 2,000 years to the Spring and Autumn period of Chinese history.",
+        "In the fifth century BCE, King Goujian of Yue, in modern-day southern China, was defeated by King Fuchai of Wu, its northern neighbor, and forced to submit. But Goujian secretly rebuilt his strength and prepared for revenge.",
+        "According to the ancient historical text “ Wu Yue Chun Qiu ,” Yue sent two beautiful women – Xi Shi and Zheng Dan – to Fuchai, hoping he would become distracted by pleasure and neglect state affairs.",
+        "The plan reportedly worked. Fuchai, seemingly enchanted by the beautiful women, gradually ignored Yue’s threat. Meanwhile, Goujian prepared for war and in 473 BCE Yue conquered Wu.",
+        "Xi Shi’s actual role in Wu’s downfall remains unclear. Wu’s defeat involved poor political decisions and Yue’s military recovery.",
+        "Still, the story illustrated an important idea in Chinese political strategy: Eexploiting an opponent’s personal weaknesses can sometimes be more effective than confronting him directly.",
+        "A similar tactic appears in the 14th-century novel “ Romance of the Three Kingdoms ,” considered one of the classics of Chinese literature.",
+        "It tells the story of Dong Zhuo, a powerful warlord who controlled the imperial court during the late Eastern Han Dynasty. To remove him, Wang Yun, a senior court official loyal to the Han Dynasty promised a beautiful young woman, named Diaochan, in marriage to Dong Zhuo’s military commander. He then offered the same woman to Dong Zhuo.",
+        "The scheme fueled jealousy and distrust between the two men, eventually enabling Wang Yun to persuade Dong Zhuo’s underling to kill him. Wang Yun then briefly took charge of the imperial court on behalf of the Han emperor.",
+        "In modern intelligence operations, using romantic or sexual relationships to approach targets, obtain sensitive information or exert influence is commonly called a “ honey trap .” It is, moreover, certainly not unique to China. Western and Soviet intelligence agencies used intimate relationships for espionage frequently during the Cold War .",
+        "Modern China also has documented cases. One example involves French diplomat Bernard Boursicot and the Chinese opera performer Shi Pei Pu . The pair met in Beijing in 1964 and maintained a long-term intimate relationship. Throughout, Boursicot was providing French diplomatic documents to China. The spying was eventually exposed and both involved were prosecuted for espionage in France in the 1980s.",
+        "A more recent example involves former U. S. Rep. Eric Swalwell and Christine Fang , a suspected Chinese intelligence operative. Swalwell acknowledged in 2015 that he had been physically intimate with Fang on several occasions. At the time, Fang helped raise funds for Swalwell’s campaign and helped place an intern in his congressional office.",
+        "Jensen Huang’s position would make him a prime target for such a “honey trap” operation. His company has become central to the technological competition between the U. S and China. As AI becomes increasingly important to economic development, military capabilities and national security, moreover, Washington has repeatedly tightened restrictions on advanced AI chip exports to China, hoping to slow its access to computing power.",
+        "Beijing is investing heavily in domestic semiconductor development . Yet Chinese companies still need advanced chips to train AI models and build data centers.",
+        "From Beijing’s perspective , advanced AI chips matter not only for Chinese technology companies but for future military and technological competition."
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "nasa-i-am-artemis-katie-spicer",
+      "title": "I Am Artemis Katie Spicer",
+      "dek": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T20:10:02.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history.",
+        "Spicer works in the Flight Operations Directorate at NASA’s Johnson Space Center in Houston, where she evaluates and monitors design and development of Blue Origin’s lander. The design of the Blue Moon lander is rapidly evolving as Blue Origin continues to develop a streamlined lander test article for the agency’s Artemis III rendezvous and docking mission in low Earth orbit as well as a fully functional lander for a crewed lunar landing in 2028.",
+        "Spicer works closely with her NASA and Blue Origin counterparts to ensure the design of the Blue Moon lander can support the overall Artemis mission objectives.",
+        "“I look at the design of everything Artemis crews will touch, work with, or interface with to ensure systems will function the way crews will need them to,” Spicer said. “In some cases, the design might meet requirements, but I delve deeper into details. How easy will it be for crew to grab handles or handrails? Can they operate push-button displays in microgravity? Are the hygiene systems as user-friendly as possible in the limited space that’s available in the spacecraft? And, are there proper procedures and training to ensure the crew can safely and effectively use the systems? Evaluating all these operational details with crew perspective is part of my job.”",
+        "Spicer has spent her career looking at the small details in the big picture.",
+        "After earning a bachelor’s degree in microbiology from the Pennsylvania State University in State College, Spicer spent several years working as a full-time homemaker and raising three children. She got her start at NASA working part-time in the historic Life Sciences Laboratory , performing duties such as washing dishes, cleaning lab equipment, and running tests for scientists.",
+        "“I went from tidying up and keeping my home running to maintaining the historic lab where the Apollo crews were quarantined when they came back from the Moon and the Moon rock samples were stored,” Spicer said.",
+        "From there, Spicer began working with science payloads on the space station. She helped operate the Human Research Facility racks in the International Space Station National Laboratory and worked with scientists and crew to ensure in-flight processes and protocols were completed. It was there that Spicer found a love for the fast-paced dynamic of real-time space operations.",
+        "Spicer became a flight controller at NASA Johnson’s Mission Control Center in 2018. The learning curve to become a flight controller was steep, but it did not deter her. Spicer studied and trained for five years to earn the ultimate instructor and flight controller certifications.",
+        "“Unlike most people I work with, I don’t have an engineering degree,” Spicer said. “On my own, I studied engineering principles. I passed boards and certification tests. I learned to speak ‘engineer! ’”",
+        "Spicer spent five years as an Operations and Support Officer in the space station’s flight control room in Mission Control, also known as the “front room” to spaceflight.",
+        "Now, when she looks at the Moon in the night sky, Spicer says she’s humbled and honored to be part of the team that’s sending astronauts back to the lunar surface.",
+        "“I’m reminded of the great responsibility that NASA has in this endeavor, of the legacy of the courageous Apollo crews who went before, and inspiring the next generation of space explorers to keep going and reaching for the stars!” she said.",
+        "As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions near the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery through its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency’s foundation for the first crewed mission to Mars."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "nasa-news-i-am-artemis-katie-spicer",
+      "title": "I Am Artemis Katie Spicer",
+      "dek": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T20:10:02.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history.",
+        "Spicer works in the Flight Operations Directorate at NASA’s Johnson Space Center in Houston, where she evaluates and monitors design and development of Blue Origin’s lander. The design of the Blue Moon lander is rapidly evolving as Blue Origin continues to develop a streamlined lander test article for the agency’s Artemis III rendezvous and docking mission in low Earth orbit as well as a fully functional lander for a crewed lunar landing in 2028.",
+        "Spicer works closely with her NASA and Blue Origin counterparts to ensure the design of the Blue Moon lander can support the overall Artemis mission objectives.",
+        "“I look at the design of everything Artemis crews will touch, work with, or interface with to ensure systems will function the way crews will need them to,” Spicer said. “In some cases, the design might meet requirements, but I delve deeper into details. How easy will it be for crew to grab handles or handrails? Can they operate push-button displays in microgravity? Are the hygiene systems as user-friendly as possible in the limited space that’s available in the spacecraft? And, are there proper procedures and training to ensure the crew can safely and effectively use the systems? Evaluating all these operational details with crew perspective is part of my job.”",
+        "Spicer has spent her career looking at the small details in the big picture.",
+        "After earning a bachelor’s degree in microbiology from the Pennsylvania State University in State College, Spicer spent several years working as a full-time homemaker and raising three children. She got her start at NASA working part-time in the historic Life Sciences Laboratory , performing duties such as washing dishes, cleaning lab equipment, and running tests for scientists.",
+        "“I went from tidying up and keeping my home running to maintaining the historic lab where the Apollo crews were quarantined when they came back from the Moon and the Moon rock samples were stored,” Spicer said.",
+        "From there, Spicer began working with science payloads on the space station. She helped operate the Human Research Facility racks in the International Space Station National Laboratory and worked with scientists and crew to ensure in-flight processes and protocols were completed. It was there that Spicer found a love for the fast-paced dynamic of real-time space operations.",
+        "Spicer became a flight controller at NASA Johnson’s Mission Control Center in 2018. The learning curve to become a flight controller was steep, but it did not deter her. Spicer studied and trained for five years to earn the ultimate instructor and flight controller certifications.",
+        "“Unlike most people I work with, I don’t have an engineering degree,” Spicer said. “On my own, I studied engineering principles. I passed boards and certification tests. I learned to speak ‘engineer! ’”",
+        "Spicer spent five years as an Operations and Support Officer in the space station’s flight control room in Mission Control, also known as the “front room” to spaceflight.",
+        "Now, when she looks at the Moon in the night sky, Spicer says she’s humbled and honored to be part of the team that’s sending astronauts back to the lunar surface.",
+        "“I’m reminded of the great responsibility that NASA has in this endeavor, of the legacy of the courageous Apollo crews who went before, and inspiring the next generation of space explorers to keep going and reaching for the stars!” she said.",
+        "As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions near the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery through its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency’s foundation for the first crewed mission to Mars."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-your-brain-chemistry-could-change-how-you-understand-langu",
+      "title": "Your Brain Chemistry Could Change How You Understand Language",
+      "dek": "A single word can overturn your understanding of a sentence, and your brain chemistry may shape how hard you work to make sense of it again.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T19:56:13.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/your-brain-chemistry-could-change-how-you-understand-language/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A single word can overturn your understanding of a sentence, and your brain chemistry may shape how hard you work to make sense of it again.",
+        "Even a single word can change the meaning of an entire sentence, forcing the brain to rethink what it just read. But how efficiently the brain handles these grammatical surprises may depend partly on its chemistry.",
+        "A study published in PNAS found that increasing dopamine and noradrenaline (catecholamines) strengthened a brain response associated with untangling ambiguous grammar. Researchers led by the Max Planck Institute for Psycholinguistics (MPI-PL) in Nijmegen observed the largest effects in healthy adults with lower baseline working memory capacity.",
+        "“Catecholamines are known to regulate attention, working memory, and cognitive control, but their role in language remains poorly understood,” says Peter Hagoort, senior investigator and director emeritus of MPI-PL’s Neurobiology of Language Department and the Donders Institute for Brain, Cognition and Behavior.",
+        "“Our earlier work suggested that catecholamines can affect semantic aspects of sentence comprehension. Whether these neuromodulatory systems also influence syntactic processing—how the brain combines words into grammatical structures—was largely unknown.”",
+        "Understanding a sentence involves more than knowing what its words mean. Readers also have to work out how those words fit together, sometimes revising an interpretation as new information arrives. The researchers used temporarily ambiguous “garden-path” sentences to examine that process.",
+        "Consider “The fan attacked the drummer, and the guitarist packed the instruments up.” When the words appear one at a time, readers may initially group “the drummer and the guitarist” together as the people being attacked. The word “packed” reveals that the guitarist is instead performing a separate action, requiring readers to rebuild their interpretation.",
+        "To test whether brain chemistry influences this revision, the team recruited 30 healthy adults. Each completed two sessions, once after taking methylphenidate, a stimulant commonly prescribed for ADHD that increases catecholamine levels, and once after taking a placebo.",
+        "Participants read ambiguous and unambiguous sentences and answered comprehension questions after each one. Meanwhile, researchers recorded their brain activity using EEG (electroencephalography), allowing them to examine the response at the precise word that exposed the grammatical ambiguity.",
+        "After methylphenidate, participants showed a stronger P600 response at the critical word, such as “packed.” This well-known EEG signal is associated with demanding grammatical processing and reflects increased cognitive effort. Its enhancement suggests that higher catecholamine levels changed how the brain recruited resources to resolve the sentence.",
+        "The increase was greatest among participants whose working memory capacity was lower before treatment.",
+        "“The findings suggest that catecholaminergic systems contribute to the dynamic allocation of cognitive resources during syntactic processing,” says Hagoort. “Their influence on language therefore appears to extend beyond semantic processing to syntactic unification, and the magnitude of this effect may depend on individual baseline working memory performance.”",
+        "“The results support the development of neuropharmacolinguistics as a field linking neuromodulatory systems to language processing.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-scientists-discover-a-hidden-immune-system-difference-that",
+      "title": "Scientists Discover a Hidden Immune System Difference That Could Explain Why Obesity Affects Men and Women Differently",
+      "dek": "Scientists have discovered that immune cells in fat tissue behave differently in males and females, potentially helping explain sex-specific responses to obesity.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T19:21:49.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-a-hidden-immune-system-difference-that-could-explain-why-obesity-affects-men-and-women-differently/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Scientists have discovered that immune cells in fat tissue behave differently in males and females, potentially helping explain sex-specific responses to obesity.",
+        "A type of immune cell best known for its role in allergies and asthma may help explain why obesity affects males and females differently. Researchers at the University of California, Riverside found that certain immune cells in fat tissue appear to protect female mice from obesity-related inflammation, while others become more inflammatory in males fed a high-fat diet.",
+        "The findings, published in PNAS Nexus , challenge the long-held assumption that these cells, called eosinophils, perform a relatively narrow range of functions. Instead, their effects may depend on their molecular characteristics, biological sex, and interactions with neighboring immune cells.",
+        "Using high-resolution single-cell sequencing, scientists identified six distinct eosinophil populations in adipose (fat) tissue. Each population displayed different patterns of gene activity, suggesting that eosinophils perform specialized functions rather than acting as a single, uniform group.",
+        "“Eosinophils are more complex than we once thought,” said Meera Nair, a professor of biomedical sciences at the UCR School of Medicine who co-led the research with biomedical scientist Adam Godzik. “Some populations can protect against obesity, and if we can identify and activate the pathways that produce these protective cells, we may find new ways to improve metabolic health.”",
+        "In female mice, researchers identified a protective eosinophil population that communicated more effectively with macrophages, another class of immune cells found in fat tissue. This relationship appeared to be supported by RELM alpha, a protein produced by macrophages that may help maintain protective immune activity. Earlier experiments showed that supplying RELM alpha to mice had protective effects, providing additional evidence for its role in regulating the immune environment.",
+        "Male mice showed a different response to a high-fat diet. Their fat tissue tended to contain more eosinophil populations associated with inflammation, and these cells displayed gene-expression patterns that suggested weaker protective functions.",
+        "“This means the relationship between eosinophils and obesity is not simply a matter of how many eosinophils are present,” said Rebecca E. Ruggiero-Ruff, a postdoctoral researcher in Nair’s laboratory and co-first author of the study. “Their functional characteristics and how they communicate with other immune cells are also critical.”",
+        "Although eosinophils have been detected in the fat tissue of people with obesity, scientists have not yet established whether they perform the same protective or inflammatory functions observed in mice. Determining whether similar cell populations exist in humans could help researchers investigate treatments that influence specific immune pathways rather than broadly altering immune activity.",
+        "“A drug may not activate the same pathways or produce the same effects in males and females, particularly when it targets the immune system,” said co-first author Xinru Qiu, a postdoctoral researcher in Godzik’s laboratory. “We need to investigate sex-specific biology more thoroughly so that treatments can be optimized for different patients.”",
+        "The researchers are now developing three-dimensional adipose organoids, laboratory-grown structures that reproduce certain features of human fat tissue. These models could allow scientists to examine how eosinophils interact with fat cells and macrophages, and whether modifying those interactions can encourage healthier tissue responses.",
+        "“We ultimately hope to develop human adipose organoids that will allow us to investigate whether manipulating immune-cell communication can promote healthier tissue responses,” said Godzik, a professor of biomedical sciences and the Bruce D. and Nancy B. Varner Presidential Endowed Chair in Cancer Research.",
+        "The research was supported by the National Institutes of Health, UCR School of Medicine, and California Institute for Regenerative Medicine.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "conversation-far-from-farms-and-cities-dry-climates-are-boosting-river-",
+      "title": "Far from farms and cities, dry climates are boosting river nitrate pollution",
+      "dek": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious…",
+      "category": "环境",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T19:04:55.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/far-from-farms-and-cities-dry-climates-are-boosting-river-nitrate-pollution-294558"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “ blue baby syndrome .”",
+        "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+        "In a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate concentrations , even in places with little farming or urban development.",
+        "We found nitrate hot spots in some unexpected places, including the Rocky Mountains of the western United States and northern Africa’s Sahara Desert. Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+        "That raises health concerns for regions where nitrates in rivers and well water might not be given much thought. It also raises questions about how nitrate-related health risks will increase as global temperatures rise.",
+        "To see how widespread this pattern is, we combined global measurements from more than 7,000 monitoring sites and additionally extracted information about climate, soils, land use and other landscape features. We then trained machine learning models to estimate long-term average nitrate concentrations across nearly 2. 9 million river segments worldwide.",
+        "The resulting map suggests that nitrates deserve attention well beyond the urban and agricultural regions where they are usually monitored.",
+        "High nitrate exposure in water and food is particularly dangerous for infants because it can interfere with the blood’s ability to carry oxygen. Blue baby syndrome , or methemoglobinemia, can result in serious illnesses and be caused by nitrate poisoning.",
+        "The U. S. drinking water standard of 10 milligrams of nitrate-nitrogen per liter was established primarily to guard against this acute risk.",
+        "We estimate that about 37,000 people worldwide live in areas where rivers exceed the 10 mg/L drinking water standard, predominantly in the U. S. Corn Belt.",
+        "That doesn’t mean 37,000 people are drinking water at those concentrations, since river water in many regions is treated before it is supplied for drinking. But it’s a concerning level they should be aware of, particularly those using well water .",
+        "Research has also raised concerns about possible effects of long-term exposure to nitrate at lower concentrations, including certain cancers and adverse birth outcomes , such as babies born preterm or with a low birth weight, although those risks are still being studied.",
+        "We estimate that about 480 million people worldwide live in areas where nearby rivers have elevated long-term average nitrate concentrations, above 2. 5 milligrams per liter.",
+        "Many of the rivers our models identified as having elevated nitrate levels are small headwater streams. Many headwater streams cease to flow for some periods of time every year, and nitrates can accumulate to high concentrations under dry or low-flow conditions. These small streams make up most of the global river networks , have long been overlooked and feed larger rivers that supply drinking water to large populations and help shape the quality of water downstream.",
+        "Too much nitrate in rivers and lakes can also fuel algal growth and disrupt aquatic ecosystems.",
+        "A global map of nitrate concentrations in river water cannot show what comes out of someone’s tap. Their water may be mixed with other sources or treated before they drink it . Nitrate concentrations can also rise and fall over time, while our map shows long-term averages.",
+        "To understand a person’s actual exposure will require connecting river measurements with drinking water sources, treatment practices and tests of water delivered to households.",
+        "Many rivers with nitrate concentrations above 2. 5 milligrams per liter flow through sparsely populated regions where access to treated drinking water may be limited. Even where treatment facilities exist, conventional methods remove little nitrate . Removing it requires specialized technologies that can be costly to operate.",
+        "Our study shows why more drylands and small headwater streams need to be monitored for nitrate. It also raises a question for a warming world: If a region becomes drier, how much will nitrate concentrations rise even if people do not add more nitrogen to the landscape?",
+        "Answering that will require measurements through wet and dry periods, paired with studies of how water moves through soils, groundwater and rivers. For now, the message is clear: Protecting water quality requires paying attention to the climate as well as to the human activities that put nitrogen into the environment.",
+        "Li Li (李黎) does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "nasa-nasa-ames-stars-of-the-month-november-2026",
+      "title": "NASA Ames Stars of the Month: November 2026",
+      "dek": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T17:54:32.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
+        "Alyssa Villaneuva is an engineer at Blue Marble in the Space Biosciences Division on the LEIA (Lunar Explorer Instrument for space biology Applications) team. Alyssa is recognized for technical excellence, dedication and boundless support to the rest of the team. She goes above and beyond in contributing to LEIA every day and has been essential in all the test efforts, in particular with preparation and execution of engineering validation testing.",
+        "Steve Howell is recognized for his leadership of scientific teams for numerous international space missions. His pioneering work in astronomical instrumentation have significantly advanced both space- and ground-based telescope imaging. In kind, the Astronomical society has recently recognized Steve’s lifetime of major contributions to the field with the prestigious Catherine Wolfe Bruce Gold Medal from the Astronomical Society of the Pacific.",
+        "Samuel LeBlanc is a research scientist for the Bay Area Environmental Research Institute in the Earth Science Division. Sam is recognized for exceptional technical leadership and innovative thinking in advancing Ames’ flight planning capabilities for NASA airborne science missions. Sam’s contributions have placed Ames at the forefront of airborne science flight planning within and outside the Agency, enabling successful and cost-effective missions that maximize scientific returns."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "nasa-news-nasa-ames-stars-of-the-month-november-2026",
+      "title": "NASA Ames Stars of the Month: November 2026",
+      "dek": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T17:54:32.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
+        "Alyssa Villaneuva is an engineer at Blue Marble in the Space Biosciences Division on the LEIA (Lunar Explorer Instrument for space biology Applications) team. Alyssa is recognized for technical excellence, dedication and boundless support to the rest of the team. She goes above and beyond in contributing to LEIA every day and has been essential in all the test efforts, in particular with preparation and execution of engineering validation testing.",
+        "Steve Howell is recognized for his leadership of scientific teams for numerous international space missions. His pioneering work in astronomical instrumentation have significantly advanced both space- and ground-based telescope imaging. In kind, the Astronomical society has recently recognized Steve’s lifetime of major contributions to the field with the prestigious Catherine Wolfe Bruce Gold Medal from the Astronomical Society of the Pacific.",
+        "Samuel LeBlanc is a research scientist for the Bay Area Environmental Research Institute in the Earth Science Division. Sam is recognized for exceptional technical leadership and innovative thinking in advancing Ames’ flight planning capabilities for NASA airborne science missions. Sam’s contributions have placed Ames at the forefront of airborne science flight planning within and outside the Agency, enabling successful and cost-effective missions that maximize scientific returns."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "scitechdaily-scientists-discover-a-powerful-plastic-eating-enzyme-hidin",
+      "title": "Scientists Discover a Powerful Plastic-Eating Enzyme Hiding in an Ordinary Compost Heap",
+      "dek": "An enzyme found in compost broke down small amounts of polyurethane foam in laboratory tests, offering an early lead toward gentler ways to recycle a stubborn plastic.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T16:01:18.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-a-powerful-plastic-eating-enzyme-hiding-in-an-ordinary-compost-heap/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "An enzyme found in compost broke down small amounts of polyurethane foam in laboratory tests, offering an early lead toward gentler ways to recycle a stubborn plastic.",
+        "The polyurethane used in mattress foam, shoe soles, and refrigerator insulation is notoriously difficult to recycle on an industrial scale. A very large share of the millions of metric tons produced worldwide ends up in landfills or incinerators, taking potentially reusable material with it.",
+        "Nylon presents a similar challenge. Used in clothing, bags, cars, ropes, engine components, and fishing nets, it is another plastic made from crude oil, a finite resource. Researchers want to break both materials down into their pure components so those ingredients can become new polyurethane and nylon. Chemical and biological approaches are making progress, but the solutions emerging from laboratories are not yet ready for industrial use.",
+        "Researchers from Aarhus University and the Danish Technological Institute went looking for help among bacteria. Their search took in a Kenyan landfill, a tropical zoo, the guts of wax moth larvae, and a compost heap near Aarhus. The best candidate came from the compost, where a bacterium produced an enzyme with an ability that could prove useful far beyond the heap.",
+        "Researchers collected bacteria from plastic-contaminated environments, including a tropical zoo, a landfill in Kenya, compost and larval guts. Using fluorescent probes and fluorescence-activated cell sorting (FACS), they isolated bacteria capable of cleaving chemical bonds found in polyurethane and nylon. The active enzymes were then purified and identified using chromatography, activity assays and mass spectrometry. In total, the researchers identified 10 polyurethane-degrading enzymes and 2 nylon-degrading enzymes. Credit: Rosie Graham / Angewandte Chemie",
+        "Enzymes are proteins that speed up chemical reactions. To find ones that can break down plastic, researchers conventionally search genome databases for gene sequences resembling those of enzymes already known to do the job. That approach has yielded useful enzymes, but there are relatively few known examples to guide the search.",
+        "This team used bioprospecting, which means searching nature for organisms and genetic material that could be useful in research or industry. It was the first time researchers had searched on such a large scale and across such varied environments for enzymes capable of degrading polyurethane, also called PUR, and nylon.",
+        "The idea came to Andreas Møllebjerg as he prepared to begin a postdoctoral position at what was then the Interdisciplinary Nano Science Center (iNANO) at Aarhus University. He was joining a new project investigating whether natural enzymes could break down plastic. Møllebjerg, a co-author of the resulting study, recently published in Angewandte Chemie , was responsible for collecting bacteria from different environments.",
+        "“I suggested looking for suitable enzymes in places where it is warm, because bacteria thrive and grow well there all year round. And preferably somewhere plastic has been present for a long time. A year and a half later, I was on a plane to Kenya, followed by half an hour on the back of a local student’s motorbike on the way to a huge landfill. He helped me collect samples and communicate with the hundreds of people who lived on and off the landfill,” he says.",
+        "Møllebjerg and PhD student and co-author Malthe Kjær Bendtsen also traveled 34 kilometers, about 21 miles, to collect plastic waste at Randers Regnskov Tropical Zoo. Møllebjerg bought a bag of wax moth larvae from a pet food shop so the team could investigate enzymes from bacteria in their guts. At a recycling center about 10 kilometers, or 6 miles, from the university, he collected a shovelful of compost.",
+        "Those samples gave the researchers millions of bacteria to examine. Finding a useful enzyme required more than showing that a bacterium could react with a convenient laboratory substitute for plastic.",
+        "“It was like a three-stage rocket, where we gradually narrowed them down. We started by finding bacteria that could break down the fluorescent model material. Then we isolated the enzymes capable of breaking down exactly that fluorescent material. And finally, we tested the enzymes on increasingly realistic materials,” Bendtsen explains.",
+        "This 90-hour time-lapse video shows enzymatic degradation of two different molecules that mimic nylon. The second and fourth vials show CCPUR1 breaking down the two molecules, while the first and third vials show an inactive enzyme. Credit: Samuel Peña Díaz, Aarhus University, and Andreas Sommerfeldt, Danish Technological Institute"
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "scitechdaily-this-10-000-a-pound-spice-could-help-save-colorado-farmers",
+      "title": "This $10,000-a-Pound Spice Could Help Save Colorado Farmers",
+      "dek": "Beneath Denver’s solar panels, a spice nicknamed “red gold” is yielding a promising harvest that could help Colorado farmers earn more with less water.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T15:26:34.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/this-10000-a-pound-spice-could-help-save-colorado-farmers/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Beneath Denver’s solar panels, a spice nicknamed “red gold” is yielding a promising harvest that could help Colorado farmers earn more with less water.",
+        "At Colorado State University Spur , horticulture graduate student Reece Bailey is investigating whether saffron could become a profitable addition to the state’s farms. His experiments in the campus’s urban gardens and green roof research areas are testing how the crop handles Colorado’s climate, how much water it needs, and whether growing it beneath solar panels improves production.",
+        "The appeal starts with its extraordinary value. A pound of saffron typically costs between $600 and $5,000, with some varieties reaching $10,000. Vanilla, the second most expensive spice, sells for roughly $90 to $225 a pound. Those prices caught Bailey’s attention, but the research must establish whether the potential earnings justify the work.",
+        "Colorado may seem an unlikely home for a spice closely associated with the Middle East. Yet Iran, which produces roughly 85% of the world’s saffron, has mountainous, semiarid conditions that resemble parts of the state. Bailey sees that overlap as a reason to investigate whether “red gold” could find a foothold on Colorado’s high plains.",
+        "The crop also offers an unusual combination of low water demand and late production. Saffron typically blooms in November, potentially bringing farmers income after other harvests have ended. Under suitable conditions, Bailey said, it could provide that additional crop without requiring extra irrigation.",
+        "“One thing that’s always been interesting to me is new ideas and novel ways of integrating crops into our environments,” said Bailey, who grew up in Aurora and has worked on Spur’s green roof for three years.",
+        "The world’s most expensive spice comes from a remarkably small harvest: the three slender red stigmas inside each purple saffron flower. Collecting enough to produce a pound of dried spice requires roughly 75,000 flowers.",
+        "That harvest is painstaking. Flowers open for only a few hours each morning, and workers carefully extract the stigmas, often with tweezers. The amount of hand labor helps explain both saffron’s price and the challenge of turning it into a profitable crop.",
+        "“It’s certainly not the easiest crop to grow or the easiest crop to work with, but the investment can be well worth it,” Bailey said.",
+        "The Colorado Department of Agriculture has committed $80,000 through its Specialty Crop Block Grant Program to investigate that possibility, particularly as a source of supplemental income late in the season and during dry years.",
+        "“For a lot of farmers, the price for their goods isn’t keeping up with the price of inputs, so what we’re really trying to do is find new crops that will work with Colorado’s climate and for our producers’ bottom line,” said Sam Hahn, the department’s next generation and specialty crops program manager. “Saffron has a high labor input, but it could really be a boon for our farmers.”",
+        "Successfully growing the flowers would answer only part of the business question. Farmers would still need to assess startup costs, bulb suppliers, equipment, labor availability, and buyers. A valuable spice does not automatically translate into a profitable harvest.",
+        "Its labor demands could nevertheless create another benefit. Hahn said the November bloom might provide agricultural jobs during a period when many farmworkers are typically unemployed, while helping farms adapt to a changing climate.",
+        "“It’s so important that we experiment with these high-value crops to see if it can supplement the market in our state and keep us competitive,” Hahn said."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "scitechdaily-more-than-a-billion-years-of-earths-history-is-missing-sci",
+      "title": "More Than a Billion Years of Earth’s History Is Missing – Scientists May Finally Know Why",
+      "dek": "Earth’s rocks are missing more than a billion years of history in some places, and the slow rise and fall of continents may explain how those chapters disappeared.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T14:51:42.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/more-than-a-billion-years-of-earths-history-is-missing-scientists-may-finally-know-why/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Earth’s rocks are missing more than a billion years of history in some places, and the slow rise and fall of continents may explain how those chapters disappeared.",
+        "A study led by University of Wollongong (UOW) PhD candidate Santosh Dhungana suggests that the slow rise and fall of continents helped create the Great Unconformity, a vast gap in Earth’s geological record. Published in Nature , the research links this missing history to currents of hot rock in the mantle that moved continents vertically over hundreds of millions of years.",
+        "Normally, rock layers preserve a sequence of events, with younger deposits accumulating above older ones. At the Great Unconformity, that sequence jumps: sedimentary rocks from around the beginning of the Cambrian period, roughly 540 million years ago, rest directly on much older crystalline rocks, including granite more than a billion years old.",
+        "“Imagine a book where a huge section in the middle has been ripped out. The Great Unconformity is that gap in Earth’s story, with the narrative jumping from the early chapters straight to a much later part of the story. Our research suggests these pages weren’t lost by chance,” Dhungana said.",
+        "The Grand Canyon exposes one of the most striking examples of this geological gap. It lies within what was once the ancient continent Laurentia (modern North America). Similar boundaries appear in Europe, Australia, Africa, and Asia, although the missing intervals vary from about 200 million years to well over a billion.",
+        "Explaining the Great Unconformity requires accounting for both the removal of rock and the survival of the eroded surface beneath younger deposits. Dhungana said that although scientists had offered several explanations, those ideas had not been thoroughly tested against Earth’s behavior over time.",
+        "To investigate, he and his supervisor and co-author, Associate Professor Nicolas Flament, modeled mantle convection across hundreds of millions of years. The mantle consists of hot, solid rock that flows very slowly. Its currents can gently lift enormous stretches of land or allow them to sink.",
+        "The models indicated that mantle currents raised the ancient continental cores of Laurentia, Baltica (northern Europe), and North China during the Neoproterozoic Era, from about one billion to 540 million years ago. This prolonged uplift would have exposed rock to erosion. The era was followed by the Cambrian period, when animal life diversified dramatically.",
+        "The next stage helped preserve what erosion had left behind. During the Phanerozoic eon, which spans the past 540 million years, the continental cores gradually sank. Seas spread across their worn surfaces, and accumulating sediment buried the boundary between the ancient rocks and the younger geological record.",
+        "The modeled pattern matched the geography of the evidence. North America, northern Europe, and North China, where the Great Unconformity is especially well preserved and documented, all showed the prolonged rise followed by sinking that the researchers proposed.",
+        "“Sometimes what is missing can tell us more about the story of Earth than what we can see. A single, long period of uplift followed by a long period of sinking would have been the ideal recipe for removing the rock and preserving the worn surface,” Associate Professor Flament said.",
+        "“Many explanations for the Great Unconformity had been proposed, but few had been tested against how the Earth actually behaves over time. It is a thrill to be able to propose a solution to this geological puzzle.”",
+        "This study was funded by the Australian Research Council.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "conversation-what-is-food-is-medicine-2-experts-explain-this-decades-ol",
+      "title": "What is ‘food is medicine’? – 2 experts explain this decades-old approach to healthcare that is taking on new life",
+      "dek": "Mountains of scientific evidence support both the negative and positive effects of our eating habits on our health . ",
+      "category": "健康",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T14:04:49.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/what-is-food-is-medicine-2-experts-explain-this-decades-old-approach-to-healthcare-that-is-taking-on-new-life-293312"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Mountains of scientific evidence support both the negative and positive effects of our eating habits on our health . Research shows that a healthy diet can help those suffering from chronic health conditions like Type 2 diabetes , heart disease and high blood pressure .",
+        "This is where “food is medicine” comes in. Food is medicine, also known as “food as medicine” and “food prescriptions,” is a movement dedicated to providing healthy food – fruits, vegetables and sometimes healthy proteins – based on a clinician’s prescription in order to prevent, manage or treat specific clinical conditions .",
+        "Prescribing food to patients is intended to convey that food is just as important as medication for health and wellness.",
+        "As researchers whose work focuses on food access and health in rural communities, we have firsthand experience running food is medicine programs in our local area in northern Mississippi. This experience has shown us the benefits and limitations of these programs in our community.",
+        "Food is medicine programs can be delivered through curated food boxes, grocery vouchers and medically tailored meals. Most programs are collaborations between nonprofit organizations, health clinics and healthcare providers. The goal of food is medicine is to improve patient health, especially for those with chronic conditions, while reducing healthcare costs.",
+        "Increasingly, food is medicine programs have become lifelines for people with food insecurity. In 2024, more than 47 million Americans, including 7. 3 million children, lived in food-insecure households – meaning they were at some point uncertain of having, or did not have, enough food for everyone in the household.",
+        "Internationally, the number of people experiencing hunger rises to roughly 673 million . Rural populations are more likely to be food insecure due to the loss of local grocery stores and distance from urban centers. Unlike a food bank, food is medicine programs provide only healthy foods, which are often curated by a dietitian, to optimize patient health.",
+        "Though food is medicine isn’t formally connected to the Make American Healthy Again movement , U. S. Health and Human Services Secretary Robert F. Kennedy, Jr. has brought new energy and attention to the concept. In January 2026, the second Trump administration launched a campaign encouraging Americans to “ Eat Real Food .”",
+        "But the food is medicine movement actually began more than 60 years ago. One of the early providers who prescribed food as medicine was civil rights activist and multiple Nobel Peace Prize winner Dr. Jack Geiger . In the 1960s, he co-founded community health centers in South Boston and the Mississippi Delta.",
+        "When government officials chastised him for prescribing food to patients in the Delta, Geiger responded, “The last time I looked at my textbooks, the most specific therapy for malnutrition was food.”",
+        "Since then, thousands of community organizations like Community Servings and Project Open Hand have provided healthy food to vulnerable community members.",
+        "In 2023, the president of the American Heart Association convened an advisory group of researchers and physicians to review current food is medicine research and suggest next steps for work in this area. This advisory has suggested that these programs could help prevent or manage chronic conditions, saving the U. S. healthcare system an estimated US$4. 3 trillion annually .",
+        "Food is medicine has also started to gain international momentum. In 2025, the Rockefeller Foundation supported a meeting of international scholars, policy experts and practitioners that established the Food Is Medicine Global Alliance . This organization plans to help integrate, sustainably finance and routinely deliver food is medicine programs worldwide by 2030. So far, it has released several reports highlighting the current food is medicine environment and made resources available to providers looking to start their own programs.",
+        "Food is medicine programs can use food from local farms or grocery stores, and the means of getting the food to patients varies. The four projects we have run to date have been relatively small and local.",
+        "One was a food box pickup program that supplemented fruits and vegetables for 55 households whose members demonstrated food insecurity. We followed the participants for two years and found statistically significant reductions in weight , waist circumference and triglyceride levels in the primary adult participants.",
+        "For two of our other programs, including one that is ongoing, we partnered with local farmers . One was a pilot test of a food box delivery program for housebound people. Both the recipients of the food and the farmers reported high satisfaction with the program’s delivery and felt the program strengthened community connections while also supporting local agricultural livelihoods.",
+        "One recent large-scale literature review identified 14 trials of food is medicine interventions and found that these approaches often positively influenced diet quality and food security .",
+        "Another review of food is medicine programs for people with diabetes found significant increases in fruit and vegetable intake and reductions in blood sugar levels . This data supports our own previous findings.",
+        "However, the effect of food is medicine programs on long-term health outcomes has been inconsistent, in part because many trials have been too small or not rigorous enough to determine causation. In some cases, the “dose” – that is, the amount of food provided – is limited by grant funding. Our food box pickup project supplemented only four to five meals each week , which may have been insufficient to significantly improve all health outcomes.",
+        "Moreover, it will be important for researchers to consider the logistics of making these programs work in various local food environments. Global factors like changing weather patterns and, more recently, delays in fuel and supplies from the Strait of Hormuz have increased prices of staple food products like cereals and vegetable oil and led to shortages of cooking oil in some countries.",
+        "Food is medicine can be appealing because it makes intuitive sense. But going forward, larger, high-quality studies are needed to adequately track clinical outcomes from the various types of food is medicine programming. If studies show food is medicine is beneficial, it could lead to a shift in how healthcare practitioners approach diet for patients with chronic illness. Access to healthy food would be considered as essential as medications for patients with chronic illness.",
+        "Meagen Rosenthal receives funding from the State of Mississippi and the US Department of Agriculture.",
+        "Natalie Minton receives funding from the United States Department of Agriculture's Southern Sustainability and Education Research."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "conversation-extreme-weather-risk-is-scaring-big-corporations-away-from",
+      "title": "Extreme weather risk is scaring big corporations away from poorer countries – that hurts the companies, too",
+      "dek": "When multinational companies decide where to build a factory, open a mine or establish a regional office, they have to consider whether the investment will still be…",
+      "category": "环境",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:42:26.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/extreme-weather-risk-is-scaring-big-corporations-away-from-poorer-countries-that-hurts-the-companies-too-295591"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "When multinational companies decide where to build a factory, open a mine or establish a regional office, they have to consider whether the investment will still be profitable years into the future.",
+        "Making that decision increasingly means thinking about risks, like whether surrounding roads will flood, worker safety will be compromised by extreme heat in the summer, and clean water will be available.",
+        "As climate change increases the frequency and intensity of extreme weather events around the world, these effects can be especially severe in poorer countries that lack the resources to prepare for disasters or recover quickly after they hit.",
+        "I study how political and environmental risks affect international business . In my new book, “ Multinational Corporations and Climate Change: Risks, Responsibilities, and Resilience ,” I explore how disaster risk is affecting the ways global companies see these climate-vulnerable markets, and how those views are leading some foreign investors to avoid these developing nations altogether.",
+        "Low- and middle-income countries aren’t the only ones that suffer when multinational corporations pass them by. The companies themselves also stand to lose out on business opportunities in emerging markets if they pull away.",
+        "Evidence from several studies suggests that multinationals are systematically avoiding investing in the most climate-vulnerable countries. These include my own analysis of 159 countries. Although these studies focus on different samples, they identify the same trend: Countries characterized by greater climate vulnerability received less foreign investment .",
+        "The results are not trivial. My book identifies a 12% reduction in foreign direct investment for each 1-point rise in climate vulnerability on a 100-point scale, while holding other relevant factors constant. This vulnerability data measures countries’ exposure to climate hazards as well as their capacity to adapt.",
+        "Companies rarely say why they’re avoiding a particular location, but their climate-related concerns occasionally become visible.",
+        "For example, Google halted plans to build a US$200 million data center in Chile after an environmental court revoked its construction permit over the likely effects on water supplies and the environment. Similarly, a $1 billion data center proposed in Kenya by Microsoft and the Abu Dhabi-based artificial intelligence company G42 was delayed and ultimately suspended amid concerns about water stress in the area.",
+        "Companies have reason to be cautious about climate risks.",
+        "One analysis of 71 large publicly traded companies found that firms reporting major flood losses experienced a 5% average decline in shareholder value over the following year, after accounting for broader market movements.",
+        "In Vietnam, typhoons and floods caused an estimated $475 million in damage to energy and transportation infrastructure in 2022. Unreliable infrastructure cost companies there about $280 million .",
+        "Severe flooding in Thailand in 2011 forced several companies, including Toyota, Nissan and Honda, to temporarily suspend production as factories flooded, shutting down production of parts or vehicles made there.",
+        "Costs like those shape where companies choose to invest next.",
+        "While climate risk does not stop all investment in climate-vulnerable markets, it does make projects in these nations relatively more expensive, less attractive and more difficult to finance than less risky locations.",
+        "For developing countries, less foreign investment means fewer jobs are created . These countries also have fewer opportunities to benefit from exposure to the new technologies that multinationals bring when they invest abroad.",
+        "Those results highlight another way climate change is deepening global inequality. It reduces the economic activity that could support future development, while simultaneously damaging physical infrastructure and threatening human health and well-being.",
+        "Developing countries are especially vulnerable to the effects of rising global temperatures, whether for their dependence on agricultural markets, geography or relatively fragile infrastructure . A report from the Climate Impact Lab at the University of Chicago projects that 90% of heat-related deaths in the coming decades will take place in low- and middle-income countries. Similarly, a 2022 study found that around 90% of people exposed to flooding live in developing nations.",
+        "Yet poor countries have contributed only a tiny fraction of the emissions that are causing climate change, even as they face the brunt of the damage. For example, African countries are responsible for less than 4% of greenhouse gas emissions globally. But they stand to experience the greatest negative effects of climate change.",
+        "When a company avoids investing in climate-vulnerable countries, that may reduce its exposure to floods, droughts or extreme heat, but the decision also carries potential costs for the company.",
+        "Many of these countries have growing consumer markets, energy resources or critical minerals that multinationals need. Companies that dismiss them as too risky may lose out on promising opportunities.",
+        "For example, the Democratic Republic of Congo supplies most of the world’s cobalt , while Indonesia has become the dominant producer of nickel . These countries are highly vulnerable to climate change , which is likely scaring some companies away .",
+        "Yet companies with a greater tolerance for risk have established strong positions in those countries’ mineral industries . Thus, more cautious firms may reduce their risk exposure, but they are also surrendering access to important resources and growing markets.",
+        "There are ways to help companies overcome their climate-risk avoidance so more investment can pour into these countries:"
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "conversation-despite-intense-islamophobia-abdul-el-sayed-and-dozens-of-",
+      "title": "Despite intense Islamophobia, Abdul El-Sayed and dozens of other Muslims elected representatives are breaking down barriers",
+      "dek": "Democrat Abdul El-Sayed made history on Nov. 3, 2026, when Michigan voters elected him the first Muslim to the U. S. Senate despite significant efforts to defeat him.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:42:15.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/despite-intense-islamophobia-abdul-el-sayed-and-dozens-of-other-muslims-elected-representatives-are-breaking-down-barriers-296035"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "Democrat Abdul El-Sayed made history on Nov. 3, 2026, when Michigan voters elected him the first Muslim to the U. S. Senate despite significant efforts to defeat him.",
+        "He wasn’t alone. A record number of American Muslims won their races in the midterms.",
+        "As political scientists who study minority politics, we think their wins raise a question that goes beyond any single race: What does it mean for Muslim Americans, and for everyone else, to see Muslims elected to public office?",
+        "The August 2026 Democratic primary alone drew record-breaking outside spending from the pro-Israel lobbying group AIPAC and corporate special interests, totaling nearly US$70 million to defeat El-Sayed. That is about 11 times his own spending.",
+        "In the November 2026 midterm election, outside groups, including super PACs and other organizations independent of the campaigns, spent more than $134 million, according to independent trackers . The largest spender was the Senate Leadership Fund, a super PAC aligned with some Senate Republican leaders .",
+        "El-Sayed also broke with his party’s leadership on Gaza. As a candidate, he called for ending U. S. arms sales to Israel and opposed what he called “ blank-check military aid ” to any foreign country. That stance resonated with the many Arab and Muslim Americans who had split with Democrats over the war in 2024.",
+        "El-Sayed also faced a barrage of openly Islamophobic attacks expressing hatred or hostility toward Islam or Muslims. President Donald Trump called him a “ jihadist ” and a “Muslim Brotherhood guy.” Vice President JD Vance accused him of supporting Sharia law . And in the week after El-Sayed’s primary win, anti-Muslim posts targeting him online rose about twentyfold .",
+        "El-Sayed won anyway. Across the country, at least 97 American Muslims won federal, state and local races this year, according to the Council on American-Islamic Relations.",
+        "Political scientists have long studied descriptive representation – the election of politicians who share the background of the people they serve, such as their race, ethnicity, gender or religion.",
+        "One of the earliest studies came from sociologist Lawrence Bobo and political scientist Franklin Gilliam Jr. , who found that Black Americans living in cities with a Black mayor were more politically engaged than Black Americans elsewhere. Those who resided in cities with a Black mayor were more likely to report being trusting of government, more confident that they could make a difference and more attentive to politics.",
+        "Later scholars called this the “minority empowerment thesis,” meaning that when members of a minority group are elected, other members of that group feel more connected to politics. For example, political scientists Susan A. Banducci , Todd Donovan and Jeffrey A. Karp found that Black Americans represented by a Black member of Congress were significantly more likely than other Black Americans to know their representative’s name. They were also more likely to have contacted their representative and to remember something they had done for the district.",
+        "For Muslim Americans, the stakes are especially high because research shows that, at times, hostility pushes them away from public life.",
+        "During the 2016 presidential campaign, Trump called for “ a total and complete shutdown of Muslims entering the United States .” Around that time, users of the social media platform X, then known as Twitter, who had Arabic names shared their locations 10% to 20% less often . It was a sign that they were making themselves less visible online. In the same study, Muslim Americans surveyed in early 2017 who reported experiencing societal discrimination also indicated avoiding public places – such as restaurants, shopping malls and parks – and limiting what they posted online.",
+        "Political scientist Nura Sediqe has studied what social psychologist Elizabeth Pinel called “ stigma consciousness ”: expecting to be judged and treated differently because of a part of one’s identity that others look down on. In a survey of Muslims in southeast Michigan, Sediqe found that the more strongly they expected this, the less likely they were to identify as American. That expectation was highest among those who had faced discrimination and among women who wear the hijab, a headscarf that is a visible marker of their faith. In other words, being made to feel like an outsider can weaken Muslims’ sense that they belong in the country, and in its democracy.",
+        "Muslims also face barriers from elected officials of both parties. In an audit study of state legislators in all 50 states, for example, both Democrats and Republicans were less likely to respond to a Muslim constituent than a white one.",
+        "To understand what visible Muslim representation can change, we conducted two experiments in May 2022. We created a one-minute animated video showing “a day in the life of a city council member,” designed to resemble the short explainer videos that companies and government agencies use online to explain their work to the public.",
+        "Survey respondents were randomly assigned to watch one of two versions. In one, three council members were visibly Muslim. In the other, the same three characters appeared without religious symbols. Because the videos were otherwise identical, any differences in how people responded can be attributed to seeing Muslims on the council. The first study surveyed 740 American Muslims, and the second nearly 4,000 non-Muslim Americans.",
+        "In both studies, people who saw the council with visibly Muslim members judged it to be fairer and more legitimate. The effect was strongest among Muslims, but non-Muslims rated the council slightly fairer and more legitimate, too.",
+        "Muslim participants who saw visibly Muslim leaders were also more willing to take part in politics. On average, they were about 5 percentage points more likely to say they planned to do things like contact a public official, attend a local political meeting or join a protest in the coming year. They also showed a small increase in interest in running for office.",
+        "Our research suggests that representation is not zero-sum, meaning that making a political body more inclusive for one group did not come at the expense of another. That challenges a common worry that elevating one group will alienate everyone else. Readers should note that we used short animated videos of a fictional city council, not real elected officials, so more research is needed to know how these effects play out with real politicians and how long they last.",
+        "Still, these findings do matter in a moment like this one. During the campaign, Representative Nancy Mace of South Carolina posted that “every single Muslim holding public office in America is a Trojan horse and a threat to both national security and our republic.”",
+        "But our research points the other way. Seeing Muslims in office made both Muslims and non-Muslims alike view a political body as fairer and more legitimate.",
+        "We argue that El-Sayed’s presence in the Senate, alongside the record number of Muslims elected across the country, has the potential to not only show Muslim Americans that they belong in American democracy, but also to show everyone else that the country’s institutions are stronger for it.",
+        "Financial support for this project came from the Swedish Research Council (#2018-01887). Nazita Lajevardi continues to receive financial support from the Swedish Research Council."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "conversation-rural-women-in-colorado-and-nationwide-are-at-higher-risk-",
+      "title": "Rural women in Colorado and nationwide are at higher risk for cervical cancer – at-home test kits can help close the gap",
+      "dek": "With vaccines and regular screening, cervical cancer is one of the most preventable cancers.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:42:05.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/rural-women-in-colorado-and-nationwide-are-at-higher-risk-for-cervical-cancer-at-home-test-kits-can-help-close-the-gap-293083"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "With vaccines and regular screening, cervical cancer is one of the most preventable cancers.",
+        "Yet women living in rural areas of the United States have a 25% higher rate of cervical cancer – and a 42% higher rate of death from the disease compared to urban women.",
+        "In Colorado, rural counties such as Prowers, Moffat and Montrose have almost three times the rate of cervical cancer than urban counties .",
+        "Nationwide, 13,000 women are diagnosed with the disease and more than 4,000 die from it each year . In Colorado, the most recent data available indicated that almost 150 women were diagnosed with cervical cancer in 2023 , and, on average, more than 40 women die annually .",
+        "While overall numbers of diagnoses and deaths nationwide have decreased over the past 20 years, rural women are more likely to be diagnosed at a later stage of disease , meaning chemotherapy and radiation treatments may be necessary to treat their disease.",
+        "My research and clinical expertise in gynecology and obstetrics specifically aim to tackle this troubling health disparity. I study lower genital tract precancers from human papillomavirus, or HPV. As part of a team of researchers across the U. S. , I participated in a clinical trial that led to the first FDA-approved at-home HPV test.",
+        "The development of an at-home test is a game changer. It can bring screening to a broader spectrum of women, hopefully catching those who have precancerous changes early enough to prevent the progression to cancer.",
+        "But eliminating cervical cancer will require ensuring that women can access not only screening but also vaccines and any necessary follow-up diagnostic procedures and treatments.",
+        "For rural women, access to healthcare clinics for routine screenings may be limited. A visit to a qualified professional for a cervical exam and Pap test can require half a day or longer in travel and wait times. In a recent study, women in rural counties were 20% less likely to be up to date on cervical cancer screening .",
+        "In 2025, the U. S. Food and Drug Administration authorized the Teal Wand for at-home self-collection . Federal and medical organizations have since included self-collection as part of routine screening recommendations. My university received funding from Teal Health to support research. I was a site investigator, but I have no shares in the company or any patents, and I have never received any money directly from Teal.",
+        "Women can now also do a test during a visit to their primary care doctor even if that doctor does not perform pelvic exams. That means patients do not need to see a gynecologist to get screened.",
+        "Nearly all cervical cancers are caused by persistent viral infections from HPV. These infections most frequently occur through sexual contact. At-home screening tests check for infection, which means clinicians can identify women at risk of developing cervical cancer before the disease occurs.",
+        "During self-collection, women use a simple swab to collect a vaginal sample. That swab is mailed to the lab and then tested for HPV.",
+        "Studies have shown that when FDA-approved HPV tests are used, self-collected samples are as reliable as clinician-collected samples for detecting cervical precancer.",
+        "Studies show that self-collection tests for HPV can help decrease barriers to care for rural communities. A study across four Appalachian state regions – Ohio, West Virginia, Kentucky and Virginia – found that screening increases when women are mailed a self-collection kit . Appalachia, a largely rural geographic region that is underserved in terms of access to healthcare, has documented disparities in cervical cancer rates.",
+        "Underscreened patients across these four states were randomly chosen to either receive the usual care, a mailed reminder letter to go to a clinic or a mailed HPV self-collection kit. The study showed a threefold increase in screening rates: 5% with the reminder and 15% with the mailed kits.",
+        "Another study in Washington state showed similar results, with an increase in screening of overdue individuals by more than 15% in mailed kits versus education alone .",
+        "Statewide initiatives in Alabama, with the Operation Wipe Out project , and in Texas, with the Lone Star Cervical Cancer Elimination Plan , use self-screening as part of a strategy to eliminate cervical cancer.",
+        "In Colorado, I am part of a team working to implement a similar plan that we hope to initiate in 2027.",
+        "Studies in Europe have shown that self-collection has increased access to care, improved screening rates and reduced screening costs. Long-term evidence demonstrates these programs are effective: Many countries began using them as early as 2017.",
+        "Making screening easier is only the first step toward preventing cervical cancer. Even in the Appalachian study, fewer than 15 out of 100 women who received mailed HPV self-collection kits completed screening .",
+        "In short, removing the need for a clinic visit does not address all the barriers to preventing this disease.",
+        "HPV vaccines are the single strongest tool for preventing cervical cancer . Vaccinations are recommended for adolescents ages 9-14 before they are exposed to HPV. If given under age 15, two shots six months apart are required. No booster is needed. Individuals who do not receive the vaccine before turning 15 can get a “catch-up” vaccine as a three-shot series up to age 45.",
+        "For women who test positive for high-risk HPV, additional testing may be necessary to identify precancerous changes in the cervix. In rural communities, accessing these services can be even more challenging than obtaining screening."
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "nasa-nasas-hubble-offers-cosmic-sampler-of-targets-for-roman",
+      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "dek": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:18:40.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the new Nancy Grace Roman Space Telescope.",
+        "Gravitational lensing, first predicted by Albert Einstein, occurs when the gravity of a massive foreground object, such as a galaxy or cluster of galaxies, bends, warps, and magnifies the light from a more distant background object. The effect is similar to that of a giant lens in space that allows astronomers to view objects much farther away than any telescope could see on its own.",
+        "The lenses in this image formed from the precise alignment of a distant background galaxy with the mass of a foreground galaxy, creating distorted and magnified images of the background galaxy that appear as arcs around the foreground galaxy.",
+        "Astronomers will use these observations of a large and varied population of gravitational lenses to construct lens models that will help determine how much mass is in the lensing system’s foreground galaxy – and potentially prove or dispel a theory about dark matter. Astronomers study the amount of distortion of the lensed background galaxies to determine the quantity and distribution of mass in the foreground galaxy, including its invisible dark matter.",
+        "Hubble views the cosmos primarily in visible and ultraviolet light with some infrared coverage, providing a comprehensive, high-resolution view of individual objects. Roman sees primarily infrared light and some visible, over a much larger field of view to create panoramas of the universe. While Hubble gets a better view of individual lenses, Roman will be able to capture more lenses with its wider field-of-view. If Roman finds a particularly interesting lens, researchers may use Hubble to take follow-up observations using its visible and UV prowess for individual objects.",
+        "With Hubble’s high-resolution imaging and precise models, researchers should also be able to detect small imperfections in these gravitationally lensed galaxy arcs that would indicate the presence of small clumps of dark matter. Researchers could use these previously undetected clumps to confirm the cold dark matter theory, which predicts the existence of many small dark matter clumps of between a million to a billion solar masses. In contrast, the dark matter halo of our Milky Way galaxy is around 1. 3 trillion solar masses.",
+        "By studying Hubble lens images in detail, researchers intend to build a super-intelligence tool to efficiently search similar arcs in the upcoming Roman images. The Hubble images are expected to both yield their own results on dark matter and pave the way for analysis of Roman’s larger sample of lenses.",
+        "The unique lenses in this image display some of the different characteristics researchers will see as they collect a diverse and numerous assortment of lenses to test in their models. Panel A is an example of an arc-counterarc configuration, in which the lensed background galaxy appears as a duplicated pair of arcs. The lensed galaxy is being magnified by a pair of foreground galaxies whose combined mass bends the light of the background galaxy around them.",
+        "Panel F is an Einstein Ring, in which the alignment of the background galaxy and approximately spherical mass of the foreground lens are so perfectly situated that the lensed galaxy almost fully encircles the foreground galaxy. Panel I shows a quadruply lensed galaxy, in which the background galaxy is replicated four times, appearing as smeared dots around the foreground galaxy. Panel C also shows a quadruply lensed galaxy, with double knots that are most likely strong star-forming regions in the background galaxy.",
+        "Some of the magnified and warped background galaxies appear blue and some appear red. These bluish arcs indicate young stars, while reddish arcs indicate older stars. Roman and Hubble will explore these differences to better understand how galaxies evolved earlier in the universe.",
+        "Most of the foreground lensing galaxies are elliptical galaxies, which are older, denser, and more compact. Lensed images of background galaxies only occur when the mass density of the foreground galaxy reaches a critical point."
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "nasa-news-nasas-hubble-offers-cosmic-sampler-of-targets-for-roman",
+      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "dek": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:18:40.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the new Nancy Grace Roman Space Telescope.",
+        "Gravitational lensing, first predicted by Albert Einstein, occurs when the gravity of a massive foreground object, such as a galaxy or cluster of galaxies, bends, warps, and magnifies the light from a more distant background object. The effect is similar to that of a giant lens in space that allows astronomers to view objects much farther away than any telescope could see on its own.",
+        "The lenses in this image formed from the precise alignment of a distant background galaxy with the mass of a foreground galaxy, creating distorted and magnified images of the background galaxy that appear as arcs around the foreground galaxy.",
+        "Astronomers will use these observations of a large and varied population of gravitational lenses to construct lens models that will help determine how much mass is in the lensing system’s foreground galaxy – and potentially prove or dispel a theory about dark matter. Astronomers study the amount of distortion of the lensed background galaxies to determine the quantity and distribution of mass in the foreground galaxy, including its invisible dark matter.",
+        "Hubble views the cosmos primarily in visible and ultraviolet light with some infrared coverage, providing a comprehensive, high-resolution view of individual objects. Roman sees primarily infrared light and some visible, over a much larger field of view to create panoramas of the universe. While Hubble gets a better view of individual lenses, Roman will be able to capture more lenses with its wider field-of-view. If Roman finds a particularly interesting lens, researchers may use Hubble to take follow-up observations using its visible and UV prowess for individual objects.",
+        "With Hubble’s high-resolution imaging and precise models, researchers should also be able to detect small imperfections in these gravitationally lensed galaxy arcs that would indicate the presence of small clumps of dark matter. Researchers could use these previously undetected clumps to confirm the cold dark matter theory, which predicts the existence of many small dark matter clumps of between a million to a billion solar masses. In contrast, the dark matter halo of our Milky Way galaxy is around 1. 3 trillion solar masses.",
+        "By studying Hubble lens images in detail, researchers intend to build a super-intelligence tool to efficiently search similar arcs in the upcoming Roman images. The Hubble images are expected to both yield their own results on dark matter and pave the way for analysis of Roman’s larger sample of lenses.",
+        "The unique lenses in this image display some of the different characteristics researchers will see as they collect a diverse and numerous assortment of lenses to test in their models. Panel A is an example of an arc-counterarc configuration, in which the lensed background galaxy appears as a duplicated pair of arcs. The lensed galaxy is being magnified by a pair of foreground galaxies whose combined mass bends the light of the background galaxy around them.",
+        "Panel F is an Einstein Ring, in which the alignment of the background galaxy and approximately spherical mass of the foreground lens are so perfectly situated that the lensed galaxy almost fully encircles the foreground galaxy. Panel I shows a quadruply lensed galaxy, in which the background galaxy is replicated four times, appearing as smeared dots around the foreground galaxy. Panel C also shows a quadruply lensed galaxy, with double knots that are most likely strong star-forming regions in the background galaxy.",
+        "Some of the magnified and warped background galaxies appear blue and some appear red. These bluish arcs indicate young stars, while reddish arcs indicate older stars. Roman and Hubble will explore these differences to better understand how galaxies evolved earlier in the universe.",
+        "Most of the foreground lensing galaxies are elliptical galaxies, which are older, denser, and more compact. Lensed images of background galaxies only occur when the mass density of the foreground galaxy reaches a critical point."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "nasa-through-nasas-lens-capturing-space-shuttle-endeavours-move",
+      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+      "dek": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:00:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time.",
+        "Endeavour’s new home at the California Science Center in Los Angeles will reopen the weekend of Nov. 13, displayed upright in launch position, ready to inspire the next generation of space explorers.",
+        "“Chasing Endeavour’s final ferry flight over Southern California was, without a doubt, a leading highlight of my 37-year career at NASA,” said Lori Losey, lead videographer at NASA’s Armstrong Flight Research Center in Edwards, California. “I advocated for two chase aircraft to be used in the LA area so we could dedicate one aircraft to photo and one to video. It was this beautiful dance of alternating altitudes and swapping positions between landmarks to maximize both of us capturing the legendary imagery.”",
+        "Two photographers and one videographer, all based at NASA Armstrong, had a leading hand in preparing the Endeavour’s flight to Los Angeles, and in deciding where else the aircraft would fly around California on its final journey. Agency pilots planned the route to fly across some of California’s most iconic landmarks and the imagery team strategized about how to best capture the images.",
+        "“The most fun thing about this project was seeing the excitement of the people on the ground as we flew over the different landmarks,” said Jim Ross, NASA Armstrong’s lead photographer. “People in the Los Angeles area really came out and supported the Endeavour flyover. We saw so many supporters at Griffith Park and Disneyland.”",
+        "Photographer Carla Thomas said seeing the standing-room-only crowd below the California State Capitol in Sacramento filled her with pride. After joining the agency in the wake of the Challenger tragedy, she reflected on the opportunity to document NASA’s return to flight.",
+        "Endeavour was escorted by NASA Armstrong’s F/A-18s and an F-15, which carried the photo and video teams in the back seats. Like many flight efforts, this journey took a significant amount of preplanning with the California Science Center, as well as groups like the Federal Aviation Administration, the Los Angeles International Airport, and NASA’s Johnson Space Center in Houston.",
+        "“The planning was my favorite part of this effort — it was fun and exciting to plan the shots,” Thomas said. “I flew the entire route with the LAPD (Los Angeles Police Department) in one of their helicopters. We had to make sure this was going to work and find any obstacles. Planning for the Hollywood sign was challenging, because it’s on the side of a hill with power lines and radio antennas, but we worked through these issues in the planning process.”",
+        "The space shuttle’s flight path included other California landmarks: Dodger Stadium, the Getty Center, the Los Angeles Memorial Coliseum, NASA’s Ames Research Center in Silicon Valley, the Golden Gate Bridge, NASA’s Jet Propulsion Laboratory in Pasadena, and the Santa Monica Pier.",
+        "Endeavour helped begin assembly of the International Space Station by delivering its first components to orbit and went on to complete 25 missions. The space shuttle will soon be seen, along with some of the images from the final flight, in its permanent home inside the new Samuel Oschin Air and Space Center at the California Science Center in Downtown Los Angeles.",
+        "Space Shuttle Endeavour To Make Historic Final Ferry Flight"
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "nasa-news-through-nasas-lens-capturing-space-shuttle-endeavours-move",
+      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+      "dek": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:00:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time.",
+        "Endeavour’s new home at the California Science Center in Los Angeles will reopen the weekend of Nov. 13, displayed upright in launch position, ready to inspire the next generation of space explorers.",
+        "“Chasing Endeavour’s final ferry flight over Southern California was, without a doubt, a leading highlight of my 37-year career at NASA,” said Lori Losey, lead videographer at NASA’s Armstrong Flight Research Center in Edwards, California. “I advocated for two chase aircraft to be used in the LA area so we could dedicate one aircraft to photo and one to video. It was this beautiful dance of alternating altitudes and swapping positions between landmarks to maximize both of us capturing the legendary imagery.”",
+        "Two photographers and one videographer, all based at NASA Armstrong, had a leading hand in preparing the Endeavour’s flight to Los Angeles, and in deciding where else the aircraft would fly around California on its final journey. Agency pilots planned the route to fly across some of California’s most iconic landmarks and the imagery team strategized about how to best capture the images.",
+        "“The most fun thing about this project was seeing the excitement of the people on the ground as we flew over the different landmarks,” said Jim Ross, NASA Armstrong’s lead photographer. “People in the Los Angeles area really came out and supported the Endeavour flyover. We saw so many supporters at Griffith Park and Disneyland.”",
+        "Photographer Carla Thomas said seeing the standing-room-only crowd below the California State Capitol in Sacramento filled her with pride. After joining the agency in the wake of the Challenger tragedy, she reflected on the opportunity to document NASA’s return to flight.",
+        "Endeavour was escorted by NASA Armstrong’s F/A-18s and an F-15, which carried the photo and video teams in the back seats. Like many flight efforts, this journey took a significant amount of preplanning with the California Science Center, as well as groups like the Federal Aviation Administration, the Los Angeles International Airport, and NASA’s Johnson Space Center in Houston.",
+        "“The planning was my favorite part of this effort — it was fun and exciting to plan the shots,” Thomas said. “I flew the entire route with the LAPD (Los Angeles Police Department) in one of their helicopters. We had to make sure this was going to work and find any obstacles. Planning for the Hollywood sign was challenging, because it’s on the side of a hill with power lines and radio antennas, but we worked through these issues in the planning process.”",
+        "The space shuttle’s flight path included other California landmarks: Dodger Stadium, the Getty Center, the Los Angeles Memorial Coliseum, NASA’s Ames Research Center in Silicon Valley, the Golden Gate Bridge, NASA’s Jet Propulsion Laboratory in Pasadena, and the Santa Monica Pier.",
+        "Endeavour helped begin assembly of the International Space Station by delivering its first components to orbit and went on to complete 25 missions. The space shuttle will soon be seen, along with some of the images from the final flight, in its permanent home inside the new Samuel Oschin Air and Space Center at the California Science Center in Downtown Los Angeles.",
+        "Space Shuttle Endeavour To Make Historic Final Ferry Flight"
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "scitechdaily-cancer-immunotherapy-has-a-dangerous-side-effect-scientist",
+      "title": "Cancer Immunotherapy Has a Dangerous Side Effect. Scientists May Have Found a Way To Stop It",
+      "dek": "Cancer immunotherapy could become safer by stabilizing the cells that keep immune responses under control, an approach that reversed treatment-related inflammation in mice.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T12:19:43.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/cancer-immunotherapy-has-a-dangerous-side-effect-scientists-may-have-found-a-way-to-stop-it/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Cancer immunotherapy could become safer by stabilizing the cells that keep immune responses under control, an approach that reversed treatment-related inflammation in mice.",
+        "Some cancer patients have to stop immunotherapy when their immune system starts attacking healthy tissue. These reactions can occur with drugs called immune checkpoint inhibitors, which help immune cells known as T cells fight cancer by releasing the brakes that normally restrain them.",
+        "Depending on the type of checkpoint inhibitor, 20% to 40% of patients experience these immune-related adverse events. Up to 25% experience severe reactions that result in hospitalization and an end to treatment. There are no U. S. Food and Drug Administration-approved treatments for these side effects.",
+        "“Immune-related adverse events are a huge problem and can greatly impact quality of life for patients. In many cases, it impacts their ability to stay on immunotherapy or benefit from treatment,” said Abigail Overacre-Delgoffe, Ph. D. , assistant professor in the Department of Immunology at the University of Pittsburgh School of Medicine and a member of the Tumor Microenvironment Center at UPMC Hillman Cancer Center.",
+        "Overacre-Delgoffe is the senior author of a study published October 22, 2026, in Cell that identifies unstable immune cells as a potential driver of this inflammation. Her team reversed inflammation in mice by blocking a protein in those cells and found that diet and the gut microbiome, the community of microorganisms living in the digestive tract, influenced the severity of the animals’ reactions.",
+        "Studying these side effects has been difficult because they vary considerably among patients. Animal models have also struggled to reproduce the complexity of immune-related inflammation in humans.",
+        "“Most existing mouse models relied on genetically modified mice or experimental conditions that didn’t really capture the variability we see in patients,” said lead author Dipyaman Patra, Ph. D. , a postdoctoral associate in Overacre-Delgoffe’s lab. “This got us thinking about whether common lifestyle factors, particularly diet and the gut microbiome, could influence the host immune system even before immunotherapy begins.”",
+        "Overacre-Delgoffe’s earlier work had shown that diet and gut microbes can influence cancer patient outcomes and responses to immunotherapy . To investigate their role in treatment side effects, her team fed mice a diet designed to resemble a Western-style human diet, low in fiber and high in fat and processed carbohydrates. The animals began eating it two weeks before checkpoint inhibitor therapy and continued during treatment.",
+        "The mice became susceptible to immune-related adverse events and developed immune and microbiome changes resembling many of those seen in affected patients. This gave the researchers a way to test how gut microbes contributed to the inflammation.",
+        "Transferring fecal microbes from mice eating the Western-style diet into mice eating a regular, high-fiber diet caused gut inflammation in the recipients. Transfers could also reduce inflammation. Male mice were less susceptible to severe adverse events, and transferring their fecal microbes into female mice reduced the severity of inflammation in the females.",
+        "The team also transferred fecal microbes from patients consuming a Western-style diet into germ-free mice, which are raised without microorganisms. Those recipients developed more severe immune-related adverse events. Together, the transfer experiments provided evidence that the microbiome could influence the severity of these reactions in mice.",
+        "Within the immune system, the researchers identified a problem involving regulatory T cells. These cells normally suppress excessive immune responses, but stress can make them unstable, a condition called regulatory T cell fragility. Mice eating the Western-style diet showed signs of this fragility during immunotherapy. The researchers found the same instability in regulatory T cells collected from patients with severe immune-related adverse events, but not in cells from patients without the side effect.",
+        "Blocking an immune-signaling protein specifically on regulatory T cells restored their stability in mice and reversed inflammation. Switching the animals to a high-fiber diet or giving them supplements containing metabolites, substances produced through metabolism, also stabilized the cells. Restoring stability significantly reduced the severity of adverse events, supporting the interpretation that regulatory T cell fragility is a major underlying cause in this model."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "nasa-scotlands-flow-country",
+      "title": "Scotland’s Flow Country",
+      "dek": "Compared to ecosystems in many other parts of the world, the blanket bogs of the Flow Country in northern Scotland are unassuming—soggy, treeless landscapes dominated by…",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T05:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Compared to ecosystems in many other parts of the world, the blanket bogs of the Flow Country in northern Scotland are unassuming—soggy, treeless landscapes dominated by hummocky mosses, grasses, and heathers. Yet, to ecologists, the seemingly desolate areas are nothing short of extraordinary.",
+        "The bogs store tremendous quantities of carbon . That’s because their soils are so waterlogged that microbes cannot fully break down dead plant material, a process that would otherwise release carbon dioxide. Instead, partially decayed plant matter accumulates into thick layers of spongy, crumbly, carbon-rich material called peat .",
+        "The unusual ecosystems, also called blanket mires and featherbed bogs, only occur in places with abundant rainfall, poor drainage, and low levels of evapotranspiration . These types of bogs cover just 120,000 square kilometers (46,000 square miles) globally, less than one-tenth of one percent of Earth’s land surface. The image above, captured by the OLI (Operational Land Imager) on Landsat 8 , is centered on blanket bogs in the Scottish Highlands, home to the largest such ecosystem in Europe. This peatland is also the first of its type to be inscribed as a UNESCO World Heritage Site .",
+        "The peat bogs of northern Scotland, home to more than 30 species of sphagnum moss , are spread across some 1,900 square kilometers (730 square miles) of the country’s Highlands region. In this image, boggy areas appear dark brown and are sprinkled with lakes. The light green area on the right side around Thurso is farmland. The darker green geometric patterns in the center are conifer plantations . The image was captured in the spring, the part of the year when the land surface is most waterlogged and peat bogs begin to accumulate large amounts of new biomass.",
+        "While forests store most of their carbon in living trees—which eventually release it back into the atmosphere when they burn or die—peat bogs often store carbon for many thousands of years. Some parts of the Flow Country have been accumulating peat for more than 9,000 years, building deposits exceeding eight meters thick, according to UNESCO. Overall, scientists estimate that all of the world’s peatlands cover just 3 percent of Earth’s land surface but store more than 600 gigatons of carbon—about twice as much as all the world’s forests combined."
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "nasa-news-scotlands-flow-country",
+      "title": "Scotland’s Flow Country",
+      "dek": "Compared to ecosystems in many other parts of the world, the blanket bogs of the Flow Country in northern Scotland are unassuming—soggy, treeless landscapes dominated by…",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T05:01:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Compared to ecosystems in many other parts of the world, the blanket bogs of the Flow Country in northern Scotland are unassuming—soggy, treeless landscapes dominated by hummocky mosses, grasses, and heathers. Yet, to ecologists, the seemingly desolate areas are nothing short of extraordinary.",
+        "The bogs store tremendous quantities of carbon . That’s because their soils are so waterlogged that microbes cannot fully break down dead plant material, a process that would otherwise release carbon dioxide. Instead, partially decayed plant matter accumulates into thick layers of spongy, crumbly, carbon-rich material called peat .",
+        "The unusual ecosystems, also called blanket mires and featherbed bogs, only occur in places with abundant rainfall, poor drainage, and low levels of evapotranspiration . These types of bogs cover just 120,000 square kilometers (46,000 square miles) globally, less than one-tenth of one percent of Earth’s land surface. The image above, captured by the OLI (Operational Land Imager) on Landsat 8 , is centered on blanket bogs in the Scottish Highlands, home to the largest such ecosystem in Europe. This peatland is also the first of its type to be inscribed as a UNESCO World Heritage Site .",
+        "The peat bogs of northern Scotland, home to more than 30 species of sphagnum moss , are spread across some 1,900 square kilometers (730 square miles) of the country’s Highlands region. In this image, boggy areas appear dark brown and are sprinkled with lakes. The light green area on the right side around Thurso is farmland. The darker green geometric patterns in the center are conifer plantations . The image was captured in the spring, the part of the year when the land surface is most waterlogged and peat bogs begin to accumulate large amounts of new biomass.",
+        "While forests store most of their carbon in living trees—which eventually release it back into the atmosphere when they burn or die—peat bogs often store carbon for many thousands of years. Some parts of the Flow Country have been accumulating peat for more than 9,000 years, building deposits exceeding eight meters thick, according to UNESCO. Overall, scientists estimate that all of the world’s peatlands cover just 3 percent of Earth’s land surface but store more than 600 gigatons of carbon—about twice as much as all the world’s forests combined."
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "nasa-curiosity-blog-sols-5063-5069-rocks-and-chips",
+      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+      "dek": "Written by William Farrand, Senior Research Scientist, Space Science Institute",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T00:41:35.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Written by William Farrand, Senior Research Scientist, Space Science Institute",
+        "This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A key objective has been to better characterize these chip-shaped features. Drill samples were delivered to the Sample Analysis for Mars (SAM) instrument. While the SAM analysis was on-going, Monday’s plan included a ChemCam LIBS observation of another crystal-form, “Ahi Veremos,” more Mastcam frames to fill out a mosaic of the Nazca near to mid-field, and environmental observations including a large dust devil survey, and horizon and atmospheric zenith movies.",
+        "Wednesday’s plan included two targeted science blocks with a LIBS depth profile of the “Colca” crystal-form and LIBS of the “Bermejo ” target. A long distance Remote Micro-Imager (RMI) mosaic of rock clusters below the “Cordillera” ridge was also collected. Mastcam collected more frames of its Nazca mosaic, and more environmental observations were made.",
+        "Friday’s planning was for three sols with three targeted science blocks and a drive away from the Nazca drill site. A MAHLI mosaic of the side of the block that hosts the Nazca drill hole was planned. It was also planned to use MAHLI’s nighttime white-light and ultraviolet LED lamps for nighttime imaging of the crystal-forms. Mars’ moon, Phobos, was eclipsing the Sun and imaging of that event was prioritized. ChemCam LIBS observations were planned for each sol including a cluster of crystal forms, a resistant layer in the side of the Nazca block and a dark float rock. A long distance RMI mosaic of dark lenses beneath a planar surface on the “Mishe Mokwa” ridge was to be made.",
+        "Another round of environmental observation was also planned. Finally, Friday’s drive was to take the rover back towards its southerly trending route where Curiosity would continue its trek of exploration and discovery.",
+        "Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…",
+        "Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…",
+        "Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…",
+        "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…"
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "nasa-news-curiosity-blog-sols-5063-5069-rocks-and-chips",
+      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+      "dek": "Written by William Farrand, Senior Research Scientist, Space Science Institute",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T00:41:35.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Written by William Farrand, Senior Research Scientist, Space Science Institute",
+        "This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A key objective has been to better characterize these chip-shaped features. Drill samples were delivered to the Sample Analysis for Mars (SAM) instrument. While the SAM analysis was on-going, Monday’s plan included a ChemCam LIBS observation of another crystal-form, “Ahi Veremos,” more Mastcam frames to fill out a mosaic of the Nazca near to mid-field, and environmental observations including a large dust devil survey, and horizon and atmospheric zenith movies.",
+        "Wednesday’s plan included two targeted science blocks with a LIBS depth profile of the “Colca” crystal-form and LIBS of the “Bermejo ” target. A long distance Remote Micro-Imager (RMI) mosaic of rock clusters below the “Cordillera” ridge was also collected. Mastcam collected more frames of its Nazca mosaic, and more environmental observations were made.",
+        "Friday’s planning was for three sols with three targeted science blocks and a drive away from the Nazca drill site. A MAHLI mosaic of the side of the block that hosts the Nazca drill hole was planned. It was also planned to use MAHLI’s nighttime white-light and ultraviolet LED lamps for nighttime imaging of the crystal-forms. Mars’ moon, Phobos, was eclipsing the Sun and imaging of that event was prioritized. ChemCam LIBS observations were planned for each sol including a cluster of crystal forms, a resistant layer in the side of the Nazca block and a dark float rock. A long distance RMI mosaic of dark lenses beneath a planar surface on the “Mishe Mokwa” ridge was to be made.",
+        "Another round of environmental observation was also planned. Finally, Friday’s drive was to take the rover back towards its southerly trending route where Curiosity would continue its trek of exploration and discovery.",
+        "Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…",
+        "Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…",
+        "Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…",
+        "The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…"
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
