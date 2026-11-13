@@ -1,0 +1,1106 @@
+{
+  "generatedAt": "2026-11-13T23:18:01.844Z",
+  "date": "2026-11-14",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-same-farms-different-answers-when-nitrogen-pollution-estim",
+      "title": "Same farms, different answers: When nitrogen pollution estimates don't add up",
+      "dek": "To reduce nitrogen pollution stemming from synthetic fertilizer and livestock waste, California's Central Valley relies on five data sets to estimate surplus nitrogen. ",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T23:00:07.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-farms-nitrogen-pollution-dont.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "To reduce nitrogen pollution stemming from synthetic fertilizer and livestock waste, California's Central Valley relies on five data sets to estimate surplus nitrogen. However, most parts of the United States use just one or two data sets—the U. S. Department of Agriculture's agricultural survey and census—to estimate nitrogen surplus.",
+        "Using the Central Valley as a \"living laboratory,\" a University of California, Davis, research team coordinated by postdoctoral researcher Baibaswata Bhaduri compared these five different data sets and found that each produced significantly different results. The range of uncertainty was so wide it could reshape which crops and regions receive priority for groundwater protections.",
+        "Their study, published in the journal Nature Sustainability , offers ranges for surplus nitrogen in everything from tomatoes and nectarines to corn and grapes. Growers worldwide can look to these estimates for guidance in the absence of local data.",
+        "\"Our paper confirms the approach that California nitrogen policy is pursuing,\" said corresponding author Thomas Harter, a Cooperative Extension specialist and professor in the UC Davis Land, Air and Water Resources department. His research in 2012 called attention to the problem of nitrogen groundwater pollution and helped set the stage for California's nitrogen management strategies.",
+        "\"We're saying, be cautious,\" said Harter. \"Inevitably, between the various existing data sets, there can be large differences with respect to surplus that could rearrange the shape of your map and where you want to prioritize your conservation efforts. We must take into account the uncertainty in current data about fertilizer use and harvest. Improving data accuracy by engaging with farmers is critical.\"",
+        "In addition to USDA's survey and census data, the study compared the following data sets from the Central Valley: grower-reported records on the total nitrogen applied and crop yields, now annually reported by each farm under California's recent nitrogen tracking policy; UC Davis Cost and Return Studies, which provide expert estimates of crop-specific fertilizer rates and yields; and the California Department of Food and Agriculture's annual crop-specific acreage and harvest records, which county agencies have collected and reported each year since the early 1900s.",
+        "The same farm or crop could appear to need less mitigation under one data set and more under another, the report said.",
+        "\"The Central Valley is not a rare place with a rare problem,\" the authors wrote in the study. \"It is one of the few places with enough data to see a problem that single-data-set assessments carry everywhere, unseen.\"",
+        "\"Disagreement between data sets is not just a limitation; it reveals where our knowledge is weakest,\" said Bhaduri. \"Understanding those differences is essential to improving nitrogen assessments and ensuring that groundwater protection decisions are scientifically defensible and fair to the farmers and communities affected.\"",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "Five data sets produced significantly different estimates of surplus nitrogen for California’s Central Valley, altering crop and regional rankings for groundwater protection. Accounting for data uncertainty and improving fertilizer-use and harvest records are essential for reliable nitrogen assessments.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-hidden-master-switch-allows-bacteria-to-breach-the-bodys-d",
+      "title": "Hidden 'master switch' allows bacteria to breach the body's defenses",
+      "dek": "Researchers at Penn Dental Medicine have uncovered a previously unknown molecular mechanism by which bacteria rapidly compromise the body's protective barriers, a finding…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T22:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-hidden-master-bacteria-breach-body.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Researchers at Penn Dental Medicine have uncovered a previously unknown molecular mechanism by which bacteria rapidly compromise the body's protective barriers, a finding that could reshape how scientists approach a wide range of serious diseases.",
+        "The findings, reported by a team of researchers led by Dana T. Graves, professor of periodontics and vice dean for scholarship and research at Penn Dental Medicine, are published in Nature Communications . The discovery could lead to new treatments for heart disease, diabetes and arthritis.",
+        "The mouth, gastrointestinal tract and lungs are lined by thin sheets of cells that serve as the body's first line of defense against trillions of bacteria living in and around us by forming a physical barrier. When the barriers fail or become leaky, bacteria can slip into the bloodstream and contribute to serious systemic conditions such as heart disease, diabetes, rheumatoid arthritis, dementia and cancer.",
+        "For decades, scientists believed they understood how bacteria broke down these barriers, either by deploying enzymes that chewed through the cellular glue or by silencing the genes that produced the glue. This new research provides a novel way that the barrier may be disrupted and may provide new therapeutic opportunities.",
+        "The three-year study, in partnership with an interdisciplinary team that included researchers from Penn Dental Medicine and Georgetown University's Department of Biochemistry and Molecular & Cellular Biology, found a third faster pathway that doesn't destroy the glue that keeps the barrier in place, but instead moves the molecules that are critical to the barrier, creating leakiness.",
+        "What the research team found was striking: within just a few hours of bacterial exposure, the barrier proteins—E-cadherin and β-catenin—didn't disappear. Instead, they relocated from the cell's outer walls to its interior, abandoning their posts and weakening the links between cells.",
+        "\"What is particularly exciting,\" Graves said, \"is that bacteria do not need to destroy the machinery that holds the cells together. They can essentially move them to another location to cause leakiness, revealing an entirely new mechanism by which bacteria can breach this critical defence.\"",
+        "Graves has been studying a critical factor, a protein called FOXO1, in this process for many years. FOXO1 plays a key role in impaired diabetic wound healing and in other functions.",
+        "The team found that FOXO1, long known as a stress-sensing transcription factor, will travel into the cell's nucleus when triggered by bacteria. This initiates a series of events that cause E-cadherin and β-catenin to be moved out of the cell membrane and as a result, unable to help form the cell barrier.",
+        "This sequence of events discovered by the scientists is considered \"non-canonical,\" or operating outside of the rulebook science had previously written.",
+        "\"One of the most surprising results was that the ability to maintain a barrier can be lost very quickly after cells encounter bacteria,\" Graves said.",
+        "The key sequence of events was confirmed in animals exposed to oral bacteria. The results mirrored the lab data precisely. The loss of this critical barrier is a big problem.",
+        "\"The oral cavity is a gateway,\" Graves said. \"When the barrier breaks down, it provides an opportunity for bacteria to enter the blood stream. Bacteria entering the blood stream from the mouth have been shown to be an important component of rheumatoid arthritis flare-ups , and have even been linked to higher blood glucose levels in diabetes, worsened dementia and cardiovascular disease. Thus, the downstream consequences throughout the body can be dramatic.\"",
+        "By knowing how the body's most fundamental defenses fail, scientists have a roadmap for developing new therapeutic ways to prevent or treat systemic diseases, Graves said."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-planimal-cells-retain-nearly-entire-algal-genome-after-exp",
+      "title": "'Planimal' cells retain nearly entire algal genome after experimental cell fusion",
+      "dek": "Most DNA in an organism is inherited from its parent or parents. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T22:20:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-planimal-cells-retain-entire-algal.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Most DNA in an organism is inherited from its parent or parents. This form of genetic inheritance is referred to as vertical inheritance because genes are passed down from generation to generation.",
+        "In contrast, organisms can acquire DNA from organisms of the same species or other species outside of asexual or sexual reproduction through a process called horizontal gene transfer. For example, bacteria can take up free-floating DNA from dead bacteria in the environment. Bacteria can also form a tube between cells to exchange DNA. These mechanisms can spread antibiotic resistance genes among bacteria.",
+        "Eukaryotic organisms (whose cells contain nuclei) can also acquire genetic material through horizontal gene transfer by taking up DNA from the environment and through viral infection, but genome-scale transfers between distantly related eukaryotes are rarely documented.",
+        "More than 1. 5 billion years ago, an ancestral eukaryotic cell engulfed a cyanobacterium, a type of photosynthetic bacterium, which eventually evolved into the chloroplasts (cell structures where photosynthesis occurs to produce energy from sunlight) found in present-day algae and plants.",
+        "During this evolutionary process, many genes from the engulfed cyanobacterium were transferred to the host cell's nuclear genome, allowing the two organisms to become an integrated biological system. This ancient event gave rise to the ancestors of modern red algae, green algae and land plants, demonstrating how the transfer of genetic material across species boundaries can lead to the evolution of entirely new cellular functions.",
+        "Despite our current understanding of how horizontal gene transfer occurs between prokaryotic organisms (which are single-celled and lack a nucleus), scientists have had little direct evidence of what happens when chromosome-scale foreign DNA enters a eukaryotic host cell. To address this knowledge gap, a research team led by scientists from the University of Tokyo recently designed a series of experiments to create \"planimal\" cells—mammalian cells containing algal DNA—to better characterize horizontal gene transfer in mammalian cells. The results are published in the journal Nature Communications .",
+        "\"We wanted to understand whether entire chromosomes could cross the enormous evolutionary divide between algae and animals and whether animal cells could stably maintain and pass on such foreign genetic material to their daughter cells,\" said Sachihiro Matsunaga, a professor from the Laboratory of Integrated Biology at the University of Tokyo and senior author of the research study.",
+        "\"We also wanted to discover how animal cells accommodate DNA from such a different organism without losing their ability to survive and divide. These questions are fundamental to understanding how genetic material can move across species boundaries and contribute to evolution.\"",
+        "Inspired by the ancient event more than an eon and a half ago, the research team investigated genome transfer by fusing photosynthetic algal cells with hamster-derived mammalian cells or allowing the mammalian cells to engulf the algae. They found that cell fusion produced stable hybrid cells much more efficiently than engulfment. The team used live-cell imaging and genome sequencing to characterize how the host manipulated algal DNA over a number of generations.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "In one hamster-derived cell line, approximately 16. 3 million base pairs of algal nuclear DNA—including intact chromosomes and sequences from all 20 algal chromosomes—were retained. Algal DNA remained detectable through 155 cell generations, with substantial portions persisting for 95 generations without antibiotic selection (a technique used to isolate genetically modified cells and generate stable cell lines).",
+        "\"Plants and animals cannot reproduce with each other, so their chromosomes are never combined through mating. Yet, we have succeeded in creating hybrid chromosomes containing genetic material from both an alga and a mammal, and have shown that this genetic material can be stably passed on to daughter cells through repeated cell divisions,\" said Matsunaga. \"Remarkably, our planimal cells retained nearly an entire algal genome over many generations. This demonstrates that even the vast evolutionary divide between plants and animals can be crossed at the level of chromosomes, without reproduction.\""
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-modified-450-3d-printer-builds-living-materials-with-more-",
+      "title": "Modified $450 3D printer builds living materials with more than 100 layers",
+      "dek": "Living materials created with a 3D printer are like living tissues with one notable exception: You get to choose exactly which cells are in them, as well as their final 3D…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T22:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-3d-printer-materials-layers.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Living materials created with a 3D printer are like living tissues with one notable exception: You get to choose exactly which cells are in them, as well as their final 3D shape. Depending on the type of bacteria included in the print, the material can clean up contaminated water or break down waste materials such as plastic.",
+        "The 3D bioprinters that create these structures, however, can cost upward of $100,000, and the soft shapes they produce can collapse before they set.",
+        "To solve this, a team of researchers led by the University of Rochester 's Anne S. Meyer has developed a low-cost solution using a standard plastic 3D printer.",
+        "\"We aim to create DIY bioprinters using inexpensive, easily obtainable parts, so that they are affordable and easy for other scientists to make in their own labs as well,\" says Meyer, a professor in the Department of Biology.",
+        "In a recent study published in ACS Applied Polymer Materials , Meyer and colleagues from URochester and Cornell University modified a regular plastic 3D printer by removing the plastic filament extruder and replacing it with a syringe pump that squeezes out bio-ink—a specialized formula that mixes living cells with a polymer solution. Once printed, the bio-ink hardens into a gel.",
+        "\"Our syringe can also perform both extrusion and retraction, preventing oozing at the edges of printed structures,\" says Meyer. \"This new setup allows for printing of crisp shapes with well-defined edges.\"",
+        "In the true spirit of DIY, Meyer's lab constructed the customized bioprinter at a cost of $450. All the parts are easily available, adds Meyer, allowing other labs to build their own version of the printer and syringe pump. Instructions are available on the GitHub platform.",
+        "While previous DIY 3D bioprinters were limited to printing structures of less than 20 layers, \"our upgraded printer can create living structures that are significantly taller and more complex than was previously possible, and it can even create hollow cavities within the prints,\" says Meyer, noting that the upgraded DIY printer can print living materials with more than 100 layers.",
+        "\"This opens up possibilities to make structures that have a high surface-to-volume ratio, so that the embedded bacteria can more efficiently receive signals or nutrients from the environment and can excrete any useful products much more rapidly into their surroundings,\" she adds.",
+        "Researchers also developed a support gel called a slurry that the bioprinter prints into, which holds up bio-ink and helps it solidify quickly and at any height.",
+        "Two types of slurry were created: one for easy removal of the print and one for incubation that allows microbes in the bioprints to stay alive in the slurry for four or more weeks. In previous methods, the printed bacteria started to die after about nine days.",
+        "The new slurry could have a significant impact on the research of biofilms—three-dimensional communities of microorganisms, such as bacteria, that adhere to surfaces—that can be both harmful and beneficial to humans.",
+        "For Meyer, the benefit of using different methods of incubation is the possibility \"to create engineered biofilm materials that either have more biofilm characteristics , allowing study of and testing on medically relevant biofilm, or that have stronger mechanical properties, allowing them to be used for applications.\"",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;"
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-genomic-analysis-restores-species-status-to-12-overlooked-",
+      "title": "Genomic analysis restores species status to 12 overlooked Great Barrier Reef corals",
+      "dek": "An international team of scientists working with Queensland Museum's CoralBank project has uncovered previously hidden coral diversity on Australia's east coast, revealing…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T21:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-genomic-analysis-species-status-overlooked.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "An international team of scientists working with Queensland Museum's CoralBank project has uncovered previously hidden coral diversity on Australia's east coast, revealing that 12 corals once considered variations of other species are distinct species in their own right.",
+        "The research, led by Dr. Augustine Crosbie from James Cook University and Queensland Museum, brings new clarity to Acropora, one of the most diverse groups of reef-building corals, which includes branching staghorns and table-forming corals. The findings are published in the journal Invertebrate Systematics .",
+        "By combining cutting-edge genomic sequencing with historical museum specimens, researchers reassessed 53 named Acropora species, including 40 originally described from Australia's east coast. The study found that 47 species were supported as distinct, with 12 species previously treated as synonyms now resurrected and four previously unresolved species recognized as valid.",
+        "Crosbie said the research had brought long-overlooked coral diversity back into focus. \"Many of these corals have been known to science for more than a century, but distinct species had been misinterpreted and treated as variants of other coral species,\" Crosbie said. \"By connecting the original museum specimens with modern corals and genomic data, we have been able to get a much clearer picture of the diversity and identity of corals on the Great Barrier Reef.\"",
+        "For decades, coral scientists have faced the challenge of determining whether differences in the shape and structure of corals represent distinct species or simply different forms of the same species growing under different environmental conditions.",
+        "A key part of the research involved examining historical type specimens held in museum collections in Australia and around the world. Because many of these specimens consist only of preserved coral skeletons and cannot be sequenced directly, researchers collected modern corals from the locations where the species were originally described, linking historical collections with modern genomic data.",
+        "Queensland Museum CEO Renai Grace said the research demonstrated the continuing value of museum collections in advancing scientific knowledge. \"Scientific discovery is an evolving journey and the extensive coral collections at Queensland Museum represent decades of extraordinary, painstaking study that first defined how we understand reef species.\"",
+        "Queensland Museum principal scientist of marine biodiversity and James Cook University associate professor Peter Cowman said recognizing distinct species was critical to understanding and protecting coral biodiversity.",
+        "\"A coral that appears to be common and widespread may actually represent several species, each with a much smaller geographic range,\" Cowman said. \"That matters when we assess extinction risk, monitor reef communities and decide where conservation resources should be directed.\"",
+        "Senior researcher and co-author Andrew Baird, a James Cook University adjunct professor of marine ecology, said the findings were particularly significant for one of the world's most studied ecosystems.",
+        "\"The Great Barrier Reef is one of the best-studied ecosystems on Earth, yet we are still discovering that we have underestimated the number of coral species living there,\" Baird said. \"Knowing which species are present is fundamental to understanding, monitoring and protecting the reef's biodiversity.\"",
+        "BA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "Genomic data and historical specimens supported 47 of 53 named Acropora coral species as distinct, restoring 12 previously treated as synonyms and validating four unresolved species. The revised taxonomy clarifies coral diversity on Australia’s east coast and provides a basis for biodiversity monitoring and extinction-risk assessment."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-common-adhd-classroom-accommodations-may-not-help-students",
+      "title": "Common ADHD classroom accommodations may not help students succeed, study finds",
+      "dek": "Extra time on assignments. Frequent breaks. A quiet place to work. ",
+      "category": "校园",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T21:20:02.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-common-adhd-classroom-accommodations-students.html"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Extra time on assignments. Frequent breaks. A quiet place to work. For students with attention-deficit/hyperactivity disorder (ADHD), these are some of the most common accommodations schools provide to make learning easier. But are they actually helping children succeed? A new study from Florida International University (FIU) suggests that some widely used approaches may be falling short.",
+        "Researchers at FIU's Center for Children and Families evaluated four common classroom accommodations: extended time to complete assignments, frequent breaks, standing at a desk and working in a low-distraction environment. They found that none significantly improved classroom behavior or academic performance among children with ADHD.",
+        "\"We were surprised that none of the accommodations we tested had a significant effect, even when combined with behavioral interventions or medication,\" said Gregory Fabiano, professor of psychology at FIU and lead author of the study.",
+        "The research, published in JAMA Pediatrics , involved 255 children with ADHD in kindergarten through sixth grade who participated in FIU's Summer Treatment Program between 2022 and 2025.",
+        "Researchers measured classroom rule violations, completed assignments and quiz scores under different treatment conditions.",
+        "While the accommodations showed no significant benefits, behavioral interventions and stimulant medication made a measurable difference.",
+        "Behavioral interventions reduced rule violations during independent work by 37%, while stimulant medication reduced them by 61%, compared with when children received neither treatment. Medication also helped children complete more work and earn higher quiz scores.",
+        "Many classroom accommodations are designed to address ADHD symptoms, such as difficulty paying attention, staying focused or remaining seated. But Fabiano says reducing these symptoms doesn't necessarily address the challenges that interfere with a child's ability to learn and complete schoolwork.",
+        "Take extended time, for example. Giving a student more time to finish an assignment sounds reasonable. But for a child who already struggles to stay focused and complete tasks, simply extending the deadline may not solve the underlying problem.",
+        "\"These approaches fail to build skills or address motivation,\" Fabiano said.",
+        "The distinction is important. Accommodations typically change the conditions in which a student learns or completes a task. Behavioral interventions, on the other hand, help children develop and practice skills by reinforcing the behaviors that support learning.",
+        "That doesn't mean accommodations are never useful. Some children may benefit from specific supports, depending on their individual needs. Rather, the findings challenge the assumption that the same accommodations will work for every student with ADHD.",
+        "\"There may be times when accommodations may be helpful, but a 'one-size-fits-all' approach to ADHD doesn't seem to be effective,\" Fabiano said.",
+        "Fabiano recommends putting greater emphasis on positive behavioral supports, many of which teachers can incorporate into everyday classroom routines."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "scitechdaily-ct-scans-reveal-the-secret-of-a-mysterious-400-year-old-lo",
+      "title": "CT Scans Reveal the Secret of a Mysterious 400-Year-Old Lock",
+      "dek": "X-ray scans cracked an Elizabethan padlock’s code, revealing how a centuries-old security mechanism worked without damaging an unusually well-preserved piece of maritime history.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T20:22:22.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/ct-scans-reveal-the-secret-of-a-mysterious-400-year-old-lock/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "X-ray scans cracked an Elizabethan padlock’s code, revealing how a centuries-old security mechanism worked without damaging an unusually well-preserved piece of maritime history.",
+        "For more than 400 years, a brass combination lock recovered from a shipwreck off the Welsh coast kept its secret. Lost when a violent storm wrecked the Ann Francis , the remarkably well-preserved Elizabethan lock still had working letter dials, but no one knew the four-letter combination needed to open it.",
+        "Opening it more than 400 years later meant working out its four-letter code without damaging an exceptionally well-preserved Elizabethan artifact, a challenge that brought museum specialists together with researchers more accustomed to studying bones.",
+        "The lock came from the Ann Francis , which was returning from Spain when a ferocious storm blew it off course on the evening of December 28, 1583. The ship wrecked on Margam Beach, near Port Talbot, leaving its extraordinary cargo buried beneath the sand for centuries.",
+        "Dredging and storms eventually stripped away layers of sand, exposing traces of the sixteenth-century hoard. Metal detectorist Peter Hughes discovered most of it over 21 years, between 1996 and 2017. The finds, recovered by Hughes and other metal detectorists, were subsequently acquired by Amgueddfa Cymru (Museum Wales).",
+        "“When I found the lock, I was immediately astonished by the incredible workmanship and its astonishing condition. When I moved the ring dials of the combination, they turned with ease after over 400 years beneath the sands, and I was left in disbelief. I also remember being left excited at the prospect of finding wonderful things from the treasure chest it once locked,” said Hughes, finder of the hoard.",
+        "What the lock once protected remains uncertain. Researchers believe it secured a small chest containing valuable items, and its position near a collection of Spanish silver coins and two coin weights recovered from the wreck offers some clues. It may have guarded those objects or a chest holding valuables that did not survive, such as documents or textiles.",
+        "To investigate the mechanism, museum experts worked with specialists at Cardiff University using micro-CT, a form of X-ray imaging that can reveal fine details inside an object. Dr. David Williams, a postdoctoral research associate based at the Musculoskeletal Biomechanics Research Facility in the university’s School of Engineering, explained the advantage of examining the lock this way.",
+        "“Micro-CT scanning allowed us to look inside the lock without damaging it.”",
+        "The task was to connect the letters visible on the outside with the concealed parts that determined whether the lock would open. Williams could examine those relationships in the scan, then pass the combination to the museum team for the physical test.",
+        "“By creating a detailed 3D image of the internal mechanism, I could see how the notches lined up with the letters and identify the exact combination. We normally use this technology to study bones and other biological structures, so investigating a 400-year-old padlock was certainly a first for us. I had to wait until later that evening for the museum team to test the combination, so getting the message that we’d cracked it was incredibly satisfying,” said Williams.",
+        "The four letters were ANCE, and when the museum team tested the combination, the centuries-old lock opened.",
+        "“It’s not every day you get to solve a 400-year-old mystery!” Williams said.",
+        "Its remarkable condition and connection to a shipwreck with a known date make the lock especially valuable as a historical find. Deciphering the combination also leaves a more personal question about whoever chose those letters."
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "scitechdaily-stonehenges-mysterious-six-ton-stone-has-scientists-search",
+      "title": "Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain",
+      "dek": "Stonehenge’s six-ton Altar Stone has led scientists from Wales to Scotland, yet even its most detailed geological examination has failed to reveal where it came from.",
+      "category": "文化",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T19:47:18.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/stonehenges-mysterious-six-ton-stone-has-scientists-searching-across-britain/"
+      },
+      "cover": "books",
+      "accent": "yellow",
+      "paragraphs": [
+        "Stonehenge’s six-ton Altar Stone has led scientists from Wales to Scotland, yet even its most detailed geological examination has failed to reveal where it came from.",
+        "Scientists have spent more than a century trying to determine where Stonehenge’s six-ton Altar Stone came from. Once thought to originate in Wales, the massive sandstone slab has since been traced geologically to northeast Scotland, but its exact source remains unknown. Now, the most comprehensive geological investigation yet has ruled out several proposed locations and provided new clues to guide the search.",
+        "Published in the Journal of the Geological Society , the study examined the stone’s mineral composition, chemistry, and other geological characteristics. Measuring 4. 9 meters (16 feet) long and weighing about six metric tons (6. 6 US tons), the Altar Stone could offer important insights into how prehistoric people transported massive stones across Britain thousands of years ago.",
+        "The latest investigation brought together observations of the Altar Stone itself and detailed examinations of fragments held in museum collections. By comparing its structure, mineral content, chemical composition, and isotopic characteristics, the team assembled a set of identifying features that potential sources must match.",
+        "No location examined so far in northeast Scotland’s Orcadian Basin has met all those criteria. That leaves the stone’s birthplace unresolved but gives future fieldwork a clearer target. Study leader Duncan Pirrie, emeritus professor at the University of South Wales, said:",
+        "“This is the most comprehensive geological investigation of the Altar Stone ever undertaken. By combining a wide range of analytical techniques, we have built the clearest picture yet of the stone’s composition and tested the leading theories about its origins. So far, none of the locations examined have the same set of characteristics as the Altar Stone. That tells us the search is not over, but we are now far better equipped to focus on the areas most likely to yield an answer.”",
+        "The findings build on earlier work that redirected the search away from Wales. Richard Bevins, honorary professor in Aberystwyth University’s Department of Geography and Earth Sciences, said:",
+        "“For almost a century, the prevailing view was that the Altar Stone came from west Wales. Our previous research overturned that assumption and pointed instead to Scotland as the most likely source. This latest study significantly refines the search by identifying the specific geological characteristics we need to look for, allowing future investigations to be targeted more effectively. With each new piece of evidence, we move closer to solving one of Stonehenge’s most enduring mysteries.”",
+        "Nick Pearce, emeritus professor of geochemistry in the same department at Aberystwyth University, emphasized the value of eliminating candidates: “In a geological detective story such as this, ruling out potential source areas is just as important as identifying new ones. Every location eliminated narrows the search and brings us closer to discovering where the Altar Stone originated. The stone is unique among those at Stonehenge, and tracing its source would provide valuable new insights into its remarkable journey to Salisbury Plain thousands of years ago.”",
+        "Stonehenge took shape through several construction phases between around 3000 and 1600 BC. Moving its stones across great distances was part of that achievement: the smaller bluestones traveled approximately 225 kilometers (140 miles) from west Wales.",
+        "Establishing where the Altar Stone began would give researchers a crucial geographical anchor for investigating how it reached the monument. The researchers hope that fingerprint will ultimately lead them to the source and shed new light on the effort behind one of prehistory’s most remarkable engineering achievements.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "conversation-why-the-microsoft-365-outage-is-different-and-why-it-takes",
+      "title": "Why the Microsoft 365 outage is different and why it takes so long to restore email services",
+      "dek": "The Microsoft services outage that began on Nov. 12, 2026, is not like other internet outages. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T19:45:57.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/why-the-microsoft-365-outage-is-different-and-why-it-takes-so-long-to-restore-email-services-296628"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "The Microsoft services outage that began on Nov. 12, 2026, is not like other internet outages. The failure affected the Microsoft 365 suite of productivity services, including the video conferencing and collaboration platform Teams, AI assistant Copilot and, significantly, the Outlook email service.",
+        "Microsoft reported on Nov. 13 that the company is “continuing to see improvements in service availability” but that “some users may still experience intermittent access issues or delayed email delivery.”",
+        "Despite decades of predictions about its decline , email remains a central pillar of how organizations function. Password resets, invoices, legal notices and cybersecurity incident response coordination all depend on it. The Microsoft 365 outage affected businesses, governments and schools around the world.",
+        "When most people think about cloud outages , they picture a broken website or a stalled app. When the service going down includes email, however, the mechanics of the failure and how to recover from it are different from those of almost every other cloud service.",
+        "Unlike modern web apps or authentication gatekeepers, email wasn’t designed to fail fast, meaning to immediately halt when a problem arises.",
+        "When a typical cloud service breaks , it acts like a closed door. If an authentication provider or a cloud application goes down, users are immediately locked out and see an error message. Access stops. When people cannot get into the system, they are not actively generating new work or adding heavy processing loads to the broken servers. Once engineers fix the underlying bug and unlock the door, traffic can resume and the service often recovers fairly quickly.",
+        "Email does not have a closed door. It is built on an older, decentralized “store-and-forward” architecture designed to never lose a message, even when the destination is unreachable.",
+        "Because email is a network of thousands of independent systems, an outage at one major provider does not stop users on other platforms from hitting “send.” During major email disruptions like the one that hit Microsoft, millions of outside users on Gmail, corporate servers or other platforms could still compose and send emails to affected accounts without seeing an immediate error message.",
+        "From the sender’s perspective, everything works normally. Their email provider accepts the message, attempts to hand it off to the downed provider, realizes the destination isn’t answering, and quietly holds onto the message in an outbound queue to try again later.",
+        "One way to think about email traffic in outages is to imagine a multilane interstate highway where an accident blocks two lanes of traffic. Drivers miles away don’t stop leaving their driveways just because there is a wreck up ahead; they keep entering the highway system. Soon, traffic backs up so severely that metered on-ramps have to stop letting new cars merge onto the interstate. Before long, that gridlock spills backward onto local feeder roads and city streets, choking traffic miles away from the actual crash site.",
+        "In this analogy, a downed email provider is the crash. Every other email server around the world is an on-ramp or a feeder road. While the outage lasts, millions of messages continue to pile up in queues across the internet, with unaffected servers repeatedly resending email to see whether traffic is moving yet.",
+        "When engineers finally fix the root cause of an email outage, it is the equivalent of tow trucks clearing the wreckage from the highway. The road is technically open again, but traffic does not instantly return to normal speed.",
+        "First, the massive backlog of vehicles already stuck on the main highway has to start moving. Only after that congestion clears can the on-ramps start letting queued-up cars merge back in, which in turn slowly relieves the gridlock on the surrounding local roads.",
+        "Similarly, when a major email provider comes back online, it is immediately hit with a tidal wave of pent-up messages and retry attempts from every other mail server on the internet. Processing those queues without overwhelming the newly restored servers takes time – typically hours to days.",
+        "Because organizations have largely outsourced their email to a small number of global providers, an outage doesn’t just disrupt one company; it can stall entire sectors at once, cutting off the communication tool teams rely on to coordinate their emergency response.",
+        "And for everyday users, this unique architecture explains why email failures feel so drawn out: Even hours after a provider officially announces a problem is fixed, messages can still arrive out of order or trickle in slowly as the digital traffic jam finally clears.",
+        "Doug Jacobson does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-ancient-tomb-reveals-that-people-were-getting-high-on-cann",
+      "title": "Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago",
+      "dek": "The oldest directly dated evidence of intoxicating cannabis use comes from a Scythian tomb, suggesting the plant’s mind-altering effects had a place in ancient burial rituals.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T19:12:17.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/ancient-tomb-reveals-that-people-were-getting-high-on-cannabis-2800-years-ago/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "The oldest directly dated evidence of intoxicating cannabis use comes from a Scythian tomb, suggesting the plant’s mind-altering effects had a place in ancient burial rituals.",
+        "About 1,000 cannabis seeds recovered from a princely tomb in southern Siberia could not, on their own, tell archaeologists whether anyone had used the plant to get high. Cannabis, one of today’s most commonly used psychoactive plants, has also supplied oil, fiber, and medicine, and its flowers, leaves, and resins rarely survive to help distinguish among prehistoric uses.",
+        "The tomb, in the South Siberian Republic of Tyva, belonged to high-ranking members of Scythian society, a horse-riding culture of the Eurasian steppe. Researchers investigating the burial found another source of evidence in preserved human hair from its central chamber.",
+        "Dr. Gino Caspari, an archaeologist at the University of Bern’s Institute of Archaeological Sciences and the Max Planck Institute of Geoanthropology in Jena, Germany, led the international research team and is the lead author of the study, published in Science . “The molecular traces in the hair and the cannabis seeds come from the same grave and suggest that cannabis was used for its intoxicating properties,” he says.",
+        "By directly radiocarbon dating six seeds and combining those measurements with other dating results, the researchers determined that the seeds were placed in the grave in the early eighth century B. C. The findings provide what is currently the oldest directly dated archaeological evidence of cannabis use for its intoxicating properties. “The seeds show that cannabis played an important role in the rituals surrounding the burial,” says Caspari.",
+        "In an earlier publication, the team described the remains of 18 horses that had once been arranged on the burial mound. Several dozen additional horse sacrifices and scattered human bones have since come to light. “In this princely tomb, the burials were accompanied by extensive horse sacrifices and, most likely, human sacrifices as well,” says Caspari.",
+        "To investigate whether cannabis compounds had entered the bodies of people buried there, the researchers analyzed the hair using high-resolution mass spectrometry and other methods. Mass spectrometry helps distinguish compounds by the mass and electrical charge of their molecules or fragments. Several hair samples produced clear signals consistent with cannabinol, or CBN, a compound that can form through the oxidation of tetrahydrocannabinol, or THC, the main intoxicating compound in cannabis. The team also detected weak signals whose masses were consistent with THC.",
+        "“This study is particularly insightful because it combines the analysis of plant remains with molecular traces in the human body,” says Caspari.",
+        "The researchers interpret the hair results as evidence of cannabis use, although the analyses cannot reliably establish how much was consumed or determine with certainty how its active compounds entered the body, such as through inhalation or ingestion. Later archaeological sites in Central Asia have yielded chemical residues of cannabinoids, compounds found in cannabis, in vessels and on heated stones that clearly indicate inhalation. The Tyva hair samples do not establish a particular method of consumption.",
+        "The recovered seeds likely came from wild plants, and the findings do not reveal how much THC those plants contained. It also remains unclear whether people specifically cultivated cannabis for its psychoactive properties or selected or cultivated plants for higher levels of active compounds.",
+        "The team is continuing its investigation. “We have already begun sequencing some of the plant samples,” says Caspari. “DNA preservation is excellent in this case. This will help us learn more about the history of the domestication and spread of this crop soon.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "conversation-oceans-and-forests-have-absorbed-roughly-half-our-carbon-e",
+      "title": "Oceans and forests have absorbed roughly half our carbon emissions for decades, slowing climate change – but can they keep it up?",
+      "dek": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels , raising global temperatures in the process.",
+      "category": "环境",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T17:43:23.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/oceans-and-forests-have-absorbed-roughly-half-our-carbon-emissions-for-decades-slowing-climate-change-but-can-they-keep-it-up-296498"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels , raising global temperatures in the process.",
+        "Luckily for humanity, Earth has done what it could to soften the impact.",
+        "The world’s oceans have absorbed 35% of carbon dioxide emissions from fossil fuels since 1990, our new research shows, and the forests and other plants of the world have absorbed another 13%.",
+        "The importance of these two enormous natural carbon sinks cannot be overstated as global temperatures rise, fueling heat waves, fires, storms, floods and droughts around the world. Yet there is much that scientists do not understand about these carbon sinks – most importantly, how exactly they’ll behave in the future.",
+        "If the oceans and forests keep absorbing the same amount of carbon dioxide, scientists will have a sense of what to expect in the future and what can be done to slow climate change. And governments will know their remaining carbon budgets – that is, how much carbon dioxide can still be emitted into the atmosphere while keeping global temperatures below agreed-to levels.",
+        "We have been working on greenhouse gas measurements for decades. In a new study, published Nov. 12, 2026, in the journal Science, we describe an alternative method for measuring these crucial carbon sinks, and what it shows.",
+        "We found that while the ocean sink has been expanding, meaning the oceans are taking in more carbon dioxide, that expansion might begin to slow down , leaving the oceans less effective at absorbing carbon in the coming decades. We found that the land sink has not been expanding, which was something of a surprise.",
+        "Measuring how much carbon is being taken up by the world’s oceans and forests is devilishly difficult and prohibitively expensive.",
+        "This is because many parts of the land and ocean don’t behave in the same ways. What occurs in one ocean region or forest can be very different from another; and the behavior in one year can be very different in the next, often for reasons scientists do not fully understand.",
+        "Computer models can help overcome some of these complexities, but they too have limitations. Satellites can also help, but they cannot see through clouds, nor can they see what is happening in the soil or mid-to-deep ocean.",
+        "As carbon cycle scientists, we set out to find a different way to measure these carbon sinks.",
+        "Our new study approaches the problem from another angle. We used high-precision measurements of atmospheric oxygen (O₂), combined with atmospheric carbon dioxide (CO₂) measurements , to quantify how the ocean and land carbon sinks takeing up carbon dioxide.",
+        "This works because land, oceans and burning fossil fuels have different effects on oxygen: When fossil fuels are burned, they not only produce CO₂, they consume O₂. On land, when plants take up CO₂ to grow, they simultaneously release O₂. When the oceans take up atmospheric CO₂, there is no corresponding release of O₂.",
+        "This means that if we measure both CO₂ and O₂ in the atmosphere, then we can quantify the ocean and land carbon sinks. It is a straightforward mathematical approach of solving two equations with two unknowns, combined with our knowledge and measurements of the global budgets of CO₂ and O₂.",
+        "When we looked at the ocean and land carbon sinks over the past three decades, the results were surprising and sobering.",
+        "In contrast to most computer model simulations , we did not find the land carbon sink increasing over time to keep pace with increasing fossil fuel emissions. We did, however, find a larger ocean carbon sink than predicted by most models , and we found that it has been increasing as emissions grow.",
+        "If these trends in carbon sinks continue, then in the coming decades, humans will be relying more heavily on the oceans to slow down climate change. But in the next few decades, there are reasons to believe the oceans could become less effective at absorbing carbon.",
+        "For example, warmer waters are not able to hold as much gas , such as carbon dioxide. Warmer surface waters are also less efficient at mixing into the deep ocean , which has the beneficial effect of locking carbon dioxide away from the atmosphere for many hundreds of years.",
+        "The data for the past decade hints at the possibility that while the ocean carbon sink is increasing now, its rate of increase may be slowing down.",
+        "For the oceans, most computer models agree with each other, but, for the historical period, they do not match our oxygen-based results. For the land, models vary widely from each other, and most do not match our oxygen-based results.",
+        "Computer models are essential to provide governments with feasible scenarios to avoid dangerous climate change, but to be effective they need to be better grounded in what real-world observations are showing. Nature is difficult to represent with a series of equations, and observations are few considering the size of the planet.",
+        "We believe our study improves understanding of global carbon sinks and can help lead to more reliable projections of what might happen with climate change in the coming decades. But like any scientific approach, our oxygen method also has drawbacks.",
+        "The measurements themselves are challenging, such that only about 10 research laboratories in the world are routinely doing them. Calibrating the measurements is an ongoing challenge. Earth is not helping: Warmer waters hold less gas, meaning that as oceans warm in response to climate change, they expel some oxygen into the atmosphere . We must account for this in our carbon sink calculations. And to take into account variability in ocean circulation and other ocean processes, we have to average our results over 10-year time frames.",
+        "Policymakers and the public need answers faster . We believe the solution involves both improving the atmospheric oxygen approach and using other independent approaches: measurements of carbon and oxygen in the oceans, computer models and satellites are all essential. Combining these approaches will lead to more robust understanding of the carbon cycle and climate change, and better knowledge of where these valuable carbon sinks and the global climate are headed."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "nasa-gemini-astronaut-photos-inspired-early-earth-observation-p",
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "dek": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII , the final mission of NASA’s Gemini program.",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T16:05:54.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII , the final mission of NASA’s Gemini program.",
+        "In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of a different field of exploration, observing Earth from space.",
+        "The photos taken by Lovell, Aldrin, and other Gemini astronauts demonstrated the value of orbital imagery for studying Earth’s surface. Their images helped scientists make the case for a dedicated Earth observation satellite program. One of strongest advocates for accelerating the use of Earth-observing satellites was William T. Pecora, the director of the United States Geological Survey from 1965 to 1971. In a 1969 statement, Pecora noted that the Earth Resources Observation Satellite (EROS) program he championed, and which later paved the way for Landsat , was “conceived in 1966 largely as a direct result of the demonstrated utility of Mercury and Gemini orbital photography to Earth resource studies.”",
+        "For more than five decades, Landsat and other Earth-observing satellites have provided invaluable data used around the world to monitor crops, wildfires, flooding, vegetation health, land use, and countless other changes to our planet.",
+        "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+        "Rounds of heavy rain in the U. S. Southwest flooded rivers and rapidly raised New Mexico’s…"
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "nasa-news-gemini-astronaut-photos-inspired-early-earth-observation-p",
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "dek": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII , the final mission of NASA’s Gemini program.",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T16:05:54.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII , the final mission of NASA’s Gemini program.",
+        "In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of a different field of exploration, observing Earth from space.",
+        "The photos taken by Lovell, Aldrin, and other Gemini astronauts demonstrated the value of orbital imagery for studying Earth’s surface. Their images helped scientists make the case for a dedicated Earth observation satellite program. One of strongest advocates for accelerating the use of Earth-observing satellites was William T. Pecora, the director of the United States Geological Survey from 1965 to 1971. In a 1969 statement, Pecora noted that the Earth Resources Observation Satellite (EROS) program he championed, and which later paved the way for Landsat , was “conceived in 1966 largely as a direct result of the demonstrated utility of Mercury and Gemini orbital photography to Earth resource studies.”",
+        "For more than five decades, Landsat and other Earth-observing satellites have provided invaluable data used around the world to monitor crops, wildfires, flooding, vegetation health, land use, and countless other changes to our planet.",
+        "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+        "Rounds of heavy rain in the U. S. Southwest flooded rivers and rapidly raised New Mexico’s…"
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "scitechdaily-scientists-warn-of-a-disturbing-rise-in-vitamin-k-deficien",
+      "title": "Scientists Warn of a Disturbing Rise in Vitamin K Deficiency Among American Newborns",
+      "dek": "Only about one in five infants diagnosed with vitamin K-related bleeding had received the shot, U. S. health records show.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T15:58:10.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-warn-of-a-disturbing-rise-in-vitamin-k-deficiency-among-american-newborns/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Only about one in five infants diagnosed with vitamin K-related bleeding had received the shot, U. S. health records show.",
+        "Babies are born with little vitamin K, leaving them vulnerable to bleeding that can cause permanent brain damage or death. A single shot helps protect against that danger. The American Academy of Pediatrics has recommended one dose injected into a muscle for newborns since 1961, and a growing number of American parents are choosing to skip it.",
+        "That trend has coincided with a sharp rise in diagnoses of vitamin K deficiency (VKD) and vitamin-K-deficient bleeding (VKDB). A nationwide study found that their rates increased by 216% and 347%, respectively, between 2017 and 2025, while the percentage of newborns receiving injectable vitamin K fell from 97. 7% to 95. 0%. The findings were published on November 5, 2026, in JAMA Pediatrics .",
+        "Vitamin K activates specialized proteins needed for normal blood clotting. Newborns receive too little through the placenta, absorb it poorly through their digestive systems, and get little from breast milk. The injection addresses a deficiency at a time when its consequences can be severe.",
+        "Classical VKD occurs between 2 days and 1 week after birth and causes bruising and bleeding from the umbilicus, or belly button. Late VKD, which occurs between 1 week and 6 months of age, carries a 30% to 60% risk of intracranial hemorrhage, or bleeding inside the skull. That bleeding can lead to seizures, permanent brain damage, or death.",
+        "Refusal of the shot has increased over the past decade. Previous studies found that the proportion of newborns who did not receive intramuscular vitamin K rose from 2. 9% in 2017 to 5. 2% in 2024.",
+        "To investigate the consequences of that trend, Elizabeth Wolf, M. D. , MPH, led the new nationwide study. Wolf is a pediatrician at Children’s Hospital of Richmond at VCU and an associate professor in the Department of Pediatrics at Virginia Commonwealth University School of Medicine.",
+        "The researchers analyzed de-identified electronic health records from a large national database covering health systems across the United States. Their analysis included more than 11 million infants aged 0 to 6 months who were born at 35 weeks’ gestation or later and received care between 2017 and 2025.",
+        "Only 40% of infants diagnosed with VKD and about 19% of those diagnosed with VKDB had received vitamin K shots. About 7% of infants with VKD and 2% of those with VKDB also had a diagnosis of intracranial or intracerebral hemorrhage, meaning bleeding inside the skull or within the brain tissue itself.",
+        "“We knew from prior studies that vitamin K refusal had been increasing in the U. S. , and we wanted to learn if there were any real-life consequences of this trend,” Wolf said. “We found that the answer is undeniably yes, with the rates of VKD and VKDB multiplying over the course of our study.”",
+        "The researchers caution that the simultaneous decline in injections and increase in diagnoses does not prove causation. Wolf considers other explanations unlikely, however, because behaviors and diseases that increase the risk of VKD remained constant or decreased during the study period.",
+        "The study’s co-authors included Steven Woolf, M. D. , director emeritus of the VCU Center on Society and Health and a professor in VCU School of Medicine’s Department of Family Medicine, Evan French, MS, of VCU’s C. Kenneth and Dianne Wright Center for Clinical and Translational Research, and Darya Shokouhi Niaki, Pharm. D. , of the VCU School of Public Health’s Department of Biostatistics.",
+        "Wolf connected the findings to growing mistrust of doctors and public health professionals.",
+        "“Similar to the recent measles outbreaks, we are seeing the real-world implications of growing mistrust of doctors and public health professionals. We need clear messaging from all levels of public health about the benefits of vitamin K administration for newborns.”"
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "scitechdaily-blood-vessel-function-improved-just-60-minutes-after-takin",
+      "title": "Blood Vessel Function Improved Just 60 Minutes After Taking This Anti-Aging Supplement",
+      "dek": "Blood vessel function improved within an hour of a supplement’s first dose in a small human trial, though lasting protection against cardiovascular disease remains unproven.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T15:23:06.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/blood-vessel-function-improved-just-60-minutes-after-taking-this-anti-aging-supplement/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Blood vessel function improved within an hour of a supplement’s first dose in a small human trial, though lasting protection against cardiovascular disease remains unproven.",
+        "What if protecting the heart and blood vessels requires more than treating traditional risk factors such as high blood pressure and cholesterol?",
+        "Cardiovascular disease remains the world’s leading cause of death, and researchers at the University of Surrey are exploring whether targeting the biology of aging could help protect the heart and blood vessels. In a small trial, they tested a nutritional supplement designed to address several aging-related processes at once, finding improvements in blood vessel function and blood pressure over six months.",
+        "The randomized controlled trial enrolled 61 participants, with 33 taking NOVOS Core and 28 receiving a placebo once daily for six months. Researchers investigated whether combining these substances could improve cardiovascular health by influencing multiple aging-related pathways simultaneously.",
+        "The supplement combines 12 ingredients selected to target biological processes associated with aging. These include glycine, magnesium malate, calcium alpha-ketoglutarate, glucosamine sulfate, vitamin C, L-theanine, hyaluronic acid, and small amounts of lithium, along with plant-derived compounds such as fisetin, pterostilbene, Rhodiola rosea extract, and ginger extract.",
+        "Professor Christian Heiss, Professor of Cardiovascular Medicine at the University of Surrey, said: “Biological aging is not driven by one pathway, but by a number of interacting molecular and cellular processes. The idea behind this study was to ask whether addressing several of these processes at the same time via a nutritional supplement could produce measurable effects on cardiovascular health biomarkers.",
+        "“As a first step, we looked at established biomarkers of vascular health, such as blood pressure and cholesterol levels, rather than clinical outcomes. We found favorable changes in endothelial function, arterial stiffness, and systolic blood pressure after six months. These findings are encouraging. We now need larger studies to understand the mechanisms involved and, importantly, whether these changes translate into longer-term health benefits.”",
+        "Researchers measured flow-mediated dilation, or how readily an artery widens as blood flow increases. This reveals how well its inner lining, the endothelium, works to regulate vessel width and blood clotting. Dilation improved in the supplement group compared with the placebo group after six months. An improvement also appeared just one hour after the first dose, while placebo readings remained largely unchanged.",
+        "Arteries were also less stiff in the supplement group. Researchers assessed this using pulse wave velocity, the speed at which a pressure wave travels through arteries. Slower waves indicate more flexible arteries, and the adjusted difference between groups was 1. 18 meters per second after six months.",
+        "Systolic blood pressure, the pressure when the heart contracts, was an adjusted 6. 1 mmHg lower in the supplement group than in the placebo group at six months. A difference was also observed one hour after the first dose. Estimated 10-year cardiovascular risk decreased modestly, largely reflecting the blood pressure difference.",
+        "Previous large studies have associated a sustained 5 mmHg reduction in systolic blood pressure with approximately 10 percent fewer major cardiovascular events. The Surrey trial measured markers associated with risk and was not designed to determine whether participants experienced fewer such events.",
+        "Diogo Barardo, PhD, Director of R&D at NOVOS and a geroscientist, a scientist specializing in the biology of aging, said:",
+        "“When we began developing NOVOS Core in 2019, our hypothesis was that simultaneously targeting all the hallmarks of aging, the fundamental biological processes underlying aging and age-related diseases, could produce measurable improvements in the organs and systems affected by aging.",
+        "“The STAMINA results provide encouraging clinical evidence consistent with that hypothesis, demonstrating improvements across three measures of cardiovascular function, particularly meaningful given that cardiovascular disease remains the leading cause of death worldwide.”"
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "conversation-to-get-americans-to-care-about-climate-change-just-call-it",
+      "title": "To get Americans to care about climate change, just call it climate change",
+      "dek": "You may be hearing phrases like “climate crisis,” “climate emergency” and “climate justice” a lot as the 2026 United Nations climate summit is underway. ",
+      "category": "环境",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T15:05:35.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/to-get-americans-to-care-about-climate-change-just-call-it-climate-change-296481"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "You may be hearing phrases like “climate crisis,” “climate emergency” and “climate justice” a lot as the 2026 United Nations climate summit is underway. Political leaders, including U. N. Secretary-General António Guterres , are using them to try to get across the urgent risks and consequences of climate change. The danger is real , but is using this language actually persuasive?",
+        "It turns out that Americans are more familiar with – and more concerned about – climate change and global warming than they are about climate crisis, climate emergency or climate justice, according to a survey we conducted with a nationally representative sample of 5,137 Americans.",
+        "Moreover, we found no evidence that the alternative terms increased people’s sense of urgency, willingness to support climate-friendly policies or willingness to act.",
+        "The familiar terms – climate change and global warming – did at least as well, and sometimes better, than climate crisis and climate emergency in eliciting concern, perceived urgency and willingness to act. The phrase climate justice consistently tended to do worse, likely in part because it was the least familiar. These response patterns were similar among Republicans, Democrats and independents.",
+        "In our work as research psychologists , we have explored how Americans respond to the ways climate change is communicated and have uncovered a need to use straightforward language.",
+        "For example, people we interviewed for a study published in 2021 felt that climate experts were talking over their heads with terms like “adaptation,” “mitigation,” “sustainability” and “carbon-dioxide removal.” They wanted experts to use more familiar terms instead.",
+        "This inspired us to write a quick guide to climate jargon , published in The Conversation. Using everyday language makes information easier to understand, and even highly educated people tend to prefer it.",
+        "Jargon like “ biodiversity loss ” has similar problems. That refers to the shrinking variety of life on Earth, which is exacerbated by climate change. A survey of 7,338 U. S. adults led by one of us found people were much more familiar with and more concerned about “extinction of plants and animals” – or, if an explanation was provided, “nature loss”.",
+        "Even with an explanation, “biodiversity loss” was the least familiar and of least concern for people among several terms. Most people didn’t find “biodiversity crisis” or “extinction crisis” familiar either.",
+        "Yet, experts often use complex jargon because it is familiar to them, and they may not realize it is unfamiliar to others.",
+        "It has become common to talk about climate change and global warming as if they have the same meaning, but there are differences . Climate change refers to changes in the overall climate, while global warming refers specifically to rising temperatures.",
+        "A historical review found that, in the past, people were less likely to associate the term climate change with the idea that humans are actively warming the planet than they were with the term global warming. Perhaps this is why Democrats used to like the term global warming, while the popularization of the term climate change has been credited to Frank Luntz , an adviser to the George W. Bush administration.",
+        "Past surveys also found that Democrats used to think of global warming as being more serious than climate change, while Republicans thought of climate change as more serious than global warming. But according to a recent review , these partisan differences have now faded.",
+        "Alternative terms such as climate crisis, climate emergency and climate justice have been used to emphasize other aspects of climate change and to try to raise concern. In 2019, the British newspaper The Guardian switched to using climate crisis and climate emergency because it wanted to convey urgency.",
+        "Activists use the term climate justice to draw attention to climate change as a human rights challenge: Low-income people around the world suffer the most from the effects of climate change, despite being the least responsible for causing it.",
+        "Right now, the terms climate crisis, climate emergency or climate justice are less familiar and elicit less concern than climate change or global warming.",
+        "Even if these terms become more commonplace, there is no guarantee that they will heighten concern or inspire action. In fact, studies have suggested that phrases like climate crisis could backfire if they don’t resonate with people.",
+        "Our advice: Don’t make the mistake of using overheated language. Just stick with familiar terms that people understand – use global warming when referring to rising temperatures and climate change for overall changes in the climate.",
+        "This updates an article originally published Aug. 12, 2024 , with a new study and discussions at the 2026 U. N. climate conference, COP31.",
+        "Wändi Bruine de Bruin has received funding for this research from University of Southern California’s Wrigley Institute for Environmental Studies, the Golden Belt Community Foundation and Lloyd's Register Foundation.",
+        "Gale Sinatra received funding from the National Science Foundation."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "scitechdaily-scientists-discover-new-form-of-prostate-cancer",
+      "title": "Scientists Discover New Form of Prostate Cancer",
+      "dek": "Researchers at the University of British Columbia have identified a previously unrecognized form of hereditary prostate cancer linked to a rare genetic mutation that can lead…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T14:48:17.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-new-form-of-prostate-cancer/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Researchers at the University of British Columbia have identified a previously unrecognized form of hereditary prostate cancer linked to a rare genetic mutation that can lead to aggressive disease at relatively young ages. The discovery could help doctors identify families with an inherited cancer risk and introduce earlier screening, potentially detecting tumors before they spread.",
+        "The new study, published in Cancer Discovery , connects this form of hereditary prostate cancer to inherited mutations in a gene called CDK12. After analyzing genetic data from more than 4,500 people with aggressive prostate cancer, researchers identified five unrelated men carrying these mutations. All five developed metastatic prostate cancer between ages 44 and 62.",
+        "Scientists previously believed that harmful CDK12 mutations developed spontaneously within tumor cells rather than being inherited from a parent. To investigate whether inherited mutations were responsible for the cancers, researchers examined the patients’ tumors for a distinctive pattern of genetic changes associated with CDK12 dysfunction.",
+        "“The tumors provided us with a genetic signature that pointed directly back to CDK12,” said lead author Dr. Sofie Tolmeijer, a postdoctoral fellow in the Wyatt lab. “It gave us compelling evidence that these inherited mutations were playing a direct role in causing their cancer.”",
+        "“What’s striking is that every patient we identified with this inherited mutation had already developed metastatic disease by the time they were diagnosed,” said senior author Dr. Alexander Wyatt, associate professor of urologic sciences at UBC and UBC President’s Excellence Chair in Precision Oncology. “The opportunity now is to identify these families earlier and give people the chance to benefit from enhanced screening, when there are still curative treatment options.”",
+        "Approximately 5 to 10 percent of cancers are associated with inherited genetic mutations, rather than changes that accumulate during a person’s lifetime. Among the best-known examples are BRCA1 and BRCA2 mutations, which increase the risk of breast, ovarian, pancreatic, and prostate cancers. Genetic testing for these mutations already helps guide cancer screening and preventive care.",
+        "Inherited CDK12 mutations appear considerably rarer. The researchers estimate that they occur in approximately one in 1,000 people with aggressive prostate cancer, potentially affecting hundreds of families worldwide. Identifying a carrier could allow relatives to undergo genetic testing and determine whether they share the mutation.",
+        "“While this mutation is extremely rare, the discovery could be lifesaving for the families who carry it,” said Dr. Tolmeijer. “Finding one person with an inherited mutation gives us the opportunity to identify other family members at risk and help them take action before cancer develops or spreads.”",
+        "The research team recommends considering CDK12 for inclusion in standard hereditary prostate cancer testing panels. Unlike genetic discoveries that require new diagnostic methods, CDK12 mutations can already be detected using existing clinical technology, potentially making expanded testing faster and less expensive to implement.",
+        "“One of the most exciting aspects of this discovery is that we already have the technology needed to act on it,” said Dr. Wyatt, who is also a senior research scientist at the Vancouver Prostate Centre and senior scientist at BC Cancer. “Adding CDK12 to existing genetic tests is relatively straightforward, which means this discovery could move from the research lab into clinical care much more quickly.”",
+        "The findings also raise questions about whether inherited CDK12 mutations contribute to ovarian cancer. Several affected men had family histories of ovarian cancer, and researchers identified an additional person with ovarian cancer who carried an inherited CDK12 mutation. That person’s tumor displayed the same characteristic genetic changes associated with CDK12 dysfunction. Further research is needed to establish whether the mutation increases ovarian cancer risk.",
+        "“With the right genetic testing and screening programs, we envision a future where no one who inherits one of these mutations dies from cancer,” said Dr. Wyatt.",
+        "The study was supported by the Prostate Cancer Foundation, Terry Fox Research Institute, Canadian Cancer Society, Canadian Institutes of Health Research, Michael Smith Health Research BC, U. S. National Institutes of Health, BC Cancer Foundation and other funding partners.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "conversation-debate-in-new-york-city-over-city-run-groceries-is-not-jus",
+      "title": "Debate in New York City over city-run groceries is not just about food, but something bigger",
+      "dek": "New York City is moving closer to launching its effort to counter food inflation by opening five city-run grocery stores. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T13:38:12.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/debate-in-new-york-city-over-city-run-groceries-is-not-just-about-food-but-something-bigger-291749"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "New York City is moving closer to launching its effort to counter food inflation by opening five city-run grocery stores. Mayor Zohran Mamdani announced in May 2026 that the first store would open in the Hunts Point neighborhood of the South Bronx in 2027, with another in East Harlem to follow.",
+        "Five stores, one in each borough, are unlikely to substantially change grocery prices in a city with nearly 1,000 supermarkets and more than 8 million inhabitants . But each could make a meaningful difference to the grocery bills of local shoppers by selling essentials at below-market prices.",
+        "Even with just five planned stores set to open in lower-income neighborhoods, the initiative has ignited fierce opposition from independent grocers , supermarket trade associations and a coalition representing immigrant-owned food businesses .",
+        "As a food policy scholar , I believe this opposition is about more than the immediate economic impact of five stores. It is about the precedent they could establish. Mamdani’s initiative challenges an entrenched expectation that the government should leave the provision of consumer goods to private enterprise even as it encourages businesses to invest in certain locations, regulates their activities and helps low-income shoppers through various food assistance programs.",
+        "The reality is more complicated. For at least a century, New York’s food economy has not operated independently of government . In fact, public policies and investments have long shaped where supermarkets open, which businesses can operate with a profit, and how residents obtain food.",
+        "It’s just that they have done so in ways consumers often don’t see.",
+        "That is why the five grocery stores carry a broader significance, in my view. They offer a different model of public investment that makes the government much more visible in providing an essential service – and more accountable for its results. New Yorkers will get an opportunity to judge that contribution directly.",
+        "If the stores succeed, they may change not just what people expect to pay for groceries, but what they expect their city government to provide.",
+        "New York City has committed US$70 million to develop these stores, which will be open to all.",
+        "While they will be managed by private operators, the city will provide rent-free space, prioritize publicly owned sites and ensure that essential foods are priced 30% below typical retail prices.",
+        "In this respect, the stores offer a “ public option ” – a government-provided good or service that exists alongside private alternatives , like public schools and city hospitals.",
+        "Municipal grocery stores would offer New Yorkers a similar choice alongside private retailers. But as a public option, they would create a visible alternative against which shoppers can judge privately owned stores, setting a benchmark for food prices and service quality. They would also demonstrate how public investment can be used to make an essential good more affordable.",
+        "At his May announcement , Mamdani described the proposed Bronx store and its surrounding development as “physical proof of our conviction that government can be a force for good.”",
+        "Government-supported food retailing has a long history in New York City despite opposition by existing businesses.",
+        "In 1934, Mayor Fiorello La Guardia’s administration began selling discounted milk to low-income families, but the initiative drew complaints from grocers about unfair competition. Independent merchants similarly protested the city’s efforts to subsidize a new Pathmark supermarket in East Harlem in the 1990s, warning that it would put local grocers out of business.",
+        "A more recent example is the city’s Food Retail Expansion to Support Health program , known as FRESH. Since 2009, it has offered supermarket developers and operators long-term tax breaks and zoning incentives to build or expand dozens of stores in underserved neighborhoods.",
+        "These incentives have helped increase grocery retail space, but shoppers don’t see the public support behind them.",
+        "FRESH is just one example of an approach toward supermarket financing that gained momentum in the 1990s, when governments sought to address social problems by encouraging private investment. Food insecurity was blamed on a scarcity of neighborhood supermarkets, not on prices being beyond reach for local shoppers.",
+        "Subsidizing new stores promised better nutrition and economic development without confronting poverty or inequality, and FRESH reflects that approach. Participating supermarkets must devote space to perishable foods, but they’re not required to offer affordable prices. That may be one reason why researchers have found that adding supermarkets to low-income neighborhoods, by itself, doesn’t substantially improve residents’ diets.",
+        "This hidden government role is hardly confined to grocery stores. Much of what government does for Americans is delivered indirectly, through tax credits, subsidies and private institutions. Because the public contribution is obscured, people often give credit to private markets for the benefits provided by public policy, from student loans to healthcare.",
+        "This invisibility is a consequence of policy design and influences how citizens understand government, a phenomenon that political scientist Suzanne Mettler described as “ the submerged state .”",
+        "Municipal grocery stores depart from the traditional model in two important ways.",
+        "First, they make affordability an explicit condition of public investment rather than the outcome of increased retail competition. Second, they make government’s contribution visible. For example, the stores will share distinct branding so shoppers know who’s responsible for the affordable food.",
+        "If the stores deliver reliable savings, shoppers may begin to see affordable food as something government can help provide, not an outcome determined entirely by private markets. When public benefits are obscured, people are more likely to underestimate government’s contribution to their lives. Visible programs, like a physical store in the neighborhood, make that contribution easier to notice and evaluate."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "conversation-maha-suffered-heavy-losses-in-the-2026-midterms-but-the-mo",
+      "title": "MAHA suffered heavy losses in the 2026 midterms, but the movement is far from dead",
+      "dek": "Candidates tied to the Make America Healthy Again, or MAHA, movement suffered a series of electoral defeats in the 2026 midterm elections, raising questions about MAHA’s…",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T13:37:55.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/maha-suffered-heavy-losses-in-the-2026-midterms-but-the-movement-is-far-from-dead-296093"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "Candidates tied to the Make America Healthy Again, or MAHA, movement suffered a series of electoral defeats in the 2026 midterm elections, raising questions about MAHA’s political future.",
+        "Despite its name, MAHA has become a controversial force in American health politics. While the movement calls for healthier food , increased physical activity and greater corporate transparency, prominent figures within it have also challenged established scientific evidence, especially on vaccines .",
+        "Some commentators and critics have described the defeat of MAHA-aligned candidates like Iowa gubernatorial candidate Zach Lahn as a “ brutal election night wipeout .” Others have asked whether MAHA is “ dying .”",
+        "Yet many Americans still support MAHA and the policies it champions . Its supporters also continue to hold powerful positions in the Trump administration – like Health and Human Services Secretary Robert F. Kennedy Jr. , National Institutes of Health Director Jay Bhattacharya , and Kyle Diamantas , acting commissioner of the U. S. Food and Drug Administration – even as a new Congress prepares to take office in January 2027.",
+        "We are political scientists who study public opinion on healthcare policy . We see MAHA’s electoral losses as a political setback, not a death sentence. The movement’s influence extends beyond its candidates and the elections they contest.",
+        "MAHA’s electoral losses came amid a potentially generational swing toward Democrats across the country,",
+        "More than half the 24 gubernatorial and Congressional candidates endorsed by MAHA’s political action committee, MAHA Action , lost their election bids. These included Lahn, Texas Senate candidate Ken Paxton and House candidate Vic Mellor in Rhode Island. Others, like incumbent Representative Anna Paulina Luna, R-FL, won by less than 1% in a district that she won by nearly 10 percentage points in 2024.",
+        "Lahn’s defeat stands out as a major loss. Lahn, a farmer who railed against pesticides on the campaign trail and promised to ban COVID-19 vaccinations in Iowa , was endorsed by Kennedy. Lahn has been described by some as a model MAHA candidate and received over US$1 million in campaign contributions from MAHA Action.",
+        "But the movement’s poor showing at the ballot box does not mean that some of MAHA’s ideas are unpopular among Americans. A May 2026 poll conducted by the health policy organization KFF found that 41% of American adults supported MAHA , including many Democrats and independents.",
+        "Many Americans also share MAHA’s concerns about food safety. According to KFF, 75% of Americans believe the government does too little to regulate chemical additives in food, while 64% say the same about agricultural pesticides.",
+        "Yet the popularity of MAHA policies did little to help MAHA-backed candidates win in the first election cycle where MAHA-aligned candidates were on the ballot. Following the midterm elections, some MAHA activists moved to blame President Donald Trump for failing to fulfill promises on these issues.",
+        "One prime example: In a postelection episode of Joe Rogan’s podcast, Calley Means, a former senior adviser to Kennedy, accused senior White House officials of allowing corporate interests to undermine MAHA’s goals. Dissatisfaction also spilled over to MAHA supporters in the general public, with one postelection poll finding that just over half of MAHA supporters feel the Trump administration made Americans’ health and well-being better throughout his second term in office.",
+        "Dissatisfaction with Trump, however, tells only part of the story. Another KFF poll conducted just before the election found that 42% of MAHA-supporting voters considered lowering healthcare costs their top health priority. By comparison, 21% prioritized restricting food additives, and 10% chose vaccine safety. Among voters more broadly, 55% believed Trump’s policies increased their healthcare costs, and 83% of those voters reported voting for Democrats. Most MAHA supporters, however, continued to vote for Republicans .",
+        "Supporting a movement, embracing its policy priorities and casting a ballot for its candidates do not necessarily go hand in hand. Americans can support MAHA’s goals without identifying with the movement or voting for its candidates. Likewise, MAHA supporters may vote Republican even when they are dissatisfied with Trump’s health policies. MAHA’s electoral losses, therefore, tell us little about how much support its ideas enjoy.",
+        "Despite its electoral losses, MAHA still holds considerable influence in Washington. Kennedy still leads HHS, where he can continue reshaping how the Centers for Disease Control and Prevention steers vaccine recommendations in a direction that aligns with his vaccine-skeptical views. These efforts face growing scrutiny amid public confusion over Kennedy’s vaccine guidance and reports that he sought to remove measles-related deaths from CDC statistics .",
+        "Kennedy appears undeterred by MAHA’s electoral setbacks. Following the election, he praised incoming White House Chief of Staff Stephen Miller , declaring, “Next to me, Stephen Miller is the strongest MAHA supporter in the administration. It’s time to unleash the Kraken.”",
+        "MAHA’s continued influence in the Trump administration, however, will face new obstacles now that Democrats control Congress. Facing greater opposition, the administration may increasingly rely on executive actions, including executive orders , new federal regulations and agency reports , to advance its health policies. However, Congress can also investigate HHS decisions and use its control over federal spending to limit what the agency can do.",
+        "MAHA’s political future remains uncertain. Some supporters may gradually move toward Democrats, particularly those concerned about corporate influence, pharmaceutical industry accountability and food safety. These concerns cross partisan lines , giving Democrats an opportunity to appeal to voters dissatisfied with Trump but still supportive of MAHA’s priorities.",
+        "MAHA could also become a movement independent of Trump and MAGA. It could bring together Americans who care about health and wellness, distrust major institutions and oppose corporate influence over food and medicine. Kennedy’s independent presidential campaign attracted as much as 15% support among voters in July 2024. This showed that an alternative to the two major parties could attract substantial support.",
+        "Whether MAHA remains tied to Trump’s increasingly divided coalition will shape its future beyond his presidency. The frustrations and health concerns that fueled its rise among Americans have not disappeared.",
+        "The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "conversation-republican-gerrymandering-worked-pretty-well-in-texas-and-",
+      "title": "Republican gerrymandering worked pretty well in Texas and Florida, even if it backfired in North Carolina and Ohio",
+      "dek": "During the 2026 election cycle, Republicans enacted a series of gerrymanders – a form of partisan redistricting – in a handful of states to give them a disproportionate edge…",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T13:37:40.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/republican-gerrymandering-worked-pretty-well-in-texas-and-florida-even-if-it-backfired-in-north-carolina-and-ohio-295944"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "During the 2026 election cycle, Republicans enacted a series of gerrymanders – a form of partisan redistricting – in a handful of states to give them a disproportionate edge over Democrats in their congressional delegations. Democrats responded with a successful redistricting effort in California and an unsuccessful one in Virginia .",
+        "Gerrymandering has obvious implications for fairness and democracy, characterized by some as politicians picking their voters, not voters picking their politicians.",
+        "There’s also a practical consideration for those doing the gerrymandering: The efforts can fail when they overplay their hand.",
+        "By spreading their supportive voters across many districts, parties can create more seats that may lean in their direction. But if spread too thin, these efforts can backfire and net seats for the other party, particularly in a “wave” election year that favors the other party. This unintended consequence is often referred to as a “dummymander .”",
+        "So, with such massive Democratic majorities poised to enter the 120th Congress, did Republican attempts to gerrymander actually end up costing them some seats in the U. S. House?",
+        "Republican state legislatures in Ohio and North Carolina redrew their congressional maps in 2025 , crafting a set of districts they believed would maximize the number of seats they could win in the House.",
+        "Despite both states being traditionally competitive in statewide elections, their state legislatures drew a collection of seats Republicans believed they would win: 12 of these 15 new seats in Ohio and 11 out of 14 in North Carolina included a majority of voters who voted for Donald Trump in the 2024 presidential election.",
+        "But in 2026, Democrats across the country won dozens of seats that had previously seemed out of reach, including districts Trump won by double digits in 2024. Many of these seats were in heavily gerrymandered Republican seats.",
+        "In Ohio and North Carolina, the size and scope of the midterm backlash against Trump and his party put many of the seats Republicans targeted in these states, including ones Trump won by as many as 20 points, in serious jeopardy.",
+        "In the end, the Democratic wave overcame so many Trump-won seats in these states that their new delegations to Congress may be more Democratic than they would have been without the gerrymanders.",
+        "Texas and Florida also targeted a series of Democrat-held seats to flip their way in 2026. Nine such seats across these two states, as well as a vulnerable seat held by Democratic U. S. Rep. Shomari Figures in Alabama, were the targets of gerrymanders that created new districts that Trump won in 2024, all by 9 percentage points or more.",
+        "But once the 2026 Democratic wave swept through the deep South, these gerrymanders were essentially canceled out. Despite the gains the party projected, Republicans in these three states appear likely to enter the 120th Congress with delegations the same size as they had in the 119th.",
+        "Other Republican gerrymandering attempts were successful, but only barely. In Tennessee’s 9th District, the last remaining Democratic seat in the state was gerrymandered into a district Donald Trump won by 21 points in 2024. Republicans did hold that seat as expected, but only by 2,500 votes, or just over 1 percentage point.",
+        "Many of these gerrymanders were not maximally successful. But were they true dummymanders?",
+        "In North Carolina and Ohio it does appear that Republicans overplayed their hand by counting on past Trump voters in a national environment that proved so favorable to the Democrats.",
+        "In Ohio, a gerrymander that aimed for a two-thirds Republican majority in their House delegation will net them less than half of that in the 120th Congress . That outcome ended up producing a more representative result, one that was roughly in line with the two parties’ 2026 popular vote shares in the state.",
+        "North Carolina was a more drastic dummymander: The Republicans aimed to design districts where they would win seats accounting for almost two-thirds of their congressional delegation. But the party is currently poised to hold , at best, less than one-third of their state’s seats.",
+        "And California, which Democrats gerrymandered in reaction to Republican efforts in other states, is a partisan success story . The state is projected to send only 8% of their delegation to the House as Republicans, despite voting 30% for Republicans statewide.",
+        "In Texas and Florida the story is more complicated. Democrats in those states retained most of the seats they held that their Republican legislatures targeted in their gerrymanders, thanks to historic shifts by Hispanic voters who had voted for Trump in the 2024 election.",
+        "But gerrymanders can be effective beyond marginal, targeted districts. Taken as a whole, Texas’ and Florida’s district boundaries were drawn so favorably for Republicans that even a Democratic tsunami managed only to keep these states’ delegations identical in the next Congress, since many other districts remained safe for Republicans.",
+        "In these states, Republicans still enjoy a greater proportion of House seats than their popular vote margins would reflect. And in a less Democrat-leaning election cycle, many of these gerrymandered seats could very well shift back toward Republicans.",
+        "As poor as the outcome of the 2026 midterms was for Republicans, it could have been even worse. In fact, some Republican states might count themselves lucky that their attempts to gerrymander failed in the lead-up to the midterms.",
+        "In traditionally Republican states such as Missouri and Utah , courts struck down gerrymanders that would have created a series of districts that Trump won by around 20 percentage points . If the gerrymanders had not been struck down, Democrats’ shocking success in similar districts across the country could have netted them as many as five additional seats in these states.",
+        "A similar situation played out in Indiana and South Carolina . New maps pushed by Trump that failed in their state legislatures were intended to produce even more lopsided Republican gains. But analysis from the Cook Political Report found that these maps might have netted Democrats as many as six out of South Carolina’s seven House seats, and eight out of Indiana’s nine. Instead, Democrats seem likely to end up with only a pair of seats in each state."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "nasa-a-global-rebound-for-mangroves",
+      "title": "A Global Rebound for Mangroves",
+      "dek": "Scientists began using satellites to map mangrove forests in the 1970s after the launch of the first Landsat satellite. ",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T05:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Scientists began using satellites to map mangrove forests in the 1970s after the launch of the first Landsat satellite. For decades, the story they told about mangroves was dominated by loss and decline. Research published in Science suggests that the tide has turned.",
+        "A global rebound began around 2010, the scientists found, led by the expansion of mangrove forests in Asia, Australia, and South America. The researchers analyzed Landsat imagery collected between 1984 and 2023, looking for signs of changes in the extent and density of mangrove canopy.",
+        "They tallied losses of nearly 3,000 square kilometers (1,200 square miles) between 1984 and 2010, followed by an unexpected increase of nearly 2,000 square kilometers (770 square miles) of mangroves after 2010. They also found that many of today’s mangrove forests have denser, more closed canopies than they did in 2010, a sign of healthier, less degraded forests, particularly in South America.",
+        "“Other research groups have mapped and analyzed long-term changes in select regions, but these are the first global mangrove maps that cover such a long period,” said Zhen Zhang, an environmental scientist at Tulane University. “About two-thirds of the expansion was due to mangroves colonizing new areas and the other third due to restoration and regrowth in degraded areas,” he added.",
+        "One of the most notable reversals occurred in Southeast Asia—especially Burma (Myanmar). The country lost mangroves rapidly in the 1980s and 1990s due to the expansion of agriculture, aquaculture, and firewood harvesting in coastal areas, but the trend reversed around 2010, when mangrove area began expanding in many places. The authors attribute the turnaround to increased awareness and restoration efforts after the devastating Indian Ocean tsunami in 2004 , strengthened legal protections for forests, and high rates of sedimentation that opened up new mudflats for colonization.",
+        "The pair of Landsat images above shows expansion of mangrove forests in Palaw Township in Burma’s Myeik District—an area that has seen both significant regeneration of degraded mangrove forests and the spread of trees into new areas since 2010. In this region, much of the regeneration appears to be occurring in abandoned rice fields (brown) south of the village of Kyauktaung. People on nearby Pyin Bukyi Island, meanwhile, have experimented with conservation projects and tree planting efforts to support mangroves. Despite the gains, deforestation remains a common challenge in Burma, which lost 28. 6 percent of its mangrove area between the 1980s and 2010.",
+        "Since then, the country’s mangrove area has grown about 10 percent.",
+        "Mangrove trees are relatively small—averaging about 13 meters (43 feet)—but mighty from an ecological perspective, with mangrove ecosystems storing up to four times as much carbon as taller inland tropical forests. The trees play an important role in protecting coastal communities from erosion and storm surges, and their distinctive stilt-like roots provide habitat and vital nursery grounds for fish, shrimp, crabs, and other marine life.",
+        "In several areas, such as around the mouth of the Amazon River and in northern Australia, extensive deposition of sediment has created new mudflats that mangroves have successfully colonized, contributing to steady increases in each of these regions since the 1990s. At the northern and southern edges of their range, including the southeastern U. S. , warming temperatures and fewer freezes have also allowed mangroves to push into areas that were previously too cold, Zhang explained.",
+        "There are some areas, however, where losses have outweighed gains. Substantial mangrove losses in the Niger Delta, for instance, have reduced the total mangrove area in West and Central Africa since 2010. North America and southern Africa, meanwhile, have seen widespread degradation after tropical cyclones devastated broad swaths of mangroves. “The global successes we’ve seen with mangroves during the past decade should not be seen as grounds for complacency,” cautioned Zhang. “This underscores that conservation and slowing deforestation can lead to huge positive impacts when coupled with natural expansion and regeneration.”"
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "nasa-news-a-global-rebound-for-mangroves",
+      "title": "A Global Rebound for Mangroves",
+      "dek": "Scientists began using satellites to map mangrove forests in the 1970s after the launch of the first Landsat satellite. ",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T05:01:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Scientists began using satellites to map mangrove forests in the 1970s after the launch of the first Landsat satellite. For decades, the story they told about mangroves was dominated by loss and decline. Research published in Science suggests that the tide has turned.",
+        "A global rebound began around 2010, the scientists found, led by the expansion of mangrove forests in Asia, Australia, and South America. The researchers analyzed Landsat imagery collected between 1984 and 2023, looking for signs of changes in the extent and density of mangrove canopy.",
+        "They tallied losses of nearly 3,000 square kilometers (1,200 square miles) between 1984 and 2010, followed by an unexpected increase of nearly 2,000 square kilometers (770 square miles) of mangroves after 2010. They also found that many of today’s mangrove forests have denser, more closed canopies than they did in 2010, a sign of healthier, less degraded forests, particularly in South America.",
+        "“Other research groups have mapped and analyzed long-term changes in select regions, but these are the first global mangrove maps that cover such a long period,” said Zhen Zhang, an environmental scientist at Tulane University. “About two-thirds of the expansion was due to mangroves colonizing new areas and the other third due to restoration and regrowth in degraded areas,” he added.",
+        "One of the most notable reversals occurred in Southeast Asia—especially Burma (Myanmar). The country lost mangroves rapidly in the 1980s and 1990s due to the expansion of agriculture, aquaculture, and firewood harvesting in coastal areas, but the trend reversed around 2010, when mangrove area began expanding in many places. The authors attribute the turnaround to increased awareness and restoration efforts after the devastating Indian Ocean tsunami in 2004 , strengthened legal protections for forests, and high rates of sedimentation that opened up new mudflats for colonization.",
+        "The pair of Landsat images above shows expansion of mangrove forests in Palaw Township in Burma’s Myeik District—an area that has seen both significant regeneration of degraded mangrove forests and the spread of trees into new areas since 2010. In this region, much of the regeneration appears to be occurring in abandoned rice fields (brown) south of the village of Kyauktaung. People on nearby Pyin Bukyi Island, meanwhile, have experimented with conservation projects and tree planting efforts to support mangroves. Despite the gains, deforestation remains a common challenge in Burma, which lost 28. 6 percent of its mangrove area between the 1980s and 2010.",
+        "Since then, the country’s mangrove area has grown about 10 percent.",
+        "Mangrove trees are relatively small—averaging about 13 meters (43 feet)—but mighty from an ecological perspective, with mangrove ecosystems storing up to four times as much carbon as taller inland tropical forests. The trees play an important role in protecting coastal communities from erosion and storm surges, and their distinctive stilt-like roots provide habitat and vital nursery grounds for fish, shrimp, crabs, and other marine life.",
+        "In several areas, such as around the mouth of the Amazon River and in northern Australia, extensive deposition of sediment has created new mudflats that mangroves have successfully colonized, contributing to steady increases in each of these regions since the 1990s. At the northern and southern edges of their range, including the southeastern U. S. , warming temperatures and fewer freezes have also allowed mangroves to push into areas that were previously too cold, Zhang explained.",
+        "There are some areas, however, where losses have outweighed gains. Substantial mangrove losses in the Niger Delta, for instance, have reduced the total mangrove area in West and Central Africa since 2010. North America and southern Africa, meanwhile, have seen widespread degradation after tropical cyclones devastated broad swaths of mangroves. “The global successes we’ve seen with mangroves during the past decade should not be seen as grounds for complacency,” cautioned Zhang. “This underscores that conservation and slowing deforestation can lead to huge positive impacts when coupled with natural expansion and regeneration.”"
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "nasa-i-am-artemis-katie-spicer",
+      "title": "I Am Artemis Katie Spicer",
+      "dek": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T20:10:02.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history.",
+        "Spicer works in the Flight Operations Directorate at NASA’s Johnson Space Center in Houston, where she evaluates and monitors design and development of Blue Origin’s lander. The design of the Blue Moon lander is rapidly evolving as Blue Origin continues to develop a streamlined lander test article for the agency’s Artemis III rendezvous and docking mission in low Earth orbit as well as a fully functional lander for a crewed lunar landing in 2028.",
+        "Spicer works closely with her NASA and Blue Origin counterparts to ensure the design of the Blue Moon lander can support the overall Artemis mission objectives.",
+        "“I look at the design of everything Artemis crews will touch, work with, or interface with to ensure systems will function the way crews will need them to,” Spicer said. “In some cases, the design might meet requirements, but I delve deeper into details. How easy will it be for crew to grab handles or handrails? Can they operate push-button displays in microgravity? Are the hygiene systems as user-friendly as possible in the limited space that’s available in the spacecraft? And, are there proper procedures and training to ensure the crew can safely and effectively use the systems? Evaluating all these operational details with crew perspective is part of my job.”",
+        "Spicer has spent her career looking at the small details in the big picture.",
+        "After earning a bachelor’s degree in microbiology from the Pennsylvania State University in State College, Spicer spent several years working as a full-time homemaker and raising three children. She got her start at NASA working part-time in the historic Life Sciences Laboratory , performing duties such as washing dishes, cleaning lab equipment, and running tests for scientists.",
+        "“I went from tidying up and keeping my home running to maintaining the historic lab where the Apollo crews were quarantined when they came back from the Moon and the Moon rock samples were stored,” Spicer said.",
+        "From there, Spicer began working with science payloads on the space station. She helped operate the Human Research Facility racks in the International Space Station National Laboratory and worked with scientists and crew to ensure in-flight processes and protocols were completed. It was there that Spicer found a love for the fast-paced dynamic of real-time space operations.",
+        "Spicer became a flight controller at NASA Johnson’s Mission Control Center in 2018. The learning curve to become a flight controller was steep, but it did not deter her. Spicer studied and trained for five years to earn the ultimate instructor and flight controller certifications.",
+        "“Unlike most people I work with, I don’t have an engineering degree,” Spicer said. “On my own, I studied engineering principles. I passed boards and certification tests. I learned to speak ‘engineer! ’”",
+        "Spicer spent five years as an Operations and Support Officer in the space station’s flight control room in Mission Control, also known as the “front room” to spaceflight.",
+        "Now, when she looks at the Moon in the night sky, Spicer says she’s humbled and honored to be part of the team that’s sending astronauts back to the lunar surface.",
+        "“I’m reminded of the great responsibility that NASA has in this endeavor, of the legacy of the courageous Apollo crews who went before, and inspiring the next generation of space explorers to keep going and reaching for the stars!” she said.",
+        "As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions near the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery through its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency’s foundation for the first crewed mission to Mars."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "nasa-news-i-am-artemis-katie-spicer",
+      "title": "I Am Artemis Katie Spicer",
+      "dek": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T20:10:02.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history.",
+        "Spicer works in the Flight Operations Directorate at NASA’s Johnson Space Center in Houston, where she evaluates and monitors design and development of Blue Origin’s lander. The design of the Blue Moon lander is rapidly evolving as Blue Origin continues to develop a streamlined lander test article for the agency’s Artemis III rendezvous and docking mission in low Earth orbit as well as a fully functional lander for a crewed lunar landing in 2028.",
+        "Spicer works closely with her NASA and Blue Origin counterparts to ensure the design of the Blue Moon lander can support the overall Artemis mission objectives.",
+        "“I look at the design of everything Artemis crews will touch, work with, or interface with to ensure systems will function the way crews will need them to,” Spicer said. “In some cases, the design might meet requirements, but I delve deeper into details. How easy will it be for crew to grab handles or handrails? Can they operate push-button displays in microgravity? Are the hygiene systems as user-friendly as possible in the limited space that’s available in the spacecraft? And, are there proper procedures and training to ensure the crew can safely and effectively use the systems? Evaluating all these operational details with crew perspective is part of my job.”",
+        "Spicer has spent her career looking at the small details in the big picture.",
+        "After earning a bachelor’s degree in microbiology from the Pennsylvania State University in State College, Spicer spent several years working as a full-time homemaker and raising three children. She got her start at NASA working part-time in the historic Life Sciences Laboratory , performing duties such as washing dishes, cleaning lab equipment, and running tests for scientists.",
+        "“I went from tidying up and keeping my home running to maintaining the historic lab where the Apollo crews were quarantined when they came back from the Moon and the Moon rock samples were stored,” Spicer said.",
+        "From there, Spicer began working with science payloads on the space station. She helped operate the Human Research Facility racks in the International Space Station National Laboratory and worked with scientists and crew to ensure in-flight processes and protocols were completed. It was there that Spicer found a love for the fast-paced dynamic of real-time space operations.",
+        "Spicer became a flight controller at NASA Johnson’s Mission Control Center in 2018. The learning curve to become a flight controller was steep, but it did not deter her. Spicer studied and trained for five years to earn the ultimate instructor and flight controller certifications.",
+        "“Unlike most people I work with, I don’t have an engineering degree,” Spicer said. “On my own, I studied engineering principles. I passed boards and certification tests. I learned to speak ‘engineer! ’”",
+        "Spicer spent five years as an Operations and Support Officer in the space station’s flight control room in Mission Control, also known as the “front room” to spaceflight.",
+        "Now, when she looks at the Moon in the night sky, Spicer says she’s humbled and honored to be part of the team that’s sending astronauts back to the lunar surface.",
+        "“I’m reminded of the great responsibility that NASA has in this endeavor, of the legacy of the courageous Apollo crews who went before, and inspiring the next generation of space explorers to keep going and reaching for the stars!” she said.",
+        "As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions near the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery through its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency’s foundation for the first crewed mission to Mars."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "nasa-nasa-ames-stars-of-the-month-november-2026",
+      "title": "NASA Ames Stars of the Month: November 2026",
+      "dek": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T17:54:32.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
+        "Alyssa Villaneuva is an engineer at Blue Marble in the Space Biosciences Division on the LEIA (Lunar Explorer Instrument for space biology Applications) team. Alyssa is recognized for technical excellence, dedication and boundless support to the rest of the team. She goes above and beyond in contributing to LEIA every day and has been essential in all the test efforts, in particular with preparation and execution of engineering validation testing.",
+        "Steve Howell is recognized for his leadership of scientific teams for numerous international space missions. His pioneering work in astronomical instrumentation have significantly advanced both space- and ground-based telescope imaging. In kind, the Astronomical society has recently recognized Steve’s lifetime of major contributions to the field with the prestigious Catherine Wolfe Bruce Gold Medal from the Astronomical Society of the Pacific.",
+        "Samuel LeBlanc is a research scientist for the Bay Area Environmental Research Institute in the Earth Science Division. Sam is recognized for exceptional technical leadership and innovative thinking in advancing Ames’ flight planning capabilities for NASA airborne science missions. Sam’s contributions have placed Ames at the forefront of airborne science flight planning within and outside the Agency, enabling successful and cost-effective missions that maximize scientific returns."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "nasa-news-nasa-ames-stars-of-the-month-november-2026",
+      "title": "NASA Ames Stars of the Month: November 2026",
+      "dek": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-12T17:54:32.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
+        "Alyssa Villaneuva is an engineer at Blue Marble in the Space Biosciences Division on the LEIA (Lunar Explorer Instrument for space biology Applications) team. Alyssa is recognized for technical excellence, dedication and boundless support to the rest of the team. She goes above and beyond in contributing to LEIA every day and has been essential in all the test efforts, in particular with preparation and execution of engineering validation testing.",
+        "Steve Howell is recognized for his leadership of scientific teams for numerous international space missions. His pioneering work in astronomical instrumentation have significantly advanced both space- and ground-based telescope imaging. In kind, the Astronomical society has recently recognized Steve’s lifetime of major contributions to the field with the prestigious Catherine Wolfe Bruce Gold Medal from the Astronomical Society of the Pacific.",
+        "Samuel LeBlanc is a research scientist for the Bay Area Environmental Research Institute in the Earth Science Division. Sam is recognized for exceptional technical leadership and innovative thinking in advancing Ames’ flight planning capabilities for NASA airborne science missions. Sam’s contributions have placed Ames at the forefront of airborne science flight planning within and outside the Agency, enabling successful and cost-effective missions that maximize scientific returns."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "nasa-nasas-hubble-offers-cosmic-sampler-of-targets-for-roman",
+      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "dek": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:18:40.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the new Nancy Grace Roman Space Telescope.",
+        "Gravitational lensing, first predicted by Albert Einstein, occurs when the gravity of a massive foreground object, such as a galaxy or cluster of galaxies, bends, warps, and magnifies the light from a more distant background object. The effect is similar to that of a giant lens in space that allows astronomers to view objects much farther away than any telescope could see on its own.",
+        "The lenses in this image formed from the precise alignment of a distant background galaxy with the mass of a foreground galaxy, creating distorted and magnified images of the background galaxy that appear as arcs around the foreground galaxy.",
+        "Astronomers will use these observations of a large and varied population of gravitational lenses to construct lens models that will help determine how much mass is in the lensing system’s foreground galaxy – and potentially prove or dispel a theory about dark matter. Astronomers study the amount of distortion of the lensed background galaxies to determine the quantity and distribution of mass in the foreground galaxy, including its invisible dark matter.",
+        "Hubble views the cosmos primarily in visible and ultraviolet light with some infrared coverage, providing a comprehensive, high-resolution view of individual objects. Roman sees primarily infrared light and some visible, over a much larger field of view to create panoramas of the universe. While Hubble gets a better view of individual lenses, Roman will be able to capture more lenses with its wider field-of-view. If Roman finds a particularly interesting lens, researchers may use Hubble to take follow-up observations using its visible and UV prowess for individual objects.",
+        "With Hubble’s high-resolution imaging and precise models, researchers should also be able to detect small imperfections in these gravitationally lensed galaxy arcs that would indicate the presence of small clumps of dark matter. Researchers could use these previously undetected clumps to confirm the cold dark matter theory, which predicts the existence of many small dark matter clumps of between a million to a billion solar masses. In contrast, the dark matter halo of our Milky Way galaxy is around 1. 3 trillion solar masses.",
+        "By studying Hubble lens images in detail, researchers intend to build a super-intelligence tool to efficiently search similar arcs in the upcoming Roman images. The Hubble images are expected to both yield their own results on dark matter and pave the way for analysis of Roman’s larger sample of lenses.",
+        "The unique lenses in this image display some of the different characteristics researchers will see as they collect a diverse and numerous assortment of lenses to test in their models. Panel A is an example of an arc-counterarc configuration, in which the lensed background galaxy appears as a duplicated pair of arcs. The lensed galaxy is being magnified by a pair of foreground galaxies whose combined mass bends the light of the background galaxy around them.",
+        "Panel F is an Einstein Ring, in which the alignment of the background galaxy and approximately spherical mass of the foreground lens are so perfectly situated that the lensed galaxy almost fully encircles the foreground galaxy. Panel I shows a quadruply lensed galaxy, in which the background galaxy is replicated four times, appearing as smeared dots around the foreground galaxy. Panel C also shows a quadruply lensed galaxy, with double knots that are most likely strong star-forming regions in the background galaxy.",
+        "Some of the magnified and warped background galaxies appear blue and some appear red. These bluish arcs indicate young stars, while reddish arcs indicate older stars. Roman and Hubble will explore these differences to better understand how galaxies evolved earlier in the universe.",
+        "Most of the foreground lensing galaxies are elliptical galaxies, which are older, denser, and more compact. Lensed images of background galaxies only occur when the mass density of the foreground galaxy reaches a critical point."
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "nasa-news-nasas-hubble-offers-cosmic-sampler-of-targets-for-roman",
+      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "dek": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:18:40.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the new Nancy Grace Roman Space Telescope.",
+        "Gravitational lensing, first predicted by Albert Einstein, occurs when the gravity of a massive foreground object, such as a galaxy or cluster of galaxies, bends, warps, and magnifies the light from a more distant background object. The effect is similar to that of a giant lens in space that allows astronomers to view objects much farther away than any telescope could see on its own.",
+        "The lenses in this image formed from the precise alignment of a distant background galaxy with the mass of a foreground galaxy, creating distorted and magnified images of the background galaxy that appear as arcs around the foreground galaxy.",
+        "Astronomers will use these observations of a large and varied population of gravitational lenses to construct lens models that will help determine how much mass is in the lensing system’s foreground galaxy – and potentially prove or dispel a theory about dark matter. Astronomers study the amount of distortion of the lensed background galaxies to determine the quantity and distribution of mass in the foreground galaxy, including its invisible dark matter.",
+        "Hubble views the cosmos primarily in visible and ultraviolet light with some infrared coverage, providing a comprehensive, high-resolution view of individual objects. Roman sees primarily infrared light and some visible, over a much larger field of view to create panoramas of the universe. While Hubble gets a better view of individual lenses, Roman will be able to capture more lenses with its wider field-of-view. If Roman finds a particularly interesting lens, researchers may use Hubble to take follow-up observations using its visible and UV prowess for individual objects.",
+        "With Hubble’s high-resolution imaging and precise models, researchers should also be able to detect small imperfections in these gravitationally lensed galaxy arcs that would indicate the presence of small clumps of dark matter. Researchers could use these previously undetected clumps to confirm the cold dark matter theory, which predicts the existence of many small dark matter clumps of between a million to a billion solar masses. In contrast, the dark matter halo of our Milky Way galaxy is around 1. 3 trillion solar masses.",
+        "By studying Hubble lens images in detail, researchers intend to build a super-intelligence tool to efficiently search similar arcs in the upcoming Roman images. The Hubble images are expected to both yield their own results on dark matter and pave the way for analysis of Roman’s larger sample of lenses.",
+        "The unique lenses in this image display some of the different characteristics researchers will see as they collect a diverse and numerous assortment of lenses to test in their models. Panel A is an example of an arc-counterarc configuration, in which the lensed background galaxy appears as a duplicated pair of arcs. The lensed galaxy is being magnified by a pair of foreground galaxies whose combined mass bends the light of the background galaxy around them.",
+        "Panel F is an Einstein Ring, in which the alignment of the background galaxy and approximately spherical mass of the foreground lens are so perfectly situated that the lensed galaxy almost fully encircles the foreground galaxy. Panel I shows a quadruply lensed galaxy, in which the background galaxy is replicated four times, appearing as smeared dots around the foreground galaxy. Panel C also shows a quadruply lensed galaxy, with double knots that are most likely strong star-forming regions in the background galaxy.",
+        "Some of the magnified and warped background galaxies appear blue and some appear red. These bluish arcs indicate young stars, while reddish arcs indicate older stars. Roman and Hubble will explore these differences to better understand how galaxies evolved earlier in the universe.",
+        "Most of the foreground lensing galaxies are elliptical galaxies, which are older, denser, and more compact. Lensed images of background galaxies only occur when the mass density of the foreground galaxy reaches a critical point."
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "nasa-through-nasas-lens-capturing-space-shuttle-endeavours-move",
+      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+      "dek": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:00:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time.",
+        "Endeavour’s new home at the California Science Center in Los Angeles will reopen the weekend of Nov. 13, displayed upright in launch position, ready to inspire the next generation of space explorers.",
+        "“Chasing Endeavour’s final ferry flight over Southern California was, without a doubt, a leading highlight of my 37-year career at NASA,” said Lori Losey, lead videographer at NASA’s Armstrong Flight Research Center in Edwards, California. “I advocated for two chase aircraft to be used in the LA area so we could dedicate one aircraft to photo and one to video. It was this beautiful dance of alternating altitudes and swapping positions between landmarks to maximize both of us capturing the legendary imagery.”",
+        "Two photographers and one videographer, all based at NASA Armstrong, had a leading hand in preparing the Endeavour’s flight to Los Angeles, and in deciding where else the aircraft would fly around California on its final journey. Agency pilots planned the route to fly across some of California’s most iconic landmarks and the imagery team strategized about how to best capture the images.",
+        "“The most fun thing about this project was seeing the excitement of the people on the ground as we flew over the different landmarks,” said Jim Ross, NASA Armstrong’s lead photographer. “People in the Los Angeles area really came out and supported the Endeavour flyover. We saw so many supporters at Griffith Park and Disneyland.”",
+        "Photographer Carla Thomas said seeing the standing-room-only crowd below the California State Capitol in Sacramento filled her with pride. After joining the agency in the wake of the Challenger tragedy, she reflected on the opportunity to document NASA’s return to flight.",
+        "Endeavour was escorted by NASA Armstrong’s F/A-18s and an F-15, which carried the photo and video teams in the back seats. Like many flight efforts, this journey took a significant amount of preplanning with the California Science Center, as well as groups like the Federal Aviation Administration, the Los Angeles International Airport, and NASA’s Johnson Space Center in Houston.",
+        "“The planning was my favorite part of this effort — it was fun and exciting to plan the shots,” Thomas said. “I flew the entire route with the LAPD (Los Angeles Police Department) in one of their helicopters. We had to make sure this was going to work and find any obstacles. Planning for the Hollywood sign was challenging, because it’s on the side of a hill with power lines and radio antennas, but we worked through these issues in the planning process.”",
+        "The space shuttle’s flight path included other California landmarks: Dodger Stadium, the Getty Center, the Los Angeles Memorial Coliseum, NASA’s Ames Research Center in Silicon Valley, the Golden Gate Bridge, NASA’s Jet Propulsion Laboratory in Pasadena, and the Santa Monica Pier.",
+        "Endeavour helped begin assembly of the International Space Station by delivering its first components to orbit and went on to complete 25 missions. The space shuttle will soon be seen, along with some of the images from the final flight, in its permanent home inside the new Samuel Oschin Air and Space Center at the California Science Center in Downtown Los Angeles.",
+        "Space Shuttle Endeavour To Make Historic Final Ferry Flight"
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "nasa-news-through-nasas-lens-capturing-space-shuttle-endeavours-move",
+      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+      "dek": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:00:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time.",
+        "Endeavour’s new home at the California Science Center in Los Angeles will reopen the weekend of Nov. 13, displayed upright in launch position, ready to inspire the next generation of space explorers.",
+        "“Chasing Endeavour’s final ferry flight over Southern California was, without a doubt, a leading highlight of my 37-year career at NASA,” said Lori Losey, lead videographer at NASA’s Armstrong Flight Research Center in Edwards, California. “I advocated for two chase aircraft to be used in the LA area so we could dedicate one aircraft to photo and one to video. It was this beautiful dance of alternating altitudes and swapping positions between landmarks to maximize both of us capturing the legendary imagery.”",
+        "Two photographers and one videographer, all based at NASA Armstrong, had a leading hand in preparing the Endeavour’s flight to Los Angeles, and in deciding where else the aircraft would fly around California on its final journey. Agency pilots planned the route to fly across some of California’s most iconic landmarks and the imagery team strategized about how to best capture the images.",
+        "“The most fun thing about this project was seeing the excitement of the people on the ground as we flew over the different landmarks,” said Jim Ross, NASA Armstrong’s lead photographer. “People in the Los Angeles area really came out and supported the Endeavour flyover. We saw so many supporters at Griffith Park and Disneyland.”",
+        "Photographer Carla Thomas said seeing the standing-room-only crowd below the California State Capitol in Sacramento filled her with pride. After joining the agency in the wake of the Challenger tragedy, she reflected on the opportunity to document NASA’s return to flight.",
+        "Endeavour was escorted by NASA Armstrong’s F/A-18s and an F-15, which carried the photo and video teams in the back seats. Like many flight efforts, this journey took a significant amount of preplanning with the California Science Center, as well as groups like the Federal Aviation Administration, the Los Angeles International Airport, and NASA’s Johnson Space Center in Houston.",
+        "“The planning was my favorite part of this effort — it was fun and exciting to plan the shots,” Thomas said. “I flew the entire route with the LAPD (Los Angeles Police Department) in one of their helicopters. We had to make sure this was going to work and find any obstacles. Planning for the Hollywood sign was challenging, because it’s on the side of a hill with power lines and radio antennas, but we worked through these issues in the planning process.”",
+        "The space shuttle’s flight path included other California landmarks: Dodger Stadium, the Getty Center, the Los Angeles Memorial Coliseum, NASA’s Ames Research Center in Silicon Valley, the Golden Gate Bridge, NASA’s Jet Propulsion Laboratory in Pasadena, and the Santa Monica Pier.",
+        "Endeavour helped begin assembly of the International Space Station by delivering its first components to orbit and went on to complete 25 missions. The space shuttle will soon be seen, along with some of the images from the final flight, in its permanent home inside the new Samuel Oschin Air and Space Center at the California Science Center in Downtown Los Angeles.",
+        "Space Shuttle Endeavour To Make Historic Final Ferry Flight"
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
