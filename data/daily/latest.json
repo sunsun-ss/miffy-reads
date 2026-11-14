@@ -1,301 +1,495 @@
 {
-  "generatedAt": "2026-11-13T23:18:01.844Z",
-  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T22:01:25.264Z",
+  "date": "2026-11-15",
   "failedSources": [],
   "articles": [
     {
-      "id": "phys-same-farms-different-answers-when-nitrogen-pollution-estim",
-      "title": "Same farms, different answers: When nitrogen pollution estimates don't add up",
-      "dek": "To reduce nitrogen pollution stemming from synthetic fertilizer and livestock waste, California's Central Valley relies on five data sets to estimate surplus nitrogen. ",
-      "category": "环境",
+      "id": "phys-urban-expansion-causes-ecological-collapse-in-streams-in-t",
+      "title": "Urban expansion causes ecological collapse in streams in the São Paulo Metropolitan Area",
+      "dek": "The advance of urbanization in the São Paulo Metropolitan Area in Brazil is causing the collapse of food webs in local streams. ",
+      "category": "社会",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-14",
-      "publishedAt": "2026-11-13T23:00:07.000Z",
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-14T22:00:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-farms-nitrogen-pollution-dont.html"
+        "url": "https://phys.org/news/2026-11-urban-expansion-ecological-collapse-streams.html"
       },
-      "cover": "leaf",
-      "accent": "green",
+      "cover": "books",
+      "accent": "blue",
       "paragraphs": [
-        "To reduce nitrogen pollution stemming from synthetic fertilizer and livestock waste, California's Central Valley relies on five data sets to estimate surplus nitrogen. However, most parts of the United States use just one or two data sets—the U. S. Department of Agriculture's agricultural survey and census—to estimate nitrogen surplus.",
-        "Using the Central Valley as a \"living laboratory,\" a University of California, Davis, research team coordinated by postdoctoral researcher Baibaswata Bhaduri compared these five different data sets and found that each produced significantly different results. The range of uncertainty was so wide it could reshape which crops and regions receive priority for groundwater protections.",
-        "Their study, published in the journal Nature Sustainability , offers ranges for surplus nitrogen in everything from tomatoes and nectarines to corn and grapes. Growers worldwide can look to these estimates for guidance in the absence of local data.",
-        "\"Our paper confirms the approach that California nitrogen policy is pursuing,\" said corresponding author Thomas Harter, a Cooperative Extension specialist and professor in the UC Davis Land, Air and Water Resources department. His research in 2012 called attention to the problem of nitrogen groundwater pollution and helped set the stage for California's nitrogen management strategies.",
-        "\"We're saying, be cautious,\" said Harter. \"Inevitably, between the various existing data sets, there can be large differences with respect to surplus that could rearrange the shape of your map and where you want to prioritize your conservation efforts. We must take into account the uncertainty in current data about fertilizer use and harvest. Improving data accuracy by engaging with farmers is critical.\"",
-        "In addition to USDA's survey and census data, the study compared the following data sets from the Central Valley: grower-reported records on the total nitrogen applied and crop yields, now annually reported by each farm under California's recent nitrogen tracking policy; UC Davis Cost and Return Studies, which provide expert estimates of crop-specific fertilizer rates and yields; and the California Department of Food and Agriculture's annual crop-specific acreage and harvest records, which county agencies have collected and reported each year since the early 1900s.",
-        "The same farm or crop could appear to need less mitigation under one data set and more under another, the report said.",
-        "\"The Central Valley is not a rare place with a rare problem,\" the authors wrote in the study. \"It is one of the few places with enough data to see a problem that single-data-set assessments carry everywhere, unseen.\"",
-        "\"Disagreement between data sets is not just a limitation; it reveals where our knowledge is weakest,\" said Bhaduri. \"Understanding those differences is essential to improving nitrogen assessments and ensuring that groundwater protection decisions are scientifically defensible and fair to the farmers and communities affected.\"",
-        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
-        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
-        "Five data sets produced significantly different estimates of surplus nitrogen for California’s Central Valley, altering crop and regional rankings for groundwater protection. Accounting for data uncertainty and improving fertilizer-use and harvest records are essential for reliable nitrogen assessments.",
-        "Please select the most appropriate category to facilitate processing of your request",
-        "Thank you for taking time to provide your feedback to the editors."
+        "The advance of urbanization in the São Paulo Metropolitan Area in Brazil is causing the collapse of food webs in local streams. A study published in August in the journal Nature Cities reveals that the impact of the metropolis goes far beyond a simple reduction in species. Degradation selectively eliminates organisms based on their size and simplifies ecological interactions. Networks of 190 connections plummet to just three.",
+        "With the flow of energy in these ecosystems reduced by more than a thousandfold, the streams lose their ability to perform critical environmental services, such as breaking down and neutralizing toxic pollutants. This directly affects the quality of the water that supplies the region's more than 22 million residents.",
+        "Victor Saito, a professor in the Department of Environmental Sciences at the Federal University of São Carlos (UFSCar), and Luis Schiesari, a professor of environmental management at the University of São Paulo (USP), led the research. Both are affiliated with the Center for Research on Biodiversity Dynamics and Climate Change (CBioClima), a Research, Innovation, and Dissemination Center (RIDC).",
+        "The study focused on analyzing the size structure of organisms that make up stream communities. The findings showed that the loss of biodiversity was not random; urban environments favored only small organisms, eliminating the very small, medium-sized and large ones. Since body size determines an animal's required resources and its predators and prey, this selective extinction disrupts the entire ecosystem.",
+        "To conduct the analysis, the researchers carried out comparative sampling in headwater streams—the small waterways that feed into larger rivers—distributed across micro-watersheds in the Upper Tietê region. Thirty micro-watersheds were selected to represent all stages of urbanization, from areas entirely covered by Atlantic Forest to areas entirely urbanized.",
+        "The researchers collected fish and invertebrates to reconstruct the food webs at each site, taking into account the body sizes and feeding preferences of the sampled animals. Based on this reconstruction, they estimated the energy flowing through the ecosystem using the predation relationships between predators and their prey.",
+        "\"What we observed was the near-complete loss of biodiversity and the collapse of stream ecosystems even in the earliest stages of human occupation of the microbasin. The complexity of the food webs plummeted from 190 estimated interactions in fully forested microbasins to just three in fully urbanized areas,\" says Schiesari. According to the researcher, this collapse is evident even in microbasins with only 12. 5% urban coverage and significant forest cover, meaning degradation occurs right from the earliest stages of urbanization rather than gradually.",
+        "This simplification has consequences for ecosystem functioning since food webs represent pathways through which energy and carbon flow between organisms. Complex food webs slow the flow of matter in streams, promoting slow processing, which leads to the breakdown of toxic pollutants.",
+        "\"In streams with simple food webs, matter flows faster and is deposited, after incomplete processing, in the lowest points of the terrain. But it's in those low-lying areas that the reservoirs used for public supply are located, such as the Billings Reservoir, which receives water from several microbasins sampled in the study,\" the researchers emphasize.",
+        "\"We can imagine a food web as a mesh: the more threads and connections it has, the more complex the possibilities of energy transfer. Urbanization removes these threads until only a small, simplified and potentially fragile network remains,\" Saito explained in an interview with the UFSCar news portal.",
+        "With fewer connections, less energy circulates. The researchers estimated a 1,446-fold reduction in energy flow among communities in streams most affected by urbanization compared to those in forested areas. The results indicate that urbanization does not merely mean a reduction in species; it can profoundly alter the way the ecosystem functions.",
+        "\"Each stream within a watershed contributes to the formation of major rivers and reservoirs that supply public water systems. When a stream stops processing organic matter and pollutants, those substances flow freely into larger systems, damaging the public use we depend on,\" Saito emphasized.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
       ],
       "external": true,
       "order": 0
     },
     {
-      "id": "phys-hidden-master-switch-allows-bacteria-to-breach-the-bodys-d",
-      "title": "Hidden 'master switch' allows bacteria to breach the body's defenses",
-      "dek": "Researchers at Penn Dental Medicine have uncovered a previously unknown molecular mechanism by which bacteria rapidly compromise the body's protective barriers, a finding…",
-      "category": "科学",
+      "id": "scitechdaily-powerful-new-weight-loss-drug-could-change-how-millions-tr",
+      "title": "Powerful New Weight-Loss Drug Could Change How Millions Treat Painful Knee Arthritis",
+      "dek": "An experimental weight-loss injection may offer more than a way to shed pounds, with clinical trials suggesting it could also ease the burden of painful knee arthritis.",
+      "category": "健康",
       "tags": [
-        "Phys.org"
+        "SciTechDaily"
       ],
-      "date": "2026-11-14",
-      "publishedAt": "2026-11-13T22:40:01.000Z",
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-14T21:22:01.000Z",
       "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-hidden-master-bacteria-breach-body.html"
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/powerful-new-weight-loss-drug-could-change-how-millions-treat-painful-knee-arthritis/"
       },
-      "cover": "orbit",
-      "accent": "lilac",
+      "cover": "flower",
+      "accent": "pink",
       "paragraphs": [
-        "Researchers at Penn Dental Medicine have uncovered a previously unknown molecular mechanism by which bacteria rapidly compromise the body's protective barriers, a finding that could reshape how scientists approach a wide range of serious diseases.",
-        "The findings, reported by a team of researchers led by Dana T. Graves, professor of periodontics and vice dean for scholarship and research at Penn Dental Medicine, are published in Nature Communications . The discovery could lead to new treatments for heart disease, diabetes and arthritis.",
-        "The mouth, gastrointestinal tract and lungs are lined by thin sheets of cells that serve as the body's first line of defense against trillions of bacteria living in and around us by forming a physical barrier. When the barriers fail or become leaky, bacteria can slip into the bloodstream and contribute to serious systemic conditions such as heart disease, diabetes, rheumatoid arthritis, dementia and cancer.",
-        "For decades, scientists believed they understood how bacteria broke down these barriers, either by deploying enzymes that chewed through the cellular glue or by silencing the genes that produced the glue. This new research provides a novel way that the barrier may be disrupted and may provide new therapeutic opportunities.",
-        "The three-year study, in partnership with an interdisciplinary team that included researchers from Penn Dental Medicine and Georgetown University's Department of Biochemistry and Molecular & Cellular Biology, found a third faster pathway that doesn't destroy the glue that keeps the barrier in place, but instead moves the molecules that are critical to the barrier, creating leakiness.",
-        "What the research team found was striking: within just a few hours of bacterial exposure, the barrier proteins—E-cadherin and β-catenin—didn't disappear. Instead, they relocated from the cell's outer walls to its interior, abandoning their posts and weakening the links between cells.",
-        "\"What is particularly exciting,\" Graves said, \"is that bacteria do not need to destroy the machinery that holds the cells together. They can essentially move them to another location to cause leakiness, revealing an entirely new mechanism by which bacteria can breach this critical defence.\"",
-        "Graves has been studying a critical factor, a protein called FOXO1, in this process for many years. FOXO1 plays a key role in impaired diabetic wound healing and in other functions.",
-        "The team found that FOXO1, long known as a stress-sensing transcription factor, will travel into the cell's nucleus when triggered by bacteria. This initiates a series of events that cause E-cadherin and β-catenin to be moved out of the cell membrane and as a result, unable to help form the cell barrier.",
-        "This sequence of events discovered by the scientists is considered \"non-canonical,\" or operating outside of the rulebook science had previously written.",
-        "\"One of the most surprising results was that the ability to maintain a barrier can be lost very quickly after cells encounter bacteria,\" Graves said.",
-        "The key sequence of events was confirmed in animals exposed to oral bacteria. The results mirrored the lab data precisely. The loss of this critical barrier is a big problem.",
-        "\"The oral cavity is a gateway,\" Graves said. \"When the barrier breaks down, it provides an opportunity for bacteria to enter the blood stream. Bacteria entering the blood stream from the mouth have been shown to be an important component of rheumatoid arthritis flare-ups , and have even been linked to higher blood glucose levels in diabetes, worsened dementia and cardiovascular disease. Thus, the downstream consequences throughout the body can be dramatic.\"",
-        "By knowing how the body's most fundamental defenses fail, scientists have a roadmap for developing new therapeutic ways to prevent or treat systemic diseases, Graves said."
+        "An experimental weight-loss injection may offer more than a way to shed pounds, with clinical trials suggesting it could also ease the burden of painful knee arthritis.",
+        "Losing weight can help relieve knee osteoarthritis, yet the condition often makes weight loss difficult in the first place. When walking, climbing stairs, or simply standing up from a chair causes pain, getting enough exercise can become a challenge.",
+        "For the roughly 15 million Americans living with painful knee osteoarthritis, treatment options remain limited. Physical therapy, topical medications, anti-inflammatory drugs such as ibuprofen and Voltaren, opioids, and corticosteroid injections can help manage symptoms, although steroid injections typically provide only short-term relief.",
+        "Previous research has shown that losing just 5% to 10% of body weight through diet and exercise can improve symptoms. Losing more than 10%, however, is difficult through lifestyle changes alone, particularly for people whose knees already limit their movement.",
+        "An experimental weight-loss injection called retatrutide may offer another way to address this problem. In two large clinical trials led by Northwestern University, participants who were overweight or had obesity experienced substantial weight loss alongside significant reductions in knee pain.",
+        "The phase 3 trials, published in the New England Journal of Medicine , involved more than 1,000 participants combined. Those receiving the highest dose of retatrutide lost approximately 25% of their body weight on average. A pooled analysis found that about two-thirds of participants receiving the drug reported at least a 50% reduction in knee pain, compared with 38% of those given a placebo.",
+        "Researchers tracked these changes using the Western Ontario and McMaster Universities Arthritis Index (WOMAC), which asks patients to rate their pain from 0 to 10. Participants also recorded their daily pain levels through an app.",
+        "“The findings are really saying for people who are overweight and have OA, if you lose a significant amount of weight with this treatment, there is a good chance that you’re going to get a meaningful reduction in your knee pain,” said corresponding author Dr. Thomas Schnitzer, a professor of physical medicine and rehabilitation, anesthesiology and medicine (rheumatology) at Northwestern University Feinberg School of Medicine. “A major factor is that you’re loading your knees less and therefore, there’s less pain and it allows you to increase your function.”",
+        "Developed by Eli Lilly, retatrutide is a once-weekly injection that activates receptors for three naturally occurring hormones involved in metabolism. Existing weight-loss medications such as semaglutide and tirzepatide target one or two receptors and typically produce weight reductions of 10% to 20%. Retatrutide produced losses of approximately 20% to 25% in these trials.",
+        "“Participants had remarkable responses,” Schnitzer said. “Many of the people in this study lost considerable amounts of weight, with a few losing up to a hundred pounds or more.”",
+        "The improvements also extended beyond body weight and joint pain. Participants experienced lower blood pressure, reduced blood lipid levels, and less systemic inflammation, suggesting broader metabolic benefits.",
+        "Scientists from Eli Lilly were among the study’s co-authors. Philip Conaghan, professor of musculoskeletal medicine at the University of Leeds in the United Kingdom, presented results from the TRIUMPH-4 trial at the American College of Rheumatology annual meeting in Orlando, Florida. Findings from the second trial, TRIUMPH-1-OA, were presented separately during a poster session.",
+        "Despite the promising results, retatrutide remains experimental and would require approval from the U. S. Food and Drug Administration before becoming a treatment option. Schnitzer emphasized that diet, exercise, and lifestyle changes should remain the first approach because they are less expensive and avoid potential side effects associated with GLP-1 medications, including gastrointestinal problems and muscle loss. Preserving muscle is especially important for patients with knee osteoarthritis because it helps stabilize the joint.",
+        "The trials also left a crucial question unanswered. Although retatrutide significantly reduced pain, researchers do not yet know whether it slows the underlying progression of osteoarthritis or could help patients avoid knee replacement surgery. People who already needed knee replacements were excluded from the studies."
       ],
       "external": true,
       "order": 1
     },
     {
-      "id": "phys-planimal-cells-retain-nearly-entire-algal-genome-after-exp",
-      "title": "'Planimal' cells retain nearly entire algal genome after experimental cell fusion",
-      "dek": "Most DNA in an organism is inherited from its parent or parents. ",
+      "id": "phys-a-dead-star-is-flashing-radio-waves-every-8-minutes-and-it",
+      "title": "A dead star is flashing radio waves every 8 minutes, and its partner looks a lot like the sun",
+      "dek": "Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients. ",
       "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-14",
-      "publishedAt": "2026-11-13T22:20:01.000Z",
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-14T21:00:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-planimal-cells-retain-entire-algal.html"
+        "url": "https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html"
       },
-      "cover": "bulb",
-      "accent": "yellow",
+      "cover": "orbit",
+      "accent": "lilac",
       "paragraphs": [
-        "Most DNA in an organism is inherited from its parent or parents. This form of genetic inheritance is referred to as vertical inheritance because genes are passed down from generation to generation.",
-        "In contrast, organisms can acquire DNA from organisms of the same species or other species outside of asexual or sexual reproduction through a process called horizontal gene transfer. For example, bacteria can take up free-floating DNA from dead bacteria in the environment. Bacteria can also form a tube between cells to exchange DNA. These mechanisms can spread antibiotic resistance genes among bacteria.",
-        "Eukaryotic organisms (whose cells contain nuclei) can also acquire genetic material through horizontal gene transfer by taking up DNA from the environment and through viral infection, but genome-scale transfers between distantly related eukaryotes are rarely documented.",
-        "More than 1. 5 billion years ago, an ancestral eukaryotic cell engulfed a cyanobacterium, a type of photosynthetic bacterium, which eventually evolved into the chloroplasts (cell structures where photosynthesis occurs to produce energy from sunlight) found in present-day algae and plants.",
-        "During this evolutionary process, many genes from the engulfed cyanobacterium were transferred to the host cell's nuclear genome, allowing the two organisms to become an integrated biological system. This ancient event gave rise to the ancestors of modern red algae, green algae and land plants, demonstrating how the transfer of genetic material across species boundaries can lead to the evolution of entirely new cellular functions.",
-        "Despite our current understanding of how horizontal gene transfer occurs between prokaryotic organisms (which are single-celled and lack a nucleus), scientists have had little direct evidence of what happens when chromosome-scale foreign DNA enters a eukaryotic host cell. To address this knowledge gap, a research team led by scientists from the University of Tokyo recently designed a series of experiments to create \"planimal\" cells—mammalian cells containing algal DNA—to better characterize horizontal gene transfer in mammalian cells. The results are published in the journal Nature Communications .",
-        "\"We wanted to understand whether entire chromosomes could cross the enormous evolutionary divide between algae and animals and whether animal cells could stably maintain and pass on such foreign genetic material to their daughter cells,\" said Sachihiro Matsunaga, a professor from the Laboratory of Integrated Biology at the University of Tokyo and senior author of the research study.",
-        "\"We also wanted to discover how animal cells accommodate DNA from such a different organism without losing their ability to survive and divide. These questions are fundamental to understanding how genetic material can move across species boundaries and contribute to evolution.\"",
-        "Inspired by the ancient event more than an eon and a half ago, the research team investigated genome transfer by fusing photosynthetic algal cells with hamster-derived mammalian cells or allowing the mammalian cells to engulf the algae. They found that cell fusion produced stable hybrid cells much more efficiently than engulfment. The team used live-cell imaging and genome sequencing to characterize how the host manipulated algal DNA over a number of generations.",
-        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
-        "In one hamster-derived cell line, approximately 16. 3 million base pairs of algal nuclear DNA—including intact chromosomes and sequences from all 20 algal chromosomes—were retained. Algal DNA remained detectable through 155 cell generations, with substantial portions persisting for 95 generations without antibiotic selection (a technique used to isolate genetically modified cells and generate stable cell lines).",
-        "\"Plants and animals cannot reproduce with each other, so their chromosomes are never combined through mating. Yet, we have succeeded in creating hybrid chromosomes containing genetic material from both an alga and a mammal, and have shown that this genetic material can be stably passed on to daughter cells through repeated cell divisions,\" said Matsunaga. \"Remarkably, our planimal cells retained nearly an entire algal genome over many generations. This demonstrates that even the vast evolutionary divide between plants and animals can be crossed at the level of chromosomes, without reproduction.\""
+        "Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients. These are objects that emit bright flashes of radio waves into space every few minutes to every few hours. Some have been traced back to binary systems consisting of a small, dim, cool star called a red dwarf in orbit with a stellar remnant called a white dwarf.",
+        "In new research published in Nature Astronomy , we report the first discovery of a different source for one of these enigmatic intermittent broadcasters: It still involves a white dwarf, but also a star much like our own sun.",
+        "After the discovery of the first long-period radio transient in 2022, once we had ruled out aliens, we went looking for natural explanations.",
+        "One idea was that they were extremely slow-spinning neutron star pulsars , the collapsed cores of enormous stars that also send out repeating radio flashes. But in theory, a neutron star spinning that slowly shouldn't produce radio waves, so the answer had to be something else.",
+        "When we started tracing these radio signals back to their sources, we made a breakthrough. One of our repeating signals came from a red dwarf star, probably orbiting a white dwarf (the remnant of a star like our sun).",
+        "Across the handful of long-period transients whose source stars we can identify, a pattern has emerged: a binary system of a white dwarf and a small, cool red dwarf.",
+        "In late 2024, we were looking for new long-period transients using the Murchison Widefield Array radio telescope in Western Australia.",
+        "Using a search method developed by doctoral student Csanád Horváth, we spotted something: short flashes of radio waves, arriving like clockwork every 7. 9 minutes.",
+        "Then the flashes stopped. For weeks we saw nothing, and we nearly gave up. But when we plotted every detection and nondetection together, a pattern emerged.",
+        "The pulses only appear during a window of about six hours, followed by 26 hours without pulses. The most natural explanation is that the system is a binary: two stars orbiting each other once every 32 hours, with the radio pulses only visible when they are lined up in the right way.",
+        "The MeerKAT telescope in South Africa pinpointed the source to a tiny patch of sky containing a single faint star. We turned to the Keck telescope in Hawaii to record the star's spectrum—the \"fingerprint\" of its light, which can tell us a lot about the star itself.",
+        "The result was a surprise: This was not a tiny red dwarf, but a G-type star almost the same mass and temperature as our own sun.",
+        "How can we be sure our source isn't a neutron star after all?",
+        "The clue is in the timing. As the pulsing object swings around its orbit, the pulses arrive up to 4 seconds earlier or later than expected, because the radio waves have farther to travel at some points than others. That tells us how large the orbit is."
       ],
       "external": true,
       "order": 2
     },
     {
-      "id": "phys-modified-450-3d-printer-builds-living-materials-with-more-",
-      "title": "Modified $450 3D printer builds living materials with more than 100 layers",
-      "dek": "Living materials created with a 3D printer are like living tissues with one notable exception: You get to choose exactly which cells are in them, as well as their final 3D…",
-      "category": "科学",
+      "id": "phys-does-your-culture-shape-how-you-look-at-art-what-an-eye-tr",
+      "title": "Does your culture shape how you look at art? What an eye‑tracking study in Sudan revealed",
+      "dek": "Today, Old Dongola is an abandoned settlement on the banks of the Nile in northern Sudan. Hundreds of years ago, however, this place looked very different.",
+      "category": "文化",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-14",
-      "publishedAt": "2026-11-13T22:00:01.000Z",
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-14T19:00:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-3d-printer-materials-layers.html"
+        "url": "https://phys.org/news/2026-11-culture-art-eyetracking-sudan-revealed.html"
       },
-      "cover": "bulb",
-      "accent": "yellow",
+      "cover": "cup",
+      "accent": "orange",
       "paragraphs": [
-        "Living materials created with a 3D printer are like living tissues with one notable exception: You get to choose exactly which cells are in them, as well as their final 3D shape. Depending on the type of bacteria included in the print, the material can clean up contaminated water or break down waste materials such as plastic.",
-        "The 3D bioprinters that create these structures, however, can cost upward of $100,000, and the soft shapes they produce can collapse before they set.",
-        "To solve this, a team of researchers led by the University of Rochester 's Anne S. Meyer has developed a low-cost solution using a standard plastic 3D printer.",
-        "\"We aim to create DIY bioprinters using inexpensive, easily obtainable parts, so that they are affordable and easy for other scientists to make in their own labs as well,\" says Meyer, a professor in the Department of Biology.",
-        "In a recent study published in ACS Applied Polymer Materials , Meyer and colleagues from URochester and Cornell University modified a regular plastic 3D printer by removing the plastic filament extruder and replacing it with a syringe pump that squeezes out bio-ink—a specialized formula that mixes living cells with a polymer solution. Once printed, the bio-ink hardens into a gel.",
-        "\"Our syringe can also perform both extrusion and retraction, preventing oozing at the edges of printed structures,\" says Meyer. \"This new setup allows for printing of crisp shapes with well-defined edges.\"",
-        "In the true spirit of DIY, Meyer's lab constructed the customized bioprinter at a cost of $450. All the parts are easily available, adds Meyer, allowing other labs to build their own version of the printer and syringe pump. Instructions are available on the GitHub platform.",
-        "While previous DIY 3D bioprinters were limited to printing structures of less than 20 layers, \"our upgraded printer can create living structures that are significantly taller and more complex than was previously possible, and it can even create hollow cavities within the prints,\" says Meyer, noting that the upgraded DIY printer can print living materials with more than 100 layers.",
-        "\"This opens up possibilities to make structures that have a high surface-to-volume ratio, so that the embedded bacteria can more efficiently receive signals or nutrients from the environment and can excrete any useful products much more rapidly into their surroundings,\" she adds.",
-        "Researchers also developed a support gel called a slurry that the bioprinter prints into, which holds up bio-ink and helps it solidify quickly and at any height.",
-        "Two types of slurry were created: one for easy removal of the print and one for incubation that allows microbes in the bioprints to stay alive in the slurry for four or more weeks. In previous methods, the printed bacteria started to die after about nine days.",
-        "The new slurry could have a significant impact on the research of biofilms—three-dimensional communities of microorganisms, such as bacteria, that adhere to surfaces—that can be both harmful and beneficial to humans.",
-        "For Meyer, the benefit of using different methods of incubation is the possibility \"to create engineered biofilm materials that either have more biofilm characteristics , allowing study of and testing on medically relevant biofilm, or that have stronger mechanical properties, allowing them to be used for applications.\"",
-        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;"
+        "Today, Old Dongola is an abandoned settlement on the banks of the Nile in northern Sudan. Hundreds of years ago, however, this place looked very different.",
+        "During the Middle Ages, Old Dongola was the capital of the Kingdom of Makuria , which adopted Christianity in the sixth century. Nearly 700 years after the fall of the kingdom, many medieval buildings have survived beneath the desert, including the remains of churches and monasteries. Their walls still preserve paintings of archangels or biblical scenes or local rulers and dignitaries.",
+        "There have been several studies of these paintings to learn about the religious life, politics and art of medieval Nubians. But, as a team of psychologists, cognitive scientists, archaeologists and heritage managers from European and Sudanese institutions, we decided to ask a different question: How does the culture we come from influence the way we look at them?",
+        "Researchers have used eye-tracking to investigate cross-cultural differences in the way we perceive things since the early 2000s , but most studies have been in laboratory settings. Our team wanted to explore how culture shapes the way people engage with visual art in its original historical context.",
+        "Our \"research laboratory\" was a medieval monastery at Kom H in Old Dongola. The team (me, Marwa Satti, Mohammed Hassan Siedahmed and Tobiasz Trawinski) invited both Sudanese and Western participants to the site and gave them eye-tracking devices to wear in the form of special glasses. As they observed the medieval paintings, we mapped where their eyes fell, for how long and in which order.",
+        "We found that the two groups differed in the way they directed their attention to particular elements of the paintings. Westerners focused more on human figures, particularly faces and bodies, before turning their attention to attributes like objects or clothing or symbols. Sudanese participants initially focused on attributes, later looking more at faces and the surrounding context, suggesting a broader way of viewing the paintings.",
+        "We believe a study like this may help us develop more culturally adapted approaches to promoting heritage like this.",
+        "When we stand in front of a painting, our natural instinct is to try to understand what's happening in it. As humans, we're sensitive to differences in brightness, color intensity and orientation. These features can guide our eyes .",
+        "But looking is also about who we are. Psychology studies suggest our individual characteristics, experiences, goals and cultural background influence how we explore visual scenes.",
+        "Another cross-cultural eye-tracking study , for example, showed that American participants tended to focus more strongly on a focal object like an airplane in the sky, while Chinese participants often paid greater attention to the context or bigger picture. This may reflect broader cultural tendencies. Individualistic cultures may place more emphasis on individuals while collectivistic cultures may place more emphasis on the wider group.",
+        "Eye-trackers are equipped with small cameras that record gaze patterns. We gave participants eye-tracking glasses connected to a small computer attached to their bodies. Gaze focus is generally associated with directing attention to a particular element, revealing how visual attention is distributed.",
+        "What we know can also shape what we look at. Cultural knowledge can make certain elements of an image more familiar, aesthetically appealing or meaningful, guiding our attention toward them. Religious knowledge, for example, can help us recognize symbols and understand their meaning, potentially influencing which parts of a religious painting we will look at.",
+        "Old Dongola provides a unique setting in which to explore these influences. The site is significant to both local communities and Western visitors, who may differ not only in their cultural backgrounds but also their familiarity with Christianity.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
       ],
       "external": true,
       "order": 3
     },
     {
-      "id": "phys-genomic-analysis-restores-species-status-to-12-overlooked-",
-      "title": "Genomic analysis restores species status to 12 overlooked Great Barrier Reef corals",
-      "dek": "An international team of scientists working with Queensland Museum's CoralBank project has uncovered previously hidden coral diversity on Australia's east coast, revealing…",
-      "category": "科学",
+      "id": "conversation-national-ground-stop-response-highlights-critical-errors-i",
+      "title": "National ground stop response highlights critical errors in public reassurance – saying ‘nothing nefarious’ did the opposite of quelling public concern",
+      "dek": "Thousands of travelers were stranded on Nov. 13, 2026, when the Federal Aviation Administration grounded all domestic flights in the U. ",
+      "category": "社会",
       "tags": [
-        "Phys.org"
+        "The Conversation"
       ],
-      "date": "2026-11-14",
-      "publishedAt": "2026-11-13T21:40:01.000Z",
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-14T18:46:42.000Z",
       "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-genomic-analysis-species-status-overlooked.html"
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/national-ground-stop-response-highlights-critical-errors-in-public-reassurance-saying-nothing-nefarious-did-the-opposite-of-quelling-public-concern-296663"
       },
-      "cover": "star",
+      "cover": "books",
       "accent": "blue",
       "paragraphs": [
-        "An international team of scientists working with Queensland Museum's CoralBank project has uncovered previously hidden coral diversity on Australia's east coast, revealing that 12 corals once considered variations of other species are distinct species in their own right.",
-        "The research, led by Dr. Augustine Crosbie from James Cook University and Queensland Museum, brings new clarity to Acropora, one of the most diverse groups of reef-building corals, which includes branching staghorns and table-forming corals. The findings are published in the journal Invertebrate Systematics .",
-        "By combining cutting-edge genomic sequencing with historical museum specimens, researchers reassessed 53 named Acropora species, including 40 originally described from Australia's east coast. The study found that 47 species were supported as distinct, with 12 species previously treated as synonyms now resurrected and four previously unresolved species recognized as valid.",
-        "Crosbie said the research had brought long-overlooked coral diversity back into focus. \"Many of these corals have been known to science for more than a century, but distinct species had been misinterpreted and treated as variants of other coral species,\" Crosbie said. \"By connecting the original museum specimens with modern corals and genomic data, we have been able to get a much clearer picture of the diversity and identity of corals on the Great Barrier Reef.\"",
-        "For decades, coral scientists have faced the challenge of determining whether differences in the shape and structure of corals represent distinct species or simply different forms of the same species growing under different environmental conditions.",
-        "A key part of the research involved examining historical type specimens held in museum collections in Australia and around the world. Because many of these specimens consist only of preserved coral skeletons and cannot be sequenced directly, researchers collected modern corals from the locations where the species were originally described, linking historical collections with modern genomic data.",
-        "Queensland Museum CEO Renai Grace said the research demonstrated the continuing value of museum collections in advancing scientific knowledge. \"Scientific discovery is an evolving journey and the extensive coral collections at Queensland Museum represent decades of extraordinary, painstaking study that first defined how we understand reef species.\"",
-        "Queensland Museum principal scientist of marine biodiversity and James Cook University associate professor Peter Cowman said recognizing distinct species was critical to understanding and protecting coral biodiversity.",
-        "\"A coral that appears to be common and widespread may actually represent several species, each with a much smaller geographic range,\" Cowman said. \"That matters when we assess extinction risk, monitor reef communities and decide where conservation resources should be directed.\"",
-        "Senior researcher and co-author Andrew Baird, a James Cook University adjunct professor of marine ecology, said the findings were particularly significant for one of the world's most studied ecosystems.",
-        "\"The Great Barrier Reef is one of the best-studied ecosystems on Earth, yet we are still discovering that we have underestimated the number of coral species living there,\" Baird said. \"Knowing which species are present is fundamental to understanding, monitoring and protecting the reef's biodiversity.\"",
-        "BA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile &rarr;",
-        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
-        "Genomic data and historical specimens supported 47 of 53 named Acropora coral species as distinct, restoring 12 previously treated as synonyms and validating four unresolved species. The revised taxonomy clarifies coral diversity on Australia’s east coast and provides a basis for biodiversity monitoring and extinction-risk assessment."
+        "Thousands of travelers were stranded on Nov. 13, 2026, when the Federal Aviation Administration grounded all domestic flights in the U. S. because of what they said were failures in decades-old air traffic communications systems . Crisis communications expert Shannon A. Bowen , a scholar at the University of South Carolina’s College of Information and Communications, spoke with The Conversation’s Politics and Legal Affairs Editor, Naomi Schalit, about how the Trump administration handled the first day of the crisis.",
+        "The first principle would be to react quickly and react with accuracy, react with everything you know at the moment, truthfully, but always react quickly. Because if you delay until you gather information, a vacuum will ensue. Information fills that vacuum that may not be accurate. And so that’s the enemy of accurate crisis communication, but you want to always speak quickly and be the most authoritative and definitive source, even if very little information is known.",
+        "A crisis unfolded and to the administration’s credit, they did react very quickly , in a way that offered the information that was known at the time, even though not a lot was known about why the ground stop was issued until later.",
+        "You’re speaking about the short press conference that afternoon with Department of Homeland Security Secretary Markwayne Mullin?",
+        "He did keep saying that nothing nefarious was at hand . And for a crisis communication scholar, you would not want to introduce the idea that something nefarious was at hand, unless, indeed, something nefarious was at hand. So by the very act of introducing this concept and this idea, I think the talking point, “Nothing nefarious,” then went across multiple networks, and it became the center of a controversy rather than quelling a controversy.",
+        "By saying nothing nefarious is at hand, that indeed confirmed something nefarious was at hand, even if the nefariousness was only the mismanagement of the air traffic control systems routers that they claimed caused the problem. By introducing this idea, I believe it did bring to mind that there may be other state actors behind whatever happened, that it could be a cyber attack. It would have been better to say, “We have evidence that this was not a cyber attack but a hardware failure.”",
+        "How did the later press conference with Mullin and Transportation Secretary Sean Duffy go from your perspective as an expert on crisis communications?",
+        "They handled the questions that they received correctly. They told us as much information as they knew.",
+        "However, they did seem to downplay the extent of this crisis, because we have to remember the traveling public is not just people trying to get to business meetings.",
+        "We had football teams stranded. Now football Saturday , all over the SEC, has been disrupted. And there’s probably disruption in other areas of the country, but to us in the South, SEC football is almost a religious experience on Saturday . Luckily, the University of South Carolina football team had already flown out . But our marching band was stuck in this crisis, and so we have a lot of ripple effects from something like this happening, and it definitely says to me that this was an emergency situation. It wasn’t simply a crisis, it was an actual emergency of impending disaster-level scale.",
+        "If it were simply routers being overloaded, as we’ve been told, why wouldn’t they already know this situation and restart those routers the night before or over Friday night after most of the traveling public is out of the air?",
+        "What was Mullin’s and Duffy’s job when they got out there? What did they need to do?",
+        "To inform the public about the danger, why this happened, the extent of the problem, and what they’re doing to remediate the problem. We keep hearing that they’re asking for US$30 billion and more to repair the whole infrastructure for the air traffic control system, which is great, but what are they doing right now?",
+        "How do we know that flights in the air, right this minute, are any safer than the ones yesterday, a minute before the ground stop? Do we have that information? I don’t feel confident that they addressed that question appropriately. I don’t think that the traveling public entirely feels safe at this point or adequately informed that they will arrive at their destination.",
+        "They introduced politics into the press conference as well, didn’t they?",
+        "It’s something that they have the prerogative to do. They are both political appointees and members of the cabinet . So I understand that aspect, but I really wish they had addressed the traveling public’s concerns more overtly before making it political, that they need more money to fix this. We know they need more money to fix it, and I’m sure the American taxpayers are aware of the problem and willing to fund those corrections. But the more expedient issues would be, what about all these people who were stuck in airports ?",
+        "I believe there were. We had another ground stop about three years ago , due to air traffic control problems, and that is what we call in crisis communications a “prodrome ,” a warning sign of larger impending problems. When you see these types of warning signs, it really gives us a reason to think it’s going to get worse.",
+        "Duffy did say on Nov. 13 that, because of the condition of the air traffic infrastructure, “ you will have more ” ground stoppages. If you had a piece of advice for the administration regarding their future communications, what would you tell them?",
+        "I would say to communicate in advance as much as possible, so if you’re even considering a ground stop, it may be a good idea to put out a public notice so that people don’t go to the airport on a vacation flight, maybe they delay that for a week or two. It might also be a good idea to speak with the airline industry representatives and say, “Here’s what we’re thinking. Can you work with us? How can we make this better for the traveling public?” Also, if 17 of 22 routers were malfunctioning, could we have had a partial ground stop at only the affected airports, rather than a nationwide stop?",
+        "My silly last question: Do crisis communications experts have any theories about Friday the 13th?",
+        "We consider it more of a superstition, but I have noticed that there does tend to be a lot of activity on Friday the 13th. It might be placebo effect, it might be because we expect something bad to happen and we’re looking for it. But that day does seem to always have some type of activity. This is also when organizations release bad news, oftentimes, they say, “Let’s hold it until Friday the 13th, because bad news is expected.” People will assume, on Friday the 13th, that negative things are going to come out, so the shock value won’t be as much.",
+        "Shannon A. Bowen received funding in 2022-2023 from The National Science Foundation as PI on a grant studying disaster management."
       ],
       "external": true,
       "order": 4
     },
     {
-      "id": "phys-common-adhd-classroom-accommodations-may-not-help-students",
-      "title": "Common ADHD classroom accommodations may not help students succeed, study finds",
-      "dek": "Extra time on assignments. Frequent breaks. A quiet place to work. ",
-      "category": "校园",
+      "id": "phys-nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-s",
+      "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+      "dek": "NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth as it pushes ever deeper into interstellar space.",
+      "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-14",
-      "publishedAt": "2026-11-13T21:20:02.000Z",
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-14T18:37:10.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-common-adhd-classroom-accommodations-students.html"
+        "url": "https://phys.org/news/2026-11-nasa-voyager-day-interstellar-space.html"
       },
-      "cover": "pencil",
+      "cover": "star",
       "accent": "blue",
       "paragraphs": [
-        "Extra time on assignments. Frequent breaks. A quiet place to work. For students with attention-deficit/hyperactivity disorder (ADHD), these are some of the most common accommodations schools provide to make learning easier. But are they actually helping children succeed? A new study from Florida International University (FIU) suggests that some widely used approaches may be falling short.",
-        "Researchers at FIU's Center for Children and Families evaluated four common classroom accommodations: extended time to complete assignments, frequent breaks, standing at a desk and working in a low-distraction environment. They found that none significantly improved classroom behavior or academic performance among children with ADHD.",
-        "\"We were surprised that none of the accommodations we tested had a significant effect, even when combined with behavioral interventions or medication,\" said Gregory Fabiano, professor of psychology at FIU and lead author of the study.",
-        "The research, published in JAMA Pediatrics , involved 255 children with ADHD in kindergarten through sixth grade who participated in FIU's Summer Treatment Program between 2022 and 2025.",
-        "Researchers measured classroom rule violations, completed assignments and quiz scores under different treatment conditions.",
-        "While the accommodations showed no significant benefits, behavioral interventions and stimulant medication made a measurable difference.",
-        "Behavioral interventions reduced rule violations during independent work by 37%, while stimulant medication reduced them by 61%, compared with when children received neither treatment. Medication also helped children complete more work and earn higher quiz scores.",
-        "Many classroom accommodations are designed to address ADHD symptoms, such as difficulty paying attention, staying focused or remaining seated. But Fabiano says reducing these symptoms doesn't necessarily address the challenges that interfere with a child's ability to learn and complete schoolwork.",
-        "Take extended time, for example. Giving a student more time to finish an assignment sounds reasonable. But for a child who already struggles to stay focused and complete tasks, simply extending the deadline may not solve the underlying problem.",
-        "\"These approaches fail to build skills or address motivation,\" Fabiano said.",
-        "The distinction is important. Accommodations typically change the conditions in which a student learns or completes a task. Behavioral interventions, on the other hand, help children develop and practice skills by reinforcing the behaviors that support learning.",
-        "That doesn't mean accommodations are never useful. Some children may benefit from specific supports, depending on their individual needs. Rather, the findings challenge the assumption that the same accommodations will work for every student with ADHD.",
-        "\"There may be times when accommodations may be helpful, but a 'one-size-fits-all' approach to ADHD doesn't seem to be effective,\" Fabiano said.",
-        "Fabiano recommends putting greater emphasis on positive behavioral supports, many of which teachers can incorporate into everyday classroom routines."
+        "NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth as it pushes ever deeper into interstellar space.",
+        "That's a mind-blowing distance of more than 16 billion miles (26 billion kilometers) for the spacecraft launched 49 years ago.",
+        "When Voyager 1 reaches that remarkable milestone on Wednesday, its radio signals will take precisely 24 hours traveling at the speed of light to reach Earth—in other words, one light-day. NASA is looking at another 18,000 years before the spacecraft achieves a full light-year and more than double that before it comes near another star.",
+        "Project manager Suzanne Dodd sees Voyager 1 as Earth's ambassador hurtling between stars while providing a \"sense of wonder\" on the home front.",
+        "\"It's a national treasure,\" she told The Associated Press. \"Really extraordinary.\"",
+        "To celebrate this moment, NASA is urging people from all corners to grab their phone or a flashlight to create a wave of golden light after sunset Tuesday, using Morse code to spell the letters V-G-R, Voyager's call sign, into the night sky.",
+        "Despite sporadic problems typical of old age, Voyager 1 and its twin Voyager 2 continue to send back science and engineering data as they zoom toward different points in space at 38,000 mph (61,000 kph). Although launched two weeks before its sibling in 1977, Voyager 2 won't reach the one-light-day mark until 2035.",
+        "Voyager 1 swept past Jupiter and Saturn to scientists' delight in 1979 and 1980, respectively, before exiting the solar system. It reached what NASA defines as interstellar space—the expansive region between star systems—in 2012. Voyager 2 visited those two planets plus Uranus and Neptune, also sending back stunning photos, before entering interstellar space in 2018.",
+        "Almost every day, the Voyagers beam back details about their never-before-explored environment: the strength and direction of the magnetic field as well as tidbits about the surrounding pressure, dust and galactic cosmic rays. They're a bit like weather satellites, according to Dodd, who's worked with the Voyagers since 1984.",
+        "The skeleton flight control team at NASA's Jet Propulsion Laboratory in Pasadena, California, sends commands about once a week. The operation ramps up when spacecraft problems arise, with help sometimes coming from a couple of retirees who once worked on the project.",
+        "In September, controllers completed the latest power-conserving effort for the plutonium-powered spacecraft, then in October briefly lost contact with it. They're still trying to figure out why communication was disrupted.",
+        "All this expertise and love have kept Voyager 1 chugging along like \"the little engine that could,\" according to Dodd, while racking up entries in Guinness World Records. Besides venturing farther than any other human-made object, Voyager 1 in 1990 snapped the most distant picture of Earth: the iconic \"Pale Blue Dot\" as seen from beyond Neptune.",
+        "\"On that blue dot, that's where everyone you know and everyone you ever heard of and every human being who ever lived, lived out their lives. It's a very small stage in a great cosmic arena,\" Cornell University astronomer Carl Sagan, part of the imaging team, said as he introduced the picture to the world in 1990.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
       ],
       "external": true,
       "order": 5
     },
     {
-      "id": "scitechdaily-ct-scans-reveal-the-secret-of-a-mysterious-400-year-old-lo",
-      "title": "CT Scans Reveal the Secret of a Mysterious 400-Year-Old Lock",
-      "dek": "X-ray scans cracked an Elizabethan padlock’s code, revealing how a centuries-old security mechanism worked without damaging an unusually well-preserved piece of maritime history.",
-      "category": "校园",
+      "id": "phys-a-cosmic-magnifying-glass-could-reveal-the-same-supernova-",
+      "title": "A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years",
+      "dek": "Thanks to the gravitational lensing caused by a massive galaxy cluster and high-resolution images from the James Webb Space Telescope (JWST), astronomers discovered an…",
+      "category": "科学",
       "tags": [
-        "SciTechDaily"
+        "Phys.org"
       ],
-      "date": "2026-11-14",
-      "publishedAt": "2026-11-13T20:22:22.000Z",
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-14T18:20:01.000Z",
       "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/ct-scans-reveal-the-secret-of-a-mysterious-400-year-old-lock/"
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-cosmic-magnifying-glass-reveal-supernova.html"
       },
-      "cover": "pencil",
+      "cover": "star",
       "accent": "blue",
       "paragraphs": [
-        "X-ray scans cracked an Elizabethan padlock’s code, revealing how a centuries-old security mechanism worked without damaging an unusually well-preserved piece of maritime history.",
-        "For more than 400 years, a brass combination lock recovered from a shipwreck off the Welsh coast kept its secret. Lost when a violent storm wrecked the Ann Francis , the remarkably well-preserved Elizabethan lock still had working letter dials, but no one knew the four-letter combination needed to open it.",
-        "Opening it more than 400 years later meant working out its four-letter code without damaging an exceptionally well-preserved Elizabethan artifact, a challenge that brought museum specialists together with researchers more accustomed to studying bones.",
-        "The lock came from the Ann Francis , which was returning from Spain when a ferocious storm blew it off course on the evening of December 28, 1583. The ship wrecked on Margam Beach, near Port Talbot, leaving its extraordinary cargo buried beneath the sand for centuries.",
-        "Dredging and storms eventually stripped away layers of sand, exposing traces of the sixteenth-century hoard. Metal detectorist Peter Hughes discovered most of it over 21 years, between 1996 and 2017. The finds, recovered by Hughes and other metal detectorists, were subsequently acquired by Amgueddfa Cymru (Museum Wales).",
-        "“When I found the lock, I was immediately astonished by the incredible workmanship and its astonishing condition. When I moved the ring dials of the combination, they turned with ease after over 400 years beneath the sands, and I was left in disbelief. I also remember being left excited at the prospect of finding wonderful things from the treasure chest it once locked,” said Hughes, finder of the hoard.",
-        "What the lock once protected remains uncertain. Researchers believe it secured a small chest containing valuable items, and its position near a collection of Spanish silver coins and two coin weights recovered from the wreck offers some clues. It may have guarded those objects or a chest holding valuables that did not survive, such as documents or textiles.",
-        "To investigate the mechanism, museum experts worked with specialists at Cardiff University using micro-CT, a form of X-ray imaging that can reveal fine details inside an object. Dr. David Williams, a postdoctoral research associate based at the Musculoskeletal Biomechanics Research Facility in the university’s School of Engineering, explained the advantage of examining the lock this way.",
-        "“Micro-CT scanning allowed us to look inside the lock without damaging it.”",
-        "The task was to connect the letters visible on the outside with the concealed parts that determined whether the lock would open. Williams could examine those relationships in the scan, then pass the combination to the museum team for the physical test.",
-        "“By creating a detailed 3D image of the internal mechanism, I could see how the notches lined up with the letters and identify the exact combination. We normally use this technology to study bones and other biological structures, so investigating a 400-year-old padlock was certainly a first for us. I had to wait until later that evening for the museum team to test the combination, so getting the message that we’d cracked it was incredibly satisfying,” said Williams.",
-        "The four letters were ANCE, and when the museum team tested the combination, the centuries-old lock opened.",
-        "“It’s not every day you get to solve a 400-year-old mystery!” Williams said.",
-        "Its remarkable condition and connection to a shipwreck with a known date make the lock especially valuable as a historical find. Deciphering the combination also leaves a more personal question about whoever chose those letters."
+        "Thanks to the gravitational lensing caused by a massive galaxy cluster and high-resolution images from the James Webb Space Telescope (JWST), astronomers discovered an exploding star when the universe was 4. 9 billion years old. The discovery paper, posted to the arXiv preprint server on Oct. 23, presents a prediction for when the rest of the distorted images of SN Ares will arrive.",
+        "When a massive galaxy cluster sits between us and a distant galaxy, the galaxy cluster's gravity acts like a natural lens, bending and magnifying the light coming from the background galaxy. This is called gravitational lensing, and it can result in the creation of multiple images of the same galaxy. When different light rays take slightly different paths, the images arrive at different times, sometimes hours apart and sometimes decades apart. Some of the famous examples of multiple-image lensing include Einstein Cross, Molten Ring and Smiley Face.",
+        "In this study, astronomers led by Conor Larison of the Space Telescope Science Institute report the discovery of a supernova that occurred around 8. 8 billion years ago. They spotted SN Ares in August 2025 in the JWST's near-infrared images taken of the field of the galaxy cluster MACS J0308. 9+2645.",
+        "JWST spectroscopy revealed helium and hydrogen features, which are telltale signs of a star losing most of its outer hydrogen layer before exploding—a category called the Type IIb supernova. Researchers say it is \"the highest-redshift member of its class spectroscopically identified.\"",
+        "For now, astronomers are seeing only one magnified image of Ares. But their analysis using three lens models revealed that two more images of this supernova are yet to reach us. The predictions say that they will appear in about 73 and 76 years, respectively. At an assumed timeline of 70 years, \"the SN Ares system has by far the highest predicted delays of any discovered lensed SN system so far,\" the team writes in its paper.",
+        "The delay in the arrival of these images depends on the geometry of space. But space is also expanding, with galaxies moving away from us and light getting stretched. So measuring the delay between when the images arrive also helps pin down the Hubble constant , the universe's expansion rate.",
+        "\"Due to the direct relationship between these delays and geometric distance, a measurement of the offset in image arrival times leads to constraints on cosmological parameters such as the local expansion rate of the universe, H0,\" researchers explain.",
+        "If, in 70 years, astronomers can catch the return, the delay could be timed extremely precisely. That could give one of the most precise single measurements of the universe's expansion rate.",
+        "The team plans to conduct additional spectroscopic redshift measurements in early 2027. This will help researchers better understand the lens properties and improve delay predictions.",
+        "The study also offers a rare opportunity to watch gravitational lensing play out over generations. Researchers say that they cannot predict what the science of the universe will look like in 70 years, but are sure that the reappearance of SN Ares will be a scientifically rich event, worth looking forward to.",
+        "Written for you by our author Shreejaya Karantha , edited by Gaby Clark , and fact-checked and reviewed by Robert Egan —this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.",
+        "Shreejaya Karantha is a science writer and astronomy communicator based in India, with a focus on astrophysics and the early universe. Full profile &rarr;",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;"
       ],
       "external": true,
       "order": 6
     },
     {
-      "id": "scitechdaily-stonehenges-mysterious-six-ton-stone-has-scientists-search",
-      "title": "Stonehenge’s Mysterious Six-Ton Stone Has Scientists Searching Across Britain",
-      "dek": "Stonehenge’s six-ton Altar Stone has led scientists from Wales to Scotland, yet even its most detailed geological examination has failed to reveal where it came from.",
-      "category": "文化",
+      "id": "scitechdaily-a-strange-liquid-is-helping-scientists-overcome-a-major-ba",
+      "title": "A Strange Liquid Is Helping Scientists Overcome a Major Barrier in Nanotechnology",
+      "dek": "By filling the tiny pores of fragile materials with an unusual liquid, scientists have found a way to create intricate patterns without destroying their structures.",
+      "category": "校园",
       "tags": [
         "SciTechDaily"
       ],
-      "date": "2026-11-14",
-      "publishedAt": "2026-11-13T19:47:18.000Z",
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-14T17:13:17.000Z",
       "source": {
         "name": "SciTechDaily",
         "license": "Free daily tech news",
         "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/stonehenges-mysterious-six-ton-stone-has-scientists-searching-across-britain/"
+        "url": "https://scitechdaily.com/a-strange-liquid-is-helping-scientists-overcome-a-major-barrier-in-nanotechnology/"
       },
-      "cover": "books",
-      "accent": "yellow",
+      "cover": "leaf",
+      "accent": "green",
       "paragraphs": [
-        "Stonehenge’s six-ton Altar Stone has led scientists from Wales to Scotland, yet even its most detailed geological examination has failed to reveal where it came from.",
-        "Scientists have spent more than a century trying to determine where Stonehenge’s six-ton Altar Stone came from. Once thought to originate in Wales, the massive sandstone slab has since been traced geologically to northeast Scotland, but its exact source remains unknown. Now, the most comprehensive geological investigation yet has ruled out several proposed locations and provided new clues to guide the search.",
-        "Published in the Journal of the Geological Society , the study examined the stone’s mineral composition, chemistry, and other geological characteristics. Measuring 4. 9 meters (16 feet) long and weighing about six metric tons (6. 6 US tons), the Altar Stone could offer important insights into how prehistoric people transported massive stones across Britain thousands of years ago.",
-        "The latest investigation brought together observations of the Altar Stone itself and detailed examinations of fragments held in museum collections. By comparing its structure, mineral content, chemical composition, and isotopic characteristics, the team assembled a set of identifying features that potential sources must match.",
-        "No location examined so far in northeast Scotland’s Orcadian Basin has met all those criteria. That leaves the stone’s birthplace unresolved but gives future fieldwork a clearer target. Study leader Duncan Pirrie, emeritus professor at the University of South Wales, said:",
-        "“This is the most comprehensive geological investigation of the Altar Stone ever undertaken. By combining a wide range of analytical techniques, we have built the clearest picture yet of the stone’s composition and tested the leading theories about its origins. So far, none of the locations examined have the same set of characteristics as the Altar Stone. That tells us the search is not over, but we are now far better equipped to focus on the areas most likely to yield an answer.”",
-        "The findings build on earlier work that redirected the search away from Wales. Richard Bevins, honorary professor in Aberystwyth University’s Department of Geography and Earth Sciences, said:",
-        "“For almost a century, the prevailing view was that the Altar Stone came from west Wales. Our previous research overturned that assumption and pointed instead to Scotland as the most likely source. This latest study significantly refines the search by identifying the specific geological characteristics we need to look for, allowing future investigations to be targeted more effectively. With each new piece of evidence, we move closer to solving one of Stonehenge’s most enduring mysteries.”",
-        "Nick Pearce, emeritus professor of geochemistry in the same department at Aberystwyth University, emphasized the value of eliminating candidates: “In a geological detective story such as this, ruling out potential source areas is just as important as identifying new ones. Every location eliminated narrows the search and brings us closer to discovering where the Altar Stone originated. The stone is unique among those at Stonehenge, and tracing its source would provide valuable new insights into its remarkable journey to Salisbury Plain thousands of years ago.”",
-        "Stonehenge took shape through several construction phases between around 3000 and 1600 BC. Moving its stones across great distances was part of that achievement: the smaller bluestones traveled approximately 225 kilometers (140 miles) from west Wales.",
-        "Establishing where the Altar Stone began would give researchers a crucial geographical anchor for investigating how it reached the monument. The researchers hope that fingerprint will ultimately lead them to the source and shed new light on the effort behind one of prehistory’s most remarkable engineering achievements.",
+        "By filling the tiny pores of fragile materials with an unusual liquid, scientists have found a way to create intricate patterns without destroying their structures.",
+        "Metal-organic frameworks (MOFs) contain networks of tiny pores that can trap gases, capture pollutants, and support chemical reactions. These properties make them attractive for advanced sensors and electronic devices, but their fragile structures are easily damaged by the processes used to manufacture such devices. Researchers in Japan have now developed a way to carve precise patterns into these materials at room temperature without causing the extensive structural damage normally associated with the process.",
+        "The technique, developed at Tokyo University of Science (TUS) , involves filling the pores of MOFs with an ionic liquid before exposing them to a focused ion beam. In experiments, the liquid strengthened a copper-based MOF and substantially reduced damage, allowing researchers to produce intricate features only a few hundred nanometers wide.",
+        "The origins of MOFs trace back to 1974, when University of Melbourne chemistry professor Richard Robson began exploring whether molecules and chemical bonds could replace the wooden balls and metal rods used in structural models. His experiments with copper ions connected by four-armed organic molecules helped establish the foundations of a new class of porous materials. Today, approximately 100,000 MOFs are known, with potential applications ranging from gas storage and chemical separation to pollution control.",
+        "Turning these materials into functional devices requires precise fabrication, often involving dry etching, which removes material using energetic particles such as ions. Unfortunately, ion beams can disrupt the delicate crystalline frameworks and produce unwanted cavities. Cryogenic etching has offered a way to limit this damage, but it requires specialized cooling equipment and liquid nitrogen.",
+        "Led by Assistant Professor Yumeng Zheng and Professor Kentaro Kinoshita from TUS’s Department of Applied Physics, the researchers investigated whether ionic liquids could make MOFs more resistant to ion beam damage. Their approach builds on earlier findings from Kinoshita’s team showing that these liquids can improve the mechanical stability of MOFs. The study was scheduled for publication in Communications Materials .",
+        "The team tested four imidazolium-based ionic liquids in Cu3BTC2, a copper-based MOF containing benzene-1,3,5-tricarboxylic acid (BTC). Each liquid occupied approximately 50% to 60% of the material’s pore volume. The researchers then used a focused gallium ion beam to etch patterns into the samples at room temperature.",
+        "Untreated MOFs suffered substantial structural damage, including the formation of large cavities. Samples containing ionic liquids showed considerably less visible microstructural damage under the same conditions. The researchers successfully etched a square measuring 5 × 5 micrometers (approximately 0. 0002 × 0. 0002 inches), a pillar, and a Chinese character with lines just 130 to 300 nanometers (about 5 to 12 millionths of an inch) wide.",
+        "“In this study, we developed a simple method for room-temperature dry etching of this fragile class of materials. By infiltrating MOFs with ionic liquids, their mechanical stability is greatly improved, and the damage from electron and ion beams is reduced, achieving harmless ion beam etching,” says Dr. Zheng.",
+        "The researchers propose that ionic liquids protect MOFs through a combination of thermal and electrical effects. The liquids may absorb heat generated during ion bombardment, reducing local temperature changes, while their mobile ions could help redistribute accumulated electrical charge and screen local electric fields. These mechanisms remain proposed explanations rather than directly established causes of the reduced damage.",
+        "Additional measurements confirmed that all four ionic liquid treatments increased the MOF’s hardness without substantially changing its stiffness. Thermal analysis also showed that treated samples decomposed at higher temperatures than untreated material, indicating improved thermal stability.",
+        "Although the experiments focused on a single copper-based MOF, the researchers believe the approach could potentially work with other frameworks. If its effectiveness extends to additional materials, room-temperature etching could provide a more accessible route to manufacturing MOF-based devices without the cooling requirements of cryogenic processing.",
+        "“We can foresee applications in high-sensitivity sensors, separation and analysis devices, and catalytic devices. This technology has the potential to become a foundational technology for bridging the exceptional material functionalities of MOFs with their use in practical devices,” says Prof. Kinoshita.",
+        "This work was partly supported by JSPS KAKENHI Grant Number 26K00987."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "phys-some-of-the-oldest-rocks-ever-discovered-shed-light-on-ear",
+      "title": "Some of the oldest rocks ever discovered shed light on Earth's early history",
+      "dek": "Earth is approximately 4. 5 billion years old, according to estimates. However, rocks dating back to the planet's earliest days are extremely rare. ",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-14T17:00:33.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-oldest-earth-early-history.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Earth is approximately 4. 5 billion years old, according to estimates. However, rocks dating back to the planet's earliest days are extremely rare. Hence the excitement over the discovery in northern China of some of the oldest known rocks on Earth, dating back 3. 95 billion years. And one of the reasons for all the attention is that they're revealing new clues about how Earth's crust formed and evolved.",
+        "Researchers found the rocks in the Shimen Complex in Hebei province and collected three samples for detailed analysis. Scientists have been searching for rocks older than 3. 8 billion years in China for decades.",
+        "The team, led by Hangqiang Xie of the Chinese Academy of Geological Sciences in Beijing, dated the rocks by analyzing tiny zircon crystals trapped inside them. These contain uranium, which slowly decays into lead at a known rate.",
+        "But the researchers wanted to know more than just the rocks' age.",
+        "More specifically, they were interested in how the rocks had formed and what they could reveal about the geological processes taking place on Earth nearly 4 billion years ago.",
+        "To find out, they analyzed their chemical composition, including different forms of oxygen and hafnium in zircon crystals. The researchers also used computer models to investigate the conditions under which the rocks formed.",
+        "The results, published in the journal Nature , suggest that a process similar to modern-day plate tectonics may have been taking place in at least one part of Earth nearly 4 billion years ago. A Research Briefing in the same edition provides further insights into the findings.",
+        "The analysis revealed that the rocks had originally formed from material that had been in contact with water at or near Earth's surface. Meanwhile, computer models suggested this material was then carried more than 50 kilometers (31 miles) below Earth's surface, where intense heat and pressure caused it to melt partially.",
+        "The researchers believe this could have happened through a process called subduction. In plate tectonics, this is where one section of the Earth's crust sinks beneath another, as they wrote in their paper. \"We propose that this rapid burial was most likely achieved through a transient subduction event.\"",
+        "Analysis of hafnium isotopes in the zircon crystals also suggested that the process of separating material from Earth's mantle to form new crust had begun more than 4. 3 billion years ago.",
+        "This was hundreds of millions of years before the rocks in China formed, suggesting that Earth's crust was already evolving very early in the planet's history.",
+        "Written for you by our author Paul Arnold , edited by Gaby Clark , and fact-checked and reviewed by Robert Egan —this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;"
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-archaeologists-uncover-3-800-year-old-burial-mystery-on-sp",
+      "title": "Archaeologists Uncover 3,800-Year-Old Burial Mystery on Spain’s Coast",
+      "dek": "A burial ground on Spain’s southern coast suggests ancient communities may have continued building massive shared tombs during the Bronze Age, rather than simply reusing…",
+      "category": "文化",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-14T16:38:15.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/archaeologists-uncover-3800-year-old-burial-mystery-on-spains-coast/"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "A burial ground on Spain’s southern coast suggests ancient communities may have continued building massive shared tombs during the Bronze Age, rather than simply reusing older monuments.",
+        "A 3,800-year-old burial mystery on Spain’s southern coast is challenging what archaeologists thought they knew about prehistoric burial traditions.",
+        "At a time when communities across the Iberian Peninsula were abandoning massive communal tombs in favor of smaller, individual graves, people near the Strait of Gibraltar appear to have continued burying their dead together. Even more puzzling, the stone monuments they used may have been newly constructed rather than inherited from earlier generations.",
+        "The discovery comes from the Trafalgar necropolis, where archaeologists investigated two collective tombs containing the remains of multiple individuals.",
+        "Radiocarbon dating of 16 individuals places the use of these tombs between 1875 and 1625 BC, making them among the latest known examples of collective megalithic burial in Iberia.",
+        "But the age of the human remains is only part of the mystery. Archaeologists also found no evidence of earlier occupation at the site, raising the possibility that the monuments themselves were constructed during the Bronze Age, when such building traditions were thought to be fading.",
+        "The study, published November 11, 2026, in the open-access journal PLOS One , was conducted by Eduardo Vijande-Vila of the University of Cádiz in Spain and colleagues.",
+        "Determining when a tomb was used is not the same as establishing when it was built. Elsewhere in Iberia, Bronze Age communities sometimes buried their dead inside monuments dating back to the Copper Age, making it difficult to distinguish new construction from the reuse of older structures.",
+        "Trafalgar may represent an important exception. The absence of evidence for an earlier burial ground suggests the cemetery could have been established in the early second millennium BC. However, additional dating methods are needed to determine when the monuments were originally constructed.",
+        "The authors explain, “The Trafalgar megalithic necropolis has revealed a highly significant finding. During the Bronze Age, an entirely new funerary space was constructed in a landscape dominated by the sea. We propose this hypothesis based on the absence of archaeological evidence for earlier occupation in the surrounding area. Until now, the evidence available for this period has primarily pointed to the reuse of megalithic monuments built during the Copper Age. This discovery offers a new perspective on funerary practices during this period and would demonstrate that new monumental burial spaces continued to be constructed.”",
+        "The excavations also uncovered grave goods, including gold and copper earrings, silver beads, and an ivory comb, offering additional clues about the people buried at the site.",
+        "If further research confirms that the monuments were newly built during the Bronze Age, Trafalgar would provide rare evidence that monumental communal burial traditions survived longer than previously recognized.",
+        "Researchers believe additional tombs may remain undiscovered, potentially offering further insight into ancient Iberian burial traditions. However, strong coastal winds and shifting sands threaten to bury the site beneath the dunes again, making continued preservation essential for future excavations.",
+        "This research was supported by the European Regional Development Fund (ERDF), the Regional Government of Andalusia, the European Union’s Complementary Marine Sciences Plan (MEDUSA project), and CEIMAR’s 2021 and 2022 Young Researchers Research Projects programs."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-a-3-million-year-old-fossil-is-turning-the-story-of-human-",
+      "title": "A 3-Million-Year-Old Fossil Is Turning the Story of Human Evolution Upside Down",
+      "dek": "Nearly 3 million years after the Taung Child lived, its fossil is challenging long-held assumptions about humanity’s origins, suggesting our ancient family tree was far more…",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-14T16:03:22.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-3-million-year-old-fossil-is-turning-the-story-of-human-evolution-upside-down/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Nearly 3 million years after the Taung Child lived, its fossil is challenging long-held assumptions about humanity’s origins, suggesting our ancient family tree was far more diverse than scientists once believed.",
+        "A century ago, a child’s fossil helped establish Africa as the birthplace of humanity. Now, that same discovery is raising another question about our origins: How many early human species have scientists been treating as one?",
+        "Discovered in South Africa in 1924, the Taung Child became the defining fossil, or “type specimen,” of Australopithecus africanus . It provided the first concrete evidence of human origins in Africa. Yet because no definitive criteria were established for classifying later discoveries, the Taung Child remains the only fossil conclusively assigned to the species.",
+        "A new study published in Nature dates the fossil to between 2. 96 and 3. 03 million years ago and suggests that several supposed members of its species may have belonged to different branches of the human family tree.",
+        "Led by Professor Gabriele Macho of the Archaeology, Environmental Changes and Geo-Chemistry (AMGC) research group at Vrije Universiteit Brussel (VUB), an international team examined tooth structure and patterns of brain and dental development during growth.",
+        "Several adult fossils traditionally classified as Australopithecus africanus did not match the Taung Child’s developmental trajectory. Differences in brain development were particularly revealing, suggesting that multiple hominin species may have occupied South Africa’s Sterkfontein region, either alongside one another or at different times.",
+        "“For over 100 years, we assumed the Taung Child was just one of many similar fossils from the era,” says Professor Gabriele Macho. “Our findings turn that on its head. The human family tree wasn’t a neat, straight trunk—it was a chaotic, tangled bush driven by climate shifts.”",
+        "The environment in which these ancient human relatives lived may help explain their diversity. Fossilized pollen indicates that the Taung Child inhabited a much wetter, more forested landscape than modern South Africa. Some of the trees growing there are now found hundreds of kilometers to the northeast.",
+        "Over millions of years, alternating wet and dry periods repeatedly transformed the region. As forests and other habitats expanded or contracted, hominin populations may have become isolated, evolved separately, and later encountered one another again. The researchers suggest these shifting conditions encouraged interbreeding and adaptations to different predators and pathogens.",
+        "Southern Africa’s position between tropical and temperate ecosystems made it a potential meeting ground for populations that had followed different evolutionary paths.",
+        "Rather than a straightforward progression from one ancestor to the next, the findings suggest that the emergence of our genus, Homo , involved a complex network of ancient populations repeatedly separated and reunited by a changing climate.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "A very compelling development, but the discovery of many species around the globe has suggested, to some, the possibility of “panspermia, ” aside from solely an evolu-tionary process. Incidentally, Crick (of Wat-son & Crick) has been quoted as subscribing to this idea.",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "scitechdaily-scientists-discover-how-exercise-could-help-protect-the-br",
+      "title": "Scientists Discover How Exercise Could Help Protect the Brain From Parkinson’s",
+      "dek": "Exercise may benefit people with Parkinson’s disease in ways that go far beyond building strength and improving mobility. ",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T13:29:29.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-how-exercise-could-help-protect-the-brain-from-parkinsons/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Exercise may benefit people with Parkinson’s disease in ways that go far beyond building strength and improving mobility. A review of 129 studies suggests that contracting muscles release chemical messengers capable of influencing brain health, potentially helping vulnerable nerve cells resist damage.",
+        "The research highlights how regular physical activity can improve movement, balance, mood, and cognitive function while reducing falls and disability. Scientists are also investigating whether the biological changes triggered by exercise could help slow aspects of the disease itself.",
+        "“Muscles do much more than move our body. They can act like an endocrine organ, producing hormone-like chemical messengers called ‘exerkines,’ which are released during exercise—just like the pancreas produces insulin or the thyroid gland produces thyroid hormones,” explains Dr. Miguel Germán Borda.",
+        "When muscles contract, they release signaling molecules known as exerkines that can travel through the bloodstream and influence organs throughout the body, including the brain, heart, liver, and immune system. Among the molecules examined in the review were brain-derived neurotrophic factor (BDNF), insulin-like growth factor-1 (IGF-1), irisin, cathepsin B, myostatin, and growth/differentiation factor 15 (GDF15). These substances have different biological functions, and researchers are working to understand their individual contributions to brain health.",
+        "“So, the next question became, how do exerkines protect the brain?” says Dr. Salomón Páez-García. “We found that the exerkines act as a medium for the crosstalk between the muscle and the brain. Though the brain controls muscles, exercising muscles send beneficial signals back to the brain through exerkines,” he further explains.",
+        "Parkinson’s disease (PD) is a progressive neurological disorder characterized by the loss of dopamine-producing neurons, particularly in a brain region called the substantia nigra. This degeneration contributes to movement difficulties, while the disease can also affect thinking, mood, sleep, and other functions. With populations aging worldwide, Parkinson’s represents an increasing public health challenge.",
+        "The reviewed research suggests that certain exercise-related signaling molecules may reduce inflammation and oxidative stress, support mitochondrial function, and promote neuroplasticity, the brain’s ability to adapt and form new connections. Experimental findings indicate that these effects can help dopamine-producing neurons withstand cellular stress and damage. However, further clinical research is needed to establish whether these mechanisms meaningfully slow neurodegeneration in people with Parkinson’s.",
+        "Muscle health becomes increasingly important as Parkinson’s progresses. Sarcopenia, the gradual age-related loss of muscle mass, strength, and physical function, can contribute to frailty and disability. In people with Parkinson’s, it may also be associated with more frequent falls, greater cognitive impairment, poorer outcomes, and reduced quality of life.",
+        "The review identified benefits across several types of physical activity. Aerobic exercise, including walking and jogging, supports cardiovascular fitness, while resistance training, such as weightlifting and squats, builds muscle strength. Balance exercises, including Tai Chi and standing on one leg, improve stability. Programs combining these approaches can address multiple physical challenges simultaneously. Current Parkinson’s care guidelines recommend beginning exercise early, maintaining regular activity, and adjusting exercise programs to individual abilities as the disease progresses.",
+        "“Muscle is a biologically active tissue that has the potential to influence neural function. Building on this, we collected experimental, observational, and interventional data that evaluated the interplay between muscle status and exercise in PD,” says Dr. Salomón Páez-García, the study’s first author.",
+        "Although exercise is already an established component of Parkinson’s management, its potential neuroprotective effects remain under investigation. Researchers still need to determine which exercise types, intensities, and durations produce the greatest long-term benefits, as well as which exerkines are most responsible for the observed biological effects.",
         "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
         "Save my name, email, and website in this browser for the next time I comment.",
         "Type above and press Enter to search. Press Esc to cancel."
       ],
       "external": true,
-      "order": 7
+      "order": 11
+    },
+    {
+      "id": "scitechdaily-scientists-develop-injectable-glucose-sensor-that-could-ch",
+      "title": "Scientists Develop Injectable Glucose Sensor That Could Change Diabetes Care",
+      "dek": "An experimental injectable sensor could give people with diabetes a more affordable way to track blood sugar, with early tests showing that a cheaper sensing ingredient…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T12:54:21.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-develop-injectable-glucose-sensor-that-could-change-diabetes-care/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "An experimental injectable sensor could give people with diabetes a more affordable way to track blood sugar, with early tests showing that a cheaper sensing ingredient performed similarly to its costlier alternative.",
+        "For millions of people with diabetes, knowing how glucose levels are changing helps guide decisions about medication, meals, and daily activities. Continuous glucose monitors provide that information in real time, but their cost keeps the devices out of reach for some patients. Making monitoring more affordable requires attention to the materials inside a sensor, as well as how reliably they work.",
+        "Researchers at Texas A&M University have identified a less expensive ingredient for an experimental injectable glucose sensor. Their study, published in ACS Measurement Science AU , found that a sensing material costing roughly one-tenth as much as an alternative used in earlier versions delivered comparable performance.",
+        "The proposed sensor houses its sensing chemistry in a small hydrogel, a water-rich material that can be injected into tissue and sit beneath the skin. The gel provides a stable home for the sensing materials while allowing glucose to pass through. In testing, it retained more than 94% of the sensing mixture over seven days, demonstrating that the chemistry could function within an injectable platform.",
+        "“Our long-term goal is to develop a reliable, affordable injectable glucose sensor that can expand access to continuous glucose monitoring, particularly for people in under-resourced communities and those without adequate insurance coverage,” said Dr. Gérard L. Coté, the study’s principal investigator and a professor of biomedical engineering in Texas A&M’s College of Engineering. “Reducing the cost of the sensing materials is one step toward making these technologies accessible to more people who need them.”",
+        "To measure glucose, the platform uses changes in near-infrared fluorescence, a light signal beyond the visible range. Many glucose-monitoring systems rely on enzymes, which help chemical reactions occur. This approach instead detects glucose through a competition between molecules.",
+        "Glucose and a fluorescent sugar compound compete for available binding sites on a protein called concanavalin A, or ConA. As glucose concentrations rise, more glucose molecules enter that competition, changing the fluorescent signal. This process, known as competitive binding, allows the researchers to track glucose concentrations without enzymes.",
+        "The team compared several glucose-binding compounds, including two forms of a sugar called mannopentaose. Earlier versions of the technology used α-mannopentaose. The much less expensive β-mannopentaose provided comparable sensing performance and also performed well in artificial interstitial fluid, a solution designed to mimic the environment beneath the skin.",
+        "“The surprising part was how closely the lower-cost material matched the performance of the more expensive alternative,” said Dr. Sayantan Tripathy, an assistant research scientist in Texas A&M’s Optical and Bio-Sensing Laboratory and the study’s lead author. “In this case, the cheaper option wasn’t really a compromise, and that’s an important finding when you’re thinking about future glucose-monitoring technologies.”",
+        "The cost comparison concerns one sensing component. The technology remains at the proof-of-concept stage and needs additional development and testing before it could be considered for clinical use.",
+        "“Developing an affordable glucose sensor means considering the cost of the individual materials as well as how well they work together,” Coté said. “This study shows that we can substantially reduce the cost of one sensing component while maintaining comparable performance, giving us a promising foundation for further development.”",
+        "Reducing manufacturing costs could eventually help expand access to future diabetes-monitoring technologies. That possibility makes affordability a consideration throughout development, alongside technical performance.",
+        "“When new medical technologies are expensive, access can be limited,” said Dr. Melissa Grunlan, a study co-author, professor of biomedical engineering in the College of Engineering, and professor of chemistry in the College of Arts and Sciences. “Our goal is to develop sensors that are not only effective but affordable for the people who rely on them.”",
+        "The team plans to refine the platform and evaluate additional components that may improve its performance, longevity, and practicality."
+      ],
+      "external": true,
+      "order": 12
     },
     {
       "id": "conversation-why-the-microsoft-365-outage-is-different-and-why-it-takes",
@@ -335,44 +529,7 @@
         "Doug Jacobson does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
-      "order": 8
-    },
-    {
-      "id": "scitechdaily-ancient-tomb-reveals-that-people-were-getting-high-on-cann",
-      "title": "Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago",
-      "dek": "The oldest directly dated evidence of intoxicating cannabis use comes from a Scythian tomb, suggesting the plant’s mind-altering effects had a place in ancient burial rituals.",
-      "category": "校园",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-14",
-      "publishedAt": "2026-11-13T19:12:17.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/ancient-tomb-reveals-that-people-were-getting-high-on-cannabis-2800-years-ago/"
-      },
-      "cover": "pencil",
-      "accent": "blue",
-      "paragraphs": [
-        "The oldest directly dated evidence of intoxicating cannabis use comes from a Scythian tomb, suggesting the plant’s mind-altering effects had a place in ancient burial rituals.",
-        "About 1,000 cannabis seeds recovered from a princely tomb in southern Siberia could not, on their own, tell archaeologists whether anyone had used the plant to get high. Cannabis, one of today’s most commonly used psychoactive plants, has also supplied oil, fiber, and medicine, and its flowers, leaves, and resins rarely survive to help distinguish among prehistoric uses.",
-        "The tomb, in the South Siberian Republic of Tyva, belonged to high-ranking members of Scythian society, a horse-riding culture of the Eurasian steppe. Researchers investigating the burial found another source of evidence in preserved human hair from its central chamber.",
-        "Dr. Gino Caspari, an archaeologist at the University of Bern’s Institute of Archaeological Sciences and the Max Planck Institute of Geoanthropology in Jena, Germany, led the international research team and is the lead author of the study, published in Science . “The molecular traces in the hair and the cannabis seeds come from the same grave and suggest that cannabis was used for its intoxicating properties,” he says.",
-        "By directly radiocarbon dating six seeds and combining those measurements with other dating results, the researchers determined that the seeds were placed in the grave in the early eighth century B. C. The findings provide what is currently the oldest directly dated archaeological evidence of cannabis use for its intoxicating properties. “The seeds show that cannabis played an important role in the rituals surrounding the burial,” says Caspari.",
-        "In an earlier publication, the team described the remains of 18 horses that had once been arranged on the burial mound. Several dozen additional horse sacrifices and scattered human bones have since come to light. “In this princely tomb, the burials were accompanied by extensive horse sacrifices and, most likely, human sacrifices as well,” says Caspari.",
-        "To investigate whether cannabis compounds had entered the bodies of people buried there, the researchers analyzed the hair using high-resolution mass spectrometry and other methods. Mass spectrometry helps distinguish compounds by the mass and electrical charge of their molecules or fragments. Several hair samples produced clear signals consistent with cannabinol, or CBN, a compound that can form through the oxidation of tetrahydrocannabinol, or THC, the main intoxicating compound in cannabis. The team also detected weak signals whose masses were consistent with THC.",
-        "“This study is particularly insightful because it combines the analysis of plant remains with molecular traces in the human body,” says Caspari.",
-        "The researchers interpret the hair results as evidence of cannabis use, although the analyses cannot reliably establish how much was consumed or determine with certainty how its active compounds entered the body, such as through inhalation or ingestion. Later archaeological sites in Central Asia have yielded chemical residues of cannabinoids, compounds found in cannabis, in vessels and on heated stones that clearly indicate inhalation. The Tyva hair samples do not establish a particular method of consumption.",
-        "The recovered seeds likely came from wild plants, and the findings do not reveal how much THC those plants contained. It also remains unclear whether people specifically cultivated cannabis for its psychoactive properties or selected or cultivated plants for higher levels of active compounds.",
-        "The team is continuing its investigation. “We have already begun sequencing some of the plant samples,” says Caspari. “DNA preservation is excellent in this case. This will help us learn more about the history of the domestication and spread of this crop soon.”",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
-        "Save my name, email, and website in this browser for the next time I comment.",
-        "Type above and press Enter to search. Press Esc to cancel."
-      ],
-      "external": true,
-      "order": 9
+      "order": 13
     },
     {
       "id": "conversation-oceans-and-forests-have-absorbed-roughly-half-our-carbon-e",
@@ -419,7 +576,7 @@
         "Policymakers and the public need answers faster . We believe the solution involves both improving the atmospheric oxygen approach and using other independent approaches: measurements of carbon and oxygen in the oceans, computer models and satellites are all essential. Combining these approaches will lead to more robust understanding of the carbon cycle and climate change, and better knowledge of where these valuable carbon sinks and the global climate are headed."
       ],
       "external": true,
-      "order": 10
+      "order": 14
     },
     {
       "id": "nasa-gemini-astronaut-photos-inspired-early-earth-observation-p",
@@ -448,7 +605,7 @@
         "Rounds of heavy rain in the U. S. Southwest flooded rivers and rapidly raised New Mexico’s…"
       ],
       "external": true,
-      "order": 11
+      "order": 15
     },
     {
       "id": "nasa-news-gemini-astronaut-photos-inspired-early-earth-observation-p",
@@ -477,81 +634,7 @@
         "Rounds of heavy rain in the U. S. Southwest flooded rivers and rapidly raised New Mexico’s…"
       ],
       "external": true,
-      "order": 12
-    },
-    {
-      "id": "scitechdaily-scientists-warn-of-a-disturbing-rise-in-vitamin-k-deficien",
-      "title": "Scientists Warn of a Disturbing Rise in Vitamin K Deficiency Among American Newborns",
-      "dek": "Only about one in five infants diagnosed with vitamin K-related bleeding had received the shot, U. S. health records show.",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-13T15:58:10.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-warn-of-a-disturbing-rise-in-vitamin-k-deficiency-among-american-newborns/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "Only about one in five infants diagnosed with vitamin K-related bleeding had received the shot, U. S. health records show.",
-        "Babies are born with little vitamin K, leaving them vulnerable to bleeding that can cause permanent brain damage or death. A single shot helps protect against that danger. The American Academy of Pediatrics has recommended one dose injected into a muscle for newborns since 1961, and a growing number of American parents are choosing to skip it.",
-        "That trend has coincided with a sharp rise in diagnoses of vitamin K deficiency (VKD) and vitamin-K-deficient bleeding (VKDB). A nationwide study found that their rates increased by 216% and 347%, respectively, between 2017 and 2025, while the percentage of newborns receiving injectable vitamin K fell from 97. 7% to 95. 0%. The findings were published on November 5, 2026, in JAMA Pediatrics .",
-        "Vitamin K activates specialized proteins needed for normal blood clotting. Newborns receive too little through the placenta, absorb it poorly through their digestive systems, and get little from breast milk. The injection addresses a deficiency at a time when its consequences can be severe.",
-        "Classical VKD occurs between 2 days and 1 week after birth and causes bruising and bleeding from the umbilicus, or belly button. Late VKD, which occurs between 1 week and 6 months of age, carries a 30% to 60% risk of intracranial hemorrhage, or bleeding inside the skull. That bleeding can lead to seizures, permanent brain damage, or death.",
-        "Refusal of the shot has increased over the past decade. Previous studies found that the proportion of newborns who did not receive intramuscular vitamin K rose from 2. 9% in 2017 to 5. 2% in 2024.",
-        "To investigate the consequences of that trend, Elizabeth Wolf, M. D. , MPH, led the new nationwide study. Wolf is a pediatrician at Children’s Hospital of Richmond at VCU and an associate professor in the Department of Pediatrics at Virginia Commonwealth University School of Medicine.",
-        "The researchers analyzed de-identified electronic health records from a large national database covering health systems across the United States. Their analysis included more than 11 million infants aged 0 to 6 months who were born at 35 weeks’ gestation or later and received care between 2017 and 2025.",
-        "Only 40% of infants diagnosed with VKD and about 19% of those diagnosed with VKDB had received vitamin K shots. About 7% of infants with VKD and 2% of those with VKDB also had a diagnosis of intracranial or intracerebral hemorrhage, meaning bleeding inside the skull or within the brain tissue itself.",
-        "“We knew from prior studies that vitamin K refusal had been increasing in the U. S. , and we wanted to learn if there were any real-life consequences of this trend,” Wolf said. “We found that the answer is undeniably yes, with the rates of VKD and VKDB multiplying over the course of our study.”",
-        "The researchers caution that the simultaneous decline in injections and increase in diagnoses does not prove causation. Wolf considers other explanations unlikely, however, because behaviors and diseases that increase the risk of VKD remained constant or decreased during the study period.",
-        "The study’s co-authors included Steven Woolf, M. D. , director emeritus of the VCU Center on Society and Health and a professor in VCU School of Medicine’s Department of Family Medicine, Evan French, MS, of VCU’s C. Kenneth and Dianne Wright Center for Clinical and Translational Research, and Darya Shokouhi Niaki, Pharm. D. , of the VCU School of Public Health’s Department of Biostatistics.",
-        "Wolf connected the findings to growing mistrust of doctors and public health professionals.",
-        "“Similar to the recent measles outbreaks, we are seeing the real-world implications of growing mistrust of doctors and public health professionals. We need clear messaging from all levels of public health about the benefits of vitamin K administration for newborns.”"
-      ],
-      "external": true,
-      "order": 13
-    },
-    {
-      "id": "scitechdaily-blood-vessel-function-improved-just-60-minutes-after-takin",
-      "title": "Blood Vessel Function Improved Just 60 Minutes After Taking This Anti-Aging Supplement",
-      "dek": "Blood vessel function improved within an hour of a supplement’s first dose in a small human trial, though lasting protection against cardiovascular disease remains unproven.",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-13T15:23:06.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/blood-vessel-function-improved-just-60-minutes-after-taking-this-anti-aging-supplement/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "Blood vessel function improved within an hour of a supplement’s first dose in a small human trial, though lasting protection against cardiovascular disease remains unproven.",
-        "What if protecting the heart and blood vessels requires more than treating traditional risk factors such as high blood pressure and cholesterol?",
-        "Cardiovascular disease remains the world’s leading cause of death, and researchers at the University of Surrey are exploring whether targeting the biology of aging could help protect the heart and blood vessels. In a small trial, they tested a nutritional supplement designed to address several aging-related processes at once, finding improvements in blood vessel function and blood pressure over six months.",
-        "The randomized controlled trial enrolled 61 participants, with 33 taking NOVOS Core and 28 receiving a placebo once daily for six months. Researchers investigated whether combining these substances could improve cardiovascular health by influencing multiple aging-related pathways simultaneously.",
-        "The supplement combines 12 ingredients selected to target biological processes associated with aging. These include glycine, magnesium malate, calcium alpha-ketoglutarate, glucosamine sulfate, vitamin C, L-theanine, hyaluronic acid, and small amounts of lithium, along with plant-derived compounds such as fisetin, pterostilbene, Rhodiola rosea extract, and ginger extract.",
-        "Professor Christian Heiss, Professor of Cardiovascular Medicine at the University of Surrey, said: “Biological aging is not driven by one pathway, but by a number of interacting molecular and cellular processes. The idea behind this study was to ask whether addressing several of these processes at the same time via a nutritional supplement could produce measurable effects on cardiovascular health biomarkers.",
-        "“As a first step, we looked at established biomarkers of vascular health, such as blood pressure and cholesterol levels, rather than clinical outcomes. We found favorable changes in endothelial function, arterial stiffness, and systolic blood pressure after six months. These findings are encouraging. We now need larger studies to understand the mechanisms involved and, importantly, whether these changes translate into longer-term health benefits.”",
-        "Researchers measured flow-mediated dilation, or how readily an artery widens as blood flow increases. This reveals how well its inner lining, the endothelium, works to regulate vessel width and blood clotting. Dilation improved in the supplement group compared with the placebo group after six months. An improvement also appeared just one hour after the first dose, while placebo readings remained largely unchanged.",
-        "Arteries were also less stiff in the supplement group. Researchers assessed this using pulse wave velocity, the speed at which a pressure wave travels through arteries. Slower waves indicate more flexible arteries, and the adjusted difference between groups was 1. 18 meters per second after six months.",
-        "Systolic blood pressure, the pressure when the heart contracts, was an adjusted 6. 1 mmHg lower in the supplement group than in the placebo group at six months. A difference was also observed one hour after the first dose. Estimated 10-year cardiovascular risk decreased modestly, largely reflecting the blood pressure difference.",
-        "Previous large studies have associated a sustained 5 mmHg reduction in systolic blood pressure with approximately 10 percent fewer major cardiovascular events. The Surrey trial measured markers associated with risk and was not designed to determine whether participants experienced fewer such events.",
-        "Diogo Barardo, PhD, Director of R&D at NOVOS and a geroscientist, a scientist specializing in the biology of aging, said:",
-        "“When we began developing NOVOS Core in 2019, our hypothesis was that simultaneously targeting all the hallmarks of aging, the fundamental biological processes underlying aging and age-related diseases, could produce measurable improvements in the organs and systems affected by aging.",
-        "“The STAMINA results provide encouraging clinical evidence consistent with that hypothesis, demonstrating improvements across three measures of cardiovascular function, particularly meaningful given that cardiovascular disease remains the leading cause of death worldwide.”"
-      ],
-      "external": true,
-      "order": 14
+      "order": 16
     },
     {
       "id": "conversation-to-get-americans-to-care-about-climate-change-just-call-it",
@@ -595,44 +678,7 @@
         "Gale Sinatra received funding from the National Science Foundation."
       ],
       "external": true,
-      "order": 15
-    },
-    {
-      "id": "scitechdaily-scientists-discover-new-form-of-prostate-cancer",
-      "title": "Scientists Discover New Form of Prostate Cancer",
-      "dek": "Researchers at the University of British Columbia have identified a previously unrecognized form of hereditary prostate cancer linked to a rare genetic mutation that can lead…",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-13T14:48:17.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-discover-new-form-of-prostate-cancer/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "Researchers at the University of British Columbia have identified a previously unrecognized form of hereditary prostate cancer linked to a rare genetic mutation that can lead to aggressive disease at relatively young ages. The discovery could help doctors identify families with an inherited cancer risk and introduce earlier screening, potentially detecting tumors before they spread.",
-        "The new study, published in Cancer Discovery , connects this form of hereditary prostate cancer to inherited mutations in a gene called CDK12. After analyzing genetic data from more than 4,500 people with aggressive prostate cancer, researchers identified five unrelated men carrying these mutations. All five developed metastatic prostate cancer between ages 44 and 62.",
-        "Scientists previously believed that harmful CDK12 mutations developed spontaneously within tumor cells rather than being inherited from a parent. To investigate whether inherited mutations were responsible for the cancers, researchers examined the patients’ tumors for a distinctive pattern of genetic changes associated with CDK12 dysfunction.",
-        "“The tumors provided us with a genetic signature that pointed directly back to CDK12,” said lead author Dr. Sofie Tolmeijer, a postdoctoral fellow in the Wyatt lab. “It gave us compelling evidence that these inherited mutations were playing a direct role in causing their cancer.”",
-        "“What’s striking is that every patient we identified with this inherited mutation had already developed metastatic disease by the time they were diagnosed,” said senior author Dr. Alexander Wyatt, associate professor of urologic sciences at UBC and UBC President’s Excellence Chair in Precision Oncology. “The opportunity now is to identify these families earlier and give people the chance to benefit from enhanced screening, when there are still curative treatment options.”",
-        "Approximately 5 to 10 percent of cancers are associated with inherited genetic mutations, rather than changes that accumulate during a person’s lifetime. Among the best-known examples are BRCA1 and BRCA2 mutations, which increase the risk of breast, ovarian, pancreatic, and prostate cancers. Genetic testing for these mutations already helps guide cancer screening and preventive care.",
-        "Inherited CDK12 mutations appear considerably rarer. The researchers estimate that they occur in approximately one in 1,000 people with aggressive prostate cancer, potentially affecting hundreds of families worldwide. Identifying a carrier could allow relatives to undergo genetic testing and determine whether they share the mutation.",
-        "“While this mutation is extremely rare, the discovery could be lifesaving for the families who carry it,” said Dr. Tolmeijer. “Finding one person with an inherited mutation gives us the opportunity to identify other family members at risk and help them take action before cancer develops or spreads.”",
-        "The research team recommends considering CDK12 for inclusion in standard hereditary prostate cancer testing panels. Unlike genetic discoveries that require new diagnostic methods, CDK12 mutations can already be detected using existing clinical technology, potentially making expanded testing faster and less expensive to implement.",
-        "“One of the most exciting aspects of this discovery is that we already have the technology needed to act on it,” said Dr. Wyatt, who is also a senior research scientist at the Vancouver Prostate Centre and senior scientist at BC Cancer. “Adding CDK12 to existing genetic tests is relatively straightforward, which means this discovery could move from the research lab into clinical care much more quickly.”",
-        "The findings also raise questions about whether inherited CDK12 mutations contribute to ovarian cancer. Several affected men had family histories of ovarian cancer, and researchers identified an additional person with ovarian cancer who carried an inherited CDK12 mutation. That person’s tumor displayed the same characteristic genetic changes associated with CDK12 dysfunction. Further research is needed to establish whether the mutation increases ovarian cancer risk.",
-        "“With the right genetic testing and screening programs, we envision a future where no one who inherits one of these mutations dies from cancer,” said Dr. Wyatt.",
-        "The study was supported by the Prostate Cancer Foundation, Terry Fox Research Institute, Canadian Cancer Society, Canadian Institutes of Health Research, Michael Smith Health Research BC, U. S. National Institutes of Health, BC Cancer Foundation and other funding partners.",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
-      ],
-      "external": true,
-      "order": 16
+      "order": 17
     },
     {
       "id": "conversation-debate-in-new-york-city-over-city-run-groceries-is-not-jus",
@@ -679,7 +725,7 @@
         "If the stores deliver reliable savings, shoppers may begin to see affordable food as something government can help provide, not an outcome determined entirely by private markets. When public benefits are obscured, people are more likely to underestimate government’s contribution to their lives. Visible programs, like a physical store in the neighborhood, make that contribution easier to notice and evaluate."
       ],
       "external": true,
-      "order": 17
+      "order": 18
     },
     {
       "id": "conversation-maha-suffered-heavy-losses-in-the-2026-midterms-but-the-mo",
@@ -721,53 +767,6 @@
         "MAHA could also become a movement independent of Trump and MAGA. It could bring together Americans who care about health and wellness, distrust major institutions and oppose corporate influence over food and medicine. Kennedy’s independent presidential campaign attracted as much as 15% support among voters in July 2024. This showed that an alternative to the two major parties could attract substantial support.",
         "Whether MAHA remains tied to Trump’s increasingly divided coalition will shape its future beyond his presidency. The frustrations and health concerns that fueled its rise among Americans have not disappeared.",
         "The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment."
-      ],
-      "external": true,
-      "order": 18
-    },
-    {
-      "id": "conversation-republican-gerrymandering-worked-pretty-well-in-texas-and-",
-      "title": "Republican gerrymandering worked pretty well in Texas and Florida, even if it backfired in North Carolina and Ohio",
-      "dek": "During the 2026 election cycle, Republicans enacted a series of gerrymanders – a form of partisan redistricting – in a handful of states to give them a disproportionate edge…",
-      "category": "社会",
-      "tags": [
-        "The Conversation"
-      ],
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-13T13:37:40.000Z",
-      "source": {
-        "name": "The Conversation",
-        "license": "CC BY-ND 4.0",
-        "licenseLabel": "CC BY-ND 4.0",
-        "url": "https://theconversation.com/republican-gerrymandering-worked-pretty-well-in-texas-and-florida-even-if-it-backfired-in-north-carolina-and-ohio-295944"
-      },
-      "cover": "books",
-      "accent": "blue",
-      "paragraphs": [
-        "During the 2026 election cycle, Republicans enacted a series of gerrymanders – a form of partisan redistricting – in a handful of states to give them a disproportionate edge over Democrats in their congressional delegations. Democrats responded with a successful redistricting effort in California and an unsuccessful one in Virginia .",
-        "Gerrymandering has obvious implications for fairness and democracy, characterized by some as politicians picking their voters, not voters picking their politicians.",
-        "There’s also a practical consideration for those doing the gerrymandering: The efforts can fail when they overplay their hand.",
-        "By spreading their supportive voters across many districts, parties can create more seats that may lean in their direction. But if spread too thin, these efforts can backfire and net seats for the other party, particularly in a “wave” election year that favors the other party. This unintended consequence is often referred to as a “dummymander .”",
-        "So, with such massive Democratic majorities poised to enter the 120th Congress, did Republican attempts to gerrymander actually end up costing them some seats in the U. S. House?",
-        "Republican state legislatures in Ohio and North Carolina redrew their congressional maps in 2025 , crafting a set of districts they believed would maximize the number of seats they could win in the House.",
-        "Despite both states being traditionally competitive in statewide elections, their state legislatures drew a collection of seats Republicans believed they would win: 12 of these 15 new seats in Ohio and 11 out of 14 in North Carolina included a majority of voters who voted for Donald Trump in the 2024 presidential election.",
-        "But in 2026, Democrats across the country won dozens of seats that had previously seemed out of reach, including districts Trump won by double digits in 2024. Many of these seats were in heavily gerrymandered Republican seats.",
-        "In Ohio and North Carolina, the size and scope of the midterm backlash against Trump and his party put many of the seats Republicans targeted in these states, including ones Trump won by as many as 20 points, in serious jeopardy.",
-        "In the end, the Democratic wave overcame so many Trump-won seats in these states that their new delegations to Congress may be more Democratic than they would have been without the gerrymanders.",
-        "Texas and Florida also targeted a series of Democrat-held seats to flip their way in 2026. Nine such seats across these two states, as well as a vulnerable seat held by Democratic U. S. Rep. Shomari Figures in Alabama, were the targets of gerrymanders that created new districts that Trump won in 2024, all by 9 percentage points or more.",
-        "But once the 2026 Democratic wave swept through the deep South, these gerrymanders were essentially canceled out. Despite the gains the party projected, Republicans in these three states appear likely to enter the 120th Congress with delegations the same size as they had in the 119th.",
-        "Other Republican gerrymandering attempts were successful, but only barely. In Tennessee’s 9th District, the last remaining Democratic seat in the state was gerrymandered into a district Donald Trump won by 21 points in 2024. Republicans did hold that seat as expected, but only by 2,500 votes, or just over 1 percentage point.",
-        "Many of these gerrymanders were not maximally successful. But were they true dummymanders?",
-        "In North Carolina and Ohio it does appear that Republicans overplayed their hand by counting on past Trump voters in a national environment that proved so favorable to the Democrats.",
-        "In Ohio, a gerrymander that aimed for a two-thirds Republican majority in their House delegation will net them less than half of that in the 120th Congress . That outcome ended up producing a more representative result, one that was roughly in line with the two parties’ 2026 popular vote shares in the state.",
-        "North Carolina was a more drastic dummymander: The Republicans aimed to design districts where they would win seats accounting for almost two-thirds of their congressional delegation. But the party is currently poised to hold , at best, less than one-third of their state’s seats.",
-        "And California, which Democrats gerrymandered in reaction to Republican efforts in other states, is a partisan success story . The state is projected to send only 8% of their delegation to the House as Republicans, despite voting 30% for Republicans statewide.",
-        "In Texas and Florida the story is more complicated. Democrats in those states retained most of the seats they held that their Republican legislatures targeted in their gerrymanders, thanks to historic shifts by Hispanic voters who had voted for Trump in the 2024 election.",
-        "But gerrymanders can be effective beyond marginal, targeted districts. Taken as a whole, Texas’ and Florida’s district boundaries were drawn so favorably for Republicans that even a Democratic tsunami managed only to keep these states’ delegations identical in the next Congress, since many other districts remained safe for Republicans.",
-        "In these states, Republicans still enjoy a greater proportion of House seats than their popular vote margins would reflect. And in a less Democrat-leaning election cycle, many of these gerrymandered seats could very well shift back toward Republicans.",
-        "As poor as the outcome of the 2026 midterms was for Republicans, it could have been even worse. In fact, some Republican states might count themselves lucky that their attempts to gerrymander failed in the lead-up to the midterms.",
-        "In traditionally Republican states such as Missouri and Utah , courts struck down gerrymanders that would have created a series of districts that Trump won by around 20 percentage points . If the gerrymanders had not been struck down, Democrats’ shocking success in similar districts across the country could have netted them as many as five additional seats in these states.",
-        "A similar situation played out in Indiana and South Carolina . New maps pushed by Trump that failed in their state legislatures were intended to produce even more lopsided Republican gains. But analysis from the Cook Political Report found that these maps might have netted Democrats as many as six out of South Carolina’s seven House seats, and eight out of Indiana’s nine. Instead, Democrats seem likely to end up with only a pair of seats in each state."
       ],
       "external": true,
       "order": 19
