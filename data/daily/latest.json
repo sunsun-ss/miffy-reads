@@ -1,154 +1,495 @@
 {
-  "generatedAt": "2026-11-14T22:01:25.264Z",
-  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T22:31:58.279Z",
+  "date": "2026-11-16",
   "failedSources": [],
   "articles": [
     {
-      "id": "phys-urban-expansion-causes-ecological-collapse-in-streams-in-t",
-      "title": "Urban expansion causes ecological collapse in streams in the São Paulo Metropolitan Area",
-      "dek": "The advance of urbanization in the São Paulo Metropolitan Area in Brazil is causing the collapse of food webs in local streams. ",
-      "category": "社会",
+      "id": "phys-when-the-saudi-desert-was-green-a-125-000-year-old-lakesid",
+      "title": "When the Saudi desert was green: A 125,000-year-old lakeside reveals how early humans lived",
+      "dek": "Megafauna remains, stone tools and rare plant material recovered from the 125,000-year-old lakeside site of Uruq al-Julaybah in Mundafan, southern Saudi Arabia, provide one…",
+      "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T22:00:01.000Z",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-15T22:00:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-urban-expansion-ecological-collapse-streams.html"
+        "url": "https://phys.org/news/2026-11-saudi-green-year-lakeside-reveals.html"
       },
-      "cover": "books",
-      "accent": "blue",
+      "cover": "orbit",
+      "accent": "lilac",
       "paragraphs": [
-        "The advance of urbanization in the São Paulo Metropolitan Area in Brazil is causing the collapse of food webs in local streams. A study published in August in the journal Nature Cities reveals that the impact of the metropolis goes far beyond a simple reduction in species. Degradation selectively eliminates organisms based on their size and simplifies ecological interactions. Networks of 190 connections plummet to just three.",
-        "With the flow of energy in these ecosystems reduced by more than a thousandfold, the streams lose their ability to perform critical environmental services, such as breaking down and neutralizing toxic pollutants. This directly affects the quality of the water that supplies the region's more than 22 million residents.",
-        "Victor Saito, a professor in the Department of Environmental Sciences at the Federal University of São Carlos (UFSCar), and Luis Schiesari, a professor of environmental management at the University of São Paulo (USP), led the research. Both are affiliated with the Center for Research on Biodiversity Dynamics and Climate Change (CBioClima), a Research, Innovation, and Dissemination Center (RIDC).",
-        "The study focused on analyzing the size structure of organisms that make up stream communities. The findings showed that the loss of biodiversity was not random; urban environments favored only small organisms, eliminating the very small, medium-sized and large ones. Since body size determines an animal's required resources and its predators and prey, this selective extinction disrupts the entire ecosystem.",
-        "To conduct the analysis, the researchers carried out comparative sampling in headwater streams—the small waterways that feed into larger rivers—distributed across micro-watersheds in the Upper Tietê region. Thirty micro-watersheds were selected to represent all stages of urbanization, from areas entirely covered by Atlantic Forest to areas entirely urbanized.",
-        "The researchers collected fish and invertebrates to reconstruct the food webs at each site, taking into account the body sizes and feeding preferences of the sampled animals. Based on this reconstruction, they estimated the energy flowing through the ecosystem using the predation relationships between predators and their prey.",
-        "\"What we observed was the near-complete loss of biodiversity and the collapse of stream ecosystems even in the earliest stages of human occupation of the microbasin. The complexity of the food webs plummeted from 190 estimated interactions in fully forested microbasins to just three in fully urbanized areas,\" says Schiesari. According to the researcher, this collapse is evident even in microbasins with only 12. 5% urban coverage and significant forest cover, meaning degradation occurs right from the earliest stages of urbanization rather than gradually.",
-        "This simplification has consequences for ecosystem functioning since food webs represent pathways through which energy and carbon flow between organisms. Complex food webs slow the flow of matter in streams, promoting slow processing, which leads to the breakdown of toxic pollutants.",
-        "\"In streams with simple food webs, matter flows faster and is deposited, after incomplete processing, in the lowest points of the terrain. But it's in those low-lying areas that the reservoirs used for public supply are located, such as the Billings Reservoir, which receives water from several microbasins sampled in the study,\" the researchers emphasize.",
-        "\"We can imagine a food web as a mesh: the more threads and connections it has, the more complex the possibilities of energy transfer. Urbanization removes these threads until only a small, simplified and potentially fragile network remains,\" Saito explained in an interview with the UFSCar news portal.",
-        "With fewer connections, less energy circulates. The researchers estimated a 1,446-fold reduction in energy flow among communities in streams most affected by urbanization compared to those in forested areas. The results indicate that urbanization does not merely mean a reduction in species; it can profoundly alter the way the ecosystem functions.",
-        "\"Each stream within a watershed contributes to the formation of major rivers and reservoirs that supply public water systems. When a stream stops processing organic matter and pollutants, those substances flow freely into larger systems, damaging the public use we depend on,\" Saito emphasized.",
-        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
+        "Megafauna remains, stone tools and rare plant material recovered from the 125,000-year-old lakeside site of Uruq al-Julaybah in Mundafan, southern Saudi Arabia, provide one of the most detailed pictures yet of prehistoric human life in Arabia. Together, the discoveries reveal how early people lived, hunted and used their environment during a greener, wetter period in Arabian history.",
+        "Published in Science , the study brings together King Abdullah University of Science and Technology (KAUST) researchers spanning geology, archaeology, botany and micropaleontology alongside colleagues at Griffith University and the Saudi Heritage Commission and several other international institutions. The findings add significant evidence to Saudi Arabia's deep human and environmental history and contribute to a wider understanding of early human presence across the Arabian Peninsula.",
+        "Researchers used satellite terrain modeling to map the approximately 340 km² (131 square miles) ancient lake, which reached a maximum depth of 29 meters (95 feet). Sediments, geomorphological data and aquatic remains indicated a relatively stable freshwater body surrounded by vegetation and open grasslands.",
+        "The team also carried out systematic grid surveys to collect fossils and stone tools, used two dating methods on sand and fossil teeth, applied 3D-refitting techniques to stone tools, and conducted microscopic and chemical residue analysis of tool surfaces. This comprehensive methodology provided direct insights into how early human populations lived and adapted during the last interglacial period , a warm, humid phase approximately 125,000 years ago commonly known as Green Arabia.",
+        "The team documented more than 500 fossil specimens of plants and animals, including invertebrates, at more than 130 locations across the site. Animal remains included hippos, extinct long-horned buffaloes, camels, Arabian oryx, gazelles and ostriches.",
+        "Researchers collected 5,511 stone tools larger than 2 cm (0. 8 inches) from the main study area. More than 98% were made of flint, and analyses showed the use of Levallois techniques in stone tool production.",
+        "The tools contain residues of a wide variety of plants, including some that are toxic. Traces of resin and woody tissue suggest the use of hafted weapon tips, while plant residues indicate the processing of tubers, bushes and palm leaves. These traces point to varied uses of plants for food and everyday tasks.",
+        "Among the most significant findings is evidence of the potential use of toxic plant compounds in hunting technology, understood to be among the first examples of such evidence recorded in Saudi Arabia, alongside some of the earliest evidence of palm-related vegetation found in the region. Together, these findings paint a picture of a population making diverse and sophisticated use of their environment.",
+        "What makes this site exceptional is that all of these elements (animal remains, stone tools and plant material) were found together in a single, dated context, allowing researchers to reconstruct in unusual detail the daily lives of the people who occupied this lakeside. The site provides a vivid and unusually complete picture of how humans lived in Green Arabia.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "The findings also indicate that the shores of ancient Lake Mundafan brought together freshwater, animals, plants and raw materials during the humid period around 125,000 years ago. This combination supported a range of human activities, including stone tool production, the preparation of hunting equipment, the processing of animal and plant resources, and fiber working.",
+        "\"It is very exciting to see how the collaboration of so many different specialists allows us to reconstruct this uniquely complete picture of life, behavior and the environment in the distant past,\" said professor Frans van Buchem, KAUST professor of geology and co-lead scientist.",
+        "Dr. Faisal Al-Jibreen, a participating researcher from the Heritage Commission and a professor of Paleolithic archaeology, described the discovery in the sands of Lake Mundafan in the Empty Quarter as an important archaeological find that sheds light on the ancient environment and its relationship with humans and animals in southern Saudi Arabia's early prehistory."
       ],
       "external": true,
       "order": 0
     },
     {
-      "id": "scitechdaily-powerful-new-weight-loss-drug-could-change-how-millions-tr",
-      "title": "Powerful New Weight-Loss Drug Could Change How Millions Treat Painful Knee Arthritis",
-      "dek": "An experimental weight-loss injection may offer more than a way to shed pounds, with clinical trials suggesting it could also ease the burden of painful knee arthritis.",
+      "id": "scitechdaily-alzheimers-breakthrough-reveals-what-happens-when-the-brai",
+      "title": "Alzheimer’s Breakthrough Reveals What Happens When the Brain’s Cleaning System Fails",
+      "dek": "A new study suggests that a little-understood genetic risk factor may influence Alzheimer’s progression by weakening the brain’s natural defenses against toxic plaques.",
       "category": "健康",
       "tags": [
         "SciTechDaily"
       ],
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T21:22:01.000Z",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-15T21:33:45.000Z",
       "source": {
         "name": "SciTechDaily",
         "license": "Free daily tech news",
         "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/powerful-new-weight-loss-drug-could-change-how-millions-treat-painful-knee-arthritis/"
+        "url": "https://scitechdaily.com/alzheimers-breakthrough-reveals-what-happens-when-the-brains-cleaning-system-fails/"
       },
       "cover": "flower",
       "accent": "pink",
       "paragraphs": [
-        "An experimental weight-loss injection may offer more than a way to shed pounds, with clinical trials suggesting it could also ease the burden of painful knee arthritis.",
-        "Losing weight can help relieve knee osteoarthritis, yet the condition often makes weight loss difficult in the first place. When walking, climbing stairs, or simply standing up from a chair causes pain, getting enough exercise can become a challenge.",
-        "For the roughly 15 million Americans living with painful knee osteoarthritis, treatment options remain limited. Physical therapy, topical medications, anti-inflammatory drugs such as ibuprofen and Voltaren, opioids, and corticosteroid injections can help manage symptoms, although steroid injections typically provide only short-term relief.",
-        "Previous research has shown that losing just 5% to 10% of body weight through diet and exercise can improve symptoms. Losing more than 10%, however, is difficult through lifestyle changes alone, particularly for people whose knees already limit their movement.",
-        "An experimental weight-loss injection called retatrutide may offer another way to address this problem. In two large clinical trials led by Northwestern University, participants who were overweight or had obesity experienced substantial weight loss alongside significant reductions in knee pain.",
-        "The phase 3 trials, published in the New England Journal of Medicine , involved more than 1,000 participants combined. Those receiving the highest dose of retatrutide lost approximately 25% of their body weight on average. A pooled analysis found that about two-thirds of participants receiving the drug reported at least a 50% reduction in knee pain, compared with 38% of those given a placebo.",
-        "Researchers tracked these changes using the Western Ontario and McMaster Universities Arthritis Index (WOMAC), which asks patients to rate their pain from 0 to 10. Participants also recorded their daily pain levels through an app.",
-        "“The findings are really saying for people who are overweight and have OA, if you lose a significant amount of weight with this treatment, there is a good chance that you’re going to get a meaningful reduction in your knee pain,” said corresponding author Dr. Thomas Schnitzer, a professor of physical medicine and rehabilitation, anesthesiology and medicine (rheumatology) at Northwestern University Feinberg School of Medicine. “A major factor is that you’re loading your knees less and therefore, there’s less pain and it allows you to increase your function.”",
-        "Developed by Eli Lilly, retatrutide is a once-weekly injection that activates receptors for three naturally occurring hormones involved in metabolism. Existing weight-loss medications such as semaglutide and tirzepatide target one or two receptors and typically produce weight reductions of 10% to 20%. Retatrutide produced losses of approximately 20% to 25% in these trials.",
-        "“Participants had remarkable responses,” Schnitzer said. “Many of the people in this study lost considerable amounts of weight, with a few losing up to a hundred pounds or more.”",
-        "The improvements also extended beyond body weight and joint pain. Participants experienced lower blood pressure, reduced blood lipid levels, and less systemic inflammation, suggesting broader metabolic benefits.",
-        "Scientists from Eli Lilly were among the study’s co-authors. Philip Conaghan, professor of musculoskeletal medicine at the University of Leeds in the United Kingdom, presented results from the TRIUMPH-4 trial at the American College of Rheumatology annual meeting in Orlando, Florida. Findings from the second trial, TRIUMPH-1-OA, were presented separately during a poster session.",
-        "Despite the promising results, retatrutide remains experimental and would require approval from the U. S. Food and Drug Administration before becoming a treatment option. Schnitzer emphasized that diet, exercise, and lifestyle changes should remain the first approach because they are less expensive and avoid potential side effects associated with GLP-1 medications, including gastrointestinal problems and muscle loss. Preserving muscle is especially important for patients with knee osteoarthritis because it helps stabilize the joint.",
-        "The trials also left a crucial question unanswered. Although retatrutide significantly reduced pain, researchers do not yet know whether it slows the underlying progression of osteoarthritis or could help patients avoid knee replacement surgery. People who already needed knee replacements were excluded from the studies."
+        "A new study suggests that a little-understood genetic risk factor may influence Alzheimer’s progression by weakening the brain’s natural defenses against toxic plaques.",
+        "A gene linked to Alzheimer’s disease may play a crucial role in protecting the brain from toxic protein buildup. Researchers at UVA Health have discovered that CASS4 helps immune cells contain harmful plaques, and experiments in mice show that disrupting the gene can accelerate plaque accumulation, damage neurons, and contribute to cognitive decline.",
+        "The findings suggest that CASS4 influences Alzheimer’s primarily through the brain’s immune system rather than by acting directly in nerve cells, as some scientists previously suspected. Researchers now believe that restoring or strengthening its activity could offer a new approach to treating the disease.",
+        "Alzheimer’s disease, which affects more than 6 million Americans, is characterized by the accumulation of amyloid-beta plaques and abnormal tangles of tau proteins in the brain. These changes are associated with progressive damage to neurons and worsening memory and cognitive function.",
+        "Specialized immune cells called microglia help defend the brain against these threats. When functioning properly, they gather around amyloid-beta plaques, form protective barriers, and compress the deposits into smaller, more compact structures that can limit their harmful effects.",
+        "Researchers led by John Lukens, PhD, found that CASS4 plays an important role in this protective process. In laboratory mice lacking normal CASS4 function, microglia became less effective at surrounding and compacting plaques. Amyloid deposits accumulated more aggressively, neuronal damage increased, and the animals experienced cognitive decline.",
+        "Although previous genetic studies had repeatedly associated CASS4 with Alzheimer’s risk, scientists had little understanding of its biological function. The UVA team investigated how the gene influences microglial activity and what happens when that activity is disrupted.",
+        "“Despite CASS4 being an Alzheimer’s risk gene, really nothing is known about what this gene does or how it affects the brain during disease. Our lab sought to address this major knowledge gap with this paper,” said Addie Walsh, a UVA physiology graduate student and the study’s first author. “These are important findings because they give us new insight into how this understudied AD risk gene functions in the brain and suggest that CASS4 may normally help microglia respond to amyloid pathology.”",
+        "Disrupting CASS4 also triggered widespread changes in gene activity. The researchers suspect that some of these alterations could be relevant to other neurodegenerative disorders, although the gene’s involvement in those conditions remains under investigation.",
+        "The results raise the possibility that CASS4 could eventually help researchers identify Alzheimer’s related changes earlier or develop therapies that improve the brain’s ability to manage amyloid plaques. However, the findings come from preclinical research, and further studies are needed to determine whether targeting the gene would benefit patients.",
+        "“These findings break new ground in our understanding of how this genetic risk factor contributes to Alzheimer’s disease,” said Lukens, director of UVA’s Harrison Family Translational Research Center in Alzheimer’s and Neurodegenerative Diseases. “Our work further suggests that defective CASS4 activity may serve as an early-onset biomarker to detect Alzheimer’s and that therapeutic strategies which boost its function may offer a much-needed approach to treat this devastating brain disease.”",
+        "The study also supports growing research into how immune dysfunction contributes to neurodegeneration. Rather than focusing exclusively on neurons or the proteins that accumulate around them, scientists are increasingly investigating whether modifying microglial responses could help protect brain tissue.",
+        "“We are now actively exploring potential roles for CASS4 in multiple other neurodegenerative disorders and developing novel strategies to therapeutically target it,” said Lukens, of the Department of Neuroscience at the University of Virginia School of Medicine. “Many in the field initially presumed that CASS4 was likely functioning in neurons to influence Alzheimer’s. Our findings shift this paradigm by proving that CASS4 predominantly acts through the immune system. This is particularly exciting, as it has only been in recent years that immune-targeting strategies have been considered for the treatment of neurodegenerative diseases, and this remains an untapped therapeutic avenue with tremendous potential.”",
+        "Walsh plans to continue investigating the role of microglia in neurodegenerative diseases as she moves into pharmaceutical research."
       ],
       "external": true,
       "order": 1
     },
     {
-      "id": "phys-a-dead-star-is-flashing-radio-waves-every-8-minutes-and-it",
-      "title": "A dead star is flashing radio waves every 8 minutes, and its partner looks a lot like the sun",
-      "dek": "Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients. ",
+      "id": "phys-dark-matter-hunting-satellite-euclid-reveals-record-number",
+      "title": "Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'",
+      "dek": "UBC researchers have helped uncover 15,000 new potential strong gravitational lenses—the largest collection of these cosmic tools that help astronomers investigate dark matter.",
       "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T21:00:01.000Z",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-15T20:00:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html"
+        "url": "https://phys.org/news/2026-11-dark-matterhunting-satellite-euclid-reveals.html"
       },
       "cover": "orbit",
       "accent": "lilac",
       "paragraphs": [
-        "Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients. These are objects that emit bright flashes of radio waves into space every few minutes to every few hours. Some have been traced back to binary systems consisting of a small, dim, cool star called a red dwarf in orbit with a stellar remnant called a white dwarf.",
-        "In new research published in Nature Astronomy , we report the first discovery of a different source for one of these enigmatic intermittent broadcasters: It still involves a white dwarf, but also a star much like our own sun.",
-        "After the discovery of the first long-period radio transient in 2022, once we had ruled out aliens, we went looking for natural explanations.",
-        "One idea was that they were extremely slow-spinning neutron star pulsars , the collapsed cores of enormous stars that also send out repeating radio flashes. But in theory, a neutron star spinning that slowly shouldn't produce radio waves, so the answer had to be something else.",
-        "When we started tracing these radio signals back to their sources, we made a breakthrough. One of our repeating signals came from a red dwarf star, probably orbiting a white dwarf (the remnant of a star like our sun).",
-        "Across the handful of long-period transients whose source stars we can identify, a pattern has emerged: a binary system of a white dwarf and a small, cool red dwarf.",
-        "In late 2024, we were looking for new long-period transients using the Murchison Widefield Array radio telescope in Western Australia.",
-        "Using a search method developed by doctoral student Csanád Horváth, we spotted something: short flashes of radio waves, arriving like clockwork every 7. 9 minutes.",
-        "Then the flashes stopped. For weeks we saw nothing, and we nearly gave up. But when we plotted every detection and nondetection together, a pattern emerged.",
-        "The pulses only appear during a window of about six hours, followed by 26 hours without pulses. The most natural explanation is that the system is a binary: two stars orbiting each other once every 32 hours, with the radio pulses only visible when they are lined up in the right way.",
-        "The MeerKAT telescope in South Africa pinpointed the source to a tiny patch of sky containing a single faint star. We turned to the Keck telescope in Hawaii to record the star's spectrum—the \"fingerprint\" of its light, which can tell us a lot about the star itself.",
-        "The result was a surprise: This was not a tiny red dwarf, but a G-type star almost the same mass and temperature as our own sun.",
-        "How can we be sure our source isn't a neutron star after all?",
-        "The clue is in the timing. As the pulsing object swings around its orbit, the pulses arrive up to 4 seconds earlier or later than expected, because the radio waves have farther to travel at some points than others. That tells us how large the orbit is."
+        "UBC researchers have helped uncover 15,000 new potential strong gravitational lenses—the largest collection of these cosmic tools that help astronomers investigate dark matter.",
+        "The first major release of data from the European Space Agency's Euclid space telescope comprises 1. 7 million gigabytes of data. Analysis by a global consortium of more than 2,000 scientists, including more than 30 Canadians, revealed more than 900 million galaxies and 60 million quasars—the brilliant cores of distant galaxies—across almost 5% of the entire night sky from 13 months of observation.",
+        "\"Strong lenses have been difficult to find—the odds were about 1 in 10,000,\" said co-author Hrishabh Srivastava, a doctoral student in the UBC department of physics and astronomy (PHAS). \"Before Euclid, we had fewer than 1,000 confirmed strong lenses. Now we have 15,000 new candidates.\"",
+        "The Euclid satellite launched in 2023 at a cost of more than $1 billion with the aim of mapping more than one-third of the sky to build a 3D map of the universe, which would help scientists determine the properties of dark energy and dark matter on a universal scale.",
+        "Dark energy and dark matter remain two of the greatest mysteries of modern physics despite making up about 95% of the universe. Dark energy is an unknown force pushing the universe apart and observed only by the accelerating expansion of galactic objects away from each other in all directions.",
+        "Dark matter is some form of invisible, unknown matter that we can only detect through its gravitational effects—including the bending or \"lensing\" of light.",
+        "\"It turns out, the stuff humans are made of is relatively rare in the universe,\" said co-author Dr. Douglas Scott, PHAS professor and a member of the Euclid collaboration. \"And what dominates—dark matter and dark energy—is invisible so we're not used to dealing with it. But it makes the universe what it is; it drives how the universe expands and what the past and future of the universe will be. Where did these things come from? What properties do they have? Euclid's data give us the potential to answer those questions.\"",
+        "Canadian organizations involved in the Euclid mission include UBC, University of Waterloo, NRC's Herzberg Astronomy and Astrophysics Research Center, the Canada-France-Hawaii Telescope and many others.",
+        "Gravitational lensing occurs when the light from one galaxy is bent by a foreground galaxy acting as a lens. The light from the more distant galaxy appears, in a perfect example, as a ring of light around the foreground galaxy, known as an Einstein ring thanks to his prediction of the phenomenon back in 1936. The composition and distribution of matter in the foreground, including dark matter, are revealed by how the light is bent.",
+        "\"I like to call these gravitational lenses 'nature's own magnifying glasses' to probe the dark matter distribution of our universe,\" said Srivastava.",
+        "\"It took many decades to verify Einstein's prediction of gravitational lenses, but if he had the Euclid data it would have been easy to confirm, since they're all over the sky,\" added Scott.",
+        "Gravitational lenses can also be used to investigate dark energy by plugging their parameters into the current cosmological model and seeing if the numbers match. They also magnify the background galaxy for a clearer picture.",
+        "Srivastava was part of the team finding gravitational lens candidates. This four-part process involves machine learning to initially parse the huge amount of data for likely lenses. Then, thousands of citizen scientists pore over the AI-sorted data to further refine the candidate pool. Third, experts including Srivastava check the citizen scientists' work, looking at about 6,000 to 10,000 galaxies each. The final step involves verifying that the candidates are indeed lenses using follow-up data with other telescopes.",
+        "The new catalog is larger than all previous collections of strong gravitational lenses combined. Because the observations were gathered by the same telescope and analyzed using the same methods, researchers can compare them more reliably than ever before."
       ],
       "external": true,
       "order": 2
     },
     {
-      "id": "phys-does-your-culture-shape-how-you-look-at-art-what-an-eye-tr",
-      "title": "Does your culture shape how you look at art? What an eye‑tracking study in Sudan revealed",
-      "dek": "Today, Old Dongola is an abandoned settlement on the banks of the Nile in northern Sudan. Hundreds of years ago, however, this place looked very different.",
-      "category": "文化",
+      "id": "scitechdaily-a-massive-search-of-24-000-crystals-reveals-thousands-of-n",
+      "title": "A Massive Search of 24,000 Crystals Reveals Thousands of New Possibilities",
+      "dek": "A computer search has identified thousands of crystals worth testing as sources of ultrathin materials, potentially widening the options for future electronics.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-15T19:07:12.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-massive-search-of-24000-crystals-reveals-thousands-of-new-possibilities/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "A computer search has identified thousands of crystals worth testing as sources of ultrathin materials, potentially widening the options for future electronics.",
+        "Peel a crystal down to a sheet just a few atoms thick, and you may change what the material can do. Its electrical, magnetic, or chemical behavior can shift, opening possibilities for electronics, energy storage, and faster chemical reactions.",
+        "These ultrathin sheets are known as two-dimensional, or 2D, materials. They have attracted scientific and technological interest since graphene was produced in 2004.",
+        "The challenge is finding crystals that will yield a sheet that holds together. Researchers have mostly started with crystals built like books, whose layers peel apart relatively easily because weak forces hold them together. Crystals with strong bonds running in every direction are much harder to separate.",
+        "A team at the Helmholtz-Zentrum Dresden-Rossendorf (HZDR) and TU Dresden has now developed the first efficient computational method for predicting separable atomic layers in any type of crystal. The findings, published in Nature Communications , give researchers a much wider selection of materials to investigate.",
+        "The team screened more than 24,000 known, non-layered crystal structures from one of the largest experimental materials databases and selected 2,531 particularly promising candidates for detailed calculations. These candidates would retain their chemical composition when a layer separated, and their calculated bonding ratios strongly favored a two-dimensional structure.",
+        "The predicted sheets differed markedly from existing database entries. Some could become metallic even though their original crystals are semiconductors, a fundamental change in how they carry electricity. Others could develop a direct band gap, an electronic feature potentially useful for devices that absorb or emit light. Magnetic candidates could also support spintronics, which uses electron spin to process and store data.",
+        "For most candidates, calculations indicated that separating a layer would require comparatively little energy. Many also appeared stable against small atomic disturbances and energetically favorable, basic requirements for technological use. Experiments must establish whether these materials can actually be made and under what conditions.",
+        "“Given that this class of materials is still so young, selecting suitable materials for experiments was often based on experience and intuition,” explains Dr. Rico Friedrich of HZDR’s Institute of Ion Beam Physics and Materials Research and TU Dresden. “Using our universal method, we can now determine the points at which a crystal in any material can best be split and whether a potentially stable two-dimensional structure can form in the process.”",
+        "The method starts by calculating how strongly individual atoms are bonded. Its core model, called the eXfoliation and Cleavage Potential, or XCP, makes these precise calculations using the elements involved and the distances between atoms.",
+        "Two additional algorithms then look for ways to separate a sheet. One searches for easily separable planes within the crystal. The other gradually removes the weakest bonds from the model until two-dimensional structures remain. The approach also detects separation surfaces that are uneven at the atomic scale.",
+        "“Calculating the electronic structure for every conceivable surface would be incredibly time-consuming,” says lead author Tom Barnowsky. “Our efficient model, on the other hand, can search big materials databases with minimal computational effort. Detailed calculations are only required for particularly promising hits.”",
+        "Tests across a wide range of two-dimensional materials already produced experimentally showed that XCP reliably identified the preferred planes for separating layers. The method is freely available as a web tool .",
+        "“Our results vastly expand the horizon for two-dimensional materials,” says Friedrich. “The method doesn’t guarantee that every candidate can be produced in the lab. But it does show which crystals are actually worth the experimental effort.”"
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-the-experiments-improving-our-understanding-of-volcanic-ts",
+      "title": "The experiments improving our understanding of volcanic tsunamis",
+      "dek": "Tsunamis triggered by volcanic eruptions are poorly understood because of the complex dynamics governing how falling rocks and ash interact with seawater to generate waves. ",
+      "category": "环境",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T19:00:01.000Z",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-15T19:00:02.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-culture-art-eyetracking-sudan-revealed.html"
+        "url": "https://phys.org/news/2026-11-volcanic-tsunamis.html"
       },
-      "cover": "cup",
-      "accent": "orange",
+      "cover": "leaf",
+      "accent": "green",
       "paragraphs": [
-        "Today, Old Dongola is an abandoned settlement on the banks of the Nile in northern Sudan. Hundreds of years ago, however, this place looked very different.",
-        "During the Middle Ages, Old Dongola was the capital of the Kingdom of Makuria , which adopted Christianity in the sixth century. Nearly 700 years after the fall of the kingdom, many medieval buildings have survived beneath the desert, including the remains of churches and monasteries. Their walls still preserve paintings of archangels or biblical scenes or local rulers and dignitaries.",
-        "There have been several studies of these paintings to learn about the religious life, politics and art of medieval Nubians. But, as a team of psychologists, cognitive scientists, archaeologists and heritage managers from European and Sudanese institutions, we decided to ask a different question: How does the culture we come from influence the way we look at them?",
-        "Researchers have used eye-tracking to investigate cross-cultural differences in the way we perceive things since the early 2000s , but most studies have been in laboratory settings. Our team wanted to explore how culture shapes the way people engage with visual art in its original historical context.",
-        "Our \"research laboratory\" was a medieval monastery at Kom H in Old Dongola. The team (me, Marwa Satti, Mohammed Hassan Siedahmed and Tobiasz Trawinski) invited both Sudanese and Western participants to the site and gave them eye-tracking devices to wear in the form of special glasses. As they observed the medieval paintings, we mapped where their eyes fell, for how long and in which order.",
-        "We found that the two groups differed in the way they directed their attention to particular elements of the paintings. Westerners focused more on human figures, particularly faces and bodies, before turning their attention to attributes like objects or clothing or symbols. Sudanese participants initially focused on attributes, later looking more at faces and the surrounding context, suggesting a broader way of viewing the paintings.",
-        "We believe a study like this may help us develop more culturally adapted approaches to promoting heritage like this.",
-        "When we stand in front of a painting, our natural instinct is to try to understand what's happening in it. As humans, we're sensitive to differences in brightness, color intensity and orientation. These features can guide our eyes .",
-        "But looking is also about who we are. Psychology studies suggest our individual characteristics, experiences, goals and cultural background influence how we explore visual scenes.",
-        "Another cross-cultural eye-tracking study , for example, showed that American participants tended to focus more strongly on a focal object like an airplane in the sky, while Chinese participants often paid greater attention to the context or bigger picture. This may reflect broader cultural tendencies. Individualistic cultures may place more emphasis on individuals while collectivistic cultures may place more emphasis on the wider group.",
-        "Eye-trackers are equipped with small cameras that record gaze patterns. We gave participants eye-tracking glasses connected to a small computer attached to their bodies. Gaze focus is generally associated with directing attention to a particular element, revealing how visual attention is distributed.",
-        "What we know can also shape what we look at. Cultural knowledge can make certain elements of an image more familiar, aesthetically appealing or meaningful, guiding our attention toward them. Religious knowledge, for example, can help us recognize symbols and understand their meaning, potentially influencing which parts of a religious painting we will look at.",
-        "Old Dongola provides a unique setting in which to explore these influences. The site is significant to both local communities and Western visitors, who may differ not only in their cultural backgrounds but also their familiarity with Christianity.",
-        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
+        "Tsunamis triggered by volcanic eruptions are poorly understood because of the complex dynamics governing how falling rocks and ash interact with seawater to generate waves. As a result, it is difficult to anticipate whether a volcanic flow will trigger a tsunami and, if so, how big it will be. Researchers have used laboratory experiments to study this process, but little is known about how well these models mimic reality.",
+        "In their article published in the Journal of Geophysical Research: Oceans , A. Bougouin and colleagues addressed these uncertainties by comparing results from lab experiments to observations from a real volcano: Stromboli Island, Italy. Why Stromboli? The volcano erupts nearly constantly, and volcanic flows frequently enter the sea and form tsunamis. These events are recorded by a unique monitoring system made up of land-based cameras and offshore wave gauges—making Stromboli a sort of laboratory in the field.",
+        "The researchers focused on three Stromboli eruptions that triggered tsunamis between 2019 and 2021, comparing observations from Stromboli with results from both existing and newly conducted laboratory experiments.",
+        "In the lab, the team used a 7-meter-long, 20-centimeter-wide channel filled with water. They then released a mass of polystyrene beads (small spheres used in applications such as beanbag filling and product packaging) down a slope designed to replicate Stromboli's flank, sending the beads tumbling into the water. These lightweight beads were used to represent Stromboli's pyroclastic flows because the flows were expected to be predominantly less dense than water. Despite their buoyancy, these flows can still generate substantial waves.",
+        "The researchers found that lab experiments cannot be directly scaled up to predict real-world events and that most models based on these experiments overestimate the size of tsunamis in the field. The new experiments, however, helped bridge this gap, although some limitations remain. They reproduced key features observed at Stromboli, including a three-wave pattern, and broadly captured the energy transfer from the flow to the resulting wave train.",
+        "Researchers conducted the first direct comparison between lab experiments and field observations, providing an initial step toward improving volcanic tsunami hazard assessment.",
+        "Journal information: Journal of Geophysical Research: Oceans",
+        "BA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile &rarr;",
+        "This story is republished courtesy of Eos, hosted by the American Geophysical Union. Read the original story here .",
+        "Comparisons with three Stromboli tsunamis showed that laboratory experiments cannot be directly scaled to real events, and most experiment-based models overestimate wave size. New experiments using buoyant beads reproduced a three-wave pattern and broadly captured flow-to-wave energy transfer, but limitations remain.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors.",
+        "Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages.",
+        "Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose. The information you enter will appear in your e-mail message and is not retained by Phys. org in any form."
       ],
       "external": true,
-      "order": 3
+      "order": 4
+    },
+    {
+      "id": "scitechdaily-scientists-uncover-a-bizarre-quantum-effect-where-time-cou",
+      "title": "Scientists Uncover a Bizarre Quantum Effect Where Time Could Flow at Different Speeds Simultaneously",
+      "dek": "Scientists have developed a theoretical framework that could allow atomic clocks to reveal a strange quantum effect in which different flows of time exist simultaneously.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-15T18:32:22.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-uncover-a-bizarre-quantum-effect-where-time-could-flow-at-different-speeds-simultaneously/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Scientists have developed a theoretical framework that could allow atomic clocks to reveal a strange quantum effect in which different flows of time exist simultaneously.",
+        "Raise an atomic clock by just a few millimeters, and it ticks slightly faster because gravity is weaker at the higher position. Today’s most precise clocks can detect this tiny difference, confirming a prediction of Einstein’s theory of relativity. But quantum physics introduces a stranger possibility: A single clock could exist in a superposition of different motions, potentially experiencing multiple rates of time simultaneously.",
+        "Scientists have now developed a theoretical method to detect the quantum effects of these different flows of time using advanced atomic clocks. Published in Physical Review Letters , the research shows how trapped-ion clocks could reveal a previously unobserved connection between quantum mechanics and relativity. The proposed approach uses existing experimental technology and could bring researchers closer to testing how time behaves in the quantum world.",
+        "According to Einstein’s theory of relativity, time passes at different rates depending on an object’s speed and the strength of gravity. Atomic clocks are sensitive enough to detect these differences across height changes of just a few millimeters. They measure time using precise atomic frequencies and are essential to technologies such as GPS.",
+        "Quantum mechanics introduces another possibility. An atomic clock’s motion can exist in a superposition of different states, potentially exposing it to multiple rates of time simultaneously. Under these conditions, the clock’s motion becomes entangled with its internal energy, producing changes in its quantum properties that researchers believe can be measured.",
+        "“It’s the precision that led us to develop our theoretical model. We found that the atomic clock’s motion becomes “entangled” with its internal energy. The signature of this entanglement is that the clock itself loses some of its quantum properties, which can be detected using modern techniques,” explains Associate Professor Joshua Foo of Kyushu University’s Institute for Advanced Studies, one of the study’s lead authors.",
+        "The international research team, led by scientists at Kyushu University and working with collaborators in the United States, Canada, and Sweden, also developed a theoretical approach for precisely controlling the motion of trapped ions. This could substantially increase the detectability of the quantum effect.",
+        "“We introduced a new technique for controlling the atomic clock’s motion, improving its sensitivity to this effect by 100 to 1000 times.”",
+        "The next challenge is to translate the theoretical framework into an experiment that can reliably detect the predicted quantum signature while accounting for disturbances and uncertainties in real laboratory conditions. If successful, the approach could establish atomic clocks as tools for investigating the quantum behavior of time and potentially improve future clock technology.",
+        "“Naturally, bringing our theoretical model to reality is the big next step, and developing a detailed experiment that accounts for real-world unpredictability will give us further insight into our model,” concludes Foo. “We are also interested in exploring whether atomic clocks could eventually be used to probe the quantum realm of gravity, the other fundamental question in physics.”",
+        "Funding: National Science Foundation, National Aeronautics and Space Administration, Alfred P. Sloan Foundation, Gordon and Betty Moore Foundation, John Templeton Foundation, Simons Foundation, Banting Postdoctoral Fellowship, Novartis Science Scholarship",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "The article’s author: “Raise an atomic clock by just a few millimeters, and it ticks slightly faster because gravity is weaker at the higher position.” Agreed, however, it is the clock that speeds-up, not time. Time is just an arbitrary label attached to the observation of the progression of a full spectrum of events to describe their duration. As a lay discoverer and investigator I’ve been demonstrating and writing of the true nature of gravity/time since 2012, with little notice. To the best of my knowledge the problem began with Thomas Young misinterpreting the results of his ‘double-slit’ experiments as a ‘duality of particles and waves. ’ That was based on the still misunderstood nature of gravity."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "scitechdaily-james-webb-telescope-reveals-a-giant-planet-that-was-hidin",
+      "title": "James Webb Telescope Reveals a Giant Planet That Was Hiding in Plain Sight",
+      "dek": "Finding planets like Earth may depend on better ways to read telescope images, after a new technique uncovered a giant world already captured by JWST.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-15T17:57:14.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/james-webb-telescope-reveals-a-giant-planet-that-was-hiding-in-plain-sight/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Finding planets like Earth may depend on better ways to read telescope images, after a new technique uncovered a giant world already captured by JWST.",
+        "A giant planet was hiding in observations taken by NASA’s James Webb Space Telescope (JWST), even though astronomers already knew it existed. The telescope had captured its faint light, but the overwhelming glow of its host star made the planet impossible to distinguish using conventional image-processing techniques.",
+        "This is one of the biggest challenges in photographing planets beyond our solar system. Stars are extraordinarily bright compared with the worlds orbiting them, and even JWST, which can observe galaxies billions of years in the past, struggles to separate a planet’s faint signal from its star’s glare.",
+        "Researchers led by Northwestern University developed a new computational technique that helped overcome this problem. By accounting for tiny imperfections in the telescope, they improved its sensitivity to faint planets by 2 to 15 times and recovered a giant planet that had remained hidden in two-year-old observations. Their findings were published in the journal Nature .",
+        "“Planets are a million times fainter than their stars,” said Northwestern’s Rodrigo Ferrer-Chavez, who led the study. “So, to image exoplanets, we need to remove that glare. That is a very tricky problem because even the tiniest changes in the telescope can affect how that glare appears. Slight shifts or tilts — even on the scale of just a few nanometers — can change the pattern of light. Our method models how light travels through the telescope and accounts for those tiny changes, allowing us to remove the glare much more precisely.”",
+        "Ferrer-Chavez is a Ph. D. student in astronomy at Northwestern’s Weinberg College of Arts and Sciences and a member of Jason Wang’s research group. Wang, an assistant professor of physics and astronomy at Weinberg, co-authored the study. Both researchers belong to Northwestern’s Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA).",
+        "Astronomers have long relied on specialized instruments called coronagraphs to block starlight when searching for planets. Even relatively bright young giant planets can be 100,000 times fainter than their stars, making this step essential. However, some light still escapes around the coronagraph, creating patterns of glare that can conceal nearby objects.",
+        "“For the past 20 years, astronomers have tackled this problem by observing a different star and using its image as a reference,” Wang said. “Then, they subtract that reference image from the original observation to remove the unwanted glare to reveal faint planets that otherwise might be hidden.”",
+        "The difficulty is that a telescope never remains perfectly still. Minute changes in its mirrors and other components can alter how starlight spreads across an image. Even a slight mismatch between the reference photograph and the original observation can leave enough residual glare to hide a planet.",
+        "“We try to make telescopes extremely stable, but there are extreme engineering challenges that we haven’t quite solved yet,” Wang said. “There are known causes of instability and unknown causes. Small thermal changes could cause a mirror to expand or contract by a picometer. Telescopes like JWST have cryocoolers to keep the instrument super cold. Those coolers have little motors that can cause the mirrors to vibrate. So, there are issues like those but also issues that we still don’t understand as we learn how to build these complex telescopes.”",
+        "To address these limitations, the Northwestern researchers developed Physics-based Learning for Imaging Planets (FLIP). Instead of relying entirely on reference photographs, the technique creates a digital twin of the telescope, a computer model that recreates how starlight travels through its mirrors and reaches its detectors.",
+        "The team used powerful computational tools to adjust millions of parameters in the model, accounting for subtle movements, optical distortions, and other imperfections. By repeatedly refining the simulation until it closely matched the real observations, FLIP could reproduce the unwanted starlight more accurately and subtract it from the image.",
+        "This visualization demonstrates the image processing method, called FLIP, as it subtracts starlight from a James Webb Space Telescope (JWST) observation of star 51 Eridani A (51 Eri) in the F430M filter. Starlight subtraction proceeds with the iteration number shown in the lower left, eventually revealing the faint planet 51 Eri b at its expected location. Credit: Rodrigo Ferrer-Chavez"
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "phys-tangled-quantum-whirlpools-caught-unraveling-in-an-ultraco",
+      "title": "Tangled quantum whirlpools caught unraveling in an ultracold gas",
+      "dek": "When a cloud of atoms is cooled close to absolute zero, its atoms can merge into a Bose–Einstein condensate (BEC): an exotic fluid in which atoms across the whole cloud share…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-15T16:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "When a cloud of atoms is cooled close to absolute zero, its atoms can merge into a Bose–Einstein condensate (BEC): an exotic fluid in which atoms across the whole cloud share a single quantum state. Current theories predict that as a disordered quantum gas settles into this ordered state, a tangle of tiny vortices should form and gradually unravel.",
+        "Through new experiments detailed in Physical Review Letters , a team led by Sebastian Morris at the University of Cambridge has caught this process in action for the first time. Using a novel imaging approach, they directly observed the decay of these vortices—confirming the theory of \"Vinen turbulence.\"",
+        "In a BEC, quantum behavior that is normally confined to individual particles plays out on a macroscopic scale. Like other quantum fluids, a BEC can't circulate freely like water: instead, any rotation is concentrated into thin, thread-like vortices, each carrying a quantized circulation.",
+        "According to a theory named \"Vinen turbulence,\" newly formed BECs will contain a chaotic tangle of these threads, which gradually untangles as it relaxes. So far, physicists have seen hints of this effect in superfluid helium , but only indirectly. In atomic gases, vortices have mostly been imaged in flat, 2D systems. To properly test the idea in a 3D gas, researchers needed to both see the vortices and count them.",
+        "In their study, Morris' team started with a BEC of potassium atoms, held in a uniform, cylinder-shaped trap of light, less than a tenth of a millimeter across. They first disturbed the gas to scramble its ordered state, then switched on interactions between the atoms and let the system relax.",
+        "At different moments during this relaxation, they released the gas, magnified it around 3. 5 times and photographed a thin slice of the enlarged cloud. In these images, vortices appeared as dark streaks where the threads passed through the slice.",
+        "By repeating the process many times, the team estimated the total length of vortex threads packed into each unit of the gas's volume. This allowed them to test the theoretical law describing how this quantity should shrink over time.",
+        "As the gas relaxed, the vortex density fell just as predicted by Vinen turbulence: denser tangles decayed faster, as neighboring vortices interacted with each other. Later on, the decay slowed, as the remaining vortices were lost at the trap's walls.",
+        "Remarkably, the decay didn't depend on how strongly the atoms interacted. Once the team had accounted for the difference in particle mass, its rate also closely matched measurements in superfluid helium, even though the two fluids are utterly different at the microscopic level. The vortices became clearly visible at around the same time as the atoms began to show a pattern of growing quantum coherence .",
+        "Together, the results offer direct confirmation of theoretical predictions of how BECs emerge from disorder. Ultimately, the team's findings mark an important step forward in understanding how these exotic fluids behave.",
+        "Written for you by our author Sam Jarman , edited by Gaby Clark , and fact-checked and reviewed by Robert Egan —this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.",
+        "Science X contributing writer; covers astrophysics, novel materials, medical imaging, and bio-inspired tech. Full profile &rarr;",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;"
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "scitechdaily-researchers-have-discovered-that-a-6-000-year-old-clue-to-",
+      "title": "Researchers Have Discovered That a 6,000-Year-Old Clue to Ireland’s Farming History Was Completely Wrong",
+      "dek": "Protein tests on ancient bones have removed evidence of farming’s influence in Ireland before 4000 BCE, reopening questions about when the island first encountered agriculture.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T15:35:32.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/researchers-have-discovered-that-a-6000-year-old-clue-to-irelands-farming-history-was-completely-wrong/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Protein tests on ancient bones have removed evidence of farming’s influence in Ireland before 4000 BCE, reopening questions about when the island first encountered agriculture.",
+        "For more than 30 years, the “Kerry Cow” helped shape a story about how farming reached Ireland. Bone fragments found on the coast of County Kerry appeared to show that domesticated cattle had arrived while the island’s inhabitants still lived by hunting and gathering. A new analysis has revealed that those supposed cattle were a bear and a wild boar.",
+        "The fragments were unearthed during excavations in the 1980s and 1990s at Ferriter’s Cove, a small bay on the Dingle Peninsula. Dated to the end of Ireland’s Mesolithic period, which lasted from 8000 to 4000 BCE, they were considered the earliest evidence of domesticated farm animals in either Ireland or Britain.",
+        "Their identification as cattle challenged existing theories about Ireland’s transition to farming, suggesting that its hunter-gatherers had established links with Neolithic farmers arriving from continental Europe before agriculture took hold on the island.",
+        "Researchers led by Dr. Martin Moucheron at University College Dublin (UCD) returned to the original archaeological material, now stored at University College Cork (UCC). Working with Drs. Benjamin Gearey, Barra Ó Donnabháin, and Margaret McCarthy at UCC, and Kate Kanne at UCD, the team sent the bones to the CNRS laboratory in Lille, France.",
+        "There, the fragments underwent analysis using ZooMS, a technique that identifies animals through proteins preserved in ancient bone collagen, a structural component of bone. The results identified bear and wild boar rather than the domesticated cattle on which the earlier interpretation depended.",
+        "Reported in the latest edition of PAST , the newsletter of the Prehistoric Society , the findings remove a major piece of evidence from debates about when and how communities in Ireland and Britain moved from hunting and gathering to farming. There is currently no archaeological evidence supporting the idea that domesticated cattle, and by extension early farming communities, had reached or influenced Ireland before 4000 BCE. Losing that evidence does not establish a new arrival date, but it changes the basis for reconstructing that transition.",
+        "“Ferriter’s Cove is an iconic archaeological site, originally excavated by the Late Professor Peter Woodman, Department of Archaeology, UCC; this new collaboration with colleagues at UCD marks an exciting new phase of research and these remarkable results are set to change our understanding of the earliest evidence for agriculture in Ireland,” said Gearey.",
+        "The work is part of a Research Ireland-funded postdoctoral project at UCD’s School of Archaeology, led by Moucheron under the mentorship of Professor Graeme Warren. The project is reexamining important Mesolithic archaeological sites using modern scientific techniques.",
+        "Warren added, “These exciting results show the real value in going back to key sites with new analytical techniques – which can change the stories we tell about our past”",
+        "“For at least four millennia hunting and gathering people lived on the island, and there is a common conception that they left little trace and that we know very little about them – unlike the megaliths of Neolithic farmers, who are portrayed in ways that feel very familiar in Ireland,” said Moucheron.",
+        "“But there is much we can understand about Mesolithic people just by going back to the sites and material we have, and by looking at them with new eyes and new techniques – and an open mind.”",
+        "Further analyses are underway to determine whether the bear remains belonged to brown bears or polar bears. The researchers hope this work will provide new insights into Ireland’s prehistoric bear populations before their extinction during the Bronze Age.",
+        "Reference: “No sacred cows: ZooMS identification of the Late Mesolithic bone assemblage at Ferriter’s Cove, Co. Kerry, Ireland” ."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "phys-climate-response-why-previous-warming-makes-all-the-differ",
+      "title": "Climate response: Why previous warming makes all the difference",
+      "dek": "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T15:30:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-climate-response-previous-difference.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "Global temperatures may continue to rise even after human CO₂ emissions stop. The temperature change that follows is known as the zero emissions commitment (ZEC), and it is often assumed to be close to zero. A study led by the Met Office Hadley Center, with co-authors from several institutions including the University of Liverpool, found that the temperature response depends on how much warming has already occurred.",
+        "The authors used the UK Earth System Model (UKESM1. 2) to simulate what happens when CO₂ emissions stop at different levels of warming. At the lower warming levels extending up to 2°C above preindustrial temperatures, global temperature stayed roughly stable. When increased emissions led to higher warming levels of 3°C to 5°C above preindustrial temperatures, the model showed a further 0. 4°C to 0. 6°C of warming 150 years later.",
+        "The authors explained this response in terms of an energy imbalance for the Earth that continues for decades and centuries after emissions cease, in which the Earth still absorbs more energy than it loses to space. At higher warming levels, this energy imbalance was larger, driving more continued warming after emissions ended, and the cooling effect of land and ocean absorbing CO₂ was weaker.",
+        "Dr. Laura Gibbs, the lead author of the study published in Nature Climate Change , said, \"This response matters for carbon budgets, which estimate how much more CO₂ can be emitted while keeping global warming below a given level. The greater the warming level, the more likely there is to be continued warming after emissions cease.\" The results of this study come from experiments with one climate model, but the results highlight why ceasing CO₂ emissions at lower levels of warming matters.",
+        "Professor Ric Williams, a co-author on the study at the University of Liverpool, said, \"The different warming levels that are reached when we cease emitting carbon make a difference by altering the climate state, which then affects whether there is continued warming.\"",
+        "BA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "In one Earth system model, temperatures remained roughly stable after CO₂ emissions ceased at warming levels up to 2°C above preindustrial levels, but rose another 0. 4–0. 6°C over 150 years when emissions stopped at 3–5°C. Greater planetary energy imbalance and weaker cooling from land and ocean CO₂ uptake drove the additional warming.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors.",
+        "Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages.",
+        "Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose. The information you enter will appear in your e-mail message and is not retained by Phys. org in any form.",
+        "Get weekly and/or daily updates delivered to your inbox. You can unsubscribe at any time and we'll never share your details to third parties."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-what-is-science-really-even-scientists-cant-agree",
+      "title": "What Is Science, Really? Even Scientists Can’t Agree",
+      "dek": "Even scientists in the same specialty disagree about science’s purpose, a survey finds, raising concerns that AI could automate one narrow approach at others’ expense.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T15:01:21.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/what-is-science-really-even-scientists-cant-agree/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Even scientists in the same specialty disagree about science’s purpose, a survey finds, raising concerns that AI could automate one narrow approach at others’ expense.",
+        "Is science a search for objective truth, an exercise in creative problem-solving, or both? A study published in Royal Society Open Science found that scientists disagree about the meaning and purpose of science more than the general public does.",
+        "Study leader Marina Dubova, a former Santa Fe Institute postdoctoral researcher, is now an assistant professor of psychology at the University of California, Berkeley. Working with Princeton University researcher Qiawen E. Liu, she surveyed 91 scientists and 99 members of the public. Participants evaluated 18 historical descriptions of science, including science as detective work, a search for truth, and a mirror reflecting reality.",
+        "Scientists and the public generally agreed that science involves following curiosity and solving mysteries. The public tended to share an idealized picture of science as a reliable way to discover how the world works, placing less emphasis on creativity or uncertainty. That outlook could shape how people judge research and help explain their frustration when scientists cannot give firm answers or revise their conclusions as new evidence emerges.",
+        "The public’s views were closer to those of physicists and biologists than to those of researchers in psychology or the social sciences. One possible explanation, Dubova suggests, is that physics and biology feature more prominently in science education. More research is needed to test that connection.",
+        "Some scientists emphasized the search for objective truth, while others gave more weight to the judgment and creativity researchers bring to their work. They also disagreed about whether research follows established methods or requires improvisation. Few of the 18 descriptions received scientists’ full support, and they often had reservations even about ideas they generally agreed with.",
+        "“What was surprising to me was that there was quite a bit of disagreement between scientists, including scientists who are in the same subfield,” says Dubova. She suspects that researchers develop their approaches partly through experience, much as chefs develop different instincts about when to follow a recipe and when to improvise. Those differing conceptions of science could influence which discoveries researchers pursue.",
+        "That diversity also raises a question for efforts to automate scientific research. As researchers develop artificial intelligence systems capable of conducting science, whose understanding of the work will those systems embody? Dubova worries that automation could reinforce one narrow conception of science at the expense of other valuable approaches.",
+        "For Dubova, the study is an early step toward understanding how these outlooks shape research itself. “Don’t take the common understanding of science for granted,” she says. “Always ask. Always be curious about what someone has in mind.”",
+        "The research was supported by SFI’s Lou Schuyler Seed Grant Fund, established in 2022 to support exploratory research by early-career scientists. Dubova used the funding to compensate study participants, helping make the research possible.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "“Is science a search for objective truth, an exercise in creative problem-solving, or both?”",
+        "It is both. The two forms are the realms of theoretical/basic science and applied science.",
+        "Asking lay people what they think ‘science’ is, is asking them to share their ignorance. That is why the 99 were more in agreement on science. I doubt that many of the 99 could even describe the Scientific Method. How can one expect the public to understand what science is if they can’t describe the methodology?"
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "phys-giant-prehistoric-rodent-fossils-discovered-in-southern-th",
+      "title": "Giant, prehistoric rodent fossils discovered in southern Thailand",
+      "dek": "An international team of paleontologists, including researchers from McGill University, has discovered \"remarkably large\" rodent fossils in the pit of a mine in southern…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T15:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-giant-prehistoric-rodent-fossils-southern.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "An international team of paleontologists, including researchers from McGill University, has discovered \"remarkably large\" rodent fossils in the pit of a mine in southern Thailand. The finding, published in Scientific Reports , provides a new perspective on the early manifestation of rodent gigantism—the process by which animals evolve to become larger—demonstrating that the evolutionary history of large-bodied rodents is considerably older and more geographically widespread than previously recognized, the researchers said.",
+        "The new species, Yakamys sirindhornae, lived approximately 34 million years ago, during the mid-Paleogene period. The researchers discovered fossils of its teeth—specifically, the lower second molar and lower incisor—at the Bang Mark Pit of the Krabi lignite mine in Krabi Province.",
+        "\"Today, the largest living rodent is the capybara, but very large rodents are not restricted to recent ecosystems,\" said Virginie Millien, study co-author and professor of biology at McGill University. \"Giant rodents evolved repeatedly during the later history of the group, mostly in South America. This discovery suggests that Southeast Asia also played an important role in the early evolutionary history of large-bodied rodents.\"",
+        "The new genus name, Yakamys, combines the Thai word \"yak,\" meaning giant, with the Greek \"mys,\" meaning mouse or rat.",
+        "\"The species name, sirindhornae, honors Princess Maha Chakri Sirindhorn, in recognition of her longstanding support for science and paleontological research in Thailand,\" Millien said.",
+        "The fossils were discovered as part of a collaborative research project on fossil mammals in Thailand's Krabi Basin. The project involves researchers from McGill University, the Department of Mineral Resources of Thailand and French research institutions, including CNRS and Université de Poitiers.",
+        "Using seven established approaches for calculating body mass from dental dimensions, the researchers estimate that the Yakamys weighed approximately 30 kilograms (66 pounds)—about twice the size of other known rodents from this era, such as the Hulgana.",
+        "\"This is only a ballpark figure, as there is substantial uncertainty associated with fossil body-mass estimation,\" Millien said.",
+        "Because the fossil material is limited, the researchers also noted that it is difficult to determine exactly how the Yakamys evolved. Further discoveries will be important for understanding the animal's biology, ecology and evolutionary history, they said.",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "Teeth fossils from southern Thailand identify Yakamys sirindhornae, a rodent that lived about 34 million years ago. Dental estimates suggest a body mass near 30 kg, roughly twice that of known contemporaries, though uncertainty is substantial. The fossils document early rodent gigantism in Southeast Asia.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "conversation-prostate-cancer-testing-now-urged-for-men-in-their-50s-and",
+      "title": "Prostate cancer testing now urged for men in their 50s and 60s – a lead author of the new screening guidelines explains why",
+      "dek": "The American Cancer Society announced on Nov. 12, 2026, that it has released major changes to its prostate cancer screening guidelines to improve detection and treatment of…",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T14:00:41.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/prostate-cancer-testing-now-urged-for-men-in-their-50s-and-60s-a-lead-author-of-the-new-screening-guidelines-explains-why-296645"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "The American Cancer Society announced on Nov. 12, 2026, that it has released major changes to its prostate cancer screening guidelines to improve detection and treatment of the disease.",
+        "The Conversation asked Dr. Andrew Wolf , a physician at the University of Virginia who was one of the lead authors of the new guidelines , to walk readers through the changes and why they were made.",
+        "The biggest change is that we are making a proactive recommendation to screen for prostate cancer . Previously, we recommended that people talk with their healthcare provider to decide whether or not screening is right for them.",
+        "Our new recommendations vary by age and by a person’s risk of developing prostate cancer.",
+        "For people at average risk of developing prostate cancer, we recommend they be screened with the prostate-specific antigen, or PSA, blood test every two years from age 50 through 69. PSA is a protein that prostate cells make. Cancer and other conditions can cause PSA levels to rise.",
+        "People at higher risk, including Black men and men with a strong family history of prostate cancer, should be screened annually from age 45 to 69. A strong family history means having a family member who was diagnosed with prostate cancer before age 65, or multiple family members diagnosed at any age. People with a single family member diagnosed at age 65 or older should be screened every two years from age 45 years to age 69 years.",
+        "For people ages 70 to 74, we recommend they talk with their healthcare provider about whether or not to continue screening. Because there is uncertainty about the benefit of screening for people in this age group, decision-making around screening depends on their personal preferences, overall health status and life expectancy.",
+        "For those over age 74, we recommend against prostate cancer screening. The potential harms of screening, such as more invasive follow-up tests and treatment, are likely to exceed the benefits for people in this age group.",
+        "Finally, we recommend against using a digital rectal exam to screen for prostate cancer, as it is less effective than the PSA test . The digital rectal exam may still be helpful when further evaluating elevated PSA levels or symptoms related to the prostate gland.",
+        "The past decade has seen mounting evidence supporting the benefits of using the PSA blood test to screen for prostate cancer.",
+        "The ability of the PSA test to reduce the risk of death from prostate cancer or of being diagnosed with metastatic disease are actually greater than researchers previously thought.",
+        "At the same time, there have been significant developments to reduce the potential harms associated with prostate cancer screening, including false positive PSA test results and diagnosis and treatment of prostate tumors that are unlikely to harm patients in the long-term.",
+        "Black men have an approximately two-thirds higher risk of developing prostate cancer compared with white men. They are also at greater risk for having more advanced disease at the time of diagnosis. These disparities are likely due to a combination of genetic, environmental, social and healthcare access factors .",
+        "Men with a family history of prostate cancer in a close relative – such as a parent, sibling or child – are also at elevated risk.",
+        "There are also a number of genetic mutations, such as BRCA2 , that confer significantly elevated risk of prostate cancer. Though screening recommendations for these cases are beyond the scope of our guideline, several professional medical organizations, including the National Comprehensive Cancer Network and the American Urological Association , have issued recommendations for screening people with these high-risk mutations.",
+        "For years, clinicians believed that the benefits of PSA screening were uncertain and didn’t necessarily outweigh the potential harms. This stance was in part because of the results of two large prostate cancer screening trials that were published in 2009. One, a U. S. study , found no benefit to screening; the other, a European study , found only a relatively small benefit.",
+        "However, it later became clear that the U. S. study was seriously flawed in such a way that it couldn’t have shown a benefit: Almost 90% of the men in the control group – that is, the group that wasn’t supposed to get screened – actually did get screened, and many of the men with abnormal PSA levels didn’t follow-up.",
+        "Conversely, most of the men in the European study who were randomized to standard care – no testing – instead of screening did not, in fact, get a PSA test, so it was more of a true comparison of the effect of screening versus not screening.",
+        "After researchers followed patients for over two decades in the European study, the effects of screening became clear: Screening reduced the risk of dying from prostate cancer by 13%. And about 500 men needed to be screened to avert one death from prostate cancer.",
+        "This may not sound very impressive, but it’s comparable to other routinely offered cancer screening tests, such as mammography for breast cancer . And the proportion of people needing to be screened to save a life would be significantly lower if extrapolated to a lifetime of screening starting at age 45 or 50, rather than the average number of two screenings that men received in the study.",
+        "The U. S. Preventive Services Task Force also has its own prostate cancer screening guidelines. The task force’s guidelines currently recommend that clinicians not screen for prostate cancer unless the patient indicates a preference to proceed. At the time of the task force’s last update in 2018 , it determined that the potential benefits and harms of screening were too closely balanced to recommend screening.",
+        "The task force has been in the process of updating those guidelines over the past several years. It is possible that their update will more closely align with that of the American Cancer Society.",
+        "I do think we have both sufficient evidence of benefit and sufficient reduction of the risks to now proactively recommend screening. Where the two guidelines do align is that both recommend that patients be informed of the benefits, risks and limitations of prostate cancer screening so they know what they’re getting into.",
+        "It is likely that our new screening recommendations will be covered by most insurers. However, patients may have out-of-pocket costs for further testing their doctor orders as a result of an abnormal PSA level."
+      ],
+      "external": true,
+      "order": 12
     },
     {
       "id": "conversation-national-ground-stop-response-highlights-critical-errors-i",
@@ -193,303 +534,7 @@
         "Shannon A. Bowen received funding in 2022-2023 from The National Science Foundation as PI on a grant studying disaster management."
       ],
       "external": true,
-      "order": 4
-    },
-    {
-      "id": "phys-nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-s",
-      "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record",
-      "dek": "NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth as it pushes ever deeper into interstellar space.",
-      "category": "科学",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T18:37:10.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-nasa-voyager-day-interstellar-space.html"
-      },
-      "cover": "star",
-      "accent": "blue",
-      "paragraphs": [
-        "NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth as it pushes ever deeper into interstellar space.",
-        "That's a mind-blowing distance of more than 16 billion miles (26 billion kilometers) for the spacecraft launched 49 years ago.",
-        "When Voyager 1 reaches that remarkable milestone on Wednesday, its radio signals will take precisely 24 hours traveling at the speed of light to reach Earth—in other words, one light-day. NASA is looking at another 18,000 years before the spacecraft achieves a full light-year and more than double that before it comes near another star.",
-        "Project manager Suzanne Dodd sees Voyager 1 as Earth's ambassador hurtling between stars while providing a \"sense of wonder\" on the home front.",
-        "\"It's a national treasure,\" she told The Associated Press. \"Really extraordinary.\"",
-        "To celebrate this moment, NASA is urging people from all corners to grab their phone or a flashlight to create a wave of golden light after sunset Tuesday, using Morse code to spell the letters V-G-R, Voyager's call sign, into the night sky.",
-        "Despite sporadic problems typical of old age, Voyager 1 and its twin Voyager 2 continue to send back science and engineering data as they zoom toward different points in space at 38,000 mph (61,000 kph). Although launched two weeks before its sibling in 1977, Voyager 2 won't reach the one-light-day mark until 2035.",
-        "Voyager 1 swept past Jupiter and Saturn to scientists' delight in 1979 and 1980, respectively, before exiting the solar system. It reached what NASA defines as interstellar space—the expansive region between star systems—in 2012. Voyager 2 visited those two planets plus Uranus and Neptune, also sending back stunning photos, before entering interstellar space in 2018.",
-        "Almost every day, the Voyagers beam back details about their never-before-explored environment: the strength and direction of the magnetic field as well as tidbits about the surrounding pressure, dust and galactic cosmic rays. They're a bit like weather satellites, according to Dodd, who's worked with the Voyagers since 1984.",
-        "The skeleton flight control team at NASA's Jet Propulsion Laboratory in Pasadena, California, sends commands about once a week. The operation ramps up when spacecraft problems arise, with help sometimes coming from a couple of retirees who once worked on the project.",
-        "In September, controllers completed the latest power-conserving effort for the plutonium-powered spacecraft, then in October briefly lost contact with it. They're still trying to figure out why communication was disrupted.",
-        "All this expertise and love have kept Voyager 1 chugging along like \"the little engine that could,\" according to Dodd, while racking up entries in Guinness World Records. Besides venturing farther than any other human-made object, Voyager 1 in 1990 snapped the most distant picture of Earth: the iconic \"Pale Blue Dot\" as seen from beyond Neptune.",
-        "\"On that blue dot, that's where everyone you know and everyone you ever heard of and every human being who ever lived, lived out their lives. It's a very small stage in a great cosmic arena,\" Cornell University astronomer Carl Sagan, part of the imaging team, said as he introduced the picture to the world in 1990.",
-        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
-      ],
-      "external": true,
-      "order": 5
-    },
-    {
-      "id": "phys-a-cosmic-magnifying-glass-could-reveal-the-same-supernova-",
-      "title": "A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years",
-      "dek": "Thanks to the gravitational lensing caused by a massive galaxy cluster and high-resolution images from the James Webb Space Telescope (JWST), astronomers discovered an…",
-      "category": "科学",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T18:20:01.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-cosmic-magnifying-glass-reveal-supernova.html"
-      },
-      "cover": "star",
-      "accent": "blue",
-      "paragraphs": [
-        "Thanks to the gravitational lensing caused by a massive galaxy cluster and high-resolution images from the James Webb Space Telescope (JWST), astronomers discovered an exploding star when the universe was 4. 9 billion years old. The discovery paper, posted to the arXiv preprint server on Oct. 23, presents a prediction for when the rest of the distorted images of SN Ares will arrive.",
-        "When a massive galaxy cluster sits between us and a distant galaxy, the galaxy cluster's gravity acts like a natural lens, bending and magnifying the light coming from the background galaxy. This is called gravitational lensing, and it can result in the creation of multiple images of the same galaxy. When different light rays take slightly different paths, the images arrive at different times, sometimes hours apart and sometimes decades apart. Some of the famous examples of multiple-image lensing include Einstein Cross, Molten Ring and Smiley Face.",
-        "In this study, astronomers led by Conor Larison of the Space Telescope Science Institute report the discovery of a supernova that occurred around 8. 8 billion years ago. They spotted SN Ares in August 2025 in the JWST's near-infrared images taken of the field of the galaxy cluster MACS J0308. 9+2645.",
-        "JWST spectroscopy revealed helium and hydrogen features, which are telltale signs of a star losing most of its outer hydrogen layer before exploding—a category called the Type IIb supernova. Researchers say it is \"the highest-redshift member of its class spectroscopically identified.\"",
-        "For now, astronomers are seeing only one magnified image of Ares. But their analysis using three lens models revealed that two more images of this supernova are yet to reach us. The predictions say that they will appear in about 73 and 76 years, respectively. At an assumed timeline of 70 years, \"the SN Ares system has by far the highest predicted delays of any discovered lensed SN system so far,\" the team writes in its paper.",
-        "The delay in the arrival of these images depends on the geometry of space. But space is also expanding, with galaxies moving away from us and light getting stretched. So measuring the delay between when the images arrive also helps pin down the Hubble constant , the universe's expansion rate.",
-        "\"Due to the direct relationship between these delays and geometric distance, a measurement of the offset in image arrival times leads to constraints on cosmological parameters such as the local expansion rate of the universe, H0,\" researchers explain.",
-        "If, in 70 years, astronomers can catch the return, the delay could be timed extremely precisely. That could give one of the most precise single measurements of the universe's expansion rate.",
-        "The team plans to conduct additional spectroscopic redshift measurements in early 2027. This will help researchers better understand the lens properties and improve delay predictions.",
-        "The study also offers a rare opportunity to watch gravitational lensing play out over generations. Researchers say that they cannot predict what the science of the universe will look like in 70 years, but are sure that the reappearance of SN Ares will be a scientifically rich event, worth looking forward to.",
-        "Written for you by our author Shreejaya Karantha , edited by Gaby Clark , and fact-checked and reviewed by Robert Egan —this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.",
-        "Shreejaya Karantha is a science writer and astronomy communicator based in India, with a focus on astrophysics and the early universe. Full profile &rarr;",
-        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
-        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;"
-      ],
-      "external": true,
-      "order": 6
-    },
-    {
-      "id": "scitechdaily-a-strange-liquid-is-helping-scientists-overcome-a-major-ba",
-      "title": "A Strange Liquid Is Helping Scientists Overcome a Major Barrier in Nanotechnology",
-      "dek": "By filling the tiny pores of fragile materials with an unusual liquid, scientists have found a way to create intricate patterns without destroying their structures.",
-      "category": "校园",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T17:13:17.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/a-strange-liquid-is-helping-scientists-overcome-a-major-barrier-in-nanotechnology/"
-      },
-      "cover": "leaf",
-      "accent": "green",
-      "paragraphs": [
-        "By filling the tiny pores of fragile materials with an unusual liquid, scientists have found a way to create intricate patterns without destroying their structures.",
-        "Metal-organic frameworks (MOFs) contain networks of tiny pores that can trap gases, capture pollutants, and support chemical reactions. These properties make them attractive for advanced sensors and electronic devices, but their fragile structures are easily damaged by the processes used to manufacture such devices. Researchers in Japan have now developed a way to carve precise patterns into these materials at room temperature without causing the extensive structural damage normally associated with the process.",
-        "The technique, developed at Tokyo University of Science (TUS) , involves filling the pores of MOFs with an ionic liquid before exposing them to a focused ion beam. In experiments, the liquid strengthened a copper-based MOF and substantially reduced damage, allowing researchers to produce intricate features only a few hundred nanometers wide.",
-        "The origins of MOFs trace back to 1974, when University of Melbourne chemistry professor Richard Robson began exploring whether molecules and chemical bonds could replace the wooden balls and metal rods used in structural models. His experiments with copper ions connected by four-armed organic molecules helped establish the foundations of a new class of porous materials. Today, approximately 100,000 MOFs are known, with potential applications ranging from gas storage and chemical separation to pollution control.",
-        "Turning these materials into functional devices requires precise fabrication, often involving dry etching, which removes material using energetic particles such as ions. Unfortunately, ion beams can disrupt the delicate crystalline frameworks and produce unwanted cavities. Cryogenic etching has offered a way to limit this damage, but it requires specialized cooling equipment and liquid nitrogen.",
-        "Led by Assistant Professor Yumeng Zheng and Professor Kentaro Kinoshita from TUS’s Department of Applied Physics, the researchers investigated whether ionic liquids could make MOFs more resistant to ion beam damage. Their approach builds on earlier findings from Kinoshita’s team showing that these liquids can improve the mechanical stability of MOFs. The study was scheduled for publication in Communications Materials .",
-        "The team tested four imidazolium-based ionic liquids in Cu3BTC2, a copper-based MOF containing benzene-1,3,5-tricarboxylic acid (BTC). Each liquid occupied approximately 50% to 60% of the material’s pore volume. The researchers then used a focused gallium ion beam to etch patterns into the samples at room temperature.",
-        "Untreated MOFs suffered substantial structural damage, including the formation of large cavities. Samples containing ionic liquids showed considerably less visible microstructural damage under the same conditions. The researchers successfully etched a square measuring 5 × 5 micrometers (approximately 0. 0002 × 0. 0002 inches), a pillar, and a Chinese character with lines just 130 to 300 nanometers (about 5 to 12 millionths of an inch) wide.",
-        "“In this study, we developed a simple method for room-temperature dry etching of this fragile class of materials. By infiltrating MOFs with ionic liquids, their mechanical stability is greatly improved, and the damage from electron and ion beams is reduced, achieving harmless ion beam etching,” says Dr. Zheng.",
-        "The researchers propose that ionic liquids protect MOFs through a combination of thermal and electrical effects. The liquids may absorb heat generated during ion bombardment, reducing local temperature changes, while their mobile ions could help redistribute accumulated electrical charge and screen local electric fields. These mechanisms remain proposed explanations rather than directly established causes of the reduced damage.",
-        "Additional measurements confirmed that all four ionic liquid treatments increased the MOF’s hardness without substantially changing its stiffness. Thermal analysis also showed that treated samples decomposed at higher temperatures than untreated material, indicating improved thermal stability.",
-        "Although the experiments focused on a single copper-based MOF, the researchers believe the approach could potentially work with other frameworks. If its effectiveness extends to additional materials, room-temperature etching could provide a more accessible route to manufacturing MOF-based devices without the cooling requirements of cryogenic processing.",
-        "“We can foresee applications in high-sensitivity sensors, separation and analysis devices, and catalytic devices. This technology has the potential to become a foundational technology for bridging the exceptional material functionalities of MOFs with their use in practical devices,” says Prof. Kinoshita.",
-        "This work was partly supported by JSPS KAKENHI Grant Number 26K00987."
-      ],
-      "external": true,
-      "order": 7
-    },
-    {
-      "id": "phys-some-of-the-oldest-rocks-ever-discovered-shed-light-on-ear",
-      "title": "Some of the oldest rocks ever discovered shed light on Earth's early history",
-      "dek": "Earth is approximately 4. 5 billion years old, according to estimates. However, rocks dating back to the planet's earliest days are extremely rare. ",
-      "category": "环境",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T17:00:33.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-oldest-earth-early-history.html"
-      },
-      "cover": "wave",
-      "accent": "blue",
-      "paragraphs": [
-        "Earth is approximately 4. 5 billion years old, according to estimates. However, rocks dating back to the planet's earliest days are extremely rare. Hence the excitement over the discovery in northern China of some of the oldest known rocks on Earth, dating back 3. 95 billion years. And one of the reasons for all the attention is that they're revealing new clues about how Earth's crust formed and evolved.",
-        "Researchers found the rocks in the Shimen Complex in Hebei province and collected three samples for detailed analysis. Scientists have been searching for rocks older than 3. 8 billion years in China for decades.",
-        "The team, led by Hangqiang Xie of the Chinese Academy of Geological Sciences in Beijing, dated the rocks by analyzing tiny zircon crystals trapped inside them. These contain uranium, which slowly decays into lead at a known rate.",
-        "But the researchers wanted to know more than just the rocks' age.",
-        "More specifically, they were interested in how the rocks had formed and what they could reveal about the geological processes taking place on Earth nearly 4 billion years ago.",
-        "To find out, they analyzed their chemical composition, including different forms of oxygen and hafnium in zircon crystals. The researchers also used computer models to investigate the conditions under which the rocks formed.",
-        "The results, published in the journal Nature , suggest that a process similar to modern-day plate tectonics may have been taking place in at least one part of Earth nearly 4 billion years ago. A Research Briefing in the same edition provides further insights into the findings.",
-        "The analysis revealed that the rocks had originally formed from material that had been in contact with water at or near Earth's surface. Meanwhile, computer models suggested this material was then carried more than 50 kilometers (31 miles) below Earth's surface, where intense heat and pressure caused it to melt partially.",
-        "The researchers believe this could have happened through a process called subduction. In plate tectonics, this is where one section of the Earth's crust sinks beneath another, as they wrote in their paper. \"We propose that this rapid burial was most likely achieved through a transient subduction event.\"",
-        "Analysis of hafnium isotopes in the zircon crystals also suggested that the process of separating material from Earth's mantle to form new crust had begun more than 4. 3 billion years ago.",
-        "This was hundreds of millions of years before the rocks in China formed, suggesting that Earth's crust was already evolving very early in the planet's history.",
-        "Written for you by our author Paul Arnold , edited by Gaby Clark , and fact-checked and reviewed by Robert Egan —this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.",
-        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
-        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;"
-      ],
-      "external": true,
-      "order": 8
-    },
-    {
-      "id": "scitechdaily-archaeologists-uncover-3-800-year-old-burial-mystery-on-sp",
-      "title": "Archaeologists Uncover 3,800-Year-Old Burial Mystery on Spain’s Coast",
-      "dek": "A burial ground on Spain’s southern coast suggests ancient communities may have continued building massive shared tombs during the Bronze Age, rather than simply reusing…",
-      "category": "文化",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T16:38:15.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/archaeologists-uncover-3800-year-old-burial-mystery-on-spains-coast/"
-      },
-      "cover": "cup",
-      "accent": "orange",
-      "paragraphs": [
-        "A burial ground on Spain’s southern coast suggests ancient communities may have continued building massive shared tombs during the Bronze Age, rather than simply reusing older monuments.",
-        "A 3,800-year-old burial mystery on Spain’s southern coast is challenging what archaeologists thought they knew about prehistoric burial traditions.",
-        "At a time when communities across the Iberian Peninsula were abandoning massive communal tombs in favor of smaller, individual graves, people near the Strait of Gibraltar appear to have continued burying their dead together. Even more puzzling, the stone monuments they used may have been newly constructed rather than inherited from earlier generations.",
-        "The discovery comes from the Trafalgar necropolis, where archaeologists investigated two collective tombs containing the remains of multiple individuals.",
-        "Radiocarbon dating of 16 individuals places the use of these tombs between 1875 and 1625 BC, making them among the latest known examples of collective megalithic burial in Iberia.",
-        "But the age of the human remains is only part of the mystery. Archaeologists also found no evidence of earlier occupation at the site, raising the possibility that the monuments themselves were constructed during the Bronze Age, when such building traditions were thought to be fading.",
-        "The study, published November 11, 2026, in the open-access journal PLOS One , was conducted by Eduardo Vijande-Vila of the University of Cádiz in Spain and colleagues.",
-        "Determining when a tomb was used is not the same as establishing when it was built. Elsewhere in Iberia, Bronze Age communities sometimes buried their dead inside monuments dating back to the Copper Age, making it difficult to distinguish new construction from the reuse of older structures.",
-        "Trafalgar may represent an important exception. The absence of evidence for an earlier burial ground suggests the cemetery could have been established in the early second millennium BC. However, additional dating methods are needed to determine when the monuments were originally constructed.",
-        "The authors explain, “The Trafalgar megalithic necropolis has revealed a highly significant finding. During the Bronze Age, an entirely new funerary space was constructed in a landscape dominated by the sea. We propose this hypothesis based on the absence of archaeological evidence for earlier occupation in the surrounding area. Until now, the evidence available for this period has primarily pointed to the reuse of megalithic monuments built during the Copper Age. This discovery offers a new perspective on funerary practices during this period and would demonstrate that new monumental burial spaces continued to be constructed.”",
-        "The excavations also uncovered grave goods, including gold and copper earrings, silver beads, and an ivory comb, offering additional clues about the people buried at the site.",
-        "If further research confirms that the monuments were newly built during the Bronze Age, Trafalgar would provide rare evidence that monumental communal burial traditions survived longer than previously recognized.",
-        "Researchers believe additional tombs may remain undiscovered, potentially offering further insight into ancient Iberian burial traditions. However, strong coastal winds and shifting sands threaten to bury the site beneath the dunes again, making continued preservation essential for future excavations.",
-        "This research was supported by the European Regional Development Fund (ERDF), the Regional Government of Andalusia, the European Union’s Complementary Marine Sciences Plan (MEDUSA project), and CEIMAR’s 2021 and 2022 Young Researchers Research Projects programs."
-      ],
-      "external": true,
-      "order": 9
-    },
-    {
-      "id": "scitechdaily-a-3-million-year-old-fossil-is-turning-the-story-of-human-",
-      "title": "A 3-Million-Year-Old Fossil Is Turning the Story of Human Evolution Upside Down",
-      "dek": "Nearly 3 million years after the Taung Child lived, its fossil is challenging long-held assumptions about humanity’s origins, suggesting our ancient family tree was far more…",
-      "category": "校园",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T16:03:22.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/a-3-million-year-old-fossil-is-turning-the-story-of-human-evolution-upside-down/"
-      },
-      "cover": "leaf",
-      "accent": "green",
-      "paragraphs": [
-        "Nearly 3 million years after the Taung Child lived, its fossil is challenging long-held assumptions about humanity’s origins, suggesting our ancient family tree was far more diverse than scientists once believed.",
-        "A century ago, a child’s fossil helped establish Africa as the birthplace of humanity. Now, that same discovery is raising another question about our origins: How many early human species have scientists been treating as one?",
-        "Discovered in South Africa in 1924, the Taung Child became the defining fossil, or “type specimen,” of Australopithecus africanus . It provided the first concrete evidence of human origins in Africa. Yet because no definitive criteria were established for classifying later discoveries, the Taung Child remains the only fossil conclusively assigned to the species.",
-        "A new study published in Nature dates the fossil to between 2. 96 and 3. 03 million years ago and suggests that several supposed members of its species may have belonged to different branches of the human family tree.",
-        "Led by Professor Gabriele Macho of the Archaeology, Environmental Changes and Geo-Chemistry (AMGC) research group at Vrije Universiteit Brussel (VUB), an international team examined tooth structure and patterns of brain and dental development during growth.",
-        "Several adult fossils traditionally classified as Australopithecus africanus did not match the Taung Child’s developmental trajectory. Differences in brain development were particularly revealing, suggesting that multiple hominin species may have occupied South Africa’s Sterkfontein region, either alongside one another or at different times.",
-        "“For over 100 years, we assumed the Taung Child was just one of many similar fossils from the era,” says Professor Gabriele Macho. “Our findings turn that on its head. The human family tree wasn’t a neat, straight trunk—it was a chaotic, tangled bush driven by climate shifts.”",
-        "The environment in which these ancient human relatives lived may help explain their diversity. Fossilized pollen indicates that the Taung Child inhabited a much wetter, more forested landscape than modern South Africa. Some of the trees growing there are now found hundreds of kilometers to the northeast.",
-        "Over millions of years, alternating wet and dry periods repeatedly transformed the region. As forests and other habitats expanded or contracted, hominin populations may have become isolated, evolved separately, and later encountered one another again. The researchers suggest these shifting conditions encouraged interbreeding and adaptations to different predators and pathogens.",
-        "Southern Africa’s position between tropical and temperate ecosystems made it a potential meeting ground for populations that had followed different evolutionary paths.",
-        "Rather than a straightforward progression from one ancestor to the next, the findings suggest that the emergence of our genus, Homo , involved a complex network of ancient populations repeatedly separated and reunited by a changing climate.",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
-        "A very compelling development, but the discovery of many species around the globe has suggested, to some, the possibility of “panspermia, ” aside from solely an evolu-tionary process. Incidentally, Crick (of Wat-son & Crick) has been quoted as subscribing to this idea.",
-        "Save my name, email, and website in this browser for the next time I comment."
-      ],
-      "external": true,
-      "order": 10
-    },
-    {
-      "id": "scitechdaily-scientists-discover-how-exercise-could-help-protect-the-br",
-      "title": "Scientists Discover How Exercise Could Help Protect the Brain From Parkinson’s",
-      "dek": "Exercise may benefit people with Parkinson’s disease in ways that go far beyond building strength and improving mobility. ",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-14",
-      "publishedAt": "2026-11-14T13:29:29.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-discover-how-exercise-could-help-protect-the-brain-from-parkinsons/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "Exercise may benefit people with Parkinson’s disease in ways that go far beyond building strength and improving mobility. A review of 129 studies suggests that contracting muscles release chemical messengers capable of influencing brain health, potentially helping vulnerable nerve cells resist damage.",
-        "The research highlights how regular physical activity can improve movement, balance, mood, and cognitive function while reducing falls and disability. Scientists are also investigating whether the biological changes triggered by exercise could help slow aspects of the disease itself.",
-        "“Muscles do much more than move our body. They can act like an endocrine organ, producing hormone-like chemical messengers called ‘exerkines,’ which are released during exercise—just like the pancreas produces insulin or the thyroid gland produces thyroid hormones,” explains Dr. Miguel Germán Borda.",
-        "When muscles contract, they release signaling molecules known as exerkines that can travel through the bloodstream and influence organs throughout the body, including the brain, heart, liver, and immune system. Among the molecules examined in the review were brain-derived neurotrophic factor (BDNF), insulin-like growth factor-1 (IGF-1), irisin, cathepsin B, myostatin, and growth/differentiation factor 15 (GDF15). These substances have different biological functions, and researchers are working to understand their individual contributions to brain health.",
-        "“So, the next question became, how do exerkines protect the brain?” says Dr. Salomón Páez-García. “We found that the exerkines act as a medium for the crosstalk between the muscle and the brain. Though the brain controls muscles, exercising muscles send beneficial signals back to the brain through exerkines,” he further explains.",
-        "Parkinson’s disease (PD) is a progressive neurological disorder characterized by the loss of dopamine-producing neurons, particularly in a brain region called the substantia nigra. This degeneration contributes to movement difficulties, while the disease can also affect thinking, mood, sleep, and other functions. With populations aging worldwide, Parkinson’s represents an increasing public health challenge.",
-        "The reviewed research suggests that certain exercise-related signaling molecules may reduce inflammation and oxidative stress, support mitochondrial function, and promote neuroplasticity, the brain’s ability to adapt and form new connections. Experimental findings indicate that these effects can help dopamine-producing neurons withstand cellular stress and damage. However, further clinical research is needed to establish whether these mechanisms meaningfully slow neurodegeneration in people with Parkinson’s.",
-        "Muscle health becomes increasingly important as Parkinson’s progresses. Sarcopenia, the gradual age-related loss of muscle mass, strength, and physical function, can contribute to frailty and disability. In people with Parkinson’s, it may also be associated with more frequent falls, greater cognitive impairment, poorer outcomes, and reduced quality of life.",
-        "The review identified benefits across several types of physical activity. Aerobic exercise, including walking and jogging, supports cardiovascular fitness, while resistance training, such as weightlifting and squats, builds muscle strength. Balance exercises, including Tai Chi and standing on one leg, improve stability. Programs combining these approaches can address multiple physical challenges simultaneously. Current Parkinson’s care guidelines recommend beginning exercise early, maintaining regular activity, and adjusting exercise programs to individual abilities as the disease progresses.",
-        "“Muscle is a biologically active tissue that has the potential to influence neural function. Building on this, we collected experimental, observational, and interventional data that evaluated the interplay between muscle status and exercise in PD,” says Dr. Salomón Páez-García, the study’s first author.",
-        "Although exercise is already an established component of Parkinson’s management, its potential neuroprotective effects remain under investigation. Researchers still need to determine which exercise types, intensities, and durations produce the greatest long-term benefits, as well as which exerkines are most responsible for the observed biological effects.",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
-        "Save my name, email, and website in this browser for the next time I comment.",
-        "Type above and press Enter to search. Press Esc to cancel."
-      ],
-      "external": true,
-      "order": 11
-    },
-    {
-      "id": "scitechdaily-scientists-develop-injectable-glucose-sensor-that-could-ch",
-      "title": "Scientists Develop Injectable Glucose Sensor That Could Change Diabetes Care",
-      "dek": "An experimental injectable sensor could give people with diabetes a more affordable way to track blood sugar, with early tests showing that a cheaper sensing ingredient…",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-14",
-      "publishedAt": "2026-11-14T12:54:21.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-develop-injectable-glucose-sensor-that-could-change-diabetes-care/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "An experimental injectable sensor could give people with diabetes a more affordable way to track blood sugar, with early tests showing that a cheaper sensing ingredient performed similarly to its costlier alternative.",
-        "For millions of people with diabetes, knowing how glucose levels are changing helps guide decisions about medication, meals, and daily activities. Continuous glucose monitors provide that information in real time, but their cost keeps the devices out of reach for some patients. Making monitoring more affordable requires attention to the materials inside a sensor, as well as how reliably they work.",
-        "Researchers at Texas A&M University have identified a less expensive ingredient for an experimental injectable glucose sensor. Their study, published in ACS Measurement Science AU , found that a sensing material costing roughly one-tenth as much as an alternative used in earlier versions delivered comparable performance.",
-        "The proposed sensor houses its sensing chemistry in a small hydrogel, a water-rich material that can be injected into tissue and sit beneath the skin. The gel provides a stable home for the sensing materials while allowing glucose to pass through. In testing, it retained more than 94% of the sensing mixture over seven days, demonstrating that the chemistry could function within an injectable platform.",
-        "“Our long-term goal is to develop a reliable, affordable injectable glucose sensor that can expand access to continuous glucose monitoring, particularly for people in under-resourced communities and those without adequate insurance coverage,” said Dr. Gérard L. Coté, the study’s principal investigator and a professor of biomedical engineering in Texas A&M’s College of Engineering. “Reducing the cost of the sensing materials is one step toward making these technologies accessible to more people who need them.”",
-        "To measure glucose, the platform uses changes in near-infrared fluorescence, a light signal beyond the visible range. Many glucose-monitoring systems rely on enzymes, which help chemical reactions occur. This approach instead detects glucose through a competition between molecules.",
-        "Glucose and a fluorescent sugar compound compete for available binding sites on a protein called concanavalin A, or ConA. As glucose concentrations rise, more glucose molecules enter that competition, changing the fluorescent signal. This process, known as competitive binding, allows the researchers to track glucose concentrations without enzymes.",
-        "The team compared several glucose-binding compounds, including two forms of a sugar called mannopentaose. Earlier versions of the technology used α-mannopentaose. The much less expensive β-mannopentaose provided comparable sensing performance and also performed well in artificial interstitial fluid, a solution designed to mimic the environment beneath the skin.",
-        "“The surprising part was how closely the lower-cost material matched the performance of the more expensive alternative,” said Dr. Sayantan Tripathy, an assistant research scientist in Texas A&M’s Optical and Bio-Sensing Laboratory and the study’s lead author. “In this case, the cheaper option wasn’t really a compromise, and that’s an important finding when you’re thinking about future glucose-monitoring technologies.”",
-        "The cost comparison concerns one sensing component. The technology remains at the proof-of-concept stage and needs additional development and testing before it could be considered for clinical use.",
-        "“Developing an affordable glucose sensor means considering the cost of the individual materials as well as how well they work together,” Coté said. “This study shows that we can substantially reduce the cost of one sensing component while maintaining comparable performance, giving us a promising foundation for further development.”",
-        "Reducing manufacturing costs could eventually help expand access to future diabetes-monitoring technologies. That possibility makes affordability a consideration throughout development, alongside technical performance.",
-        "“When new medical technologies are expensive, access can be limited,” said Dr. Melissa Grunlan, a study co-author, professor of biomedical engineering in the College of Engineering, and professor of chemistry in the College of Arts and Sciences. “Our goal is to develop sensors that are not only effective but affordable for the people who rely on them.”",
-        "The team plans to refine the platform and evaluate additional components that may improve its performance, longevity, and practicality."
-      ],
-      "external": true,
-      "order": 12
+      "order": 13
     },
     {
       "id": "conversation-why-the-microsoft-365-outage-is-different-and-why-it-takes",
@@ -529,7 +574,7 @@
         "Doug Jacobson does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
-      "order": 13
+      "order": 14
     },
     {
       "id": "conversation-oceans-and-forests-have-absorbed-roughly-half-our-carbon-e",
@@ -576,7 +621,7 @@
         "Policymakers and the public need answers faster . We believe the solution involves both improving the atmospheric oxygen approach and using other independent approaches: measurements of carbon and oxygen in the oceans, computer models and satellites are all essential. Combining these approaches will lead to more robust understanding of the carbon cycle and climate change, and better knowledge of where these valuable carbon sinks and the global climate are headed."
       ],
       "external": true,
-      "order": 14
+      "order": 15
     },
     {
       "id": "nasa-gemini-astronaut-photos-inspired-early-earth-observation-p",
@@ -605,7 +650,7 @@
         "Rounds of heavy rain in the U. S. Southwest flooded rivers and rapidly raised New Mexico’s…"
       ],
       "external": true,
-      "order": 15
+      "order": 16
     },
     {
       "id": "nasa-news-gemini-astronaut-photos-inspired-early-earth-observation-p",
@@ -634,7 +679,7 @@
         "Rounds of heavy rain in the U. S. Southwest flooded rivers and rapidly raised New Mexico’s…"
       ],
       "external": true,
-      "order": 16
+      "order": 17
     },
     {
       "id": "conversation-to-get-americans-to-care-about-climate-change-just-call-it",
@@ -678,7 +723,7 @@
         "Gale Sinatra received funding from the National Science Foundation."
       ],
       "external": true,
-      "order": 17
+      "order": 18
     },
     {
       "id": "conversation-debate-in-new-york-city-over-city-run-groceries-is-not-jus",
@@ -723,50 +768,6 @@
         "Municipal grocery stores depart from the traditional model in two important ways.",
         "First, they make affordability an explicit condition of public investment rather than the outcome of increased retail competition. Second, they make government’s contribution visible. For example, the stores will share distinct branding so shoppers know who’s responsible for the affordable food.",
         "If the stores deliver reliable savings, shoppers may begin to see affordable food as something government can help provide, not an outcome determined entirely by private markets. When public benefits are obscured, people are more likely to underestimate government’s contribution to their lives. Visible programs, like a physical store in the neighborhood, make that contribution easier to notice and evaluate."
-      ],
-      "external": true,
-      "order": 18
-    },
-    {
-      "id": "conversation-maha-suffered-heavy-losses-in-the-2026-midterms-but-the-mo",
-      "title": "MAHA suffered heavy losses in the 2026 midterms, but the movement is far from dead",
-      "dek": "Candidates tied to the Make America Healthy Again, or MAHA, movement suffered a series of electoral defeats in the 2026 midterm elections, raising questions about MAHA’s…",
-      "category": "社会",
-      "tags": [
-        "The Conversation"
-      ],
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-13T13:37:55.000Z",
-      "source": {
-        "name": "The Conversation",
-        "license": "CC BY-ND 4.0",
-        "licenseLabel": "CC BY-ND 4.0",
-        "url": "https://theconversation.com/maha-suffered-heavy-losses-in-the-2026-midterms-but-the-movement-is-far-from-dead-296093"
-      },
-      "cover": "cup",
-      "accent": "orange",
-      "paragraphs": [
-        "Candidates tied to the Make America Healthy Again, or MAHA, movement suffered a series of electoral defeats in the 2026 midterm elections, raising questions about MAHA’s political future.",
-        "Despite its name, MAHA has become a controversial force in American health politics. While the movement calls for healthier food , increased physical activity and greater corporate transparency, prominent figures within it have also challenged established scientific evidence, especially on vaccines .",
-        "Some commentators and critics have described the defeat of MAHA-aligned candidates like Iowa gubernatorial candidate Zach Lahn as a “ brutal election night wipeout .” Others have asked whether MAHA is “ dying .”",
-        "Yet many Americans still support MAHA and the policies it champions . Its supporters also continue to hold powerful positions in the Trump administration – like Health and Human Services Secretary Robert F. Kennedy Jr. , National Institutes of Health Director Jay Bhattacharya , and Kyle Diamantas , acting commissioner of the U. S. Food and Drug Administration – even as a new Congress prepares to take office in January 2027.",
-        "We are political scientists who study public opinion on healthcare policy . We see MAHA’s electoral losses as a political setback, not a death sentence. The movement’s influence extends beyond its candidates and the elections they contest.",
-        "MAHA’s electoral losses came amid a potentially generational swing toward Democrats across the country,",
-        "More than half the 24 gubernatorial and Congressional candidates endorsed by MAHA’s political action committee, MAHA Action , lost their election bids. These included Lahn, Texas Senate candidate Ken Paxton and House candidate Vic Mellor in Rhode Island. Others, like incumbent Representative Anna Paulina Luna, R-FL, won by less than 1% in a district that she won by nearly 10 percentage points in 2024.",
-        "Lahn’s defeat stands out as a major loss. Lahn, a farmer who railed against pesticides on the campaign trail and promised to ban COVID-19 vaccinations in Iowa , was endorsed by Kennedy. Lahn has been described by some as a model MAHA candidate and received over US$1 million in campaign contributions from MAHA Action.",
-        "But the movement’s poor showing at the ballot box does not mean that some of MAHA’s ideas are unpopular among Americans. A May 2026 poll conducted by the health policy organization KFF found that 41% of American adults supported MAHA , including many Democrats and independents.",
-        "Many Americans also share MAHA’s concerns about food safety. According to KFF, 75% of Americans believe the government does too little to regulate chemical additives in food, while 64% say the same about agricultural pesticides.",
-        "Yet the popularity of MAHA policies did little to help MAHA-backed candidates win in the first election cycle where MAHA-aligned candidates were on the ballot. Following the midterm elections, some MAHA activists moved to blame President Donald Trump for failing to fulfill promises on these issues.",
-        "One prime example: In a postelection episode of Joe Rogan’s podcast, Calley Means, a former senior adviser to Kennedy, accused senior White House officials of allowing corporate interests to undermine MAHA’s goals. Dissatisfaction also spilled over to MAHA supporters in the general public, with one postelection poll finding that just over half of MAHA supporters feel the Trump administration made Americans’ health and well-being better throughout his second term in office.",
-        "Dissatisfaction with Trump, however, tells only part of the story. Another KFF poll conducted just before the election found that 42% of MAHA-supporting voters considered lowering healthcare costs their top health priority. By comparison, 21% prioritized restricting food additives, and 10% chose vaccine safety. Among voters more broadly, 55% believed Trump’s policies increased their healthcare costs, and 83% of those voters reported voting for Democrats. Most MAHA supporters, however, continued to vote for Republicans .",
-        "Supporting a movement, embracing its policy priorities and casting a ballot for its candidates do not necessarily go hand in hand. Americans can support MAHA’s goals without identifying with the movement or voting for its candidates. Likewise, MAHA supporters may vote Republican even when they are dissatisfied with Trump’s health policies. MAHA’s electoral losses, therefore, tell us little about how much support its ideas enjoy.",
-        "Despite its electoral losses, MAHA still holds considerable influence in Washington. Kennedy still leads HHS, where he can continue reshaping how the Centers for Disease Control and Prevention steers vaccine recommendations in a direction that aligns with his vaccine-skeptical views. These efforts face growing scrutiny amid public confusion over Kennedy’s vaccine guidance and reports that he sought to remove measles-related deaths from CDC statistics .",
-        "Kennedy appears undeterred by MAHA’s electoral setbacks. Following the election, he praised incoming White House Chief of Staff Stephen Miller , declaring, “Next to me, Stephen Miller is the strongest MAHA supporter in the administration. It’s time to unleash the Kraken.”",
-        "MAHA’s continued influence in the Trump administration, however, will face new obstacles now that Democrats control Congress. Facing greater opposition, the administration may increasingly rely on executive actions, including executive orders , new federal regulations and agency reports , to advance its health policies. However, Congress can also investigate HHS decisions and use its control over federal spending to limit what the agency can do.",
-        "MAHA’s political future remains uncertain. Some supporters may gradually move toward Democrats, particularly those concerned about corporate influence, pharmaceutical industry accountability and food safety. These concerns cross partisan lines , giving Democrats an opportunity to appeal to voters dissatisfied with Trump but still supportive of MAHA’s priorities.",
-        "MAHA could also become a movement independent of Trump and MAGA. It could bring together Americans who care about health and wellness, distrust major institutions and oppose corporate influence over food and medicine. Kennedy’s independent presidential campaign attracted as much as 15% support among voters in July 2024. This showed that an alternative to the two major parties could attract substantial support.",
-        "Whether MAHA remains tied to Trump’s increasingly divided coalition will shape its future beyond his presidency. The frustrations and health concerns that fueled its rise among Americans have not disappeared.",
-        "The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
       "order": 19
