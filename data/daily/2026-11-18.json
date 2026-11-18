@@ -1,0 +1,1119 @@
+{
+  "generatedAt": "2026-11-18T00:37:17.203Z",
+  "date": "2026-11-18",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-how-do-human-lifestyles-affect-the-gut-microbiome-of-our-c",
+      "title": "How do human lifestyles affect the gut microbiome of our canine companions?",
+      "dek": "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T00:20:09.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-human-lifestyles-affect-gut-microbiome.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "Dogs have been living side by side with humans for millennia, but a new study underscores how much we have yet to learn about man's best friend. The study, which looked at hundreds of dogs across four nations, found that the lifestyles of pet owners appear to play a significant role in determining what constitutes a healthy gut microbiome for their dog companions.",
+        "To learn more about the research (and because we love dogs), North Carolina State University talked to Kimberly Ange-van Heugten, co-author of a journal article on the work and alumni distinguished undergraduate professor of animal science at NC State University. The article, \"Industrialization restructures the domestic dog gut microbiome while preserving host specificity,\" is published in the journal mSystems .",
+        "The gut microbiome is the complex, living community of trillions of microorganisms (including bacteria, viruses, fungi, etc. ) that live inside every animal's gastrointestinal (GI) tract.",
+        "The canine gut microbiome is more than just about how dogs digest their food or how easy their poop is for their owners to pick up during walks. The microbiome is involved in all aspects of a dog's overall health, including their immune system and even how they behave.",
+        "Dog gut microbes do break down complex dietary fibers, process carbohydrates and assist with overall nutrient digestion and absorption. However, a massive portion of a dog's immune system lives in the gut, too. A balanced microbiome helps train immune cells to fight off harmful pathogens while potentially preventing chronic medical conditions. In addition, the gut and brain are in constant communication. A balanced microbiome is increasingly linked to preventing stress, fear and canine anxiety.",
+        "An imbalanced microbiome can be linked to canine skin issues, food sensitivities, ear infections, poor energy, chronic conditions like inflammatory bowel disease, or more short-term problems like diarrhea and nausea.",
+        "All this said, what is a balanced or normal microbiome? We struggle to define the \"normal\" microbiome (if such a thing even exists), even in humans. For canines, what is balanced and normal for one individual may be different for another.",
+        "And we know that where the dog lives and whom it interacts with can definitely influence what constitutes a balanced, normal microbiome. While we do know some microbiome species (or overgrowths of specific species) can be helpful or harmful, much of the canine microbiome is still undiscovered and under-researched.",
+        "This work was more about the relationship that humans and dogs have with each other and then with food and how that affects the microbiome. We know the microbiome is affected by community habits and culture. For example, the microbiomes of people in communities that eat lots of sourdough bread differ from those that don't; human communities with increased antibiotic availability differ from those that have less access to antibiotics. However, no one had previously looked at how human lifestyles affect the microbiome of the dogs living within those communities.",
+        "For this study, you and your colleagues did a genetic analysis on the gut microbiome of more than 250 dogs from Nepal, Thailand, the United Arab Emirates and the United States. The paper says the dogs spanned 'forager, agrarian, pastoralist, urban, and industrialized lifestyles.' What does that mean?",
+        "Forager to agrarian to pastoralist to urban to industrialized is a spectrum covering where dogs get their food: from the wild to commercial diets.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Basically, we found that the way we live affects the microbiome of our pets. Therefore, the \"normal\" microbiome for a population of housed dogs could be quite different than for dogs that live outdoors, etc. There is likely not one standard healthy microbiome."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-how-machine-learning-can-tackle-lead-pipe-challenges",
+      "title": "How machine learning can tackle lead pipe challenges",
+      "dek": "A new machine learning tool developed through the Centre for Resilience in Environment, Water and Waste (CREWW) could help water companies identify properties most likely to…",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T00:20:06.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-machine-tackle-pipe.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "A new machine learning tool developed through the Centre for Resilience in Environment, Water and Waste (CREWW) could help water companies identify properties most likely to be connected to lead service pipes.",
+        "The newly published study, \"The Effectiveness of Different Ground Truths at Detecting Lead Service Pipes Using Machine Learning,\" demonstrates how advanced data analytics can be used to predict the presence of lead pipes, and what data is needed for this to be effective, where historic records are incomplete or unavailable. The paper is published in the Journal of Water Resources Planning and Management .",
+        "By combining operational knowledge with academic research, the project is helping to develop smarter ways of locating lead pipes across the water network where historic records may be incomplete or unavailable.",
+        "Lead pipes remain one of the water sector's longstanding challenges. While no longer installed, legacy lead piping can still be found in both public and private water supply systems, making their identification and replacement an ongoing priority for water companies. The new tool uses machine learning techniques to analyze available data sets and predict where lead communication and supply pipes are most likely to exist.",
+        "By helping target investigations and replacement programs more effectively, the approach could reduce costs, improve efficiency and accelerate progress toward reducing lead piping.",
+        "The publication is the latest example of how CREWW—a collaboration between the University of Exeter and South West Water—is bringing together academic expertise and operational experience to develop practical solutions to challenges facing the water sector, translating research into innovations that can deliver benefits for customers, communities and the environment.",
+        "Matt Hayslep, postdoctoral research fellow from the University of Exeter, said, \"Removing lead pipes is important from an industry, health and environment point of view, and it is very exciting that our research is helping South West Water to do this more effectively. There have been a lot of interesting machine learning and data challenges, which we continue to work hard to overcome as we improve the tool. Our success so far demonstrates the value of industrial partnerships with the University of Exeter.\"",
+        "Jason Harvey, networks transformation and innovation manager at South West Water, said, \"Improving our understanding of where lead pipes are located is an important part of our long-term ambition to become lead-free by 2050. This project demonstrates how collaboration through CREWW can help turn research into practical tools that support operational decision-making. By using machine learning and advanced analytics, we're developing new ways to target investigations more effectively and improve how we manage our network.\"",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Machine learning can predict which properties are likely to have lead service pipes where historical records are incomplete or absent. Prediction effectiveness depends on the data used, making data selection important for targeting pipe investigations and replacement.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors.",
+        "Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages.",
+        "Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose. The information you enter will appear in your e-mail message and is not retained by Phys. org in any form."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-study-tracks-what-students-learn-from-online-teamwork-and-",
+      "title": "Study tracks what students learn from online teamwork and fieldwork abroad",
+      "dek": "Can a solution that cuts food waste in Tokyo work in Seoul too? ",
+      "category": "校园",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T00:00:06.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-tracks-students-online-teamwork-fieldwork.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Can a solution that cuts food waste in Tokyo work in Seoul too? Exploring a familiar problem with peers abroad can help students question what they take for granted at home and see how their knowledge might apply to real-world sustainability challenges. As educators put time and care into designing international courses, what do students take away from the experience, and what stays with them after the course ends?",
+        "In a study published in August 2026 in the International Journal of Sustainability in Higher Education , Kyushu University researchers examined what agriculture students gained from Collaborative Online International Learning Plus (COIL+), a program that pairs online teamwork with fieldwork.",
+        "\"As educators, we can create opportunities to learn, but even in the same classroom, students take away different things. It's harder to know how that learning is sustained over time,\" says assistant professor HyunJung Bang of Kyushu University's Faculty of Agriculture. \"We were interested in two related questions: how students put sustainability ideas into practice and whether the skills they developed through international collaboration continued to be useful beyond the program.\"",
+        "Kyushu University began using COIL during the COVID-19 pandemic so students could work with peers abroad while travel was restricted. As restrictions eased, the university added fieldwork, the \"plus\" in COIL+. In the courses studied, teammates who first met online visited each other's countries, taking part in activities such as turning leftover brewing grain into cookies in South Korea and visiting smart farms in Japan.",
+        "In an earlier study , Bang found that students linked the Sustainable Development Goals (SDGs) to local issues they encountered. About 70% reported continuing sustainability-related actions. In the new study, the team looked beyond changes in daily habits to ask which soft skills students felt they had developed through cross-cultural teamwork and whether they used them elsewhere.",
+        "Across three COIL+ courses offered during the 2022–2024 academic years, 21 of the 51 students enrolled completed an anonymous post-course survey. Nine students took part in focus groups held about four and nine months after the courses ended.",
+        "The survey showed that students felt they had improved most in teamwork and communication. Qualitative analysis highlighted three processes that supported learning: collaboration across cultural and disciplinary boundaries, psychological safety that encouraged students to take on leadership roles, and engagement with authentic sustainability challenges.",
+        "One focus group participant described how a shared goal helped the team overcome language barriers. Another said they felt more confident leading an international team after the fieldwork. One participant also gave an example of how they used problem-solving skills from the program in other courses.",
+        "\"Some of our Japanese students were hesitant to speak English at first,\" Bang recalls. \"Whether they were talking in class online or chatting at the bus stop on a field trip, they began to realize they could make themselves understood even if their English wasn't perfect. What interests me as a teacher is what people in different places can bring to the same subject, and I loved hearing them switch between languages in a single conversation.\"",
+        "The researchers plan to investigate how students move across digital, cultural, knowledge–practice and temporal boundaries, and to develop transferable design principles for international collaborative learning in agricultural higher education. Future research may also explore whether participants continue to apply these skills in their later studies and professional lives.",
+        "\"I hope these findings will also help educators as they design their courses,\" Bang adds. \"Universities can turn differences in place, culture and experience into learning resources. I'd love to see more of us work across campus and national boundaries, drawing on local knowledge from different settings to bring fresh perspectives into the courses we teach.\"",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Among 21 survey respondents, international online teamwork combined with fieldwork was associated with self-reported gains in teamwork and communication. Follow-up focus groups with nine students described greater leadership confidence and some transfer of problem-solving skills to other courses. Long-term skill use remains uncertain.",
+        "Please select the most appropriate category to facilitate processing of your request"
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-quantum-gas-microscope-resolves-the-color-of-individual-at",
+      "title": "Quantum-gas microscope resolves the 'color' of individual atoms in a single shot",
+      "dek": "In 2024, researchers at the Ultracold Quantum Gases group at ICFO built a quantum-gas microscope capable of imaging individual atoms in strontium quantum gases for the first…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T00:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "In 2024, researchers at the Ultracold Quantum Gases group at ICFO built a quantum-gas microscope capable of imaging individual atoms in strontium quantum gases for the first time, marking a key enabling step for quantum simulation. At that time, the researchers imaged strontium-84, a boson that has no spin.",
+        "Now, Carlos Gas-Ferrer, Dr. Antonio Rubio-Abadal, Dr. Sandra Buob, Leonardo Bezzo and Dr. Jonatan Höschele, led by ICREA professor Leticia Tarruell, have used their apparatus to image strontium-87. This fermion features 10 different spin states, producing colorful pictures in which each individual state can be distinguished. Reported in Physical Review X , this marks the first realization of a quantum-gas microscope that can detect individual atoms with so many available spins in a single shot.",
+        "This capability opens new possibilities for the quantum simulation of materials, where fermionic atoms take the role of electrons and the crystalline structure of a solid is replaced by an optical lattice created with interfering laser beams. Such systems are traditionally used to investigate the Hubbard model , a cornerstone in the understanding of high critical temperature superconductors.",
+        "Remarkably, strontium-87 will allow ICFO researchers to go beyond the two spin states of electrons, creating artificial materials that feature three or more spin states. This multi-spin freedom is especially powerful for realizing exotic quantum magnetism, where the spins align in complex magnetic configurations. It could also result in spin liquid behavior, a mysterious phase of matter where they cannot decide how to order and remain suspended in a superposition of many quantum states.",
+        "The technique also holds promise for quantum computing, where researchers are exploring neutral alkaline-earth atoms like strontium as qudits (a generalization of qubits that can encode more than two possible values). Strontium-87 atoms could make an ideal qudit platform, and this imaging protocol offers a reliable readout method that remains fully compatible with the strict requirements of qudit quantum computing.",
+        "\"The key ingredient for making this experiment was the red narrow-line transition of strontium,\" says Gas-Ferrer, first author of the article. Thanks to this extremely well-defined transition, a laser beam tuned to the appropriate frequency only excites the atoms in a specific spin state. These atoms absorb the laser light, become excited and, when they are subsequently de-excited, emit fluorescence photons that the microscope can detect; all the other spin states remain unaffected and stay \"dark\" to the laser.",
+        "\"The transition is gentle enough to allow us to resolve the spin, while being strong enough to induce a fluorescence signal,\" clarifies the researcher.",
+        "By exploiting this property, ICFO researchers found a way to distinguish the many spins of strontium-87 atoms in a single experimental run. First, a laser excites the atoms in the first spin state, which emit fluorescence and yield a first image with a specific color assigned to it. The atoms in the next spin state are then transferred to that same addressable state, allowing them to be excited by the laser, emit fluorescence and produce a second image with a new color assigned.",
+        "The protocol thus consists of sequentially transferring the atoms from each remaining spin state to the addressable state and inducing them to fluoresce. In this way, ICFO researchers can image and resolve the population of all 10 spin states of strontium-87 in a single experimental realization, obtaining images that look like multicolored confetti, with each color representing a distinct spin state. Beyond their visual appeal, these images mark a crucial experimental milestone and open exciting new avenues for quantum technologies.",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "A quantum-gas microscope resolved individual strontium-87 atoms across all 10 spin states in one experimental run. Spin-selective fluorescence and sequential state transfers enabled the readout, providing a tool for multicomponent quantum simulation and qudit detection.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-at-base-of-ocean-food-chain-scientists-uncover-impacts-of-",
+      "title": "At base of ocean food chain, scientists uncover impacts of a changing atmosphere",
+      "dek": "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T23:40:06.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-base-ocean-food-chain-scientists.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "Much of the concern about elevated levels of carbon dioxide in the atmosphere focuses on its effects on global warming as a greenhouse gas. But up to 30% of emitted carbon dioxide is absorbed by the oceans, where it reacts with water to lower pH and leads to ocean acidification, which has enormous effects on the chemistry and biology of marine ecosystems.",
+        "A new study by researchers at the University of Chicago shows how elevated carbon dioxide levels in a coastal ecosystem led to a rapid decline in pH and decreased the amount of dissolved silicon in the water that microscopic algae use to build their skeletons. The work is published in the journal Nature Communications .",
+        "These algae in turn feed the bulk of the zooplankton and fish that support coastal fisheries.",
+        "The study was based on data collected from the waters around Tatoosh Island, part of the Makah Tribal Nation off the northwest coast of Washington state. Co-authors Timothy Wootton and Cathy Pfister, both professors of ecology and evolution at UChicago, have been studying this ecosystem for more than 40 years.",
+        "Over this span, their team has routinely sampled the waters and monitored sensors to collect data on everything from ocean chemistry to populations of fish, birds, mollusks, barnacles and seaweeds. One of the dominant signals they have seen over the years is declining pH levels; they first published about this phenomenon in 2008 .",
+        "\"We have this unique long-term data set, and it seems to show that this process is especially worrisome because it involves primary productivity in the ocean phytoplankton that are the base of the ocean food chain,\" Wootton said. \"There are many ways that this could impact different kinds of species, as well as human activities such as fishing in particular.\"",
+        "Many studies on ocean acidification have focused on its impact on shellfish. As pH drops and water becomes more acidic, producing and maintaining their calcium carbonate shells requires more energy and becomes chemically harder.",
+        "In 2011, Pfister and Wootton published another paper showing how mussel shells from 1,000 to 1,300 years ago are much thicker than modern-day ones, tracking with declining pH levels.",
+        "The new study focuses on a different organism: diatoms, a type of microscopic, single-celled algae, or phytoplankton. Diatoms are a vital part of the ocean ecosystem, generating up to 40% of ocean primary productivity by converting inorganic matter to organic material through photosynthesis. Instead of calcium carbonate, they depend on dissolved silicon in the water to build their glassy silica skeletons.",
+        "Lower pH decreases silica solubility, meaning less silicon is dissolved in the seawater. On one hand, this makes it easier for the diatoms to maintain their skeletons, but on the other hand, this is bad for the overall ecosystem. As diatoms die, they fall to the bottom of the ocean with skeletons that don't dissolve as quickly, trapping more silicon in sediments instead of recycling it back into the water column for other diatoms to use.",
+        "\"Once the skeletons are built, they are more resistant than they should be to these chemical processes as pH declines,\" Wootton said. \"Even though it might be good for individual diatoms, the problem is building them in the first place. The net effect is that more of the silicon nutrient supply is cut off from the diatoms.\"",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "Wootton and his colleagues studied the data collected from the waters around Tatoosh Island and saw that as pH declined over the past 25 years, dissolved silicon and chlorophyll—which drives productivity by algae—declined as well."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-the-12th-century-chinese-poet-who-was-among-the-first-to-e",
+      "title": "The 12th‑century Chinese poet who was among the first to explore the inner lives of cats",
+      "dek": "If you're reading this, then your media feed, like mine, is probably full of cats.",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T23:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-12thcentury-chinese-poet-explore-cats.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "If you're reading this, then your media feed, like mine, is probably full of cats.",
+        "That's hardly surprising. The internet has always belonged to cats , which suits me just fine: I love cats and live with four of them.",
+        "But in one of the classes I've taught, \"Cats: Why We Love Them,\" I explain how our affection for the house cat, Felis silvestris catus, is a relatively recent phenomenon in the scope of human history. In many parts of the world, cats were viewed with suspicion and subjected to terrible mistreatment .",
+        "Of course, the ancient Egyptians loved cats —this can be seen in sculptures, paintings and even mummified cat remains. Meanwhile, premodern poets, writers and artists were among the first to wonder about the inner lives of cats—and to explore how caring for them might expand our capacity for empathy.",
+        "One of the earliest literary accounts of a cat is the ninth-century poem \" Pangur Bán ,\" written by an unnamed Irish monk. In the poem, he describes the parallels between his devotion to hunting for meaning in the texts he is studying and the cat's devotion to hunting mice.",
+        "What's interesting about the poem is how the anonymous poet sees the cat as possessing qualities that resemble human qualities—and, in doing so, implicitly suggests that cats have dignity much like human dignity.",
+        "The monk does not set himself above the cat in some great hierarchy of life, but instead places himself alongside the cat as peers in their dedicated practices.",
+        "In the 12th century, the Chinese poet Lu You composed over 9,000 poems. A handful were about his cats, and of these, three are entitled \"Zeng mao,\" or \"Presented to My Cat.\" It's not clear if the poems are all about the same cat, as Lu had more than one cat over his lifetime.",
+        "In Chinese literature, poems that include the term \"zeng\"—\"to present\"—are often sent to acquaintances as a form of literary exchange. Prior to Lu, there's no literary evidence that anyone had addressed a poem to a cat.",
+        "In the first poem, Lu begins by explaining that he acquired a cat to protect his library from vermin. Looking around his home, he feels embarrassed by his lack of success in life:",
+        "When you're cold there's no rug, when I feed you there's no fish.\"",
+        "In the second of these poems, a longer eight-line poem, the poet accuses his cat of poor feline behavior familiar even today:",
+        "Lu chooses a name that probably was given to countless cats in premodern China. But by ending the poem with the act of naming, he is emphasizing how this cat is an individual to him, known to him by this name and none other.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "scitechdaily-scientists-discover-alarming-signs-of-extinction-risk-deep",
+      "title": "Scientists Discover Alarming Signs of Extinction Risk Deep Beneath the Ocean",
+      "dek": "A changing ocean presents threats that population counts alone may not reveal, and genetic evidence from the Gulf suggests some deep-sea species are already vulnerable.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T23:12:41.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-alarming-signs-of-extinction-risk-deep-beneath-the-ocean/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "A changing ocean presents threats that population counts alone may not reveal, and genetic evidence from the Gulf suggests some deep-sea species are already vulnerable.",
+        "The deep ocean may no longer be the safe haven scientists once believed it was. Hundreds of meters beneath the Gulf’s surface, fish and shrimp are showing genetic warning signs linked to extinction risk, raising concerns that the global biodiversity crisis could threaten even some of the ocean’s most remote inhabitants.",
+        "A new study led by researchers at Florida International University (FIU) found evidence that five deep-sea species may be less resilient to environmental change than previously assumed. Led by FIU marine scientist Pedro A. Peres of the Bracken-Grissom Lab, the research examined three species of lanternfish and two species of deep-sea shrimp collected between 2011 and 2023.",
+        "The team analyzed genetic information from 486 specimens to investigate how these populations had changed and whether they could withstand future environmental pressures. According to Peres, the investigation is among only a handful of studies to track changes in the DNA of deep-sea animals over time.",
+        "All five species showed genetic warning signs associated with increased extinction risk. One lanternfish species, Diaphus dumerilii , had lost approximately 8% of its genetic diversity over just 12 years. That decline was comparable to, or greater than, losses recorded in some threatened and endangered animals over considerably longer periods.",
+        "The researchers also discovered that all five species had relatively small effective population sizes. This measure does not necessarily reflect how many animals are alive. Instead, it describes how many individuals effectively contribute their genes to future generations. A species can therefore have a large population while relying on a much smaller group to maintain its genetic diversity.",
+        "“This challenges the idea that deep-sea species are naturally more resilient because they occupy such vast environments,” Peres said. “It shows how much we can miss when we look only at population abundance without considering their genetic diversity and long-term viability.”",
+        "Genetic diversity helps explain why these findings matter. When individuals within a species carry different genetic traits, their population has more opportunities to adapt as conditions change. Losing that variation can make it harder to survive disease, environmental disturbances, and other threats.",
+        "Heather Bracken-Grissom, assistant director of the Institute of Environment’s Coastlines and Oceans Division , has spearheaded research into the genetic diversity and resilience of deep-sea species. As a co-author of the new study, she emphasized the consequences of losing that diversity.",
+        "“Genetic diversity provides the variation populations need to adapt to changing conditions, resist disease and recover from environmental disturbances,” she said. “When that diversity disappears, a species can also lose the ability to withstand future threats.”",
+        "The genetic findings are especially concerning when considered alongside predictions about the Gulf’s future. Using climate models, the researchers estimated how suitable deep-sea habitats could become for these species by 2050 and 2100. Their projections indicated that four of the five species could experience substantial reductions in suitable habitat, potentially losing as much as 70%.",
+        "Such losses could place additional pressure on populations already showing signs of limited genetic resilience. The possibility challenges a longstanding assumption that deep-sea animals are naturally protected by their extensive habitats and broad geographic distributions.",
+        "The findings also raise questions about the lasting consequences of the 2010 Deepwater Horizon oil spill. Earlier research documented substantial declines in deep-sea animal populations following the disaster, although the precise relationship between that event and the genetic patterns identified in the new study remains uncertain.",
+        "The researchers did not establish that the oil spill caused the genetic changes they observed. Their results instead suggest that some populations may have been vulnerable even before the disaster, potentially making environmental disturbances more consequential."
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "conversation-while-the-term-friendsgiving-is-new-the-tradition-has-been",
+      "title": "While the term ‘Friendsgiving’ is new, the tradition has been around for decades – found family and experimental freedom make this holiday special",
+      "dek": "One of my favorite holiday memories is of a Friendsgiving my husband and I hosted in our tiny two-bedroom house in Atlanta. We didn’t have a dining room. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T22:23:56.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/while-the-term-friendsgiving-is-new-the-tradition-has-been-around-for-decades-found-family-and-experimental-freedom-make-this-holiday-special-296586"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "One of my favorite holiday memories is of a Friendsgiving my husband and I hosted in our tiny two-bedroom house in Atlanta. We didn’t have a dining room. We barely had space to fit a foldout table in the living room. I think one of us sat in an office chair because we didn’t have enough seating. But having our friends gather in our home, no matter how small, made me feel proud.",
+        "I planned the menu for weeks, grocery shopped far in advance, and spent days prepping. As a young adult hosting my first holiday, I felt a lot of pressure to get it right. But I also reveled in the freedom to make it what I envisioned. I deviated from traditional family dishes, made impressive magazine cover desserts, and bought linens and dishware to create a tablescape.",
+        "While I knew I couldn’t recreate the grandness of my grandma’s family gatherings, I wanted this one to reflect my taste.",
+        "My inclination to host a gathering that honors the holiday while making the presentation my own may feel familiar. While many people grow up with certain familial obligations around holidays, entrance into adulthood may grant you some liberties from them, or at least some agency on whether to participate in the production of the event.",
+        "If you’re looking to assert that agency, Friendsgiving is the perfect holiday.",
+        "As a food studies scholar researching how food traditions are shared and preserved, I am interested in the idea of a holiday that centers friends over kin. I think this is why Friendsgiving, a term that emerged only in the early 2000s even though people had been participating in the concept long before, endures as a sanctified gathering.",
+        "Modern American dinner parties still have roots in the Victorian era , when a formal gathering was steeped in etiquette and tradition to demonstrate class and propriety and to create social connections to improve one’s status. And while some form of social connection is still likely the main reason for gatherings today, dinner parties can take on many forms, often with the intention of sharing the labor involved.",
+        "In her book “ Eating Together: Food, Friendship, and Inequality ,” sociologist Alice P. Julier interviewed people of various classes, ages, incomes, sexualities, ethnicities and genders about mainly non-kin gatherings around food. Different forms of gathering require different amounts of labor – sometimes paid labor – and the labor between couples and friends is often negotiated. But she found that women often still took on the bulk of the work in the planning, communication or execution of an event.",
+        "Within these circumstances, the women often navigated this labor in ways that worked for them or fit their ideas around work, femininity and hospitality. As a young woman, I wanted to emulate the holidays I had experienced, hosted by my mother and grandmother, and was happy to take on the labor involved. However, the beauty of a Friendsgiving is that this labor can be shared and divided in accordance with capacity.",
+        "Friends who don’t enjoy cooking can provide drinks or snacks, while those – like me – who spend their days scouring food magazines can try out a new recipe. The key is being honest about the time and money you are able to spend and fit the gathering to the needs of the group.",
+        "No one’s 20s and 30s look the same. You might be saving for a mortgage or just struggling to pay rent. You could be swiping dating apps or trying to understand childcare. No matter your current challenges, our Quarter Life series has articles to share in the group chat, or just to remind you that you’re not alone.",
+        "What’s your apocalypse skill? Finding a future‑proof hobby can bring fulfilment today",
+        "Five ways to enjoy fashion as a hobby without indulging in overconsumption",
+        "The ick: The psychology of why a romantic partner can suddenly repulse you",
+        "Today, Thanksgiving is typically viewed as a family holiday.",
+        "For some, this may be the gathering that provides the warm, fuzzy holiday feeling many search for. But for others, family holidays are stressful.",
+        "A 2023 survey of 2,061 adults found that 9 in 10 people reported experiencing stress around money, lost loved ones, familial conflict or other expectations during the holidays.",
+        "As Friendsgiving isn’t an established holiday, participation is difficult to capture. But of 1,000 people surveyed in 2024, 20% said they planned to celebrate Friendsgiving .",
+        "A Friendsgiving is the opposite of established kin-keeping traditions. It gives the opportunity to gather with found family , and while the reason for gathering is established, the form is malleable.",
+        "Many people choose a potluck-style as a way of sharing the burden for what can be a labor-intensive meal. Others choose to do away entirely with what is considered the “traditional” meal and showcase foods from their own culture or a cuisine they enjoy.",
+        "As a parody of a holiday, Friendsgiving gives participants permission to make the holiday their own and be as playful as they wish. So, if I burn my miso butter corn casserole, no one will be disappointed, because they’ve never tasted it before anyway.",
+        "While playing with form and bucking traditional structure can be rewarding, there are some things you may want to keep in mind to have a successful Friendsgiving.",
+        "In her book “ The Art of Gathering: How We Meet and Why it Matters ,” author Priya Parker advises anyone planning a gathering to be specific about purpose. This will help decide the form of the event and whom to invite.",
+        "Is this a casual gathering with friends? Is fellowship or food more important? Are you hoping to try a recipe your family would never approve? Be specific about your own expectations before you start planning."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "nasa-nasa-launches-nuclear-power-systems-student-contest",
+      "title": "NASA Launches Nuclear Power Systems Student Contest",
+      "dek": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. ",
+      "category": "校园",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T22:02:48.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision.",
+        "Students are also invited to write a short essay about a “superpower” of their own. Submissions are due March 1, 2027.",
+        "Every mission requires a power source. Some of the most interesting locations to study on our Moon face some of the harshest conditions. Nuclear power could sustain human life and allow researchers to study the resource-rich environment despite freezing temperatures, long nights, and deep craters that never see sunlight.",
+        "“As NASA returns to the Moon and establishes a lunar base where astronauts will live, work, and explore, we need to build an infrastructure to make it all possible. Nuclear power could enable exploration in the permanently shadowed regions near the Moon’s South Pole, carry robust science payloads over long distances, and keep instruments warm through the lunar night,” said Carl Sandifer, a program manager for NASA’s Space Reactors Division at the agency’s headquarters in Washington. “NASA’s Power to Explore Student Challenge prepares the next generation of explorers to use the unique power within themselves to dream up a nuclear-powered Moon base of their own design.",
+        "We cannot wait to see what they come up with!”",
+        "Entries include a 200-word essay and an original illustration. Essays should describe one of the students’ unique powers that will help the mission. Illustrations should convey the students’ vision of a nuclear-powered lunar base that supports human and robotic exploration of the Moon’s surface using both radioisotope and fission-based power solutions and demonstrate the students’ understanding of the kinds of exploration nuclear energy can enable.",
+        "Judges will review entries in three grade-level categories: K-4, 5-8, and 9-12. One grand prize winner from each grade category will receive a trip for two to NASA’s Glenn Research Center in Cleveland to learn about the people and technologies that enable NASA missions. Every student who submits an entry will receive a digital certificate and an invitation to a virtual event with NASA experts where they’ll learn about what energizes the NASA workforce to advance NASA’s missions and sustain America’s leadership in space.",
+        "NASA and Future Engineers are seeking volunteers to help judge the thousands of contest entries anticipated from around the country. U. S. residents older than 18 who are interested in volunteering approximately three hours should register to judge at the Future Engineers website .",
+        "The Power to Explore Student Challenge is funded by the NASA Science Mission Directorate and operates out of the Radioisotope Power Systems Program under the Research and Technology Mission Directorate. Future Engineers administers the challenge through a contract with the NASA Center of Excellence for Collaborative Innovation within the agency’s Research and Technology Mission Directorate."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "nasa-news-nasa-launches-nuclear-power-systems-student-contest",
+      "title": "NASA Launches Nuclear Power Systems Student Contest",
+      "dek": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. ",
+      "category": "校园",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T22:02:48.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision.",
+        "Students are also invited to write a short essay about a “superpower” of their own. Submissions are due March 1, 2027.",
+        "Every mission requires a power source. Some of the most interesting locations to study on our Moon face some of the harshest conditions. Nuclear power could sustain human life and allow researchers to study the resource-rich environment despite freezing temperatures, long nights, and deep craters that never see sunlight.",
+        "“As NASA returns to the Moon and establishes a lunar base where astronauts will live, work, and explore, we need to build an infrastructure to make it all possible. Nuclear power could enable exploration in the permanently shadowed regions near the Moon’s South Pole, carry robust science payloads over long distances, and keep instruments warm through the lunar night,” said Carl Sandifer, a program manager for NASA’s Space Reactors Division at the agency’s headquarters in Washington. “NASA’s Power to Explore Student Challenge prepares the next generation of explorers to use the unique power within themselves to dream up a nuclear-powered Moon base of their own design.",
+        "We cannot wait to see what they come up with!”",
+        "Entries include a 200-word essay and an original illustration. Essays should describe one of the students’ unique powers that will help the mission. Illustrations should convey the students’ vision of a nuclear-powered lunar base that supports human and robotic exploration of the Moon’s surface using both radioisotope and fission-based power solutions and demonstrate the students’ understanding of the kinds of exploration nuclear energy can enable.",
+        "Judges will review entries in three grade-level categories: K-4, 5-8, and 9-12. One grand prize winner from each grade category will receive a trip for two to NASA’s Glenn Research Center in Cleveland to learn about the people and technologies that enable NASA missions. Every student who submits an entry will receive a digital certificate and an invitation to a virtual event with NASA experts where they’ll learn about what energizes the NASA workforce to advance NASA’s missions and sustain America’s leadership in space.",
+        "NASA and Future Engineers are seeking volunteers to help judge the thousands of contest entries anticipated from around the country. U. S. residents older than 18 who are interested in volunteering approximately three hours should register to judge at the Future Engineers website .",
+        "The Power to Explore Student Challenge is funded by the NASA Science Mission Directorate and operates out of the Radioisotope Power Systems Program under the Research and Technology Mission Directorate. Future Engineers administers the challenge through a contract with the NASA Center of Excellence for Collaborative Innovation within the agency’s Research and Technology Mission Directorate."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "nasa-nasa-space-apps-challenge-breaks-global-hackathon-records",
+      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+      "dek": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T21:50:34.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% more registrants and was the 5th year in a row with increased participation.",
+        "Since 2012, NASA Space Apps Challenge has hosted the two-day event, which has included more than 600,000 people from more than 190 countries. The challenge provides an opportunity for hands-on experience with NASA science, mobilizing an engaged global community of technologists and space science enthusiasts to answer questions that benefit humanity and drive exploration.",
+        "Participants join events organized by local volunteers to work in teams and address one of the challenges and submit their project before the deadline. Projects are then judged to determine 10 global winners, to be announced in January.",
+        "“The Space Apps Challenge invites people with many different skillsets to leverage NASA’s gold-standard datasets to address real challenges facing us here on Earth and in space,” said Amy Kaminski, engagement branch chief, Science Mission Directorate, NASA Headquarters in Washington. “We’re thrilled to see more than 180,000 people tackling these challenges and helping to accelerate our ability to find solutions.”",
+        "Challenges also feature data from 17 international space agency partners, all Artemis Accord signatories.",
+        "This year’s space agency partners are: Angola National Space Programme Management Office (GGPEN), Bahrain Space Agency, Brazilian Space Agency (AEB), CSA (Canadian Space Agency), ESA (European Space Agency), ISRO (Indian Space Research Organisation), Italian Space Agency, JAXA (Japan Aerospace Exploration Agency), KASA (Korea AeroSpace Administration), Mohammed Bin Rashid Space Center of the United Arab Emirates, National Space Activities Commission of Argentina (CONAE), Nigeria’s National Space Research and Development Agency, Paraguayan Space Agency, Senegalese Space Studies Agency, Spanish Space Agency, Turkish Space Agency, and UK Space Agency.",
+        "Three agencies, GGPEN, AEB, and CONAE, also wrote challenges this year.",
+        "To learn more about NASA’s Space Apps Challenge, visit:",
+        "A team of researchers demonstrated NASA and IBM’s open-source Prithvi Geospatial artificial intelligence foundation model…"
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "nasa-news-nasa-space-apps-challenge-breaks-global-hackathon-records",
+      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+      "dek": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T21:50:34.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% more registrants and was the 5th year in a row with increased participation.",
+        "Since 2012, NASA Space Apps Challenge has hosted the two-day event, which has included more than 600,000 people from more than 190 countries. The challenge provides an opportunity for hands-on experience with NASA science, mobilizing an engaged global community of technologists and space science enthusiasts to answer questions that benefit humanity and drive exploration.",
+        "Participants join events organized by local volunteers to work in teams and address one of the challenges and submit their project before the deadline. Projects are then judged to determine 10 global winners, to be announced in January.",
+        "“The Space Apps Challenge invites people with many different skillsets to leverage NASA’s gold-standard datasets to address real challenges facing us here on Earth and in space,” said Amy Kaminski, engagement branch chief, Science Mission Directorate, NASA Headquarters in Washington. “We’re thrilled to see more than 180,000 people tackling these challenges and helping to accelerate our ability to find solutions.”",
+        "Challenges also feature data from 17 international space agency partners, all Artemis Accord signatories.",
+        "This year’s space agency partners are: Angola National Space Programme Management Office (GGPEN), Bahrain Space Agency, Brazilian Space Agency (AEB), CSA (Canadian Space Agency), ESA (European Space Agency), ISRO (Indian Space Research Organisation), Italian Space Agency, JAXA (Japan Aerospace Exploration Agency), KASA (Korea AeroSpace Administration), Mohammed Bin Rashid Space Center of the United Arab Emirates, National Space Activities Commission of Argentina (CONAE), Nigeria’s National Space Research and Development Agency, Paraguayan Space Agency, Senegalese Space Studies Agency, Spanish Space Agency, Turkish Space Agency, and UK Space Agency.",
+        "Three agencies, GGPEN, AEB, and CONAE, also wrote challenges this year.",
+        "To learn more about NASA’s Space Apps Challenge, visit:",
+        "A team of researchers demonstrated NASA and IBM’s open-source Prithvi Geospatial artificial intelligence foundation model…"
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "scitechdaily-a-common-gut-antibody-may-be-the-key-to-preventing-colon-c",
+      "title": "A Common Gut Antibody May Be the Key to Preventing Colon Cancer Before It Starts",
+      "dek": "People who lack a common gut antibody face higher colorectal cancer risk, and experiments in mice are beginning to explain how that missing protection may matter.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T20:52:05.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-common-gut-antibody-may-be-the-key-to-preventing-colon-cancer-before-it-starts/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "People who lack a common gut antibody face higher colorectal cancer risk, and experiments in mice are beginning to explain how that missing protection may matter.",
+        "Long before colon cancer develops, cells lining the intestine can begin dividing too quickly. Scientists at Rockefeller University have discovered that a common gut antibody helps keep this growth under control in mice, raising the possibility of preventing tumors before they form.",
+        "In a study published in Nature , mice lacking immunoglobulin A (IgA) developed more than twice as many colon tumors as mice with normal antibody levels. Giving the deficient mice IgA by mouth eliminated their increased cancer risk.",
+        "The findings may help explain why people with IgA deficiency, which affects about 1 in 500 Americans, face a higher risk of colorectal cancer.",
+        "“One intriguing aspect of this work is that it shows how a natural defense in the gut restrains the cell division that can lead to cancer,” says senior author Daniel Mucida, head of Rockefeller’s Laboratory of Mucosal Immunology. “Most cancer research focuses on trying to destroy a tumor that already exists, but what if we could intervene before tumors form?”",
+        "IgA is one of the immune system’s first lines of defense. Unlike antibodies that target specific pathogens, it can bind to many kinds of gut bacteria and even some healthy human cells. Scientists have long known that these antibodies are abundant in the digestive system, although their full purpose has remained unclear.",
+        "Gregory Donaldson, a former Rockefeller postdoctoral fellow who is now an assistant professor at UCLA, investigated whether IgA’s interactions with gut bacteria could explain its connection to cancer. He compared mice lacking IgA with normal mice raised alongside them, ensuring both groups encountered the same food and germs.",
+        "The increased cancer risk appeared across several different models of colon cancer. More importantly, the researchers found changes in genes controlling cell division before any tumors developed, suggesting that IgA influences cancer risk at an early stage.",
+        "The team traced this effect to DMBT1, a receptor on the surface of intestinal cells. Gabriella Lima dos Reis, a graduate student in Gabriel Victora’s laboratory, helped identify its role.",
+        "In the presence of gut bacteria, DMBT1 encourages intestinal cells to multiply. IgA acts like a brake by binding to the receptor and limiting that growth. Without IgA, the signal can become overactive, allowing cells to divide excessively and form tumors. The researchers found that removing gut bacteria or DMBT1 signaling also prevented this uncontrolled growth.",
+        "“If IgA is missing, epithelial cells that are performing their normal function—responding to bacteria by producing new cells—can keep dividing unchecked, leading to cancer,” Mucida says. “We think this homeostatic effect is IgA’s main function. This was a big surprise.”",
+        "The discovery could eventually lead to new ways of reducing colon cancer risk, particularly for people who have had polyps removed. Polyps increase the likelihood of developing colon cancer, and Mucida believes targeting this pathway could offer a way to lower that risk.",
+        "Donaldson also sees potential in beneficial gut bacteria. Although much research has focused on microbes that encourage tumor growth, some bacteria may help protect intestinal cells. One possibility is developing probiotics that stimulate protective IgA responses.",
+        "Both approaches remain speculative, and the findings have not established a cancer-prevention treatment for humans. However, the study suggests that understanding how gut bacteria, antibodies, and intestinal cells interact could reveal new opportunities to prevent cancer before it starts."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "nasa-bps-digital-avatar-challenge",
+      "title": "BPS Digital AVATAR Challenge",
+      "dek": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T20:39:38.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radiation, low magnetic fields, and elevated CO₂. As NASA prepares for long-duration deep space missions, the need to protect individual crew members with personalized, data-driven health strategies is becoming increasingly important.",
+        "The original AVATAR (A Virtual Astronaut Tissue Analog Response) investigation, which flew aboard the Artemis II mission, marks a significant milestone: organ-on-a-chip devices constructed from the cells of actual crew members returned from a 10-day lunar flyby on April 10, 2026. AVATAR is the first demonstration of an Artemis astronaut analog using an organ-on-a-chip model to generate personalized biological insights that can inform medical kits and countermeasures for future deep space missions.",
+        "Digital twins represent a key strategy for addressing these challenges. By developing individualized computational physiological models that can be iteratively refined with empirical data, these frameworks integrate environmental, physiological, and multi-omics inputs. This approach allows for the simulation and prediction of how a specific individual will respond to spaceflight stressors.",
+        "The BPS Digital AVATAR Challenge invites the scientific community to apply innovative computational digital twin technologies to accelerate biological discovery, biochemical and molecular modeling, and predictions of individual astronaut health outcomes. The digital twin will be a computational model of how the AVATAR bone marrow chip responds to spaceflight stressors.",
+        "The proposed digital twin frameworks must be capable of processing diverse multi-modal datasets and leverage established computational biology methods alongside modern digital twin architectures to create personalized, predictive models of astronaut physiology. These systems are expected to model each astronaut’s immune and bone marrow hematopoietic responses to spaceflight, integrating multi-modal data to generate tailored health predictions — including comparative analysis that distinguishes individual-specific effects from effects common across the crew.",
+        "Proposals should also demonstrate a pathway to continuous model updating as new empirical data become available, reflecting the iterative nature of a true digital twin."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "nasa-news-bps-digital-avatar-challenge",
+      "title": "BPS Digital AVATAR Challenge",
+      "dek": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T20:39:38.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radiation, low magnetic fields, and elevated CO₂. As NASA prepares for long-duration deep space missions, the need to protect individual crew members with personalized, data-driven health strategies is becoming increasingly important.",
+        "The original AVATAR (A Virtual Astronaut Tissue Analog Response) investigation, which flew aboard the Artemis II mission, marks a significant milestone: organ-on-a-chip devices constructed from the cells of actual crew members returned from a 10-day lunar flyby on April 10, 2026. AVATAR is the first demonstration of an Artemis astronaut analog using an organ-on-a-chip model to generate personalized biological insights that can inform medical kits and countermeasures for future deep space missions.",
+        "Digital twins represent a key strategy for addressing these challenges. By developing individualized computational physiological models that can be iteratively refined with empirical data, these frameworks integrate environmental, physiological, and multi-omics inputs. This approach allows for the simulation and prediction of how a specific individual will respond to spaceflight stressors.",
+        "The BPS Digital AVATAR Challenge invites the scientific community to apply innovative computational digital twin technologies to accelerate biological discovery, biochemical and molecular modeling, and predictions of individual astronaut health outcomes. The digital twin will be a computational model of how the AVATAR bone marrow chip responds to spaceflight stressors.",
+        "The proposed digital twin frameworks must be capable of processing diverse multi-modal datasets and leverage established computational biology methods alongside modern digital twin architectures to create personalized, predictive models of astronaut physiology. These systems are expected to model each astronaut’s immune and bone marrow hematopoietic responses to spaceflight, integrating multi-modal data to generate tailored health predictions — including comparative analysis that distinguishes individual-specific effects from effects common across the crew.",
+        "Proposals should also demonstrate a pathway to continuous model updating as new empirical data become available, reflecting the iterative nature of a true digital twin."
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "scitechdaily-a-five-day-experiment-reveals-a-surprising-secret-of-deadl",
+      "title": "A Five-Day Experiment Reveals a Surprising Secret of Deadly Brain Cancer",
+      "dek": "Researchers tracking glioblastoma cells in living mouse brain tissue discovered how quickly they can change their paths, revealing a hidden challenge in stopping this…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T20:27:37.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-five-day-experiment-reveals-a-surprising-secret-of-deadly-brain-cancer/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Researchers tracking glioblastoma cells in living mouse brain tissue discovered how quickly they can change their paths, revealing a hidden challenge in stopping this aggressive brain cancer.",
+        "Glioblastoma is one of the most aggressive forms of brain cancer, largely because its cells can spread deep into surrounding healthy tissue. Even after surgeons remove the main tumor, scattered cancer cells may remain in the brain and eventually contribute to the disease returning.",
+        "Understanding how these cells spread has been difficult because researchers have largely relied on images that capture only individual moments. Scientists at Uppsala University have now developed a method that lets them watch thousands of glioblastoma cells move through living brain tissue, revealing how they change their behavior over time. The findings, published in Nature Communications , could help researchers better understand why this cancer is so difficult to contain.",
+        "“Until now, we have mostly seen snapshots of how glioblastoma spreads. This method combines microscopy with artificial intelligence and allows us to watch the process unfold in living brain tissue. We could also compare tumors from different patients and investigate how they respond to treatment,” says Hitesh Mangukiya, researcher at the Department of Immunology, Genetics and Pathology at Uppsala University and one of the study’s lead authors.",
+        "The new method, called GlioTrace, combines automated microscopy with machine learning to follow individual cancer cells as they travel through brain tissue. To test it, the researchers collected glioblastoma cells from six patients and grew them as tumors in mouse brains. They then cut the brains into thin slices, kept the tissue alive in the laboratory, and photographed it at intervals of no more than two hours for up to five days.",
+        "A computer system identified and tracked individual tumor cells across the images, while statistical models helped researchers calculate when cells switched between different states. Unlike techniques that examine only small regions of the brain, GlioTrace can monitor cells across entire brain slices using standard microscopes.",
+        "The observations revealed that glioblastoma cells do not all spread in the same way. Some tumors showed a preference for traveling along blood vessels, while others spread more diffusely through the surrounding brain tissue. These differences were apparent between tumors derived from different patients.",
+        "Individual cells were also remarkably adaptable. A cancer cell moving along a blood vessel could later leave that route and travel independently through the tissue. Some cells changed their shape and movement patterns over just a few days, suggesting that their behavior is far less fixed than individual images might imply.",
+        "“What surprised us most was how flexible the tumor cells are. The same cell can change how it moves over just a few days. To develop treatments that stop tumor cells from spreading, we need to understand this ability to switch between different behaviors,” says Madeleine Skeppås, PhD student at Uppsala University and co-lead author of the study.",
+        "The team also used GlioTrace to examine how cancer treatments influence cell movement. Two drug substances reduced the movement and spread of tumor cells in the brain slices, although their effectiveness varied between patient-derived tumors. Even within the same research setting, cells with different movement patterns did not respond equally to the drugs.",
+        "Another experiment raised questions about what happens to invasive cells during treatment. In some tumor models, combining radiation with chemotherapy increased the proportion of cells with a particular shape. These cells were among the fastest moving and occupied a central position in the network of transitions between different cell states, indicating that they were closely connected to changes in cell behavior.",
+        "The findings suggest that certain highly invasive cells might persist during treatment. However, the researchers have not established whether these cells are more resistant to therapy or whether they contribute to tumor recurrence. Further studies will be needed to determine what this response means for treating glioblastoma.",
+        "“Using this method allows us to monitor, for the first time, how thousands of individual tumor cells move through living brain tissue and to see how they adapt their behavior in real time. It opens up new possibilities to understand and, in the long term, halt the invasion process,” says Sven Nelander, Professor of Integrative Cancer Research at Uppsala University."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "nasa-new-album-of-baby-star-sounds-shared-by-nasas-chandra",
+      "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
+      "dek": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound.",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T20:26:17.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound.",
+        "Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe where stars are currently being born and young stars are present, astronomers can better understand the lifecycle of all stars, including our own Sun.",
+        "The galaxy Messier 82 (M82) is called a starburst galaxy because stars are forming there at a rate tens or even hundreds of times higher than in our Milky Way galaxy. This stellar birth boom may be due to a collision with another galaxy in the past. Today, Chandra sees giant plumes of hot gas that are the byproduct of young, giant stars that quickly explode and other star formation activity. One of the new sonifications combines Chandra’s data with optical data from NASA’s Hubble Space Telescope, as well as infrared views from NASA’s James Webb and retired Spitzer space telescopes. The sonification of the three types of light begins with a radar-like scan that is louder where sources are brighter.",
+        "The X-ray data is mapped to the highest range of frequencies heard. Infrared data is heard as a low drone plus plucked sounds, while the optical data turns into a range of musical pitches and textures.",
+        "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",
+        "One of the closest and busiest star formation regions to Earth is the Orion Nebula (visible just below the belt in the Orion constellation with a small telescope and dark skies). Chandra sees more than a thousand stars in this area that are very energetic and active in their infancy. In the sonified version of the Chandra data, these stars are twinkling sounds, while the diffuse X-ray emission is mapped to pure high tones. An infrared image from NASA’s James Webb Space Telescope reveals the raw material of dust and gas used to build these new stars, and its data is heard as lower musical tones, distorted string instruments, and a digital harp.",
+        "A portion of the Carina Nebula, another star formation region, is nicknamed the “Cosmic Cliffs” because of its spectacular structure seen in infrared by NASA’s Webb. Chandra also looks at this region, seeing through the dust and gas, and detects individual baby stars – which are turned into short string sounds in the sonification. A diffuse X-ray glow throughout the region has longer strings notes assigned to it. The nebula in the Webb data is mapped to a sustained sound, punctuated by other instruments to denote features like stars and ridges.",
+        "Rho Ophiuchi is a striking star-forming cloud, filled with gas and stars of different sizes and ages. Chandra reveals infant stars that violently flare and produce X-rays. Infrared data from Webb provides views of the cloud’s regions of gas and dust. When this data is made audible, Chandra’s X-rays become high-pitched glassy tones, along with other sustained sounds to mark the appearance of extended bright sources. The clouds in Webb’s infrared data are mapped as differently pitched sounds, and stars are played as metallic plucks. There is a gap in the middle of the piece due to dark dust clouds that emit very little light.",
+        "NASA’s Marshall Space Flight Center in Huntsville, Alabama, manages the Chandra program. The Smithsonian Astrophysical Observatory’s Chandra X-ray Center controls science operations from Cambridge, Massachusetts, and flight operations from Burlington, Massachusetts.",
+        "The sonification program is led by the Chandra X-ray Center (CXC). The collaboration was driven by visualization scientist Kimberly Arcand (CXC), Matt Russo, astrophysicist, and Andrew Santaguida, musician (SYSTEM Sounds), along with Christine Malec, consultant. More sonifications can be found at chandra. si. edu/sound .",
+        "The Chandra X-ray Observatory is the world’s most powerful X-ray telescope.",
+        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
+        "Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…",
+        "Spitzer uses an ultra-sensitive infrared telescope to study asteroids, comets, planets and distant galaxies."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "nasa-news-new-album-of-baby-star-sounds-shared-by-nasas-chandra",
+      "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
+      "dek": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound.",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T20:26:17.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound.",
+        "Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe where stars are currently being born and young stars are present, astronomers can better understand the lifecycle of all stars, including our own Sun.",
+        "The galaxy Messier 82 (M82) is called a starburst galaxy because stars are forming there at a rate tens or even hundreds of times higher than in our Milky Way galaxy. This stellar birth boom may be due to a collision with another galaxy in the past. Today, Chandra sees giant plumes of hot gas that are the byproduct of young, giant stars that quickly explode and other star formation activity. One of the new sonifications combines Chandra’s data with optical data from NASA’s Hubble Space Telescope, as well as infrared views from NASA’s James Webb and retired Spitzer space telescopes. The sonification of the three types of light begins with a radar-like scan that is louder where sources are brighter.",
+        "The X-ray data is mapped to the highest range of frequencies heard. Infrared data is heard as a low drone plus plucked sounds, while the optical data turns into a range of musical pitches and textures.",
+        "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",
+        "One of the closest and busiest star formation regions to Earth is the Orion Nebula (visible just below the belt in the Orion constellation with a small telescope and dark skies). Chandra sees more than a thousand stars in this area that are very energetic and active in their infancy. In the sonified version of the Chandra data, these stars are twinkling sounds, while the diffuse X-ray emission is mapped to pure high tones. An infrared image from NASA’s James Webb Space Telescope reveals the raw material of dust and gas used to build these new stars, and its data is heard as lower musical tones, distorted string instruments, and a digital harp.",
+        "A portion of the Carina Nebula, another star formation region, is nicknamed the “Cosmic Cliffs” because of its spectacular structure seen in infrared by NASA’s Webb. Chandra also looks at this region, seeing through the dust and gas, and detects individual baby stars – which are turned into short string sounds in the sonification. A diffuse X-ray glow throughout the region has longer strings notes assigned to it. The nebula in the Webb data is mapped to a sustained sound, punctuated by other instruments to denote features like stars and ridges.",
+        "Rho Ophiuchi is a striking star-forming cloud, filled with gas and stars of different sizes and ages. Chandra reveals infant stars that violently flare and produce X-rays. Infrared data from Webb provides views of the cloud’s regions of gas and dust. When this data is made audible, Chandra’s X-rays become high-pitched glassy tones, along with other sustained sounds to mark the appearance of extended bright sources. The clouds in Webb’s infrared data are mapped as differently pitched sounds, and stars are played as metallic plucks. There is a gap in the middle of the piece due to dark dust clouds that emit very little light.",
+        "NASA’s Marshall Space Flight Center in Huntsville, Alabama, manages the Chandra program. The Smithsonian Astrophysical Observatory’s Chandra X-ray Center controls science operations from Cambridge, Massachusetts, and flight operations from Burlington, Massachusetts.",
+        "The sonification program is led by the Chandra X-ray Center (CXC). The collaboration was driven by visualization scientist Kimberly Arcand (CXC), Matt Russo, astrophysicist, and Andrew Santaguida, musician (SYSTEM Sounds), along with Christine Malec, consultant. More sonifications can be found at chandra. si. edu/sound .",
+        "The Chandra X-ray Observatory is the world’s most powerful X-ray telescope.",
+        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
+        "Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…",
+        "Spitzer uses an ultra-sensitive infrared telescope to study asteroids, comets, planets and distant galaxies."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "conversation-jensen-huang-scandal-illustrates-why-human-nature-is-cyber",
+      "title": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
+      "dek": "The end of Jensen Huang’s tenure at Nvidia is steeped in irony. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T19:53:14.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "The end of Jensen Huang’s tenure at Nvidia is steeped in irony. The chief executive of a company whose growth has been propelled by the seemingly unstoppable rise of artificial intelligence was brought down by a vulnerability that no algorithm can eliminate: human nature.",
+        "Huang’s resignation from the chipmaker he co-founded followed reports of multiple affairs, most notably one with Alice Huang, a business executive whom U. S. authorities suspect of spying for China . The company says no secrets were leaked .",
+        "In a world increasingly focused on protecting private information against high-tech hacking schemes, Huang’s downfall is a reminder that, as the infamous hacker Kevin Mitnick observed, the “ human factor is truly security’s weakest link .”",
+        "Huang is hardly the first person in a powerful position to lower their defenses. In 2023, Italian Premier Giorgia Meloni spoke candidly about foreign affairs in a call with Russian pranksters who recorded and released the conversation. In 2011, former CIA Director David Petraeus gave his biographer, with whom he was having an affair, access to notebooks containing classified information.",
+        "These cases raise an important question: Why would someone with an entire security apparatus at their disposal let their guard down in an ordinary conversation or an intimate moment?",
+        "Part of the answer comes down to the ways in which we are wired to react to other human beings. As a social psychologist who studies how people respond to requests, I’ve seen how a human voice, a simple touch or the mere physical presence of another person can be persuasive. Social cues that increase a sense of familiarity and intimacy can make people feel safer, more trusting – and more willing to hand over money, comply with requests, divulge information or take risks.",
+        "Mitnick has been called “ the most notorious hacker of all time .” Until his arrest in 1995, he spent years gaining access to privileged information at companies such as Nokia and Motorola. He pulled off his espionage not by writing sophisticated code-breaking software but by having conversations with his targets.",
+        "He would call people up and talk them into handing over their passwords by claiming to be the new IT guy or someone’s boss’s colleague. The people he spoke to overwhelmingly believed him.",
+        "In other words, Mitnick recognized the power of the human voice.",
+        "Studies show that hearing a person’s voice, as compared to reading their written thoughts, makes that person seem more capable and relatable. Interactions via phone, video chat and voice chat also create stronger social bonds than the same kinds of interactions via text or email.",
+        "Perhaps for these reasons, people are more effective at persuading others to do things for them over the phone compared to when they make the same requests by text. In a study I conducted with social psychologist Mahdi Roghanizad , participants asked other people for favors through randomly assigned communication channels. They received about twice as many “yes” responses over the phone as they did by email.",
+        "When it comes to obtaining company secrets or circumventing export laws , a human voice may be all you need. And that isn’t the only edge people have.",
+        "Studies have found that human touch can also have surprising effects on tipping behavior , acquiescence and risk-taking .",
+        "In a famous 1984 study , a server who lightly touched diners as she handed them their change received bigger tips. In another classic psychology study , female experimenters approached 178 strangers and asked them for change to use a nearby pay phone. When the experimenters lightly touched the arm of a person they approached, that person was 76% more likely to agree to give the change.",
+        "The researchers theorized that these light touches created a sense of familiarity. That familiarity, in turn, made people more willing to open their wallets.",
+        "Other research suggests that light touch can also make people feel safer and more willing to take risks. In a 2010 study , participants were more willing to take financial risks when a female experimenter gave them a light, comforting pat on their shoulder.",
+        "Perhaps the most well-known study of influence, Stanley Milgram’s infamous shock experiment , illustrates how much it can matter to be in the room when you ask someone to do something they may be feeling uneasy about.",
+        "In the original study, an experimenter stood behind participants and instructed them to administer purportedly dangerous shocks to someone they thought was just another participant. The experimenter asked participants to incrementally increase the intensity of the shocks. Nearly two-thirds of participants went all the way to the highest shock setting. In a variation of the study, however, the experimenter left the room and gave instructions over the phone. In this version, only 22. 5% went that far.",
+        "Although researchers continue to debate how to interpret Milgram’s findings , my colleagues and I have similarly found that people are far more likely to say yes when we ask them to do something face-to-face.",
+        "In one study , participants who made requests in person were 34 times more likely to get a yes than those who made requests by email. In another study , in-person requests were significantly more effective than requests made over the phone or video call.",
+        "Cyberattacks and phishing emails pose real threats to security. But sometimes the biggest threats come from the people in the room with you. While we don’t know exactly what transpired between Jensen Huang and Alice Huang, her proximity to the Nvidia CEO illustrates a vulnerability that even the best cybersecurity measures can struggle to guard against.",
+        "Vanessa Bohns does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "conversation-fighting-in-yemen-has-made-crossing-the-bab-el-mandeb-even",
+      "title": "Fighting in Yemen has made crossing the Bab el-Mandeb even more dangerous – jeopardizing aid and refuge for millions",
+      "dek": "In recent days, Iran-backed Houthi forces have gained greater control of the Bab al-Mandeb Strait, a vital hub of trade, travel and migration between the Middle East and Africa.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T19:48:54.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/fighting-in-yemen-has-made-crossing-the-bab-el-mandeb-even-more-dangerous-jeopardizing-aid-and-refuge-for-millions-295106"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "In recent days, Iran-backed Houthi forces have gained greater control of the Bab al-Mandeb Strait, a vital hub of trade, travel and migration between the Middle East and Africa.",
+        "The partial closing of the Strait of Hormuz as part of the war in Iran – and escalating conflicts in Yemen , Ethiopia and Eritrea – had already brought this narrow waterway into new global prominence. Control over the Bab el-Mandeb Strait remains critical to military operations and commodity markets throughout the region.",
+        "However, the Bab el-Mandeb’s strategic geopolitical and commercial shipping importance has largely overshadowed its role as a critical humanitarian corridor.",
+        "Bab el-Mandeb means “gate of lamentation” or, more poetically, “gate of tears” in Arabic. It remains one of the most dangerous migration passages in the world. Last year, more than 900 people died or went missing trying to cross. In October 2026, a boat capsized off the coast of Djibouti carrying nearly 300 people, many of whom were escaping violence and persecution.",
+        "Meanwhile, millions of people in Yemen and throughout the Horn of Africa face destitution or death without access to lifesaving deliveries of humanitarian relief supplies shipped through the strait.",
+        "Our years of research and forthcoming book “ Refugees Without Refuge ” demonstrate how the Bab el-Mandeb Strait is key to the lives of millions of people throughout the region seeking safety, opportunity and humanitarian assistance. Protecting the safe movement of people and goods through the strait is key to averting future tragedies.",
+        "Located at the southern mouth of the Red Sea, between the arid coastlines of Eritrea, Djibouti and Yemen, the Bab el-Mandeb Strait connects the Indian Ocean to the Red Sea and Suez Canal. On a clear day along the wide beaches and mangrove forests on the coast of Djibouti, you can see the sandy hills on the shores of Yemen, only about 20 to 30 miles away. On starry nights, the scattered lights of coastal towns twinkle across the waters.",
+        "For centuries, passage through the Bab el-Mandeb Strait has been vital to global trade in salt, spices, coffee, livestock and other goods. Religious pilgrims, travelers, migrants and traders have long used the strait for relatively easy transport between continents.",
+        "Today, people crossing the strait are also escaping poverty, war, political persecution, disasters and gender-based violence .",
+        "Hot, tired, financially depleted and frequently sick or injured, refugees and migrants traverse the Bab el-Mandeb at all hours.",
+        "Most negotiate passage across the strait on derelict boats with “delalas” – facilitators, brokers or smugglers – in the shadows of coast guard and police patrols and outside United Nations and governmental migration controls.",
+        "The numbers of people crossing the strait are difficult to estimate. Between January and August 2026, the U. N. ’s International Organization for Migration recorded 122,258 arrivals to Yemen from the Horn of Africa – even more than had crossed by that time in 2025. Most of these migrants were from Ethiopia, and most traveled without passports or visas.",
+        "Since August, displacement and insecurity throughout the region has worsened, making accurate figures for the numbers of people migrating and the numbers of people dying trying to cross impossible to estimate.",
+        "Despite the dangers of this crossing, the Bab el-Mandeb Strait remains an economic lifeline for millions of people living in Ethiopia, Kenya, Somaliland, Somalia and elsewhere who rely on commercial goods imported from the Middle East and Asia. However, the Houthi forces in charge of increasing swaths of southwestern Yemen now control most critical ports and islands in the strait, increasing the risks and costs of transit and trade.",
+        "The strait has either been closed or has become a bottleneck, allowing only limited shipping traffic since September 2026 . Many cargo ships have been delayed or rerouted, causing businesses in fragile regional economies to pass higher transport and fuel costs on to their customers.",
+        "The economic effects of costly and delayed shipping and trade through the strait has compounded the broader effects of increased violence and displacement throughout the region. In front of the U. N. General Assembly on Sept. 26, 2026, Djibouti foreign minister Abdoulkader Houssein Omar expressed “grave concern” about the sudden influx of Yemeni refugees putting a strain on underresourced coastal towns and refugee camps. The United Nations relief agency, UNHCR, is reporting an outbreak of cholera in the Markazi refugee camp, the primary home to thousands of Yemenis who have fled across the strait into northern Djibouti.",
+        "On top of that, the potential for a return to civil war in Ethiopia , and the potential involvement of Eritrea in regional conflicts, may increase population displacement and further disrupt economic markets on both sides of the strait.",
+        "As each of these conflicts unfolds, additional pressure will likely be put on the Bab el-Mandeb Strait. It provides the only feasible passage for many people seeking safety and opportunity abroad.",
+        "Keeping the Bab el-Mandeb open and safe is also vital for the delivery of humanitarian aid. Like challenges of commercial shipping, the maritime transit of relief supplies , including food and medicine, has been undermined by security risks, shipping delays and the rising costs of food and fuel.",
+        "UNICEF’s latest situation report for Somalia , published in August 2026, estimates that nearly 5 million people there are in urgent need of humanitarian assistance. At least another 5. 5 million people in Ethiopia are also in need , due to the effects of conflict combined with below-average rainfall linked to El Niño.",
+        "In Yemen, an estimated 321,000 people have been displaced since Aug. 1, 2026, and ongoing water scarcity combined with conflict has left 17 million people without access to clean water, sanitation and hygiene services. As casualties mount and cholera spreads, hospitals have struggled to obtain essential supplies.",
+        "The Bab el-Mandeb Strait sits at the center of all of these crises. It remains a vital human and humanitarian corridor for millions of people needing refuge and relief. It is a lifeline as much as a geopolitical and economic linchpin.",
+        "Ensuring the safe passage of people and supplies of humanitarian relief through these waters is necessary to save lives and protect precarious livelihoods throughout the region.",
+        "Lauren Carruth has received funding from the National Science Foundation, the National Institutes of Health, the Russell Sage Foundation, the International Organization for Migration, and American University."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "scitechdaily-scientists-discover-a-disturbing-link-between-cannabis-use",
+      "title": "Scientists Discover a Disturbing Link Between Cannabis Use and Earlier Psychosis",
+      "dek": "In studies where psychosis typically emerged at age 30 or later, cannabis users experienced it more than six years earlier, raising questions about cannabis use throughout…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T19:17:53.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-a-disturbing-link-between-cannabis-use-and-earlier-psychosis/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "In studies where psychosis typically emerged at age 30 or later, cannabis users experienced it more than six years earlier, raising questions about cannabis use throughout adulthood.",
+        "Most discussions about cannabis and mental health focus on teenagers, but new research suggests the conversation should extend into adulthood. A large analysis found that among people who developed psychosis, cannabis users experienced their first episode an average of two and a half years earlier than non-users. The findings reveal a consistent association, although they do not prove that cannabis caused the difference.",
+        "Researchers at UNSW Sydney examined 149 studies involving more than 71,000 people, largely conducted in Europe, North America, and Australia since 2011. The analysis, published in Biological Psychiatry , focused mostly on people with schizophrenia.",
+        "Psychosis can involve hallucinations, delusions, disordered thinking, and changes in behavior. It is associated with schizophrenia and other mental illnesses and typically emerges in late adolescence or early adulthood. According to Psychosis Australia, up to 3% of adults experience a diagnosed disorder involving psychosis during their lifetime.",
+        "The researchers found that the age difference between cannabis users and non-users grew in studies where psychosis developed later in life. When the average age of onset was between 20 and 24, cannabis users experienced their first episode 1. 6 years earlier. That difference increased to 4. 43 years in studies with an average onset between ages 25 and 29, reaching 6. 3 years when the average onset was 30 or older.",
+        "Chief investigator Matthew Large, a psychiatrist and Conjoint Professor at UNSW’s School of Clinical Medicine, said the findings suggest that the effects of cannabis use may accumulate over time.",
+        "“We’ve tended to focus on the dangers of using cannabis in adolescence, when the brain is still developing, but the risk doesn’t disappear once you’re in your 20s,” Prof. Large said. “What we’re seeing suggests a cumulative effect, where harm builds up over time, a bit like alcohol or nicotine.”",
+        "Interestingly, the researchers found no statistically significant difference in the age of psychosis onset between teenagers who used cannabis and those who did not. However, because psychosis rarely develops before the mid-teens, there is a limited window in which researchers could detect an earlier onset.",
+        "“There may be a biological floor, in that there is only so much earlier that onset can be shifted. In younger groups, strong development, genetic or other psychosis risk factors may dominate, making any cannabis-related age shift harder to detect,” Prof. Large said.",
+        "The analysis builds on previous research led by Large. A smaller 2011 meta-analysis found that psychosis began 2. 7 years earlier among cannabis users, while a 2015 analysis found that psychosis typically developed 6. 3 years after cannabis use began. Those earlier studies lacked sufficient data to compare different age groups.",
+        "Lead author Carly Stevens, from UNSW’s School of Biomedical Sciences, said the new age comparisons challenge the idea that delaying cannabis use until adulthood necessarily avoids its potential psychiatric risks.",
+        "“What we’ve found challenges the assumption that you’ll be fine if you wait to smoke weed until your mid-20s; that’s just not the case,” Ms Stevens said.",
+        "“There’s been so much emphasis on adolescents not smoking cannabis, which is important, but we need to broaden the warnings for everyone.”",
+        "An important limitation is that the research cannot establish whether cannabis directly causes psychosis or makes it develop earlier. Doing so would require experiments that deliberately expose people to potential harm, which Large said would be unethical. The findings also do not establish how likely an individual cannabis user is to develop psychosis."
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "nasa-nasa-to-cover-35th-spacex-resupply-mission-space-station-d",
+      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+      "dek": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T19:16:22.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth.",
+        "Pending weather conditions, the Dragon spacecraft will undock from the Harmony module’s space-facing port at 11:05 a. m. EST, following a command sent by ground controllers at SpaceX’s facility in Hawthorne, California.",
+        "NASA’s live coverage of undocking and departure begins at 10:45 a. m. , streaming through a variety of platforms. Learn where to watch online:",
+        "NASA and SpaceX are monitoring weather forecasts and targeting splashdown off the California coast no earlier than 1:50 a. m. Thursday, Nov. 19 (10:50 p. m. PST Nov. 18). Teams will adjust plans as needed based on splashdown conditions in the Dragon recovery area and will provide updates on splashdown timing when available. NASA will not stream the splashdown but will post updates on its space station blog .",
+        "Thousands of pounds of cargo are returning from the space station, including research samples that could advance future space exploration and improve life on Earth. The returning research includes a 3D-bioprinted blood vessel construct scientists used to study vascular aging and cardiovascular disease in space and on Earth. Frozen tumor organoids treated aboard the station also will return, helping researchers identify new ways to improve cancer treatments and advance personalized medicine. Scientists will analyze frozen microbial samples to better understand how antibiotic-resistant bacteria survive, adapt, and evolve in space.",
+        "In addition, a lighting system will return after more than three years aboard the space station, where researchers tested its potential to support astronauts’ sleep and well-being during long-duration missions.",
+        "Filled with more than 6,300 pounds of crew supplies, science investigations, and equipment, the spacecraft arrived at the space station on Oct. 15. It launched two days earlier on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for the agency’s SpaceX 35th commercial resupply services mission.",
+        "For more than 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs not possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis and Moon Base programs, and to Mars.",
+        "Get breaking news, images, and features from the space station on Instagram , Facebook , and X . Learn more about International Space Station research and operations at:",
+        "Josh Finch / Jimi Russell Headquarters, Washington 202-358-1100 joshua. a. finch@nasa. gov / james. j. russell@nasa. gov",
+        "Sandra Jones / Joseph Zakrzewski Johnson Space Center, Houston 281-483-5111 sandra. p. jones@nasa. gov / joseph. a. zakrzewski@nasa. gov"
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "nasa-news-nasa-to-cover-35th-spacex-resupply-mission-space-station-d",
+      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+      "dek": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T19:16:22.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth.",
+        "Pending weather conditions, the Dragon spacecraft will undock from the Harmony module’s space-facing port at 11:05 a. m. EST, following a command sent by ground controllers at SpaceX’s facility in Hawthorne, California.",
+        "NASA’s live coverage of undocking and departure begins at 10:45 a. m. , streaming through a variety of platforms. Learn where to watch online:",
+        "NASA and SpaceX are monitoring weather forecasts and targeting splashdown off the California coast no earlier than 1:50 a. m. Thursday, Nov. 19 (10:50 p. m. PST Nov. 18). Teams will adjust plans as needed based on splashdown conditions in the Dragon recovery area and will provide updates on splashdown timing when available. NASA will not stream the splashdown but will post updates on its space station blog .",
+        "Thousands of pounds of cargo are returning from the space station, including research samples that could advance future space exploration and improve life on Earth. The returning research includes a 3D-bioprinted blood vessel construct scientists used to study vascular aging and cardiovascular disease in space and on Earth. Frozen tumor organoids treated aboard the station also will return, helping researchers identify new ways to improve cancer treatments and advance personalized medicine. Scientists will analyze frozen microbial samples to better understand how antibiotic-resistant bacteria survive, adapt, and evolve in space.",
+        "In addition, a lighting system will return after more than three years aboard the space station, where researchers tested its potential to support astronauts’ sleep and well-being during long-duration missions.",
+        "Filled with more than 6,300 pounds of crew supplies, science investigations, and equipment, the spacecraft arrived at the space station on Oct. 15. It launched two days earlier on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for the agency’s SpaceX 35th commercial resupply services mission.",
+        "For more than 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs not possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis and Moon Base programs, and to Mars.",
+        "Get breaking news, images, and features from the space station on Instagram , Facebook , and X . Learn more about International Space Station research and operations at:",
+        "Josh Finch / Jimi Russell Headquarters, Washington 202-358-1100 joshua. a. finch@nasa. gov / james. j. russell@nasa. gov",
+        "Sandra Jones / Joseph Zakrzewski Johnson Space Center, Houston 281-483-5111 sandra. p. jones@nasa. gov / joseph. a. zakrzewski@nasa. gov"
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "nasa-nicer-status-updates",
+      "title": "NICER Status Updates",
+      "dek": "After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T18:18:16.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/station/nicer-status-updates/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations.",
+        "The mission and space station teams are now focused on plans to finalize NICER’s 8-year archive of X-ray science observations and decommission and detach the telescope from its perch near the station’s starboard solar array.",
+        "In June 2025, NICER was suddenly unable to swivel side-to-side beyond its current orientation, which limited its ability to track cosmic objects. The team paused data collection to investigate the issue.",
+        "Robotic cameras on the outside of the station collected photographs of NICER that helped eliminate external causes. After an extensive investigation, engineers think an internal motor has failed, limiting the telescope’s motion.",
+        "Launched in 2017, NICER embarked on an initial 18-month prime mission. Since then, it has made groundbreaking measurements of neutron stars , which contain the densest matter in the universe that we can measure, and revolutionized our understanding of black holes , active galaxies , and other mysterious phenomena in our universe.",
+        "The telescope also successfully demonstrated the potential of pulsar-based spacecraft navigation in X-rays that could be used for travel to Mars and beyond. Closer to home, technology developed to test NICER before launch is being incorporated into prototype portable CT scanners , materials analysis systems, and other applications.",
+        "Science Observations Remain Paused for NASA’s NICER Telescope",
+        "Science operations by NASA’s NICER (Neutron star Interior Composition Explorer), an X-ray telescope on the International Space Station, remain paused as the team continues to evaluate the telescope’s systems after an issue developed with one of its motors. The motor is unable to move NICER beyond its current position side to side, and the telescope’s status has not changed since operations were halted June 17.",
+        "The primary goal is to move NICER into its stowed configuration in case it needs to accommodate space station activities, though the current placement does not pose a safety issue to the station or crew. The team currently does not have a timeframe for returning to science operations.",
+        "Photos taken by robotic cameras outside the station are helping eliminate external causes for the issue. Now the team is coordinating with space station personnel to perform troubleshooting maneuvers and determine potential causes within the payload.",
+        "Since it began observing the X-ray universe in 2017, NICER has successfully demonstrated a form of deep space navigation that could be used for travel to Mars and beyond.",
+        "Designed for a prime mission of 18 months and now in its eighth year of operations, NICER has made groundbreaking measurements of neutron stars, which contain the densest matter in the universe that we can measure, and revolutionized our understanding of black holes, active galaxies, and other mysterious phenomena in our universe. Technology developed to test NICER before launch is being incorporated into prototype portable CT scanners, communications systems, and several other applications on Earth for the benefit of all.",
+        "NASA’s NICER (Neutron star Interior Composition Explorer), an X-ray telescope on the International Space Station, has paused observations due to a problem with one of the motors that drives its ability to track cosmic objects.",
+        "The NICER team paused operations June 17 when performance degradation in the motor began affecting science observations. Engineers are investigating the cause and potential solutions."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "nasa-news-nicer-status-updates",
+      "title": "NICER Status Updates",
+      "dek": "After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T18:18:16.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/missions/station/nicer-status-updates/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations.",
+        "The mission and space station teams are now focused on plans to finalize NICER’s 8-year archive of X-ray science observations and decommission and detach the telescope from its perch near the station’s starboard solar array.",
+        "In June 2025, NICER was suddenly unable to swivel side-to-side beyond its current orientation, which limited its ability to track cosmic objects. The team paused data collection to investigate the issue.",
+        "Robotic cameras on the outside of the station collected photographs of NICER that helped eliminate external causes. After an extensive investigation, engineers think an internal motor has failed, limiting the telescope’s motion.",
+        "Launched in 2017, NICER embarked on an initial 18-month prime mission. Since then, it has made groundbreaking measurements of neutron stars , which contain the densest matter in the universe that we can measure, and revolutionized our understanding of black holes , active galaxies , and other mysterious phenomena in our universe.",
+        "The telescope also successfully demonstrated the potential of pulsar-based spacecraft navigation in X-rays that could be used for travel to Mars and beyond. Closer to home, technology developed to test NICER before launch is being incorporated into prototype portable CT scanners , materials analysis systems, and other applications.",
+        "Science Observations Remain Paused for NASA’s NICER Telescope",
+        "Science operations by NASA’s NICER (Neutron star Interior Composition Explorer), an X-ray telescope on the International Space Station, remain paused as the team continues to evaluate the telescope’s systems after an issue developed with one of its motors. The motor is unable to move NICER beyond its current position side to side, and the telescope’s status has not changed since operations were halted June 17.",
+        "The primary goal is to move NICER into its stowed configuration in case it needs to accommodate space station activities, though the current placement does not pose a safety issue to the station or crew. The team currently does not have a timeframe for returning to science operations.",
+        "Photos taken by robotic cameras outside the station are helping eliminate external causes for the issue. Now the team is coordinating with space station personnel to perform troubleshooting maneuvers and determine potential causes within the payload.",
+        "Since it began observing the X-ray universe in 2017, NICER has successfully demonstrated a form of deep space navigation that could be used for travel to Mars and beyond.",
+        "Designed for a prime mission of 18 months and now in its eighth year of operations, NICER has made groundbreaking measurements of neutron stars, which contain the densest matter in the universe that we can measure, and revolutionized our understanding of black holes, active galaxies, and other mysterious phenomena in our universe. Technology developed to test NICER before launch is being incorporated into prototype portable CT scanners, communications systems, and several other applications on Earth for the benefit of all.",
+        "NASA’s NICER (Neutron star Interior Composition Explorer), an X-ray telescope on the International Space Station, has paused observations due to a problem with one of the motors that drives its ability to track cosmic objects.",
+        "The NICER team paused operations June 17 when performance degradation in the motor began affecting science observations. Engineers are investigating the cause and potential solutions."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "scitechdaily-quantum-breakthrough-scientists-develop-a-detector-that-ca",
+      "title": "Quantum Breakthrough: Scientists Develop a Detector That Can Count Over 9,000 Photons",
+      "dek": "A new detector can measure hundreds of photons with less than a single photon’s uncertainty, offering scientists a sharper way to investigate quantum light and advance future…",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-17T16:08:05.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/quantum-breakthrough-scientists-develop-a-detector-that-can-count-over-9000-photons/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "A new detector can measure hundreds of photons with less than a single photon’s uncertainty, offering scientists a sharper way to investigate quantum light and advance future technologies.",
+        "Scientists developing powerful quantum computers and highly sensitive cameras need ways to count individual particles of light, even when thousands arrive together. Researchers at Paderborn University in Germany have developed a detection system capable of counting from zero to more than 9,000 photons, opening new possibilities for studying quantum light and making precise optical measurements.",
+        "“Precisely counting photons becomes more challenging as their numbers increase,” said Timon Schapeler from Paderborn University. “Our approach extends photon counting to larger numbers of photons, bridging the gap between single-photon measurements and high-sensitivity optical power meters.”",
+        "Conventional detectors struggle with this task. Devices such as avalanche photodiodes typically register whether light is present without revealing how many photons arrived. Detectors designed for larger amounts of light face another problem because electrical noise makes individual photons difficult to distinguish. To overcome these limitations, the researchers combined superconducting nanowire single-photon detectors (SNSPDs), known for their efficiency, precise timing, and low noise, with a technique called multiplexing.",
+        "“We wanted to know how high we can push the number of photons that can be counted with SNSPDs,” said Schapeler. “This led to a detector system that uses multiplexing and the intrinsic photon-number resolution of SNSPDs. Although these technologies have been individually studied, there has not previously been a demonstration of using both approaches together at this scale, which is an order of magnitude larger than previous multiplexed single-photon counting systems.”",
+        "Previous research had shown that SNSPDs could distinguish limited numbers of photons using precise timing measurements. To expand that capability, the team divided a single light pulse into 128 smaller pulses separated in time, then distributed them across eight detectors to create 1,024 detection bins. This arrangement spreads the incoming photons across smaller measurements while retaining information about how many photons each bin receives.",
+        "“Our approach uses low-loss optical components to distribute light evenly across 1,024 detection bins while preserving photon-number information in each bin,” said Tim Bartley from Paderborn University. “This enables precise measurements, while multiplexing expands the range of photon numbers the system can measure.”",
+        "The researchers also used a detector model previously developed with Mariia Sidorova from PTB in Germany to characterize each detection bin and improve measurement accuracy. Testing laser pulses averaging between 1 and 15,000 photons, they demonstrated precise counts of up to 276 photons with uncertainty below a single photon. Achieving comparable precision with a conventional multiplexed system would require approximately 37,000 detector elements, compared with their 1,024 detection bins.",
+        "The findings, published in Optica , Optica Publishing Group’s journal for high-impact research, could help scientists develop larger quantum systems that use light to process information.",
+        "“Large-scale measurement of individual photons is a cornerstone of photonic quantum computing and single-photon-level imaging,” said Bartley. “With this new macroscopic photon-counting technology, we can learn a lot about how photonic quantum computers and single-photon-sensitive cameras can be scaled.”",
+        "Although the system has only been tested with laser pulses, the researchers plan to apply it to bright quantum states of light to investigate quantum effects at larger scales. Continued improvements in SNSPD technology could also support more precise and highly sensitive measurements across a range of sensing applications.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "WHY？WHY？WHY？“Quantum materials” have gradually become a tool for funding allocation and journal classification, with their conceptual boundaries being continually stretched;",
+        "Mainstream physics has developed a highly instrumentalized, terminologized, and project-driven research ecology: (1) Large-scale facilities need to continuously generate news, and therefore tend to adopt expressions such as “unlocking,” “hidden,” “strange,” and “quantum breakthrough”; (2) Peer review tends to reward publishable labels for new phenomena rather than deeper geometric unification; (3) “Quantum materials” have gradually become a tool for funding allocation and journal classification, with their conceptual boundaries being continually stretched; (4) Experimental precision keeps rising, yet much work remains at the level of phenomenological classification, lacking a fundamental reconstruction of phase fields, vortex topology, and fluid geometry."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "scitechdaily-scientists-discover-a-bizarre-quantum-state-that-exists-at",
+      "title": "Scientists Discover a Bizarre Quantum State That Exists at Room Temperature",
+      "dek": "With each laser pulse, a room-temperature supersolid selects a new arrangement, revealing how crystal-like order can emerge without being locked to one position.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T15:33:06.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-a-bizarre-quantum-state-that-exists-at-room-temperature/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "With each laser pulse, a room-temperature supersolid selects a new arrangement, revealing how crystal-like order can emerge without being locked to one position.",
+        "Studying unusual quantum states often requires expensive equipment that cools samples almost to absolute zero. Researchers have now observed a supersolid at room temperature, using a system that strongly links light and matter. This unusual state combines the repeating pattern of a crystal with the frictionless flow of a superfluid.",
+        "A superfluid has no viscosity, the internal resistance that opposes flow in an ordinary fluid, so it can pass through extremely narrow channels without resistance. If you moved an oar through one, you would feel almost no drag until you exceeded a critical speed, when swirling quantum vortices would appear. A supersolid retains this fluid behavior while developing crystal-like order.",
+        "The TopoLight consortium’s study, published in Science Advances , involved researchers from the Faculty of Physics at the University of Warsaw, the Military University of Technology in Poland, IBM Research Zurich, and the French National Centre for Scientific Research (CNRS).",
+        "The team built its system around an optical microcavity, a tiny structure that confines light. It contained a specially designed liquid crystal and a coating of organic semiconductor, a combination that allowed light and matter to interact strongly at room temperature. The most important measurements took place at IBM Research Zurich, where researchers deposited thin semiconductor films onto photonic structures fabricated at the Military University of Technology.",
+        "“We have studied the organic semiconductor MeLPPP (methyl-substituted ladder-type poly(paraphenylene) for many years and previously observed Bose-Einstein condensation in this material,” says Thilo Stöferle from IBM Research. “This was the first time we combined it with a liquid-crystal microcavity.”",
+        "Inside the cavity, light and electronic excitations in the material become strongly coupled, behaving as hybrid entities called exciton polaritons. These quasiparticles last only a few picoseconds, with each picosecond equal to one trillionth of a second. Even that brief lifetime is enough for them to form a Bose-Einstein condensate, in which many particles share a quantum state and behave as a coordinated whole. Such a condensate can act as a quantum superfluid.",
+        "Building the sample also started a countdown. The organic semiconductor gradually reacted with the liquid crystal, leaving the researchers only a few hours after assembly to complete all their measurements.",
+        "“We had to plan the entire sequence of experiments in advance,” recalls Dr. Marcin Muszyński, the paper’s first author, now a postdoctoral researcher at The City College of New York. “Repeating a measurement meant fabricating an entirely new sample.”",
+        "The transition to a supersolid showed up as regularly spaced bright fringes in the emitted light. These stripes revealed that the condensate’s density had spontaneously developed a repeating pattern, a hallmark of crystal-like order.",
+        "The stripes appeared in a different position with every laser pulse used to excite the sample. Each time, the system selected one of several equally possible arrangements, rather than reproducing a pattern fixed in place.",
+        "“This is a textbook example of spontaneous symmetry breaking,” explains Professor Guillaume Malpuech from Institut Pascal (CNRS). “Theory predicted that the supersolid could choose among several equivalent states, and that is exactly what we observed.”",
+        "The emitted light also displayed a persistent spin helix, a repeating pattern in its polarization, which describes the orientation of the light’s oscillations. The condensate therefore showed two distinct forms of order at once, one in light intensity and another in polarization.",
+        "Physicists predicted supersolids as early as the 1960s, but experimental observations took more than half a century to arrive. In 2017, researchers observed supersolidity in ultracold atomic Bose-Einstein condensates. The new work shows that similar quantum phenomena can be explored in photonic systems operating at room temperature."
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "conversation-why-americans-are-losing-confidence-in-public-education",
+      "title": "Why Americans are losing confidence in public education",
+      "dek": "Americans’ satisfaction with public education has fallen to its lowest level since 1999.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T13:41:59.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/why-americans-are-losing-confidence-in-public-education-293797"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Americans’ satisfaction with public education has fallen to its lowest level since 1999.",
+        "Less than a third of Americans were satisfied with public education in 2026, compared with more than half who felt this way in 2019 and 1999, according to a September 2026 Gallup poll .",
+        "Parents typically give their own children’s education higher marks, reflecting a broader tendency to view familiar local institutions more favorably. But parents’ satisfaction with their children’s schools has also reached a record low: 66% of parents reported being satisfied in 2026, down from 83% in 1999.",
+        "Declining test scores, misinformation about public education , culture war issues and a general lack of knowledge about what K-12 schools are teaching have all contributed to this drop in satisfaction.",
+        "As an education researcher focused on family, school and community relationships , I am concerned that declining satisfaction in public schools could have lasting consequences for students and communities.",
+        "Public education in the U. S. was shaped by 19th-century advocates who argued that universal, free and nonsectarian education was essential to the success of a democratic society.",
+        "Communities agreed to invest in education because they believed it would benefit everyone, not just families with children, by supporting economic growth and preparing people to work together to solve shared problems.",
+        "Sustaining that public investment depends in part on people’s confidence that schools are delivering on these shared goals.",
+        "Without that public confidence, schools may struggle to secure the necessary funding and buy-in from the community. Parents may start to doubt that their children will be well-educated in public schools.",
+        "The rise of political polarization in the U. S. has complicated people’s perceptions of education.",
+        "Local schools have become flash points in debates over race, gender and what children should learn, and research on school board meetings shows how these conflicts can fuel distrust of school leaders and disrupt how schools are run .",
+        "For example, some conservative politicians , media outlets and advocacy groups have promoted false claims that schools are using critical race theory – meaning the idea that racism is built into laws, rules and everyday systems in society – to indoctrinate children.",
+        "Researchers found that these campaigns have often distorted lessons about racism and efforts to support students from diverse backgrounds , despite no evidence that critical race theory was widely taught in K-12 schools.",
+        "Repeatedly hearing and reading misinformation about public education can make it harder for communities to distinguish reliable, fact-based information from politicized distortions of reality.",
+        "The effects of misinformation can also extend into other areas of school life, including the work that district superintendents and school boards do.",
+        "In a 2026 study, my colleagues and I found that 82% of district superintendents felt increasingly concerned about inaccurate information circulating about their schools or district decisions . Another 55% reported that school board meetings had become noticeably more contentious over the past few years.",
+        "Disputes over teaching about race and racism, the rights of LGBTQ+ students and access to books cost public schools US$3. 2 billion during the 2023-24 school year . This estimate includes legal expenses, security, staff time and the cost of replacing employees who left because of tension or fighting at schools.",
+        "Controversy and polarization surrounding public schools can leave teachers feeling that their work is not trusted or valued.",
+        "Approximately 47% of teachers believed most Americans trusted teachers little or not at all, according to a 2023 Pew Research Center survey.",
+        "Teachers who feel valued are more likely to want to stay in the profession . Feeling undervalued may make an already demanding profession less appealing .",
+        "Regaining people’s trust in public education would involve the difficult task of addressing legitimate public concerns, like students’ declining test scores .",
+        "It would also involve effectively correcting misinformation and diplomatically managing community members’ diverse values and opinions.",
+        "Transparency is not just about giving community members more access to information about what schools are teaching and how.",
+        "I believe it also means that schools should acknowledge their limitations , explain their decisions and respond to community members’ questions ."
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "conversation-your-gut-bacteria-helps-your-body-keep-track-of-time-and-w",
+      "title": "Your gut bacteria helps your body keep track of time, and when you eat influences how much nutrition you get from food",
+      "dek": "How your body processes food is significantly influenced by daily rhythms tied to 24-hour light-dark cycles. ",
+      "category": "健康",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T13:41:39.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/your-gut-bacteria-helps-your-body-keep-track-of-time-and-when-you-eat-influences-how-much-nutrition-you-get-from-food-295323"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "How your body processes food is significantly influenced by daily rhythms tied to 24-hour light-dark cycles. In new research published in the scientific journal Cell Host & Microbe, my colleagues and I found that the microbes living in your gut are the hidden timekeepers behind this system.",
+        "Gut microbes convert dietary signals into molecules that intestinal cells use to synchronize nutrient absorption with feeding times. In mice, this microbe-controlled timing mechanism maximizes the nutrients the mouse’s body takes in and supports growth, especially when food is scarce.",
+        "When mice consumed an excess of calories, however, that same system fueled obesity .",
+        "Because of Earth’s rotation, all animals – including humans – experience rhythmic shifts of day and night . Your eyes and brain use light signals to coordinate your body’s activities with environmental changes and nutrient availability. Disruption of this temporal alignment, such as through jet lag and night-shift work, is associated with a range of health disorders .",
+        "However, light is not the only timekeeper. Your intestines are home to trillions of microbes, called the gut microbiome . They play a key role in shaping your physiology, such as metabolism, immunity and even brain activity.",
+        "Intriguingly, the microbiome also influences the daily biological rhythms of hosts . My colleagues and I had previously shown that depleting gut bacteria in mice weakens circadian rhythms in the small intestine and alters them in the colon . These disruptions can affect how well your intestine absorbs and processes fats and other lipids, which may contribute to metabolic disorders such as obesity.",
+        "But if gut microbes are never exposed to the light, how do they track time? New research from my team suggests that the answer is feeding time.",
+        "We found that the gut microbiota can metabolize phytate – a food component commonly found in grains, beans, nuts and seeds – and convert it into molecules that activate a specific protein in intestinal cells, subsequently turning on genes involved in transporting nutrients. Conversely, when fasting, a decrease in phytate levels leads to reduced microbial activity and a drop in nutrient absorption.",
+        "Through this pathway, microbes align intestinal absorption with when you typically eat , which maximizes the efficiency of nutrient absorption.",
+        "Our findings suggest that, like light, food provides time-of-day signals that gut microbes read to determine how your body functions.",
+        "People have co-evolved with their gut microbiota for millennia, implying this microbe-controlled time system carries benefits.",
+        "For most of human history, food was scarce . We hypothesized that this microbial pathway might help people survive and grow under starvation conditions. To test this idea, we fed mice a nutrient-poor diet and gave some of them either a common gut microbe or a molecule it produces that is linked to circadian regulation. We found that undernourished young mice who were given this bacterium or the microbial molecule grew taller and healthier than mice that weren’t, suggesting that this microbial pathway promotes growth and metabolic health when nutrients are limited.",
+        "However, many people today have constant access to abundant calories. Rather than nutrient scarcity, obesity has become the dominant dietary challenge. We found that for mice under high-calorie conditions, this microbial pathway promotes excess fat uptake in the body and worsens diet-induced obesity.",
+        "Therefore, the same gut microbiome mechanism that helped people thrive can become a liability when it encounters an environment it was never designed for. This is an example of evolutionary mismatch .",
+        "Zheng Kuang receives funding from National Institutes of Health and Shurl and Kay Curci Foundation."
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "conversation-strict-liability-the-legal-standard-that-could-help-rein-i",
+      "title": "‘Strict liability’: The legal standard that could help rein in AI",
+      "dek": "Some people have begun using the legal system to rein in AI companies and the harms they are creating. Cases are mounting.",
+      "category": "科技",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T13:41:07.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/strict-liability-the-legal-standard-that-could-help-rein-in-ai-295390"
+      },
+      "cover": "pencil",
+      "accent": "orange",
+      "paragraphs": [
+        "Some people have begun using the legal system to rein in AI companies and the harms they are creating. Cases are mounting.",
+        "In October 2026, the parents of Bowen Wan sued OpenAI, charging that it’s ChatGPT agent may have instructed their daughter to stop taking her medication, leading to her death . In 2024, a mother sued the Character. AI company, claiming that its chatbot’s interactions with her son contributed to his suicide . The state of Kentucky later filed suit , claiming that Character. AI’s software exposed minors to self-harm and psychological manipulation.",
+        "Social media companies, powered by artificial intelligence, are also facing lawsuits about injuries they purportedly caused.",
+        "Regulating AI was a hot issue during the 2026 midterms, too. Several candidates who won their races have a regulation agenda .",
+        "I am a former litigator and a professor of business law , and all this action signals to me that people are looking to the law to protect them from AI harm.",
+        "But what is the legal liability of AI software? An answer may be found in a principle known as strict liability . Applied properly, strict liability could restrain the risky parts of the AI industry and still allow it to provide the tools the public wants.",
+        "Tort law protects people from negligence, such as who is responsible if you slip and fall in a store . Strict liability is part of tort law, but it is used to hold a person or company responsible for harm even if they were not at fault, not negligent or had no intent of creating trouble.",
+        "Two types of strict liability matter for AI. One addresses abnormally dangerous activity , such as blasting with dynamite or transporting radioactive material. The other addresses when a product hurts someone using it .",
+        "AI programs likely fit the abnormally dangerous standard. The touchstone case was tried in the U. K. in 1868. In the decision, the court stated that if someone has “anything” under their power that is “likely to do mischief if it escapes, [he] must keep it in at his peril” and is “answerable for all the damage which is the natural consequence of its escape.” The defendant is liable even if they used “ the utmost care to prevent the harm .”",
+        "An attorney could pursue this avenue if a company builds AI software that is supposed to stay in a sandbox – a place isolated from the rest of a computer or network – but loses control of it . The AI industry’s recent admissions that the software creates all sorts of risks would make such cases stronger. When Anthropic filed for its initial public offering in October, numerous pages of the document detailed extraordinary risks that its frontier AI models could pose.",
+        "One hitch in applying this type of strict liability is that an activity must not be in common usage . Lawyers could make a strong case against so-called rogue AI that runs wild and isn’t available to most people.",
+        "Applying the danger standard could still fail to rein in AI companies or reward victims appropriately. In 1929, aviation was seen as abnormally dangerous . But damages were capped at US$8,300, which was not a large deterrent.",
+        "Attitudes changed in 1999, when the Montreal Convention standardized strict liability rules for international flights worldwide. It raised statutory damages and eliminated caps for negligence claims. Perhaps the most powerful tool in aviation liability today is for an authority to ground a company’s aircraft, which happened to Boeing after two fatal crashes with its 737 MAX planes.",
+        "Strict product liability is the other strategy for holding AI companies responsible for harm. In years past, courts tended to not see software as a product because it is intangible. But that view is shifting . In recent lawsuits alleging that social media hurt people, courts did see social media as a product and concluded that strict liability was applicable . Cases against Facebook have fallen into this category.",
+        "Character. AI’s recent bankruptcy filing came in part because of a lawsuit in which the court treated the software as a product . “ Design defects ” is the part of the doctrine gaining traction. To use this, a plaintiff shows that the product posed a foreseeable risk to someone using it. So far, the doctrine has worked when applied to the lack of guardrails in chatbots.",
+        "Pursuing strict liability could still run into snags. A court might order that AI software be turned off, or “grounded,” until it is improved. But as AI software creeps closer to being an operating system and is evermore embedded in everyone’s daily activities, it becomes difficult to suspend its use.",
+        "AI software by its nature is constantly “learning” and therefore changing. It is impossible for a company to promise that AI software will absolutely behave a certain way . In many cases, AI software is inherently incapable of supporting a guarantee about design safety. Still, strict liability is a way to hold the maker responsible, “even when those products evolve in ways not specifically desired or foreseeable by their manufacturers ,” according to a Brookings Institution report.",
+        "I believe that if people are going to accept AI software as a boon to society, tough rules and sharp deterrents are needed. A strict liability system would shift risk from society to the companies seeking vast revenues.",
+        "The next steps will be sorting out whether to treat all or some AI software as a product, and whether the technology is ultrahazardous. If it is treated as that dangerous, AI can develop with incentives to reduce harms and ensure that people injured are compensated.",
+        "Deven Desai owns shares in Google, Inc. He received unrestricted research gifts from Google, Inc. and Facebook, Inc. a decade ago. He has not been employed by Google since 2010."
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
