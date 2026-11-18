@@ -1,0 +1,1142 @@
+{
+  "generatedAt": "2026-11-18T23:56:24.237Z",
+  "date": "2026-11-19",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-reading-the-temperature-fingerprints-of-electrocatalytic-r",
+      "title": "Reading the temperature fingerprints of electrocatalytic reactions",
+      "dek": "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T23:40:06.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-temperature-fingerprints-electrocatalytic-reactions.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "Electrocatalysis is key to turning renewable electricity into fuels and chemicals, and industrial electrolyzers typically operate at moderately elevated temperatures. Measuring how reaction rates change with temperature is also a powerful, yet underexplored, way to probe what controls them. Such measurements yield two quantities: an apparent activation enthalpy, reflecting the energetic cost of the reaction, and a prefactor, which is linked to the activation entropy.",
+        "The textbook Butler–Volmer picture assumes that a higher electrode potential lowers the activation energy while leaving the prefactor unchanged. Experimental data in the literature, however, often show both quantities shifting together, so that a change in one is partly offset by the other. This entropy–enthalpy compensation has mostly been attributed to a potential-dependent reorganization of water at the electrode.",
+        "Are such complex solvent effects really needed to explain these observations, or can the reaction chemistry at the catalyst surface already produce the same fingerprints?",
+        "To find out, the team built a deliberately simple kinetic model of the hydrogen evolution reaction (HER) that contains no potential-dependent entropy in any individual reaction step, and analyzed it just as an experimentalist would, extracting apparent activation energies and prefactors at each potential. The findings are published in the journal ACS Catalysis .",
+        "Even this minimal model shows the prefactor changing alongside the activation energy. The reason is that there are different kinetic regimes: the surface fills up with hydrogen, and the elementary step that limits the overall rate can also change. Each such transition leaves a characteristic signature in the temperature dependence.",
+        "The resulting trends in entropy–enthalpy compensation rationalize a series of entropy–enthalpy correlations observed in experimental HER rates, including the distinct behavior of different groups of metal catalysts. Similar patterns appear in measurements on many other reactions, from oxygen evolution to CO reduction.",
+        "The study shows that temperature-dependent measurements are a valuable window into electrocatalytic kinetics, but that a changing prefactor is not by itself evidence of solvent effects. Shifting kinetic regimes need to be considered. This provides a baseline for interpreting experimental data and for drawing more reliable conclusions about how electrocatalytic reactions work.",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "A minimal hydrogen evolution model reproduces apparent entropy–enthalpy compensation without potential-dependent entropy in individual reaction steps. Changes in hydrogen coverage and rate-limiting steps alter apparent activation energies and prefactors, so changing prefactors alone do not establish solvent effects.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors.",
+        "Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages.",
+        "Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose. The information you enter will appear in your e-mail message and is not retained by Phys. org in any form."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-even-ai-thinks-its-a-mans-job-models-reveal-gender-bias-in",
+      "title": "Even AI thinks it's a man's job: Models reveal gender bias in resumes and hiring assessments",
+      "dek": "The first hurdle may arise even before an application is submitted. ",
+      "category": "科技",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T23:40:02.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-ai-job-reveal-gender-bias.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "The first hurdle may arise even before an application is submitted. A woman asks artificial intelligence to help her write her resume: The system chooses words, highlights qualities and builds a profile. Then another system, perhaps based on the same model, evaluates that text. If both reproduce gender stereotypes, the risk is a double filter: Bias enters the application and is reinforced by the person selecting it.",
+        "This is the mechanism at the heart of \" Automating Inequality? Gender Bias in AI-mediated Labor Markets ,\" published in Proceedings of the National Academy of Sciences . The study's authors are Kenza Elass (ENS de Lyon) and Germain Gauthier, Paola Profeta and Debora Nozza (Bocconi).",
+        "The research challenges an implicit promise of automation: that entrusting more stages of the job search to an algorithm necessarily makes the process more impartial.",
+        "The researchers conducted controlled experiments on six language models—GPT 5. 4, Claude Opus 4. 6, DeepSeek 3. 2, Mistral Large 3, Grok 4. 1 and Llama 3. 3 70B—and 98 occupations, using the U. S. labor market as a reference. In the initial phase alone, they generated 35,280 resumes, randomly assigning the candidate's gender. They then asked the systems to suggest a salary and assign an employability score, isolating the effect of the resume's content from that of the gender with which it was presented.",
+        "The resumes produced are not equivalent. Those written for women contain more references to being helpful toward others, to contributing to the life of the organization and to tasks that are unlikely to lead to promotion. Even when explicit references to gender are removed, a classifier can still recognize whether a text was generated for a woman or a man in 81% of cases. The stereotype, therefore, remains in the words.",
+        "\"We are used to judging these tools by the quality of the writing: A text that reads smoothly and professionally also strikes us as a good result. But linguistic quality and fairness are different things,\" observes Nozza, assistant professor in the Department of Computing Sciences at Bocconi University. \"Anyone developing a resume-writing assistant must also ask themselves what opportunities it gives people to present themselves and which, on the other hand, it restricts through seemingly innocuous choices.\"",
+        "The problem therefore arises even in a tool designed to help job seekers. When the initial information is scarce, the model has more scope to fill in the gaps with stereotypical representations. Providing more detailed data on education and experience reduces this margin and mitigates the impact of the generated content on subsequent assessments. It does not, however, eliminate disparities in assessment.",
+        "In selection scores, the average gap between men and women is close to zero and not statistically significant. But this apparent parity masks contrasting results: In occupations where women make up less than 10% of the workforce, female candidates receive scores that are approximately 2. 7% lower; in those where women account for over 80%, they gain an advantage of a similar magnitude.",
+        "The risk is that this will reinforce the division between professions considered \"male\" and \"female.\" Even small differences in scores can affect access to opportunities: In a selection simulation devised by the authors, in occupations with fewer than 10% women, the probability of a female candidate passing the initial screening is 4. 8 percentage points lower than that of a man.",
+        "\"A system can accurately describe the labor market and, precisely for this reason, become problematic when used to guide decisions,\" explains Gauthier, assistant professor in the Department of Social and Political Sciences at Bocconi. \"The historical prevalence of more men or more women in a profession is not a measure of the suitability of the next candidate. The transition from description to recommendation is the point that needs to be scrutinized.\"",
+        "Salary recommendations also reveal disparities. When gender is explicitly stated, recommendations for women are on average around 1. 6% lower, with greater penalties in professions where the observed pay gap is wider. However, the result depends on the model used and how gender is communicated. When the authors replace the explicit statement \"I am a man\" or \"I am a woman\" with a male or female name, in five of the six models the penalties for female candidates still tend to increase in professions with higher pay gaps."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-archaeology-students-find-roman-treasures-on-first-excavat",
+      "title": "Archaeology students find Roman treasures on first excavation",
+      "dek": "The discoveries include gold jewelry, inscriptions and a finely carved gemstone, and were made at a site in Redesdale, Northumberland.",
+      "category": "校园",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T23:30:08.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-archaeology-students-roman-treasures-excavation.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "The discoveries include gold jewelry, inscriptions and a finely carved gemstone, and were made at a site in Redesdale, Northumberland.",
+        "The excavations form part of a long-running research project investigating the structures, industries and activities that supported life on Rome's northern frontier.",
+        "This year's excavation, which took place in summer 2026, brought together 52 first-year archaeology students, divided into two groups, each spending two weeks on site. The students worked alongside volunteers from the Redesdale Archaeology Group (RAG), with the excavations directed by The Archaeological Practice Ltd.",
+        "While archaeologists routinely recover artifacts from Roman military sites, the quantity and quality of this year's finds have surprised even experienced researchers.",
+        "The most spectacular discovery was on the very first day of excavation when student Elise Zallu uncovered a section of Roman gold chain.",
+        "The fragile chain is approximately 7 cm (2. 8 inches) long and remains in such remarkable condition that, if complete, it could still be worn today.",
+        "Commenting on her discovery, Zallu said, \"Finding the gold chain was really surreal, especially given it was the first day of my first dig. I didn't expect to find anything like that my whole career, so it was definitely a surprise. I'm really grateful that studying archaeology at Newcastle has given me the opportunity to gain such valuable experience in the field, which I feel will really benefit me in the future.\"",
+        "The chain was manufactured using the sophisticated Roman loop-in-loop technique, a hallmark of high-quality Roman goldsmithing. Rather than using simple circular links, individual rings were carefully pinched into figure-of-eight shapes, folded and then interwoven to create a flexible chain. Objects of this type were typically produced from exceptionally pure gold and are often associated with elite jewelry, decorative military amulets or specialized fittings belonging to high-ranking officers and their families.",
+        "Dr. Eric Tourigny of Newcastle University's School of History, Classics and Archaeology said, \"Finding a gold artifact is something many archaeologists can go an entire career without experiencing. For a first-year student to discover a beautifully preserved Roman gold chain on their first day in the trench is truly remarkable.\"",
+        "Also on the first day, student Shannon Wood discovered a folded piece of lead bearing traces of a Latin inscription.",
+        "The small lead sheet carries partially obscured cursive lettering scratched into its surface. Archaeologists believe the object is most likely a commercial seal associated with trade, taxation, ownership or the movement of goods through the Roman military supply network.",
+        "A second possibility is that it functioned as a personal message or curse tablet. Across the Roman world, individuals frequently scratched prayers, grievances, requests and occasionally curses onto thin sheets of lead before folding and depositing them in sacred places.",
+        "Further study of the inscription is expected to reveal more about its purpose.",
+        "On the second day of excavations, student Megan Potter uncovered a finely decorated Roman military fitting with traces of surviving gold gilding."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-webb-confirms-first-of-its-kind-merger-of-a-supergiant-and",
+      "title": "Webb confirms first-of-its-kind merger of a supergiant and smaller sun-like star",
+      "dek": "Researchers recently identified a first of its kind: A star slightly less massive than the sun spiraled into and merged with a puffy supergiant star on the outskirts of our…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T23:20:05.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-webb-kind-merger-supergiant-smaller.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Researchers recently identified a first of its kind: A star slightly less massive than the sun spiraled into and merged with a puffy supergiant star on the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially \"rejuvenated\" star Bao. Their discovery was then bolstered by quick-turn observations from NASA's James Webb Space Telescope that were carefully cross-referenced with extensive data from telescopes in space and on the ground.",
+        "\"Stellar mergers are very, very difficult to observe in real time because they are hard to predict,\" said Viraj Karambelkar, the first author of a new paper published in Nature and a NASA Hubble Fellow at Columbia University in New York. \"However, we noticed something unusual was going on in 2023 and continued to monitor the system to see what it would do. Then, in 2025, it erupted.",
+        "\"Webb observed Bao only 47 days after the stars' eruption peaked, the earliest-ever follow-up of an event like this. The telescope's data helped us characterize what the system looked like before, during and immediately after the merger, which is absolutely mind-blowing.\"",
+        "Before their transformation, the two stars spent millennia placidly orbiting one another as a binary pair. But once the smaller star came into contact with the surface of the giant star, their \"unification\" happened after only seven orbits (about seven years). Other known binary star mergers, featuring two smaller stars, occurred after thousands of orbits.",
+        "\"We thought an outburst from such an extended star would take years,\" said co-author Nadia Blagorodnova, an associate professor at the University of Barcelona in Spain. \"One day, its brightness started rising and within a week, it peaked.\"",
+        "\"When a companion star begins to interact with the outer surface of the primary star, it produces a subtle effect—a slow brightening, which we clearly saw in Bao's data,\" said co-author Kishalay De, an assistant professor at Columbia University in New York. \"As the companion continues its orbit, it keeps peeling off the primary star's outer layers, and that gas flows away into the surrounding space.\"",
+        "This is the beginning of a high-stakes showdown some binary stars go through, known as common envelope evolution. The gas between the stars at this stage is known as a common envelope because its outer layer is shared between them. In this system, the primary star engulfed the smaller star and the companion plummeted, spiraling through the envelope as it was robbed of orbital energy by drag. While Webb's data proved the stars merged, a merger wasn't the only possible outcome for this system.",
+        "In other systems, both stars survive the process—shedding a lot of mass along the way, but remaining independent in tight orbits. Over time, such surviving pairs can transform into neutron stars and black holes, explode as supernovae, produce ripples in space-time known as gravitational waves, and create millisecond pulsars.",
+        "The team reconstructed what happened to Bao by updating their ongoing simulations. They found the model that matched Webb's mid-infrared observations, which detailed the dust shed by the more massive primary star over centuries.",
+        "The team concluded that prior to the eruption, Bao's primary star dwarfed the sun: It was seven times as massive, 350 times the radius and 18,000 times brighter—making \"Big Bao\" an appropriate nickname.",
+        "\"It was an absolute beast of a star, completely outshining its companion in the data,\" said co-author Karel Temmink, a Ph. D. student at Radboud University in Nijmegen, Netherlands, who led the simulations.",
+        "Their modeling resulted in the first mass estimate for the smaller, now demolished, companion. Compared to our sun, they found that \"Little Bao\" was likely less massive (about 0. 7 solar masses), had a slightly smaller radius and was fainter.",
+        "After revealing the masses of the pair, the model showed there might be leftover energy for Little Bao to \"flee\" the scene. However, further analysis determined that Little Bao was dragged into Big Bao's core. Their encounter was \"almost like a bomb exploding inside a living star,\" De said.",
+        "What does the new star—now simply Bao—look like today? Only future observations will identify how its \"heft\" settles."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-protecting-wild-bees-in-europe-through-calcareous-grasslan",
+      "title": "Protecting wild bees in Europe through calcareous grassland management and connected habitats",
+      "dek": "Calcareous grasslands are wildflower-rich ecosystems that develop on shallow, alkaline, nutrient-poor soils over chalk or limestone bedrock. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T23:00:10.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-wild-bees-europe-calcareous-grassland.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Calcareous grasslands are wildflower-rich ecosystems that develop on shallow, alkaline, nutrient-poor soils over chalk or limestone bedrock. They are rare and important habitats for wild bees and other pollinators—yet how well they can support these valuable communities depends on how they are managed. An international research team, led by the University of Göttingen, has shown that long-term abandonment or intensive management threatens the diversity of wild bees. Extensive management of these areas, together with appropriate nature conservation measures in the surrounding landscape, is crucial. The findings were published in the Journal of Applied Ecology .",
+        "The researchers studied 96 calcareous grassland areas across Estonia, Germany and Spain over a two-year period. They recorded a total of 6,716 wild bees and classified these into 235 species. This data confirmed how important these habitats are for the conservation of wild bees. The scientists found the greatest species diversity in areas with low to moderate land-use intensity, partly due to positive effects on plant diversity. In addition, the surrounding landscape also played a key role: in two out of three regions, wild bees benefited in particular when there were other calcareous grasslands near the one where they lived.",
+        "The team also paid particular attention to \" agri-environmental measures ,\" which are voluntary programs under the EU Common Agricultural Policy that pay farmers to adopt biodiversity-friendly practices. The researchers investigated the influence of such measures in the landscape on the wild bees of the calcareous grasslands. They found that their effectiveness depended on the type of measure, the surrounding landscape and regional conditions. In Germany, for example, agri-environmental measures that are directly integrated into agricultural production only had a positive effect on wild bees if there was also a high proportion of calcareous grasslands in the landscape.",
+        "\"As traditional management of calcareous grasslands is often no longer economically viable, their use is currently being abandoned in many regions of Europe,\" says lead author Ira Hannappel at Göttingen University's Agroecology and Functional Agrobiodiversity research group. \"To prevent these areas from being overgrown with scrub, low to moderately intensive management of calcareous grasslands should be specifically encouraged.\"",
+        "The scientists emphasize that the long-term conservation of wild bee diversity on calcareous grasslands requires a combination of local and regional measures. In this regard, the protection and restoration of calcareous grasslands are crucial and may be complemented by the implementation of agri-environmental measures in the landscape. However, the study also shows that a one-size-fits-all approach often fails to meet the diverse requirements. Nature conservation measures must be individually adapted to local conditions and regions.",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Across 96 European calcareous grasslands, wild bee diversity was highest under low to moderate management intensity. Nearby calcareous grasslands benefited bees in two of three regions. Conservation requires local management and habitat protection, with agri-environmental measures tailored to regional and landscape conditions.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors.",
+        "Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages.",
+        "Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose. The information you enter will appear in your e-mail message and is not retained by Phys. org in any form.",
+        "Get weekly and/or daily updates delivered to your inbox. You can unsubscribe at any time and we'll never share your details to third parties."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-whos-to-blame-for-a-rogue-ai-new-legal-framework-maps-acco",
+      "title": "Who's to blame for a rogue AI? New legal framework maps accountability",
+      "dek": "Cyberattacks and other harms caused by artificial intelligence challenge the ability of laws to determine who is liable. ",
+      "category": "科技",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T23:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-blame-rogue-ai-legal-framework.html"
+      },
+      "cover": "bulb",
+      "accent": "blue",
+      "paragraphs": [
+        "Cyberattacks and other harms caused by artificial intelligence challenge the ability of laws to determine who is liable. Product liability law would point to the company that built the AI model, but AIs are trained on data the company didn't produce, and the legions of people who have used them also played a role. Free speech and social media immunity laws that treat an AI agent as responsible for its own actions could imply the AI agent deserves the same rights as a person.",
+        "A University of California, Davis, paper published in the Proceedings of the National Academy of Sciences proposes a new legal framework that avoids these pitfalls by mapping the pipeline of contributions through an AI model's development, including its training, use and governance. This approach also doesn't need any new laws. Precedents in environmental, vaccine and financial regulations can do the job.",
+        "\"Courts adapt tools to regulate earlier technologies, but many of these tools were never designed to address AI,\" said Martin Hilbert, the paper's author and a professor of communication at UC Davis. \"The result is a corridor of precedents that might narrow with every ruling.\"",
+        "AI agents today can trade stocks, plan vacations and code advanced software. At the same time, this incredibly adaptable and sophisticated technology can cause harm. Besides the well-known OpenAI rogue agent hack of the machine learning company Hugging Face , AI chatbots have also been implicated in children's suicides .",
+        "In a case like this one, the company itself isn't the only party liable. If an AI model persuades a child to hurt himself, no single person said the words or even chose them. No one at OpenAI ordered the AI agent to hack Hugging Face. At the same time, Hilbert found, those results are traceable to specific people who knew or could have reasonably expected their contributions might cause those harms.",
+        "\"Every AI, without exception, starts with goals that a human defines, and every subsequent step in the AI's development involves a chain of deliberate human choices,\" said Hilbert.",
+        "Because a person is involved in each step, tracing the series of their choices would show how responsible each person is for the harm the AI caused and assign liability accordingly.",
+        "The stakes are high for getting AI liability right. Courts are increasingly determining that the companies that design, train and deploy AIs can be held accountable for what those agents do. The question is how to move forward with a standard for assigning legal liability.",
+        "In addition to the AI pipeline, Hilbert identified four remaining gaps and potential fixes:",
+        "\"It takes a village to raise an AI, and everyone in that village bears a duty of care,\" said Hilbert.",
+        "Journal information: Proceedings of the National Academy of Sciences",
+        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "A proposed legal framework assigns liability for AI harms by tracing human contributions across development, training, use and governance. It draws on existing legal precedents to address shared responsibility, burdens of proof, post-deployment monitoring and enforcement without granting AI legal personhood."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "nasa-nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prel",
+      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "dek": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a. m. EST, Sunday, Nov. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T22:19:17.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a. m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23.",
+        "Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus XL spacecraft, aboard a SpaceX Falcon 9 rocket, will launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, or Northrop Grumman CRS-25.",
+        "After arriving at the International Space Station, NASA astronauts Jessica Watkins and Luke Delaney, who are living and working aboard the space station, will use the Canadarm2 robotic arm to capture the Cygnus XL on Tuesday, Dec. 1. Ground controllers then will install it to the Unity module’s Earth-facing port for cargo unloading.",
+        "NASA’s live launch and docking coverage will stream through a variety of platforms. Learn where to watch online:",
+        "Highlights of space station research and technology demonstrations being delivered aboard this Cygnus XL spacecraft include experiments to improve drug delivery for cancer and osteoarthritis, predict cancer spread, and advance treatments for muscle loss, as well as improve radiation sensing and advance food production for future long-duration missions.",
+        "The spacecraft is scheduled to remain at the orbiting laboratory until May 2027, then depart with several thousand pounds of disposal items and other unneeded cargo, burning up harmlessly during re-entry.",
+        "Northrop Grumman named the spacecraft the S. S. James “Jim” A. Lovell in honor of the former NASA astronaut. Lovell flew four missions, including Gemini VII, Gemini XII, Apollo 8, and the Apollo 13 mission around the Moon.",
+        "12 p. m. : Prelaunch teleconference will stream on NASA’s YouTube channel with the following participants:",
+        "To participate in the teleconference, media must contact the NASA Johnson Space Center newsroom for call details by 11 a. m. , Nov. 23, at: jsccommu@mail. nasa. gov or 281-483-5111. To ask questions, media must dial in no later than 10 minutes before the start of the call. The agency’s media credentialing policy is available online.",
+        "Additional prelaunch updates will be available on NASA’s space station blog .",
+        "Launch day coverage of the mission will be available on the NASA website . Coverage will include live streaming and blog updates beginning no earlier than 10 a. m. on Nov. 29, as the countdown milestones occur. On-demand streaming video on NASA+ and photos of the launch will be available shortly after liftoff. For questions about countdown coverage, contact the NASA Kennedy Space Center newsroom at 321-867-2468. Follow countdown coverage on our International Space Station blog for updates.",
+        "Members of the public can register to attend this launch virtually. NASA’s virtual guest program for this mission also includes curated launch resources, notifications about related opportunities or changes, and a stamp for the NASA virtual guest passport following launch.",
+        "Let people know you’re watching the mission on X, Facebook, and Instagram by following and tagging these accounts: X: @ NASA, @ NASAKennedy , @NASASpaceOps , @ Space_Station , @ ISS National Lab",
+        "Instagram: @ NASA , @ NASAKennedy , @ ISS , @ ISSNationalLab"
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "nasa-news-nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prel",
+      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "dek": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a. m. EST, Sunday, Nov. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T22:19:17.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a. m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23.",
+        "Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus XL spacecraft, aboard a SpaceX Falcon 9 rocket, will launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, or Northrop Grumman CRS-25.",
+        "After arriving at the International Space Station, NASA astronauts Jessica Watkins and Luke Delaney, who are living and working aboard the space station, will use the Canadarm2 robotic arm to capture the Cygnus XL on Tuesday, Dec. 1. Ground controllers then will install it to the Unity module’s Earth-facing port for cargo unloading.",
+        "NASA’s live launch and docking coverage will stream through a variety of platforms. Learn where to watch online:",
+        "Highlights of space station research and technology demonstrations being delivered aboard this Cygnus XL spacecraft include experiments to improve drug delivery for cancer and osteoarthritis, predict cancer spread, and advance treatments for muscle loss, as well as improve radiation sensing and advance food production for future long-duration missions.",
+        "The spacecraft is scheduled to remain at the orbiting laboratory until May 2027, then depart with several thousand pounds of disposal items and other unneeded cargo, burning up harmlessly during re-entry.",
+        "Northrop Grumman named the spacecraft the S. S. James “Jim” A. Lovell in honor of the former NASA astronaut. Lovell flew four missions, including Gemini VII, Gemini XII, Apollo 8, and the Apollo 13 mission around the Moon.",
+        "12 p. m. : Prelaunch teleconference will stream on NASA’s YouTube channel with the following participants:",
+        "To participate in the teleconference, media must contact the NASA Johnson Space Center newsroom for call details by 11 a. m. , Nov. 23, at: jsccommu@mail. nasa. gov or 281-483-5111. To ask questions, media must dial in no later than 10 minutes before the start of the call. The agency’s media credentialing policy is available online.",
+        "Additional prelaunch updates will be available on NASA’s space station blog .",
+        "Launch day coverage of the mission will be available on the NASA website . Coverage will include live streaming and blog updates beginning no earlier than 10 a. m. on Nov. 29, as the countdown milestones occur. On-demand streaming video on NASA+ and photos of the launch will be available shortly after liftoff. For questions about countdown coverage, contact the NASA Kennedy Space Center newsroom at 321-867-2468. Follow countdown coverage on our International Space Station blog for updates.",
+        "Members of the public can register to attend this launch virtually. NASA’s virtual guest program for this mission also includes curated launch resources, notifications about related opportunities or changes, and a stamp for the NASA virtual guest passport following launch.",
+        "Let people know you’re watching the mission on X, Facebook, and Instagram by following and tagging these accounts: X: @ NASA, @ NASAKennedy , @NASASpaceOps , @ Space_Station , @ ISS National Lab",
+        "Instagram: @ NASA , @ NASAKennedy , @ ISS , @ ISSNationalLab"
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "conversation-ai-helps-uncover-critical-flaw-in-ubiquitous-internet-soft",
+      "title": "AI helps uncover critical flaw in ubiquitous internet software",
+      "dek": "If you checked your bank balance, booked a flight or ordered groceries online today, there is a good chance your request was handled by a computer program written in Java.",
+      "category": "科技",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T21:43:47.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/ai-helps-uncover-critical-flaw-in-ubiquitous-internet-software-296930"
+      },
+      "cover": "pencil",
+      "accent": "orange",
+      "paragraphs": [
+        "If you checked your bank balance, booked a flight or ordered groceries online today, there is a good chance your request was handled by a computer program written in Java.",
+        "For nearly three decades, the Java programming language has been one of the quiet workhorses of the internet. While most people rarely interact with it directly on their phones or laptops, it sits at the heart of most large, behind-the-scenes server applications that power modern business, finance and government.",
+        "That ubiquity is why a new critical security alert from the U. S. Cybersecurity and Infrastructure Security Agency drew the attention of technology teams worldwide. Security researchers uncovered a severe flaw, dubbed Java4Shell , in a core Java component. If left unpatched, the bug could allow an attacker to trick a vulnerable server into executing malicious code.",
+        "As a cybersecurity researcher who studies how large-scale software systems fail and how to defend them, I see this discovery as both a standard call to action for system administrators and another milestone in a broader shift: Artificial intelligence is rapidly changing how hidden flaws in critical software are discovered.",
+        "To understand the vulnerability, it helps to know why Java became so popular in the first place.",
+        "Normally, software must be tailored to the specific computer hardware and operating system it runs on. Java solved that headache with a clever piece of software called the Java Virtual Machine . It is essentially a program that runs other programs. Software developers write their Java application once, and the Java Virtual Machine provides a uniform foundation on top of a server’s operating system, running that application regardless of the underlying machine.",
+        "In addition to running the application, the Java Virtual Machine provides a standardized set of code for everyday tasks, such as reading files, managing network connections and formatting incoming data.",
+        "One of those routine tasks is Base64 encoding . Computers often need to send complex data, such as images, attachments or authentication tokens, over text-based internet protocols. Because raw binary data can be corrupted in transit, systems convert it into a string of standard text characters using Base64. When a Java server receives that string, its Base64 library decodes it back into its original form so the application can use it.",
+        "The newly discovered vulnerability resides in the Base64 decoding library in Oracle’s implementation of the Java Virtual Machine. This means that any application using this version of the Java Virtual Machine is at risk.",
+        "According to technical analysis of the flaw, a carefully crafted piece of malformed Base64 data can overwhelm the library’s processing, allowing an attacker to break out of normal boundaries, execute unauthorized commands and potentially gain control of the server.",
+        "If this sounds familiar, it follows a pattern seen recently with a high-profile PHP vulnerability , another foundational web language. Like the PHP vulnerability, this Java flaw was uncovered by cybersecurity firm Calif using AI tools to search for vulnerabilities.",
+        "Calif officials said the company alerted the governments of the United States, Canada, Australia, New Zealand and Britain, and major tech companies, including Google and Microsoft, before the Java vulnerability became public. The Cybersecurity and Infrastructure Security Agency then issued its alert, urging organizations to immediately patch the flaw .",
+        "Historically, identifying subtle memory or parsing errors buried deep within millions of lines of mature code required months of painstaking manual review by human experts. Today, security researchers are pairing AI tools with traditional code analysis to systematically probe software libraries for edge cases that humans might overlook for years.",
+        "Whenever a critical vulnerability affects a foundational piece of software, headlines can sound alarmist. In reality, there are several reasons to maintain perspective while still acting quickly.",
+        "First, the good news is that a responsible security researcher discovered and privately reported this flaw, giving people who maintain software time to develop and release a fix before attackers could widely exploit it.",
+        "Second, everyday users do not need to panic about their personal devices. This is an issue affecting enterprise applications and cloud infrastructure, not home laptops, smartphones or tablets.",
+        "Third, even on vulnerable servers, exploiting this bug in the real world is not always straightforward. Most modern web systems do not expose raw Java decoders directly to the open internet. Instead, incoming traffic typically passes through several types of software – firewalls , load balancers and web proxies – that inspect, sanitize or reject malformed data before it reaches the underlying Java application.",
+        "Still, “harder to exploit” does not mean impossible, especially for internal systems or custom applications that pass user-supplied bits of information, called tokens , directly to Java’s decoder. As with any foundational infrastructure repair, the best defense is straightforward: promptly applying the latest security updates.",
+        "As AI accelerates the discovery of long-hidden software flaws, keeping the digital infrastructure patched remains one of the most effective cybersecurity practices.",
+        "Doug Jacobson does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "conversation-floridas-flooding-de-ja-vu-is-a-sign-of-things-to-come-so-",
+      "title": "Florida’s flooding déjà vu is a sign of things to come – so, who is most at risk and how can they prepare?",
+      "dek": "Floodwater filled the streets and crept into homes across Florida’s Atlantic coast as an intense storm dumped more than a foot of rain in 24 hours starting Nov. ",
+      "category": "环境",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T20:12:23.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/floridas-flooding-deja-vu-is-a-sign-of-things-to-come-so-who-is-most-at-risk-and-how-can-they-prepare-297006"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Floodwater filled the streets and crept into homes across Florida’s Atlantic coast as an intense storm dumped more than a foot of rain in 24 hours starting Nov. 17, 2026. The deluge followed extreme downpours in parts of the region less than three weeks earlier , and forecasters warned of more rain still to come .",
+        "As people in Fort Lauderdale watched the water rise in their already saturated yards, it may have felt like déjà vu.",
+        "In April 2023, more than 25 inches of rain fell in Fort Lauderdale in 24 hours. Even hurricanes rarely drop that much rain in one area that fast. Residents could do little to stop the flooding.",
+        "Studies show that as global temperatures rise, more people will be at risk from such destructive flooding – including in areas that rarely faced extreme flooding in the past.",
+        "In many of these communities, the people at greatest risk of harm from flash flooding are low-wage workers , older adults and other vulnerable residents who live in low-lying areas and who have few resources to protect their properties and themselves.",
+        "I study the impact of extreme weather on vulnerable communities as an associate professor of social work . To limit the damage, communities need to know who is at risk and how they can be better prepared.",
+        "The Florida storms offer a view into the risks ahead as temperatures rise . These risks are especially high as the effects of a strong 2026-27 El Niño set in .",
+        "A warmer atmosphere can hold more moisture , leading to stronger downpours. The resulting deluges can be devastating. These events are expected to increase in frequency and intensity in many regions as greenhouse gas emissions from human activities continue to heat up the planet .",
+        "Recent disasters show how the risk of flash flooding is expanding beyond areas traditionally considered at risk .",
+        "To plan for extreme weather, it’s crucial for community leaders and residents to know where the risks are highest and who might not be prepared .",
+        "Low-lying areas with poorly planned development , lack of investment in protective infrastructure and the lingering effects of historic disinvestment and discrimination are often at higher risk. So are low-income communities with tight budgets that can’t afford protective measures like upgraded levees or stormwater systems and can’t recover from damage quickly.",
+        "When older adults live in these flood-prone areas , they are at even higher risk. Older adults have a higher likelihood of having health needs or some form of disability that could affect their ability to leave quickly during a disaster. They are also more likely to be socially isolated , which may mean they don’t hear timely information or have help to evacuate or quick access to resources for recovering.",
+        "My colleagues and I have examined how prepared people are for disasters of any kind across the U. S. – flooding, tornadoes, hurricanes and others – and how housing security played a role. The numbers are sobering.",
+        "Overall, we found in a 2023 study that 57% of the population, among 29,070 housing units surveyed nationwide, reported they were not prepared with food, water, emergency funds and transportation in case disaster struck. We found that households facing housing insecurity – those behind on their payments for rent, mortgage or utilities – were less prepared for disasters than others, even when the occupants had similar incomes and education.",
+        "People who are struggling to meet day-to-day needs often don’t have the ability and resources to plan for everyday events, let alone for disasters. Our research has shown that households with children, households led by women, and low-income households were less prepared than others for disasters.",
+        "Renting adds additional challenges. In the U. S. , lower-income families often depend on the rental market . They tend to move more frequently, and since they don’t own the property, they often can’t make upgrades for safety. And landlords might not prioritize those risks that seem rare but carry costs.",
+        "The most effective way to address these challenges is through solutions that are tailored to the community.",
+        "That can involve investing in infrastructure , including state-funded priorities such as drainage systems, large-scale flood prevention measures and strengthening the power grid , as well as ensuring that people have access to safe and affordable housing . Some communities and federal agencies have bought out properties that frequently flood and changed zoning rules to prevent more people from moving into harm’s way.",
+        "Raising community awareness about climate change and extreme weather risks is also crucial, especially among those most at risk , such as older adults and other socially marginalized groups .",
+        "If people understand the risks, know how to prepare their homes, know how to plan for emergencies , know whom to contact for help, and have stronger systems of care, they’re more likely to be prepared when disasters strike.",
+        "I believe the most successful efforts are those that bring at-risk communities into planning discussions .",
+        "For example, in Columbus, Ohio, the city partnered with the Central Ohio Area Agency on Aging, Age Friendly Innovation Center and my team to improve disaster preparedness among older residents . We worked with older adults in affordable housing communities and the human service professionals who support them to help design action plans for communities with special needs in the event of an emergency. The tool kit we created can help social service providers prepare low-income residents for extreme weather.",
+        "Our team is now working with service providers nationwide to document best practices, identify gaps and ensure residents are better prepared for climate- and weather-related emergencies in the future.",
+        "This article updates a story published April 27, 2023 , about flood risk in South Florida."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-scientists-find-that-mice-not-deer-hold-a-major-clue-to-ly",
+      "title": "Scientists Find That Mice, Not Deer, Hold a Major Clue to Lyme Disease Risk",
+      "dek": "A 35-year study reveals that mice, acorns, and unexpected environmental forces hold surprising clues to predicting Lyme disease risk. ",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T20:06:03.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-find-that-mice-not-deer-hold-a-major-clue-to-lyme-disease-risk/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A 35-year study reveals that mice, acorns, and unexpected environmental forces hold surprising clues to predicting Lyme disease risk. A remarkable 35-year study is challenging long-held assumptions about Lyme disease, revealing that mice, acorns, and even extreme weather influence tick populations in unexpected ways. One of the biggest surprises is that deer, often associated with the spread of Lyme disease, may be less important in predicting the numbers of dangerous ticks than researchers once believed.",
+        "Diseases transmitted by ticks are becoming increasingly common across the United States. Lyme disease is the most frequently reported, with nearly 500,000 people diagnosed annually. The infection is caused by the bacterium Borrelia burgdorferi , which typically reaches humans through bites from infected blacklegged ticks. Antibiotics can successfully treat Lyme disease, but without treatment, the infection may spread to the joints, heart, and nervous system. Some patients also experience symptoms that persist over time.",
+        "For more than 35 years, scientists at the Cary Institute of Ecosystem Studies in Millbrook, New York, have investigated the complicated relationships among oak trees, acorns, rodents, predators, ticks, and climate. Their goal has been to understand how these interconnected factors influence the risk of Lyme disease in humans.",
+        "A new study published in Proceedings of the National Academy of Sciences highlights nine particularly unexpected discoveries from this decades-long research effort. Several findings challenge conventional thinking about how tick populations grow and what determines the likelihood of disease transmission.",
+        "“On balance, these surprises have enriched our knowledge of this system, helping us to inform management of tick-borne disease risk,” said lead author Richard Ostfeld, a disease ecologist at the Cary Institute who leads the research program alongside Shannon LaDeau.",
+        "According to Ostfeld, the unusually extensive dataset has been essential for separating meaningful ecological patterns from random fluctuations and misleading correlations. Relationships that seem convincing over a few years can look very different when examined across several decades.",
+        "“Studies of this depth and length are incredibly rare,” said LaDeau. “This research has followed an ecological community — including oak trees, mammals, and microorganisms — examining how interactions like predation, parasitism, and competition shape the system over time. The evolution of understanding summarized in this paper is something you simply cannot get without such a long-term and system-focused study.”",
+        "When scientists first identified Lyme disease in the United States during the 1980s, white-tailed deer were considered a likely factor in the disease’s spread. Hunters frequently encountered deer carrying large numbers of adult ticks, suggesting that deer populations might strongly influence how many ticks would emerge in subsequent seasons.",
+        "Deer do not directly transmit the Lyme disease bacterium to ticks. However, they provide blood meals for adult female ticks, allowing those ticks to reproduce. Researchers therefore suspected that larger deer populations would support more egg-laying females and ultimately produce more young ticks.",
+        "Decades of field observations have complicated that theory. At the Cary Institute’s 2,000-acre forested research site in Dutchess County, New York, researchers found no statistically significant relationship between deer abundance and the number of nymphal ticks. Nymphs are immature ticks and represent the life stage most likely to transmit Lyme disease to humans.",
+        "“We had detected a weak positive relationship between deer and subsequent nymph abundance over short subsets of the data,” said Ostfeld, “but the whole data set in its entirety shows no such thing.”",
+        "Although deer numbers did not reliably predict nymph populations, mouse numbers told a different story.",
+        "The researchers discovered that years with abundant mice were followed by an approximately 40% increase in nymphal ticks the next year. This relationship makes white-footed mice particularly important to understanding changes in tick populations.",
+        "These small rodents provide an excellent food source for blacklegged tick larvae. They are also highly effective at transmitting Borrelia burgdorferi to the young ticks feeding on them."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "conversation-a-convincing-vegan-meat-alternative-needs-both-taste-and-t",
+      "title": "A convincing vegan meat alternative needs both taste and texture – here’s how food scientists manufacture them",
+      "dek": "This Thanksgiving, you may sit down to a table laden with mashed potatoes, cranberry sauce, vegetables and a golden-brown turkey. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T19:31:51.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/a-convincing-vegan-meat-alternative-needs-both-taste-and-texture-heres-how-food-scientists-manufacture-them-296038"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "This Thanksgiving, you may sit down to a table laden with mashed potatoes, cranberry sauce, vegetables and a golden-brown turkey. And, if you have any vegetarians or vegans in your family, you may even see a plant-based meat alternative. But how do food scientists make something taste and look similar to turkey entirely from plants?",
+        "Plant-based meat alternatives have become an increasingly prominent part of the food industry , driven partly by concerns about the sustainability of conventional meat production and the search for additional protein sources. One life-cycle assessment found that plant-based patties had a 77% lower climate impact than the Brazilian beef patties examined, although the results varied depending on the production systems and environmental measures considered.",
+        "But making a convincing meat alternative is not as simple as replacing animal protein with plant protein. How do you turn ingredients from peas, soybeans or wheat into something that looks, tastes and feels like meat?",
+        "When people think about protein, foods such as chicken, beef, eggs and milk often come to mind. However, plants are also important sources of protein . Soybeans, peas, wheat, lentils and other legumes contain proteins that can be extracted and used in food products.",
+        "Soy and pea proteins are widely used in plant-based meat alternatives . Wheat protein, or gluten , can also contribute to their structure and chewy texture. Researchers are also exploring other sources, including fava beans and mung beans, to expand the range of ingredients available.",
+        "But plant proteins behave differently. Some absorb more water, while others bind fat or form structures that hold ingredients together. These properties influence how a food feels when you bite into it. Choosing a protein therefore involves understanding how it behaves during processing, not just its nutritional value.",
+        "Think about biting into a piece of roasted turkey breast. Its texture comes from the arrangement of muscle fibers , along with connective tissue, water and fat. Together, these components create firmness, juiciness and the chewing experience you associate with meat.",
+        "Plant proteins have structures that are different from animal muscle proteins. Mixing pea or soy protein with water does not automatically create meatlike fibers. Food scientists use processing methods that organize these proteins into structures that more closely resemble muscle.",
+        "Flavor matters, too. Fat adds juiciness and carries flavor compounds, while heating creates familiar roasted and savory aromas. A convincing meat alternative must bring together the right ingredients and processing conditions to reproduce these qualities.",
+        "One widely used method is extrusion . Protein-rich ingredients are mixed with water and pushed through a machine that applies heat and pressure while mixing the material. These forces unfold the proteins and help them interact.",
+        "As the mixture cools, the proteins form aligned, fibrous structures that resemble some features of meat. High-moisture extrusion uses more water during processing, which produces fibrous products with a more meatlike texture.",
+        "The final structure depends on factors such as the protein source, moisture content, temperature and processing conditions. These factors influence how proteins interact and form the fibrous structures found in plant-based meat alternatives .",
+        "Manufacturers can also add fats, starches, flavorings and other ingredients to improve the eating experience. Small changes in formulation or processing can make a considerable difference, affecting whether a product is firmer, softer, chewier or better at retaining moisture.",
+        "Another emerging approach is 3D food printing. Like a conventional 3D printer , a food printer builds an object layer by layer, depositing edible materials according to a digital design.",
+        "Our research explores protein-based food inks: mixtures designed to flow through a printer nozzle and hold their shape once deposited. Developing the right formulation is challenging because the material must be fluid enough to print but still firm enough to retain its shape. Researchers are applying similar principles to explore printing plant-based meat alternatives.",
+        "Instead of relying only on conventional manufacturing methods, 3D printing could allow researchers to control how different ingredients are arranged. For example, you could potentially deposit protein-rich materials and fat-containing ingredients in specific patterns to create different structures and textures.",
+        "Recent research on the 3D-printing of plant-protein-based meat analogs highlights how the formulation of the food ink and printing conditions influence how accurately a product can be printed and whether it holds its shape. However, a printed product that looks like meat must still deliver the expected texture, flavor and eating experience.",
+        "Plant-based meat alternatives are not necessarily intended to replace traditional meat. They offer consumers additional choices, but making them appealing, affordable and consistent remains a challenge. Scientists continue to study how proteins, ingredients and processing work together to create the textures and flavors people enjoy.",
+        "The next time you see a plant-based burger or turkey alternative, remember that making it involves much more than replacing animal protein with plant protein. Technologies such as extrusion and 3D food printing are helping scientists explore new ways to turn plant ingredients into meatlike foods.",
+        "Rohit Singh is affiliated with West Virginia University.",
+        "Jacek Jaczynski receives funding from USDA and is affiliated with West Virginia University.",
+        "Veera Vijay Basamshetty does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "scitechdaily-stanford-scientists-discover-3-hidden-brain-types-in-child",
+      "title": "Stanford Scientists Discover 3 Hidden Brain Types in Children With ADHD and Anxiety",
+      "dek": "Scientists have identified three distinct patterns of brain activity in children with ADHD, anxiety, or both, revealing biological differences that traditional diagnoses…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T19:31:17.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/stanford-scientists-discover-3-hidden-brain-types-in-children-with-adhd-and-anxiety/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Scientists have identified three distinct patterns of brain activity in children with ADHD, anxiety, or both, revealing biological differences that traditional diagnoses often overlook.",
+        "Brain scans have uncovered three distinct patterns of disrupted brain activity in children with ADHD, anxiety, or both conditions. These patterns do not align neatly with conventional diagnoses, suggesting that children with similar symptoms may have different underlying neurological differences. Some patterns were even detectable years before children received a diagnosis.",
+        "The findings come from a Stanford Medicine -led study published October 16 in Nature Mental Health . By combining artificial intelligence with thousands of functional MRI (fMRI) scans, researchers identified three brain biotypes associated with different combinations of behavioral, emotional, and attention difficulties.",
+        "ADHD and anxiety are among the most common childhood mental health disorders, and their symptoms frequently overlap. Clinicians typically diagnose these conditions using behavioral assessments and symptom checklists, but those categories may not fully capture the neurological differences between children.",
+        "“The high overlap between ADHD and anxiety actually hinders our understanding of the neurobiology underlying traditional, symptom-based diagnoses,” said Yu Zhang, PhD, assistant professor of psychiatry and behavioral sciences at Stanford Medicine and co-senior author of the study.",
+        "“We wanted to know whether the biological differences among children with ADHD and anxiety follow the diagnostic labels used in the clinic,” Zhang said.",
+        "The researchers found that children diagnosed with ADHD, anxiety, or both could belong to any of the three biotypes. Although particular brain patterns were more common with certain diagnoses, no biotype corresponded exclusively to a single disorder.",
+        "The researchers identified three neurological profiles, each associated with a distinctive combination of symptoms:",
+        "Each child belonged to just one biotype (each child was in only one biotype), but the three patterns appeared across all conventional diagnostic categories.",
+        "The model also identified two underlying dimensions of brain dysfunction: cognitive-behavioral dysfunction and emotion-attention dysfunction. Each involved different networks of brain regions, with the three biotypes reflecting distinct combinations of these disruptions. The findings suggest that differences in how brain circuits communicate may help explain variations in children’s symptoms.",
+        "The researchers drew on the Adolescent Brain Cognitive Development study, a long-term investigation of more than 11,000 U. S. children who entered the project at ages 9 or 10.",
+        "Their analysis included 3,508 children initially diagnosed with ADHD, anxiety, or both; 693 children who received one or both diagnoses later; and 1,947 children who never received either diagnosis. The researchers also examined brain scans from 224 children with ADHD or anxiety in the separate Healthy Brain Network study to validate their findings.",
+        "An AI model examined functional connectivity, which describes how activity in different brain regions is coordinated. By combining these measurements with diagnostic records and cognitive and behavioral assessments, the researchers identified brain connectivity patterns associated with ADHD and anxiety that differed from those seen in children without either diagnosis.",
+        "The researchers also detected the biotypes in initial brain scans from children who had not yet been diagnosed with ADHD or anxiety but developed one or both conditions later. This suggests that certain patterns of brain connectivity may emerge before symptoms lead to a clinical diagnosis."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "nasa-maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-t",
+      "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
+      "dek": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T18:58:27.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”.",
+        "Everyone has stress about something – some people love the holidays, and some people are holiday-avoidant… and some live in the middle. What specific stressors or challenges you experience might not bother your sibling, your spouse or your coworker. We want to be aware of and have a clear understanding of what holidays mean to you as a person.",
+        "The first step is to acknowledge what your feelings and emotions are – you may enjoy seeing the neighborhood holiday lights but not want to decorate yourself (totally okay!! ), you may love shopping for the perfect gift for everyone on your list, you may avoid all of the activities — everyone one of these is an okay choice… you can be yourself always in all ways. Give yourself that permission. As you prepare, keep a list or a calendar of events – expected/obligated, okay to go or not go,",
+        "Combine this with your standard calendar and make a schedule. If you want, add to the list what your part is (bring a dish, gift, coordinate a visit, etc. ). Having the majority of activities written down will help you not overbook, help you plan ahead, make it easier to say no, spend within your budget. Before you commit to something, say “I have to check my calendar first…. I will get back to you”.",
+        "Prepare your budget – We often budget for gifts but forget that we will be buying more groceries for those special meals and favorite dishes…. We also need to budget for travel, having guests in your home, clothing, even allow for a higher electric bill. Write it down – keep receipts – let your immediate family know that this is what we have to spend, then track it as you go.",
+        "Now that you have a current calendar and a working budget, set realistic expectations for your holiday experience. We know that not everything is optional and traditions will continue but none of it has to be perfect…minor stress and family friction can be normal.",
+        "When telling someone no, use “I” statements and stick to the single issue at hand. In addition to your list/calendar, remember to prioritize time for yourself. Keep your regular sleep schedule as much as possible, eat well (if you have a heavy meal one day, lighten up the next), schedule time to get fresh air and a quick break. ALWAYS focus on what matters. Focus on meaningful connections rather than activities that cause you anxiety.",
+        "If you feel emotional, take a few moments alone and identify the feeling, honor yourself for being able to face it and breathe through it (avoid pushing it down). Remember how many times you have gotten through a “pressure moment” and give yourself credit. Call a trusted friend or your therapist if you feel overwhelmed for longer than a day…. and, please call 988 if you feel overwhelmed to an extreme. 988 is always available and waiting to help.",
+        "Look for the glimmers – find a happy moment (no matter how brief), find the memories that make you smile. Thinking of something joyful changes your emotional state… train yourself to do this any time you need a lift. Ultimately, we want to move away from focusing on the future (It causes anxiety) or overthinking about the past (it causes depression) …. and find yourself in the here and now where you have power to manage things happening around you. Your power is with you in the present. (Eckert Tolle book – The Power of Now).",
+        "The holiday season lasts for weeks – gift yourself with",
+        "With the extra pressure of the holiday season, our feelings can often be stronger than other times during the year…. if you start having feelings:",
+        "Anxious – take deep breaths, focus ONLY on the present – your surroundings, what you see, count objects, put ice on the inside of your wrists (this works really well! )"
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "nasa-news-maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-t",
+      "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
+      "dek": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T18:58:27.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”.",
+        "Everyone has stress about something – some people love the holidays, and some people are holiday-avoidant… and some live in the middle. What specific stressors or challenges you experience might not bother your sibling, your spouse or your coworker. We want to be aware of and have a clear understanding of what holidays mean to you as a person.",
+        "The first step is to acknowledge what your feelings and emotions are – you may enjoy seeing the neighborhood holiday lights but not want to decorate yourself (totally okay!! ), you may love shopping for the perfect gift for everyone on your list, you may avoid all of the activities — everyone one of these is an okay choice… you can be yourself always in all ways. Give yourself that permission. As you prepare, keep a list or a calendar of events – expected/obligated, okay to go or not go,",
+        "Combine this with your standard calendar and make a schedule. If you want, add to the list what your part is (bring a dish, gift, coordinate a visit, etc. ). Having the majority of activities written down will help you not overbook, help you plan ahead, make it easier to say no, spend within your budget. Before you commit to something, say “I have to check my calendar first…. I will get back to you”.",
+        "Prepare your budget – We often budget for gifts but forget that we will be buying more groceries for those special meals and favorite dishes…. We also need to budget for travel, having guests in your home, clothing, even allow for a higher electric bill. Write it down – keep receipts – let your immediate family know that this is what we have to spend, then track it as you go.",
+        "Now that you have a current calendar and a working budget, set realistic expectations for your holiday experience. We know that not everything is optional and traditions will continue but none of it has to be perfect…minor stress and family friction can be normal.",
+        "When telling someone no, use “I” statements and stick to the single issue at hand. In addition to your list/calendar, remember to prioritize time for yourself. Keep your regular sleep schedule as much as possible, eat well (if you have a heavy meal one day, lighten up the next), schedule time to get fresh air and a quick break. ALWAYS focus on what matters. Focus on meaningful connections rather than activities that cause you anxiety.",
+        "If you feel emotional, take a few moments alone and identify the feeling, honor yourself for being able to face it and breathe through it (avoid pushing it down). Remember how many times you have gotten through a “pressure moment” and give yourself credit. Call a trusted friend or your therapist if you feel overwhelmed for longer than a day…. and, please call 988 if you feel overwhelmed to an extreme. 988 is always available and waiting to help.",
+        "Look for the glimmers – find a happy moment (no matter how brief), find the memories that make you smile. Thinking of something joyful changes your emotional state… train yourself to do this any time you need a lift. Ultimately, we want to move away from focusing on the future (It causes anxiety) or overthinking about the past (it causes depression) …. and find yourself in the here and now where you have power to manage things happening around you. Your power is with you in the present. (Eckert Tolle book – The Power of Now).",
+        "The holiday season lasts for weeks – gift yourself with",
+        "With the extra pressure of the holiday season, our feelings can often be stronger than other times during the year…. if you start having feelings:",
+        "Anxious – take deep breaths, focus ONLY on the present – your surroundings, what you see, count objects, put ice on the inside of your wrists (this works really well! )"
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "scitechdaily-what-is-a-thought-made-of-scientists-reveal-why-human-cons",
+      "title": "What Is a Thought Made Of? Scientists Reveal Why Human Consciousness May Be Beyond the Reach of AI",
+      "dek": "A familiar song can pull you back decades in an instant, and the chemistry behind that rush of memory may hold clues to what separates human minds from AI.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T18:56:13.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/what-is-a-thought-made-of-scientists-reveal-why-human-consciousness-may-be-beyond-the-reach-of-ai/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A familiar song can pull you back decades in an instant, and the chemistry behind that rush of memory may hold clues to what separates human minds from AI.",
+        "How does the brain turn a collection of memories into thoughts, emotions, and the experience of being conscious? Scientists have spent decades studying how neurons communicate through electrical and chemical signals, yet the physical processes that allow us to recall experiences, attach feelings to them, and give them meaning remain incompletely understood.",
+        "A new scientific review suggests that part of the answer may lie in the complex chemistry surrounding brain cells. Rather than viewing memory primarily as a product of neuronal activity, the researchers propose that interactions among neurons, supporting brain cells, and molecules in their surrounding environment could play a fundamental role in shaping thought and conscious experience.",
+        "Dr. Gerard Marx of MX Biotech Ltd. and Prof. Chaim Gilon of the Hebrew University of Jerusalem’s Department of Chemistry present their theory in Consciousness, Memory, and Intelligence: A Mechanistic Perspective . Building on earlier research into how experiences might be physically stored in the brain, they examine whether the chemistry of memory could help explain the origins of thought and consciousness.",
+        "Their proposal also raises a question about artificial intelligence: If human memory and emotion depend on the chemistry of living cells, can computers ever develop consciousness simply by becoming more powerful?",
+        "Scientists have long studied how neurons communicate to form and retrieve memories. But Marx and Gilon suggest that important parts of this process may also occur in the molecular environment surrounding brain cells.",
+        "Their model, called the Tripartite Mechanism of Memory, involves three interacting components: brain cells, particularly neurons and astrocytes; the molecular material surrounding those cells; and chemicals such as metal ions, neurotransmitters, and gliotransmitters.",
+        "According to the theory, these components could allow the brain to chemically encode and retrieve information. Rather than serving only as a support structure, the environment surrounding brain cells may actively participate in memory storage.",
+        "Astrocytes, star-shaped cells that interact closely with neurons, play a central role in the proposed mechanism. The researchers suggest that coordinated activity among these cells, neurons, and surrounding molecules could contribute to how memories are formed and processed.",
+        "A familiar song can bring back memories from decades ago, complete with feelings that seemed long forgotten. Such experiences show that remembering involves more than retrieving information.",
+        "Marx and Gilon propose that the emotional content of memories may be linked to their chemical encoding. In their model, signaling molecules, including neurotransmitters and gliotransmitters, help connect stored information with the feelings associated with an experience.",
+        "The researchers also suggest that retrieving and interpreting these chemically stored memories may contribute to the emergence of thought. In this view, memory is not simply a record of past events but an active process through which the brain assigns meaning to experience.",
+        "Computers and brains both store and process information, but the underlying mechanisms differ. While computers rely on electronic hardware, biological memory involves living cells and complex chemical interactions.",
+        "Marx and Gilon argue that this distinction could matter for consciousness. AI systems can perform increasingly sophisticated intellectual tasks, but their ability to process information does not establish that they experience thoughts or emotions."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "nasa-nasa-announces-mid-power-electric-rocket-challenge-for-us-",
+      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+      "dek": "NASA launched a new competition inviting U. S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T18:12:32.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA launched a new competition inviting U. S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration.",
+        "Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep space robotic vehicles, Hall effect thruster systems are critical technology.",
+        "NASA’s Advanced Mid-Power Electric Rocket (AMPERE) Challenge is offering $500,000, split between two winning U. S. companies, to accelerate the maturation of mid-power systems that could be foundational to supporting future NASA and commercial missions. Interested parties can learn more at an AMPERE Virtual Industry Day hosted by NASA on Thursday, Nov. 19.",
+        "“This challenge approach seeks to remove key barriers and facilitate commercialization by providing access to NASA subject matter expertise, state-of-the-art technologies, and world-class facilities at no cost to challenge winners,” said Dr. Jason Frieman, AMPERE project co-owner at NASA’s Glenn Research Center in Cleveland. “We hope participants will see this as an opportunity to demonstrate their capabilities to NASA and other government and commercial stakeholders.”",
+        "The competition is the first of NASA’s Tech Maturation Prize series, which seeks to accelerate development of breakthrough technologies in support of NASA missions while strengthening the U. S. space economy.",
+        "The competition includes three phases. In Phase 1, each participating team will submit a concept design, manufacturing plan, and cost and performance projections. NASA may select two winners to advance to Phase 2, where teams will develop prototypes and collaborate with NASA personnel. Through no-cost licensing, these teams can gain early access to NASA-developed Hall effect thruster technologies that use krypton as a propellant. In Phase 3, prototypes will be tested at NASA Glenn at no cost to the participating teams.",
+        "In total, two winning teams may be selected to receive up to $250,000 each.",
+        "The AMPERE Challenge is open for registration until Jan. 27, 2027, at 5 p. m. EST. The challenge supports the Advanced Mid-Power Electric Rocket project, managed by NASA Glenn and NASA’s Jet Propulsion Laboratory in Southern California. The project is funded by the agency’s Research and Technology Mission Directorate . Yet2 administers the challenge through a contract with the NASA Center of Excellence for Collaborative Innovation within the Research and Technology Mission Directorate.",
+        "For complete competition details, eligibility requirements, and official rules, visit:"
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "nasa-news-nasa-announces-mid-power-electric-rocket-challenge-for-us-",
+      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+      "dek": "NASA launched a new competition inviting U. S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T18:12:32.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA launched a new competition inviting U. S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration.",
+        "Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep space robotic vehicles, Hall effect thruster systems are critical technology.",
+        "NASA’s Advanced Mid-Power Electric Rocket (AMPERE) Challenge is offering $500,000, split between two winning U. S. companies, to accelerate the maturation of mid-power systems that could be foundational to supporting future NASA and commercial missions. Interested parties can learn more at an AMPERE Virtual Industry Day hosted by NASA on Thursday, Nov. 19.",
+        "“This challenge approach seeks to remove key barriers and facilitate commercialization by providing access to NASA subject matter expertise, state-of-the-art technologies, and world-class facilities at no cost to challenge winners,” said Dr. Jason Frieman, AMPERE project co-owner at NASA’s Glenn Research Center in Cleveland. “We hope participants will see this as an opportunity to demonstrate their capabilities to NASA and other government and commercial stakeholders.”",
+        "The competition is the first of NASA’s Tech Maturation Prize series, which seeks to accelerate development of breakthrough technologies in support of NASA missions while strengthening the U. S. space economy.",
+        "The competition includes three phases. In Phase 1, each participating team will submit a concept design, manufacturing plan, and cost and performance projections. NASA may select two winners to advance to Phase 2, where teams will develop prototypes and collaborate with NASA personnel. Through no-cost licensing, these teams can gain early access to NASA-developed Hall effect thruster technologies that use krypton as a propellant. In Phase 3, prototypes will be tested at NASA Glenn at no cost to the participating teams.",
+        "In total, two winning teams may be selected to receive up to $250,000 each.",
+        "The AMPERE Challenge is open for registration until Jan. 27, 2027, at 5 p. m. EST. The challenge supports the Advanced Mid-Power Electric Rocket project, managed by NASA Glenn and NASA’s Jet Propulsion Laboratory in Southern California. The project is funded by the agency’s Research and Technology Mission Directorate . Yet2 administers the challenge through a contract with the NASA Center of Excellence for Collaborative Innovation within the Research and Technology Mission Directorate.",
+        "For complete competition details, eligibility requirements, and official rules, visit:"
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "nasa-what-is-the-moon-base",
+      "title": "What Is the Moon Base?",
+      "dek": "NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost . ",
+      "category": "校园",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T17:36:03.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost . It will be a place where astronauts live, work, and explore.",
+        "outpost: a station or base located in a remote, distant place",
+        "infrastructure: the basic framework and systems that make up a larger building or organization",
+        "terrain: the physical features, shape, and layout of the surface of a piece of land, including its slope and elevation",
+        "regolith : the layer of loose, fragmented rock and mineral dust covering most of the lunar surface",
+        "The Moon Base will be built in the lunar South Pole region. This area was selected for its unique lighting conditions and potential for scientific discovery.",
+        "Near the lunar South Pole, the Sun stays low on the horizon. Some areas can receive extended periods of sunlight. Other areas stay in shadows for long periods of time. In some craters, sunlight may never reach the surface at all.",
+        "Areas that receive extended sunlight could be good for generating solar power. Longer sunlight hours are also good for navigating and exploring. Areas that remain in shadows are some of the coldest areas on the Moon. In these locations, scientists hope to find deposits of frozen water ice.",
+        "The Moon Base will be constructed in three phases. Each phase will build on what is learned along the way.",
+        "Phase One is taking place right now. Over the next few years, NASA and its partners will send robotic missions to explore the lunar South Pole region. They will test new technologies and practice landing on the Moon. This phase will include multiple different landers and lunar terrain vehicles. These missions will conduct science experiments and look for the best locations for building the Moon Base.",
+        "Phase Two is planned for 2029-2032. During this period, NASA will begin setting up long-term infrastructure . This includes things like power systems, cargo transportation, and communications hardware. These components will be set up across multiple locations. This will allow for future expansion of the Moon Base.",
+        "During Phase Three, NASA will begin assembling a permanent lunar outpost. This is where astronauts will be able to live and work for extended periods. Habitats, power and communication systems, and transportation will all come together to grow Moon Base.",
+        "Crewed and robotic lunar rovers will play an important role in the development of the Moon Base. These rovers will test out technologies, transport astronauts, map terrain , and more. Let’s learn about a few of the rovers being built as part of the Moon Base.",
+        "NASA’s VIPER (Volatiles Investigating Polar Exploration Rover) is fully built. It is being tested at NASA’s Johnson Space Center in Houston. In 2027, it will launch to the Moon from NASA’s Kennedy Space Center in Florida. Its mission will be to explore permanently shadowed craters to look for water and other resources. It will travel more than 15 miles, collecting data and analyzing the lunar soil."
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "nasa-news-what-is-the-moon-base",
+      "title": "What Is the Moon Base?",
+      "dek": "NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost . ",
+      "category": "校园",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T17:36:03.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost . It will be a place where astronauts live, work, and explore.",
+        "outpost: a station or base located in a remote, distant place",
+        "infrastructure: the basic framework and systems that make up a larger building or organization",
+        "terrain: the physical features, shape, and layout of the surface of a piece of land, including its slope and elevation",
+        "regolith : the layer of loose, fragmented rock and mineral dust covering most of the lunar surface",
+        "The Moon Base will be built in the lunar South Pole region. This area was selected for its unique lighting conditions and potential for scientific discovery.",
+        "Near the lunar South Pole, the Sun stays low on the horizon. Some areas can receive extended periods of sunlight. Other areas stay in shadows for long periods of time. In some craters, sunlight may never reach the surface at all.",
+        "Areas that receive extended sunlight could be good for generating solar power. Longer sunlight hours are also good for navigating and exploring. Areas that remain in shadows are some of the coldest areas on the Moon. In these locations, scientists hope to find deposits of frozen water ice.",
+        "The Moon Base will be constructed in three phases. Each phase will build on what is learned along the way.",
+        "Phase One is taking place right now. Over the next few years, NASA and its partners will send robotic missions to explore the lunar South Pole region. They will test new technologies and practice landing on the Moon. This phase will include multiple different landers and lunar terrain vehicles. These missions will conduct science experiments and look for the best locations for building the Moon Base.",
+        "Phase Two is planned for 2029-2032. During this period, NASA will begin setting up long-term infrastructure . This includes things like power systems, cargo transportation, and communications hardware. These components will be set up across multiple locations. This will allow for future expansion of the Moon Base.",
+        "During Phase Three, NASA will begin assembling a permanent lunar outpost. This is where astronauts will be able to live and work for extended periods. Habitats, power and communication systems, and transportation will all come together to grow Moon Base.",
+        "Crewed and robotic lunar rovers will play an important role in the development of the Moon Base. These rovers will test out technologies, transport astronauts, map terrain , and more. Let’s learn about a few of the rovers being built as part of the Moon Base.",
+        "NASA’s VIPER (Volatiles Investigating Polar Exploration Rover) is fully built. It is being tested at NASA’s Johnson Space Center in Houston. In 2027, it will launch to the Moon from NASA’s Kennedy Space Center in Florida. Its mission will be to explore permanently shadowed craters to look for water and other resources. It will travel more than 15 miles, collecting data and analyzing the lunar soil."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "nasa-thank-you-for-doing-nasa-science",
+      "title": "Thank You for Doing NASA Science!",
+      "dek": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T17:32:52.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or someone who’s just started your science journey, we’re deeply grateful for your help.",
+        "Here are a few more messages of gratitude our scientists sent in to share with you.",
+        "Chihoko Cullens, principal investigator (PI) of the Space Cloud Watch project, said: “Thank you to Pirjo Koski, Huub Eggen, and Brian Scott ! Pirjo posts beautiful Noctilucent Cloud photos and has introduced us to other cloud databases in the Netherlands. Huub goes beyond basic data requested by us and actively discusses his observations providing helpful insights. Brian contributes consistently and has provided us with useful time-lapse videos. All three volunteers have consistently provided much needed data and have contributed their time in developing our Field Guide that now helps new citizen scientists correctly identify and report their observations. We are grateful for their contributions.”",
+        "Ryan Scott from the Open Science Data Repository Analysis Working Groups (OSDR AWGs) project said: “A cohort of high school students took NASA’s free Machine Learning for Space Biology course and then kept working as citizen science volunteers.",
+        "Guided by OSDR AWG members who also gave their time freely, they mined open-access retinal data from the International Space Station (ISS) Rodent Research-9 Mission in the NASA Open Science Data Repository and trained a machine learning ensemble that separates oxidative damage from cell death in the eyes of space-flown mice, now published in the scientific journal npj Microgravity : Machine learning ensemble reveals distinct molecular pathways of retinal damage in spaceflown mice . Every citizen science student co-author earned authorship, and many of those listed above started college this fall with a NASA publication already behind them. Thanks to Aditi Adapala, Mushtaq Ali, Naomi Z.",
+        "Chang, Sophie Cai, Margaret Hitt, Anishka Jain, Matthew Lin, MarcAnthony Paolieri Della Monica, Elior Paley, Rudransh Pathak, Shawnak Samaddar, Shriya Sawant, Zhihan Shi, Rohin Sood, Fabian P. Uribe, Maxwell Volkan, and Jessica Wu, plus OSDR AWG members Anna Lewkowicz, Sunny Narayanan, Daniya Thomas, Ethan Waisberg, Pinar Avci, Joshua Ong, Marshall Tabetah, Richard Barker, Lauren Sanders, and Xiao Wen ‘Vivien’ Mao.”",
+        "Kyra Shaw, project coordinator for Snapshot Wisconsin at the Wisconsin Department of Natural Resources, said: “Our team has a Thanksgiving thank-you message for Snapshot volunteer Tim Sparks. Tim has been a dedicated Snapshot Wisconsin volunteer for nearly 10 years. Tim went above and beyond these past two years by helping to pilot test protocols and then joining the full launch for a new initiative, the Snapshot Phenology Project. Joining a select group of volunteers, Tim set up and is maintaining extra equipment to measure snow depth, temperature, and sound recordings at his Snapshot trail camera site.",
+        "Thank you, Tim, for joining in our events, sending in your favorite photos, and going the extra mile to make the Snapshot Phenology Project a success!”",
+        "Benjamin Fernando from the Impact Flash! project said: “Thank you to everyone who’s been sending in images of the Moon! A special thanks to Joerg Tomczak, who helped us with the Artemis II campaign!”",
+        "Rachael Mady from the Chesapeake Water Watch project said: “We are so thankful for all of our volunteers! Since 2021, volunteers have been with us every step of the way and have made Chesapeake Water Watch possible. The Chesapeake Bay is the nation’s largest estuary, and we had people all over submitting observations and helping us cross our 6,000 observation milestone this year. While the project may be wrapping up, the impact that our volunteers have on improving the health of the Bay will continue for years to come. Thanks for all that you do!”",
+        "Marc Kuchner, from the Backyard Worlds: Planet 9 science team, said: “Thank you to Prateek Singh for creating new tools for astronomy and for helping us lead our Space Apps challenge! Thank you to Bruce Baller and Katharina Doll for sharing their lists of brown dwarf discoveries and for inspiring all of us! Thank you to Frank Kiwy for his latest batch of python tools – shared with everyone – that dig through Pan-STARRS, WISE, SIMBAD, Gaia DR3, CatWISE, and NSC DR2 data!"
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "nasa-news-thank-you-for-doing-nasa-science",
+      "title": "Thank You for Doing NASA Science!",
+      "dek": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T17:32:52.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or someone who’s just started your science journey, we’re deeply grateful for your help.",
+        "Here are a few more messages of gratitude our scientists sent in to share with you.",
+        "Chihoko Cullens, principal investigator (PI) of the Space Cloud Watch project, said: “Thank you to Pirjo Koski, Huub Eggen, and Brian Scott ! Pirjo posts beautiful Noctilucent Cloud photos and has introduced us to other cloud databases in the Netherlands. Huub goes beyond basic data requested by us and actively discusses his observations providing helpful insights. Brian contributes consistently and has provided us with useful time-lapse videos. All three volunteers have consistently provided much needed data and have contributed their time in developing our Field Guide that now helps new citizen scientists correctly identify and report their observations. We are grateful for their contributions.”",
+        "Ryan Scott from the Open Science Data Repository Analysis Working Groups (OSDR AWGs) project said: “A cohort of high school students took NASA’s free Machine Learning for Space Biology course and then kept working as citizen science volunteers.",
+        "Guided by OSDR AWG members who also gave their time freely, they mined open-access retinal data from the International Space Station (ISS) Rodent Research-9 Mission in the NASA Open Science Data Repository and trained a machine learning ensemble that separates oxidative damage from cell death in the eyes of space-flown mice, now published in the scientific journal npj Microgravity : Machine learning ensemble reveals distinct molecular pathways of retinal damage in spaceflown mice . Every citizen science student co-author earned authorship, and many of those listed above started college this fall with a NASA publication already behind them. Thanks to Aditi Adapala, Mushtaq Ali, Naomi Z.",
+        "Chang, Sophie Cai, Margaret Hitt, Anishka Jain, Matthew Lin, MarcAnthony Paolieri Della Monica, Elior Paley, Rudransh Pathak, Shawnak Samaddar, Shriya Sawant, Zhihan Shi, Rohin Sood, Fabian P. Uribe, Maxwell Volkan, and Jessica Wu, plus OSDR AWG members Anna Lewkowicz, Sunny Narayanan, Daniya Thomas, Ethan Waisberg, Pinar Avci, Joshua Ong, Marshall Tabetah, Richard Barker, Lauren Sanders, and Xiao Wen ‘Vivien’ Mao.”",
+        "Kyra Shaw, project coordinator for Snapshot Wisconsin at the Wisconsin Department of Natural Resources, said: “Our team has a Thanksgiving thank-you message for Snapshot volunteer Tim Sparks. Tim has been a dedicated Snapshot Wisconsin volunteer for nearly 10 years. Tim went above and beyond these past two years by helping to pilot test protocols and then joining the full launch for a new initiative, the Snapshot Phenology Project. Joining a select group of volunteers, Tim set up and is maintaining extra equipment to measure snow depth, temperature, and sound recordings at his Snapshot trail camera site.",
+        "Thank you, Tim, for joining in our events, sending in your favorite photos, and going the extra mile to make the Snapshot Phenology Project a success!”",
+        "Benjamin Fernando from the Impact Flash! project said: “Thank you to everyone who’s been sending in images of the Moon! A special thanks to Joerg Tomczak, who helped us with the Artemis II campaign!”",
+        "Rachael Mady from the Chesapeake Water Watch project said: “We are so thankful for all of our volunteers! Since 2021, volunteers have been with us every step of the way and have made Chesapeake Water Watch possible. The Chesapeake Bay is the nation’s largest estuary, and we had people all over submitting observations and helping us cross our 6,000 observation milestone this year. While the project may be wrapping up, the impact that our volunteers have on improving the health of the Bay will continue for years to come. Thanks for all that you do!”",
+        "Marc Kuchner, from the Backyard Worlds: Planet 9 science team, said: “Thank you to Prateek Singh for creating new tools for astronomy and for helping us lead our Space Apps challenge! Thank you to Bruce Baller and Katharina Doll for sharing their lists of brown dwarf discoveries and for inspiring all of us! Thank you to Frank Kiwy for his latest batch of python tools – shared with everyone – that dig through Pan-STARRS, WISE, SIMBAD, Gaia DR3, CatWISE, and NSC DR2 data!"
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "nasa-nasa-data-clinches-first-of-its-kind-stellar-merger",
+      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+      "dek": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb Space Telescope that were carefully cross-referenced with extensive data from telescopes in space and on the ground.",
+        "“Stellar mergers are very, very difficult to observe in real time because they are hard to predict,” said Viraj Karambelkar, the first author of a new paper in Nature published Wednesday and a NASA Hubble Fellow at Columbia University in New York. “However, we noticed something unusual was going on in 2023 and continued to monitor the system to see what it would do. Then, in 2025, it erupted! Webb observed Bao only 47 days after the stars’ eruption peaked, the earliest ever follow-up of an event like this. The telescope’s data helped us characterize what the system looked like before, during, and immediately after the merger, which is absolutely mind-blowing.”",
+        "Before their transformation, the two stars spent millennia placidly orbiting one another as a binary pair. But once the smaller star came into contact with the surface of the giant star, their “unification” happened after only seven orbits (about seven years). Other known binary star mergers, featuring two smaller stars, occurred after thousands of orbits.",
+        "“We thought an outburst from a such an extended star would take years,” said co-author Nadia Blagorodnova, an associate professor at the University of Barcelona in Spain. “One day, its brightness started rising and within a week, it peaked!”",
+        "“When a companion star begins to interact with the outer surface of the primary star, it produces a subtle effect — a slow brightening, which we clearly saw in Bao’s data,” said co-author Kishalay De, an assistant professor at Columbia University in New York. “As the companion continues its orbit, it keeps peeling off the primary star’s outer layers, and that gas flows away into the surrounding space.”",
+        "This is the beginning of a high-stakes showdown some binary stars go through, known as a common envelope evolution. The gas between the stars at this stage is known as a common envelope because its outer layer is shared between them. In this system, the primary star engulfed the smaller star and the companion plummeted, spiraling through the envelope as it was robbed of orbital energy by drag. While Webb’s data proved the stars merged, a merger wasn’t the only possible outcome for this system.",
+        "In other systems, both stars survive the process — shedding a lot of mass along the way, but remaining independent in tight orbits. Over time, such surviving pairs can transform into neutron stars and black holes , explode as supernovae , produce ripples in space-time known as gravitational waves , and create millisecond pulsars .",
+        "The team reconstructed what happened to Bao by updating their ongoing simulations. They found the model that matched Webb’s mid-infrared observations, which detailed the dust shed by the more massive primary star over centuries.",
+        "The team concluded that prior to the eruption, Bao’s primary star dwarfed the Sun: It was seven times as massive, 350 times the radius, and 18,000 times brighter — making “Big Bao” an appropriate nickname.",
+        "“It was an absolute beast of a star, completely outshining its companion in the data,” said co-author Karel Temmink, a Ph. D. student at Radboud University in Nijmegen, Netherlands, who led the simulations.",
+        "Their modeling resulted in the first mass estimate for the smaller, now demolished, companion. Compared to our Sun, they found that “Little Bao” was likely less massive (about 0. 7 solar masses), with a slightly smaller radius and fainter.",
+        "After revealing the masses of the pair, the model showed there might be leftover energy for Little Bao to “flee” the scene. However, further analysis determined that Little Bao was dragged into Big Bao’s core. Their encounter was “almost like a bomb exploding inside a living star,” De said.",
+        "What does the new star — now simply Bao — look like today? Only future observations will identify how its “heft” settles."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "nasa-news-nasa-data-clinches-first-of-its-kind-stellar-merger",
+      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+      "dek": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb Space Telescope that were carefully cross-referenced with extensive data from telescopes in space and on the ground.",
+        "“Stellar mergers are very, very difficult to observe in real time because they are hard to predict,” said Viraj Karambelkar, the first author of a new paper in Nature published Wednesday and a NASA Hubble Fellow at Columbia University in New York. “However, we noticed something unusual was going on in 2023 and continued to monitor the system to see what it would do. Then, in 2025, it erupted! Webb observed Bao only 47 days after the stars’ eruption peaked, the earliest ever follow-up of an event like this. The telescope’s data helped us characterize what the system looked like before, during, and immediately after the merger, which is absolutely mind-blowing.”",
+        "Before their transformation, the two stars spent millennia placidly orbiting one another as a binary pair. But once the smaller star came into contact with the surface of the giant star, their “unification” happened after only seven orbits (about seven years). Other known binary star mergers, featuring two smaller stars, occurred after thousands of orbits.",
+        "“We thought an outburst from a such an extended star would take years,” said co-author Nadia Blagorodnova, an associate professor at the University of Barcelona in Spain. “One day, its brightness started rising and within a week, it peaked!”",
+        "“When a companion star begins to interact with the outer surface of the primary star, it produces a subtle effect — a slow brightening, which we clearly saw in Bao’s data,” said co-author Kishalay De, an assistant professor at Columbia University in New York. “As the companion continues its orbit, it keeps peeling off the primary star’s outer layers, and that gas flows away into the surrounding space.”",
+        "This is the beginning of a high-stakes showdown some binary stars go through, known as a common envelope evolution. The gas between the stars at this stage is known as a common envelope because its outer layer is shared between them. In this system, the primary star engulfed the smaller star and the companion plummeted, spiraling through the envelope as it was robbed of orbital energy by drag. While Webb’s data proved the stars merged, a merger wasn’t the only possible outcome for this system.",
+        "In other systems, both stars survive the process — shedding a lot of mass along the way, but remaining independent in tight orbits. Over time, such surviving pairs can transform into neutron stars and black holes , explode as supernovae , produce ripples in space-time known as gravitational waves , and create millisecond pulsars .",
+        "The team reconstructed what happened to Bao by updating their ongoing simulations. They found the model that matched Webb’s mid-infrared observations, which detailed the dust shed by the more massive primary star over centuries.",
+        "The team concluded that prior to the eruption, Bao’s primary star dwarfed the Sun: It was seven times as massive, 350 times the radius, and 18,000 times brighter — making “Big Bao” an appropriate nickname.",
+        "“It was an absolute beast of a star, completely outshining its companion in the data,” said co-author Karel Temmink, a Ph. D. student at Radboud University in Nijmegen, Netherlands, who led the simulations.",
+        "Their modeling resulted in the first mass estimate for the smaller, now demolished, companion. Compared to our Sun, they found that “Little Bao” was likely less massive (about 0. 7 solar masses), with a slightly smaller radius and fainter.",
+        "After revealing the masses of the pair, the model showed there might be leftover energy for Little Bao to “flee” the scene. However, further analysis determined that Little Bao was dragged into Big Bao’s core. Their encounter was “almost like a bomb exploding inside a living star,” De said.",
+        "What does the new star — now simply Bao — look like today? Only future observations will identify how its “heft” settles."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "scitechdaily-tiny-grains-of-sand-could-reveal-what-the-weather-was-like",
+      "title": "Tiny Grains of Sand Could Reveal What the Weather Was Like on Mars Billions of Years Ago",
+      "dek": "Scientists have discovered a surprising connection between sand grain size and the winds that shape dunes on Earth and Mars.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T15:40:14.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/tiny-grains-of-sand-could-reveal-what-the-weather-was-like-on-mars-billions-of-years-ago/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Scientists have discovered a surprising connection between sand grain size and the winds that shape dunes on Earth and Mars.",
+        "The size of a sand grain could reveal how fast the wind was blowing when a desert dune formed, even billions of years ago. Stanford University researchers have discovered that dunes on Earth and Mars are primarily shaped by winds traveling just above the minimum speed needed to move sand. Their findings offer a way to reconstruct ancient winds using sediment preserved in planetary landscapes.",
+        "Windblown dunes and ripples have been identified on Venus , Mars , Saturn’s moon Titan , and even a comet orbiting the sun. Their shapes and patterns provide evidence of prevailing wind directions and how consistently winds have blown, but determining wind speeds has been much more difficult.",
+        "In a study published November 16 in Proceedings of the National Academy of Sciences , researchers demonstrated that the wind speeds responsible for most dune formation are closely linked to the median size of the sand grains. Stronger winds can transport larger particles, while finer grains generally require less force to move.",
+        "The relationship depends on a critical threshold: the wind must be strong enough to set sand grains in motion along the ground. Although faster winds can transport more sediment, the researchers found that winds only modestly exceeding this threshold account for much of the sand movement that builds dunes.",
+        "The research builds on a hypothesis proposed by University of Pennsylvania scientists in 2010, suggesting that dunes develop mainly under winds slightly stronger than those needed to initiate sand transport. “Since then, nobody’s really looked at this idea, even though it’s really powerful because it tells you something about the environmental conditions that formed the dune fields that we see on not just Earth and Mars, but on a variety of other planetary bodies,” said lead author Colin Marvin, who conducted the research as a PhD student at Stanford.",
+        "To test the idea, the team examined 30 years of wind observations alongside sand grain measurements from 24 dune fields worldwide. The sites encompassed different dune shapes, sizes, and environments, including Coral Pink Sand Dunes State Park in Utah and the ancient desert landscapes of Namibia.",
+        "For each location, the researchers calculated which wind speed transported the greatest amount of sand over time. Across all 24 fields, that speed was closely associated with grain size and remained only slightly above the threshold required to move the sediment.",
+        "The team next examined measurements from a Martian dune field, where the relationship between sand size and the winds responsible for dune formation was similar to that observed on Earth. This held despite major differences in atmospheric pressure, gravity, and sediment density between the two planets.",
+        "The results suggest that the same basic process may govern dune formation on other worlds, provided loose sediment is abundant and stronger winds become progressively less frequent. Marvin described dunes as a “great recorder of what happens on a planet’s surface, and particularly the interactions between what’s happening in the atmosphere of a planet and what’s happening on the surface.”",
+        "Because sand grains can survive long after the winds that transported them have disappeared, the relationship could help scientists estimate ancient wind speeds from sedimentary rocks. It may also provide a way to test models of atmospheric circulation during periods when Earth’s atmosphere differed substantially from its present state.",
+        "The discovery could help researchers “better reconstruct winds and climates through time, on Earth and beyond,” said senior author Mathieu Lapôtre, associate professor of Earth and planetary sciences at the Stanford Doerr School of Sustainability. “It works for modern dunes and for sandstones dating back three billion years.”",
+        "Such reconstructions could be used to investigate the atmospheric histories of both Earth and Mars. According to Lapôtre, the research is already moving in that direction. “Colin is actively working on that, actually. He’s already pushing on to the next steps.”",
+        "The study was supported by a National Science Foundation CAREER grant."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "scitechdaily-scientists-discover-15-000-year-old-clay-figures-that-rewr",
+      "title": "Scientists Discover 15,000-Year-Old Clay Figures That Rewrite the History of Human Art",
+      "dek": "Clay figurines from the Middle East suggest that artistic traditions were already being shared across generations before farming, possibly with children taking part in their…",
+      "category": "文化",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T15:05:45.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-15000-year-old-clay-figures-that-rewrite-the-history-of-human-art/"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "Clay figurines from the Middle East suggest that artistic traditions were already being shared across generations before farming, possibly with children taking part in their creation.",
+        "Long before agriculture transformed life in the Middle East, people were already shaping clay into figures that reflected the world around them. Some resembled birds, mammals, and humans, while others carried traces of red or orange coloring. One fragment may even depict the facial markings of a mountain gazelle.",
+        "These small artifacts, originally excavated from three sites in present-day Israel, date back roughly 15,000 to 11,500 years. Researchers believe they provide the earliest known evidence of a clay figurine-making tradition in the region, suggesting that people were using the material for symbolic expression much earlier than previously thought.",
+        "At the time, the region was home to Natufian communities, hunter-gatherers who had begun living in permanent settlements before the development of agriculture. Archaeologists already knew that Natufian people made figurines, although most previously discovered examples were fashioned from bone or stone.",
+        "Clay figurines, by contrast, were generally believed to have become common during the Neolithic period, when the agricultural revolution began around 11,500 years ago. The newly identified objects suggest that the practice had much deeper roots, revealing a wider range of artistic expression among these early communities.",
+        "The findings also raise questions about how cultural traditions developed before farming. The researchers suggest that Natufian artistic practices were more varied and complex than previously recognized, and that some aspects of the region’s later Neolithic culture may have originated thousands of years earlier.",
+        "The research, published November 11, 2026, in the open-access journal PLOS One , was conducted by Dr. Laurent Davin of the Hebrew University of Jerusalem in Israel and colleagues. Beyond revealing an earlier history of clay figurines, the study offers clues about how creative practices and cultural knowledge may have passed between generations.",
+        "“These discoveries change how we understand the beginnings of artistic expression in the first villages of humanity. Thousands of years before agriculture and pottery emerged, people were already using clay to create figures, as part of their beliefs and knowledge of the natural world. What is particularly fascinating is the evidence that children were involved in making these objects, suggesting that creativity and cultural knowledge were shared across generations,” said Davin.",
+        "This research was supported by the Israel Academy of Sciences and Humanities, Council for Higher Education, Computational Archaeology Laboratory at the Hebrew University of Jerusalem, Fondation des Treilles, Fondation Fyssen, Irene Levi Sala Care Archaeological Foundation, Israel Science Foundation (grants 511/22 and 703/23), French Ministry for Europe and Foreign Affairs, Wenner–Gren Foundation, Centre de Recherche Français à Jérusalem, and National Geographic Foundation.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "scitechdaily-scientists-discover-mysterious-toxic-chemicals-floating-in",
+      "title": "Scientists Discover Mysterious Toxic Chemicals Floating in the Air Above America",
+      "dek": "Scientists conducting atmospheric research in rural Oklahoma unexpectedly detected a toxic class of industrial chemicals never before measured in the air of the Western Hemisphere.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T14:30:14.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-mysterious-toxic-chemicals-floating-in-the-air-above-america/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Scientists conducting atmospheric research in rural Oklahoma unexpectedly detected a toxic class of industrial chemicals never before measured in the air of the Western Hemisphere.",
+        "Toxic industrial chemicals used in everything from metalworking fluids to plastics have turned up in an unexpected place: the air above rural Oklahoma farmland.",
+        "Researchers detected medium-chain chlorinated paraffins (MCCPs) in the region while investigating an entirely different atmospheric process, marking the first reported detection of these pollutants in North American air.",
+        "The University of Colorado Boulder researchers identified the pollutants during a 2023 field campaign near Lamont, Oklahoma. Their findings, published in ACS Environmental Au , also reveal how atmospheric MCCP concentrations fluctuate with temperature.",
+        "Using a nitrate chemical ionization mass spectrometer, the team continuously monitored air at an agricultural site for nearly a month. While examining the chemical signatures in the measurements, CU Boulder chemistry PhD student Daniel Katz noticed unusual isotopic patterns that he eventually identified as MCCPs.",
+        "“It’s very exciting as a scientist to find something unexpected like this that we weren’t looking for,” said Katz, the study’s lead author. “We’re starting to learn more about this toxic, organic pollutant that we know is out there, and which we need to understand better.”",
+        "The instrument detected 18 groups of gaseous MCCPs. Their estimated average concentration was approximately 3. 1 nanograms per cubic meter, although the researchers consider this a lower-bound estimate. Concentrations were substantially higher than those reported in remote polar regions, suggesting nearby sources may be contributing to the pollution.",
+        "The researchers also observed a consistent daily cycle: gaseous MCCP concentrations increased during warmer daylight hours and declined at night. Their analysis suggests that temperature controls how these chemicals move between the gas phase and airborne particles, potentially affecting how long they remain in the atmosphere and how far they travel.",
+        "MCCPs are widely used in metalworking fluids, PVC manufacturing, and textiles. They can enter wastewater and accumulate in sewage sludge, which is sometimes processed into biosolid fertilizer and spread on agricultural fields. Researchers suspect this practice could explain some of the pollution detected in Oklahoma, although they have not confirmed its source.",
+        "“When sewage sludges are spread across the fields, those toxic compounds could be released into the air,” Katz said. “We can’t show directly that that’s happening, but we think it’s a reasonable way that they could be winding up in the air. Sewage sludge fertilizers have been shown to release similar compounds.”",
+        "MCCPs are chemically related to short-chain chlorinated paraffins (SCCPs), which have faced restrictions because of their toxicity, environmental persistence, and potential to accumulate in living organisms. The U. S. Environmental Protection Agency began regulating SCCPs in 2009, and the Stockholm Convention added them to its list of persistent organic pollutants in 2017.",
+        "Researchers suspect restrictions on SCCPs may have encouraged greater use of MCCPs as substitutes, potentially increasing their environmental presence.",
+        "“We always have these unintended consequences of regulation, where you regulate something, and then there’s still a need for the products that those were in,” said Ellie Browne, CU Boulder chemistry professor, CIRES Fellow, and study co-author. “So they get replaced by something.”",
+        "Although the team identified MCCPs in Oklahoma’s air, their exact source remains unknown. Wind measurements suggest several possible sources in the surrounding region, while the observed temperature fluctuations indicate that interactions with airborne particles influence their concentrations. The researchers also detected compounds consistent with products formed when MCCPs undergo atmospheric oxidation."
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "conversation-todays-thanksgiving-holiday-was-invented-amid-the-civil-wa",
+      "title": "Today’s Thanksgiving holiday was invented amid the Civil War to unite a divided country",
+      "dek": "It is hard to imagine a more American holiday than Thanksgiving. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T13:38:29.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/todays-thanksgiving-holiday-was-invented-amid-the-civil-war-to-unite-a-divided-country-289016"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "It is hard to imagine a more American holiday than Thanksgiving. Every year, elementary schoolers learn about the first celebration: that after surviving a terrible year, New England’s first European immigrants, the Pilgrims, invited their Indigenous neighbors to a feast in gratitude for their help and God’s providence.",
+        "Children learn the story as if it were history – and as though Americans have commemorated Thanksgiving the same way ever since. The only existing eyewitness account of this event does not, however, say much about what was eaten. A slightly later account of the 1621 harvest mentions seasonal food such as venison, corn – and, yes, turkeys.",
+        "The idea of a straight line connecting that “first Thanksgiving ” to Thanksgivings today is, in fact, an American myth. It is a story created in the 19th century to unify a nation and long used to assimilate new immigrants into it.",
+        "The Pilgrims and Puritans, who started arriving in Massachusetts shortly afterward, regularly held fasts and feasts . On fast days, the community atoned for sins they believed they had committed. On feast days, they gave thanks to God. Some governors of colonies – and later, states – declared fall holidays of thanksgiving , but did not coordinate with each other.",
+        "The Thanksgiving that we know, with the traditional recipes and the close connection to the Pilgrims, was largely the creation of one woman: Sarah Josepha Hale , who was born in New Hampshire in 1788. In the 1830s she became the editor of Godey’s Lady’s’ Book , which had the largest circulation of any U. S. magazine before the Civil War.",
+        "Godey’s included clothing patterns, recipes, articles on home management, essays on educating children, recipes and fiction. Hale believed that the woman was the heart of the home and responsible for creating an upstanding, God-fearing, wholesome family.",
+        "She was also deeply committed to her young country and believed that homemakers could help create its national identity. According to historian Elizabeth Pleck , Hale began publishing editorials calling for a national Thanksgiving , along with instructions for what the day could look like.",
+        "Godey’s taught readers how to celebrate the day, with recipes for seasonal food such as turkey and cranberry sauce. The centerpiece of the table was the pies, which featured elaborate pastry decorations: the Mayflower or a cornucopia, created out of pie crust. The full table was a celebration of “women’s work,” at a time when the Industrial Revolution was shifting the economy toward factories and other business , making the importance of unpaid domestic labor less obvious.",
+        "Hale’s idea of Thanksgiving also emphasized returning to loved ones, as those factories were drawing many workers away from home. She saw it as a day to tell family stories – and the story of the nation, starting with the first Thanksgiving.",
+        "Hale petitioned five presidents to declare Thanksgiving a national holiday. Abraham Lincoln finally took her up on it, hoping that a national holiday emphasizing the country’s origin story would prove uniting during the Civil War.",
+        "Northern women sent pies to the families of soldiers and turkeys to the men at the front. Pleck notes that abolitionist Sojourner Truth went door to door , collecting funds to provide Thanksgiving dinners to African American troops.",
+        "The holiday caught on gradually . Given the Protestant origins of early Americans’ feast and fast days, Catholics were slow to embrace it. Given its association with Lincoln and the war, the South was also late to adopt it. And given the day’s emphasis on family, it was less celebrated on the frontier, where single men dominated.",
+        "Wherever Thanksgiving was celebrated, however, Godey’s Lady’s Book taught Americans how to celebrate it. The magazine’s op-eds connected the holiday menu and the past, using the Pilgrims’ courage to inspire 19th-century Americans dealing with massive changes in their own lives: war, industrialization, urbanization and the frontier.",
+        "Before long, Thanksgiving was also seen as a way to assimilate immigrants.",
+        "This vision was, in part, popularized by political cartoonist Thomas Nast . “ Uncle Sam’s Thanksgiving Dinner ,” which appeared in Harper’s Weekly in 1869, depicted Americans from any number of races and ethnicities in their national dress: men, women and children sitting as equals around a dinner table, with portraits of presidents on the wall, while Uncle Sam carved a turkey.",
+        "The image suggested that immigrants could be incorporated into the nation – and formerly enslaved people, too. It was printed just one year after the 14th Amendment granted citizenship to anyone born in the U. S. and four years after the 13th Amendment formally ended slavery.",
+        "Nast’s image contrasted sharply to another cartoon, also called “ Uncle Sam’s Thanksgiving Dinner ,” that G. F. Keller drew for the San Francisco Wasp eight years later. Keller’s disheveled and entirely male collection of diners each ate their own national food, or offensive stereotypes thereof, suggesting immigrants could never truly become American.",
+        "But many Americans believed they could – although they demanded most immigrants give up their “Old World ways” and take on customs of their new country. Thanksgiving was part of the engine of that assimilation.",
+        "In the early 20th century, public schools taught about Thanksgiving and sent children home with recipe cards so that their parents could cook the same kinds of recipes Hale had popularized in the previous century. Schools framed the Pilgrims and their first Thanksgiving as the spiritual, if not literal, ancestors of all Americans: the first “immigrants.” They didn’t dwell on how the Pilgrims’ arrival looked more like colonization than immigration.",
+        "The holiday became a way to include newcomers in the national myth. By the 1920s, in fact, Thanksgiving was the most celebrated holiday in public schools . Pleck quotes one Jewish immigrant reflecting on his childhood and saying the Pilgrims were a way to connect “us offspring of Jewish immigrants – our own exiled fathers who had crossed the seas – and the traditions of Protestant America .” Students acted out the first Thanksgiving and were told they belonged to a “nation of immigrants.”",
+        "While some immigrant parents rejected the holiday, others embraced it, with spins to make it their own. Many served a turkey surrounded by the celebratory dishes of their own cultures. For Jews, the early 1900s invention of Crisco as a nondairy butter substitute allowed them to create a truly “American” Thanksgiving and dessert, without violating kosher rules against mixing meat and milk.",
+        "The fact that most families celebrate at home allowed immigrants and their children to take part in the national culture, while still expressing their own. During my own New England childhood, an Indian neighbor had my mother’s fairly classic cranberry relish, and by the end of the weekend she’d worked out a cranberry chutney with Indian spices. When we had Thankgiving dinner with my parents’ friends the Stalzmans, who were Jewish, matzah ball soup was the opening course.",
+        "At times, the idea of the Pilgrims arriving on the Mayflower has been used to exclude – to imply that only Americans whose literal ancestors came over on the ship , and other white Protestants like them, truly belong. Yet on the holiday in their memory, generations of new Americans affirmed that they, too, belonged.",
+        "Samira Mehta receives funding from the Henry Luce Foundation. I serve on the Jewish Life Committee of the Rose Community Foundation."
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "conversation-how-the-us-power-rivalry-with-russia-and-china-is-turning-",
+      "title": "How the US power rivalry with Russia and China is turning outer space into the next battlefront",
+      "dek": "U. S. Air Force Secretary Troy Meink recently confirmed that the United States has weapons deployed in Earth’s orbit . To date, the U. S. ",
+      "category": "科学",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T13:36:29.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/how-the-us-power-rivalry-with-russia-and-china-is-turning-outer-space-into-the-next-battlefront-293414"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "U. S. Air Force Secretary Troy Meink recently confirmed that the United States has weapons deployed in Earth’s orbit . To date, the U. S. Space Force , the space service branch of the U. S. armed forces, has provided relatively few details about what these weapons are or what they can do except that they are what Meink called “on-orbit space control weapons.”",
+        "Meink’s announcement is significant, but not necessarily because the U. S. is the first country to place weapons in orbit. For years, the U. S. , Russia and China have accused each other of developing and testing such capabilities, although none has publicly acknowledged deploying space weapons – until now.",
+        "We are scholars of space law and governance , and our research illustrates the challenges of uniting diverse groups to establish norms related to the use of resources, safety zones and conflict prevention in new domains such as space. Without better communication and deeper coordination between the world’s space powers, we could witness the beginning of a space arms race.",
+        "In 1981, the United Nations added the Prevention of an Arms Race in Outer Space, known as PAROS , to its agenda.",
+        "More than four decades of diplomatic efforts under PAROS have produced meager results , though there was a United Nations agreement in 2024 that made progress on reducing threats.",
+        "Despite many countries’ proclamations supporting space arms control , no multilateral treaty banning weapons in space has been adopted. With global arms control generally in retreat , and the apparent lack of political will among the three major space powers, efforts to control space weapons have reached an impasse.",
+        "The question increasingly is not whether an arms race in space can be prevented, but how it will be managed.",
+        "The Outer Space Treaty of 1967 , to which all major space powers are parties, is often described by scholars, practitioners and policymakers as the constitution of outer space.",
+        "Article IV of the treaty remains the only legally binding international provision specifically regulating weapons in outer space. The article prohibits countries from placing nuclear weapons or other weapons of mass destruction in orbit around Earth. It also imposes a broader prohibition on military activities on the Moon and other celestial bodies, including establishing military bases, testing weapons and conducting military maneuvers.",
+        "However, the article does not prohibit conventional weapons in Earth’s orbit. That omission is significant. The treaty can be understood as implicitly permitting what it does not prohibit : the placement of such weapons in orbit.",
+        "China has used these ambiguities as cover for its own space weaponization efforts. In a 2007 test, China destroyed one of its own satellites while in orbit, and it has recently deployed a mysterious space plane .",
+        "China, nonetheless, reacted critically to the recent U. S. weapons announcement. In September 2026, it urged Washington to stop expanding its military presence in space . That same month, Russia renewed calls for the demilitarization of outer space .",
+        "Both countries have long advocated stronger international restrictions on space weapons. Russia and China twice jointly proposed a treaty prohibiting the placement of weapons in outer space . The U. S. opposed the proposals in 2014, pointing to their failure to also cover important ground-based, anti-satellite weapons.",
+        "But Russian and Chinese declarations in favor of keeping weapons out of space sit uneasily alongside their own activities.",
+        "In 2020, U. S. Space Command, part of the Defense Department, accused Russia of testing a space-based anti-satellite weapon after an orbiting Russian satellite released a projectile. Russia said the spacecraft was performing an inspection mission.",
+        "In 2024, the United States said Russia had launched another satellite, Cosmos 2576, which it assessed to be a “counter space” weapon capable of attacking other satellites .",
+        "China has similarly demonstrated increasingly sophisticated operations in orbit. Five Chinese spacecraft conducted satellite flybys in 2024, an exercise that a senior U. S. Space Force officer later described as practicing “dogfighting in space.”",
+        "None of this proves that every suspicious Russian or Chinese spacecraft is a weapon. Many technologies used for servicing, inspection and maneuvering around satellites are inherently dual-use. But it does put Moscow’s and Beijing’s calls to keep weapons out of space in perspective.",
+        "It also illustrates the security threat now taking shape. Washington can point to Russian and Chinese activities to justify its own weapons. Moscow and Beijing can now point to acknowledged U. S. weapons to help justify their actions, which could result in a self-fulfilling prophecy.",
+        "Space has been part of warfare for decades. The 1991 Gulf War has sometimes been called the first “space war” because of the unprecedented role satellites played in navigation, communications, intelligence and targeting. But satellites primarily supported military operations taking place on the ground.",
+        "That distinction has gradually eroded. NATO formally recognized space as a military theater in 2019 .",
+        "Russia’s 2022 invasion of Ukraine then demonstrated something different, in which the very definition of a weapon was challenged.",
+        "Hours before Russian troops crossed the border, a cyberattack disrupted the U. S. satellite network Viasat , in what was dubbed by commentators as the first “ space-cyber war .” Space-based services were no longer merely supporting military operations but were themselves deliberately targeted as part of a military campaign.",
+        "The acknowledgment of weapons in orbit represents another step in that evolution. Space assets are transitioning from systems that primarily support warfare in other domains to systems that can be weapons, targets and participants in combat and are often replete with vulnerabilities that could be exploited by an adversary."
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "conversation-the-stunning-transformation-of-the-southern-democratic-par",
+      "title": "The stunning transformation of the Southern Democratic Party, in one lifetime",
+      "dek": "Two of the biggest surprises of the 2026 election cycle were Democratic U. S. Senate victories in the Deep South. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T13:35:40.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/the-stunning-transformation-of-the-southern-democratic-party-in-one-lifetime-296566"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Two of the biggest surprises of the 2026 election cycle were Democratic U. S. Senate victories in the Deep South. In addition to Annie Andrews’ victory in South Carolina , Scott Colom won a close contest in Mississippi , a place that historian James Cobb called “ The Most Southern Place on Earth .”",
+        "Colom is not Mississippi’s first Black U. S. senator. Two Black Republicans represented the state during Reconstruction , when state legislatures still selected U. S. senators. But Colom is the state’s first popularly elected Black U. S. senator . He is also the first Democrat that Mississippians have sent to the Senate since 1982 .",
+        "It is tempting to read this change using a familiar political science term: party realignment . But as political scientists who study political campaigns and Southern politics , we see an equally important transformation in the electorate – the people who can cast votes.",
+        "Simply put, the Democratic Party in the South was transformed from a party that defended white supremacy and Black disenfranchisement into one in which Black voters became a central constituency . The Democrats who held Mississippi’s Senate seats for the majority of the 20th century were chosen by an electorate built to exclude Black citizens. Colom was elected by a dramatically different electorate and represents a very different Democratic Party.",
+        "To understand the magnitude of the change in Mississippi, it helps to look at the Democrats who came before Colom, what they stood for, and the political power they wielded.",
+        "For a brief period after the Civil War, Black Mississippians exercised real political power. They were a majority of the state’s population and, with the right to vote, helped elect the state Legislature that sent Hiram Revels to the U. S. Senate in 1870 and Blanche Bruce in 1875 , both of them Black.",
+        "That period did not last. White Democrats regained control of Mississippi government in the 1870s, aided by political violence, intimidation and electoral fraud . In 1890, the state adopted a new constitution that used poll taxes, literacy tests and other restrictions to systematically disfranchise Black voters. Two years after the new constitution took effect, the percentage of Black men registered to vote had fallen to just 5. 4 percent .",
+        "The result fundamentally changed Mississippi politics. For the next several generations, the Democratic Party dominated a political system in which most Black Mississippians had little meaningful voice. Republican electoral victories were rare. One newspaper in 1963 claimed that the election of Lewis McAllister to the state House was the party’s first win in 43 years. Without a competitive general election, winning the Democratic primary often meant winning office, and the politicians who emerged from a one-party system made possible by Black disenfranchisement became some of the most powerful political figures in the state’s history.",
+        "What happened in Mississippi reflected a broader pattern across the South. In 1949, political scientist V. O. Key published his seminal study of the region, “ Southern Politics in State and Nation .” Key argued that the solid Democratic South rested on systematic disenfranchisement of Black voters.",
+        "The one-party system helped keep Black Southerners out of political power while allowing white Southern politicians to present a unified front against efforts to dismantle segregation and expand Black voting rights, particularly when those efforts came from the federal government. Mississippi was among the clearest examples of that system.",
+        "Before Colom, the last Democrat elected to the U. S. Senate from Mississippi was John Stennis in 1982 . He first won election in 1947, filling the seat of Theodore Bilbo , who had won reelection in 1946 after a campaign in which he urged white Mississippians to keep Black voters away from the polls . Stennis won a 1947 special election with 52,068 votes in a state of 2. 2 million people. He held that seat for 41 years.",
+        "Throughout much of his career, Stennis was an ardent segregationist . In 1956, he was one of 101 members of Congress from the South who signed what was called the “ Southern Manifesto .” In that statement, these lawmakers denounced the Supreme Court’s decision in Brown v. Board of Education , in which the justices ruled that the “separate but equal” standards of racial segregation were unconstitutional; Stennis and the other signatories pledged resistance to school desegregation.",
+        "Later in his Senate career, Stennis was the only Southern Democrat who voted to oppose the creation of a national holiday honoring Dr. Martin Luther King, Jr.",
+        "Stennis’ Senate colleague for much of his tenure, Mississippi Democrat James Eastland , was an equally staunch defender of segregation. A cotton planter from the Mississippi Delta, he was appointed to the Senate in 1941 and won the seat outright in 1942 . He remained in the Senate until 1978.",
+        "The day after the Supreme Court handed down its 1954 decision in Brown v. Board of Education, Eastland was quoted saying , “the South will not abide by nor obey this legislative decision by a political court.”",
+        "Recent attention has understandably focused on Stennis, the last Democrat to represent Mississippi in the Senate. When Colom takes office, he will occupy the Senate seat once held by Eastland and Democrat James Vardaman , who said that “if it is necessary every Negro in the state will be lynched; it will be done to maintain white supremacy.”",
+        "One-party rule also gave Mississippi’s senators unusual power. With little electoral competition, they could remain in office for decades. In a Senate where seniority mattered, longevity translated into influence.",
+        "Eastland, for example, chaired the Senate Judiciary Committee for more than two decades, giving him enormous influence over civil rights legislation. During his chairmanship of the powerful committee, that committee became known as “the graveyard of civil rights legislation,” according to the Senate’s website.",
+        "The Voting Rights Act of 1965 helped dismantle the electoral system that had sustained these men in office. Before it, fewer than 10% of Black Mississippians were even registered to vote . Within a few short years, a majority were.",
+        "Black voters increasingly aligned with the Democratic Party as its national leaders embraced civil rights, even while many Democratic officeholders in Mississippi continued to defend segregation. That meant Black voters sometimes supported incumbent white segregationists . The party’s voters changed faster than many of its candidates did.",
+        "The 1978 election for the seat Colom will hold illustrates how complicated that transition could be. After Eastland retired, Charles Evers, brother of slain civil rights leader Medgar Evers, ran as an independent and drew nearly a quarter of the vote . His candidacy split the traditionally Democratic vote, helping Republican Thad Cochran win with a mere plurality.",
+        "By the 21st century, white Mississippians overwhelmingly supported Republican candidates, and Republican dominance had replaced the old Democratic dominance in most statewide elections.",
+        "That pattern made Colom’s victory all the more striking . He won with overwhelming support from Black voters while also attracting enough white voters to build a winning statewide coalition.",
+        "The contrast with Mississippi’s old Democratic coalition could hardly be sharper. The Democratic Party of Vardaman, Bilbo, Eastland and Stennis maintained its power in part by keeping Black Mississippians away from the ballot box with violence and Jim Crow laws."
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
