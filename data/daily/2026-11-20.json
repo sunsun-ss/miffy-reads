@@ -1,0 +1,1129 @@
+{
+  "generatedAt": "2026-11-20T00:20:58.002Z",
+  "date": "2026-11-20",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-ai-companions-could-help-reduce-loneliness-study-finds",
+      "title": "AI companions could help reduce loneliness, study finds",
+      "dek": "AI companions could help reduce loneliness by creating a greater sense of belonging and improving self-esteem, according to new research from Durham University Business School.",
+      "category": "科技",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-20T00:20:06.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-ai-companions-loneliness.html"
+      },
+      "cover": "bulb",
+      "accent": "blue",
+      "paragraphs": [
+        "AI companions could help reduce loneliness by creating a greater sense of belonging and improving self-esteem, according to new research from Durham University Business School.",
+        "However, the researchers warn that safeguards are needed and that AI companions should complement human relationships.",
+        "The research, led by associate professor Varqa Shamsi Bahar alongside colleagues from Cardiff University and The University of Manchester, explored why some AI companions appear to help people feel less lonely. The research is published in the journal Psychology & Marketing .",
+        "The researchers found that the benefits depend on whether users see an AI companion as attentive, nonjudgmental and responsive to their needs.",
+        "They introduce the concept of \"synthetic mindfulness\" to describe this experience.",
+        "Across five studies involving 1,447 participants in the U. K. and U. S. , the researchers examined how people use AI companions and experience their interactions with them.",
+        "The findings suggest that synthetically mindful AI companions can reduce loneliness in two ways.",
+        "Together, these experiences were associated with lower levels of loneliness.",
+        "The researchers suggest AI companions could be particularly useful during periods of temporary loneliness caused by changing life circumstances.",
+        "This could include moving somewhere new, experiencing difficulties at work or in relationships, or feeling disconnected from those around you.",
+        "AI companions can offer personalized responses and a space where people feel able to discuss concerns without judgment.",
+        "Deep attachments to AI companions could blur the boundaries between artificial and human relationships, the researchers add.",
+        "In some cases, users may begin to favor AI companionship over relationships with other people, potentially increasing social isolation.",
+        "The researchers stress that AI companions should therefore complement, rather than replace, meaningful human relationships."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "phys-q-a-making-hydrogen-peroxide-without-using-precious-metals",
+      "title": "Q&A: Making hydrogen peroxide without using precious metals",
+      "dek": "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-20T00:20:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-qa-hydrogen-peroxide-precious-metals.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "Hydrogen peroxide is used in many industrial processes, with several million tons of it being manufactured worldwide every year. Whereas the standard production method requires rare precious metals, chemists from Rutgers University–Newark in the US and the University of Bonn have now described an alternative technique that does away with these metals, making it potentially cheaper and more sustainable. Their findings have now been published in the journal Nature Communications . In the following interview, the authors describe the technology.",
+        "Hydrogen peroxide (H₂O₂) is an important basic chemical that is produced in large quantities all over the world. Among other things, it's used to bleach paper and treat water and as an oxidizing agent in numerous industrial processes. At these scales, it's largely produced using the anthraquinone process, which has been around for decades and which typically uses palladium as a catalyst. But palladium is a rare precious metal, so there's a lot of interest in alternative manufacturing methods that avoid any (precious) metals and hydrogen gas.",
+        "In our joint research project, we looked at a new way to make hydrogen peroxide using a molecular electrocatalyst that needs no metals or hydrogen gas. Instead, we use oxygen, an electric current and a proton source. The University of Bonn team led by Dr. Andreas Hansen and his doctoral student Tim Schramm used quantum chemical calculations to explain how this unusual reaction plays out at an atomic level.",
+        "Our results show that it's possible in principle to use a metal-free molecular electrocatalyst to make hydrogen peroxide efficiently and highly selectively. More than 99% of the electric charge that was applied was used to create the desired product, and the catalyst also achieved very high turnover frequencies.",
+        "In the long term, an approach like this has significant potential to remove the need for precious metals or hydrogen gas, which is flammable. However, there are still some fundamental challenges to overcome with further development steps before the technique might be suitable for industrial application.",
+        "Our experimental partners professor Demyan Prokopchuk and his doctoral student Sanju Luhach from Rutgers University—Newark studied a class of nitrogen-rich organic compounds known as Cp N3 molecules. Astonishingly, a carbon-hydrogen bond inside one of these ligands is just as strong as the oxygen-hydrogen bond inside the hydroperoxyl radical (HO₂•), an important intermediate in the reaction of oxygen to form hydrogen peroxide. We exploited this weak C-H bond to transfer hydrogen to oxygen and convert it into hydrogen peroxide in a selective process.",
+        "At the University of Bonn, we used quantum chemical methods to investigate potential reaction pathways, intermediates and transition states. A comparison with experimental data allowed us to rule out competing reaction pathways and thus identify the most likely reaction mechanism in this catalytic process.",
+        "Our calculations support an unusual mechanism known as the \"radical rebound,\" where the hydroperoxyl radical (HO₂•) that is initially formed following the hydrogen transfer binds to the catalyst again (\"rebound\") before hydrogen peroxide (H₂O₂) is released in subsequent reaction steps. What's remarkable is that this kind of reaction pathway has mainly been observed in transition-metal complexes. In other words, here you have a purely organic molecule exhibiting behavior that's reminiscent of a metal catalyst in key respects.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "First of all, the stability and lifespan of the catalyst need to be tested and improved to handle longer operating times and a larger scale to produce hydrogen peroxide. Another important thing that we want to do is to perform the reaction in water, which is a particularly attractive option because it's an environmentally friendly solvent and proton source.",
+        "To this end, our team in Bonn will be doing calculations to investigate other versions of the catalyst and predicting what structural modifications could improve the process. Our experimental partners will then be able to run targeted checks on these suggestions in the lab. By integrating calculations and experiments closely in this way, the aim is to speed up the development of catalysts that are ready for practical application."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-can-ai-save-peer-review-from-ai",
+      "title": "Can AI save peer review from AI?",
+      "dek": "Academic journals are flooded with papers. At publishing giant Elsevier, the number of submissions rose 56% in just three years— from 2. 7 million in 2022 to 4. 2 million in…",
+      "category": "科技",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-20T00:10:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-ai-peer.html"
+      },
+      "cover": "bulb",
+      "accent": "blue",
+      "paragraphs": [
+        "Academic journals are flooded with papers. At publishing giant Elsevier, the number of submissions rose 56% in just three years— from 2. 7 million in 2022 to 4. 2 million in 2025 . That's a lot more papers. And peer reviewers, who generally volunteer their time, were already stretched thin.",
+        "While AI is almost certainly fueling the surge, it is also, as you might suspect, changing the peer review system itself. In October, Springer Nature and Google DeepMind announced plans for an AI assistant to help reviewers. Meanwhile, a working paper from researchers at Harvard says that AI-generated reviews can outperform even top human reviewers.",
+        "Zhe Zhang, an assistant professor of innovation, technology and operations at UC San Diego's Rady School of Management, thinks it's time for journals to take charge of how AI is used in peer review. In a recent Management Science paper , he and colleagues propose an AI-based approach that could ease the burden on reviewers without sacrificing scholarly judgment.",
+        "Zhang: It's too early to say if AI can save peer review. But we think it's worth trying.",
+        "AI is making it much easier to do research, analyze data and write papers . That's not necessarily a bad thing. Yet some of those papers may look plausible without being very good.",
+        "The challenge for peer review is distinguishing what's good from what's bad—which AI makes more difficult both through sheer volume and by making weak papers more polished.",
+        "Then there's what we call \"shadow AI.\" Reviewers are using AI tools on their own, sometimes without disclosing it. That may help them work faster, but journals have little visibility into how AI is shaping those judgments.",
+        "Our proposal is to bring AI out of the shadows and into the process from the start. Rather than leaving reviewers to use AI independently or simply giving them an AI assistant, we'd have journals use their own customized AI reviewer, tailored to their standards, to assess papers as soon as they're submitted.",
+        "Crucially, authors would get the first chance to respond—correcting the AI's mistakes, clarifying points or addressing legitimate concerns. Human reviewers would then receive the paper, the AI assessment and the authors' response.",
+        "This could free human reviewers from routine checks and allow them to focus on questions that require human judgment, like the originality and significance of the research.",
+        "Giving authors a voice is especially important to us. And by making the AI assessment visible to everyone involved, we can make the process more transparent and accountable.",
+        "But there's a risk. We rely on peer review because we want independent opinions. If everyone sees the same AI assessment , reviewers may become anchored to it. Instead of getting several independent judgments, we could end up with variations on the same opinion.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "That's one of the trade-offs we examine in our paper's mathematical model. Under certain conditions, AI could help journals make more accurate decisions with less human reviewer time—even when the AI itself isn't as good a reviewer as a human. But if reviewers rely too heavily on AI, those benefits could disappear."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "phys-mercury-bound-x-ray-telescope-delivers-first-images-after-",
+      "title": "Mercury-bound X-ray telescope delivers first images after eight years in space",
+      "dek": "The first data from a U. K. -built instrument heading to Mercury have provided observations of one of the brightest X-ray sources in the sky from aboard the ESA/JAXA…",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-20T00:00:10.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "The first data from a U. K. -built instrument heading to Mercury have provided observations of one of the brightest X-ray sources in the sky from aboard the ESA/JAXA BepiColombo spacecraft in the inner solar system.",
+        "A team led by the University of Leicester has been making calibration measurements with the Mercury Imaging X-ray Spectrometer (MIXS), one of the instruments on the two-spacecraft BepiColombo mission to Mercury, which begins its orbital insertion tomorrow (Nov. 21) in preparation for the final stage of arrival at our solar system's smallest planet.",
+        "After an eight-year journey, it is vital that the team checks how MIXS is performing. Although they have been monitoring the instrument during its trip, it was only in September, following the separation of the Mercury Transfer Module (MTM) from the joined science orbiters, Mercury Planetary Orbiter (MPO) and Mercury Magnetospheric Orbiter (MMO) or Mio, that MIXS could finally see into space for the first time and calibration measurements could be made before the orbit insertion sequence begins.",
+        "The Crab Nebula is 6,500 light-years away and a well-characterized astrophysical source of X-ray light. By observing it, the team can work out the performance characteristics of MIXS in space and compare these with calibration measurements made with the same instrument in the laboratory in 2015. These observations provide MIXS's first view of an astronomical X-ray source.",
+        "The main observation sequence consisted of 55 spacecraft slews, with 39 hours of observations during Sept. 11–12. Measuring how much the Crab Nebula's image is spread across MIXS's detector helps the scientists measure MIXS's angular resolution, or how sharply it will be able to distinguish features on Mercury's surface. They found this to be slightly better than when it was last measured in the lab in 2015.",
+        "Emma Bunce is principal investigator (PI) for the MIXS instrument and director of the Institute for Space at the University of Leicester.",
+        "Bunce said, \"We have waited a long time to make measurements with MIXS and it is fantastic to see it operating brilliantly in space. This is testament to our engineering and technical team, and our international partners who we have worked with over many years to build this incredible instrument. Eighty percent of the technology on MIXS is new!",
+        "\"During our calibration observations we have determined that MIXS is generally performing fantastically well in space! We have no effects in our images that are associated with 'stray light' (optical photons getting in when they should not). We continue to see effects of galactic cosmic rays as we did during cruise, but we understand these and can filter them out. We see some self-fluorescence which appears when the sun is illuminating the optic, but this won't affect our dayside observations of Mercury's surface. And the detector has suffered no radiation damage after eight years in space.",
+        "\"We see some effects in the instrument that we are still studying and expect to undertake some optimization procedures during the Mercury commissioning phase to fine-tune MIXS in preparation for the science phase.\"",
+        "The BepiColombo mission will study all aspects of Mercury—the smallest and least explored terrestrial planet in our solar system—and scientists hope its data will improve our understanding of both the origin and evolution of a planet located close to its parent star and the overall evolution of our solar system.",
+        "MIXS is aboard the mission's Mercury Planetary Orbiter (MPO) and was developed by a Europe-wide consortium led by the University of Leicester. Born from Leicester's expertise in X-ray astronomy, MIXS is the first imaging X-ray telescope operating on a planetary science mission, and it will work with other instruments to produce a global map of Mercury's surface atomic composition in unprecedented detail. MIXS is the only U. K. -led science instrument on the BepiColombo mission and is supported by the UK Space Agency.",
+        "MIXS has been developed to analyze the surface composition of Mercury by measuring fluorescent X-rays, emitted by the surface rocks after stimulation by high-energy solar X-rays, with the help of the Solar Intensity X-ray and particle Spectrometer (SIXS). MIXS will also investigate the connection between Mercury's space environment and the surface by observing X-rays on the nightside of the planet, produced by magnetospheric particles."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-pac-man-capsules-that-gobble-up-particles-in-turbulent-wat",
+      "title": "'PAC-MAN' capsules that gobble up particles in turbulent water show promise for filtration and drug delivery",
+      "dek": "Scientists have created hollow capsules with single openings that can selectively filter particles thanks to the turbulence in surrounding waters—at times, ingesting…",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-19T23:40:09.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-pac-capsules-gobble-particles-turbulent.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Scientists have created hollow capsules with single openings that can selectively filter particles thanks to the turbulence in surrounding waters—at times, ingesting particles like PAC-MAN eating up dots.",
+        "These capsules—which rely on geometry and turbulence to take in or expel particles rather than chemistry—can be customized in a range of sizes that could be leveraged for cleaning up water or for targeted drug delivery, according to the research published in Science .",
+        "Turbulence is characterized by irregular, chaotic movement of liquid or gas that occurs at all different scales, from cream swirling into a cup of coffee to whirlpools that form at river rapids.",
+        "\"Turbulence is usually thought of as pure chaos: it mixes, scatters and wastes energy. We asked whether that chaos could be put to work,\" said Stefano Sacanna, professor of chemistry at New York University, who co-led the research with William Irvine, professor of physics at the University of Chicago.",
+        "The researchers hypothesized that they could harness the energy of turbulence using structures that separate the chaos from a quieter environment. To do so, they fabricated hollow polymer capsules, each with a single hole, and placed the capsules in liquid that was stirred or shaken to create turbulence. The capsule walls shielded the interior from the swirling flow, creating a safe harbor that the researchers dubbed a \"turbulence shelter.\" Only swirls smaller than the hole can get in, so the inside stays calm while the outside churns.",
+        "When the researchers added small particles to the turbulent water, the asymmetry in these two environments—the calm pocket surrounded by chaos—turned the opening in the capsule into a selective gate that allowed certain particles to enter or exit, depending on the turbulent flow and the size of the hole.",
+        "\"Inside the capsule, it's fairly calm. But outside, the environment is raging,\" explained Irvine. \"This creates a gradient, so particles flow, and functions emerge.\"",
+        "\"The shells don't fill up randomly. Depending on how well a particle fits the hole, a shell either gobbles particles up until it is packed full or keeps them out almost completely,\" added Sacanna. \"Because the hungry ones look like little PAC-MANs, we call this the PAC-MAN effect.\"",
+        "When the researchers adjusted the size of the hole in a capsule to make it larger or smaller, it altered the amount of turbulence that could enter the shelter, and as a result, the particles that were allowed in or out.",
+        "\"This selectivity doesn't require chemistry, and the capsule is not a sieve. Particles that would slip easily through the hole can be kept out, while ones that barely fit get packed in. The capsule reshapes the turbulence at its opening, and that decides which particles end up inside,\" said Sacanna.",
+        "Would the selective filtration work just as well with a pea-sized capsule and a microscopic one smaller than a red blood cell? To test this, the researchers replicated the experiment with hollow capsules at three different scales: 1 centimeter, 1 millimeter and 5 micrometers. The centimeter and millimeter capsules were fabricated at the University of Chicago using specialized 3D printers, while the smallest of capsules were created using synthetic methods in Sacanna's lab.",
+        "When the capsules were submerged in turbulent water, they all took in or dispensed particles relative to the size of the capsule's hole.",
+        "\"This PAC-MAN effect manifests in all three systems, spanning from microscopic to macroscopic scales—the same simple design works throughout,\" said Sacanna.",
+        "Adjusting the geometry of all three capsules—both the size of the opening and the thickness of the shell—allowed the researchers to \"tune\" the system to filter in or out different-sized particles. With centimeter-sized shells, changing the hole size by less than 10% was enough to switch a shell from collecting particles to rejecting them. And in much smaller capsules, the shells could tell particles apart by size or density, taking in only certain ones."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-britain-should-treat-healthy-seas-as-essential-infrastruct",
+      "title": "Britain should treat healthy seas as essential infrastructure, say scientists",
+      "dek": "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-19T23:40:02.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-britain-healthy-seas-essential-infrastructure.html"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "Researchers are calling for lasting investment in healthy seas to support food security, protect coastlines and strengthen economic resilience.",
+        "They say governments should give the protection and recovery of marine ecosystems the same long-term commitment they give to other essential infrastructure.",
+        "In a new paper in the journal Nexus , researchers from Swansea University, Project Seagrass and King Abdullah University of Science and Technology (KAUST) warn that damage to marine life threatens the food supplies, coastal protection and livelihoods that healthy seas support.",
+        "They call for ocean recovery to become part of long-term government planning, backed by investment that lasts beyond elections and individual funding programs.",
+        "Lead author Dr. Richard Unsworth, associate professor at Swansea University and chief scientific officer at Project Seagrass, said, \"We plan roads and energy networks for decades. We need that same long-term thinking for the living systems that support our food, coastlines and climate.",
+        "\"When marine ecosystems deteriorate, the consequences reach well beyond wildlife. Protecting them is an investment in the security and well-being of communities.\"",
+        "Drawing on existing research, the paper examines how environmental decline, political instability and economic pressures interact. Warming seas and other pressures are damaging marine ecosystems, while weakening international cooperation and uncertainty over funding make sustained recovery harder to achieve.",
+        "For an island nation such as the U. K. , the argument connects the health of marine habitats with decisions about fisheries, coastal protection and public spending. Seagrass meadows, salt marshes and other coastal ecosystems support benefits that the authors say must be recognized in how governments plan and invest. The researchers also call for a stronger focus on whether conservation is delivering recovery. Targets for the area protected or restored remain useful but must be accompanied by evidence that ecosystems are becoming healthier.",
+        "Unsworth said, \"We cannot judge success simply by drawing a boundary on a map or counting how many hectares we have planted. We need to know whether marine life is recovering, whether habitats are supporting fisheries and whether coastal communities are seeing the benefits.",
+        "\"That means investing in monitoring and being open about what is working and what needs to change.\"",
+        "The authors want sustained public and private investment, restoration focused on places where recovery is scientifically realistic, and coastal communities involved in shaping decisions from the outset.",
+        "The paper highlights seagrass ocean rescue in West Wales as an example of restoration developed with community involvement. The researchers argue that conservation is more likely to endure when local people help shape it and share in its benefits.",
+        "They stress that funding must support the time needed for ecosystems to recover, including continued management and monitoring after the initial intervention."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "scitechdaily-scientists-discover-that-producing-light-more-slowly-could",
+      "title": "Scientists Discover That Producing Light More Slowly Could Improve Future Quantum Networks",
+      "dek": "Getting the right light for future quantum networks may depend on what scientists prevent from being emitted, an approach that nearly tripled the share of desired photons.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-19T20:49:33.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/scientists-discover-that-producing-light-more-slowly-could-improve-future-quantum-networks/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Getting the right light for future quantum networks may depend on what scientists prevent from being emitted, an approach that nearly tripled the share of desired photons.",
+        "Future quantum networks may one day allow quantum computers and other devices to exchange information through individual particles of light, known as photons. Making that possible requires reliable sources of photons with carefully controlled properties. One challenge is their frequency, which determines the kind of light they produce. A source can emit photons at several frequencies, leaving only a fraction suitable for the intended connection.",
+        "Scientists have traditionally addressed this problem using tiny optical structures called resonators. These structures influence a photon source so that it emits more light at a particular frequency. Although effective, resonators work within a narrow frequency range and must be precisely tuned to each source, making it difficult to use multiple sources together.",
+        "Researchers at the Technical University of Munich (TUM) and the Munich Center for Quantum Science and Technology (MCQST) have now demonstrated a different approach. Rather than encouraging a source to produce more light at the desired frequency, they change its surroundings to suppress the frequencies they do not want.",
+        "The team uses structures called photonic crystal waveguides, which contain carefully arranged patterns on a nanometer scale. These patterns control the pathways through which light can be emitted, blocking unwanted frequencies while allowing the desired ones to remain.",
+        "In initial experiments using erbium, an element already used in fiber-optic technologies, the researchers increased the proportion of photons emitted at the desired frequency from about 23% to around 72%. Previously, achieving comparable results required much more complex resonator systems.",
+        "The waveguides also offer greater flexibility. Their larger size allows multiple photon sources, known as emitters, to operate simultaneously within a single device, something that is much more limited with tiny resonators. Because the waveguides work across a broader range of frequencies, researchers can also select the desired frequency without having to precisely tune the structure to each individual emitter.",
+        "Another difference is that the new approach produces photons slightly more slowly, which can actually make them easier to manage.",
+        "“If photons are generated too quickly, it’s difficult for us to control their properties,” explains Andreas Reiserer, professor of quantum networks at TUM. “Our approach is therefore significantly better suited for many emitters than the resonators used to date.”",
+        "The findings could help researchers develop the interfaces needed to connect quantum devices over long distances. Such interfaces would have to convert information stored in a quantum system into individual photons that can travel through optical fibers.",
+        "Florian Burger, a doctoral student and the publication’s first author, sees the work as an early step toward that goal.",
+        "“Quantum networks are expected to connect many quantum systems with one another one day. This requires interfaces that can reliably transfer information from a quantum system to individual photons and then transmit them, for example, via optical fibers. Our work lays the foundation for this.”",
+        "Funded by the Federal Ministry of Education and Research (BMBF) and the Free State of Bavaria as part of the federal and state Excellence Strategy. This project was funded by the High-Tech Agenda Bavaria (HTA).",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "scitechdaily-a-new-light-powered-quantum-processor-could-overcome-a-maj",
+      "title": "A New Light-Powered Quantum Processor Could Overcome a Major Computing Barrier",
+      "dek": "A new light-based processor suggests future quantum computers could tackle very different problems without being rebuilt, while laying the groundwork for more reliable…",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-19T20:14:29.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-new-light-powered-quantum-processor-could-overcome-a-major-computing-barrier/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "A new light-based processor suggests future quantum computers could tackle very different problems without being rebuilt, while laying the groundwork for more reliable calculations.",
+        "Light has enormous potential for quantum computing, but one of its greatest strengths is also a major obstacle. Photons, the tiny particles that make up light, are excellent carriers of quantum information because they rarely interact with one another. Yet those interactions are essential for many of the calculations that quantum computers need to perform, making it difficult to build versatile machines using light alone.",
+        "Researchers from Imperial College London’s Department of Physics and collaborating institutions have developed a new approach that could help overcome this limitation. Their programmable quantum processor, called Clavina, combines different types of quantum operations in a single system, allowing it to tackle multiple computational tasks without requiring an entirely new hardware design.",
+        "The research, published in Nature Photonics , offers a promising direction for building more flexible light-based quantum computers, including systems that could eventually detect and correct their own errors.",
+        "Most photonic quantum processors are designed with a particular task in mind. Adapting them to solve another problem can require substantial changes to their hardware, limiting how easily the technology can evolve.",
+        "Clavina takes inspiration from ordinary computers, which use specialized components to handle graphics, artificial intelligence, and other demanding tasks. Instead of relying on one fixed arrangement, the new processor uses a central control unit to direct information through a programmable optical network and specialized modules.",
+        "The optical network handles linear operations, which manipulate light without requiring photons to interact. The additional modules provide nonlinear operations, expanding the kinds of calculations the system can perform. Because these components can be combined in different ways, researchers can change the processor’s functions without rebuilding it from scratch.",
+        "Dr. Sha n g Yu , the study’s lead author and a Marie Skłodowska-Curie Fellow at Imperial, said, “We set out to build a photonic quantum processor that provides a step change in functionality over our previous designs. Our new architecture ‘Clavina’ is scalable, modular and extensible, allowing different functional modules to be used depending on the computational task we wish to perform.”",
+        "To test what this flexibility could achieve, the researchers put Clavina to work on two very different challenges.",
+        "The first involved simulating the Bose-Hubbard model, a well-known problem in condensed matter physics that describes how quantum particles interact. These calculations involve many-body interactions, where the behavior of multiple particles must be considered together. Such simulations are challenging even for other quantum computing technologies, including superconducting quantum computers.",
+        "Dr. Jinzhao Sun of Queen Mary University of London explained, “The versatility of our hardware enables us to integrate nonlinear operations and linear operations. We use these operations to perform simulations involving many-body interactions, which are also restricted on superconducting quantum computers.”",
+        "The second demonstration addressed another major challenge facing quantum computing: keeping delicate quantum information safe from errors.",
+        "Quantum systems are vulnerable to noise and disturbances that can interfere with calculations. One possible solution involves creating specially structured quantum states that encode information in ways that make errors easier to detect and correct.",
+        "Among the most promising are Gottesman-Kitaev-Preskill (GKP) states. Producing these states has been difficult for light-based systems because earlier approaches worked probabilistically, meaning researchers could not reliably generate the required states whenever they needed them."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "scitechdaily-mysterious-radio-signals-from-5-000-light-years-away-lead-",
+      "title": "Mysterious Radio Signals From 5,000 Light-Years Away Lead Scientists to a Surprising Discovery",
+      "dek": "A dead star and its Sun-like companion have given astronomers an unexpected way to investigate mysterious radio pulses and detect stellar storms thousands of light-years away.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-19T19:39:27.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/mysterious-radio-signals-from-5000-light-years-away-lead-scientists-to-a-surprising-discovery/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "A dead star and its Sun-like companion have given astronomers an unexpected way to investigate mysterious radio pulses and detect stellar storms thousands of light-years away.",
+        "Mysterious radio signals have been appearing across the Milky Way, switching on and off over minutes or hours. Astronomers have found only about a dozen of these unusual sources, and one question has been especially difficult to answer: What is actually producing the pulses?",
+        "Now, a newly discovered star system more than 5,000 light-years away is offering an important clue. Known as GPM J071507−114153, it contains a white dwarf, the dense core left behind after a star dies, orbiting a companion remarkably similar to our Sun. The white dwarf spins once every eight minutes.",
+        "The discovery is unusual because astronomers have never before detected these radio pulses from a white dwarf paired with a Sun-like star. Previously identified systems producing similar signals have typically involved much smaller, cooler stars known as red dwarfs.",
+        "These mysterious sources belong to a class called long-period transients (LPTs). Since researchers at the International Center for Radio Astronomy Research (ICRAR) first discovered one in 2021, around a dozen have been identified. Several contain a white dwarf and another star, although astronomers have struggled to determine which one produces the radio signals.",
+        "Scientists at the Curtin University node at the International Centre for Radio Astronomy Research (ICRAR) have linked mysterious radio pulses to an unusual pairing of stars — a dead star that spins every eight minutes and a star similar to our own Sun. Credit: Natasha Hurley-Walker",
+        "In the newly discovered system, scientists finally had enough information to narrow down the source.",
+        "“This is the first time the pulses are clear enough to see the white dwarf moving in its orbit around its companion, so we know that the pulsations are coming from a region close to the white dwarf, or possibly even from the white dwarf itself,” said Dr Sam McSweeney, the study’s lead author and a commissioning scientist with the Square Kilometre Array Observatory.",
+        "McSweeney made the discovery while working as a researcher at the Curtin University node of ICRAR. To confirm and better understand the white dwarf’s movement, the team processed more than 100 hours of radio observations using computing resources at the Pawsey Supercomputing Research Center.",
+        "The radio pulses also revealed something unexpected about the white dwarf’s companion. Researchers detected evidence of stellar flares on the Sun-like star, similar to the activity associated with auroras here on Earth.",
+        "“As a bonus, we also saw the white dwarf moving behind a region with a strong magnetic field, most likely a ‘stellar prominence’, which is a large loop of plasma erupting from a star’s surface.”",
+        "The observation suggests astronomers can use radio signals to investigate magnetic activity on distant stars, even when those stars are thousands of light-years away.",
+        "“It’s amazing that by using radio wavelengths we can detect the storms on a star over 5000 light-years away.”",
+        "Both observations were described by Associate Professor Natasha Hurley-Walker, a co-author of the paper."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "conversation-a-doctors-guide-to-surviving-and-enjoying-holiday-feasting",
+      "title": "A doctor’s guide to surviving — and enjoying — holiday feasting while on GLP-1 medication",
+      "dek": "Thanksgiving and the winter holidays bring celebration, connection and plenty of opportunities to come together with family and friends.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-19T19:09:59.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp-1-medication-295301"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "Thanksgiving and the winter holidays bring celebration, connection and plenty of opportunities to come together with family and friends.",
+        "But the holiday season also brings something else: more food-centered gatherings, larger portions and richer foods than most people typically eat throughout the year. Think whipped sweet potatoes, mac and cheese, decadent side dishes and an abundance of desserts.",
+        "For people taking GLP-1 medications for diabetes management, weight loss or other medical reasons, these celebrations can present unique challenges. Changes in appetite, smaller portion tolerance, limits on alcohol consumption, medication side effects and the desire to maintain progress can make navigating holiday traditions feel a little different.",
+        "As a physician specializing in obesity medicine , I encourage my patients to view GLP-1 medications as an advantage during the holidays. These medications can help regulate appetite, improve awareness of fullness, and reinforce healthier eating behaviors during a season when food often takes center stage.",
+        "However, these medications don’t eliminate the possibility of overindulgence. In fact, patients who previously experienced little or no nausea due to GLP-1s may suddenly develop significant nausea or even vomiting after eating beyond their new comfort level. Nothing can derail a holiday celebration quite like an upset stomach. Accounting for how these medications affect your body can help you avoid uncomfortable surprises while still enjoying the foods and traditions you love.",
+        "Whether taken by injection or orally, GLP-1 medications have become increasingly popular worldwide for managing Type 2 diabetes , obesity and other chronic conditions. In the United States, approximately 1 in 10 adults used these drugs in 2025, and prescribing rates continue to climb.",
+        "GLP-1 medications work by reducing hunger, slowing stomach emptying and helping patients feel full sooner and stay full longer . Many patients also report fewer cravings for high-calorie foods and even a reduced desire to drink alcohol .",
+        "In many ways, these effects can make holiday food temptations easier to navigate. My patients often tell me that they already know which dietary changes they need to make, but GLP-1 medications help them put those changes into practice. They find it easier to stop eating when they’re satisfied, resist unnecessary snacking and avoid the constant thoughts about food that previously made weight management so challenging.",
+        "One of the most important things you can do during the holidays is to learn to recognize your body’s changing fullness signals . Pay attention to nausea, bloating and early fullness rather than pushing yourself to finish everything on your plate.",
+        "These symptoms can serve as reminders that you’ve reached your comfortable limit. The best plan is to enjoy smaller portions, eat slowly and pause between bites to give your body time to recognize fullness. Rich, high-fat foods in particular can worsen nausea and prolong the sensation of fullness. A few bites of your favorite dishes may be much more satisfying than an entire serving.",
+        "GLP-1 medications don’t make these decisions for you – but they can reinforce healthier behaviors.",
+        "Alcohol deserves special consideration during the holidays, when social gatherings and celebrations often revolve around drinking . Although you may have tolerated alcohol without difficulty in the past, GLP-1 medications can change your experience.",
+        "Some patients report that GLP-1 medications reduce their desire for alcohol altogether. For them, the holidays may represent their first opportunity to drink since starting treatment.",
+        "Alcohol can worsen nausea, acid reflux, dehydration and other gastrointestinal symptoms that some patients already experience while taking GLP-1 medications. If you choose to drink, consider these precautions:",
+        "Limit your intake. Start with less than you might have consumed before starting your medication.",
+        "Avoid drinking on an empty stomach. Eat beforehand, but avoid a particularly large or high-fat meal.",
+        "Pay attention to how you feel. Stop drinking if you experience nausea, dizziness or other unpleasant symptoms.",
+        "The safest approach is to be cautious and recognize that alcohol can aggravate medication-related gastrointestinal symptoms.",
+        "Holiday travel can disrupt established routines, medication schedules and access to prescriptions. A little planning can help prevent unnecessary interruptions in treatment.",
+        "Plan ahead for medication storage. Some injectable GLP-1 medications require refrigeration before use, while others allow room-temperature storage for a specified period after dispensing or first use. Storage requirements vary considerably by product. Check the prescribing information for your specific medication or ask your pharmacist before traveling. Don’t assume that all injectable medications can remain unrefrigerated for the same length of time.",
+        "If you’re flying, keep your medication and supplies in your carry-on luggage. This helps protect them from extreme temperatures and prevents problems if your checked luggage gets delayed or lost. Keep in mind that you might also need to have a note from your prescribing provider to carry them on.",
+        "Arrange prescription refills in advance. If you anticipate needing a refill while traveling, contact your pharmacy and prescribing clinician ahead of time. Prescribing and dispensing regulations can complicate obtaining medications in another state, so don’t wait until you run out.",
+        "Stick to your regular dosing schedule. Don’t take an extra dose or double up on medication to accommodate a holiday meal or try to suppress your appetite further. Taking more medication than prescribed can increase the risk of significant side effects and potentially cause an overdose . If travel disrupts your dosing schedule or you miss a dose, follow the instructions for your specific medication, or contact your prescribing clinician or pharmacist.",
+        "When in doubt, plan ahead and ask for guidance rather than making medication adjustments on your own."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "conversation-xi-putin-trump-summit-was-heavy-on-symbolism-light-on-subs",
+      "title": "Xi-Putin-Trump summit was heavy on symbolism, light on substance – and not exactly a Yalta II",
+      "dek": "It was touted as a history-making summit of the year. Presidents Donald Trump, Vladimir Putin and Xi Jinping sat down on Nov. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-19T18:43:22.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/xi-putin-trump-summit-was-heavy-on-symbolism-light-on-substance-and-not-exactly-a-yalta-ii-297087"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "It was touted as a history-making summit of the year. Presidents Donald Trump, Vladimir Putin and Xi Jinping sat down on Nov. 19, 2026, in Shenzhen, China, on the sideline of the Asia-Pacific Economic Cooperation summit , for the first such trilateral meeting of the three leaders.",
+        "Going into the talks, the trio had much to dicuss: the ongoing war in Ukraine , Middle East conflict and the march of artificial intelligence technology chief among them.",
+        "As an expert on U. S. -China relations at Harvard Kennedy School , I saw a lot of style, but less substance.",
+        "The first thing to pay attention to is the symbolism of the occasion. And so much of what was presented in Shenzhen was about the body language of the three men, their interactions and what that may indicate in regards to how they view themselves in a potentially new global order.",
+        "And this was on show even before the leaders sat down. At the beginning of the trip, when Trump landed in Shenzhen, he was met by Xi . Meeting a foreign leader at the airport is seen as a special honor bestowed by the Chinese president.",
+        "And then came a hug – that really was unprecedented. I haven’t seen the general secretary of the Chinese Communist Party hug anyone before – certainly not his Politburo comrades.",
+        "It was all choreographed, of course. But it continued into the summit itself. The picture of a big table with Trump, Putin and Xi there is also symbolic. And look who was in the middle: Xi. Here we have China presenting as the “Middle Kingdom ,” steadying the world. Whether that is an accurate depiction of China’s global presence is beside the point – it is how Xi would like Beijing to be seen.",
+        "In terms of policy, however, not much was actually done, but we did get a glimpse of what was on the three leaders’ minds.",
+        "So we had talk of reforming the U. N. – something all three agree needs to be done. In particular, China wants more power in the organization, while Trump has become increasingly disillusioned with the international body.",
+        "And there was also a lot of discussion on nuclear weapons controls . In fact, all three signed off on a document that made statements and aspirations – with fewer commitments – to tamping down nuclear threats. Interestingly, this was all based around a phrase that U. S. President Ronald Reagan and Soviet leader Mikhail Gorbachev first aired in 1985 : “Nuclear war cannot be won, must never be fought.”",
+        "All three leaders signed onto the phrase, although there was not an awful lot of substance on how nuclear controls would be implemented. The main treaties on the matter expired a while ago , and Beijing, which lags behind Washington and Moscow in regards to capacity, may have different thoughts on the matter.",
+        "The big thing not discussed in any substantive way was the wars raging in the domains of two of the three nations.",
+        "For Trump, that means Iran. Washington has not been able to bring the conflict in Iran to a conclusion some nine months after it began. The thinking going into the summit may have been that if China – or even Russia – were able to help pressure Iran and bring an end to the conflict, that would be encouraged.",
+        "But the spectacle of the U. S. not being able to end the war in Iran is not, I suspect, something that the Russians and Chinese are in a rush to bring to an end. In any case, neither appeared willing to give up a key card – assistance to Washington in the matter – in this meeting.",
+        "At the other end of that Eurasian spectrum is Ukraine. It was not mentioned by name at the summit. Besides the fact that the three leaders are not on the same side of the conflict, there is also the fact that Ukraine’s European allies were not in the room – and it would have been far too much for Europe for Trump to make news on Ukraine in the company of Putin and Xi.",
+        "Beyond those conflicts, AI regulation and critical mineral supply chains were not discussed by the three leaders. But that isn’t to say that those issues – crucial ones in the U. S. -China economic rivalry – were not brought up in the bilateral conversations that took place in Shenzhen. It may be that they were heard in these more discreet, private settings.",
+        "There were some immediate similarities with the Yalta Conference – the February 1945 summit at which the U. K. ’s Winston Churchill, Joseph Stalin of the Soviet Union and U. S. President Franklin D. Roosevelt planned out the end of World War II and began discussing postwar Europe. But these were largely about the imagery of the three men around the table.",
+        "Of course, the big three then included Britain; there was no China. That alone tells you how much geopolitics has changed over 80 years.",
+        "Also, Stalin, Roosevelt and Churchill were all on the same side in 1945. It was a case of comrades in arms that would soon be drifting apart as the Cold War developed.",
+        "Here it may well be the other way around. China and Russia are partners, but the U. S. is seen as their adversary.",
+        "What Trump may want is detente rather than a new Cold War. Does this mean an emerging policy of Russia, China and the U. S. coming together in a new order? I imagine the Europeans may have something to say about that.",
+        "Rana Mitter does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "conversation-myanmar-genocide-ruling-is-a-watershed-moment-in-internati",
+      "title": "Myanmar genocide ruling is a watershed moment in international justice – with huge ramifications for other cases",
+      "dek": "The International Court of Justice’s historic ruling of genocide against Myanmar on Nov. ",
+      "category": "环境",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-19T17:06:27.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/myanmar-genocide-ruling-is-a-watershed-moment-in-international-justice-with-huge-ramifications-for-other-cases-296987"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "The International Court of Justice’s historic ruling of genocide against Myanmar on Nov. 19, 2026, will have significant consequences for the parties involved in the case – and potentially some who are not.",
+        "The Hague’s highly anticipated judgment in Gambia v. Myanmar is a major victory for Gambia, the tiny west African nation that filed a complaint with the court against Myanmar in 2019. It is also a major moment of accountability for the military leadership of Myanmar.",
+        "But as an expert in genocide and mass atrocity prevention, I believe the ruling goes far beyond these nations. Indeed, it is also a watershed moment for international legal justice that is bound to have important effects on the court’s other ongoing genocide cases, particularly the case of South Africa v. Israel .",
+        "Gambia’s case focused on actions that Myanmar’s military government called “clearance operations” in the course of its decades-long violent persecution of the country’s Muslim Rohingya minority .",
+        "The Tatmadaw , as the Myanmar military is known, justified these actions as a counterinsurgency operation. Yet in the course of those attacks, soldiers were found to have destroyed hundreds of Rohingya villages , and to have committed widespread rapes, torture and summary killings.",
+        "While the precise death toll of the 2017 attacks may never be known, at least 10,000 Rohingya civilians are thought to have died , and roughly 750,000 Rohingya fled to neighboring Bangladesh. There they joined other Rohingya in what is now the world’s largest refugee camp of over 1. 2 million people, comprised of those who had already fled years of the Myanmar government’s persecution and attacks.",
+        "The court’s ruling that the Tatmadaw’s attacks amounted to genocide rested on its interpretation of the crime of genocide in the 1948 U. N. Genocide Convention , the first major international treaty approved by the United Nations General Assembly.",
+        "For an attack to be genocidal, it must be directed against an ethnic, religious, racial or national group, and must include at least one of five prohibited acts: killing members of a group; inflicting serious physical or mental harm on members; deliberately inflicting conditions calculated to bring about its destruction; imposing measures intended to prevent births; or forcibly transferring children from the group.",
+        "Beyond these factual requirements, genocide requires that the perpetrator specifically intended these acts to destroy the group, in whole or in part.",
+        "In its ruling, the court agreed that the facts of Myanmar’s attacks met the legal definition of genocide. For the notoriously difficult and demanding requirement for proving the “ special intent ” to destroy a group, the court determined that the pattern, selective targeting and lethality of the attacks on Rohingya villages could not plausibly be explained as a counterinsurgency operation.",
+        "Instead, the only reasonable inference that could be drawn from the military’s actions, the court determined, was the specific intent to destroy the Rohingya ethnic minority.",
+        "The court’s decision is unprecedented in many important respects.",
+        "In an influential previous ruling on violations of the Genocide Convention, in Bosnia and Herzegovina v. Serbia and Montenegro in 2007, the court found only that Serbia had not met its legal duty to prevent genocide by failing to use its influence to restrain the Bosnian Serb army in the Srebrenica massacre of 1995 .",
+        "In the Myanmar ruling, by contrast, the court ruled for the first time that a country is legally responsible for committing genocide – not merely failing to prevent it.",
+        "Further, the court ruled for the first time that a country that has committed genocide also has multiple obligations toward the victim group. Those include designing and implementing a comprehensive program of reparations and compensation for victims; creating conditions where Rohingya can make a safe, voluntary and dignified return to their homes; and restoration of their citizenship status after national legislation from 1982 rendered them stateless .",
+        "Finally, the court also demanded that Myanmar take steps to investigate all those involved in the genocide to determine individual criminal responsibility. Since the International Court of Justice is not a criminal court and only hears cases between states, this order explicitly connects the ruling to other courts where individual perpetrators can be held accountable.",
+        "These include the International Criminal Court – which had already requested an arrest warrant for Tatmadaw leader Min Aung Hlaing – as well as national courts that may pursue prosecution according to the doctrine of universal jurisdiction.",
+        "The court’s ruling in Gambia vs. Myanmar is also likely to have huge ramifications far beyond the case itself.",
+        "In filing its complaint, Gambia appealed to an innovative argument to establish that it had legal standing. It argued for what’s known as “ erga omnes partes ,” roughly translated as “toward all parties to a treaty.” According to this line of reasoning, the Genocide Convention imposes such strong legal duties to prevent and punish the crime of genocide that any state, even one that has not in any way been directly harmed, has the standing – in fact, the obligation – to seek legal remedies.",
+        "In accepting Gambia’s “erga omnes partes” approach, the court opened a pathway for other cases centering on violations of the Genocide Convention. Of these, the most significant by far is the ongoing case of South Africa v. Israel , which charges the Israeli government and the Israeli military of committing genocide against Palestinian civilians in the Gaza Strip. Going forward, other nations would now also have a legal tool for holding perpetrator states accountable for committing the most serious international crimes.",
+        "The International Court of Justice has no enforcement arm. As such, the Myanmar government cannot be compelled to abide by its rulings, whether to cease any further attacks or persecution on the Rohingya, make efforts to repatriate them or design a comprehensive reparation and compensation plan.",
+        "But even if Myanmar chooses to ignore the court’s specific orders, the ruling is a major defeat. The reputational damage of being the first country found guilty of state-sponsored genocide is likely to be considerable. Further, the ruling will support claims that other nations have a duty not to assist Myanmar in any way that might support or enable further attacks on Rohingya.",
+        "While that doesn’t automatically mean other countries will fulfill their duties under international law, many are nonetheless likely to use the ruling to bolster multilateral efforts to impose political, economic and social costs on the Tatmadaw. That could include targeted economic sanctions, financial restrictions, prohibitions on arms sales and other forms of cooperation with Myanmar’s government. The ruling thus comes with a potentially hefty price tag for the military junta.",
+        "Given the general weakening of international legal institutions over the past 20 years, a dysfunctional U. N. Security Council and an International Criminal Court under siege by the Trump administration , the court’s ruling is a rare victory for international justice and opens new routes for international genocide prevention and accountability efforts."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "scitechdaily-new-fda-approved-pill-lowers-high-blood-pressure-and-may-s",
+      "title": "New FDA-Approved Pill Lowers High Blood Pressure and May Slow Kidney Disease",
+      "dek": "A new drug targeting a hormone linked to hypertension has shown encouraging results in patients with chronic kidney disease.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-19T16:23:02.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/new-fda-approved-pill-lowers-high-blood-pressure-and-may-slow-kidney-disease/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A new drug targeting a hormone linked to hypertension has shown encouraging results in patients with chronic kidney disease.",
+        "A drug that showed early signs of protecting damaged kidneys has now received FDA approval for treating high blood pressure that remains uncontrolled despite medication. Called Baxfendy (baxdrostat), the treatment targets a hormone involved in both hypertension and kidney disease.",
+        "The approval follows Phase 3 clinical trials showing substantial blood pressure reductions. Earlier research also found that baxdrostat lowered a key marker of kidney damage by 55%, suggesting potential benefits beyond hypertension. Whether the medication can slow kidney disease progression remains under investigation.",
+        "The FDA approved AstraZeneca’s Baxfendy in May 2026 for adults whose hypertension remains inadequately controlled by existing treatments. It is the first approved aldosterone synthase inhibitor, a class of drugs that reduces production of the hormone aldosterone.",
+        "In the Phase 3 BaxHTN trial involving 796 patients, the 2 mg dose reduced systolic blood pressure by an average of 15. 7 mm Hg after 12 weeks, compared with 5. 8 mm Hg for placebo. The additional reduction of 9. 8 mm Hg was statistically significant. A lower 1 mg dose also produced meaningful improvements.",
+        "Dr. Bryan Williams, Chair of Medicine at University College London and the trial’s primary investigator, said: “We have been waiting for an innovative medication like Baxfendy for hypertension for many years. Its novel way of lowering blood pressure has the potential to transform clinical practice by targeting a root cause of persistently uncontrolled hypertension. In addition, the nearly double-digit placebo-adjusted systolic blood pressure reduction achieved with Baxfendy is exciting and clinically meaningful for clinicians and patients. Epidemiological data indicate that a 10 mmHg decrease in systolic blood pressure is associated with a roughly 20% lower risk of serious cardiovascular events.”",
+        "Aldosterone regulates sodium and water balance in the body. Excessive levels cause the kidneys to retain fluid, increasing blood pressure and potentially contributing to kidney inflammation and scarring.",
+        "Baxdrostat inhibits the enzyme responsible for producing aldosterone rather than blocking the hormone’s receptors, as some existing medications do. This approach may benefit patients whose blood pressure remains high despite multiple treatments.",
+        "A separate Phase 3 trial, Bax24, involving 218 patients found that baxdrostat lowered average systolic blood pressure over 24 hours by 14. 0 mm Hg more than placebo. The effect persisted throughout the day and night, according to findings published in The Lancet .",
+        "High blood pressure and chronic kidney disease can worsen each other. Elevated pressure damages the kidneys’ filtering structures, while declining kidney function makes hypertension harder to control.",
+        "“These findings are encouraging for people living with chronic kidney disease and high blood pressure, two conditions that often go hand-in-hand and create a dangerous cycle,” said lead study author Jamie P. Dwyer, M. D. , a professor of medicine at University of Utah Health. “High blood pressure can worsen kidney function and declining kidney function can further elevate blood pressure, and these outcomes can be life-altering for patients.”",
+        "In the Phase 2 FigHTN trial, 192 patients with chronic kidney disease and uncontrolled hypertension were randomly assigned to receive baxdrostat or placebo alongside standard treatment. After 26 weeks, systolic blood pressure fell an average of 8. 1 mm Hg more in the baxdrostat groups.",
+        "Researchers also measured urinary albumin, a protein associated with kidney damage when present in elevated amounts. Levels were 55% lower in patients receiving baxdrostat than in those taking placebo. The findings were published in the Journal of the American Society of Nephrology .",
+        "The earlier kidney disease trial found elevated blood potassium in 41% of baxdrostat recipients, compared with 5% of placebo recipients. Most cases were mild or moderate, but excessive potassium can cause dangerous heart rhythm disturbances. Serious adverse events occurred in 9% and 3% of participants, respectively."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "scitechdaily-why-sleeping-9-hours-after-50-may-be-a-warning-sign-for-yo",
+      "title": "Why Sleeping 9 Hours After 50 May Be a Warning Sign for Your Career",
+      "dek": "More sleep does not necessarily mean more years at work, as a large Finnish study links both restless nights and unusually long sleep to shorter working lives.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T15:48:47.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/why-sleeping-9-hours-after-50-may-be-a-warning-sign-for-your-career/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "More sleep does not necessarily mean more years at work, as a large Finnish study links both restless nights and unusually long sleep to shorter working lives.",
+        "As retirement ages rise and people are expected to work later into life, researchers are looking more closely at what helps people remain in the workforce as they grow older. A large Finnish study suggests that sleep may be part of the picture. Adults who frequently struggled with sleep after age 50 tended to spend fewer years working, while those who regularly slept nine hours or more a night also had shorter expected working lives.",
+        "People with severe sleep disturbances could expect to spend around eight fewer months in the workforce than those who rarely experienced sleep problems. Among people who slept at least nine hours a night, the gap ranged from roughly nine months to more than two years, depending on the study group.",
+        "The findings, published online in Occupational & Environmental Medicine , come as more than half of the countries in the Organization for Economic Cooperation and Development (OECD) have raised statutory retirement ages in response to aging populations. Previous research has explored why people leave their jobs early, including disability, illness, and retirement decisions. However, researchers had not examined whether sleep duration and quality were associated with how long people remain employed.",
+        "To investigate, the team focused on working life expectancy, which measures the average number of years someone can expect to remain employed at a particular age. Rather than measuring how long people live, the researchers examined their expected years in the workforce between ages 50 and 68.",
+        "The analysis drew on two Finnish studies involving more than 76,000 adults. The Finnish Public Sector (FPS) study included 70,339 public sector employees between 2000 and 2016, approximately 80% of whom were women. The Health and Social Support (HeSSup) study provided a random sample of 6,071 working-age Finnish adults between 1998 and 2013, with women accounting for 54% of participants. Researchers assessed sleep using the first survey each participant completed after turning 50, then examined employment information from the Earnings and Accrual Register, maintained by the Finnish Centre for Pensions.",
+        "The surveys asked participants how long they usually slept and how often they experienced difficulties falling asleep, staying asleep, waking too early, or feeling unrested after sleeping. These disturbances were assessed over the preceding four weeks. People who experienced them no more than once a week were considered to have no sleep disturbances, while those reporting problems two to four nights a week were placed in the moderate category. Severe disturbances meant experiencing these problems five or six nights a week to nearly every night. Sleep duration was classified separately as short, meaning less than seven hours, mid-range at seven to eight and a half hours, or long at nine hours or more.",
+        "The results revealed a consistent relationship between disrupted sleep and fewer expected years of employment. Participants without sleep disturbances had an average working life expectancy of 13 years and five months after age 50. That fell to approximately 13 years among those with moderate disturbances and 12 years and 10 months among those with severe problems. Compared with people reporting no disturbances, these groups could expect to work nearly five and eight fewer months, respectively. The association appeared among both men and women and across three broad occupational categories: professional, intermediate, and routine jobs.",
+        "Employment differences became more apparent when researchers examined sleep alongside occupation and sex. Professional women who reported no sleep disturbances had the longest expected working lives in this comparison, at nearly 14 years after age 50. Men in routine jobs who experienced severe sleep disturbances had the shortest, at approximately 12 and a half years.",
+        "Sleep duration revealed a somewhat different pattern. In the Finnish Public Sector study, participants sleeping fewer than seven hours a night and those sleeping between seven and eight and a half hours had the same average working life expectancy of 13 years and two months. Those who regularly slept nine hours or more, however, had an expected working life of just 12 years and five months. Compared with the mid-range sleep group, that represented approximately nine fewer months of employment."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "nasa-nasa-science-data-powers-new-method-to-discover-hard-to-fi",
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "dek": "An international team of scientists has developed a method that can find pulsars in publicly available NASA data about a million times faster than before. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T15:33:55.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "An international team of scientists has developed a method that can find pulsars in publicly available NASA data about a million times faster than before. This opens the door to discovering many more of these rapidly spinning objects. A paper describing the results published Thursday in the Physical Review Letters.",
+        "By comparison, the previous best method failed to find the pulsar, despite using enough computing power that a standard processor would take 600 years to perform the calculation.",
+        "A pulsar is a rapidly spinning neutron star that sweeps beams of radiation toward Earth, much like a lighthouse. Finding pulsars in gamma-ray data is extraordinarily difficult because Fermi detects only a tiny number of photons from a given pulsar, mixed in with background noise from other gamma-ray-emitting sources and the broader universe. To find the signal, researchers must accurately guess several unknowns at once: how fast the star spins, how quickly the spin is slowing down, and precisely where it sits in the sky. Searching every possible combination would require an impossible number of computations.",
+        "“We don’t see every rotation from the pulsar, and we can’t just count the rotations to work out where the photon came from,” said lead author Daniel Pook-Kolb, a scientist at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Germany. “We have a four-dimensional grid, and we must search each direction with millions of trials in it. There’s just not enough computing power on Earth to do it.”",
+        "Traditionally, scientists have searched for these pulsars by breaking Fermi data into smaller chunks and analyzing them by crowdsourcing computing power from volunteers around the world. Even with these volunteers contributing their computers’ unused processing power to run searches, it typically took the equivalent of hundreds of computer-years to identify a single pulsar.",
+        "Gazith and Zackay realized that the search could be transformed into a geometry problem: finding the shortest vector in a high-dimensional lattice, or a regularly spaced array of points. This lattice technique draws on algorithms developed by cryptographers trying to break encryption systems designed to resist code-breaking by future quantum computers . The method has also been used to help make satellite navigation systems more efficient.",
+        "“We have nothing to do with cryptography in our analysis here, but those algorithms can help us solve the problem of searching for pulsars in our data,” Gazith said.",
+        "Each trial run of the algorithm took about five minutes on a single computer core — easily doable on a standard laptop, which usually has between two and eight cores. Once the lattice method identified a pulsar candidate, the researchers confirmed it by feeding in the full Fermi data set, revealing a signal so strong it could not be a chance occurrence.",
+        "The team’s next goal is even more ambitious: finding pulsars in binary systems, where a pulsar orbits a star. These discoveries have long been considered out of reach because a companion star’s gravity distorts the signal in ways that have made these pulsars essentially impossible to discover with traditional methods.",
+        "“We know that there are probably tens or maybe even hundreds of these pulsars in the data set that we just couldn’t find,” said Colin Clark, an astrophysicist at the Max Planck Institute who co-authored the study. “The next goal is to extend the searches and use the combination of the new algorithm and the crowdsourced computing power from volunteers in our Einstein@Home program to hopefully find many new pulsars that we think should be there.”",
+        "The discovery would not have happened without NASA’s longstanding, Gold Standard Science policy of making its science data, including data from Fermi, freely available to anyone. Launched in 2008, Fermi surveys the entire sky every three hours, observing the universe in gamma rays — the highest-energy form of light. After an initial one-year calibration period, all Fermi data became fully public and continues to be released as soon as it is processed.",
+        "“The nice thing about NASA data is it’s all open,” Clark said. “All 18 years of Fermi data have been made public, and the data just keeps growing.”"
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "nasa-news-nasa-science-data-powers-new-method-to-discover-hard-to-fi",
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "dek": "An international team of scientists has developed a method that can find pulsars in publicly available NASA data about a million times faster than before. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T15:33:55.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "An international team of scientists has developed a method that can find pulsars in publicly available NASA data about a million times faster than before. This opens the door to discovering many more of these rapidly spinning objects. A paper describing the results published Thursday in the Physical Review Letters.",
+        "By comparison, the previous best method failed to find the pulsar, despite using enough computing power that a standard processor would take 600 years to perform the calculation.",
+        "A pulsar is a rapidly spinning neutron star that sweeps beams of radiation toward Earth, much like a lighthouse. Finding pulsars in gamma-ray data is extraordinarily difficult because Fermi detects only a tiny number of photons from a given pulsar, mixed in with background noise from other gamma-ray-emitting sources and the broader universe. To find the signal, researchers must accurately guess several unknowns at once: how fast the star spins, how quickly the spin is slowing down, and precisely where it sits in the sky. Searching every possible combination would require an impossible number of computations.",
+        "“We don’t see every rotation from the pulsar, and we can’t just count the rotations to work out where the photon came from,” said lead author Daniel Pook-Kolb, a scientist at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Germany. “We have a four-dimensional grid, and we must search each direction with millions of trials in it. There’s just not enough computing power on Earth to do it.”",
+        "Traditionally, scientists have searched for these pulsars by breaking Fermi data into smaller chunks and analyzing them by crowdsourcing computing power from volunteers around the world. Even with these volunteers contributing their computers’ unused processing power to run searches, it typically took the equivalent of hundreds of computer-years to identify a single pulsar.",
+        "Gazith and Zackay realized that the search could be transformed into a geometry problem: finding the shortest vector in a high-dimensional lattice, or a regularly spaced array of points. This lattice technique draws on algorithms developed by cryptographers trying to break encryption systems designed to resist code-breaking by future quantum computers . The method has also been used to help make satellite navigation systems more efficient.",
+        "“We have nothing to do with cryptography in our analysis here, but those algorithms can help us solve the problem of searching for pulsars in our data,” Gazith said.",
+        "Each trial run of the algorithm took about five minutes on a single computer core — easily doable on a standard laptop, which usually has between two and eight cores. Once the lattice method identified a pulsar candidate, the researchers confirmed it by feeding in the full Fermi data set, revealing a signal so strong it could not be a chance occurrence.",
+        "The team’s next goal is even more ambitious: finding pulsars in binary systems, where a pulsar orbits a star. These discoveries have long been considered out of reach because a companion star’s gravity distorts the signal in ways that have made these pulsars essentially impossible to discover with traditional methods.",
+        "“We know that there are probably tens or maybe even hundreds of these pulsars in the data set that we just couldn’t find,” said Colin Clark, an astrophysicist at the Max Planck Institute who co-authored the study. “The next goal is to extend the searches and use the combination of the new algorithm and the crowdsourced computing power from volunteers in our Einstein@Home program to hopefully find many new pulsars that we think should be there.”",
+        "The discovery would not have happened without NASA’s longstanding, Gold Standard Science policy of making its science data, including data from Fermi, freely available to anyone. Launched in 2008, Fermi surveys the entire sky every three hours, observing the universe in gamma rays — the highest-energy form of light. After an initial one-year calibration period, all Fermi data became fully public and continues to be released as soon as it is processed.",
+        "“The nice thing about NASA data is it’s all open,” Clark said. “All 18 years of Fermi data have been made public, and the data just keeps growing.”"
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "scitechdaily-experimental-drug-wipes-out-aggressive-pancreatic-cancer-i",
+      "title": "Experimental Drug Wipes Out Aggressive Pancreatic Cancer in 75% of Mice and Triggers Lasting Immunity",
+      "dek": "An experimental drug helped mice resist cancers their immune systems had never encountered, raising the possibility that treating one tumor could someday help protect against…",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T15:13:05.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/experimental-drug-wipes-out-aggressive-pancreatic-cancer-in-75-of-mice-and-triggers-lasting-immunity/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "An experimental drug helped mice resist cancers their immune systems had never encountered, raising the possibility that treating one tumor could someday help protect against others.",
+        "Pancreatic cancer remains one of the most difficult cancers to treat, partly because tumors can wall themselves off from the immune system. Many breast, colon, and lung cancers use the same defense, surrounding themselves with dense, scar-like tissue that keeps cancer-fighting immune cells out. This barrier is one reason immunotherapy, which helps the immune system attack cancer, works for only a minority of patients with solid tumors.",
+        "Researchers have now developed an experimental drug that breaks through this barrier in mice. The treatment eliminated aggressive pancreatic tumors in some animals, prevented breast cancer from spreading, and produced lasting immune protection against future cancers.",
+        "The study, published November 9, 2026, in Cancer Cell , was led by Seong-Jin Kim, PhD, and scientists at MedPacto, Inc. , in Seoul, Korea.",
+        "Tumors build their defenses partly by releasing large amounts of a chemical messenger called TGF-β. This substance encourages nearby cells to produce fibrous tissue while weakening the immune cells that could attack the cancer. Blocking it has proven difficult because TGF-β also performs important functions in healthy tissue. Previous drugs have struggled to suppress enough of it inside tumors without causing unwanted effects elsewhere in the body.",
+        "To get around this problem, the team developed a drug called FEBP-sTβRII that carries a molecular tag directing it toward tumors. The tag attaches to a particular form of fibronectin, a protein abundant in many cancers but rarely found in healthy adult tissue. Researchers detected this target in mouse models of breast, colon, lung, liver, prostate, pancreatic, and brain cancers, as well as melanoma, and in many human tumor types.",
+        "The targeted drug accumulated inside tumors and remained there for days. Without the tag, the same blocker had little effect on tumors and altered the activity of 693 genes in the blood, compared with just 25 for the targeted treatment.",
+        "“This study shows that where you block TGF-β matters as much as whether you block it,” said senior author Kim, who is also affiliated with the GILO Institute.",
+        "With the protective barrier weakened, cancer-killing T cells could enter the tumors. They released a chemical signal called interferon-gamma, prompting nearby support cells and immune cells to display recognizable pieces of the cancer. This helped the immune system identify its target and sustain the attack. Researchers observed this response in pancreatic tumors and melanoma.",
+        "Unlike existing immunotherapies that primarily remove restrictions on T cells, the experimental drug also changes the environment surrounding the cancer, making it easier for immune cells to reach and recognize tumors.",
+        "The researchers reported several promising results across different mouse experiments:",
+        "“TGF-β helps build the defenses of many solid tumors, so this approach has the potential to reach well beyond a single cancer,” said Dr. Letterio. “By delivering the blocker directly to the tumor, we don’t just open the door to T cells. We appear to be teaching the immune system lessons it remembers long after the tumor is gone, and in some cases those lessons protect against other cancers.”",
+        "Study co-author John J. Letterio, MD, PhD, directs the Angie Fowler Adolescent and Young Adult Cancer Institute at University Hospitals Rainbow Babies & Children’s Hospital and the Developmental Therapeutics Program at Case Comprehensive Cancer Center, Case Western Reserve University.",
+        "The immune response observed in mice resembled patterns previously seen in patients who responded to immunotherapy for melanoma, gastric cancer, and pancreatic cancer. Measuring the drug’s fibronectin target in tumors might eventually help identify patients most likely to benefit."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "nasa-nasa-conducts-latest-rs-25-engine-test-in-support-of-futur",
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "dek": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi.",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T14:44:39.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi.",
+        "Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds).",
+        "While this developmental engine will not be used in flight, the hot fire test provides NASA and NASA’s prime contractor L3Harris Technologies with the capability to capture critical data to improve engine performance and reliability for future Artemis missions.",
+        "For the Artemis IV Moon landing mission in 2028, the SLS rocket will launch astronauts aboard the Orion spacecraft from NASA’s Kennedy Space Center in Florida. This mission will be a key step in the agency’s broader goals to explore the lunar South Pole, establish an enduring human presence on the lunar surface, and build on the agency’s foundation for the first crewed mission to Mars.",
+        "For each Artemis mission, four RS-25 engines produce up to 2 million pounds of combined thrust to help launch the SLS rocket.",
+        "All RS-25 engines are tested and proven flightworthy at NASA Stennis prior to use. Tests are conducted by a team of operators from NASA, L3Harris, and Nova Space Solutions."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "nasa-news-nasa-conducts-latest-rs-25-engine-test-in-support-of-futur",
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "dek": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi.",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T14:44:39.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi.",
+        "Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds).",
+        "While this developmental engine will not be used in flight, the hot fire test provides NASA and NASA’s prime contractor L3Harris Technologies with the capability to capture critical data to improve engine performance and reliability for future Artemis missions.",
+        "For the Artemis IV Moon landing mission in 2028, the SLS rocket will launch astronauts aboard the Orion spacecraft from NASA’s Kennedy Space Center in Florida. This mission will be a key step in the agency’s broader goals to explore the lunar South Pole, establish an enduring human presence on the lunar surface, and build on the agency’s foundation for the first crewed mission to Mars.",
+        "For each Artemis mission, four RS-25 engines produce up to 2 million pounds of combined thrust to help launch the SLS rocket.",
+        "All RS-25 engines are tested and proven flightworthy at NASA Stennis prior to use. Tests are conducted by a team of operators from NASA, L3Harris, and Nova Space Solutions."
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "nasa-nasas-voyager-1-makes-history-reaching-one-light-day-from-",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "dek": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. ",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T14:31:15.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16. 1 billion miles (25. 9 billion kilometers). The spacecraft achieved the milestone at 2:16 a. m. PST (5:16 a. m. EST) Nov. 18.",
+        "Voyager team members at NASA’s Jet Propulsion Laboratory in Southern California, managed by Caltech, heard from the probe 24 hours later, the time it took for the spacecraft’s radio signal traveling at the speed of light to reach Earth, early Thursday.",
+        "“Traveling a light-day is a singular feat for a spacecraft, but Voyager is so much more than a distant traveler. The Voyager mission would be remarkable just for what it contributed to planetary science with the Grand Tour of the outer planets,” said Joe Westlake, director, Heliophysics Division at NASA Headquarters in Washington. “But it went on to become central to NASA’s fleet of heliophysics missions offering insights into the star that we all revolve around, the Sun.”",
+        "Scientists use light to measure the vast distances of space. Light travels at about 186,000 miles (299,000 kilometers) a second in a vacuum. A ray of sunlight passing Earth takes about 1. 3 seconds to reach the Moon, about four hours to reach Neptune, and another 20 hours to reach Voyager 1. For comparison, a light-year is 5. 88 trillion miles (9. 46 trillion kilometers).",
+        "Even though the team has not received science and engineering data from Voyager 1 since Nov. 14, the spacecraft is sending what is called a carrier signal, which typically conveys that data to Earth. Mission engineers used the carrier signal and trajectory calculations to confirm the light-day milestone. They continue to analyze the issue impacting the science and engineering data.",
+        "Humanity’s only probes in interstellar space, Voyager 1 and its twin, Voyager 2, launched in 1977 to take advantage of a rare planetary alignment. Managed by JPL, they were only the third and fourth spacecraft to visit Jupiter and Saturn, and the first to return high-resolution imagery, transforming our understanding of these worlds and their moons. Voyager 2 went on to study the ethereal ice giants, Neptune and Uranus. Both spacecraft continue to measure changes in the Sun’s magnetic field across vast distances.",
+        "“Voyager 1 crossing the light-day threshold is yet another historic feat on an extraordinary voyage of discovery,” said Dave Gallagher, JPL director. “Above all, this milestone stands as a testament to the exceptional teams who built, programmed, and fly these spacecraft today, and who have overcome countless challenges to keep them connected to Earth across the vastness of space. As NASA pushes toward new frontiers in human and robotic exploration, Voyager and the people behind its success continue to inspire us to reach farther and dream bigger.”",
+        "In addition to their suite of scientific instruments , the Voyager probes carry a Golden Record , a gold-plated copper phonograph compiling images and sounds from Earth, as a message to any advanced civilization that might one day find it.",
+        "“Nearly half a century after leaving Earth, the Voyager mission continues to push the boundaries of human exploration. Its epic journey reflects the vision of Ed Stone, the Caltech physicist and JPL director who guided the mission for decades, and the curiosity and tenacity of generations of scientists and engineers who have carried that vision forward,” said Ray Jayawardhana, president, Caltech. “Beyond its immense contributions to science, Voyager also captures something profound about the human spirit. We may never know where its journey will ultimately lead, but it will venture on, an enduring affirmation that humanity was here and we yearned to explore.”",
+        "Traveling about 38,000 mph (61,155 kph), Voyager 1 in 2012 became the first spacecraft to leave the heliosphere , the bubble of particles and magnetic fields created by the Sun that deflects cosmic radiation, and enter interstellar space. Voyager 2, taking a different trajectory, crossed the boundary in 2018."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "nasa-news-nasas-voyager-1-makes-history-reaching-one-light-day-from-",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "dek": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. ",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T14:31:15.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16. 1 billion miles (25. 9 billion kilometers). The spacecraft achieved the milestone at 2:16 a. m. PST (5:16 a. m. EST) Nov. 18.",
+        "Voyager team members at NASA’s Jet Propulsion Laboratory in Southern California, managed by Caltech, heard from the probe 24 hours later, the time it took for the spacecraft’s radio signal traveling at the speed of light to reach Earth, early Thursday.",
+        "“Traveling a light-day is a singular feat for a spacecraft, but Voyager is so much more than a distant traveler. The Voyager mission would be remarkable just for what it contributed to planetary science with the Grand Tour of the outer planets,” said Joe Westlake, director, Heliophysics Division at NASA Headquarters in Washington. “But it went on to become central to NASA’s fleet of heliophysics missions offering insights into the star that we all revolve around, the Sun.”",
+        "Scientists use light to measure the vast distances of space. Light travels at about 186,000 miles (299,000 kilometers) a second in a vacuum. A ray of sunlight passing Earth takes about 1. 3 seconds to reach the Moon, about four hours to reach Neptune, and another 20 hours to reach Voyager 1. For comparison, a light-year is 5. 88 trillion miles (9. 46 trillion kilometers).",
+        "Even though the team has not received science and engineering data from Voyager 1 since Nov. 14, the spacecraft is sending what is called a carrier signal, which typically conveys that data to Earth. Mission engineers used the carrier signal and trajectory calculations to confirm the light-day milestone. They continue to analyze the issue impacting the science and engineering data.",
+        "Humanity’s only probes in interstellar space, Voyager 1 and its twin, Voyager 2, launched in 1977 to take advantage of a rare planetary alignment. Managed by JPL, they were only the third and fourth spacecraft to visit Jupiter and Saturn, and the first to return high-resolution imagery, transforming our understanding of these worlds and their moons. Voyager 2 went on to study the ethereal ice giants, Neptune and Uranus. Both spacecraft continue to measure changes in the Sun’s magnetic field across vast distances.",
+        "“Voyager 1 crossing the light-day threshold is yet another historic feat on an extraordinary voyage of discovery,” said Dave Gallagher, JPL director. “Above all, this milestone stands as a testament to the exceptional teams who built, programmed, and fly these spacecraft today, and who have overcome countless challenges to keep them connected to Earth across the vastness of space. As NASA pushes toward new frontiers in human and robotic exploration, Voyager and the people behind its success continue to inspire us to reach farther and dream bigger.”",
+        "In addition to their suite of scientific instruments , the Voyager probes carry a Golden Record , a gold-plated copper phonograph compiling images and sounds from Earth, as a message to any advanced civilization that might one day find it.",
+        "“Nearly half a century after leaving Earth, the Voyager mission continues to push the boundaries of human exploration. Its epic journey reflects the vision of Ed Stone, the Caltech physicist and JPL director who guided the mission for decades, and the curiosity and tenacity of generations of scientists and engineers who have carried that vision forward,” said Ray Jayawardhana, president, Caltech. “Beyond its immense contributions to science, Voyager also captures something profound about the human spirit. We may never know where its journey will ultimately lead, but it will venture on, an enduring affirmation that humanity was here and we yearned to explore.”",
+        "Traveling about 38,000 mph (61,155 kph), Voyager 1 in 2012 became the first spacecraft to leave the heliosphere , the bubble of particles and magnetic fields created by the Sun that deflects cosmic radiation, and enter interstellar space. Voyager 2, taking a different trajectory, crossed the boundary in 2018."
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "conversation-us-and-iran-once-practiced-diplomacy-through-archaeology-t",
+      "title": "US and Iran once practiced diplomacy through archaeology – that legacy need not lie in ruins",
+      "dek": "When a U. S. airstrike struck Tehran’s Arg Square on March 2, 2026, Golestan Palace was not the target. But it was close enough.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T13:42:48.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/us-and-iran-once-practiced-diplomacy-through-archaeology-that-legacy-need-not-lie-in-ruins-292886"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "When a U. S. airstrike struck Tehran’s Arg Square on March 2, 2026, Golestan Palace was not the target. But it was close enough.",
+        "The missile’s impact blew out windows across the palace complex and damaged some of its elaborate 19th-century interiors. In photographs taken afterward , pieces of its celebrated mirrorwork lay scattered across the floor.",
+        "Golestan is a UNESCO World Heritage Site and one of the great surviving monuments of Iran’s Qajar dynasty, which ruled from 1789 until 1925. Within hours of the strike, UNESCO reported the damage and noted that cultural property is protected under international law during armed conflict.",
+        "The palace was not only an early casualty of the U. S. -Iran war, but a symbolically potent one, too. And as my colleague Mehrnoush Soroush at the Center for Ancient Middle Eastern Landscapes has documented , Golestan is not alone. Since the war in Iran began in February 2026, reports of damage to heritage sites have poured in from all across Iran.",
+        "I know that damaged buildings — no matter how valuable — cannot compare with the human costs of war. But the images from Golestan have particular resonance to me, an archaeologist who studies the history of relations between Iran and the United States . It also cuts against a history of cooperation between American and Iranian archaeologists, in which Americans worked to preserve, rather than destroy, Iranian heritage.",
+        "I have spent years researching how archaeologists, museums and cultural officials from the two countries worked together before the Iranian Revolution of 1979 .",
+        "My earlier research has examined how archaeology became entangled with American foreign aid and Iranian development programs during the 1960s, and I am currently writing a book on the history of U. S. -Iranian heritage diplomacy over the past century.",
+        "I believe that history offers another way of thinking about what has been lost in the current conflict. Long before Iran and the U. S. became adversaries, cultural heritage provided a setting in which people from the two countries learned how to work together.",
+        "American archaeologists began excavating in Iran in the early 1930s . In those days, the relationship was unequal: American museums sought access to archaeological sites and, under agreements with the Iranian government, received portions of the objects they excavated under the colonial system of partage . As a result, museums across the U. S. still hold substantial collections of Iranian antiquities.",
+        "The terms of the relationship changed considerably during the 1960s, as the U. S. and Iran intensified their connections. At the same time that thousands of American professionals, educators, businesspeople, scholars and others came to work and live in Iran, the country revised its antiquities laws and expanded its own archaeological institutions, universities and museums , resulting in, among other things, a major tourism boom .",
+        "American archaeologists still wanted permission to dig at Iranian sites, but they increasingly operated within a system controlled by Iranian officials. In return, American institutions contributed funding and access to laboratories, specialist knowledge, graduate education and connections to an international scholarly community.",
+        "American archaeological projects in Iran drew on large networks of such connections. Scholars working on the Deh Luran Plain in southwestern Iran, for example, depended on Iranian government agencies, the U. S. Embassy, American universities and museums, development organizations and scientific laboratories. Botanical remains, animal bones and other materials moved through specialist laboratories abroad, while Iranian officials worked alongside foreign researchers in the field.",
+        "By the 1970s, fieldwork projects were increasingly becoming joint enterprises, based on formal partnerships between institutions and cooperative leadership. Iranian archaeological authorities employed American specialists to help survey areas threatened by dams and other development projects , while Iranian archaeologists increasingly took leading roles in the field. Meanwhile, students moved in greater numbers between Tehran, Chicago, Philadelphia and New York. Museums organized traveling exhibitions , and Iran hosted international scholarly congresses devoted to its history and archaeology.",
+        "It can’t be ignored that these collaborations flourished during a period when Iran, under Mohammad Reza Shah Pahlavi, was a close American ally .",
+        "While the terms of the relationship increasingly favored Iran, they were still marked by geopolitical inequalities. American universities and museums possessed resources that Iranian institutions often lacked – not only financially and in terms of human capital, but physically, in the form of collections of artifacts that had previously been taken out of Iran.",
+        "Yet the collaborations also developed lives of their own, as American scholars returned year after year.",
+        "The Islamic Revolution exposed both how extensive and fragile this network was. Even as the crisis that began in 1978 deepened, American archaeologists did not initially assume that their Iranian partnerships were finished. At Malyan, the remains of ancient Anshan, archaeologist William Sumner proposed continuing to pay a watchman to protect the site, while maintaining contact with Iranian colleagues so research could eventually resume.",
+        "That did not come to pass. And much of the American-Iranian archaeological enterprise collapsed as diplomatic relations between the two countries soured after the Islamic Republic took 52 American diplomats and civilians hostage in 1979 and Washington sided with Baghdad during the Iran-Iraq War in the 1980s.",
+        "But the example of the 1960s and ‘70s points toward a sometimes less visible part of diplomacy: relationships accumulated through repeated practical work.",
+        "International relations expert Trita Parsi makes this point in his history of the negotiations that produced the 2015 Iran nuclear agreement . In “ Losing an Enemy ,” based on interviews with participants on both sides, Parsi describes the working relationship that developed between U. S. Secretary of State John Kerry and Iranian Foreign Minister Mohammad Javad Zarif.",
+        "This is not to say that their personal rapport produced the nuclear agreement by itself. Naturally, presidents had to authorize negotiations, diplomats at all levels had to find compromises, and both governments had to conclude that an agreement served their interests. But contemporary reporting described that relationship as one built on professional respect and repeated close proximity. In other words, Kerry and Zarif spent enough time negotiating together to understand each other’s constraints and establish a working relationship despite the hostility between their two governments.",
+        "That kind of personal working relationship can assist diplomacy – not just at the highest levels but more broadly across civil society. Sports diplomacy has long been acknowledged; so too the sharing of zoological “gifts.” My research shows that archaeology has long had an important a place in these kinds of cultural exchanges as well.",
+        "Today, Iranian conservation specialists are sorting and cataloging shattered fragments from Golestan Palace while attempting to repair damage at heritage sites around the country .",
+        "At the same time, American and Iranian officials are still looking for ways to end the conflict. I don’t know what U. S. -Iranian relations will look like when the fighting eventually ends, but damaged buildings and monuments will need to be repaired and conserved. If my inbox is anything to go by, Iranian scholars still want to work together with American colleagues."
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "conversation-nvidia-isnt-the-first-company-to-dump-a-misbehaving-ceo-hi",
+      "title": "Nvidia isn’t the first company to dump a misbehaving CEO – history shows it’s in the interest of corporate boards to act",
+      "dek": "The story may sound familiar: The CEO of one of the largest and most powerful tech companies resigns over sexual misconduct allegations. ",
+      "category": "文化",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T13:42:38.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/nvidia-isnt-the-first-company-to-dump-a-misbehaving-ceo-history-shows-its-in-the-interest-of-corporate-boards-to-act-296800"
+      },
+      "cover": "books",
+      "accent": "yellow",
+      "paragraphs": [
+        "The story may sound familiar: The CEO of one of the largest and most powerful tech companies resigns over sexual misconduct allegations. The move causes the company’s stock to drop by more than 10%, wiping out billions in value. It also raises scrutiny of the company’s board of directors and whether it made the right decisions ahead of the crisis.",
+        "This could easily describe the turmoil facing Nvidia after the ouster of its CEO , Jensen Huang. But it actually transpired over 15 years ago at Hewlett Packard, under CEO Mark Hurd.",
+        "Jensen Huang is just the latest in a long line of CEOs who lost their jobs over personal misconduct. And as with HP, scrutiny is shifting from his behavior to his board – and the decisions that led to his exit.",
+        "Prominent industry leaders are questioning the board’s decision to oust him. They include Peter Steinberger of OpenAI, Anduril Industries co-founder Palmer Luckey, Elon Musk, Replit CEO Amjad Masad, Epic Games CEO Tim Sweeney and Y Combinator CEO Garry Tan. Meanwhile, an internal petition allegedly signed by more than 1,600 Nvidia employees has also called for Jensen Huang’s reinstatement.",
+        "As a scholar of management who has researched corporate misconduct, I believe the board made the right call. After collecting instances of CEO personal misconduct dating back to 1995, I have repeatedly found that doing nothing, as a board, is worse than doing something.",
+        "CEO personal misconduct isn’t simply a private matter or an isolated leadership failure. I believe it creates reputational and governance risks for directors and can embolden further misconduct when left unaddressed. It may also signal deeper problems within the organization.",
+        "But it’s still hard for boards to act, particularly when the CEO is also the company’s founder and a central figure in its success. If the board is earning billions , it’s even more difficult.",
+        "One important change over the years is that boards are becoming more sensitive to misconduct matters due to greater scrutiny by the media and public. They’re also more aware of the consequences for their own job that stem from the board’s performance and entanglement in the misconduct. In fact, directors of companies whose CEOs are involved in personal misconduct exit at a significantly higher rate than normal, either because they choose to leave a messy situation or because they’re forced out due to poor performance, my research shows.",
+        "One of the better known examples is Best Buy founder Richard Schulze, who stepped down as chairman of the board in 2012 after an internal investigation revealed that he knew about former CEO Brian Dunn’s inappropriate personal relationship with a female employee and failed to report it.",
+        "Directors are also personally penalized for their association with their company’s corporate misconduct. They may lose their board seats or see other companies they’re associated with take a hit. And if they hold executive positions elsewhere, the misconduct may spill over to damage the reputations of those companies as well.",
+        "In other words, directors have a rational basis to be concerned about their reputations and how a CEO’s personal misconduct may tarnish it.",
+        "In the case of Nvidia, questions are now being asked about the rigor of board oversight, the lack of CEO succession planning, and whether the board knew anything about the affairs. These questions have now spread to issues of potential national security risks .",
+        "Another issue is moral hazard : when someone acts recklessly because they know someone else will bear the cost if things go wrong. Assuming individual directors do face penalties for CEO personal misconduct, they have to address the likelihood of incentivizing further misconduct if the CEO is retained, which would further stain their reputation.",
+        "When CEOs are caught engaging in misconduct and the board doesn’t act, it can create a moral-hazard precedent and emboldens the CEO to behave badly again. In fact, when CEOs engage in repeated personal misconduct, the second instance is often even worse than the first.",
+        "Take former American Airlines CEO Doug Parker, who was the subject of two publicly reported DUI arrests. The second incident, in 2007, attracted considerably more media attention while prompting criticism of the board for allegedly failing to disclose the first incident in 1991.",
+        "Christopher Kubasik is another example of a second chance gone wrong. He was recently ousted as CEO of defense contractor L3Harris Technologies, more than 14 years after being forced out of Lockheed Martin following allegations of similar personal misconduct involving an inappropriate relationship.",
+        "In the case of Nvidia, Jensen reportedly lied to company officials about the nature of his intimate relationships for more than a year. From the board’s perspective, if he lied about this, what else has he lied about? And if they let him off the hook, what would he lie about in the future?",
+        "Broader, often uncomfortable questions about company culture are also at stake.",
+        "CEO personal misconduct can be a symptom of a larger cultural problem at the company, my research shows. And it’s often associated with other types of corporate misconduct that affect the very operations of a business. In fact, other types of corporate misconduct frequently occur around a similar time frame as the personal misconduct of an executive.",
+        "Take Dov Charney’s tenure as CEO of American Apparel. During his leadership, the company faced significant accounting problems in 2009-10 that required it to re-audit several years of financial statements. Around the same time, Charney faced multiple allegations of personal misconduct, including sexual harassment, sexual assault, racist remarks and abusive behavior toward employees.",
+        "It’s in boards’ interest to grasp that personal misconduct can indicate a larger organizational issue – and, as a result, lead to more scrutiny of the board. With Nvidia, for example, there’s now a spotlight on the company’s organizational culture, its financial dealings and its possible role in skirting U. S. sanctions on Chinese chip import restrictions. The board is likely looking at the totality of the issues and not just the personal misconduct.",
+        "For now, the public debate has largely centered on what the company might lose without Jensen Huang at the helm. An equally important question, though, is what the company and its board might risk by retaining a CEO whose conduct has raised serious questions about judgment, trust and organizational oversight.",
+        "It’s a board’s duty to protect its organization from managers who go astray, as legendary investor Warren Buffett noted : “It isn’t fundamental dishonesty that causes people to go in a different direction. It’s human nature. There are plenty of people who are really decent people, intelligent people. … But they just don’t come to grips with reality. And boards usually don’t push them to.”",
+        "Michael Nalick does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "conversation-eurovision-took-its-song-contest-to-asia-bringing-its-poli",
+      "title": "Eurovision took its song contest to Asia – bringing its political drama and cultural tropes along for the ride",
+      "dek": "ABBA and Céline Dion came to the world’s attention thanks to the Eurovision Song Contest, an annual showcase of pop music, camp and spectacle.",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T13:42:28.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/eurovision-took-its-song-contest-to-asia-bringing-its-political-drama-and-cultural-tropes-along-for-the-ride-291750"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "ABBA and Céline Dion came to the world’s attention thanks to the Eurovision Song Contest, an annual showcase of pop music, camp and spectacle.",
+        "Filipino singer Carmelle is hoping that the Eurovision Song Contest Asia will serve as a similar springboard to international fame. On Nov. 14, 2026, Carmelle bested entries from 11 Asian countries to be crowned the Asian edition’s first-ever winner . The competition marked Eurovision’s boldest expansion of its format in its 70-year history.",
+        "As a scholar of contemporary European popular music and politics , I study the ways in which Eurovision shapes notions of what it looks like and sounds like to be European. Knowing that the Asian edition would be organized by European broadcasting executives, I wanted to see how closely Eurovision Asia would resemble the flagship Eurovision, or whether it would carve out an identity of its own.",
+        "Eurovision’s proposed expansion into Asia dates back to 2008, when the European Broadcasting Union – the transnational coalition of public service media organizations that has organized the Eurovision Song Contest since 1956 – announced plans for “ Our Sound – The Asia-Pacific Song Contest .” Originally slated to debut in 2010, the project never materialized.",
+        "On March 31, 2026, however, Voxovation, a European-led production company that oversees the development of Eurovision’s spinoffs, announced that Bangkok would host the inaugural Asian competition in partnership with Thailand’s Channel 3 and S2O Productions.",
+        "Eurovision Asia is now the second European Broadcasting Union-licensed global spinoff to make the airwaves.",
+        "In 2022, Voxovation organized the American Song Contest , which included original songs by artists from all 50 U. S. states, five territories and Washington.",
+        "Despite being promoted to the American public in a Super Bowl commercial featuring hosts Kelly Clarkson and Snoop Dogg, the competition failed to attract a large viewership and the spinoff wasn’t renewed.",
+        "Given two decades of uncertainty, as well as the failure of Voxovation’s U. S. spinoff, some critics doubted whether the Asian version would succeed. And for a moment, it looked like everything might fall apart: In late October 2026, the Swedish newspaper Aftonbladet reported that Eurovision Asia’s original budget of approximately US$4. 5 million had been reduced by US$1 million.",
+        "The European Broadcasting Union, however, confirmed that the show would go on as planned, and at 8:30 p. m. Bangkok time on Nov. 14, the show’s two hosts, Thai media personalities Woody Milintachinda and Cindy Bishop, welcomed viewers from around the world tuning in via television broadcast and the YouTube livestream.",
+        "“Maybe you’ve never heard of Eurovision before, or maybe you’re one of the hardcore Eurofans,” said Bishop. “It doesn’t matter, because you will be blown away by the talent here tonight!”",
+        "For the next two-and-a-half hours, each country’s representative performed an original song, with Vietnam’s Tóc Tiên opening the show with her song “Em Tiên” (“Fairy Maiden”).",
+        "Vietnam’s entry had many of the spectacular ingredients of an ideal Eurovision entry: bilingual lyrics, large props, flashy outfits and a dance break. The song’s instrumentation included a flute accompanying Tiên’s melody and a bamboo xylophone. It concluded with a second, high-energy dance break reminiscent of electronic dance music genres.",
+        "The song’s use of traditional Asian musical signifiers followed the approach of the European entrants that have incorporated folk traditions to promote their national cultures to an international audience.",
+        "For example, Ukraine’s 2004 winning entry, Ruslana’s “ Wild Dances ,” opened with the trembita , a long alpine horn associated with the Hutsul people of the Carpathian Mountains. Armenia’s 2008 entry, Sirusho’s “ Qele, Qele ,” similarly combined a traditional Armenian duduk flute , zurna trumpet and dhol drums with an upbeat dance track and contemporary pop vocals. While some scholars claim that these musical gestures strategically romanticize and exoticize regional cultures , it’s a way to fuse national identity with modern music.",
+        "Other Eurovision Asia entrants also pulled from this playbook. Mongolia’s singer, Beck, wore a deel , the country’s traditional robe, while performing . He also incorporated a traditional Mongolian string instrument into his performance.",
+        "Voting, which was open to the general public via an online form, began just before the first performance. Viewers were allotted eight free votes, on the condition that they had to vote for at least three different countries . They could purchase 10 additional votes. The public accounted for half the votes, while a jury made up of representatives from each nation accounted for the other half.",
+        "Carmelle’s winning song – a Filipina women’s empowerment anthem titled “Sobra-Sobra” (“Too Much”) – featured a repeated musical line played by a kulintang , a Filipino percussion instrument, and a frenetic dance break. The song’s bridge was rapped in Tagalog , the country’s national language.",
+        "As part of her reward, Carmelle will perform “Sobra-Sobra” at the 2027 Eurovision Song Contest in Burgas, Bulgaria.",
+        "No Eurovision competition would be complete without a measure of political controversy.",
+        "From broadcaster boycotts over Israel’s participation amid the war in Gaza to suspicions that Franco’s Spain rigged the 1968 Eurovision vote in its favor , political disputes have long been part of the competition.",
+        "Normally, political statements are not permitted in Eurovision , though exceptions have been made for humanitarian causes. Ukraine’s victory in Eurovision 2022 took place just a few months after Russia’s full-scale invasion of the former Soviet republic. Oleh Psiuk, the frontman of Ukraine’s entrant, Kalush Orchestra, pleaded for support for Ukraine at the end of the performance, which the European Broadcasting Union ended up allowing.",
+        "During Eurovision Song Contest Asia, Malaysia found itself at the center of controversy.",
+        "Malaysian entrant Aina Abdul, who wears a hijab in her public appearances, performed her song “Bluest Sky.” While Abdul was seen as a possible favorite, Malaysian audiences claimed that she ultimately did not score enough points due to Islamophobia ."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "nasa-el-nin-o-rains-paint-the-atacama",
+      "title": "El Niño Rains Paint the Atacama",
+      "dek": "Parts of the Atacama Desert in northern Chile, normally one of the driest places on Earth, turned red-purple, green, and white in austral spring 2026 following an unusually…",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T05:00:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Parts of the Atacama Desert in northern Chile, normally one of the driest places on Earth, turned red-purple, green, and white in austral spring 2026 following an unusually wet winter. The rain woke seeds lying dormant in the soil, setting off what scientists say may be the most extensive desierto florido , or “flowering desert,” of the satellite era.",
+        "The rains came as El Niño was strengthening in the tropical Pacific. During an El Niño, the subtropical Pacific high that normally keeps the region dry weakens, while a blocking high tends to form in the South Pacific near the tip of South America. Together, these shifts push the Southern Hemisphere storm track equatorward.",
+        "Beginning in mid-July, a series of storm fronts fed by an atmospheric river brought one of the heaviest July rain events in decades to a long stretch of Chile, from the Atacama region south to Los Lagos, according to Chile’s national weather service (Dirección Meteorológica de Chile). In August, back-to-back winter storms blanketed parts of the Atacama Desert in rare snow .",
+        "The spring blooms that followed are visible in these satellite image pairs, which show the desert at different stages of flowering on September 14 (left) and on October 24 (right). The OLI (Operational Land Imager) on Landsat 8 acquired the September images, and the OLI on Landsat 9 acquired the October images.",
+        "The pair above shows a part of the desert about 30 kilometers (20 miles) southwest of Copiapó, near the eastern sector of Desierto Florido National Park. The red-purple areas prominent in the October 24 scene are vast blooms of pata de guanaco, most likely Cistanthe longiscapa or another Cistanthe species, according to Roberto Chávez, a remote sensing scientist at Pontificia Universidad Católica de Valparaíso.",
+        "Chávez and colleagues photographed the Cistanthe blooms (above) in the area that same day. They were in the field to study the bloom with satellite data, drones, and digital cameras. The project aims to use these data to map how the bloom’s biodiversity changes across space and over time, to inform land-use planners and conservation managers.",
+        "The pair below shows another part of the blooming desert, about 50 kilometers (30 miles) southwest of Copiapó. It lies within a priority area of the desert cited for its biological significance, including the flowering landscape.",
+        "Cistanthe is abundant here in the October view, but the September scene (left) reveals another desert beauty. The green areas capped with white are blooms of suspiros, or Nolana , probably Nolana baccata , according to Andres Moreira-Muñoz, a scientist at Pontificia Universidad Católica de Valparaíso who studies plant geography. The researchers photographed the Nolana -covered hillsides below on September 24, 2026.",
+        "Satellite data have been key to understanding the Atacama’s blooms. A 2014 study used Landsat observations to map where flowering and fog-fed plants grow around the Copiapó dune field. And a 2019 study used NASA’s long-term vegetation record to identify 13 Atacama Desert blooms between 1981 and 2015.",
+        "Compared with those past blooms, the 2026 event stands out. “This instance of the ‘blooming desert’ phenomenon appears to be the most significant to date—in terms of its extent, intensity, and duration,” Moreira-Muñoz said, “at least since we began using remote sensing.”",
+        "S. Geological Survey . Photos by Matías Pérez-Evens and Roberto O. Chávez/LabGRS-Instituto de Geografía- Pontificia Universidad Católica de Valparaíso, Chile, acquired during Fondecyt Regular Project 1251184 (ANID, Chile): Spatiotemporal variation of Flowering Desert biodiversity via multispectral remote sensing."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "nasa-news-el-nin-o-rains-paint-the-atacama",
+      "title": "El Niño Rains Paint the Atacama",
+      "dek": "Parts of the Atacama Desert in northern Chile, normally one of the driest places on Earth, turned red-purple, green, and white in austral spring 2026 following an unusually…",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T05:00:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Parts of the Atacama Desert in northern Chile, normally one of the driest places on Earth, turned red-purple, green, and white in austral spring 2026 following an unusually wet winter. The rain woke seeds lying dormant in the soil, setting off what scientists say may be the most extensive desierto florido , or “flowering desert,” of the satellite era.",
+        "The rains came as El Niño was strengthening in the tropical Pacific. During an El Niño, the subtropical Pacific high that normally keeps the region dry weakens, while a blocking high tends to form in the South Pacific near the tip of South America. Together, these shifts push the Southern Hemisphere storm track equatorward.",
+        "Beginning in mid-July, a series of storm fronts fed by an atmospheric river brought one of the heaviest July rain events in decades to a long stretch of Chile, from the Atacama region south to Los Lagos, according to Chile’s national weather service (Dirección Meteorológica de Chile). In August, back-to-back winter storms blanketed parts of the Atacama Desert in rare snow .",
+        "The spring blooms that followed are visible in these satellite image pairs, which show the desert at different stages of flowering on September 14 (left) and on October 24 (right). The OLI (Operational Land Imager) on Landsat 8 acquired the September images, and the OLI on Landsat 9 acquired the October images.",
+        "The pair above shows a part of the desert about 30 kilometers (20 miles) southwest of Copiapó, near the eastern sector of Desierto Florido National Park. The red-purple areas prominent in the October 24 scene are vast blooms of pata de guanaco, most likely Cistanthe longiscapa or another Cistanthe species, according to Roberto Chávez, a remote sensing scientist at Pontificia Universidad Católica de Valparaíso.",
+        "Chávez and colleagues photographed the Cistanthe blooms (above) in the area that same day. They were in the field to study the bloom with satellite data, drones, and digital cameras. The project aims to use these data to map how the bloom’s biodiversity changes across space and over time, to inform land-use planners and conservation managers.",
+        "The pair below shows another part of the blooming desert, about 50 kilometers (30 miles) southwest of Copiapó. It lies within a priority area of the desert cited for its biological significance, including the flowering landscape.",
+        "Cistanthe is abundant here in the October view, but the September scene (left) reveals another desert beauty. The green areas capped with white are blooms of suspiros, or Nolana , probably Nolana baccata , according to Andres Moreira-Muñoz, a scientist at Pontificia Universidad Católica de Valparaíso who studies plant geography. The researchers photographed the Nolana -covered hillsides below on September 24, 2026.",
+        "Satellite data have been key to understanding the Atacama’s blooms. A 2014 study used Landsat observations to map where flowering and fog-fed plants grow around the Copiapó dune field. And a 2019 study used NASA’s long-term vegetation record to identify 13 Atacama Desert blooms between 1981 and 2015.",
+        "Compared with those past blooms, the 2026 event stands out. “This instance of the ‘blooming desert’ phenomenon appears to be the most significant to date—in terms of its extent, intensity, and duration,” Moreira-Muñoz said, “at least since we began using remote sensing.”",
+        "S. Geological Survey . Photos by Matías Pérez-Evens and Roberto O. Chávez/LabGRS-Instituto de Geografía- Pontificia Universidad Católica de Valparaíso, Chile, acquired during Fondecyt Regular Project 1251184 (ANID, Chile): Spatiotemporal variation of Flowering Desert biodiversity via multispectral remote sensing."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "nasa-nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prel",
+      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "dek": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a. m. EST, Sunday, Nov. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T22:19:17.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a. m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23.",
+        "Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus XL spacecraft, aboard a SpaceX Falcon 9 rocket, will launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, or Northrop Grumman CRS-25.",
+        "After arriving at the International Space Station, NASA astronauts Jessica Watkins and Luke Delaney, who are living and working aboard the space station, will use the Canadarm2 robotic arm to capture the Cygnus XL on Tuesday, Dec. 1. Ground controllers then will install it to the Unity module’s Earth-facing port for cargo unloading.",
+        "NASA’s live launch and docking coverage will stream through a variety of platforms. Learn where to watch online:",
+        "Highlights of space station research and technology demonstrations being delivered aboard this Cygnus XL spacecraft include experiments to improve drug delivery for cancer and osteoarthritis, predict cancer spread, and advance treatments for muscle loss, as well as improve radiation sensing and advance food production for future long-duration missions.",
+        "The spacecraft is scheduled to remain at the orbiting laboratory until May 2027, then depart with several thousand pounds of disposal items and other unneeded cargo, burning up harmlessly during re-entry.",
+        "Northrop Grumman named the spacecraft the S. S. James “Jim” A. Lovell in honor of the former NASA astronaut. Lovell flew four missions, including Gemini VII, Gemini XII, Apollo 8, and the Apollo 13 mission around the Moon.",
+        "12 p. m. : Prelaunch teleconference will stream on NASA’s YouTube channel with the following participants:",
+        "To participate in the teleconference, media must contact the NASA Johnson Space Center newsroom for call details by 11 a. m. , Nov. 23, at: jsccommu@mail. nasa. gov or 281-483-5111. To ask questions, media must dial in no later than 10 minutes before the start of the call. The agency’s media credentialing policy is available online.",
+        "Additional prelaunch updates will be available on NASA’s space station blog .",
+        "Launch day coverage of the mission will be available on the NASA website . Coverage will include live streaming and blog updates beginning no earlier than 10 a. m. on Nov. 29, as the countdown milestones occur. On-demand streaming video on NASA+ and photos of the launch will be available shortly after liftoff. For questions about countdown coverage, contact the NASA Kennedy Space Center newsroom at 321-867-2468. Follow countdown coverage on our International Space Station blog for updates.",
+        "Members of the public can register to attend this launch virtually. NASA’s virtual guest program for this mission also includes curated launch resources, notifications about related opportunities or changes, and a stamp for the NASA virtual guest passport following launch.",
+        "Let people know you’re watching the mission on X, Facebook, and Instagram by following and tagging these accounts: X: @ NASA, @ NASAKennedy , @NASASpaceOps , @ Space_Station , @ ISS National Lab",
+        "Instagram: @ NASA , @ NASAKennedy , @ ISS , @ ISSNationalLab"
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "nasa-news-nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prel",
+      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "dek": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a. m. EST, Sunday, Nov. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T22:19:17.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a. m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23.",
+        "Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus XL spacecraft, aboard a SpaceX Falcon 9 rocket, will launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, or Northrop Grumman CRS-25.",
+        "After arriving at the International Space Station, NASA astronauts Jessica Watkins and Luke Delaney, who are living and working aboard the space station, will use the Canadarm2 robotic arm to capture the Cygnus XL on Tuesday, Dec. 1. Ground controllers then will install it to the Unity module’s Earth-facing port for cargo unloading.",
+        "NASA’s live launch and docking coverage will stream through a variety of platforms. Learn where to watch online:",
+        "Highlights of space station research and technology demonstrations being delivered aboard this Cygnus XL spacecraft include experiments to improve drug delivery for cancer and osteoarthritis, predict cancer spread, and advance treatments for muscle loss, as well as improve radiation sensing and advance food production for future long-duration missions.",
+        "The spacecraft is scheduled to remain at the orbiting laboratory until May 2027, then depart with several thousand pounds of disposal items and other unneeded cargo, burning up harmlessly during re-entry.",
+        "Northrop Grumman named the spacecraft the S. S. James “Jim” A. Lovell in honor of the former NASA astronaut. Lovell flew four missions, including Gemini VII, Gemini XII, Apollo 8, and the Apollo 13 mission around the Moon.",
+        "12 p. m. : Prelaunch teleconference will stream on NASA’s YouTube channel with the following participants:",
+        "To participate in the teleconference, media must contact the NASA Johnson Space Center newsroom for call details by 11 a. m. , Nov. 23, at: jsccommu@mail. nasa. gov or 281-483-5111. To ask questions, media must dial in no later than 10 minutes before the start of the call. The agency’s media credentialing policy is available online.",
+        "Additional prelaunch updates will be available on NASA’s space station blog .",
+        "Launch day coverage of the mission will be available on the NASA website . Coverage will include live streaming and blog updates beginning no earlier than 10 a. m. on Nov. 29, as the countdown milestones occur. On-demand streaming video on NASA+ and photos of the launch will be available shortly after liftoff. For questions about countdown coverage, contact the NASA Kennedy Space Center newsroom at 321-867-2468. Follow countdown coverage on our International Space Station blog for updates.",
+        "Members of the public can register to attend this launch virtually. NASA’s virtual guest program for this mission also includes curated launch resources, notifications about related opportunities or changes, and a stamp for the NASA virtual guest passport following launch.",
+        "Let people know you’re watching the mission on X, Facebook, and Instagram by following and tagging these accounts: X: @ NASA, @ NASAKennedy , @NASASpaceOps , @ Space_Station , @ ISS National Lab",
+        "Instagram: @ NASA , @ NASAKennedy , @ ISS , @ ISSNationalLab"
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "nasa-maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-t",
+      "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
+      "dek": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T18:58:27.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”.",
+        "Everyone has stress about something – some people love the holidays, and some people are holiday-avoidant… and some live in the middle. What specific stressors or challenges you experience might not bother your sibling, your spouse or your coworker. We want to be aware of and have a clear understanding of what holidays mean to you as a person.",
+        "The first step is to acknowledge what your feelings and emotions are – you may enjoy seeing the neighborhood holiday lights but not want to decorate yourself (totally okay!! ), you may love shopping for the perfect gift for everyone on your list, you may avoid all of the activities — everyone one of these is an okay choice… you can be yourself always in all ways. Give yourself that permission. As you prepare, keep a list or a calendar of events – expected/obligated, okay to go or not go,",
+        "Combine this with your standard calendar and make a schedule. If you want, add to the list what your part is (bring a dish, gift, coordinate a visit, etc. ). Having the majority of activities written down will help you not overbook, help you plan ahead, make it easier to say no, spend within your budget. Before you commit to something, say “I have to check my calendar first…. I will get back to you”.",
+        "Prepare your budget – We often budget for gifts but forget that we will be buying more groceries for those special meals and favorite dishes…. We also need to budget for travel, having guests in your home, clothing, even allow for a higher electric bill. Write it down – keep receipts – let your immediate family know that this is what we have to spend, then track it as you go.",
+        "Now that you have a current calendar and a working budget, set realistic expectations for your holiday experience. We know that not everything is optional and traditions will continue but none of it has to be perfect…minor stress and family friction can be normal.",
+        "When telling someone no, use “I” statements and stick to the single issue at hand. In addition to your list/calendar, remember to prioritize time for yourself. Keep your regular sleep schedule as much as possible, eat well (if you have a heavy meal one day, lighten up the next), schedule time to get fresh air and a quick break. ALWAYS focus on what matters. Focus on meaningful connections rather than activities that cause you anxiety.",
+        "If you feel emotional, take a few moments alone and identify the feeling, honor yourself for being able to face it and breathe through it (avoid pushing it down). Remember how many times you have gotten through a “pressure moment” and give yourself credit. Call a trusted friend or your therapist if you feel overwhelmed for longer than a day…. and, please call 988 if you feel overwhelmed to an extreme. 988 is always available and waiting to help.",
+        "Look for the glimmers – find a happy moment (no matter how brief), find the memories that make you smile. Thinking of something joyful changes your emotional state… train yourself to do this any time you need a lift. Ultimately, we want to move away from focusing on the future (It causes anxiety) or overthinking about the past (it causes depression) …. and find yourself in the here and now where you have power to manage things happening around you. Your power is with you in the present. (Eckert Tolle book – The Power of Now).",
+        "The holiday season lasts for weeks – gift yourself with",
+        "With the extra pressure of the holiday season, our feelings can often be stronger than other times during the year…. if you start having feelings:",
+        "Anxious – take deep breaths, focus ONLY on the present – your surroundings, what you see, count objects, put ice on the inside of your wrists (this works really well! )"
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "nasa-news-maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-t",
+      "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
+      "dek": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-18T18:58:27.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”.",
+        "Everyone has stress about something – some people love the holidays, and some people are holiday-avoidant… and some live in the middle. What specific stressors or challenges you experience might not bother your sibling, your spouse or your coworker. We want to be aware of and have a clear understanding of what holidays mean to you as a person.",
+        "The first step is to acknowledge what your feelings and emotions are – you may enjoy seeing the neighborhood holiday lights but not want to decorate yourself (totally okay!! ), you may love shopping for the perfect gift for everyone on your list, you may avoid all of the activities — everyone one of these is an okay choice… you can be yourself always in all ways. Give yourself that permission. As you prepare, keep a list or a calendar of events – expected/obligated, okay to go or not go,",
+        "Combine this with your standard calendar and make a schedule. If you want, add to the list what your part is (bring a dish, gift, coordinate a visit, etc. ). Having the majority of activities written down will help you not overbook, help you plan ahead, make it easier to say no, spend within your budget. Before you commit to something, say “I have to check my calendar first…. I will get back to you”.",
+        "Prepare your budget – We often budget for gifts but forget that we will be buying more groceries for those special meals and favorite dishes…. We also need to budget for travel, having guests in your home, clothing, even allow for a higher electric bill. Write it down – keep receipts – let your immediate family know that this is what we have to spend, then track it as you go.",
+        "Now that you have a current calendar and a working budget, set realistic expectations for your holiday experience. We know that not everything is optional and traditions will continue but none of it has to be perfect…minor stress and family friction can be normal.",
+        "When telling someone no, use “I” statements and stick to the single issue at hand. In addition to your list/calendar, remember to prioritize time for yourself. Keep your regular sleep schedule as much as possible, eat well (if you have a heavy meal one day, lighten up the next), schedule time to get fresh air and a quick break. ALWAYS focus on what matters. Focus on meaningful connections rather than activities that cause you anxiety.",
+        "If you feel emotional, take a few moments alone and identify the feeling, honor yourself for being able to face it and breathe through it (avoid pushing it down). Remember how many times you have gotten through a “pressure moment” and give yourself credit. Call a trusted friend or your therapist if you feel overwhelmed for longer than a day…. and, please call 988 if you feel overwhelmed to an extreme. 988 is always available and waiting to help.",
+        "Look for the glimmers – find a happy moment (no matter how brief), find the memories that make you smile. Thinking of something joyful changes your emotional state… train yourself to do this any time you need a lift. Ultimately, we want to move away from focusing on the future (It causes anxiety) or overthinking about the past (it causes depression) …. and find yourself in the here and now where you have power to manage things happening around you. Your power is with you in the present. (Eckert Tolle book – The Power of Now).",
+        "The holiday season lasts for weeks – gift yourself with",
+        "With the extra pressure of the holiday season, our feelings can often be stronger than other times during the year…. if you start having feelings:",
+        "Anxious – take deep breaths, focus ONLY on the present – your surroundings, what you see, count objects, put ice on the inside of your wrists (this works really well! )"
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
