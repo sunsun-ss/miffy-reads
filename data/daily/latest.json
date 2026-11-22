@@ -1,336 +1,581 @@
 {
-  "generatedAt": "2026-11-21T22:50:09.540Z",
-  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T23:17:33.345Z",
+  "date": "2026-11-23",
   "failedSources": [],
   "articles": [
     {
-      "id": "scitechdaily-why-ozempic-weight-loss-stalls-for-some-people-but-not-oth",
-      "title": "Why Ozempic Weight Loss Stalls for Some People but Not Others",
-      "dek": "Why do Ozempic and Wegovy help some people lose remarkable amounts of weight while others see disappointing results?",
+      "id": "scitechdaily-millions-turn-to-turmeric-for-joint-pain-does-it-really-wo",
+      "title": "Millions Turn to Turmeric for Joint Pain. Does It Really Work?",
+      "dek": "A closer examination of clinical trial reliability raises new questions about earlier research suggesting turmeric could help people with knee osteoarthritis.",
       "category": "健康",
       "tags": [
         "SciTechDaily"
       ],
-      "date": "2026-11-22",
-      "publishedAt": "2026-11-21T22:04:13.000Z",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-22T21:19:18.000Z",
       "source": {
         "name": "SciTechDaily",
         "license": "Free daily tech news",
         "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/why-ozempic-weight-loss-stalls-for-some-people-but-not-others/"
+        "url": "https://scitechdaily.com/millions-turn-to-turmeric-for-joint-pain-does-it-really-work/"
       },
       "cover": "flower",
       "accent": "pink",
       "paragraphs": [
-        "Why do Ozempic and Wegovy help some people lose remarkable amounts of weight while others see disappointing results?",
-        "Scientists are investigating whether the body’s natural tendency to conserve energy during weight loss could be an overlooked piece of the puzzle.",
-        "Medications like Ozempic and Wegovy, which contain semaglutide — a GLP‑1 receptor agonist that helps regulate blood sugar, appetite, and body weight — have become household names and important pillars in obesity management for the medical profession.",
-        "Research has shown GLP-1 medications reduce body weight by an average of 15 percent when used weekly for 68 weeks and combined with lifestyle interventions. This is because semaglutide acts on the brain to increase the feeling of fullness and to decrease appetite.",
-        "These medications don’t work the same way for everyone, however. Our multidisciplinary research team at the University of Alberta is working to improve obesity care for people of all ages and to understand why some people respond better to semaglutide than others, and how their weight loss can be maintained over time.",
-        "We are investigating the role of energy metabolism as a potentially important piece in a complex puzzle.",
-        "Research has shown that semaglutide medications can improve quality of life, blood markers such as sugar and cholesterol, strength, and overall health. Weight loss is only one measure of how well they work.",
-        "We are exploring whether people’s responses to these medications could lie in individual factors such as genetics, metabolism, body composition, lifestyle, microbiota, associated diseases, age, and sex.",
-        "Energy metabolism may also be an important piece of this puzzle. This is a measure of the total calories consumed (in) and the total calories burned (out). We burn calories all the time: for vital processes like breathing and thinking, physical activities like going to the gym, and the everyday act of digesting food.",
-        "When we lose weight, our bodies naturally need less energy. But sometimes, the body goes into an extra “energy-saving mode,” burning even fewer calories than we would expect. This is called metabolic adaptation, or adaptive thermogenesis .",
-        "Think of it like a light bulb that automatically dims to save electricity. This is one reason why losing weight can become more difficult over time, sometimes leading to a weight-loss plateau.",
-        "Changes in body weight and composition (the amount of fat and fat-free mass in our bodies) play an important role in energy metabolism. Both fat and fat-free mass use energy, even when we are resting. As we lose these tissues, our bodies naturally burn fewer calories.",
-        "Researchers are still trying to understand whether weight-loss medications influence these processes differently. If we can understand how our bodies use energy during and after weight loss, this could help us develop better strategies for maintaining weight loss over the long term.",
-        "We published a recent review of studies investigating the effects of GLP-1 therapies on energy utilization . We found a few studies exploring how semaglutide affects resting energy use, with findings that were neutral or inconclusive."
+        "A closer examination of clinical trial reliability raises new questions about earlier research suggesting turmeric could help people with knee osteoarthritis.",
+        "Turmeric supplements are widely promoted as a natural way to ease joint pain, but a major new scientific review has cast doubt on their effectiveness for knee osteoarthritis. Researchers found little convincing evidence that the popular supplements provide clinically meaningful pain relief, challenging earlier studies that suggested they could help.",
+        "The findings come from a new Cochrane review that examined both the results of clinical trials and the reliability of the research behind them. Although the evidence remains uncertain, the analysis found no clear advantage for turmeric over placebo or commonly used anti-inflammatory medications.",
+        "The international research team analyzed nine studies involving 1,245 people with knee osteoarthritis. The trials compared turmeric supplements with placebo, non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen and diclofenac, and paracetamol. Participants received different turmeric extracts and curcuminoid formulations, with treatment periods ranging from four weeks to three months.",
+        "Turmeric contains curcuminoids, including curcumin, which have anti-inflammatory properties. These compounds have attracted interest as potential treatments for osteoarthritis, a disease involving damage and changes throughout the joint. Inflammation can contribute to pain and other symptoms, but the condition has multiple underlying causes. Exercise and medications can help manage symptoms, although no cure currently exists.",
+        "Previous systematic reviews generally reported improvements in pain and physical function among people taking turmeric supplements. However, the new Cochrane analysis applied more rigorous screening procedures to assess whether individual clinical trials were trustworthy enough to support reliable conclusions.",
+        "Ten trials raised concerns during this screening process and were excluded from the analysis while researchers sought clarification from their authors. Earlier reviews had also included broader categories of studies, such as those involving osteoarthritis diagnosed solely through imaging, non-oral turmeric treatments, or curcumin combined with other active ingredients. These methodological differences may partly explain the conflicting conclusions.",
+        "“This review highlights the importance of assessing the trustworthiness of clinical trials,” adds Dr Shirinsky. “Such assessments help identify studies that require further clarification before their findings can be used to inform conclusions about treatment effects.”",
+        "The researchers used a screening method developed by the Cochrane Pregnancy and Childbirth group. Other approaches, including INSPECT-SR , have since been developed to identify potentially problematic studies before their findings influence scientific reviews.",
+        "Dr. Ivan Shirinsky, the review’s lead author and a practicing rheumatologist, said the results reflect the broader challenges of treating a disease with complex biological mechanisms.",
+        "“As a clinician and researcher, I am not surprised by these findings. Osteoarthritis is a complex and still incompletely understood disease. Despite intensive research, effective pharmacological treatment options remain limited, and many promising approaches have yielded limited or inconclusive evidence of clinical benefit. A better understanding of the mechanisms underlying osteoarthritis may help us develop more effective treatments in the future.”",
+        "The review does not establish that turmeric supplements are ineffective in every circumstance. Rather, the available research does not provide sufficiently reliable evidence of a clinically important benefit. Shirinsky said this uncertainty would shape how he advises patients considering turmeric for knee pain.",
+        "“I would not routinely recommend turmeric supplements to my patients with knee osteoarthritis. However, if a patient asked me about them, I would explain what we know and what remains uncertain about their benefits and potential harms, and help them make an informed decision.”",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
       ],
       "external": true,
       "order": 0
     },
     {
-      "id": "phys-the-avian-champions-of-long-distance-migration-keep-surpri",
-      "title": "The avian champions of long-distance migration keep surprising scientists",
-      "dek": "\"The whole story began with an extinct bird from Hispaniola,\" said Min Zhao, a former postdoctoral associate at the Florida Museum of Natural History (now a postdoctoral…",
-      "category": "科学",
+      "id": "scitechdaily-taking-weight-loss-drugs-new-study-reveals-why-lifting-wei",
+      "title": "Taking Weight-Loss Drugs? New Study Reveals Why Lifting Weights Could Be Essential",
+      "dek": "As weight-loss medications become increasingly common, a clinical trial suggests that three weekly strength-training sessions could help people preserve muscle and maintain…",
+      "category": "健康",
       "tags": [
-        "Phys.org"
+        "SciTechDaily"
       ],
-      "date": "2026-11-22",
-      "publishedAt": "2026-11-21T22:00:01.000Z",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-22T20:44:25.000Z",
       "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-avian-champions-distance-migration-scientists.html"
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/taking-weight-loss-drugs-new-study-reveals-why-lifting-weights-could-be-essential/"
       },
-      "cover": "orbit",
-      "accent": "lilac",
+      "cover": "flower",
+      "accent": "pink",
       "paragraphs": [
-        "\"The whole story began with an extinct bird from Hispaniola,\" said Min Zhao, a former postdoctoral associate at the Florida Museum of Natural History (now a postdoctoral researcher at Uppsala University).",
-        "The bird in question was identified as a woodcock in 2015 based on several fossils excavated by Florida Museum researchers in 1984 from a Haitian cave on the island of Hispaniola.",
-        "Woodcocks are medium-sized birds with long, slightly curved beaks that appear to protrude from their necks and a bouncy back-and-forth gait that looks like a funky, two-step dance number. Scientists think this comic method of locomotion may mimic the vibrations made by falling rain, which is a cue for earthworms to move upward before the soil becomes waterlogged and they drown. Instead, vertically migrating earthworms encounter the slender bill of the woodcock.",
-        "In a new study published in the Proceedings of the National Academy of Sciences , Florida Museum researchers sequenced ancient DNA from the fossil specimens and showed that what was thought to be a woodcock is actually a snipe.",
-        "That in itself isn't very surprising. Woodcocks and snipes are each other's closest relatives, having diverged from a common ancestor about 25 million years ago . To the untrained eye, they can look nearly identical. The misidentified snipe also had short wings and big legs—two common traits in island birds—compared with what scientists now know are its closest relatives.",
-        "But the combined efforts of the research group reveal a broader story about migration and evolution in a group of birds famous for flying nonstop from the high latitudes of one hemisphere to those of the other.",
-        "\"Shorebirds are the ultimate long-distance migrants,\" said study coauthor David Steadman, the emeritus curator of ornithology at the Florida Museum. \"It's common for shorebirds to nest up in the Arctic tundra and winter in South America. There was recently a bristle-thighed curlew that was radio-tagged and showed up in New Zealand after flying 10,000 km (6,200 miles) without stopping.\"",
-        "Like curlews, woodcocks and snipes also travel long distances, but unlike curlews and most other shorebirds, they also include several species whose ancestors opted out of migration and permanently settled down on islands. There are eight living species of woodcock, for example, and six of them are endemic to islands.",
-        "\"Some people argue that it's their migratory propensity that has led them to colonize islands. But there are a lot of migrant shorebirds that travel long distances. Woodcocks and snipes are the only ones setting up resident populations on islands. They've radiated on islands in the Caribbean, Japan, Indonesia, the western Pacific and the greater New Zealand area,\" Steadman said.",
-        "Intrigued by the results of the ancient DNA analysis, Steadman and his colleagues wanted to see if they could learn more about how woodcocks and snipes evolved and radiated around the world over the last quarter-million years.",
-        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
-        "The study's coauthors collected small tissue samples from specimens in museums across the country for all but one of the 29 extant woodcock and snipe species. Jessica Oswald, a postdoctoral researcher then working at the Florida Museum of Natural History, extracted and sequenced DNA from these samples and—with help from coauthor Brian Stucky—managed to do so for the Hispaniolan fossils as well. She also included DNA from one additional extinct species, the South Island snipe, which disappeared in 1964 following the human-mediated introduction of black rats to South and Stewart islands in New Zealand.",
-        "They added the ages of shorebird fossils to their DNA data and analyzed both together to produce a time-calibrated phylogeny, or what is essentially the species-level equivalent of a family tree with dates added to it.",
-        "Several of the authors have conducted similar studies in the past. Coauthor Oswald extracted ancient DNA from numerous fossil specimens while working as a postdoctoral researcher at the Florida Museum."
+        "As weight-loss medications become increasingly common, a clinical trial suggests that three weekly strength-training sessions could help people preserve muscle and maintain physical independence.",
+        "Losing weight is often the goal for people taking medications such as Ozempic and Mounjaro, but the number on the scale does not tell the whole story.",
+        "A new study found that adults taking a powerful weight-loss drug shed nearly 50 pounds in 40 weeks, regardless of whether they exercised. Those who also lifted weights, however, preserved more lean tissue and became stronger, while participants who did not train experienced a decline in strength.",
+        "The findings address a growing concern surrounding medications such as semaglutide (Ozempic and Wegovy) and tirzepatide (Mounjaro). These drugs can produce substantial weight loss and have been found to improve chronic health conditions, reduce the risk of obesity-related cardiovascular disease, and enhance quality of life. However, losing so much weight raises questions about how much muscle people might lose along the way.",
+        "“Loss of lean mass, including muscle, is an inevitable part of weight loss by any method – whether through diet and exercise alone, or medical or surgical interventions,” said Winthrop Professor Danny Green, lead investigator from The University of Western Australia’s School of Human Sciences and HealthSpan Institute.",
+        "Lean mass includes everything in the body other than fat, such as muscles, bones, organs, skin, and water. Muscle mass refers specifically to muscle tissue, mostly skeletal muscle. Preserving that tissue is particularly important for people hoping to maintain their strength and physical independence as they lose weight.",
+        "“With GLP-1 medicines now widely used and reducing body weight by an average of 20-25 percent, and more than that in many people, it’s crucial that we understand how best to achieve optimal body composition and health in the weight-reduced state.”",
+        "To investigate whether exercise could help, researchers conducted the Tirzepatide and Resistance Exercise (T-REx) study, published in Nature Medicine . It is the first study to examine the combined effects of a GLP-1 medication and resistance training on body composition, muscle mass, strength, and a range of cardiovascular health measures.",
+        "The 40-week trial involved 120 men and postmenopausal women between the ages of 50 and 70. All participants had obesity or were overweight with at least one weight-related health condition. None had type 2 diabetes, and all were prescribed tirzepatide for weight management.",
+        "Half the participants completed three resistance-training sessions each week, while the others did not follow a resistance-training program. Everyone received general guidance on hydration, protein consumption, and fiber intake.",
+        "By the end of the study, both groups had experienced substantial weight loss. Participants who exercised lost an average of 22. 28 kilograms (49. 1 pounds), compared with 22. 61 kilograms (49. 8 pounds) among those who did not train.",
+        "Most of that weight loss came from fat. The resistance-training group lost an average of 17. 98 kilograms (39. 6 pounds) of fat mass, while the group without resistance training lost 17. 19 kilograms (37. 9 pounds).",
+        "The more meaningful difference emerged when researchers examined lean tissue and physical strength. Participants who lifted weights lost 25 percent less lean tissue, including muscle, than those who did not exercise. Their upper- and lower-body strength also increased by 10 percent, compared with a 10 percent decline among participants who did not undertake resistance training.",
+        "“We now know that muscle loss can be reduced and strength increased when regular resistance training is used alongside tirzepatide treatment.”"
       ],
       "external": true,
       "order": 1
     },
     {
-      "id": "phys-repeated-bending-strengthens-sugar-based-hydrogel-instead-",
-      "title": "Repeated bending strengthens sugar-based hydrogel instead of wearing it down",
+      "id": "phys-silver-briefly-forms-a-rare-crystal-structure-seen-in-radi",
+      "title": "Silver briefly forms a rare crystal structure seen in radioactive polonium",
+      "dek": "How atoms are arranged in a material shapes many of its properties. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-22T20:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-silver-briefly-rare-crystal-radioactive.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "How atoms are arranged in a material shapes many of its properties. The same carbon atoms, for example, can form diamond and graphite depending on how they are arranged, giving rise to materials with vastly different chemical and physical properties. Now, researchers at Hokkaido University have discovered a new crystal structure of silver with unusually high chemical reactivity. The findings, published in Nano Letters , could open new avenues for exploring materials with desirable properties.",
+        "Silver normally forms a repeating cube-shaped structure, with atoms located at each of the cube's eight corners and at the center of each face. This arrangement is known as a face-centered cubic crystal structure and is common among metals, including aluminum, copper and gold. In the new study, researchers observed that under certain conditions, silver atoms can adopt a simple cubic structure, in which the atoms occupy only the eight corners of a cube that repeats in three dimensions.",
+        "Simple cubic structures are exceptionally rare among elements. One other example is the radioactive element polonium.",
+        "In this study, researchers used an electron beam to trigger the decomposition of silver iodide, observing the newly formed silver atoms arrange themselves into a previously unreported simple cubic structure.",
+        "At the nanoscale, where materials measure just a few billionths of a meter, structures that are unstable in larger materials can sometimes emerge temporarily. Studying these structures gives researchers an opportunity to discover materials with unique properties that are not found in their conventional forms.",
+        "Under high-vacuum conditions, the new simple cubic silver behaved differently from ordinary silver. While conventional face-centered cubic silver remained stable, simple cubic silver gradually oxidized to form silver oxide. This indicated unusually high chemical reactivity in the new structure.",
+        "\"It was surprising to find that such a low-density structure could form in a pure metal crystal,\" says first author Dr. Masaya Sakakibara. \"We expected silver nanoparticles to form when silver iodide decomposes under electron beam irradiation, but we didn't expect them to adopt a simple cubic structure.\"",
+        "The team used a transmission electron microscope (TEM) both to trigger the chemical transformation of silver iodide and to observe the process at the atomic scale. A TEM uses a beam of electrons with wavelengths shorter than those of visible light, allowing it to reveal individual atoms. By combining the ability to induce chemical change with real-time atomic-scale imaging, the researchers could directly observe how the new silver crystal structure emerged. \"Within 100 seconds of its formation, it began to transform into silver oxide,\" adds Sakakibara.",
+        "\"This is a new approach to discovering previously unknown crystal structures, which could also help us develop materials with novel properties in the future,\" says professor Yuki Kimura, co-author of the study and head of the Low Temperature Nanomaterial Science Laboratory at Hokkaido University. \"Going forward, we will continue investigating the physical and chemical properties of simple cubic silver in greater detail and extend this approach to other elements and compounds.\"",
+        "BA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "Electron-beam decomposition of silver iodide produced nanoscale silver with a rare simple cubic structure rather than its usual face-centered cubic arrangement. Under high vacuum, this transient form began oxidizing within 100 seconds, while conventional silver remained stable, indicating higher chemical reactivity.",
+        "Please select the most appropriate category to facilitate processing of your request",
+        "Thank you for taking time to provide your feedback to the editors."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "nasa-65-years-of-human-spaceflight-at-nasa-johnson",
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "dek": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-22T19:13:25.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and systems for NASA’s next chapter: returning astronauts to the lunar surface and building the capabilities needed for a long-term human presence at the Moon.",
+        "Across those missions, generations of flight controllers, engineers, scientists, instructors, medical specialists, and other experts have helped crews live and work beyond Earth. Johnson is home to NASA’s Orion and Moon Base programs, and its teams continue to support space station operations, astronaut training, spacecraft development, mission operations, and human health.",
+        "When the Manned Spacecraft Center officially opened on Nov. 1, 1961, NASA had already flown two suborbital Mercury missions, with the first orbital flight just months away. Most Project Mercury activities remained at Cape Canaveral in Florida to maintain continuity, but the new Project Gemini took up residence in Houston, housed in temporary leased facilities across the city while construction of the new Clear Lake campus continued. The new Mission Control Center became NASA’s primary flight control center in June 1965, with the Gemini IV mission that included the first American spacewalk.",
+        "Houston became the nerve center for American human spaceflight, overseeing the remaining eight Gemini missions before transitioning to the Apollo program. Following the tragic Apollo 1 fire in January 1967, managers, engineers, and astronauts at the Manned Spacecraft Center applied lessons learned to make the spacecraft safer and ensure the safety of its astronauts, resuming crewed missions in October 1968. Managers in Houston devised a daring plan to send Apollo 8 on a circumlunar flight.",
+        "In December 1968, Apollo 8 made its historic trip around the Moon, and seven months later Apollo 11 astronauts Neil Armstrong and Edwin “Buzz” Aldrin landed on the lunar surface. Their first voice transmission back to Earth after their arrival began with the word “Houston.” Five more Moon landings completed the Apollo program and humanity’s first phase of lunar exploration in December 1972.",
+        "Following the Moon landings, scientists at the Manned Spacecraft Center’s Lunar Receiving Laboratory conducted initial analyses of Apollo lunar samples and prepared them for researchers around the world. After the building was demolished in March 2024, the Lunar Receiving Park was dedicated to honor the laboratory’s history in 2026. Today, Johnson’s Astromaterials Research and Exploration Science ( ARES ) division continues to analyze and curate the Apollo collection at the Lunar Sample Laboratory Facility.",
+        "Skylab, America’s first space station, ran into trouble during its launch in May 1973, losing its thermal shield, jamming one solar array and losing the other one. In less than 10 days, engineers in Houston designed and built a sun shield and generated procedures to free the jammed array, followed by the first extensive in-orbit repair activities by the first Skylab crew. The three missions lasting 28, 59, and 84 days accomplished more research than planned, demonstrated the value of humans on long-duration missions, and provided operators in mission control with round-the-clock experience monitoring long duration human spaceflights.",
+        "In July 1975, after several joint training sessions in Houston and Moscow, American astronauts and Soviet cosmonauts met in space for the first time during the Apollo-Soyuz Test Project. Approved as a project in 1972, five approach and landing tests of the space shuttle using orbiter Enterprise paved the way for the first orbital mission of Columbia in 1981.",
+        "Engineers in Houston began designs for a reuseable space plane in the late 1960s, with the space shuttle receiving formal approval in 1972. During the 1970s, Johnson Space Center put in place the training and simulation facilities that astronauts used for the life of the program. Upgrades to mission control enabled the use of the latest technologies to support ever more complex space shuttle missions. The April 1981 launch of space shuttle Columbia inaugurated a new era of reusable spacecraft. The program’s 135 missions flew 355 individuals from 16 nations."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "nasa-news-65-years-of-human-spaceflight-at-nasa-johnson",
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "dek": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-22T19:13:25.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and systems for NASA’s next chapter: returning astronauts to the lunar surface and building the capabilities needed for a long-term human presence at the Moon.",
+        "Across those missions, generations of flight controllers, engineers, scientists, instructors, medical specialists, and other experts have helped crews live and work beyond Earth. Johnson is home to NASA’s Orion and Moon Base programs, and its teams continue to support space station operations, astronaut training, spacecraft development, mission operations, and human health.",
+        "When the Manned Spacecraft Center officially opened on Nov. 1, 1961, NASA had already flown two suborbital Mercury missions, with the first orbital flight just months away. Most Project Mercury activities remained at Cape Canaveral in Florida to maintain continuity, but the new Project Gemini took up residence in Houston, housed in temporary leased facilities across the city while construction of the new Clear Lake campus continued. The new Mission Control Center became NASA’s primary flight control center in June 1965, with the Gemini IV mission that included the first American spacewalk.",
+        "Houston became the nerve center for American human spaceflight, overseeing the remaining eight Gemini missions before transitioning to the Apollo program. Following the tragic Apollo 1 fire in January 1967, managers, engineers, and astronauts at the Manned Spacecraft Center applied lessons learned to make the spacecraft safer and ensure the safety of its astronauts, resuming crewed missions in October 1968. Managers in Houston devised a daring plan to send Apollo 8 on a circumlunar flight.",
+        "In December 1968, Apollo 8 made its historic trip around the Moon, and seven months later Apollo 11 astronauts Neil Armstrong and Edwin “Buzz” Aldrin landed on the lunar surface. Their first voice transmission back to Earth after their arrival began with the word “Houston.” Five more Moon landings completed the Apollo program and humanity’s first phase of lunar exploration in December 1972.",
+        "Following the Moon landings, scientists at the Manned Spacecraft Center’s Lunar Receiving Laboratory conducted initial analyses of Apollo lunar samples and prepared them for researchers around the world. After the building was demolished in March 2024, the Lunar Receiving Park was dedicated to honor the laboratory’s history in 2026. Today, Johnson’s Astromaterials Research and Exploration Science ( ARES ) division continues to analyze and curate the Apollo collection at the Lunar Sample Laboratory Facility.",
+        "Skylab, America’s first space station, ran into trouble during its launch in May 1973, losing its thermal shield, jamming one solar array and losing the other one. In less than 10 days, engineers in Houston designed and built a sun shield and generated procedures to free the jammed array, followed by the first extensive in-orbit repair activities by the first Skylab crew. The three missions lasting 28, 59, and 84 days accomplished more research than planned, demonstrated the value of humans on long-duration missions, and provided operators in mission control with round-the-clock experience monitoring long duration human spaceflights.",
+        "In July 1975, after several joint training sessions in Houston and Moscow, American astronauts and Soviet cosmonauts met in space for the first time during the Apollo-Soyuz Test Project. Approved as a project in 1972, five approach and landing tests of the space shuttle using orbiter Enterprise paved the way for the first orbital mission of Columbia in 1981.",
+        "Engineers in Houston began designs for a reuseable space plane in the late 1960s, with the space shuttle receiving formal approval in 1972. During the 1970s, Johnson Space Center put in place the training and simulation facilities that astronauts used for the life of the program. Upgrades to mission control enabled the use of the latest technologies to support ever more complex space shuttle missions. The April 1981 launch of space shuttle Columbia inaugurated a new era of reusable spacecraft. The program’s 135 missions flew 355 individuals from 16 nations."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "phys-atmospheric-organic-nitrogen-emerges-as-a-major-nutrient-s",
+      "title": "Atmospheric organic nitrogen emerges as a major nutrient source for global oceans",
+      "dek": "A research team has quantified an important component of the global nitrogen cycle.",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-22T18:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-atmospheric-nitrogen-emerges-major-nutrient.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "A research team has quantified an important component of the global nitrogen cycle.",
+        "The study reveals that 12. 8 million tonnes of organic nitrogen (ON) are deposited from the atmosphere into the global oceans annually, constituting approximately 27% of total nitrogen deposition. In nitrogen-limited waters such as the central Atlantic Ocean and the Indonesian seas, ON contributes around half of total nitrogen deposition. These new findings reshape the understanding of marine nutrient supply and its impacts on ocean ecosystems and climate.",
+        "The paper, titled \" Atmospheric Organic Nitrogen is a Major Nutrient Source to Global Oceans ,\" is published in the journal Science . The researchers were co-led by Yu Jianzhen, chair professor in the Department of Chemistry and the Division of Environment and Sustainability at The Hong Kong University of Science and Technology (HKUST), and Fu Tzung-May, professor in the School of Environmental Science and Engineering at the Southern University of Science and Technology (SUSTech).",
+        "Airborne nitrogen deposited into the oceans supports marine life, yet the contribution of ON to this flux has remained unclear due to its chemical complexity and long-standing measurement challenges.",
+        "To address this knowledge gap, the research team, in collaboration with researchers from Nanjing University of Information Science and Technology, East China Normal University, Ocean University of China, South China University of Technology and HKUST (Guangzhou), combined an innovative atmospheric ON measurement method with extensive open-ocean and polar marine observations and a global atmospheric chemistry model to quantify ON deposition.",
+        "Yu stated, \"Our study demonstrates that atmospheric ON is far from a minor player in marine ecosystems. Rather, it is a vital nutrient source for global oceans that has often been overlooked. Through an innovative measurement method, coupled with cross-disciplinary collaboration among researchers in atmospheric observations, atmospheric modeling, marine science and polar research, we were able to quantify this crucial biogeochemical link between the atmosphere and marine ecosystems.\"",
+        "Traditional methods measure ON by subtracting inorganic nitrogen (IN) from total nitrogen—an error-prone and laborious approach that has left major gaps in global data sets. To address these gaps, the team previously developed a high-sensitivity analytical method capable of simultaneously measuring both aerosol ON and IN.",
+        "In the present study, the team applied this method to 418 marine aerosol samples from 21 research cruises, including multiple expeditions to the Arctic and Antarctic. The samples spanned a wide range of oceanic regions, from the tropical to the polar oceans, including the Arctic and Southern oceans, producing the most comprehensive ON data set to date.",
+        "The results revealed that aerosol ON concentrations varied by over three orders of magnitude, ranging from below 0. 01 μg N m⁻³ over the remote Southern Ocean to above 10 μg N m⁻³ over the Yellow Sea along the western margin of the Pacific Ocean. On average, ON accounted for 30% of total aerosol nitrogen.",
+        "The team used these extensive measurements to constrain a three-dimensional atmospheric chemistry model of ON, quantifying ON deposition into the global oceans at 12. 8 million tonnes per year. The analysis identified the three largest sources of ON to the oceans as biomass-burning emissions (4. 8 million tonnes annually), marine aerosol emissions (3. 9 million tonnes annually) and imines produced chemically in the atmosphere (2. 2 million tonnes annually). Together, nonmarine sources, such as wildfires and human activities, contribute 8. 9 million tonnes of ON annually, representing 70% of total ON deposited into the oceans.",
+        "Fu explained, \"These terrestrial sources act as an important external nutrient input that can stimulate open-ocean productivity, and changes in these emissions may affect marine nutrient dynamics.\"",
+        "Swati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has experience editing research documents across technology, health care, and materials science, and has a particular interest in technology and space. Full profile &rarr;",
+        "Bachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile &rarr;",
+        "Atmospheric organic nitrogen deposition to global oceans totals 12. 8 million tonnes annually, accounting for 27% of total nitrogen deposition and about half in some nitrogen-limited waters. Nonmarine sources supply 70% of this organic nitrogen, highlighting terrestrial emissions as a substantial external nutrient input."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "scitechdaily-one-in-four-consumers-would-pay-225-more-for-salmon-safe-t",
+      "title": "One in Four Consumers Would Pay $225 More for Salmon-Safe Tires. Would You?",
+      "dek": "In a West Coast survey, one in four consumers said they would pay $225 extra for salmon-safe tires, bringing wildlife conservation into an everyday buying decision.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-22T17:15:17.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/one-in-four-consumers-would-pay-225-more-for-salmon-safe-tires-would-you/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "In a West Coast survey, one in four consumers said they would pay $225 extra for salmon-safe tires, bringing wildlife conservation into an everyday buying decision.",
+        "Buying new tires could someday give drivers a way to help protect salmon. A new study suggests that many consumers would pay extra for tires labeled “salmon safe,” potentially creating a market for products designed to reduce harm to fish.",
+        "The idea comes from a troubling discovery made several years ago. Research co-led by Washington State University (WSU) scientists found that 6PPD, a chemical added to tires to prevent them from breaking down too quickly, is toxic to coho salmon. When tire debris from roads reaches freshwater streams, the chemical can kill the fish.",
+        "Tire manufacturers are now exploring new formulations that would eliminate 6PPD. As that work continues, economists at WSU wanted to understand whether consumers would voluntarily spend more on tires that could help protect salmon.",
+        "“The tire doesn’t exist yet, but we wanted to know how the general population might value the tire after it’s been developed,” said Joe Cook, a professor in WSU’s School of Economic Sciences and lead author of the study. “As the tire industry explores reformulation, we hope this demonstrates there is a potential market for ‘eco-labeled’ tires.”",
+        "Cook, who works at WSU’s Puyallup Research and Extension Center, conducted the research with Wisnu Sugiarto, a professor at Whitman College and former WSU graduate student. Their findings were published in the journal Marine Resource Economics .",
+        "The researchers surveyed nearly 700 residents of California, Oregon, and Washington, asking how much they would be willing to pay for hypothetical salmon-safe tires. They then compared those amounts with what participants reported spending on their most recent tire purchases.",
+        "The median willingness to pay was 10% above the previous purchase price, equivalent to roughly $76 more for a set of four tires. That means half of respondents were willing to pay a larger premium, while the other half would pay less.",
+        "Some participants placed an even higher value on protecting salmon.",
+        "“Approximately 25% of people said they would pay a premium of $225 for a set of four salmon-safe tires,” Cook said. “This shows that protecting salmon is very important for a sizeable group of consumers in the three states.”",
+        "The results suggest that environmental concerns could influence an ordinary purchasing decision, even when consumers would have to spend more. For tire manufacturers considering alternatives to 6PPD, that willingness to pay could point to a potential market for products advertised as safer for salmon.",
+        "However, the researchers emphasized that what consumers say they would voluntarily pay for an environmentally friendly product is different from what manufacturers might charge if regulations required them to remove 6PPD.",
+        "“This study is about voluntary eco-labeling for a hypothetical product,” Cook said. “We aren’t saying that prices would go up this amount if 6PPD is regulated out of tires — that ultimately would depend on what it costs for tire manufacturers to reformulate and how competitive the tire industry is.",
+        "“Our results couldn’t be used in a benefit-cost analysis of a state or federal regulation,” he continued. “That would require a different survey approach, but we would be excited to look at that and well-placed to do that work.”"
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "scitechdaily-earths-ozone-hole-swells-to-more-than-twice-the-size-of-th",
+      "title": "Earth’s Ozone Hole Swells to More Than Twice the Size of the United States",
+      "dek": "An unusually powerful polar vortex caused the Antarctic ozone hole to swell to its seventh-largest size on record in 2026, covering more than twice the area of the United States.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-22T16:40:21.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/earths-ozone-hole-swells-to-more-than-twice-the-size-of-the-united-states/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "An unusually powerful polar vortex caused the Antarctic ozone hole to swell to its seventh-largest size on record in 2026, covering more than twice the area of the United States.",
+        "Unusual weather patterns over Antarctica caused the ozone hole to expand dramatically in 2026, making it one of the largest observed in nearly five decades. Despite its extraordinary size, scientists from NASA and NOAA emphasize that Earth’s protective ozone layer continues to recover and remains on course to heal later this century.",
+        "The 2026 Antarctic ozone hole ranked as the seventh-largest in 48 years of observations, based on its average seasonal area. Scientists attributed the expansion primarily to an exceptionally strong polar vortex, a powerful circulation of winds surrounding Antarctica. However, they also noted that decades of international efforts to reduce ozone-destroying chemicals prevented the hole from becoming even larger.",
+        "Between September 7 and October 13, 2026, when ozone depletion was most intense, the hole covered an average of approximately 9. 6 million square miles (25 million square kilometers). That is more than twice the size of the United States. Scientists closely monitor ozone high in the atmosphere because it serves as Earth’s natural “sunscreen,” protecting living organisms from harmful ultraviolet radiation. This beneficial ozone in the stratosphere differs from ground level ozone, an air pollutant often produced by human activities.",
+        "“The annual ozone hole has been forming later in the season in recent years, which tells us the ozone layer is healing,” said Paul Newman, a senior scientist at the University of Maryland and longtime leader of NASA’s ozone research team at the agency’s Goddard Space Flight Center. “But an unusually powerful polar vortex has extended ozone depletion in the Antarctic this season, allowing the hole to grow to proportions we haven’t seen in a decade.”",
+        "The ozone hole reached its maximum size on September 18, expanding to 10. 5 million square miles (27. 1 million square kilometers). That was approximately 90% of the size of the largest ozone hole ever measured, which occurred on September 9, 2000.",
+        "“The 2026 ozone hole is large but could have been 1 to 2 million square miles (3. 5 million square kilometers) larger if ozone-depleting substances were as prevalent in the atmosphere today as they were at their year 2000 peak,” Newman said.",
+        "Ozone destruction begins with human-made chemicals containing chlorine and bromine. After entering the environment, these compounds gradually rise into the stratosphere, where ultraviolet sunlight breaks them apart and releases chlorine and bromine atoms. These atoms can then participate in chemical reactions involving particles in clouds that form in the extremely cold Antarctic stratosphere, leading to the breakdown of ozone.",
+        "A major factor in this process is the polar vortex, a seasonal ring of strong winds that circulates around Antarctica high in the atmosphere. By trapping exceptionally cold air over the continent, the vortex creates conditions that allow polar stratospheric clouds to develop. These clouds provide an important environment for the chemical reactions responsible for ozone depletion.",
+        "In 2026, the polar vortex was unusually extensive because atmospheric disturbances that normally weaken and disrupt it were less active than usual.",
+        "“The polar vortex was unusually large this year in part because planetary-scale weather systems that typically well up from the lower atmosphere and break up the vortex were especially weak in August and September,” said Amy Butler, a research scientist at the NOAA Chemical Sciences Laboratory. “That weak wave action kept the strongest polar vortex winds further from the South Pole by several degrees of latitude, creating a larger area for conditions ideal for ozone depletion to occur.”",
+        "Although the 2026 ozone hole covered an exceptionally large area, the amount of ozone lost within it was less severe than during some of the most extreme depletion events recorded over the previous 10 to 20 years.",
+        "To measure ozone concentrations, NOAA researchers used instruments carried into the atmosphere by balloons launched from the South Pole Baseline Atmospheric Observatory. They also collected measurements with the Dobson Ozone Spectrophotometer, an optical instrument designed to measure atmospheric ozone. Their observations showed that ozone directly above the South Pole fell to its lowest concentration of the year on October 17, reaching 105 Dobson units."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "phys-jwst-finds-a-possible-black-hole-that-grew-faster-than-its",
+      "title": "JWST finds a possible black hole that grew faster than its host galaxy in the early universe",
+      "dek": "How the first massive black holes formed in the universe remains an open question in astronomy. ",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-22T16:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "How the first massive black holes formed in the universe remains an open question in astronomy. Black holes weighing about a billion solar masses within the first billion years of the universe require extraordinary origin stories.",
+        "Now, a new multiwavelength study of a potential black hole may offer a clue. Combining spectroscopy from the James Webb Space Telescope (JWST) with Hubble imaging and archival data from the Very Large Telescope's MUSE instrument, astronomers identified this black hole in MARTA 3887, a clumpy, metal-poor galaxy as seen about 12 billion years ago. This black hole appears to have a mass of about 3. 3 million suns and sits in a galaxy containing roughly 145 million solar masses in stars. The discovery paper, posted to the arXiv preprint server, explains why this is unusual.",
+        "Many recent studies have revealed early black holes that have a different relationship with their host galaxies, compared to what's seen in the nearby universe. Early black holes are too heavy compared to their host galaxies' stellar masses. This suggests the black holes in the early universe may grow quicker than the stars.",
+        "Researchers point out another factor that may affect the 'overmassive black holes' sample. Surveys can only detect black holes that are bright or fast-moving enough, so the samples have the heaviest ones for a given galaxy mass. Those giant black holes are only the tip of the iceberg. To really understand how black holes form and grow, astronomers need to look for the smaller, more typical ones too. But these are also hard to detect.",
+        "The signals from supernovae exploding into dense gas, shocks, and outflows can mimic faint black holes. In young, metal-poor galaxies, the spectral line ratios used to differentiate black hole-powered gas from star-powered gas may overlap, and extreme stars can mimic an active galactic nucleus (AGN), a galaxy powered by a massive black hole.",
+        "In the new study, Mirko Curti of the INAF—Astrophysics and Space Science Observatory of Bologna and colleagues used many lines of evidence rather than one to ask whether the object at the center of MARTA 3887 is an overmassive black hole.",
+        "Using the spectroscopic observations from JWST, they detected a wide hydrogen-alpha line, which revealed that the gas is moving at about 1,270 kilometers per second (790 miles per second). The signal appeared only in hydrogen, not in other kinds of lines such as those from oxygen that come from calmer gas. This pointed to a black hole rather than an ordinary outflow.",
+        "Next, they estimated the black hole's mass: roughly 3. 3 million times the sun's mass. This mass estimate places it among the lower-mass black holes found by JWST. The galaxy, on the other hand, has about 145 million solar masses of stars, so the black hole is roughly 2. 3% of the stellar mass.",
+        "Researchers note that this relation is \"approximately 2 dex above the local relation,\" which means it is about 100 times higher than the relationship extrapolated from nearby galaxies. This suggests that \"black-hole growth has outpaced the assembly of the observed stellar component,\" the team writes in the paper.",
+        "The galaxy itself is compact and clumpy and is low in heavy elements, about 10% of the sun's level, which is typical of a young galaxy. It is forming stars fast, roughly five to nine solar masses of new stars per year, mostly in a recent burst.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "The researchers then explored how the 'outpacing' could have happened. They built simple growth trackers assuming one black hole grows steadily from a seed, with no mergers, at a constant feeding rate. Each track was set to end at the measured mass at the time they observed the galaxy."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-ancient-meteorites-may-have-delivered-one-of-lifes-most-es",
+      "title": "Ancient Meteorites May Have Delivered One of Life’s Most Essential Ingredients to Earth",
+      "dek": "Ancient meteorites may hold the key to understanding when and how Earth acquired one of life’s most essential elements.",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-22T16:05:19.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/ancient-meteorites-may-have-delivered-one-of-lifes-most-essential-ingredients-to-earth/"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "Ancient meteorites may hold the key to understanding when and how Earth acquired one of life’s most essential elements.",
+        "Carbon erupting from Hawaiian volcanoes may have originated deep within Earth’s metallic core, carrying a chemical fingerprint that dates back to the planet’s formation. A new study suggests that carbon-rich meteorites delivered a substantial amount of Earth’s carbon during its early history, potentially helping supply the element that would eventually become essential to life.",
+        "Researchers analyzing volcanic rocks from Hawaii identified an unusual carbon isotope signature that may trace back to Earth’s core. “We think that we found evidence of carbon from Earth’s core leaking into the core-mantle boundaries and traveling all the way to the surface,” says lead author Yves Moussallam, an associate professor at Columbia University’s Department of Earth and Environmental Sciences and Lamont-Doherty Earth Observatory. The findings were published in the Proceedings of the National Academy of Sciences .",
+        "The researchers examined volcanic rocks from Kīlauea and the Tantalus Rift, two Hawaiian volcanic systems that draw magma from different regions of the mantle. Samples from the Tantalus Rift contained carbon isotope signatures of approximately -5 to -7 per mil, consistent with typical mantle carbon. Kīlauea’s samples, however, had a much heavier signature of approximately -1 per mil, a value rarely observed in previous measurements.",
+        "“This signature is very, very distinct from the normal mantle,” says Moussallam. “This means it must have been contaminated by another carbon source and that source is probably carbon from the core.” Although the team considers the core the most likely source, the isotope measurements do not establish that origin conclusively.",
+        "Earth’s mantle extends roughly 1,800 miles beneath the crust, separating the surface from the planet’s metallic core. Scientists believe much of Earth’s carbon resides in the core, which cannot be directly sampled. However, research suggests that some materials from the liquid outer core may cross into the mantle and eventually reach the surface through mantle plumes. These rising columns of hot rock can partially melt as they approach the crust, supplying magma to volcanoes. Kīlauea is thought to receive magma from near the center of a plume that originates close to the core-mantle boundary, while the Tantalus Rift samples appear to represent the plume’s outer regions.",
+        "To investigate the carbon carried by these magmas, Moussallam’s team used a recently developed technique to measure carbon isotopes inside tiny pockets of trapped melt. As magma cools, growing crystals can enclose droplets of molten rock before dissolved gases escape. These sealed pockets, called undegassed melt inclusions, preserve carbon dioxide from the original magma. “These melts are fossils of the magma,” Moussallam says.",
+        "The researchers then compared Kīlauea’s unusual carbon signature with measurements from ancient meteorites. Moussallam argues that carbon preserved in Earth’s core should reflect “the signature of the building blocks of Earth when it was created.” The closest similarities appeared in carbonaceous chondrites, a carbon-rich class of meteorites associated with the outer regions of the early solar system.",
+        "Chondrites contain some of the solar system’s oldest surviving material, dating back more than 4. 5 billion years. “All of Earth is made of chondrites,” Moussallam explains. “They’re the building blocks of all the terrestrial planets.” Scientists distinguish between noncarbonaceous chondrites, associated with the inner solar system, and carbonaceous chondrites, which formed farther from the Sun. How much each group contributed to Earth’s formation remains debated.",
+        "The researchers propose that carbonaceous chondrites struck Earth relatively late in its formation, when the growing planet was better able to retain carbon delivered by incoming material. Some of that carbon may have entered the core before eventually moving into the mantle and reaching the surface through volcanic activity. The isotope similarities support this possibility, but confirming that the carbon actually originated in the core will require additional evidence. “We don’t really know. We need more measurements,” cautions Moussallam.",
+        "The proposed journey would connect carbon delivered by ancient meteorites, stored deep inside Earth, and eventually released into the environment where living organisms could incorporate it. “It’s fun to think about. We’re made of carbon, right? To think that some of this carbon might at some point have been linked to iron in the planet’s core, made it all the way to the surface from out of a volcano, and is now part of the biosphere, is very interesting.”"
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "phys-mercury-gets-its-first-visitor-in-years-as-a-pair-of-space",
+      "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
+      "dek": "A pair of spacecraft slipped into orbit around Mercury on Saturday after an eight-year cruise through the inner solar system to unravel our littlest planet's mountain of mysteries.",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T15:20:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-mercury-visitor-years-pair-spacecraft.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "A pair of spacecraft slipped into orbit around Mercury on Saturday after an eight-year cruise through the inner solar system to unravel our littlest planet's mountain of mysteries.",
+        "The linked robotic explorers —one European, the other Japanese—will separate from one another next month in order to map and study the scorching little planet from different altitudes. The $2 billion (1. 7 billion euros) mission is known collectively as BepiColombo.",
+        "The European Space Agency announced BepiColombo's arrival via social media. A series of thruster firings slowed the spacecraft enough to be captured by the planet's weak gravity. But it took several anxious hours before flight controllers in Germany—94 million miles (152 million kilometers) away—could confirm that BepiColombo had achieved orbit. Teams pored over the data streaming back; additional information was not immediately available.",
+        "BepiColombo is only the third spacecraft to visit Mercury—the sun's closest planet and barely bigger than our moon—and the first in more than a decade.",
+        "NASA's Mariner 10 flew past Mercury three times in the mid-1970s. The team included the late Italian mathematician Giuseppe \"Bepi\" Colombo, for whom this latest mission is named. NASA's Messenger spacecraft entered orbit around Mercury in 2011 and, after running out of fuel, crashed into the planet in 2015.",
+        "Launched in 2018, BepiColombo took a slower, more roundabout route to get to Mercury, flying once past Earth, twice past Venus and six times past Mercury for gravity-guiding assists. All those loop-de-loops put more than 6 billion miles (10 billion kilometers) on the odometer. The conjoined spacecraft shed their mother ship in September for the final leg of the journey.",
+        "Lead project scientist Geraint Jones said he and others can't wait for all the new data to start streaming down in the spring. The mission will provide the ability to compare \"unprecedented measurements taken by two spacecraft at the planet at the same time,\" he noted.",
+        "Once orbiting separately, the European Space Agency's satellite and the Japan Aerospace Exploration Agency's smaller craft will study Mercury's dense interior and exterior magnetic field, as well as everything in between: impact craters, volcanic plains, mountain ridges and peaks jutting as high as 3 miles (4 1/2 kilometers).",
+        "The mercury at Mercury can hit more than 800 degrees (427 degrees Celsius), adding strain to electronic and engineering systems. Space agency officials want to keep the mission going for at least one Earth year—or the equivalent of four Mercury years.",
+        "\"The spacecraft and its instruments need to be kept as cool as possible, which is a huge technical challenge in itself,\" Jones said in an email.",
+        "Despite its relative proximity to Earth, Mercury is one of the solar system's least explored planets. Only outer planets Uranus and Neptune have had fewer visitors—a lone Voyager 2 back in the 1980s.",
+        "© 2026 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
+        "BepiColombo’s two spacecraft entered Mercury orbit after an eight-year journey. After separating, they will make simultaneous measurements from different altitudes to investigate the planet’s interior, surface and magnetic field. The mission is planned to last at least one Earth year.",
+        "Please select the most appropriate category to facilitate processing of your request"
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "phys-cop31-fails-to-agree-on-climate-deal-in-chaotic-finale",
+      "title": "COP31 fails to agree on climate deal in chaotic finale",
+      "dek": "The COP31 climate talks headed for a historic defeat Sunday after the EU and other countries refused to endorse a pact that omitted fossil fuels as the summit lurched into…",
+      "category": "环境",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T15:07:54.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-cop31-climate-chaotic.html"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "The COP31 climate talks headed for a historic defeat Sunday after the EU and other countries refused to endorse a pact that omitted fossil fuels as the summit lurched into record overtime in Turkey.",
+        "The main deal was rejected by a host of nations 44 hours after the summit's official close in a chaotic COP31 finale in the Turkish city of Antalya.",
+        "\"We will not endorse a cover decision ... that does not even mention fossil fuels, which is the key driver of climate change,\" said Ireland's climate minister, Darragh O'Brien, whose country holds the rotating EU presidency.",
+        "COP31 President Murat Kurum conceded the deal had failed to reach consensus.",
+        "\"I understand that there is no agreement on this text. For that reason, these decisions have not been adopted,\" he told the closing session.",
+        "Fossil fuels are a flashpoint at the climate talks, which come against a difficult backdrop of soaring energy prices and geopolitical tensions stemming from the war between the United States and Iran that has roiled the Middle East.",
+        "Language around fossil fuels is fiercely opposed by petrostates such as Saudi Arabia.",
+        "With expectations low, negotiations chief Australia had sought an overarching \"cover decision\" to capture what countries agreed at COP31 and send a signal about the future course of climate action.",
+        "But the final proposal failed to mention coal, oil and gas at all, plunging the summit into turmoil as it broke the record for the longest-ever U. N. climate conference.",
+        "\"We will not compromise our future to benefit fossil fuel interests. We will not accept an outcome that undermines our security and threatens our future,\" the Marshall Islands climate envoy Kathy Jetnil-Kijiner told delegates.",
+        "Panama, a vocal critic of the U. N. climate talks, Vanuatu and Belize also rejected the pact.",
+        "Outside the assembly hall, O'Brien told AFP the summit had been \"hijacked by some oil states.\"",
+        "Decisions at the U. N. climate talks are taken by consensus, meaning just one of the nearly 200 nations involved can block agreement.",
+        "Threats of a walkout Saturday prompted Turkey and Australia to convene a hurried meeting between the European Union and Saudi Arabia, but a compromise remained elusive."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "phys-hybrid-nanocrystal-surface-reveals-new-way-to-tune-interac",
+      "title": "Hybrid nanocrystal surface reveals new way to tune interactions with infrared light",
+      "dek": "A one-crystal-thick sheet made from two types of nanocrystals mixed in solution can amplify or suppress infrared light beyond the sum of its parts.",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T15:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-hybrid-nanocrystal-surface-reveals-tune.html"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "A one-crystal-thick sheet made from two types of nanocrystals mixed in solution can amplify or suppress infrared light beyond the sum of its parts.",
+        "Known as a metasurface, this sheet contains randomly mixed nanocrystals—made of indium oxide doped with 1% or 3% tin—that interact with one another and infrared light to produce the superlinear optical effect.",
+        "Experimental results helped the team build a model that other researchers can use as a design tool, allowing them to choose the optimal doping levels and mixing ratios of nanoparticles to achieve certain light-matter interactions.",
+        "Specifically, incoming infrared light stirs up waves of electrons, called plasmons, on the metasurface that trap light on the nanocrystals and in the tiny gaps between them. Depending on the infrared light's frequency, the mismatched electron waves of neighboring 1% and 3% indium tin oxide (ITO) nanocrystals either boost or suppress that trapped energy.",
+        "\"We used different techniques and different theoretical backgrounds, and even though we studied them independently at first, eventually everything pointed toward a single theory and a single phenomenon,\" said Yujin Park, a postdoctoral research fellow of chemical engineering at U-M and lead author of the study published in ACS Nano .",
+        "This collaborative study included researchers from Oak Ridge National Laboratory, Lawrence Berkeley National Laboratory, University of Texas at Austin, University of Colorado Boulder and Institució Catalana de Recerca i Estudis Avançats (ICREA) in Barcelona, Spain.",
+        "The U-M team first observed the deviations from linear optical effects with a far-field infrared spectroscopy technique. An infrared light source shines on the material as a whole, effectively averaging out the interactions among all the tiny crystals.",
+        "The researchers brought the light source closer, known as a near-field technique, to understand how optical responses vary across the metasurface in small clusters of nanocrystals using synchrotron infrared nanospectroscopy, or SINS for short, at Lawrence Berkeley National Laboratory. SINS revealed that absorption varied from spot to spot depending on each particle's immediate neighbors.",
+        "The electron beam in a powerful electron microscope at Oak Ridge National Laboratory zoomed in even closer with subnanometer precision. The technique mapped plasmon energy patterns around individual nanocrystals, confirming that the 1% and 3% ITO nanocrystals were truly randomly mixed and showing how neighboring particles interact to change how the material absorbs light.",
+        "The 3% ITO nanocrystals produce higher-energy plasmon waves compared to 1% ITO nanocrystals. Like tuning forks of two different pitches vibrating in water, their ripples overlap in the 2. 5-nanometer gaps between nanocrystals—reinforcing each other at some incoming infrared light frequencies and dampening each other at others.",
+        "\"There are things that are invisible to light that become very obvious in the electron beam. We could readily differentiate the nanocrystals doped with 3% tin from the ones doped with 1% tin based on the way they interact with the electron beam, an interaction that's completely invisible with light,\" said Delia Milliron, the James and Judith Street Professor of Chemical Engineering at U-M and a senior author of the study.",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly .",
+        "\"The experimental data from this study validate the physical picture predicted from electromagnetic simulations, paving the way for computation-guided engineering of nanocrystal-based plasmonic metasurfaces,\" said Thomas Truskett, the Vennema Professor of Chemical Engineering at U-M and a senior author of the study.",
+        "Importantly, manufacturing metasurfaces in solution sidesteps the limitations of expensive, top-down manufacturing like etching microscopic patterns on a surface, helping scale up the technology."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "scitechdaily-spacex-dragon-returns-to-earth-with-a-treasure-trove-of-sc",
+      "title": "SpaceX Dragon Returns to Earth With a Treasure Trove of Scientific Secrets",
+      "dek": "A SpaceX Dragon spacecraft has returned to Earth carrying an unusual collection of scientific cargo, including cancer research samples, 3D-printed blood vessels, and bacteria…",
+      "category": "环境",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T14:27:37.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/spacex-dragon-returns-to-earth-with-a-treasure-trove-of-scientific-secrets/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "A SpaceX Dragon spacecraft has returned to Earth carrying an unusual collection of scientific cargo, including cancer research samples, 3D-printed blood vessels, and bacteria studied in space. The experiments could provide valuable insights into human health, lead to better medical treatments, and help astronauts stay healthy on future missions.",
+        "The uncrewed capsule splashed down in the Pacific Ocean near Los Angeles at 2:03 p. m. PST, successfully completing NASA’s 35th SpaceX commercial resupply mission to the International Space Station.",
+        "Dragon departed the orbiting laboratory at 11:05 a. m. CST on November 20, bringing back research materials that scientists can now examine in detail on Earth. Unlike many spacecraft that deliver supplies to the station, Dragon is also designed to return cargo safely, making it especially valuable for experiments that require further laboratory analysis.",
+        "Among the returning experiments is a 3D-bioprinted blood vessel construct created to investigate how blood vessels age and how cardiovascular diseases develop.",
+        "Bioprinting is a technology that uses living cells and specialized materials to build structures resembling human tissue. By studying these blood vessel models in microgravity, where objects experience near weightlessness, researchers hope to gain a better understanding of biological changes that may affect people both in space and on Earth.",
+        "Dragon also carried frozen tumor organoids that had undergone experimental treatments aboard the space station. Organoids are small, laboratory-grown models that reproduce certain characteristics of human tissues or tumors, allowing scientists to investigate diseases and test potential therapies.",
+        "Researchers hope these samples will reveal information that could improve cancer treatments and support personalized medicine, an approach that aims to tailor medical care to the characteristics of individual patients.",
+        "Another set of experiments focuses on antibiotic resistance, a growing medical concern worldwide. Frozen microbial samples returned aboard Dragon will help scientists examine how bacteria that resist antibiotic treatments survive, adapt, and evolve in the unusual environment of space.",
+        "Understanding these changes could be important for protecting astronauts on extended missions, when access to medical care is limited. The findings may also offer useful insights into how antibiotic-resistant microbes behave.",
+        "The returning cargo included a specialized lighting system that spent more than three years aboard the space station. Researchers used the equipment to investigate how lighting could improve astronauts’ sleep and overall well-being during long missions.",
+        "Light plays an important role in regulating the body’s internal clock, which influences when people feel alert or sleepy. Maintaining a healthy sleep schedule can be especially challenging aboard the space station, which circles Earth roughly every 90 minutes and experiences numerous sunrises and sunsets each day.",
+        "The spacecraft’s journey began on October 13, when it launched aboard a SpaceX Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. Dragon reached the International Space Station two days later, on October 15.",
+        "After spending more than a month at the orbiting laboratory, the spacecraft returned with scientific samples and equipment ready for further examination.",
+        "Although the experiments have not yet established new medical breakthroughs, the research could contribute to advances in cancer treatment, cardiovascular health, infectious disease research, and astronaut safety. The results may ultimately benefit patients on Earth while helping NASA prepare for longer journeys deeper into space."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "phys-milky-way-simulation-reaches-record-resolution-with-the-he",
+      "title": "Milky Way simulation reaches record resolution with the help of three supercomputers",
       "dek": "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
       "category": "科学",
       "tags": [
         "Phys.org"
       ],
       "date": "2026-11-22",
-      "publishedAt": "2026-11-21T20:00:05.000Z",
+      "publishedAt": "2026-11-22T14:00:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-sugar-based-hydrogel.html"
-      },
-      "cover": "star",
-      "accent": "blue",
-      "paragraphs": [
-        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
-        "Most materials get weaker with use. But a team led by Chenfeng Ke, a professor of chemistry in Arts & Sciences at Washington University in St. Louis, has created a polymer that defies the usual laws of wear and tear.",
-        "\"Our smart material actually gets stronger the more it's bent and strained,\" Ke said. \"It has properties we have never seen before. It can remember, adapt, learn and grow. We're excited to think about the possible applications.\"",
-        "The breakthrough was described in a study published online in Nature Materials . Co-authors include graduate students Yufei Chen and Mingliang Bai and postdoctoral researcher Dan Zheng.",
-        "The patented polymer, created in Ke's lab with compatibility for 3D printing, is made from a biodegradable blend of sugar crystals and polyethylene glycol, a compound often used in laxatives and other health products. The mixture forms a hydrogel, a flexible material that can absorb and retain large amounts of water.",
-        "In tests, Ke and his team applied the material to a flexible, knee-like joint. \"We bent it 10,000 times, and the material performed just as we predicted,\" Ke said. \"The polymers in the hydrogel become more uniform and organized, making it stronger in exactly the places where the strain is happening.\"",
-        "The smart material owes its strength and adaptability to cyclodextrin, a sugar-based compound that forms ring-shaped structures. When the polymer is stretched or bent, these rings slide into position to reinforce the areas under strain. \"These moving rings are critical to the structural design,\" Ke said.",
-        "In many ways, the material mimics biological materials in the human body, including collagen, a protein that gives skin its strength and elasticity. \"Some of the most impressive smart materials are found in biology,\" Ke said. \"We used nature for inspiration.\"",
-        "Ke believes the polymer could have medical applications, particularly in protecting and repairing tissues.",
-        "\"Because it's made of sugar and polyethylene glycol, it's completely compatible with biological tissues,\" Ke said. \"We expect this material to attract interest from surgeons or orthopedic medical device companies who are looking for new approaches.\"",
-        "For example, the material could be used to support artificial joints or to repair damaged tissues. In either case, areas that aren't subjected to stress or strain would remain soft and pliable. \"If you're putting material into a body, you don't necessarily want it to be completely rigid,\" Ke said. \"The material gets stronger only where it's needed.\"",
-        "Ke is a chemist, not an orthopedist or medical device specialist, and he acknowledges that other experts may recognize applications he has yet to consider.",
-        "\"We want to work with experts at WashU Medicine and elsewhere to explore the possibilities,\" Ke said. \"Hopefully this paper will help us get the word out to researchers and potential investors.\"",
-        "So far, Ke and his team have produced the material in small quantities, just tens of grams at a time. But with the concept successfully demonstrated, they believe production could scale up to meet demand."
-      ],
-      "external": true,
-      "order": 2
-    },
-    {
-      "id": "phys-dropping-degree-requirements-linked-to-higher-pay-for-work",
-      "title": "Dropping degree requirements linked to higher pay for workers without degrees",
-      "dek": "The requirements set by human resources (HR) greatly influence the professional opportunities available to different segments of the population. ",
-      "category": "科学",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-22",
-      "publishedAt": "2026-11-21T18:20:01.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-degree-requirements-linked-higher-pay.html"
-      },
-      "cover": "orbit",
-      "accent": "lilac",
-      "paragraphs": [
-        "The requirements set by human resources (HR) greatly influence the professional opportunities available to different segments of the population. For instance, if a job requires applicants to have earned a bachelor's or master's degree in a relevant subject, people without them may be excluded from the selection process, even if they have gained relevant skills through experience or professional training.",
-        "Some employers in the United States and other countries have been removing degree requirements from job postings. These interventions are often part of an approach described as \"skills-based\" hiring, which places greater emphasis on the experiences and abilities of applicants than on their academic background.",
-        "Researchers at the University of Kentucky, the University of Illinois Urbana-Champaign and the Massachusetts Institute of Technology (MIT) recently set out to explore the possible impact of removing degree requirements for jobs by analyzing online job postings, along with associated employment and earnings records. Their findings, published in Nature Human Behaviour , suggest that workers in the U. S. without four-year college degrees hired into jobs that had dropped degree requirements earned more than comparable workers starting jobs that had never required one.",
-        "The researchers analyzed a large pool of data gathered by Lightcast, a company that records online job advertisements, and by the U. S. Census Bureau. This included job postings collected by Lightcast and U. S. Census Bureau employment records related to approximately 446,500 job starts in the U. S. between 2011 and 2021.",
-        "Firstly, the team tried to determine whether degree requirements had changed in the U. S. and whether this may have benefited people without degrees. In particular, they looked at whether a reduction in degree requirements was linked to a greater number of people without degrees being hired or differences in the starting pay these workers received.",
-        "\"Matching job postings to 446,500 job starts in U. S. administrative data from 2011 to 2021, we show that employers reduced the share of postings requiring a degree by more than 10%,\" wrote Thomas Lyttelton, Dylan K. Nelson and Nathan Wilmers in their paper.",
-        "The researchers found that workers without four-year degrees hired into jobs that dropped degree requirements earned approximately $4,600 more annually than workers with similar academic backgrounds hired for jobs that never required a degree. This advantage in earnings appeared to persist for at least five years.",
-        "Lyttelton and his colleagues also found that the workers without four-year degrees hired into jobs that dropped degree requirements were more likely to be Black, Hispanic or women than the workers they replaced. While removing degree requirements was found to have some social benefits, the team's analyses suggest that many employers still hired graduates for jobs that no longer listed degrees as required.",
-        "The findings of this study highlight the potential advantages of removing degree requirements from job postings, suggesting that it could give workers without four-year college degrees access to better-paid jobs. Moreover, changing degree requirements during the hiring process could be beneficial for the recruiting organizations.",
-        "\"Employers also benefit, as removing degree requirements reduces labor costs,\" wrote Lyttelton, Nelson and Wilmers. \"Yet most employers that drop requirements do not hire non-college workers (non-college hiring rises 1. 2 percentage points; 95% confidence interval, (0. 5, 2. 0)). Decredentialing is a promising tool for social mobility, but only when employers follow through.\"",
-        "In the future, the insights gathered by the authors could inspire more organizations to drop degree requirements. For such interventions to effectively broaden the opportunities available to less educated workers, however, companies need to commit to them and be prepared to actually select people without a degree.",
-        "Written for you by our author Ingrid Fadelli , edited by Gaby Clark , and fact-checked and reviewed by Robert Egan —this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.",
-        "Freelance journalist with BSc Psychology and MA International Journalism. Covers AI, robotics, neuroscience, and astrophysics since 2018. Full profile &rarr;",
-        "MA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile &rarr;"
-      ],
-      "external": true,
-      "order": 3
-    },
-    {
-      "id": "scitechdaily-1-000-year-old-welsh-legend-may-have-revealed-the-location",
-      "title": "1,000-Year-Old Welsh Legend May Have Revealed the Location of a Lost Roman Fortress",
-      "dek": "A medieval Welsh legend may have preserved the location of a real Roman fort, raising the possibility that other ancient stories contain forgotten pieces of history.",
-      "category": "文化",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-22",
-      "publishedAt": "2026-11-21T17:25:08.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/1000-year-old-welsh-legend-may-have-revealed-the-location-of-a-lost-roman-fortress/"
-      },
-      "cover": "cup",
-      "accent": "orange",
-      "paragraphs": [
-        "A medieval Welsh legend may have preserved the location of a real Roman fort, raising the possibility that other ancient stories contain forgotten pieces of history.",
-        "The recent discovery of a Roman timber fort in the Preseli hills of Pembrokeshire, southwest Wales, has brought a medieval Welsh legend into fresh focus.",
-        "The site is mentioned in Breuddwyd Macsen Wledig (The Dream of Macsen Wledig), a story about a Roman emperor who travels to Wales. Until now, the account of a camp in that location had largely been treated as a product of medieval imagination. But the archaeological discovery raises an intriguing question: can ancient stories preserve memories of places and events that have been lost to history?",
-        "The Dream of Macsen Wledig is one of the 11 medieval Welsh-language tales traditionally grouped together as the Mabinogion . These tales blend history, folklore, magic, and legend, while some people see in them lost myths. Featuring kings, warriors, magicians, and supernatural beings, the stories offer a glimpse into how people in medieval Wales understood their past and the world around them.",
-        "The tales survive in two important Welsh-language manuscripts: Llyfr Gwyn Rhydderch (the White Book of Rhydderch), compiled around the mid-14th century, and Llyfr Coch Hergest (the Red Book of Hergest), written toward the end of that century.",
-        "But the stories themselves are older. They had been transmitted and copied since before King Edward I’s conquest of Wales in 1282, and perhaps as early as the 11th century.",
-        "Five of the tales feature Arthur, the legendary warrior whose tales spread throughout all of Europe. The Four Branches of the Mabinogi are a group of stories spanning the landscapes of Wales, Ireland and England, of this world and the supernatural otherworld. The remaining two, including The Dream of Macsen Wledig, reshape particular strands of early British history through native storytelling. All the tales offer imaginative accounts of power and political authority.",
-        "In The Dream of Macsen Wledig, a Roman emperor falls in love with a woman he sees in a dream. Determined to find her, he sends messengers to follow the route he has dreamed of. Their journey takes them across Europe and eventually to what is now Caernarfon, in northwest Wales.",
-        "The emperor is called Macsen Wledig (Macsen the Leader). His character is a literary composite of a number of historical characters, most notably the Galician Magnus Maximus, a Roman general who became Emperor in the late 4th century. Born in a province that is now part of Spain and Portugal, Magnus Maximus seized power in Britain and went on to rule much of the western Roman Empire, including Gaul (roughly modern France and neighboring regions).",
-        "His legacy in Wales is particularly significant. In the popular Welsh song Yma o Hyd (Still Here), first released in 1983, the singer and former politician Dafydd Iwan invokes Magnus Maximus’s departure from Britain, supposedly leaving Wales behind as an entire nation.",
-        "The song draws on a powerful literary tradition – that the departure of Rome from Britain, just before the arrival of the English, saw the birth of Welsh identity.",
-        "But the medieval story is not a straightforward account of historical events. Like the song, it blends historical memory with imagination. Its importance lies not simply in whether every detail is factually accurate, but in what the story tells us about how Welsh people understood the past.",
-        "The woman in Macsen’s dream is Elen Luyddog (Elen of the Hosts). She is also a composite character, associated with two figures named Helen or Helena – Helen of Caernarfon and Helena of Constantinople, mother of Constantine the Great. Both were 4th-century saints.",
-        "In the story, Elen insists that Macsen travel to Wales to marry her. He agrees, and she becomes empress. Her father is appointed Viceroy of Britain, and together they begin building powerful fortresses. Elen asks Macsen to establish three towns: Caerllion (Caerleon), Caerfyrddin (Carmarthen) and Caernarfon."
-      ],
-      "external": true,
-      "order": 4
-    },
-    {
-      "id": "scitechdaily-scientists-finally-solve-the-1-700-year-old-mystery-of-8-0",
-      "title": "Scientists Finally Solve the 1,700-Year-Old Mystery of 8,000 Dead Frogs",
-      "dek": "Forests cleared for livestock in Roman Britain may have made young frogs more vulnerable to owls, revealing how human activity shaped wildlife nearly 1,700 years ago.",
-      "category": "环境",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-22",
-      "publishedAt": "2026-11-21T16:50:36.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-finally-solve-the-1700-year-old-mystery-of-8000-dead-frogs/"
-      },
-      "cover": "wave",
-      "accent": "blue",
-      "paragraphs": [
-        "Forests cleared for livestock in Roman Britain may have made young frogs more vulnerable to owls, revealing how human activity shaped wildlife nearly 1,700 years ago.",
-        "Finding 8,000 frog bones buried in a single ditch raised a strange question for archaeologists working along England’s A14 highway. What had killed so many frogs, and why had their remains accumulated in one place? Evidence that the ditch filled within just one year made the discovery even more puzzling.",
-        "Nearly a decade later, researchers from Bournemouth University and Museum of London Archaeology (MOLA) believe they have identified the culprits. The frogs were likely eaten by birds of prey, particularly short-eared owls and hen harriers, that took advantage of a landscape transformed by human activity during the Roman period.",
-        "The bones were uncovered between 2016 and 2018 during the National Highways A14 Cambridge to Huntingdon Improvement Scheme. After learning about the discovery through news reports, Dr. Paul Clarkson of Bournemouth University contacted Dr. Vicki Ewens, a senior zooarchaeologist at MOLA, to investigate.",
-        "Clarkson compared damage on the ancient bones with patterns documented in previous studies and found evidence that the frogs had been eaten by birds of prey. Although this helped identify the likely predators, it did not fully explain how so many remains had collected in such a short time.",
-        "A closer examination of the frogs’ ages offered another clue. Using a pioneering method based on measuring their humeri, or upper arm bones, the researchers determined that most had died young, during the winter of their first year of life. Radiocarbon dating conducted by the University of Vienna placed the remains approximately 1,700 years ago, during the Roman period.",
-        "At the time, Fen waters were retreating from the valley, creating favorable conditions for frogs to breed. This would have provided a plentiful food source for birds hunting in the area. Changes to the surrounding landscape may have made the young frogs even more vulnerable.",
-        "Short-eared owls typically hunt over grassland, yet the valley had been wooded during the Iron Age. To understand how the environment changed, researchers examined evidence from snails, pollen, and charcoal. Their findings showed that substantial areas of woodland had gradually been cleared to create grazing land for livestock.",
-        "By the Roman period, large stretches of open ground had replaced much of the woodland. With fewer trees providing cover, frogs would have been more exposed to predators hunting across the grassland.",
-        "“We don’t often get an owl’s-eye view of what it was like in the past from archaeological sites,” said Clarkson, who led the study.",
-        "“The mystery of these frogs has been solved – a feast of frogs that were eaten and their bones left behind by a group of owls. These bones not only tell us about life for people living near the Roman Fens, but they also give insights into the natural world – what wild animals were getting up to in the past, and what life was like for them,” he added.",
-        "The findings may also offer clues about how people used the valley during Roman times. Researchers suggest that communities may have visited the area seasonally to move livestock between grazing pastures. A less crowded landscape could have provided favorable conditions for hunting birds, although this connection remains a possible explanation rather than a confirmed finding.",
-        "What began as an unusual collection of animal remains has therefore helped researchers reconstruct both the changing environment and the activities of people who lived near the Roman Fens.",
-        "As Ewens concludes, “I had so many theories as to why such a large collection of frog bones was recovered from this small feature. It’s been great to collaborate with Paul to finally answer this question. This research shows how even the smallest animal recovered on a site can help us to understand not only past environmental conditions but human activity within a wider landscape.”"
-      ],
-      "external": true,
-      "order": 5
-    },
-    {
-      "id": "scitechdaily-scientists-discover-bizarre-deep-sea-creature-that-survive",
-      "title": "Scientists Discover Bizarre Deep-Sea Creature That Survives Without Most of Its Digestive System",
-      "dek": "An unusual sea creature survives with much of its digestive system missing, thanks to a remarkable partnership with bacteria that could offer new clues about how life evolves.",
-      "category": "校园",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-22",
-      "publishedAt": "2026-11-21T16:15:32.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/scientists-discover-bizarre-deep-sea-creature-that-survives-without-most-of-its-digestive-system/"
-      },
-      "cover": "leaf",
-      "accent": "green",
-      "paragraphs": [
-        "An unusual sea creature survives with much of its digestive system missing, thanks to a remarkable partnership with bacteria that could offer new clues about how life evolves.",
-        "Deep beneath the seafloor, where sunlight never reaches and oxygen is almost nonexistent, scientists have discovered an unusual relationship that may help explain how marine life survives in some of Earth’s most extreme environments. A deep-sea mollusk living in the South China Sea contains a previously unknown cellular structure packed with bacteria, offering new clues about how animals adapt to conditions that would be inhospitable to most other species.",
-        "The discovery adds to a growing understanding of cold seep ecosystems, where life depends on chemical energy rather than sunlight. These environments contain abundant methane and hydrogen sulfide, which certain bacteria can use to support their metabolism. Animals such as deep-sea mussels, clams, and tubeworms have evolved close relationships with these microbes, providing them with shelter inside their cells in exchange for nutrients.",
-        "Until now, however, scientists had found no clear evidence that animals could develop specialized organelles dedicated to maintaining these bacterial partnerships.",
-        "The new research centers on Chaetoderma shenloong , also known as the Divine Dragon Glistenworm. This unusual mollusk belongs to the aplacophoran class Caudofoveata and can grow to more than 150 millimeters (nearly 6 inches) long, far larger than most of its relatives. Its distinctive characteristics earned it recognition as one of the “Top-Ten Marine Species of 2024.”",
-        "Researchers found that the animal spends much of its life buried tens of centimeters beneath the seafloor, in sediment rich in hydrogen sulfide and containing almost no oxygen. Understanding how it survives there led the team to examine an unexpected feature of its anatomy.",
-        "Using anatomical analysis, micro-computed tomography, and three-dimensional imaging, the scientists discovered that Chaetoderma shenloong has a digestive system unlike those of most mollusks. Its radula, a feeding structure commonly used by mollusks, is heavily reduced, while its midgut, hindgut, and anus have almost completely disappeared.",
-        "Instead, an extensive system of digestive glands occupies most of its body cavity. These glands contain enormous numbers of symbiotic bacteria that serve as the animal’s primary source of nutrients and energy.",
-        "Closer examination revealed something even more unusual inside the glands.",
-        "The bacteria were concentrated within spherical structures measuring approximately 10 to 15 micrometers across. Each structure was enclosed by more than 20 layers of membrane and contained hundreds to thousands of sulfur-oxidizing bacteria. The researchers named this structure the dracosphera , Latin for “dragon ball,” because of its beadlike shape and surrounding layers.",
-        "A single host cell accommodated more than 1,600 bacterial symbionts on average. The dracosphera also lacked familiar cellular components, including host nuclei and lysosomes, distinguishing it from an ordinary cell or a typical digestive compartment.",
-        "This arrangement suggests that the mollusk may have developed a specialized structure for housing and maintaining its bacterial partners, potentially representing a previously unrecognized form of cooperation between animals and microorganisms.",
-        "The scientists then investigated how this relationship might function in an environment where oxygen is so scarce.",
-        "Genomic analyses of Chaetoderma shenloong and its symbiotic bacteria revealed that the microbes possess adaptations allowing them to maintain their metabolism with very little oxygen. The mollusk, meanwhile, lives deep in the sediment to obtain chemicals such as hydrogen sulfide that its bacterial partners can use."
-      ],
-      "external": true,
-      "order": 6
-    },
-    {
-      "id": "phys-babies-in-ancient-greek-colony-started-solid-food-at-3-mon",
-      "title": "Babies in ancient Greek colony started solid food at 3 months but nursed for nearly 4 years, chemical signatures suggest",
-      "dek": "Over 2,500 years ago, Himera was a Greek colony inhabited by local Sicilians, Phoenicians and Greeks. ",
-      "category": "科学",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-21T15:40:02.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-babies-ancient-greek-colony-solid.html"
+        "url": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html"
       },
       "cover": "bulb",
       "accent": "yellow",
       "paragraphs": [
-        "Over 2,500 years ago, Himera was a Greek colony inhabited by local Sicilians, Phoenicians and Greeks. Despite their diverse cultural backgrounds, they all shared one thing: they began weaning their babies early and continued for a long time.",
-        "A new study published in the European Journal of Archaeology analyzed the chemical signatures in Himera children's bones and found that babies began eating solid foods at just 3 months but were not fully weaned until around 3. 8 years old. That's much longer than ancient writers suggested and sheds light on how mothers in a diverse society like Himera approached child care.",
-        "Laurie Reitsema, a biological anthropologist at the University of Georgia and a mother herself, said, \"It was exciting to see 2,500-year-old evidence of mothers' responsiveness to infant needs.\"",
-        "Himera was an ancient Greek outpost located in Sicily between the seventh and fifth centuries B. C. , the study authors wrote. It was founded by Dorian and Chalcidian colonists before growing into a large city home to a diverse multicultural population.",
-        "According to the study, archaeologists have uncovered over 13,000 burials. Many of these are of adults. Infant and child mortality appeared to be surprisingly low.",
-        "Children born into such a diverse world likely experienced different cultural realities than their parents and would become the seeds of cultural change across generations, the study reported. However, what these childhoods may have looked like remains unclear.",
-        "Weaning is one crucial cultural and biological milestone every child experiences. To better understand how that practice played out in the ancient city of Himera, Reitsema and her colleagues looked at the carbon and nitrogen chemical signatures preserved in some of its inhabitants' bones.",
-        "Nitrogen told them how long a baby was breastfed, because its values rise during nursing until a baby's chemical signature looks like a carnivore's. Carbon told them what plant-based solid foods babies ate once they stopped drinking only milk.",
-        "\"Breastfed babies look different than weaned babies, isotopically, because their diets consist of milk, which differs isotopically from other foods (babies are top carnivores! ),\" Reitsema said.",
-        "According to the study, the team examined 58 children's and 27 adult women's bones. What they found was that children at Himera began weaning early, around 3 months, around 2 to 3 months earlier than ancient physicians like Galen and Soranus recommended.",
-        "Meanwhile, breastfeeding continued far longer than in most modern preindustrial societies, for around 3. 8 years. Soranus recommended weaning at just 1. 5 years, and Galen suggested breastfeeding should stop at 3 years.",
-        "The study suggests this long period of breastfeeding may explain why Himera's infant mortality was so low.",
-        "\"Breastfeeding is well known to support infant survival,\" Reitsema said, \"especially in places without reliable access to clean, safe drinking water, which describes most of human history.\"",
-        "On the other hand, the study focused on children who died young, despite being breastfed for years. \"Would a baby with an optimal weaning trajectory be dying at age 2 or 3?\" Reitsema asked. \"It's possible that the weaning behaviors we see in this study reflect a specifically unsuccessful strategy.\""
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "A team of researchers, including those from the University of Tokyo, have developed a new way to model the Milky Way at a level of detail never achieved before. They simulated the entire galaxy down to the level of individual stars by combining the power of some of the world's most powerful supercomputers using an AI-accelerated model that works on a variety of hardware platforms. Their methods can improve our understanding of galactic evolution.",
+        "Their paper was presented at the International Conference for High Performance Computing, Networking, Storage and Analysis ( SC 2026 ), held Nov. 15–20 in Chicago.",
+        "It's nice to know where we came from and where we're going. This is true in ways we can see on different timescales: day to day, year to year, century to century, or even longer periods too. On the galactic level, scales of time and space can be so vast they become difficult to model. Galaxies contain hundreds of billions of stars, as well as gas and other materials, all interacting under gravity and other forces.",
+        "That means simulations are always based on models that are simplified in some way, often in temporal resolution or spatial complexity, because the more closely you try to represent everything we see in the galaxy, especially at small timescales, the more computing power is required. This is particularly challenging in a galaxy as large as the Milky Way, where small regions can change rapidly and demand many more calculation steps than the rest of the galaxy.",
+        "\"We expect better simulations as computational power increases, but this still requires work on improving resolutions, and for a Milky Way–sized galaxy, it's not straightforward,\" said Professor Michiko Fujii from the Department of Astronomy at the University of Tokyo.",
+        "\"When we look at smaller regions in detail, we encounter areas where the gas is denser and changes rapidly. This means the simulation needs to take much shorter steps in time, which greatly increases the amount of calculation required. We overcame this problem by using an AI model to predict how gas around supernova explosions evolves. This allowed us to carry out the simulation more efficiently and achieve a level of detail where individual stars can be represented.\"",
+        "They call the simulation PHEASANT, and the key to the approach is an AI model developed by postdoctoral researcher Keiya Hirashima from RIKEN. When a star goes supernova , it heats and pushes surrounding gas outward. Simulating this process in detail normally requires very small time steps. Hirashima's AI model predicts how the gas will change over time, allowing the main galaxy simulation to skip many of these smaller calculations.",
+        "According to the researchers, this makes the simulation around 20 times faster than directly calculating the same process in the usual exhaustive way. The team's most recent key development was to adapt their software to work efficiently on three different supercomputer systems, using different kinds of hardware including a mixture of CPUs and GPUs from different makers.",
+        "\"One of my parts was to develop an AI model that predicts how the gas surrounding a supernova explosion changes over time. If we calculate this process directly, we need time steps of around 100 years,\" said Hirashima. \"My model predicts gas distribution after 100,000 years. This means that, rather than having to calculate every small step, we can use a much longer time step for the entire galaxy simulation.",
+        "\"Making this work efficiently on different supercomputers was a challenge because each system uses different AMD, Intel or NVIDIA CPUs and GPUs. Achieving good performance across all three systems required some specific optimizations.\"",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
       ],
       "external": true,
-      "order": 7
+      "order": 14
     },
     {
-      "id": "phys-an-ancient-failed-rift-is-reawakening-inside-one-of-africa",
-      "title": "An ancient failed rift is reawakening inside one of Africa's oldest landmasses",
-      "dek": "In April 2017, a magnitude 6. 5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. ",
-      "category": "环境",
+      "id": "scitechdaily-a-common-meat-triggers-a-unique-muscle-building-peptide-st",
+      "title": "A Common Meat Triggers a Unique Muscle-Building Peptide, Study Finds",
+      "dek": "A new study found that lean ground pork triggered a distinctive increase in a naturally occurring peptide linked to muscle growth.",
+      "category": "健康",
       "tags": [
-        "Phys.org"
+        "SciTechDaily"
       ],
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-21T14:00:06.000Z",
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T12:52:39.000Z",
       "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html"
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-common-meat-triggers-a-unique-muscle-building-peptide-study-finds/"
       },
-      "cover": "leaf",
-      "accent": "green",
+      "cover": "flower",
+      "accent": "pink",
       "paragraphs": [
-        "In April 2017, a magnitude 6. 5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Cratons are the ancient cores of continents, and this one is built from blocks of crust up to 3. 7 billion years old. Geologists have long considered such regions too cold, too thick and too rigid to tear apart.",
-        "Now, a new study led by researchers at the Botswana International University of Science and Technology (BIUST) and the Lamont-Doherty Earth Observatory shows that the craton is indeed being pulled apart. It also shows that the rift doing the pulling has tried this before. The findings are published in the journal Tectonics . The work challenges long-held assumptions about continental stability, revealing how ancient geological seams can reactivate to fracture even the oldest continental cores.",
-        "\"The earthquake happened in the middle of the craton, a region where no one expected to have an active fault slipping, let alone an active plate boundary developing,\" says co-author Folarin Kolawole. He is a structural geologist at Lamont and an assistant professor in the Department of Earth and Environmental Sciences within the Faculty of Arts and Sciences.",
-        "The new rift lies at the far southern tip of the East African Rift System, where the African continent is slowly stretching apart. Rifts like these are the earliest stage of a divergent plate boundary, the kind that splits a continent and opens a new ocean if successful. For decades, scientists thought the southern end of this system lay in the Okavango Rift Zone of northern Botswana, first identified in the 1970s by Lamont geologist Christopher Scholz and colleagues. Studies of the 2017 earthquake revealed that it reaches nearly 200 miles (320 kilometers) farther, into the craton itself.",
-        "This is a surprise, considering how rifts usually go around cratons rather than through them. Around the world, continental rifts tend to follow mountain belts—the younger and weaker zones where ancient cratons once collided. Only a handful of rifts, such as the one that opened the Labrador Sea between Canada and Greenland, are known to have broken across a craton. \"It's counterintuitive,\" Kolawole says. \"It basically challenges age-old thinking.\"",
-        "\"Whether rifts do propagate through cratons has been a really big question in geoscience,\" says the study's lead author, Boniface Kgosidintsi of BIUST.",
-        "To understand how the rift is breaking into the craton, the team focused on the Khurutshe Fault, which cuts a 50-mile-long (80-kilometer-long) scarp, or step, across the flat Kalahari landscape about 50 miles (80 kilometers) south of the 2017 earthquake. In places, the land on one side of the fault sits as much as 400 feet (120 meters) higher than the other.",
-        "The researchers dug trenches across the scarp alongside Botswana's A1 highway and examined deeper excavations dug for a government water pipeline. They imaged the rock below with electrical resistivity tomography , which Kolawole likens to a CAT scan of the fault. And they analyzed records from 20 groundwater boreholes drilled across the area.",
-        "All three lines of evidence told the same story. When a fault slips, the land on one side drops, and sediment piles up in the low spot, forming a wedge that thickens toward the fault. The team found that both the modern Kalahari Desert sands and much older rock layers from the Jurassic period form such wedges against the same fault. That means the fault was moving in the Jurassic, roughly 180 million years ago, and is moving again today.",
-        "The trenches the researchers dug revealed more details about the fault's past. Beneath reddish-brown, windblown Kalahari sand, the team hit hard, highly cemented Jurassic sandstone shot through with white veins of calcite, \"a spider web network of whitish lines through the rocks,\" Kolawole says. The calcite was deposited by hot fluids, like those that build mineral terraces at Yellowstone's hot springs, rising through cracks opened by the fault. Some rock surfaces were polished and scored by slip along the fault."
+        "A new study found that lean ground pork triggered a distinctive increase in a naturally occurring peptide linked to muscle growth.",
+        "A new study suggests that the way the body processes protein after exercise may depend on more than how much protein a meal contains. Researchers found that lean ground pork produced a distinctive increase in a naturally occurring peptide linked to muscle protein synthesis, the biological process responsible for building and repairing muscle proteins.",
+        "Published in Molecular Nutrition & Food Research , the research examined how different protein sources affect amino acids and peptides circulating in the bloodstream after resistance exercise. The findings suggest that the structure and composition of whole foods may influence how protein is digested and made available to the body.",
+        "Researchers at the University of Illinois Urbana-Champaign analyzed blood samples and muscle protein synthesis measurements from two randomized controlled trials involving healthy young adults.",
+        "Following resistance exercise, participants consumed one of five nutritional treatments: low-fat ground pork, high-fat ground pork, black beans and rice, an isolated nutrient beverage containing amino acids and other nutrients, or a carbohydrate-only control drink. Each protein-containing treatment supplied approximately 20 grams (0. 7 ounces) of protein, allowing researchers to compare the body’s responses to different nutritional sources.",
+        "Among the five treatments, lean ground pork was the only one to produce a statistically significant increase above baseline in circulating dileucine, a peptide composed of two linked leucine molecules. Blood concentrations rose approximately 90 to 120 minutes after consumption. Dileucine has been associated with muscle protein synthesis, although scientists are still investigating its specific role in muscle metabolism.",
+        "Peak dileucine concentrations after lean ground pork consumption were significantly higher than those measured after the isolated nutrient beverage and carbohydrate control. However, the differences compared with high-fat ground pork and the beans-and-rice meal were not statistically significant.",
+        "Lean ground pork also produced the highest peak concentrations of leucine, an essential amino acid involved in regulating muscle protein synthesis. These levels were significantly higher than those following high-fat ground pork, beans and rice, or the carbohydrate control, but were not significantly different from the isolated nutrient beverage.",
+        "“These findings suggest that the body’s response to protein is influenced by more than the amount consumed,” said Nicholas A. Burd, PhD, corresponding author and researcher at the University of Illinois Urbana-Champaign. “Seeing how the whole-food matrix affects the release of amino acids and peptides into the bloodstream gives us a clearer picture of how dietary protein may actually drive muscle protein synthesis and remodeling.”",
+        "Across the protein-containing treatments, researchers identified a modest but statistically significant positive relationship between peak dileucine concentrations and changes in muscle protein synthesis. The same association was not observed with conventional leucine measurements.",
+        "Importantly, this does not establish that dileucine directly stimulates muscle growth or that lean ground pork produces greater muscle gains than other foods.",
+        "One possible explanation involves the food matrix, which encompasses a food’s physical structure and the interactions among its components. Researchers proposed that grinding meat could disrupt connective tissue, potentially making proteins more accessible to digestive enzymes and changing how amino acids and peptides enter the bloodstream.",
+        "The results add to research investigating how whole-food protein sources influence the body’s response to exercise. Although the protein content of a meal remains relevant, differences in food structure, fat content, and digestion may affect the timing and composition of nutrients reaching the bloodstream.",
+        "“Consumers often think about protein in terms of how many grams are on their plate, but science is showing us there is much more to the story,” said Kristen Hicks-Roof, PhD, RDN, LDN, Senior Director of Human Nutrition at the National Pork Board. “What’s exciting about this research is that it helps us better understand how a familiar food like ground pork delivers protein and how the body responds to it after exercise. Ground pork represents an important opportunity to connect emerging protein science with practical, nutritious meals people already enjoy.”"
       ],
       "external": true,
-      "order": 8
+      "order": 15
     },
     {
       "id": "conversation-armys-plan-to-blow-up-aging-explosives-will-spread-lead-ov",
@@ -353,8 +598,9 @@
       "paragraphs": [
         "The U. S. Army set off waves of anxiety in Iowa when it confirmed plans to carry out two controlled explosions at an ammunition facility there with just a few days’ notice . According to the Army, dozens of old barrels containing lead azide , an explosive used as a detonator, have become unstable and pose an “ unacceptable risk of accidental detonation .” Intentionally detonating the barrels is considered the best option for controlling the risk, the Army determined.",
         "However, the explosions are expected to release a large plume of lead particles, and lead is a neurotoxin. The Iowa Army Ammunition Plant is in Middletown, a town of about 360 residents in southeast Iowa. People and farms would be in the path of the plume as the wind blows it for miles.",
-        "The detonations were briefly delayed by the backlash and rescheduled for Nov. 23, 2026 . And a federal appeals court separately paused the Army’s emergency Environmental Protection Agency permit for the detonations after two groups sued. It wasn’t immediately clear if the plan would be delayed again. The Justice Department argues that the permit isn’t necessary in the face of an immediate threat.",
-        "With all the concern, we asked Patrick O'Shaughnessy, a professor of occupational and environmental health at the University of Iowa, about the risks people in the region would face. O'Shaughnessy is part of a team scrambling to have testing in place when the Army carries out its detonation plan.",
+        "The detonations were briefly delayed after the backlash and rescheduled for Nov. 23, 2026 . A federal appeals court separately paused the Army’s emergency Environmental Protection Agency permit for the detonations after two groups sued, but the U. S. Justice Department argued that the permit wasn’t necessary in the face of an immediate threat.",
+        "The Justice Department told the court in a response late on Nov. 21 that the Army intends to carry out the detonations by Nov. 24, 2026 . A precise date and time weren’t immediately released.",
+        "To better understand the risks, we asked Patrick O'Shaughnessy, a professor of occupational and environmental health at the University of Iowa, what people in the region would face. O'Shaughnessy is part of a team scrambling to have testing in place when the Army carries out its detonation plan.",
         "If you picture a dust plume, it carries particulate matter that can get into the lungs as you breathe. In this case, we’re talking about small particles that contain lead, which is toxic to humans and pets .",
         "Those particles will settle over the area downwind of the detonation site. First it’s air pollution – if you’re outside, you can inhale those particles. Then it becomes surface pollution. The lead dust can get on your hands and into your body. The big concern there is for young children . If you think about 2-year-olds, they put everything in their mouths.",
         "Lead is easily absorbed by the body. It gets into the bloodstream, and it can cause harm to just about every major organ in our bodies , including the nervous system and the brain. It tends to hide out in bones and teeth , where it can leach out and cause harm.",
@@ -373,192 +619,10 @@
         "Lead is a persistent compound – there’s no way to degrade it. Washing it off surfaces transfers the lead to the soil. At this point in the year, the majority of the crops have been harvested, so there’s less risk of lead settling on plants in farm fields. However, some dairy farmers are concerned about their cows getting into lead that settles on grass.",
         "Our results from sampling during and after the plume should help people better understand the risks.",
         "My colleagues and I will be looking at two aspects of potential exposure to lead: the airborne dust, which we’ll collect with instruments during the plume to get the lead concentration, and then dust that settles on surfaces and the ground, which we’ll collect with gauzelike pads and send to a lab for analysis.",
-        "The lab will be able to tell how much lead is in those samples, and the air samples will let us calculate how much people were exposed to the lead.",
-        "This is all happening last minute – we only found out about the plan a few days before the Army initially planned to detonate the barrels. Thankfully, the university and our federal- and state-funded centers have the people and technology to quickly carry out testing. We hope to have results about a week after it happens. The U. S. Environmental Protection Agency also has a team that will be doing sampling."
+        "The lab will be able to tell how much lead is in those samples, and the air samples will let us calculate how much people were exposed to the lead."
       ],
       "external": true,
-      "order": 9
-    },
-    {
-      "id": "scitechdaily-cerebral-palsy-may-not-be-what-scientists-thought-it-was",
-      "title": "Cerebral Palsy May Not Be What Scientists Thought It Was",
-      "dek": "New research is challenging how scientists understand cerebral palsy (CP). ",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-21T13:12:49.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/cerebral-palsy-may-not-be-what-scientists-thought-it-was/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "New research is challenging how scientists understand cerebral palsy (CP). Of 515 genes previously linked to the condition, only 89 showed a statistically significant association in a new study, suggesting that many proposed genetic connections still lack sufficient evidence.",
-        "Published in the journal American Journal of Human Genetics , the research also proposes a different way to classify CP. Rather than treating it as a single disorder, the scientists suggest it may be better understood as a collection of symptoms arising from multiple underlying conditions.",
-        "Cerebral palsy is the most common motor disability in children, with up to 10,000 babies diagnosed in the United States annually. It has traditionally been associated with complications around birth, including premature delivery and temporary oxygen deprivation. However, genetic research over the past decade has increasingly pointed to inherited or newly occurring genetic variants as potential contributors. Unlike progressive neurological diseases, CP does not worsen over time, and rehabilitation and physical therapy can improve symptoms.",
-        "“There has been a lack of consensus on the definition of cerebral palsy and on the role of genetics in disease pathogenesis, leading to substantial variability in whether a child is diagnosed with CP,” says corresponding author Peter Robinson of the Jackson Laboratory for Genomic Medicine and the Berlin Institute of Health at Charité.",
-        "“We have developed a paradigm that considers CP to be a phenotypic trait rather than a precise disease diagnosis. A better understanding of specific genetic variants has the potential to improve our understanding of the biology of the disease.”",
-        "To investigate the genetic basis of CP, the researchers evaluated evidence from 21 previously published studies involving 5,440 people diagnosed with the condition. These studies had identified potentially causal variants across hundreds of genes, but the new statistical analysis found convincing evidence of association for only a fraction of them.",
-        "“We decided to do this study because there has been no accepted statistical method to determine if a disease-associated gene is truly linked to CP,” says first author Adam Arterbery of the Jackson Laboratory for Genomic Medicine. “We discovered it was extremely difficult to find statistical evidence of causality for many of the genetic variants previously linked to CP.”",
-        "The team also performed whole-genome sequencing on 460 children from 453 families receiving care at Shriners Children’s hospitals across the United States. Pathogenic or likely pathogenic genetic variants were identified in 70 families, spanning 60 genes. However, just 16 of those genes overlapped with the genes supported by statistically significant evidence in the analysis of earlier studies.",
-        "The researchers emphasize that their findings do not disprove connections between CP and the remaining genes. Instead, the available data are insufficient to establish those associations with statistical confidence. They propose viewing CP as a clinical characteristic that can emerge from different genetic disorders and environmental influences, rather than a single disease with a common biological origin.",
-        "“This framework could improve interpretation of genomic testing, help identify children who may warrant closer CP surveillance or specialist referral, and potentially identify genetic conditions requiring disease-specific management,” Robinson says. “But clinical utility and patient benefit will absolutely need validation before these findings can be applied to patient care.”",
-        "Future studies will focus on larger patient populations, prospective evaluations of clinical benefits and costs, and better access to genomic and medical data. “We hope our study will stimulate discussion about CP terminology, gene-disease associations, and variant interpretation,” Arterbery says. “The most productive response will be further validation and development of better genotype-phenotype evidence rather than treating the findings as a definitive list of CP genes.”",
-        "This work was supported by Shriners Children’s, the National Institutes of Health (NIH), Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Human Genome Research Institute, and the Alexander von Humboldt Foundation.",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
-      ],
-      "external": true,
-      "order": 10
-    },
-    {
-      "id": "phys-fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-",
-      "title": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
-      "dek": "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. ",
-      "category": "科学",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-21T13:00:10.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html"
-      },
-      "cover": "orbit",
-      "accent": "lilac",
-      "paragraphs": [
-        "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. We've always had trouble measuring them in the \"megaelectronvolt\" (MeV) energy range, which astronomers have taken to calling the \"MeV gap.\" But a new paper from an international group of scientists working with the Fermi Large Area Telescope (LAT) Collaboration, recently published in The Astrophysical Journal Supplement Series , takes a stab at closing that gap by identifying 450 cosmic sources in the 20–200 MeV range, providing the clearest view of low-energy gamma rays ever.",
-        "The \"gap\" comes from a technological blind spot. Scientists have plenty of tools in the lower-energy spectra, such as the Chandra X-ray Observatory, that can capture radiation at the X-ray end of the electromagnetic spectrum. They also have a great number of tools at the high end of gamma-ray spectroscopy, including the Fermi Gamma-ray Space Telescope, which is capable of finding higher-energy gamma rays.",
-        "But why are low-energy gamma rays so hard to catch? Gamma rays notoriously pass right through mirrors and every other attempt to reflect them. Telescopes like Fermi-LAT can be thought of more as particle detectors in orbit than traditional telescopes. They track what happens when a gamma-ray photon hits layers of tungsten and silicon inside their chassis.",
-        "At high energies—around 1 gigaelectronvolt (GeV)—the damage done to those layers is catastrophic enough to be able to trace a line back to a source. However, in the lower 20–200 MeV range, the photons scatter much more randomly, making it difficult to track where precisely they came from.",
-        "Fermi-LAT is only capable of tracking a single 20 MeV photon to a patch of the sky about 20 degrees wide—more than 40 times the size of the full moon. Combine that with a massive amount of background radiation caused by everything from the sun to distant galaxies, and it can be a real pain to pick out the direction of any one particular source.",
-        "However, Fermi-LAT has been operating now for almost two decades, and with that much data, there's some math that can help. The researchers combined 14 years' worth of collected data with some advanced statistical modeling techniques to pinpoint 450 distinct gamma-ray sources, cataloged in what they are calling the Second Catalog of Low-Energy Fermi-LAT Sources, or 2FLE. Cross-checking them with other radio, optical and X-ray data showed known counterparts for 377 of those objects.",
-        "The vast majority of those objects—325 of them—are far outside the Milky Way. Almost half of the entire group of objects consists of flat-spectrum radio quasars (FSRQs), a very extreme type of active galactic nucleus. FSRQs represent a type of \"blazar\"—a supermassive black hole that is pointing one of its twin jets of plasma directly at Earth. The 2FLE catalog confirms that FSRQ blazars pump out the majority of their energy in this 20–200 MeV spectral window.",
-        "Closer to home, the catalog includes 52 sources from inside the Milky Way. Most of them are pulsars—the spinning leftovers left behind when a supermassive star explodes into a supernova. But one intriguing outlier was gamma rays that appear to be coming from M2, a globular cluster, which would mark the first time it's ever been observed at gamma-ray energies.",
-        "Perhaps the most intriguing part of the paper, though, is the 73 sources that don't have a clear counterpart at other energies. Sixty of those appear to be brand-new gamma-ray discoveries. And while some of those signals might turn out to be overlapping signals from neighboring objects, it's likely there are at least some truly new exotic cosmic accelerators in the data set awaiting follow-up observations.",
-        "One particular mystery source seems to align with an object called 2FLE J0340. 8+5258, which seems to also have been detected by an observatory in China and appears to be capable of generating light across nine orders of magnitude in energy.",
-        "Fermi-LAT itself seems to have reached its limit with this new data set. The researchers have likely squeezed everything they could out of the decades of data from this satellite, which was originally launched in 2008."
-      ],
-      "external": true,
-      "order": 11
-    },
-    {
-      "id": "scitechdaily-a-major-review-reveals-three-antidepressants-that-may-outp",
-      "title": "A Major Review Reveals Three Antidepressants That May Outperform Prozac",
-      "dek": "A massive review of 30,000 people suggests three antidepressants may outperform Prozac, but the findings reveal how much remains unknown about long-term depression treatment.",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-21T12:37:41.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/a-major-review-reveals-three-antidepressants-that-may-outperform-prozac/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "A massive review of 30,000 people suggests three antidepressants may outperform Prozac, but the findings reveal how much remains unknown about long-term depression treatment.",
-        "A new review has found that some antidepressants may be more effective than others at helping people reduce the severity of their symptoms of depression over the long term.",
-        "The research, published in The Lancet Psychiatry, found that people taking escitalopram (commonly sold as Lexapro), duloxetine (Cymbalta), and agomelatine (Valdoxan) were more likely to report improved symptoms over the long term than those taking fluoxetine (Prozac). For those taking Lexapro and Cymbalta, they were also more likely to stay on their medications.",
-        "Around one in seven Australians will experience depression during their lifetime.",
-        "Treatment can involve psychological therapies, social support and lifestyle changes, such as doing more exercise. For some people, these approaches may be enough to support recovery. For others, adding an antidepressant can be an important part of treatment.",
-        "In 2024-2025, 3. 8 million Australians were dispensed a prescription for an antidepressant .",
-        "For adults with depression, clinical guidelines recommend continuing antidepressants for at least six months, and preferably 12 months, after an acceptable response to treatment is achieved.",
-        "If, after six to 12 months, the depressive episode has resolved, it may be appropriate to reduce , and eventually stop the antidepressant. But symptoms can occur when discontinuing antidepressants, so it’s important this is done gradually, in consultation with a doctor.",
-        "Studies of real-world antidepressant prescribing patterns in Australia suggest many people take antidepressants for longer than this. One 2022 study found nearly a quarter of those prescribed antidepressants were still receiving prescriptions for them two years later.",
-        "Another Australian study found people take antidepressants for an average of four years.",
-        "The new review set out to compare how well different antidepressants help people maintain improvements in depression. The researchers also compared how acceptable the medicines were to the people taking them. They measured this by looking at the proportion of people who stopped treatment for any reason during the study period.",
-        "The researchers identified and reviewed 115 randomized controlled trials, involving more than 30,000 people. The researchers classified long-term use as six months or more. Their main analysis combined the results of 35 trials that directly compared one antidepressant with another.",
-        "They found that three antidepressants – escitalopram, duloxetine and agomelatine – were associated with a greater likelihood of sustained response than fluoxetine.",
-        "People taking escitalopram or duloxetine were also less likely to drop out of the trials than those taking fluoxetine."
-      ],
-      "external": true,
-      "order": 12
-    },
-    {
-      "id": "scitechdaily-new-once-daily-pill-slashes-bad-cholesterol-by-nearly-65-i",
-      "title": "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial",
-      "dek": "A pill taken before breakfast cut “bad” cholesterol by nearly two-thirds in a trial of people already taking statins.",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-21T12:02:44.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/new-once-daily-pill-slashes-bad-cholesterol-by-nearly-65-in-clinical-trial/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "A pill taken before breakfast cut “bad” cholesterol by nearly two-thirds in a trial of people already taking statins.",
-        "High cholesterol can silently damage blood vessels for decades, increasing the risk of heart attacks and strokes without causing noticeable symptoms. Much of that danger comes from excess LDL (“bad”) cholesterol, which contributes to fatty plaque buildup inside artery walls. Although statins help millions of people control their cholesterol, some patients need additional treatment to bring their levels down.",
-        "A newly approved once-daily pill could provide another option. Lipfendra (enlicitide) reduced LDL cholesterol by nearly 65% in a clinical trial involving adults already taking statins. Approved by the FDA on July 16, 2026, it is the first oral medication in a powerful class of cholesterol treatments previously available only through injections.",
-        "Enlicitide targets PCSK9, a protein that influences how efficiently the liver removes LDL cholesterol from the bloodstream. Normally, PCSK9 promotes the destruction of LDL receptors on liver cells. When these receptors are lost, the liver becomes less effective at clearing circulating cholesterol.",
-        "By blocking PCSK9, enlicitide allows more LDL receptors to remain active, helping the liver remove additional cholesterol from the blood. Unlike earlier PCSK9 inhibitors that require injections, enlicitide uses a specialized macrocyclic peptide formulation with absorption-enhancing ingredients, allowing the medication to be taken orally.",
-        "A review published in Annals of Pharmacotherapy found that enlicitide reduced LDL cholesterol by 57. 1% to 64. 6% after 24 weeks across clinical trials. These reductions were comparable to those achieved with injectable PCSK9 inhibitors.",
-        "In a direct comparison involving patients already taking statins, LDL cholesterol fell by approximately 65% with enlicitide. By comparison, reductions were about 28% with ezetimibe and 6% with bempedoic acid, two other oral medications used to manage high cholesterol.",
-        "The review examined research identified through PubMed, Embase, Web of Science, and Cochrane through July 17, 2026. Participants included adults with elevated cholesterol and those with heterozygous familial hypercholesterolemia, an inherited condition that causes unusually high LDL cholesterol levels from birth and increases the risk of premature cardiovascular disease.",
-        "In the largest trial, adverse effects occurred at similar rates among participants receiving enlicitide and those taking a placebo. However, a separate study involving people with inherited high cholesterol reported more diarrhea and dizziness among those receiving the medication. Longer-term monitoring will help establish its safety with continued use.",
-        "Enlicitide must be taken in the morning on an empty stomach. Patients may drink water, black coffee, or plain tea with the medication but must wait at least 30 minutes before consuming food or other beverages. A 30-day supply carries a list price of $315, although actual costs depend on insurance coverage.",
-        "While clinical trials have established that enlicitide substantially reduces LDL cholesterol, researchers have not yet determined whether it also prevents heart attacks and strokes. An ongoing cardiovascular outcomes trial is investigating whether its cholesterol-lowering effects translate into fewer serious cardiovascular events.",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
-        "EVERYONE NEEDS SALVATION HERE ARE THE WORDS OF SALVATION PLEASE FORGIVE ME JESUS IM A SINNER COME INTO MY HEART AND SAVE ME FROM MY SIN I NO THAT YOU ARE THE SAVIOR AND I NO THAT YOU DIED FOR ME ON CALVARY AND I NO THAT GOD RAISE YOU FROM THE DEAD AND YOU ARE ALIVE AND I THANKYOU FOR YOUR SALVATION IN JESUS HOLY NAME AMEN AND ITS IMPORTANT TO ALWAYS ASK FOR FORGIVENESS EVERY NIGHT AND HOPE SOMEONE GETS SAVED ITS IMPORTANT",
-        "Save my name, email, and website in this browser for the next time I comment."
-      ],
-      "external": true,
-      "order": 13
-    },
-    {
-      "id": "phys-from-screens-in-class-to-smart-glasses-norway-rethinks-new",
-      "title": "From screens in class to smart glasses, Norway rethinks new technologies",
-      "dek": "Three years ago, a schoolteacher in Norway was reprimanded for putting his pupils' iPads aside to return to pen and paper. ",
-      "category": "社会",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-21T10:20:16.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-screens-class-smart-glasses-norway.html"
-      },
-      "cover": "cup",
-      "accent": "orange",
-      "paragraphs": [
-        "Three years ago, a schoolteacher in Norway was reprimanded for putting his pupils' iPads aside to return to pen and paper. Now, the whole country is rethinking its approach to new technologies.",
-        "After making laptops and screens ubiquitous in schools across the country, Norway is bringing back textbooks in a bid to reverse a sharp decline in pupils' reading and writing skills.",
-        "The desire to regain control over technology, rather than just accept the consequences that come with it, extends beyond the school environment in the tech-loving country.",
-        "\"There is reason to believe that the introduction of screens in schools happened too quickly, before we had sufficient knowledge about their effects and about what constitutes good pedagogical use of digital devices,\" Norway's Digitalization Minister Torgeir Micaelsen told AFP.",
-        "For nearly 20 years, Norway has been pushing computers and tablets in classrooms, a trend further reinforced during COVID.",
-        "Starting in 2023, primary schools in Oslo were even supposed to equip every pupil with a digital device.",
-        "Third-grade teacher Pal Ludvig Finstad broke with the prevailing regulations one day, deciding to temporarily put tablets away in favor of paper and pencils to help his pupils who were struggling with reading and writing.",
-        "\"My pedagogical assessment was that, at that point, the pupils needed a new approach, and that it was urgent,\" he told the newspaper Klassekampen in 2024.",
-        "He ended up getting a written warning from the school administration.",
-        "Ironically, Oslo municipality has just dropped its requirement for one device per pupil in primary schools, giving schools more leeway in choosing their teaching tools.",
-        "\"The screen itself is not the problem. It's the way it's used, when the tool becomes more important than the content,\" primary school principal Silje Ween told AFP.",
-        "\"Just as a book is a useful and absolutely necessary tool, an iPad can be as well, but one does not exclude the other,\" she noted.",
-        "Norwegian authorities have, in turn, recommended regulating the use of cellphones in schools and introducing artificial intelligence into the school curriculum only gradually.",
-        "The government is also seeking to enshrine access to printed textbooks in law."
-      ],
-      "external": true,
-      "order": 14
+      "order": 16
     },
     {
       "id": "nasa-new-nasa-seed-funding-primes-small-businesses-for-innovati",
@@ -594,7 +658,7 @@
         "NASA’s SBIR/STTR program is part of the agency’s Research and Technology Mission Directorate and is managed by NASA’s Ames Research Center in California’s Silicon Valley."
       ],
       "external": true,
-      "order": 15
+      "order": 17
     },
     {
       "id": "nasa-news-new-nasa-seed-funding-primes-small-businesses-for-innovati",
@@ -630,7 +694,7 @@
         "NASA’s SBIR/STTR program is part of the agency’s Research and Technology Mission Directorate and is managed by NASA’s Ames Research Center in California’s Silicon Valley."
       ],
       "external": true,
-      "order": 16
+      "order": 18
     },
     {
       "id": "conversation-whether-its-sister-or-your-own-sister-the-burden-that-cari",
@@ -674,7 +738,7 @@
         "Patricia Smith is affiliated with the Ottawa County, MI Democratic Party."
       ],
       "external": true,
-      "order": 17
+      "order": 19
     },
     {
       "id": "nasa-nasa-honor-awards-ceremony-recognizes-employees-at-stennis",
@@ -711,7 +775,7 @@
         "The ceremony also honored employees who reached significant milestone anniversaries in their civil service careers. Employees with 40 years of service were Curtis Armstrong, Jason Edge, and Kevin Power. Employees with 35 years of service were Michael Brashear, Reginald Ellis II, Arlen Griffey, Bradley Messer, Christine Powell, and Michael Rewis. Skip Roberts was recognized for 30 years of service. Employees with 25 years of service were Gregory Carmouche, Thomas Carroll, Craig Chandler, Jorge Figueroa, Jared Grover, Melissa Huggins, Scott Jensen, Jeffrey Lott, Christopher Mulkey, Richard Rauch, Ryan Roberts, Karen Seals, Joseph Schuyler, Peterve Tran, and Maury Vander."
       ],
       "external": true,
-      "order": 18
+      "order": 20
     },
     {
       "id": "nasa-news-nasa-honor-awards-ceremony-recognizes-employees-at-stennis",
@@ -748,7 +812,7 @@
         "The ceremony also honored employees who reached significant milestone anniversaries in their civil service careers. Employees with 40 years of service were Curtis Armstrong, Jason Edge, and Kevin Power. Employees with 35 years of service were Michael Brashear, Reginald Ellis II, Arlen Griffey, Bradley Messer, Christine Powell, and Michael Rewis. Skip Roberts was recognized for 30 years of service. Employees with 25 years of service were Gregory Carmouche, Thomas Carroll, Craig Chandler, Jorge Figueroa, Jared Grover, Melissa Huggins, Scott Jensen, Jeffrey Lott, Christopher Mulkey, Richard Rauch, Ryan Roberts, Karen Seals, Joseph Schuyler, Peterve Tran, and Maury Vander."
       ],
       "external": true,
-      "order": 19
+      "order": 21
     },
     {
       "id": "conversation-snl-sister-sketch-nails-the-failures-of-us-healthcare-poli",
@@ -795,7 +859,7 @@
         "When public programs do not cover the care older adults need, the need does not disappear. The work, and its financial and personal costs, simply shift to someone else. More often than not, that someone is a daughter."
       ],
       "external": true,
-      "order": 20
+      "order": 22
     },
     {
       "id": "conversation-trump-administration-may-fund-white-south-africans-to-docu",
@@ -837,7 +901,7 @@
         "The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
-      "order": 21
+      "order": 23
     },
     {
       "id": "conversation-is-it-genuine-love-or-obsessive-passion-kierkegaard-the-fa",
@@ -883,7 +947,7 @@
         "Ross Channing Reed does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
-      "order": 22
+      "order": 24
     },
     {
       "id": "conversation-el-nin-o-created-a-skiers-paradise-in-chile-now-its-sierra",
@@ -925,7 +989,7 @@
         "Steven R. Fassnacht does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
-      "order": 23
+      "order": 25
     },
     {
       "id": "conversation-preventable-vision-loss-affects-more-than-a-billion-people",
@@ -972,7 +1036,7 @@
         "David Hutton receives funding from the US National Institutes for Health and the Jaeb Center for Health Research."
       ],
       "external": true,
-      "order": 24
+      "order": 26
     },
     {
       "id": "conversation-paid-sick-leave-laws-are-no-guarantee-for-phillys-immigran",
@@ -1019,7 +1083,7 @@
         "My research suggests that immigrants in Philadelphia face a gap between the promise and the reality of the city’s paid sick leave policies. These barriers might also help explain gaps in paid sick leave access between foreign-born and U. S. -born workers in other places that require it, like New York City or California ."
       ],
       "external": true,
-      "order": 25
+      "order": 27
     },
     {
       "id": "nasa-the-stormy-southwest-pacific",
@@ -1049,7 +1113,7 @@
         "Xavier is likely one of the first of several storms to affect the region in the coming months. A seasonal outlook from the Fiji Meteorological Service projects that the region could see between 11 and 15 named tropical cyclones this season, with the greatest risk east of the international date line. Storm activity in the Southwest Pacific basin typically peaks in February ."
       ],
       "external": true,
-      "order": 26
+      "order": 28
     },
     {
       "id": "nasa-news-the-stormy-southwest-pacific",
@@ -1077,76 +1141,6 @@
         "The storm ranks as the strongest November tropical cyclone east of the international date line on record, noted Colorado State University hurricane expert Phil Klotzbach . Xavier’s formation east of the date line, near the northern Cook Islands, was unusual, but its easterly position aligns with research that indicates that storm activity in the region typically shifts northeast during El Niño years. Research also shows that El Niño tends to fuel storms that strengthen at an unusually rapid pace .",
         "According to news reports, Xavier damaged homes and caused power disruptions as it passed the northern Cook Islands. It then encountered dry air and a less favorable wind shear environment and slowly weakened as it pushed westward, reducing the threat that it posed to Samoa and American Samoa.",
         "Xavier is likely one of the first of several storms to affect the region in the coming months. A seasonal outlook from the Fiji Meteorological Service projects that the region could see between 11 and 15 named tropical cyclones this season, with the greatest risk east of the international date line. Storm activity in the Southwest Pacific basin typically peaks in February ."
-      ],
-      "external": true,
-      "order": 27
-    },
-    {
-      "id": "nasa-nasa-science-data-powers-new-method-to-discover-hard-to-fi",
-      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-      "dek": "An international team of scientists has developed a method that can find pulsars in publicly available NASA data about a million times faster than before. ",
-      "category": "科学",
-      "tags": [
-        "NASA"
-      ],
-      "date": "2026-11-19",
-      "publishedAt": "2026-11-19T15:33:55.000Z",
-      "source": {
-        "name": "NASA",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
-      },
-      "cover": "bulb",
-      "accent": "yellow",
-      "paragraphs": [
-        "An international team of scientists has developed a method that can find pulsars in publicly available NASA data about a million times faster than before. This opens the door to discovering many more of these rapidly spinning objects. A paper describing the results published Thursday in the Physical Review Letters.",
-        "By comparison, the previous best method failed to find the pulsar, despite using enough computing power that a standard processor would take 600 years to perform the calculation.",
-        "A pulsar is a rapidly spinning neutron star that sweeps beams of radiation toward Earth, much like a lighthouse. Finding pulsars in gamma-ray data is extraordinarily difficult because Fermi detects only a tiny number of photons from a given pulsar, mixed in with background noise from other gamma-ray-emitting sources and the broader universe. To find the signal, researchers must accurately guess several unknowns at once: how fast the star spins, how quickly the spin is slowing down, and precisely where it sits in the sky. Searching every possible combination would require an impossible number of computations.",
-        "“We don’t see every rotation from the pulsar, and we can’t just count the rotations to work out where the photon came from,” said lead author Daniel Pook-Kolb, a scientist at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Germany. “We have a four-dimensional grid, and we must search each direction with millions of trials in it. There’s just not enough computing power on Earth to do it.”",
-        "Traditionally, scientists have searched for these pulsars by breaking Fermi data into smaller chunks and analyzing them by crowdsourcing computing power from volunteers around the world. Even with these volunteers contributing their computers’ unused processing power to run searches, it typically took the equivalent of hundreds of computer-years to identify a single pulsar.",
-        "Gazith and Zackay realized that the search could be transformed into a geometry problem: finding the shortest vector in a high-dimensional lattice, or a regularly spaced array of points. This lattice technique draws on algorithms developed by cryptographers trying to break encryption systems designed to resist code-breaking by future quantum computers . The method has also been used to help make satellite navigation systems more efficient.",
-        "“We have nothing to do with cryptography in our analysis here, but those algorithms can help us solve the problem of searching for pulsars in our data,” Gazith said.",
-        "Each trial run of the algorithm took about five minutes on a single computer core — easily doable on a standard laptop, which usually has between two and eight cores. Once the lattice method identified a pulsar candidate, the researchers confirmed it by feeding in the full Fermi data set, revealing a signal so strong it could not be a chance occurrence.",
-        "The team’s next goal is even more ambitious: finding pulsars in binary systems, where a pulsar orbits a star. These discoveries have long been considered out of reach because a companion star’s gravity distorts the signal in ways that have made these pulsars essentially impossible to discover with traditional methods.",
-        "“We know that there are probably tens or maybe even hundreds of these pulsars in the data set that we just couldn’t find,” said Colin Clark, an astrophysicist at the Max Planck Institute who co-authored the study. “The next goal is to extend the searches and use the combination of the new algorithm and the crowdsourced computing power from volunteers in our Einstein@Home program to hopefully find many new pulsars that we think should be there.”",
-        "The discovery would not have happened without NASA’s longstanding, Gold Standard Science policy of making its science data, including data from Fermi, freely available to anyone. Launched in 2008, Fermi surveys the entire sky every three hours, observing the universe in gamma rays — the highest-energy form of light. After an initial one-year calibration period, all Fermi data became fully public and continues to be released as soon as it is processed.",
-        "“The nice thing about NASA data is it’s all open,” Clark said. “All 18 years of Fermi data have been made public, and the data just keeps growing.”"
-      ],
-      "external": true,
-      "order": 28
-    },
-    {
-      "id": "nasa-news-nasa-science-data-powers-new-method-to-discover-hard-to-fi",
-      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-      "dek": "An international team of scientists has developed a method that can find pulsars in publicly available NASA data about a million times faster than before. ",
-      "category": "科学",
-      "tags": [
-        "NASA News"
-      ],
-      "date": "2026-11-19",
-      "publishedAt": "2026-11-19T15:33:55.000Z",
-      "source": {
-        "name": "NASA News",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
-      },
-      "cover": "bulb",
-      "accent": "yellow",
-      "paragraphs": [
-        "An international team of scientists has developed a method that can find pulsars in publicly available NASA data about a million times faster than before. This opens the door to discovering many more of these rapidly spinning objects. A paper describing the results published Thursday in the Physical Review Letters.",
-        "By comparison, the previous best method failed to find the pulsar, despite using enough computing power that a standard processor would take 600 years to perform the calculation.",
-        "A pulsar is a rapidly spinning neutron star that sweeps beams of radiation toward Earth, much like a lighthouse. Finding pulsars in gamma-ray data is extraordinarily difficult because Fermi detects only a tiny number of photons from a given pulsar, mixed in with background noise from other gamma-ray-emitting sources and the broader universe. To find the signal, researchers must accurately guess several unknowns at once: how fast the star spins, how quickly the spin is slowing down, and precisely where it sits in the sky. Searching every possible combination would require an impossible number of computations.",
-        "“We don’t see every rotation from the pulsar, and we can’t just count the rotations to work out where the photon came from,” said lead author Daniel Pook-Kolb, a scientist at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Germany. “We have a four-dimensional grid, and we must search each direction with millions of trials in it. There’s just not enough computing power on Earth to do it.”",
-        "Traditionally, scientists have searched for these pulsars by breaking Fermi data into smaller chunks and analyzing them by crowdsourcing computing power from volunteers around the world. Even with these volunteers contributing their computers’ unused processing power to run searches, it typically took the equivalent of hundreds of computer-years to identify a single pulsar.",
-        "Gazith and Zackay realized that the search could be transformed into a geometry problem: finding the shortest vector in a high-dimensional lattice, or a regularly spaced array of points. This lattice technique draws on algorithms developed by cryptographers trying to break encryption systems designed to resist code-breaking by future quantum computers . The method has also been used to help make satellite navigation systems more efficient.",
-        "“We have nothing to do with cryptography in our analysis here, but those algorithms can help us solve the problem of searching for pulsars in our data,” Gazith said.",
-        "Each trial run of the algorithm took about five minutes on a single computer core — easily doable on a standard laptop, which usually has between two and eight cores. Once the lattice method identified a pulsar candidate, the researchers confirmed it by feeding in the full Fermi data set, revealing a signal so strong it could not be a chance occurrence.",
-        "The team’s next goal is even more ambitious: finding pulsars in binary systems, where a pulsar orbits a star. These discoveries have long been considered out of reach because a companion star’s gravity distorts the signal in ways that have made these pulsars essentially impossible to discover with traditional methods.",
-        "“We know that there are probably tens or maybe even hundreds of these pulsars in the data set that we just couldn’t find,” said Colin Clark, an astrophysicist at the Max Planck Institute who co-authored the study. “The next goal is to extend the searches and use the combination of the new algorithm and the crowdsourced computing power from volunteers in our Einstein@Home program to hopefully find many new pulsars that we think should be there.”",
-        "The discovery would not have happened without NASA’s longstanding, Gold Standard Science policy of making its science data, including data from Fermi, freely available to anyone. Launched in 2008, Fermi surveys the entire sky every three hours, observing the universe in gamma rays — the highest-energy form of light. After an initial one-year calibration period, all Fermi data became fully public and continues to be released as soon as it is processed.",
-        "“The nice thing about NASA data is it’s all open,” Clark said. “All 18 years of Fermi data have been made public, and the data just keeps growing.”"
       ],
       "external": true,
       "order": 29
