@@ -1,0 +1,1116 @@
+{
+  "generatedAt": "2026-11-27T01:32:11.738Z",
+  "date": "2026-11-27",
+  "failedSources": [],
+  "articles": [
+    {
+      "id": "phys-digital-access-to-early-music",
+      "title": "Digital access to early music",
+      "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+      "category": "文化",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T01:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-digital-access-early-music.html"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+        "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+        "Check your inbox. We sent a confirmation link to . Open it to start your newsletters.",
+        "Notable science stories in this browser. No account needed.",
+        "Phys. org can't send alerts until you allow them in your browser.",
+        "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "What may look to modern readers like a form of secret code in fact opens the door to a fascinating world of historical music: German lute tablature. Developed specifically for the Renaissance lute, this rich notational tradition preserves dances, songs and other musical works that were immensely popular some 500 years ago. As part of an interdisciplinary team of experts, researchers at the University of Bayreuth are now making these sources readable and audible once again through a digital scholarly edition platform.",
+        "In the 16th century, anyone wishing to make music often turned to the lute. Renowned for its beautiful sound, the instrument was ideally suited to convivial music-making in small gatherings. The lute accompanied singing and dancing, while also serving as a vehicle for virtuosic solo performance. Lute tablature was especially practical because it notated music directly in terms of positions on the fingerboard, making pieces easier to learn and preserve.",
+        "As the lute was gradually replaced by other instruments over time, however, knowledge of tablature notation also faded. Today, the extensive corpus of printed works, manuscripts and instructional treatises in German lute tablature is dispersed across libraries throughout Europe. Until only a few years ago, it remained largely inaccessible, overlooked and playable by only a very small number of specialists.",
+        "The aim of the E-LAUTE project (Electronic Linked Annotated Unified Tablature Edition) is to make this hidden treasure accessible to the public once again. At its heart lies a digital edition platform developed over the past three years by an interdisciplinary team combining expertise in musicology, music informatics, medieval German studies and historical performance practice. The platform has recently become available through the Austrian National Library (ÖNB): https://edition. onb. ac. at/context:elaute .",
+        "\"Here, 16th-century German lute tablatures are not only systematically cataloged and reproduced in full, but are also automatically converted into other tablature formats and into modern Western staff notation using state-of-the-art digital methods,\" says Dr. Kateryna Schöning, the Austrian project lead at the University of Music and Performing Arts Vienna (mdw).",
+        "The innovative combination of MEI and TEI encoding (Music Encoding Initiative and Text Encoding Initiative), AI-assisted automatic transcription, optical music recognition and semantic linked-data structures also enables the presentation of all texts transmitted within the tablatures themselves, as well as texts that can be associated with them through parallel sources. A particular highlight for both researchers and performers is the collection of audio recordings of lute works, performed by professional musicians from the Schola Cantorum Basiliensis / FHNW Basel and directly accessible through the platform.",
+        "Dr. Cordula Kropik, who is responsible for the texts associated with the lute repertoire as the project's specialist in medieval German studies at the University of Bayreuth, emphasizes that this success can only be regarded as an interim achievement: \"The E-LAUTE team has accomplished an extraordinary amount over the past few years. Yet there is still much to do. Additional sources must be edited, and their presentation on the digital platform further refined."
+      ],
+      "external": true,
+      "order": 0
+    },
+    {
+      "id": "scitechdaily-why-some-farts-can-clear-a-room-while-others-barely-smell",
+      "title": "Why Some Farts Can Clear a Room While Others Barely Smell",
+      "dek": "A microbiologist reveals the surprising gut chemistry behind room-clearing farts, why some stink more than others, and how their terrible smell may serve a useful purpose.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T00:04:50.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/why-some-farts-can-clear-a-room-while-others-barely-smell/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "A microbiologist reveals the surprising gut chemistry behind room-clearing farts, why some stink more than others, and how their terrible smell may serve a useful purpose.",
+        "A healthy person farts about 14 to 20 times each day . Altogether, that’s enough gas to fill a super stinky party balloon.",
+        "Farts are made of gases that are produced by trillions of tiny organisms called microbes, mostly bacteria, that live in your gut . These organisms have an important job: They help chew up food that your stomach cannot break down on its own. In the process, they act like mini chemical factories that provide you with nutrients while releasing waste gases into your gut. These gases mix with air you swallow and other gases that you make during digestion. After passing through the intestines, they come out in bursts as farts.",
+        "As a microbiologist, I study communities of bacteria , called microbiomes, in various regions of the human body. The microbiome in your gut plays an important role in your health . Producing gases is a sign that bacteria in the gut microbiome are doing their job properly. Farting also relieves pressure in your belly and prevents painful bloating and cramping.",
+        "So you might wonder: Why does a normal and healthy body process cause such a bad stink?",
+        "Farts are mostly made up of the same odorless gases found in the air we breathe .",
+        "Anywhere from 20% to 90% of a fart’s volume consists of nitrogen, which makes up more than three-quarters of air. Up to 10% of a fart is oxygen, which humans need in order to breathe. Up to 30% is carbon dioxide, up to 50% is hydrogen, and up to 10% is methane. Microbes produce most of the carbon dioxide, hydrogen, and methane, though some of the carbon dioxide is made when digestive juices mix with stomach acid.",
+        "But wait: These are not the gases that give farts their delightful array of aromas. What makes farts so malodorous is other gas molecules that contain the element sulfur . Pure sulfur has no smell on its own, but when combined with other elements it makes molecules that reek.",
+        "One key culprit is hydrogen sulfide , which is famous for smelling like rotten eggs. Others include methanethiol , which has a bouquet of cabbage, sewage or skunk spray, and dimethyl sulfide , which hits the nostrils with scents of cooked corn, algae or seafood.",
+        "Only tiny amounts are required: One molecule of hydrogen sulfide among 1 million other gas molecules has enough power to do the job. That’s equivalent to one kernel of corn in a truckload of about 1,250 ears, or 10 bricks out of all the bricks that make up the Empire State Building in New York City. Other sulfur-containing gasses can be sniffed out at even more minuscule amounts.",
+        "Your farts’ aroma depends on what your microbiome gets to eat.",
+        "The main thing that determines which gases and how much of them are in your farts is what food your gut microbiome gets to eat .",
+        "Some types of foods often referred to as junk food , including candy or diet foods containing artificial sweeteners or syrups, can change the way microbes digest food. High-fiber foods such as beans and grains also have this effect. These foods can cause your body to produce more farts that often are bigger and louder .",
+        "However, the loudest fart is not always the stinkiest one. It’s the ones that contain sulfur that pack a smelly punch ."
+      ],
+      "external": true,
+      "order": 1
+    },
+    {
+      "id": "phys-why-molecular-cage-catalysts-show-enormous-differences-in-",
+      "title": "Why molecular cage catalysts show enormous differences in performance",
+      "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-26T23:20:02.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+        "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+        "Check your inbox. We sent a confirmation link to . Open it to start your newsletters.",
+        "Notable science stories in this browser. No account needed.",
+        "Phys. org can't send alerts until you allow them in your browser.",
+        "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "Chemistry researchers have developed a new way to identify and understand highly effective artificial enzyme-like catalysts using powerful \"molecular cages\" that mimic the behavior of nature's enzymes. These tiny, hollow molecular structures act like miniature reaction chambers to trap molecules and accelerate chemical reactions. The cages showed enormous differences in performance, with the best catalysts more than 10,000 times more active than the least effective ones.",
+        "Researchers from the universities of Birmingham, Edinburgh and Oxford outline how they combined machine learning with a rapid screening technique in their article published in the Journal of the American Chemical Society .",
+        "Rather than preparing and testing each candidate catalyst individually, the research team, led by Professor Paul Lusby from the University of Edinburgh, developed a rapid screening approach allowing cages to be assembled and assessed immediately in solution. This allowed them to evaluate 30 distinct palladium-based molecular cage structures in a single study.",
+        "Co-author Dr. Jamie Lewis, an expert in cages and Royal Society university research fellow at the University of Birmingham, said, \"Traditionally, discovering better cage catalysts has relied heavily on laborious trial-and-error experimentation and computationally expensive modeling. In this work we show how we can speed up this process to rapidly identify new catalytic cages.\"",
+        "Catalysts are essential to modern manufacturing, enabling about 90% of all chemical manufacturing processes worldwide. They are used to produce medicines, fuels, fertilizers, plastics and countless everyday products.",
+        "Dr. Laura Bickerton, a postdoctoral researcher in Lusby's group, who led the experimental component of the study, said, \"This method allows us to access and investigate a wide range of molecular cages that would otherwise be difficult to isolate and study, giving us new insights into how we can tune catalyst functionality.\"",
+        "The experimentally measured cage reaction rate data were subsequently analyzed with AI and machine learning by professor Fernanda Duarte's group at the University of Oxford to understand why some cages worked as catalysts much better than others."
+      ],
+      "external": true,
+      "order": 2
+    },
+    {
+      "id": "scitechdaily-mathematicians-find-a-brilliant-shortcut-to-a-174-year-old",
+      "title": "Mathematicians Find a Brilliant Shortcut to a 174-Year-Old Math Puzzle",
+      "dek": "A faster way to color maps using only four colors has revealed hidden mathematical patterns that could help solve puzzles involving far more complex shapes.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-26T21:46:12.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/mathematicians-find-a-brilliant-shortcut-to-a-174-year-old-math-puzzle/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "A faster way to color maps using only four colors has revealed hidden mathematical patterns that could help solve puzzles involving far more complex shapes.",
+        "In 1852, English mathematician Francis Guthrie noticed something curious while drawing a map of England’s counties. He needed only four colors to ensure that no two neighboring counties shared the same color. Could the same be true of every flat map, regardless of how complicated its borders were?",
+        "What seemed like a simple observation became one of the most famous problems in mathematics. It took 124 years to prove Guthrie right and another half century to discover the most efficient way to assign those four colors. In solving the latter problem, an international team of mathematicians has uncovered something previously unknown about the mathematical structures underlying maps.",
+        "The history of the Four Color Problem is filled with frustrated attempts. A proof presented in 1879 stood for 11 years before an error was discovered. When mathematicians finally succeeded in 1976, their proof was controversial because it relied heavily on computer calculations that were difficult for others to verify. A more accessible proof followed in 1997, although finding a suitable coloring for large maps remained computationally demanding.",
+        "“The previous proofs showed that it is always possible to color a map using four colors. But they are not very good at actually finding the colors for each individual region on a map. The new algorithm is efficient and provides a much faster way of coloring,” says Professor Mikkel Thorup from the Department of Computer Science at the University of Copenhagen.",
+        "The achievement marks the first major breakthrough on the problem in nearly 30 years. The first part of the research paper was presented at FOCS’26, one of the world’s leading conferences in theoretical computer science, where it received the Best Paper Award.",
+        "Mathematicians can represent a flat map using what is known as a planar graph. Imagine replacing each country or county with a dot and drawing lines between those that share a border. The challenge then becomes assigning colors to the dots so that no two connected dots have the same color.",
+        "Within these graphs are small arrangements called reducible configurations, which allow mathematicians to simplify the coloring problem. The researchers discovered that graphs contain far more of these useful arrangements than anyone previously realized.",
+        "“Think of reducible configurations as handles you can grab hold on to start four coloring. We show that graphs do not contain just one handle, but an astonishing number of them. Nobody knew that before,” says Professor and co-author Carsten Thomassen from DTU.",
+        "Where earlier methods could often identify only one suitable starting point, the researchers can now work from many different parts of a graph. The advantage becomes particularly pronounced as maps grow larger.",
+        "“We have gone from what mathematicians call quadratic time to linear time. This means that if a map contains ten times as many regions, the computation only becomes about ten times slower. With the previous algorithm, it would have become about 100 times slower,” explains Carsten Thomassen.",
+        "Finding this solution occupied Thorup and his colleagues, including Thomassen, Ken-ichi Kawarabayashi, and Bojan Mohar, for around a decade. Thorup has a name for the peculiar fascination that has kept mathematicians returning to the problem for 174 years: “the four-color disease.”",
+        "“The disease is believing that there must be a simple proof for such a simple statement. I would guess that at least 1,000 mathematicians have caught the four-color disease, spending months trying to make it work but never quite succeeding. It is the disease people have suffered from since 1852.”",
+        "Thorup is equally candid about the appeal of devoting years to an apparently modest mathematical puzzle."
+      ],
+      "external": true,
+      "order": 3
+    },
+    {
+      "id": "phys-destiny-model-tracks-molecular-chemistry-on-uneven-ice-cov",
+      "title": "DESTINY model tracks molecular chemistry on uneven, ice-covered grains in interstellar space",
+      "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-26T21:40:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-destiny-tracks-molecular-chemistry-uneven.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+        "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+        "Check your inbox. We sent a confirmation link to . Open it to start your newsletters.",
+        "Notable science stories in this browser. No account needed.",
+        "Phys. org can't send alerts until you allow them in your browser.",
+        "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "Interstellar space is the scene of active chemical processes: molecules form there in the gas, but also on the surface of tiny dust grains covered in ice. To better represent what happens on these surfaces, astrophysicists at the University of Liège are proposing a deterministic approach based on Markov chains with absorbing states, a mathematical tool that had not yet been utilized in astrochemistry. The paper is published in the journal Astronomy & Astrophysics .",
+        "Research in astrochemistry is organized into several branches. Astronomers measure molecular abundances using telescopes, laboratories replicate the conditions of the interstellar medium to study physical and chemical processes, and theoretical chemists focus on specific molecules or reactions. Kinetic models (models that calculate how the quantities of different molecules change over time, based on the rate at which the processes that create or destroy them occur) bridge the gap between these approaches. They use parameters derived from experiments and calculations to predict abundances, which are then compared with observations.",
+        "Infrared spectra recently obtained by the James Webb Space Telescope confirm that the chemistry on the surface of the grains and the resulting population of species are extremely complex, making it necessary to incorporate this chemistry more realistically into the models.",
+        "\"On a grain, the chemistry results from a delicate balance between adsorption—when molecules from the gas settle on the surface—and a series of surface processes such as diffusion or encounters between reaction partners, as well as desorption, when molecules leave the grain to return to the gaseous phase,\" explain Maria Groyne and Cedric Baijot, FNRS Ph. D. students supervised by Michaël De Becker, an astrophysicist and director of the MEGA Laboratory at ULiège. \"The deterministic models published to date already describe these mechanisms, but at the cost of two significant approximations.\"",
+        "The first concerns the surface itself. In the extremely cold conditions of the interstellar medium, the ice covering the grains is not crystalline but amorphous. Its surface is disordered and offers binding sites of varying strength depending on the local environment. Most models, however, assign only a single binding energy to each chemical species. The second approximation relates to interactions between molecules: in the standard formalism, two species present on the surface only influence each other when they react. Yet a simple encounter can alter the strength with which a molecule is bound to the surface.",
+        "\"The DESTINY model, which we have developed entirely from scratch, overcomes these two simplifications,\" explains Baijot, an FNRS Ph. D. student at ULiège. \"The model classifies surface sites according to their binding energy and, in a deterministic manner, tracks the possible path of each adsorbed species. At each stage, the species may remain in place, diffuse to another site, react with a partner or leave the surface. Markov chains with absorbing states enable these competing outcomes to be handled in a consistent manner.\"",
+        "The researchers use the image of a dance floor to illustrate their approach. In classical models, all the tiles on the floor are identical, and the molecules—which play the role of dancers—behave in the same way everywhere. Two dancers who meet and dance together represent a chemical reaction."
+      ],
+      "external": true,
+      "order": 4
+    },
+    {
+      "id": "scitechdaily-physicists-discover-a-strange-new-form-of-magnetism-in-a-s",
+      "title": "Physicists Discover a Strange New Form of Magnetism in a Simple Metal",
+      "dek": "Electronics can use more than electrical charge, and evidence of unusual magnetism in europium silicide could help researchers explore how to put electron spin to work.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-26T21:11:10.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/physicists-discover-a-strange-new-form-of-magnetism-in-a-simple-metal/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Electronics can use more than electrical charge, and evidence of unusual magnetism in europium silicide could help researchers explore how to put electron spin to work.",
+        "At very low temperatures, a simple metal made from europium and silicon develops a spiral pattern of magnetism that leaves it with no overall magnetization. Its electrons nevertheless appear to favor opposite spin orientations when they travel in opposite directions, an unusual relationship that could offer researchers new ways to explore and control electronic behavior.",
+        "An international team has found compelling evidence for this state, called p-wave magnetism, in europium silicide, or EuSi. The findings, published in Nature , provide an experimental foothold in a field where suitable materials have been difficult to find.",
+        "Spin is a quantum property that gives electrons a magnetic character, somewhat like tiny compass needles. In a conventional ferromagnet, spins tend to align in the same direction, producing net magnetization. In EuSi, between approximately 33 and 62 kelvin, or about −400 to −348 °F, the magnetic moments of europium atoms instead form an ordered spiral. The individual moments are substantial, but their contributions cancel overall.",
+        "The predicted relationship between opposite directions of electron motion and opposite spin polarizations is known as an odd-parity spin texture. Finding a material in which researchers can investigate it has been challenging. Previous candidates include electrical insulators and metals that develop magnetic order only at very low temperatures or have additional symmetry complications. EuSi combines a fixed chemical composition with a spiral magnetic phase that has the required symmetry, and researchers can grow high-quality single crystals for experiments.",
+        "Dr. Erjian Cheng grew those crystals approximately three years ago at the Max Planck Institute for Chemical Physics of Solids (MPI CPfS) in Dresden. Initial photoemission experiments, which use light to eject electrons and examine their properties, showed that magnetism had an unusually large influence on EuSi’s electronic band structure, the pattern of energies electrons can occupy inside the material. That raised the possibility that its magnetic order might link spin to the direction of electron motion.",
+        "The investigation brought together 38 researchers from 19 institutions, including ShanghaiTech University, the Hong Kong University of Science and Technology, the Max Planck Institute for the Physics of Complex Systems, and Oak Ridge National Laboratory.",
+        "Combining theoretical calculations with several experimental techniques, the researchers examined both the atomic magnetic arrangement and its effects on electrons. Neutron diffraction revealed the spiral of europium magnetic moments and confirmed that its symmetry met the conditions for p-wave magnetism. Angle-resolved photoemission spectroscopy, which maps electron energies and momenta, showed that magnetism substantially reshaped the electronic structure, producing energy separations exceeding 100 millielectronvolts.",
+        "Measurements that also resolved electron spin supplied a more specific test. The spin polarization changed sign across successive magnetic Brillouin zones, repeating regions in a map of electron momentum defined by the magnetic order. It also weakened sharply near regions where the predicted p-wave spin texture should vanish. Together, these observations provided spectroscopic evidence consistent with the theoretical state.",
+        "“When we first measured the electronic structure of EuSi, we were surprised by the exceptionally large effect of magnetism on the electrons,” explains Cheng. “That observation led us to investigate whether this simple compound could host a much more unusual magnetic state. The combination of crystal growth, neutron scattering and spin-resolved spectroscopy now provides compelling evidence for p-wave magnetism.”",
+        "The proposed spin pattern arises predominantly from magnetic exchange interactions, which influence how spins arrange themselves, and from the symmetry of the magnetic spiral. That distinguishes it from familiar spin-splitting effects driven mainly by spin-orbit coupling, an interaction between an electron’s spin and its motion.",
+        "The spiral also introduces handedness, or chirality. EuSi’s underlying crystal structure is centrosymmetric, meaning that it looks the same when inverted through its center. Its magnetic spiral, however, can twist in either of two opposite senses. Using magnetic force microscopy and spatially resolved photoemission spectroscopy, the researchers identified magnetic domains approximately ten micrometers across.",
+        "When examined with circularly polarized light, domains with opposite magnetic handedness showed distinct electronic responses. The results demonstrated that the spiral’s handedness is coupled to the electronic structure, connecting the organization of the atomic magnetic moments with the behavior of the electrons."
+      ],
+      "external": true,
+      "order": 5
+    },
+    {
+      "id": "scitechdaily-semiconductor-breakthrough-cracks-a-longstanding-solar-ene",
+      "title": "Semiconductor Breakthrough Cracks a Longstanding Solar Energy Problem",
+      "dek": "An unusual material could help us make better use of the sun’s energy, offering new possibilities for more efficient solar power and fuel production.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-26T20:36:58.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/semiconductor-breakthrough-cracks-a-longstanding-solar-energy-problem/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "An unusual material could help us make better use of the sun’s energy, offering new possibilities for more efficient solar power and fuel production.",
+        "Generating more electricity from sunlight does not necessarily mean installing more solar panels. Finding ways to extract more energy from the light that already reaches them could make solar power a more practical source of electricity. Part of the challenge lies in what happens inside a solar cell in the moments after it absorbs sunlight.",
+        "Solar cells contain materials called semiconductors, which use the energy from sunlight to free negatively charged electrons, leaving behind positively charged gaps known as holes. Both charges must be collected to generate electricity. If an electron and a hole meet and cancel each other out, a process known as recombination, the energy they carry is lost. Unfortunately, materials that are particularly good at absorbing sunlight also tend to lose these charges more quickly.",
+        "A study led by the University of Oxford has identified a promising exception in a semiconductor called bismuth sulfide. Published October 28, 2026, in Nature , the research examined how the material’s unusual electronic structure could help overcome this longstanding limitation in solar energy technology.",
+        "To investigate how long electrical charges survive in bismuth sulfide, the researchers exposed thin films of the material to extremely short laser pulses. They then tracked how quickly the charges disappeared using a technique called ultrafast terahertz spectroscopy, conducting measurements at temperatures ranging from room temperature to just above absolute zero.",
+        "“One of the longstanding challenges in developing efficient solar-energy materials is that the properties which make a semiconductor very good at absorbing sunlight also tend to make the resulting electrical charges disappear quickly,” said corresponding author Professor Laura Herz (Department of Physics, University of Oxford). “Our work shows that this trade-off is not inevitable. By uncovering how an unusual electronic structure can combine strong light absorption with much slower recombination, we have identified a new principle for designing semiconductors that could help us harvest solar energy more efficiently.”",
+        "Electronic structure calculations by Professor Marina Filip’s group in Oxford’s Department of Physics helped explain why bismuth sulfide behaves differently. The material has two closely spaced routes through which electrons can move between energy levels. One allows the material to absorb light strongly, while the other sits at a slightly lower energy and allows charges to disappear much more slowly. Because the two are so close together, charges spend much of their time in the lower-energy states, which effectively serve as a temporary storage reservoir.",
+        "Cooling the material provided further evidence for this explanation. In most semiconductors, electrical charges disappear faster as temperatures drop. In bismuth sulfide, more charges settled into the reservoir as the material cooled, allowing them to survive longer. The results matched the team’s model of what physicists call a pseudo-direct semiconductor.",
+        "Even at room temperature, the researchers estimate that this arrangement reduces the rate of charge loss by about 75% compared with conventional semiconductors that absorb light equally well.",
+        "Giving electrical charges more time to be collected could improve the efficiency of solar panels without compromising their ability to capture sunlight. The benefits could also extend beyond electricity generation. Longer-lived charges could provide more time for the chemical reactions needed to produce fuels using sunlight.",
+        "“What makes this discovery particularly exciting is that we are not simply improving an existing semiconductor property but identifying a different way in which semiconductors can behave,” said Professor Herz. “Understanding this mechanism gives us a roadmap for discovering and potentially engineering other materials with similarly advantageous properties.”",
+        "The team’s calculations suggest that researchers could search existing materials databases for semiconductors with similar properties or engineer new ones. However, the study demonstrates the underlying physical mechanism rather than the performance of a finished solar cell. Further research will be needed to determine how these properties can be put to use in solar energy technologies.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
+      ],
+      "external": true,
+      "order": 6
+    },
+    {
+      "id": "phys-jwst-studies-a-tiny-metal-poor-galaxy-with-just-a-fraction",
+      "title": "JWST studies a tiny, metal-poor galaxy with just a fraction of the sun's oxygen abundance",
+      "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-26T20:00:01.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-jwst-tiny-metal-poor-galaxy.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+        "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+        "Check your inbox. We sent a confirmation link to . Open it to start your newsletters.",
+        "Notable science stories in this browser. No account needed.",
+        "Phys. org can't send alerts until you allow them in your browser.",
+        "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "Astronomers using the James Webb Space Telescope (JWST) have studied one of the most metal-poor galaxies known. Seen as it was around 12. 2 billion years ago, LAP2 is a tiny system with a stellar mass comparable to that of a massive star cluster. The research paper was posted to the arXiv preprint server on Nov. 3.",
+        "Early galaxies have very little metal, and over time they build up metals. Observations show that a galaxy's metal content is linked to its mass in stars—a relationship known as the mass-metallicity relation.",
+        "JWST is now spotting a class of galaxies in the first billion years of the universe, called extremely metal-poor galaxies (EMPGs). These galaxies have only a few percent of the sun's metals or less, and they serve as natural laboratories to trace the earliest stages of star formation and galaxy evolution.",
+        "Astronomers have noticed that some of these early galaxies are more metal-poor than local relations predict. A few approach the regime of 'metal-free' systems made of pristine gas with only hydrogen and helium and no heavier elements. They offer conditions expected for Population III stars, the first stars to have formed in the universe from pristine gas. The gas lit up by such stars is predicted to show very weak oxygen lines and strong helium (He II) emission.",
+        "These galaxies are, however, very faint and Population III stars are short-lived, making them rare and hard to spot. Many of the best candidates are therefore seen through gravitational lensing. That's when the light from a distant object is magnified by a massive foreground object.",
+        "LAP2 was first identified in MUSE observations in 2021. It is a very faint galaxy, but is strongly magnified, roughly 50 times, by a foreground galaxy cluster called Abell 2744. This allows astronomers to examine its structure and chemical composition. When they first looked at it with the JWST, they detected no sign of oxygen at all. But that first look only covered a small part of the galaxy, so they were not so sure of the result.",
+        "In this new study, astronomers led by Matteo Messa of the INAF Astrophysics and Space Science Observatory of Bologna revisit LAP2 with JWST's NIRSpec integral field spectroscopy, which captures both lensed images in full."
+      ],
+      "external": true,
+      "order": 7
+    },
+    {
+      "id": "phys-wave-like-displays-in-animal-groups-may-have-evolved-to-de",
+      "title": "Wave-like displays in animal groups may have evolved to deceive predators",
+      "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-26T19:00:15.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-displays-animal-groups-evolved-predators.html"
+      },
+      "cover": "bulb",
+      "accent": "yellow",
+      "paragraphs": [
+        "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+        "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+        "Check your inbox. We sent a confirmation link to . Open it to start your newsletters.",
+        "Notable science stories in this browser. No account needed.",
+        "Phys. org can't send alerts until you allow them in your browser.",
+        "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "Some of the most striking patterns in collective behavior emerge in the face of danger. When a predator approaches, some animal groups morph into a vision of pulsing waves. These patterns might be more than a side effect of group living; they could have evolved as a form of deception, argue Dr. Eduardo Sampaio and professor Iain Couzin of the Max Planck Institute of Animal Behavior (MPI-AB) and the University of Konstanz in a Perspectives piece published in Science .",
+        "For example, when a peregrine falcon attacks European starlings, dark bands sweep through the flock roughly every three-quarters of a second. In the sulfur-rich springs of Mexico, mollies in dense schools repeatedly dive and resurface, creating waves of motion that fend off predators. Giant honeybees shimmer their abdomens, propagating waves across the nest that drive away hornets.",
+        "\"We propose that these collective displays exploit how predators see motion, confusing or misleading them,\" says Sampaio, who is a postdoctoral researcher at MPI-AB.",
+        "Nature abounds in collective animal motion, like flocking, schooling and swarming. Yet few studies have ever looked at these group patterns from the outside, through the eyes of a predator. The authors draw together disparate examples—starling murmurations, fish waves, honeybee shimmering—and present the common effect that those patterns can have on the eyes watching them.",
+        "In each case, the wave pattern travels faster than the animals producing it, repeats and often anticipates the strike of a predator. The trick is not limited to groups of prey: a hunting cuttlefish sends similar moving stripes down its own body, which may hide its approach from crabs.",
+        "\"These systems might look different on the surface, but in each one we see the same decoupling of the collective pattern from the motion of the body, or bodies, that generate it,\" says Couzin, who is a director of collective behavior at MPI-AB and a professor at the University of Konstanz.",
+        "These collective waves may exploit the limits of how motion can be processed in the brain. By misleading biological vision, the pattern generators have better chances of survival. And this, the authors say, opens the door to natural selection. They outline how natural selection can act on individual-level rules, like how sensitive each animal is to its neighbors or its response threshold. These are heritable traits. How they vary can alter the effect on the predator, and therefore each individual's survival."
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "phys-runaway-pulsar-escapes-the-remnant-of-its-own-supernova",
+      "title": "Runaway pulsar escapes the remnant of its own supernova",
+      "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+      "category": "科学",
+      "tags": [
+        "Phys.org"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-26T18:50:02.000Z",
+      "source": {
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-runaway-pulsar-remnant-supernova.html"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+        "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+        "Check your inbox. We sent a confirmation link to . Open it to start your newsletters.",
+        "Notable science stories in this browser. No account needed.",
+        "Phys. org can't send alerts until you allow them in your browser.",
+        "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "A team of astronomers has spotted a rare example of a pulsar that has escaped the cloud of debris left by the supernova explosion in which it formed. Led by Rohit Dokara, formerly at the Max Planck Institute for Radio Astronomy, the team made the discovery by chance, adding to just a handful of similar known cases.",
+        "The team's discovery suggests that many similar observations could soon be made with new generations of radio telescopes: perhaps helping astronomers to solve unanswered questions surrounding the origins of fast-moving pulsars and the surprising sparsity of supernova remnants within the galaxy.",
+        "Their results have been accepted for publication in Astronomy & Astrophysics and are currently available on the arXiv preprint server.",
+        "A pulsar is a highly magnetized, rapidly rotating neutron star that emits powerful beams of radiation from each of its poles. If one of these beams happens to point in Earth's direction, it will appear to astronomers as an intense electromagnetic flash pulsing with striking regularity, much like the beam from a lighthouse.",
+        "These strange bodies form when the cores of massive stars collapse in supernova explosions, which also blast out immense clouds of gas and dust called supernova remnants (SNRs). Each cloud forms a rapidly expanding shell, which thins out and dissipates into interstellar space within around 100,000 years.",
+        "Yet for reasons astronomers are still working to fully understand, the pulsar itself will often receive a powerful kick during the initial explosion, propelling it away from the center of the expanding cloud. As it plows through the surrounding gas, it can leave behind a comet-like tail.",
+        "In some rare cases, this kick is particularly extreme. \"As far as I know, there are four cases where, after a core-collapse supernova explosion, a pulsar has formed moving faster than the diffuse ejecta that eventually becomes a shell,\" Dokara explains. \"Such cases offer unique views of some of the fastest compact objects in our galaxy.\""
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-hidden-viruses-in-the-human-gut-offer-new-clues-to-a-disor",
+      "title": "Hidden Viruses in the Human Gut Offer New Clues to a Disorder Affecting Millions",
+      "dek": "Many gut viruses were found at lower levels in people with irritable bowel syndrome, offering new clues to a poorly understood condition that affects roughly one in ten people.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-26T17:25:53.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/hidden-viruses-in-the-human-gut-offer-new-clues-to-a-disorder-affecting-millions/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "Many gut viruses were found at lower levels in people with irritable bowel syndrome, offering new clues to a poorly understood condition that affects roughly one in ten people.",
+        "Scientists have identified more than 116,000 groups of viruses living in the human gut, over 99% of which had no close match in the largest existing catalog of gut viruses. These largely unexplored microbes could offer new clues to how the digestive system functions and why it changes in people with conditions such as irritable bowel syndrome (IBS).",
+        "Research into the gut microbiome has traditionally focused on bacteria, leaving much less understood about bacteriophages, viruses that infect bacteria. Scientists from King’s College London, Helmholtz Munich, and the University of Nottingham are now filling that gap with two studies published on November 17, 2026, in Nature Communications and Gut .",
+        "Professor Ana Valdes and Dr. Afroditi Kouraki from the University of Nottingham said, “For a long time the viral part of the gut microbiome has been a kind of dark matter: we knew it was there but couldn’t see it. Advances in sequencing and computational methods mean we can now start to map it properly, and this study shows just how much has been hidden.”",
+        "For the Nature Communications study, researchers analyzed genetic material from stool samples collected from more than 1,000 participants in TwinsUK, the largest twin registry in the United Kingdom. Using data on gut bacteria, health measurements, and diet, they examined how populations of viruses and bacteria varied together. Certain viruses were consistently more abundant alongside particular bacteria, while others showed the opposite pattern.",
+        "Dr. Panayiotis Louca, a research associate at King’s College London who led the study, said, “Gut viruses are difficult to study, so most of what we found simply isn’t in existing catalogs. What stands out is how closely they track with gut bacteria and with the chemicals those bacteria produce. We can’t yet say whether the viruses are driving that, and testing it is our next step.”",
+        "Studying twins also allowed researchers to estimate how much genetics and the environment shape the gut’s viral community. Genetic factors accounted for an estimated 47% of the variation in overall viral diversity, although most individual viral populations appeared to be influenced primarily by environmental factors.",
+        "The researchers also discovered a small group of viruses carrying genes linked to harmful bacterial behavior. These viruses were more commonly found alongside bacteria that can sometimes cause infections and less commonly alongside bacteria that break down dietary fiber.",
+        "Such relationships could be relevant to IBS, a condition that affects around 10% of the population and can significantly disrupt daily life. Its underlying causes remain poorly understood.",
+        "In the second study, published in Gut , researchers used TwinsUK data to identify 50 viral groups associated with IBS, most of which were less abundant in people with the condition. Relationships between bacteria and viruses also differed, with many viruses infecting bacteria previously linked to IBS. This suggests that the condition may involve changes across the wider microbial community rather than in bacteria alone.",
+        "Senior author Dr. Cristina Menni, who leads the metabolomics research group at the Department of Twin Research, Ageing and Genomic Epidemiology at King’s College London, said, “Our research highlights that to fully understand the gut microbiome and its links to health and disease, we need to look beyond bacteria and consider the viruses that live alongside them. We reveal a fascinating and largely unexplored dimension of the gut microbiome—discovering that viruses are not only closely associated with bacterial communities, but also with the metabolites that connect the microbiome to our health. This opens exciting new avenues for understanding how the gut ecosystem works.”",
+        "Future research will examine whether gut viruses actively influence bacterial metabolism and how these interactions change in health and disease. Understanding these relationships could eventually help researchers develop better biological markers and treatments for IBS, as well as more personalized approaches to gut health.",
+        "Dr. Louca added: “The study is observational, so it cannot show that the viruses cause these effects, but it provides greater understanding of a largely unexplored area of the human gut. It would also be beneficial to replicate the study on a more diverse cohort, as participants were mostly older women of European ancestry.”"
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "scitechdaily-an-overlooked-metabolic-byproduct-could-help-repair-a-dama",
+      "title": "An Overlooked Metabolic Byproduct Could Help Repair a Damaged Heart",
+      "dek": "A substance often treated as waste may be vital to the heart during a crisis, offering a potential target for treating heart failure and heart attacks.",
+      "category": "健康",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-26T16:50:58.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/an-overlooked-metabolic-byproduct-could-help-repair-a-damaged-heart/"
+      },
+      "cover": "flower",
+      "accent": "pink",
+      "paragraphs": [
+        "A substance often treated as waste may be vital to the heart during a crisis, offering a potential target for treating heart failure and heart attacks.",
+        "The heart has to keep beating whether the body has plenty of energy available or is running low. Maintaining that constant supply of energy is a complicated process, and when it breaks down, it can contribute to serious cardiovascular conditions such as heart failure. Researchers at University of Utah Health have now uncovered an unusual feature of heart muscle cells that helps them stay fueled during periods of stress and could point toward new ways to treat a damaged heart.",
+        "Scientists previously knew that the heart could draw energy from two carbohydrate sources at once: glucose, a sugar, and lactate, a substance produced when cells break down glucose. In most human tissues, increasing the use of one fuel makes it harder to use the other. Heart muscle somehow avoids this competition.",
+        "In a study published in Nature , researchers discovered that heart muscle cells process these fuels in separate parts of the cell. Glucose is broken down in the cytosol, the fluid that surrounds structures inside the cell, while lactate is used inside mitochondria, which produce much of the cell’s usable energy. Keeping these processes separate allows the heart to draw energy from both sources simultaneously.",
+        "The system depends on a molecule called MCT1, which transports lactate into the mitochondria. The researchers found that genetic mutations affecting MCT1 prevented lactate from entering the mitochondria and disrupted the heart’s energy balance. Although the heart could largely function without this pathway under everyday conditions, losing it when the heart was under stress led to heart failure.",
+        "“This appears to be a critical backup system for heart function,” says Gregory Ducker, PhD, assistant professor of biochemistry at University of Utah Health and senior author of the study. “In an emergency, we would really, really rely on this.”",
+        "The discovery identifies a previously unrecognized role for lactate in sustaining injured heart muscle and gives researchers a potential target for developing treatments that restore its energy supply.",
+        "“Our findings help point to new areas in which we could target the heart muscle to benefit and repair itself by allowing it to use lactate better,” Ducker says. “That’s the long-term goal: to help the heart muscle heal.”",
+        "Whether enhancing this energy pathway can improve heart function in patients remains to be established, though the researchers see potential applications beyond heart failure.",
+        "“Rather than simply releasing lactate into the bloodstream as a waste product, we may be able to enhance the heart’s ability to use it as a valuable source of energy,” says Stavros Drakos, MD, PhD, professor of medicine at University of Utah Health and co-senior author of the study. “By optimizing this process, we could potentially improve heart muscle function in patients suffering from heart failure or heart attacks.”",
+        "This work was funded by the National Institutes of Health, including the National Heart, Lung, and Blood Institute (T32HL007576, R01HL135121, 1R01HL166513, K99HL168312, R01HL141353, R01HL165797), the National Institute of Diabetes and Digestive and Kidney Diseases (5T32DK091317), the National Cancer Institute (P30CA042014), and the National Institute of General Medical Sciences (3R35GM131854-04); the U. S. Department of Veterans Affairs (I01 CX002291 and I01BX006306-01), the American Heart Association (16SFRN29020000, 834544, 1019351), the Burroughs Wellcome Fund.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 11
+    },
+    {
+      "id": "nasa-seeking-refuge-on-resolution-island",
+      "title": "Seeking Refuge on Resolution Island",
+      "dek": "In the late 1800s, wildlife conservationists in New Zealand were recognizing how predators such as stoats , brought to the country to control other nonnative animal…",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T05:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "In the late 1800s, wildlife conservationists in New Zealand were recognizing how predators such as stoats , brought to the country to control other nonnative animal populations, were becoming a threat to native birds. Naturalists at the time surmised that some of the nation’s islands could serve as sanctuaries where endemic species could persist, free from the voracious newcomers.",
+        "Resolution Island, located in the Fiordland region along the rugged southwest edge of New Zealand’s South Island, was one of the first eyed for this purpose. Conservationist Thomas Henry Potts proposed in 1872 that the island could be a place where “wingless species, and birds of feeble powers of flight, might there find a refuge for some of their representatives.”",
+        "So began an early systematic effort to protect kiwi, kākāpō , and other native birds on Resolution Island, the largest of the approximately 90 islands in Fiordland National Park . This image, acquired with the OLI (Operational Land Imager) on Landsat 9 on December 12, 2025, shows the island’s setting amid a landscape of steep-sided valleys carved by glaciers and now inundated by the ocean.",
+        "The uninhabited island rises from sea level to the summit of Mount Clerke at 1,069 meters (3,507 feet). Its diverse habitats and vegetation communities range from bogs and wetlands near the coast to widespread podocarp forests at middle elevations to tussock grasslands in the subalpine and alpine areas. Offshore, the Taumoana (Five Fingers Peninsula) Marine Reserve protects estuarine and wave-exposed rocky reef habitats at the entrance to Dusky Sound, east of Five Fingers Peninsula.",
+        "Farther into the sound, Pigeon Island was the onetime home of Richard Henry, who was named caretaker of Resolution Island after it was designated a reserve in 1891. In what some have called a “ landmark effort ,” Henry spent years transporting more than 700 birds, mostly kiwi and kākāpō, by rowboat to Resolution and other would-be island sanctuaries nearby.",
+        "In 1900, however, people began spotting mustelids on Resolution. It turns out the island is within swimming distance for animals such as stoats. Henry was intent on trapping the interlopers but eventually abandoned the project and moved on to caretaking work on another island. The spirit of his efforts lives on, though. A Department of Conservation program started in 2008 aims to control stoat populations and bolster native species on Resolution."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "nasa-news-seeking-refuge-on-resolution-island",
+      "title": "Seeking Refuge on Resolution Island",
+      "dek": "In the late 1800s, wildlife conservationists in New Zealand were recognizing how predators such as stoats , brought to the country to control other nonnative animal…",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T05:01:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "In the late 1800s, wildlife conservationists in New Zealand were recognizing how predators such as stoats , brought to the country to control other nonnative animal populations, were becoming a threat to native birds. Naturalists at the time surmised that some of the nation’s islands could serve as sanctuaries where endemic species could persist, free from the voracious newcomers.",
+        "Resolution Island, located in the Fiordland region along the rugged southwest edge of New Zealand’s South Island, was one of the first eyed for this purpose. Conservationist Thomas Henry Potts proposed in 1872 that the island could be a place where “wingless species, and birds of feeble powers of flight, might there find a refuge for some of their representatives.”",
+        "So began an early systematic effort to protect kiwi, kākāpō , and other native birds on Resolution Island, the largest of the approximately 90 islands in Fiordland National Park . This image, acquired with the OLI (Operational Land Imager) on Landsat 9 on December 12, 2025, shows the island’s setting amid a landscape of steep-sided valleys carved by glaciers and now inundated by the ocean.",
+        "The uninhabited island rises from sea level to the summit of Mount Clerke at 1,069 meters (3,507 feet). Its diverse habitats and vegetation communities range from bogs and wetlands near the coast to widespread podocarp forests at middle elevations to tussock grasslands in the subalpine and alpine areas. Offshore, the Taumoana (Five Fingers Peninsula) Marine Reserve protects estuarine and wave-exposed rocky reef habitats at the entrance to Dusky Sound, east of Five Fingers Peninsula.",
+        "Farther into the sound, Pigeon Island was the onetime home of Richard Henry, who was named caretaker of Resolution Island after it was designated a reserve in 1891. In what some have called a “ landmark effort ,” Henry spent years transporting more than 700 birds, mostly kiwi and kākāpō, by rowboat to Resolution and other would-be island sanctuaries nearby.",
+        "In 1900, however, people began spotting mustelids on Resolution. It turns out the island is within swimming distance for animals such as stoats. Henry was intent on trapping the interlopers but eventually abandoned the project and moved on to caretaking work on another island. The spirit of his efforts lives on, though. A Department of Conservation program started in 2008 aims to control stoat populations and bolster native species on Resolution."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "nasa-nasa-enhances-supplier-program-announces-mentor-prote-ge-a",
+      "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "dek": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-25T19:06:56.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE Aerospace.",
+        "NASA is streamlining the application process for the Small Business Supplier Development Program, as well as reducing administrative requirements, accelerating review and approval timelines, and enhancing incentives for prime contractor participation. These improvements are aimed at making supplier development more accessible, efficient, and closely aligned with NASA’s mission needs.",
+        "“We have intentionally redesigned the program as a mission-focused tool for strengthening industrial base readiness and mission success,” said Dwight Deneal, assistant administrator, Office of Small Business Programs, NASA Headquarters in Washington. “By simplifying participation and focusing developmental assistance on the capabilities NASA needs most, we are helping build a stronger, more resilient supplier base that can support the agency’s highest-priority missions.”",
+        "Under the new Mentor-Protégé Agreement, Boeing will provide structured assistance to help GRACE expand its capabilities as a supplier of mission-critical aerospace hardware. Boeing will fund the agreement, valued at nearly $500,000.",
+        "“Boeing is proud to continue its longstanding relationship with NASA in support of its mission and the opportunities this agreement creates for Boeing, GRACE, and the broader aerospace industrial base,” said Christian Diamond, Mentor-Protégé Program manager and small business liaison officer for Boeing. “Through this partnership, Boeing looks forward to sharing our expertise to support the continued growth and long-term success of a small business while strengthening our supplier base.”",
+        "Building on two decades of experience supporting defense and aerospace customers, GRACE will use the partnership to prepare for increasingly complex aerospace and spaceflight programs.",
+        "“GRACE Aerospace is thankful and honored to participate in the program,” said Pauline Sevigny, president and owner of GRACE Aerospace. “We look forward to growing and learning from industry experts and supporting the mission of resilience and space superiority.”",
+        "NASA’s enhanced supplier program is part of the agency’s broader Office of Small Business Programs."
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "nasa-news-nasa-enhances-supplier-program-announces-mentor-prote-ge-a",
+      "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "dek": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-25T19:06:56.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE Aerospace.",
+        "NASA is streamlining the application process for the Small Business Supplier Development Program, as well as reducing administrative requirements, accelerating review and approval timelines, and enhancing incentives for prime contractor participation. These improvements are aimed at making supplier development more accessible, efficient, and closely aligned with NASA’s mission needs.",
+        "“We have intentionally redesigned the program as a mission-focused tool for strengthening industrial base readiness and mission success,” said Dwight Deneal, assistant administrator, Office of Small Business Programs, NASA Headquarters in Washington. “By simplifying participation and focusing developmental assistance on the capabilities NASA needs most, we are helping build a stronger, more resilient supplier base that can support the agency’s highest-priority missions.”",
+        "Under the new Mentor-Protégé Agreement, Boeing will provide structured assistance to help GRACE expand its capabilities as a supplier of mission-critical aerospace hardware. Boeing will fund the agreement, valued at nearly $500,000.",
+        "“Boeing is proud to continue its longstanding relationship with NASA in support of its mission and the opportunities this agreement creates for Boeing, GRACE, and the broader aerospace industrial base,” said Christian Diamond, Mentor-Protégé Program manager and small business liaison officer for Boeing. “Through this partnership, Boeing looks forward to sharing our expertise to support the continued growth and long-term success of a small business while strengthening our supplier base.”",
+        "Building on two decades of experience supporting defense and aerospace customers, GRACE will use the partnership to prepare for increasingly complex aerospace and spaceflight programs.",
+        "“GRACE Aerospace is thankful and honored to participate in the program,” said Pauline Sevigny, president and owner of GRACE Aerospace. “We look forward to growing and learning from industry experts and supporting the mission of resilience and space superiority.”",
+        "NASA’s enhanced supplier program is part of the agency’s broader Office of Small Business Programs."
+      ],
+      "external": true,
+      "order": 15
+    },
+    {
+      "id": "nasa-nasa-eyes-crop-candidates-for-future-menus",
+      "title": "NASA Eyes Crop Candidates for Future Menus",
+      "dek": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-25T17:53:42.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.",
+        "Recent testing points to strawberries, cucumbers, and lemon basil as potential options for future explorers. Space crops can absorb carbon dioxide, produce oxygen, and recycle water. These capabilities will become increasingly important as crewed missions extend farther from our home planet.",
+        "While space crop research advances on Earth, capabilities are also expanding in space. A new investigation from NASA’s Biological and Physical Sciences Division is set to launch to the International Space Station, where the first-of-its-kind prototype growth chamber will provide critical insights for developing crop production systems that could grow crops like these for future Moon Base habitats and Mars missions.",
+        "Strawberries are among the few sweet fruits under consideration for spaceflight and are nutritious, aromatic, and self-pollinating.",
+        "Researchers at NASA’s Kennedy Space Center in Florida are growing strawberries in flight-like growth chambers to evaluate the potential space crop, and NASA partners at The Australian Research Council Centre for Excellence in Plants for Space also are helping expand knowledge of space strawberries.",
+        "Researchers at NASA Kennedy, the University of Melbourne, and the University of Western Australia recently tested a wild strawberry against NASA’s leading strawberry candidate, ‘Delizz,’ to see which thrived better under simulated space conditions.",
+        "Delizz and the wild strawberry produced very different fruits, according to a study published in September in the journal Life Sciences in Space Research. Delizz grew large, red fruit, while the wild strawberry produced small, yellow fruit due to a recessive genetic mutation.",
+        "But looks are not everything. When grown from a seed, the wild strawberry produced twice as many buds, flowers, and fruit as Delizz. Ultimately, however, NASA’s pick kept its top spot, as the wild strawberry grew too many runners that would take up valuable room aboard a spacecraft.",
+        "Many crops have been grown in space, but none so far have come from the gourd family. Cucumbers could be the first.",
+        "Before crops like cucumbers can be grown and eaten in space, they must undergo extensive testing. NASA-funded researchers recently evaluated cucumbers for their growth, yield, and nutrition under spaceflight conditions.",
+        "The researchers found that while the plants showed some signs of enlarged leaves, they produced a steady stream of edible fruit, according to a study published in August in the journal HortScience.",
+        "Offering a variety of crops, such as cucumbers, not only benefits astronauts’ diets and mental well-being, but it also increases plant biodiversity, which can improve the likelihood of crop success on long-duration missions.",
+        "Herbs can spice up life in space, turning a bland meal into a bold one.",
+        "Lemon basil, an edible herb with a citrus scent and taste, is making strides in testing at NASA Kennedy."
+      ],
+      "external": true,
+      "order": 16
+    },
+    {
+      "id": "nasa-news-nasa-eyes-crop-candidates-for-future-menus",
+      "title": "NASA Eyes Crop Candidates for Future Menus",
+      "dek": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-25T17:53:42.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.",
+        "Recent testing points to strawberries, cucumbers, and lemon basil as potential options for future explorers. Space crops can absorb carbon dioxide, produce oxygen, and recycle water. These capabilities will become increasingly important as crewed missions extend farther from our home planet.",
+        "While space crop research advances on Earth, capabilities are also expanding in space. A new investigation from NASA’s Biological and Physical Sciences Division is set to launch to the International Space Station, where the first-of-its-kind prototype growth chamber will provide critical insights for developing crop production systems that could grow crops like these for future Moon Base habitats and Mars missions.",
+        "Strawberries are among the few sweet fruits under consideration for spaceflight and are nutritious, aromatic, and self-pollinating.",
+        "Researchers at NASA’s Kennedy Space Center in Florida are growing strawberries in flight-like growth chambers to evaluate the potential space crop, and NASA partners at The Australian Research Council Centre for Excellence in Plants for Space also are helping expand knowledge of space strawberries.",
+        "Researchers at NASA Kennedy, the University of Melbourne, and the University of Western Australia recently tested a wild strawberry against NASA’s leading strawberry candidate, ‘Delizz,’ to see which thrived better under simulated space conditions.",
+        "Delizz and the wild strawberry produced very different fruits, according to a study published in September in the journal Life Sciences in Space Research. Delizz grew large, red fruit, while the wild strawberry produced small, yellow fruit due to a recessive genetic mutation.",
+        "But looks are not everything. When grown from a seed, the wild strawberry produced twice as many buds, flowers, and fruit as Delizz. Ultimately, however, NASA’s pick kept its top spot, as the wild strawberry grew too many runners that would take up valuable room aboard a spacecraft.",
+        "Many crops have been grown in space, but none so far have come from the gourd family. Cucumbers could be the first.",
+        "Before crops like cucumbers can be grown and eaten in space, they must undergo extensive testing. NASA-funded researchers recently evaluated cucumbers for their growth, yield, and nutrition under spaceflight conditions.",
+        "The researchers found that while the plants showed some signs of enlarged leaves, they produced a steady stream of edible fruit, according to a study published in August in the journal HortScience.",
+        "Offering a variety of crops, such as cucumbers, not only benefits astronauts’ diets and mental well-being, but it also increases plant biodiversity, which can improve the likelihood of crop success on long-duration missions.",
+        "Herbs can spice up life in space, turning a bland meal into a bold one.",
+        "Lemon basil, an edible herb with a citrus scent and taste, is making strides in testing at NASA Kennedy."
+      ],
+      "external": true,
+      "order": 17
+    },
+    {
+      "id": "nasa-childhood-career-come-full-circle-for-budget-analyst-at-na",
+      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+      "dek": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. ",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-25T16:47:29.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office.",
+        "“I remember a poignant dialogue we had after the space shuttle Challenger disaster,” Knight recalled. “However, we talked just as much about the engaging work my parents were doing inside Goddard’s gates.”",
+        "Her father Lyle Knight was a mechanical engineer, while her mother Julia Knight worked the bulk of her career in human resources. They brought their daughter on center for Take Your Child to Work Day and other events, and over time she became hooked.",
+        "“I saw the chambers where spacecraft and instruments were being tested, as well as other facilities used to help further space exploration. Above all, I witnessed the passion and collaborative spirit everyone had at Goddard,” Knight said. “As a child, I found it incredibly fascinating.”",
+        "It all came full circle in late August when, after growing up around NASA and later working several contractor roles for the agency, Knight and a number of her colleagues in the Goddard Office of the Chief Financial Officer were sworn in as federal employees as part of a workforce directive to strengthen the agency’s technical core competencies by bringing mission-critical positions into the civil service.",
+        "She began her Goddard career more than two decades ago following graduation from the University of Maryland in nearby College Park. As the job search began after commencement, one organization inevitably stood out, along with one particular mission.",
+        "When she came across a contractor job opening at Goddard in support of the Hubble Space Telescope team, Knight jumped at the opportunity.",
+        "“Hubble was doing amazing things, and I always admired how they fixed the faulty mirror,” she said, referring to how astronauts and team members corrected an early spherical aberration during the observatory’s first servicing mission. “It was exciting to become involved with such a flagship mission, especially coming right out of college.”",
+        "As a project support analyst, Knight assisted engineers with test plans, data gathering, and hardware procurement for Hubble’s fifth and final shuttle servicing mission.",
+        "Following the mission’s completion in 2009 and subsequent end of the Hubble shuttle servicing era, she took on a similar role with the Robotic Refueling Mission in what was then the Satellite Servicing Capabilities Office at Goddard – now known as NASA’s In-Space Servicing, Assembly, and Manufacturing Capabilities Office.",
+        "Knight left Goddard momentarily afterward to perform contracting work in support of the U. S. Naval Research Laboratory in Washington. After a phone call, she found her way back as a contractor program analyst in the Goddard Office of the Chief Financial Officer, helping manage labor budgets within programs by avoiding funding lapses and ensuring employees received their paychecks on time.",
+        "Following the August ceremony, Knight now carries the title of budget analyst in the Program Analysis Office within the Goddard Office of the Chief Financial Officer, performing many of the same critical duties as a civil servant.",
+        "“While many functions are similar, transitioning into the civil service makes it easier for my colleagues and I to help keep NASA’s missions going from the financial aspect,” said Knight. “We have more autonomy to perform certain government-related tasks by being on the government side.”",
+        "The civil service also provides additional training and growth opportunities for such positions."
+      ],
+      "external": true,
+      "order": 18
+    },
+    {
+      "id": "nasa-news-childhood-career-come-full-circle-for-budget-analyst-at-na",
+      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+      "dek": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. ",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-25T16:47:29.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office.",
+        "“I remember a poignant dialogue we had after the space shuttle Challenger disaster,” Knight recalled. “However, we talked just as much about the engaging work my parents were doing inside Goddard’s gates.”",
+        "Her father Lyle Knight was a mechanical engineer, while her mother Julia Knight worked the bulk of her career in human resources. They brought their daughter on center for Take Your Child to Work Day and other events, and over time she became hooked.",
+        "“I saw the chambers where spacecraft and instruments were being tested, as well as other facilities used to help further space exploration. Above all, I witnessed the passion and collaborative spirit everyone had at Goddard,” Knight said. “As a child, I found it incredibly fascinating.”",
+        "It all came full circle in late August when, after growing up around NASA and later working several contractor roles for the agency, Knight and a number of her colleagues in the Goddard Office of the Chief Financial Officer were sworn in as federal employees as part of a workforce directive to strengthen the agency’s technical core competencies by bringing mission-critical positions into the civil service.",
+        "She began her Goddard career more than two decades ago following graduation from the University of Maryland in nearby College Park. As the job search began after commencement, one organization inevitably stood out, along with one particular mission.",
+        "When she came across a contractor job opening at Goddard in support of the Hubble Space Telescope team, Knight jumped at the opportunity.",
+        "“Hubble was doing amazing things, and I always admired how they fixed the faulty mirror,” she said, referring to how astronauts and team members corrected an early spherical aberration during the observatory’s first servicing mission. “It was exciting to become involved with such a flagship mission, especially coming right out of college.”",
+        "As a project support analyst, Knight assisted engineers with test plans, data gathering, and hardware procurement for Hubble’s fifth and final shuttle servicing mission.",
+        "Following the mission’s completion in 2009 and subsequent end of the Hubble shuttle servicing era, she took on a similar role with the Robotic Refueling Mission in what was then the Satellite Servicing Capabilities Office at Goddard – now known as NASA’s In-Space Servicing, Assembly, and Manufacturing Capabilities Office.",
+        "Knight left Goddard momentarily afterward to perform contracting work in support of the U. S. Naval Research Laboratory in Washington. After a phone call, she found her way back as a contractor program analyst in the Goddard Office of the Chief Financial Officer, helping manage labor budgets within programs by avoiding funding lapses and ensuring employees received their paychecks on time.",
+        "Following the August ceremony, Knight now carries the title of budget analyst in the Program Analysis Office within the Goddard Office of the Chief Financial Officer, performing many of the same critical duties as a civil servant.",
+        "“While many functions are similar, transitioning into the civil service makes it easier for my colleagues and I to help keep NASA’s missions going from the financial aspect,” said Knight. “We have more autonomy to perform certain government-related tasks by being on the government side.”",
+        "The civil service also provides additional training and growth opportunities for such positions."
+      ],
+      "external": true,
+      "order": 19
+    },
+    {
+      "id": "nasa-nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman",
+      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+      "dek": "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. ",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T14:56:54.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. The images focus on an area of sky toward the galactic bulge, a densely packed, spherical region of stars that surrounds the center of a galaxy’s disk. These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+        "Astronomers study the Milky Way’s galactic bulge because it holds nearly a quarter of the galaxy’s stellar mass, and its proximity allows them to examine the region in greater detail. Although we can see the glow from these crowded spheres of stars in other galaxies, they are too jam-packed and far away to resolve individual stars. By studying the Milky Way’s galactic bulge, researchers hope to find new planets and better understand how galaxies form, evolve, and interact over billions of years.",
+        "Hubble views the universe primarily in ultraviolet, visible, and near-infrared light, while Roman collects data in near-infrared light and some visible light. Because researchers wish to compare Hubble’s observations to future Roman observations, Hubble looked at the region in wavelengths that overlap with Roman’s areas of sensitivity, the red end of the visible spectrum and near-infrared wavelengths.",
+        "Hubble’s high resolution allows its instruments to collect data on the brightness, ages, composition, and motion of stars over time. With this knowledge, astronomers can search for potential exoplanets, determine the location of black holes or dark matter, and better understand our galaxy’s environment and evolution.",
+        "A key component of Roman’s future observations is the search for exoplanets by capturing microlensing events , a type of gravitational lensing that occurs when light from a more distant object is magnified and distorted by the mass of a closer object along the line of sight. The way light from the distant star is distorted and magnified can reveal clues to the nature of the foreground star and any planets it may have. Hubble’s observations will help characterize stars in the region before they undergo a lensing event. Months or years in the future, when Roman captures a microlensing event, researchers can compare Hubble data to Roman data of the event, making it easer to interpret.",
+        "These microlensing events are on a much smaller scale, that of stars and planets, than larger gravitational lenses that occur around galaxies and galaxy clusters .",
+        "Over Hubble’s lifetime, it has observed our galaxy’s central bulge many times. These legacy surveys include the WFC3 Galactic Bulge Treasury Program that used Hubble’s Wide Field Camera 3 to study the brightness, precise positions, and motions of stars in this congested part of our galaxy. It also includes the Sagittarius Window Eclipsing Extrasolar Planet Search (SWEEPS) that used Hubble’s Advanced Camera for Surveys to look at 180,000 stars in the bulge of our galaxy. These new observations come from an observing program (# 17776 : S. Terry) designed to aid Roman in its search for exoplanets, black holes, neutron stars, and more.",
+        "The data also adds to Hubble’s continuing legacy of high-precision observations of stars in the galactic bulge.",
+        "Claire Andreoli NASA’s Goddard Space Flight Center , Greenbelt, MD claire. andreoli@nasa. gov",
+        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
+        "Hubble’s most notable scientific discoveries reflect the broad range of research and the breakthroughs it has achieved.",
+        "NASA’s Hubble and Roman space telescopes will work together to broaden our perspective of the universe.",
+        "The Nancy Grace Roman Space Telescope will settle essential questions in the areas of dark energy, exoplanets, and astrophysics."
+      ],
+      "external": true,
+      "order": 20
+    },
+    {
+      "id": "nasa-news-nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman",
+      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+      "dek": "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. ",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T14:56:54.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. The images focus on an area of sky toward the galactic bulge, a densely packed, spherical region of stars that surrounds the center of a galaxy’s disk. These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+        "Astronomers study the Milky Way’s galactic bulge because it holds nearly a quarter of the galaxy’s stellar mass, and its proximity allows them to examine the region in greater detail. Although we can see the glow from these crowded spheres of stars in other galaxies, they are too jam-packed and far away to resolve individual stars. By studying the Milky Way’s galactic bulge, researchers hope to find new planets and better understand how galaxies form, evolve, and interact over billions of years.",
+        "Hubble views the universe primarily in ultraviolet, visible, and near-infrared light, while Roman collects data in near-infrared light and some visible light. Because researchers wish to compare Hubble’s observations to future Roman observations, Hubble looked at the region in wavelengths that overlap with Roman’s areas of sensitivity, the red end of the visible spectrum and near-infrared wavelengths.",
+        "Hubble’s high resolution allows its instruments to collect data on the brightness, ages, composition, and motion of stars over time. With this knowledge, astronomers can search for potential exoplanets, determine the location of black holes or dark matter, and better understand our galaxy’s environment and evolution.",
+        "A key component of Roman’s future observations is the search for exoplanets by capturing microlensing events , a type of gravitational lensing that occurs when light from a more distant object is magnified and distorted by the mass of a closer object along the line of sight. The way light from the distant star is distorted and magnified can reveal clues to the nature of the foreground star and any planets it may have. Hubble’s observations will help characterize stars in the region before they undergo a lensing event. Months or years in the future, when Roman captures a microlensing event, researchers can compare Hubble data to Roman data of the event, making it easer to interpret.",
+        "These microlensing events are on a much smaller scale, that of stars and planets, than larger gravitational lenses that occur around galaxies and galaxy clusters .",
+        "Over Hubble’s lifetime, it has observed our galaxy’s central bulge many times. These legacy surveys include the WFC3 Galactic Bulge Treasury Program that used Hubble’s Wide Field Camera 3 to study the brightness, precise positions, and motions of stars in this congested part of our galaxy. It also includes the Sagittarius Window Eclipsing Extrasolar Planet Search (SWEEPS) that used Hubble’s Advanced Camera for Surveys to look at 180,000 stars in the bulge of our galaxy. These new observations come from an observing program (# 17776 : S. Terry) designed to aid Roman in its search for exoplanets, black holes, neutron stars, and more.",
+        "The data also adds to Hubble’s continuing legacy of high-precision observations of stars in the galactic bulge.",
+        "Claire Andreoli NASA’s Goddard Space Flight Center , Greenbelt, MD claire. andreoli@nasa. gov",
+        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
+        "Hubble’s most notable scientific discoveries reflect the broad range of research and the breakthroughs it has achieved.",
+        "NASA’s Hubble and Roman space telescopes will work together to broaden our perspective of the universe.",
+        "The Nancy Grace Roman Space Telescope will settle essential questions in the areas of dark energy, exoplanets, and astrophysics."
+      ],
+      "external": true,
+      "order": 21
+    },
+    {
+      "id": "conversation-ancient-cahokia-was-transformed-amid-droughts-and-flooding",
+      "title": "Ancient Cahokia was transformed amid droughts and flooding – climate change is reshaping modern communities in similar ways",
+      "dek": "More than 800 years ago, a combination of environmental and societal challenges led some Mississippian people to leave Cahokia, a massive archaeological site that was once…",
+      "category": "环境",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T13:39:48.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/ancient-cahokia-was-transformed-amid-droughts-and-flooding-climate-change-is-reshaping-modern-communities-in-similar-ways-294435"
+      },
+      "cover": "wave",
+      "accent": "blue",
+      "paragraphs": [
+        "More than 800 years ago, a combination of environmental and societal challenges led some Mississippian people to leave Cahokia, a massive archaeological site that was once home to 20,000 people near modern-day St. Louis. Just south of Cahokia, another archaeological site is taking shape at Centreville, Illinois, as modern-day people abandon their homes in the face of 21st-century climate and cultural changes.",
+        "My anthropology colleague Sissel Schroeder and I studied both sites to learn how people react to climate change when it hits home.",
+        "During the 1960s and 1970s, economic downturns and the movement of white residents out of diversifying neighborhoods made Centreville into a majority-Black community that faced challenges such as mismanaged drainage infrastructure . Yet in interviews with a community group, residents reported that people had no major problems with living there until the floods came.",
+        "From the 1960s to the 2020s, average annual rainfall in the St. Louis region has increased by 10 inches (25 centimeters) to 44 inches (112 cm) a year. That has led to more frequent flooding , including in Centreville, where stormwater and sewage systems have not been significantly updated since they were built in the 1960s. The rains bring floods, which back up raw sewage into people’s kitchen sinks, and seep up through the ground, covering residents’ lawns as well as public streets and sidewalks.",
+        "Many people who can afford to move away from Centreville have done so, leaving a mostly older population and many abandoned homes . Essentially, a community is becoming an archaeological site before our eyes.",
+        "Nine hundred years ago, Cahokia occupied the same floodplain as Centreville does today. At its population peak around 1100 CE, over 100 burial, residential and ceremonial earthen mounds stretched from one end of the valley to the other, with its core centered on Monks Mound.",
+        "Monks Mound is the largest prehistoric earthwork in the Americas. It is 950 feet (290 meters) long and 775 feet (236 meters) wide, and its platform rises 100 feet (30 meters) above the floodplain. Decades of archaeological excavation show that surrounding Monks Mound are plazas that held great feasts and possibly sporting events – including chunkey, something like bocce ball with spears – timber monuments likely for ritually observing astronomical events, and other mounds containing elaborate burials .",
+        "Possibly up to 20,000 people lived at Cahokia at the start of the 12th century, but by the end of the century, the city had entered a population decline that continued for 200 years . Archaeologists have long debated the cause of Cahokia’s depopulation before European explorers and colonists arrived, putting forward a range of societal and environmental theories .",
+        "In other research, several colleagues and I previously found that Cahokia experienced several natural disasters during a warming period known as the Medieval Climatic Anomaly . In the second half of the 12th century, Cahokia experienced a large Mississippi River flood and drought conditions that stretched for several decades. Our study argued that the site’s depopulation was related to those climatic changes .",
+        "Climate change at Cahokia didn’t look like catastrophic scenes in movies like “The Day After Tomorrow .” There’s no evidence to suggest widespread destruction or death. Departures began at a time that coincided with climatic changes of the 12th century, but people continued to gradually leave the site through the 13th and 14th centuries.",
+        "As people left, life in Cahokia changed. After 1200 CE, archaeological evidence suggests Cahokians ceased or reduced communal feasting and mound building. They also contributed less to public granaries, moving agricultural surplus to private spaces. But it only became harder to live there for some people: Larger houses and status symbols became more prevalent, perhaps indicating a larger gap between the rich and poor.",
+        "To understand the relationship between social and environmental changes at Cahokia, I look at what is happening at Centreville in the 21st century.",
+        "People are not leaving all at once; instead, the accumulation of years of flooding-related failing infrastructure, repair costs and health problems have pushed some away from the community. Others have stayed, like resident William McNeal, who told a local news outlet, “ I’m not going to abandon my house . It’s all I got.”",
+        "Additionally, what’s happening in Centreville reveals that climate change is experienced unequally – some people are more affected than others. All of the St. Louis area has received increased rainfall and flooding in recent decades, but the residents of Centreville face some of the worst consequences because they live in a floodplain with outdated infrastructure.",
+        "At Cahokia, people would have also experienced the environmental events of the 12th century in different, unequal ways. Those with farms in the lower floodplain were most exposed to crop loss from flooding , but plots in the uplands were safer. During drought conditions, fields in well-drained soils likely retained less moisture and fared worse than plots with poorly drained soils.",
+        "People who lost crops may have struggled to contribute to communal feasts and shared food storage . I believe some may have become indebted to neighbors whose resources remained intact, while others may have decided to leave. Over time, these individual responses could have changed the relationships and inequalities that structured Cahokian society.",
+        "If that’s what happened, climate change did not cause a sudden and dramatic exodus from Cahokia. Instead, its uneven effects altered the social status quo; some benefited, some lost , and some left .",
+        "Today, some consequences of climate change can be major and immediate, such as sudden massive floods . But in communities like Centreville, the effects of repeated flooding accumulate over years, producing gradual societal changes that are harder to recognize than the aftermath of a sudden catastrophe.",
+        "Climate models are useful for estimating future conditions, but they reveal nothing about how people might experience or respond to those conditions. Events and people’s reactions may unfold quickly, even suddenly, or they may play out quietly over long periods of time.",
+        "Regardless, the result may be the stillness of an archaeological site.",
+        "AJ White does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 22
+    },
+    {
+      "id": "conversation-sewing-an-infinity-of-phalluses-how-japanese-artist-yayoi-",
+      "title": "Sewing an infinity of phalluses – how Japanese artist Yayoi Kusama confronted the male-dominated art world by mocking it",
+      "dek": "Japanese artist Yayoi Kusama’s installations are big, bold and controversial. From the time she burst upon the pop art scene in the 1960s until her death on Aug. ",
+      "category": "文化",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T13:39:13.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/sewing-an-infinity-of-phalluses-how-japanese-artist-yayoi-kusama-confronted-the-male-dominated-art-world-by-mocking-it-290804"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "Japanese artist Yayoi Kusama’s installations are big, bold and controversial. From the time she burst upon the pop art scene in the 1960s until her death on Aug. 14, 2026, at the age of 97, she challenged the Western, male-dominated art world. She also upended assumptions about mental disorders, which many people have uncritically seen as the source of her creativity . Her phallic sculptures and confounding mirror rooms are still popular, and they defy artistic classifications.",
+        "Kusama’s resistance to categorization raises an intriguing question: What is her lasting effect on the art world?",
+        "Kusama took a major step into the global art scene after sending two canvases for display at Amsterdam’s Stedelijk Museum on Feb. 5, 1962. After that, she shifted her direction to avant-garde sculpture. She created Accumulation No. 1 , her first work in a series that employed sewn phallic protrusions. The series thrust her into New York City’s pop art scene and would lead to her fantastical Infinity Mirror Rooms installation.",
+        "A major retrospective of her work is on view at the Stedelijk Museum through Jan. 17, 2027.",
+        "The specter of her mental health issues, however, still undermines her art’s significance. Critics often link the repetition in her work to obsessive-compulsive disorder. But as an art historian who has studied Kusama extensively, I argue that she intentionally used compulsivity to examine gender issues in the art world. A close look at Accumulation No. 1 reveals how she pulled this off.",
+        "Kusama’s emphasis on gender came into focus when she arrived in the male-dominated New York art world . During the 1940s and 50s, while abstract expressionism reigned in New York, women in the scene were treated as wives and assistants.",
+        "Painter Grace Hartigan had to adopt the pseudonym “George” to gain recognition. By the 1960s, that was starting to change. Venezuelan sculptor Marisol Escobar’s May 1962 exhibition at the Stable Gallery bucked the trend of gender conformity by integrating self-portraits into her sculpture series.",
+        "Kusama’s Accumulation No. 1 emerged as New York artists were seeking to move beyond abstract expressionism . The gestural paintings of this art movement were what some critics saw as an existential struggle toward originality coded as masculine . Pop artists refused this model : They turned instead to ready-made objects and impersonal repetition, evoking factory production.",
+        "Kusama procured furniture and egg cartons for her Accumulation sculptures, as well as a wooden rowboat for another sculpture that became Aggregation One Thousand Boats Show . She decided to focus on sewing — an art rooted in her female Japanese education — and she ordered a sewing machine.",
+        "Kusama embraced femininity by using phalluses – a symbol of patriarchal authority – made from assorted fabrics sewn into tubular shapes, filled with cotton and painted white. She upholstered an armchair with these protrusions, colonizing an eerie domestic scene with phalluses made through a traditionally feminine craft.",
+        "In this way, she transformed furniture into a vessel of complex meaning, with gender as the key component to interpretation.",
+        "Art critics and scholars have often interpreted the time-consuming process of creating these phalluses as evidence of obsessive-compulsive neurosis . But this assumption overshadows Kusama’s careful planning and deliberate choices in her art. Intensive manual labor is a common component of Kusama’s work.",
+        "In 2008, filmmaker Heather Lenz interviewed Kusama’s friend Helen Yrissary, who helped sew the protrusions on the armchair. She noted that while there were always five assistants who crafted the phalluses, only Kusama herself secured them to the chair. In Accumulation No. 1 and Accumulation No. 2, obsession was more of a calculated aesthetic and conceptual choice than a compulsive action.",
+        "Kusama knew about obsessive-compulsive disorder and the anxiety it can cause. Drawing on Sigmund Freud’s psychoanalytical theories, she explained in her autobiography that she developed the phallic image while she was exploring “kyōfu” – fear, or feelings of the uncanny – in the Accumulation series. According to Freud, the potential for the uncanny is rooted in a child’s first awareness of the anatomical differences between the sexes. He postulated that female children are traumatized when they realize they lack a penis, creating what he called penis envy .",
+        "Kusama’s Accumulation series may have functioned as a satire of penis envy . And it may have led her to the idea of vanquishing men’s authoritative power.",
+        "In one of her self-portraits from 1966 , Kusama flaunted a phallic protrusion near her crotch. This gesture suggests that the protrusion might be her own penis, that she might be bisexual or that she might not fall under the category of “female.” Such efforts to redefine female sexuality inspired many female artists at the time. Toward the late 1960s, artist Louise Bourgeois , who admired Kusama’s work, created several sculptures, including Fillette (Little Girl) , that employed phallic shapes as commentary on psychological complexes and gender.",
+        "But when Kusama premiered Accumulation No. 1 and Accumulation No. 2, The New York Times gave her work only a brief mention . When, three months later, sculptor Claes Oldenburg showed his similarly sewn “metamorphic” sculptures, he received rave reviews in numerous art magazines, bringing him to the attention of the international art world. It was only much later in the 2010s, after Kusama gained global prominence, that Oldenburg admitted her influence on his work.",
+        "Kusama’s popularity today stems from works that are both visually expansive and socially subversive. Aggregation: One Thousand Boats Show was her first all-over exhibit – an exhibition in which a repeated motif covers the gallery’s four walls, drawing the audience into the work rather than asking them to view it as a separate object. On display at the Gertrude Stein Gallery from December 1963 to January 1964, it featured a sculpture of the phallus-embedded boat surrounded by its image repeating across the wall.",
+        "Although Kusama sought to subvert male authority, she appears nude in a photograph of the phallus boat installation , her back to the camera, trapped between the real and the illusory. Rowing the boat seems like the only way to escape the omnipresence of masculinity.",
+        "She seemed even more entrapped by patriarchal symbolism in her Infinity Mirror Room — Phalli’s Field, where she lays among an array of phalluses covered in red polka dots.",
+        "In 1966, Kusama found a way to break away from male domination through her “ Peep Show ” at the Castellane Gallery in New York. In it, she reduced the towering phallus to a small dot of light. It was her first work of psychedelic art , a category the curator Christoph Grunenberg characterized as both “ artistic experiment and dissenting politics .”",
+        "Incorporating Beatles music, flickering strobe lights and mirror reflections, “Peep Show” was intended to produce effects similar to those of psychoactive drugs such as mescaline, psilocybin and LSD, liberating users from established social norms and opening the possibility of alternative values. The exhibit, later known as “ Love Forever ,” also aimed to alter perception by inducing synesthesia — a neurological state in which stimulating one sensory-cognitive pathway triggers involuntary experiences in another.",
+        "Kusama remembered attending a lecture by Timothy Leary , a former Harvard University psychology professor and psychedelics advocate, at the Village Theater in New York, a hub of psychedelic culture. In 1968, she collaborated with light artist Joshua White on Self-Obliteration , a fusion of sound, lights and images that Leary claimed “would demonstrate what an LSD session is like.”",
+        "Kusama’s ability to transform any neurosis she may have had into liberation began with Accumulation No. 1 and continued through Fireflies on the Water (2002), Soul Under the Moon (2002), Infinity Mirror Room—Aftermath of Obliteration of Eternity (2009) and Infinity Mirrored Room—The Souls of Millions of Light Years Away (2013). The ethereal visions embodied in her psychedelic mirror rooms stand in for the mind-altering drugs that release people from the rationality of society and fuel the desire to change."
+      ],
+      "external": true,
+      "order": 23
+    },
+    {
+      "id": "conversation-georgians-mark-2-years-of-pro-eu-demonstrations-defying-ca",
+      "title": "Georgians mark 2 years of pro-EU demonstrations – defying campaign to wear protesters down",
+      "dek": "For months on end, Georgians have braved the elements and long odds to protest their government’s suspension of the former Soviet country’s bid to join the European Union. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T13:38:58.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/georgians-mark-2-years-of-pro-eu-demonstrations-defying-campaign-to-wear-protesters-down-296546"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "For months on end, Georgians have braved the elements and long odds to protest their government’s suspension of the former Soviet country’s bid to join the European Union. On Nov. 28, 2026, those pro-democracy campaigners will mark a milestone – two years of sustained, if declining, protest.",
+        "Hailed as a beacon of democracy following its independence from the Soviet Union in 1991, Georgia has of late been increasingly held up as an example of democratic backsliding : the slow, persistent erosion of democratic institutions. Indeed, the 2025 Economist Democracy Index — an annual benchmark of global democratic health — found that Georgia had fallen 20 places on the list since 2017.",
+        "The formal hallmarks of democratic systems remain visible: Elections are held, parliaments vote and political parties organize. At the same time, democratic institutions are compromised by political leaders, parties, police, courts and legislators – who use their resources to stifle dissent and compromise democratic institutions .",
+        "These leaders commonly target electoral fairness without committing blatant fraud. For example, public sector workers such as teachers are threatened with job loss if they do not vote for the government, or local governments are rewarded for producing votes during elections. Critics allege that biased laws and politicized court cases eliminate independent media and jail opposition leaders.",
+        "Backsliding governments also use disinformation and rhetoric to create confusion and fear. Using these tactics, critics allege, the ruling populist right, pro-Russian Georgian Dream government continues to undermine the fragile democracy. With many feeling unable to fight back through elections and parliamentary debates, Georgians have taken to the streets .",
+        "I am a member of a research project that explores how national protests in countries with fragile democratic institutions create legacies that can influence politics over the long term. In Georgia, that work is based on interviews with leaders from across civic and political life. These interviews point to a widespread view that the government is actively attempting to erode protest just as critics of the government feel it has eroded institutions. So far, the government has not crushed the movement with a campaign of lethal force. Rather, it has tried to use lower-level, but sustained, suppression tactics in hopes of inducing burnout in the opposition and getting civil society to disengage .",
+        "In Georgia, the roots of protest are deep in the struggle for independence from the Soviet Union and the influence of Russia under the leadership of Vladimir Putin. In 2003, Georgians launched the Rose Revolution – the first in a series of actions across the former Soviet states called the Color Revolutions – to support democracy and autonomy from the Russian Federation.",
+        "The Georgian Dream emerged as a socially conservative opposition party in 2012 under the leadership of the billionaire Bidzina Ivanishvili and won a majority of seats in parliamentary elections. Many analysts at the time saw the party as a new chance to consolidate democracy. Yet unable to provide economic gains , the party instead embarked on a platform consistent with pro-Russian security policies, which critics allege were rife with political manipulation, and false rhetoric that undermined democracy. In 2019 , Georgians took to the streets to contest failed electoral reforms and growing Russian influence through Ivanishvili’s governance.",
+        "By 2023, tens of thousands of Georgians filled Rustaveli Avenue in the capital of Tbilisi to oppose a law designed to shutter civic organizations and independent media. The so-called Russia Law borrowed heavily from the Kremlin’s tactics to eliminate opposition to the Putin government in Russia. Many Georgians understood the law as an attack on democracy and celebrated when the ruling party, Georgian Dream, withdrew its bill .",
+        "A year later, as new elections approached, the party reintroduced the law, provoking renewed protest. This time it passed. A few months later, preelection polls showed the opposition parties leading, but expectations of victory evaporated when Georgia Dream secured 54% of vote – an outcome that critics raised as a possible indicator of electoral manipulation .",
+        "Then, on Nov. 28, 2024, the new government put Georgia’s European Union bid on hold until 2028. Many Georgians have long seen EU membership as a path forward to economic growth and democratic protections . In light of Russia’s 2008 occupation of Georgian territory and 2022 full-scale war in Ukraine, Georgians also perceived EU membership as a bulwark against Russian intervention.",
+        "Fueled by feelings of betrayal over the reversal on EU membership, crowds poured back onto Rustaveli Avenue, reaching a peak of 170,000-200,000 protesters. Several hundred activists have returned every day since.",
+        "Over the course of two years, Georgian protesters have faced chronic and unpredictable violence rather than a decisive crackdown. By Amnesty International’s count , thousands have been arrested, hundreds beaten in the streets or abused in custody, and more than 150 imprisoned after politically motivated trials.",
+        "In general, however, the Georgian government’s tactic for countering the protest movement has been to avoid mass violence in lieu of targeted attacks on protest leaders and subtler means to discourage new activists. Fines for protest rose tenfold between 2024 and 2026 to double the average Georgian’s monthly income, leading Amnesty International to conclude that Georgia’s courts have become tools for “financially exhausting protesters.” Meanwhile, repeat offenses for participating in a demonstration have become crimes.",
+        "These actions have steadily increased the costs of protesting, driving activists from the streets due to a multitude of reasons related to risk, personal safety and fear. In our research, we protect the people we interviewed from state retaliation by making them anonymous.",
+        "The effects of these costs are clear in their statements.",
+        "“We don’t say it openly,” an investigative journalist and editor told us. “But the truth is, we were exhausted, depleted — and that’s the state we were in when the election campaign started.”",
+        "Another pro-European student movement member said, “Human resources are exhausted. You can’t expect 300,000 or 100,000 or even 20,000 people to march from Ilia University to Parliament every single day for 200 or 300 days straight. People have jobs, lives, personal struggles, and you can’t ask them to drop everything every day.”",
+        "Overall, our interviews with a variety of civil society leaders and protest supporters found that exhaustion was widespread and that a declining amount of people had the physical, financial or emotional capacity to stand every day.",
+        "Still, leaders remain hopeful that the nightly protests will provide a platform for renewed activism when the next opportunity for challenging the government presents itself. As the same pro-European student movement member argued: “I believe that will change. Let’s say Georgians are just on a kind of protest vacation. I hope we’ll be back out there again, all together, very soon.”",
+        "For now, there exists an effective stalemate between the protest movement and the government. The movement endures but has not broken through, and I believe the government cannot crush it because it fears the student leader is right — and the protest vacation might end.",
+        "For a generation of Georgians invested in building democracy, the past two years have shown how quickly democratic gains can be undone.",
+        "Still, as the anniversary of nightly protests approaches, many Georgians point to Serbia, where student protesters also took the streets in November 2024 and forced an early election on Oct. 25, 2026. The same Serbian students formed an opposition bloc that won a parliamentary majority that unseated an entrenched and increasingly autocratic leader .",
+        "Georgian Dream understands this threat and has proposed a ban on opposition parties, closing the route that Serbia’s students used."
+      ],
+      "external": true,
+      "order": 24
+    },
+    {
+      "id": "conversation-columbia-is-keeping-its-gates-closed-raising-the-question-",
+      "title": "Columbia is keeping its gates closed, raising the question of what universities owe their neighborhoods",
+      "dek": "The Gaza war protests that overtook some colleges and universities in 2023 and 2024 have long dispersed – but one very clear remnant of the demonstrations remains at Columbia…",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T13:38:35.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/columbia-is-keeping-its-gates-closed-raising-the-question-of-what-universities-owe-their-neighborhoods-297102"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "The Gaza war protests that overtook some colleges and universities in 2023 and 2024 have long dispersed – but one very clear remnant of the demonstrations remains at Columbia University’s Morningside Heights campus in New York City: a closed campus.",
+        "Columbia’s administration first shut the gates in April 2024, following pro-Palestinian rights protests and waves of police arrests . New York City politicians said that these disruptions were fueled by “outside agitators.”",
+        "Now, only students, faculty, staff and alumni with a school ID are able to enter Columbia’s quad.",
+        "Some of Columbia’s neighbors sued the university in January 2025, saying that the closure created a “six-block barrier between Broadway and Amsterdam Avenue from West 120th to West 114th Street” and violated the Americans with Disabilities Act and Rehabilitation Act .",
+        "A New York Supreme Court judge in Manhattan dismissed their suit on Nov. 10, 2026, saying that “even if Columbia previously granted unrestricted public access to College Walk, as it remained their private property, nothing prevented them from restricting access at any time.” The plaintiffs quickly appealed the decision .",
+        "Columbia has maintained that safety concerns meant it needed to close its gates, and that the campus is private property.",
+        "Nonetheless, in the past, Columbia allowed neighbors to cross the campus as a scenic shortcut through the neighborhood. Nearby nursery schools used the campus green as a place for children to explore and play.",
+        "As a college professor of law and political science, and an elected official in the western Massachusetts town where I teach , the Columbia campus controversy feels familiar. These “town-and-gown” disputes have, from time to time, raised questions about what universities owe the community beyond their gates.",
+        "From at least the 1950s until 2024, Columbia had an open campus policy. In 1953, New York City approved closing the campus’s central West 116th Street stretch to cars, with the understanding that pedestrians would be able to walk across the campus.",
+        "The recent closure stirred up tensions between the school and its neighbors. But such strains are as old as universities themselves. Some commentators suggest that conflict between universities and their surrounding communities can be traced back to medieval Europe.",
+        "“The early universities in cities such as Bologna and Paris took a very different form to the institutions we know today. They were loose communities of masters and scholars who lived amongst the people of the town,” the education historian Harley Richardson wrote in 2020 .",
+        "Townspeople often resented those scholars and students because “They couldn’t understand the scholarly Latin spoken by the students” or whether “the long gowns they wore” were “intended to convey a superior social status,” Richardson wrote.",
+        "One of the most notorious town-gown incidents that turned violent occurred in Oxford, England, in February 1354 on so-called St. Scholastica Day, honoring an Italian saint who founded the order of the Benedictine nuns .",
+        "Trouble began in a local tavern when some students complained loudly and aggressively about the poor quality of the wine they were served. Things escalated when the tavern-keeper, who was also the mayor of Oxford, responded with insults. A fight broke out and drew in a large number of townspeople and students who rushed to the scene. It took the intervention of the king to restore order.",
+        "Conflicts between universities and their local towns or cities have also been very much a part of the story of higher education in the United States.",
+        "Most often these disputes have focused on issues like where a university should build a dormitory or whether it should pay fees to the city where it is located.",
+        "And as in England, these conflicts have occasionally turned violent.",
+        "One such incident happened in New Haven, Connecticut, in 1806, when riots broke out between Yale University students and locals who were on their way to church.",
+        "What, if anything, do universities owe their communities ?",
+        "The popular phrase “ the ivory tower ” captures one vision of a university. It suggests that universities serve society by being left alone to conduct research and educate students, disengaged from the larger community’s immediate concerns. In this view, people outside of universities benefit indirectly from the inventions and innovations that universities produce, as well as from the jobs they create.",
+        "Another vision, which came to prominence in the 1960s, called on universities to be good citizens of their surrounding communities. This view urged university leaders to invest in their neighborhoods.",
+        "Colby College, in Waterville, Maine, exemplifies this approach . It has spent US$265 million on construction and other investment projects over the past several years , with an eye on revitalizing its struggling downtown district .",
+        "Others schools, including the University of Notre Dame , the University of Pennsylvania , the University of Southern California and the University of California, San Francisco , have invested substantial amounts of money in developing their towns and cities and supporting neighbors. Trinity College in Hartford, Connecticut, for example, announced in September 2026 that it would pay for the full tuition , housing and meals for local residents who are admitted as students.",
+        "Some universities have been sending students out into the communities around them as one way to support their city. For example, Columbia Journalism School students are often tasked with developing a reporting project in a particular New York City neighborhood."
+      ],
+      "external": true,
+      "order": 25
+    },
+    {
+      "id": "conversation-immersive-shopping-has-survived-the-demise-of-the-metavers",
+      "title": "Immersive shopping has survived the demise of the metaverse – but its appeal depends on how it’s designed and who is using it",
+      "dek": "In 2021 and 2022, major retailers and fashion brands were racing into the metaverse , opening virtual stores, creating digital products and inviting consumers to explore…",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T13:38:19.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/immersive-shopping-has-survived-the-demise-of-the-metaverse-but-its-appeal-depends-on-how-its-designed-and-who-is-using-it-297364"
+      },
+      "cover": "cup",
+      "accent": "orange",
+      "paragraphs": [
+        "In 2021 and 2022, major retailers and fashion brands were racing into the metaverse , opening virtual stores, creating digital products and inviting consumers to explore branded worlds through avatars. Much of that excitement has since faded. But the technologies behind those experiments are far from disappearing .",
+        "Today, shoppers can try on clothes virtually, see how furniture would look in their homes and explore branded worlds on gaming platforms. Rather than building entirely new virtual universes, retailers are finding ways to integrate immersive technologies into familiar shopping experiences.",
+        "A 2025 global survey found that 53% of surveyed retail professionals focused on virtual fitting rooms , while 46% said they were building augmented reality and virtual reality experiences. On the consumer side, a 2024 survey of more than 2,200 U. S. shoppers found that 49% of respondents would buy more clothing if a great virtual try-on experience were available. Meanwhile, a separate survey found that only 4. 5% of U. S. digital shoppers regularly used these technologies for shopping.",
+        "Immersive technologies continue to attract interest, but their regular use in online shopping remains limited. So what makes an immersive shopping experience worth using?",
+        "I’m a scholar of retail and consumer sciences who studies consumers’ interactions with technology in the retail environment. My research suggests that the value of immersive retail isn’t simply about how advanced or realistic the technology is. It’s about how the experience is designed, how it addresses consumers’ needs and how it helps them connect with products and brands.",
+        "Imagine shopping for a pair of sunglasses online. You like the style, but you’re not sure how they would look on you. Amazon allows shoppers to try on certain shoes and eyewear virtually using their smartphones. IKEA applies a similar concept to home furnishings through IKEA Kreativ, which allows customers to digitally remove existing furniture from their rooms and experiment with new arrangements.",
+        "These experiences address a fundamental limitation of online shopping: the gap between seeing a product on a screen and imagining how it would look on you or in your own space.",
+        "My colleagues and I found that the experience of virtually trying on clothes can be particularly helpful for shoppers who struggle to imagine how clothing would look on them. By making it easier to visualize themselves wearing a product, the technology can help them feel more comfortable with their purchase decisions. In other words, the value of immersive technology may lie less in creating a sense of novelty than in helping consumers overcome the limitations of conventional online shopping.",
+        "As artificial intelligence advances, so-called virtual try-on experiences are becoming increasingly personalized. Shoppers can now see clothing on digital representations of themselves rather than relying solely on images of fashion models. It might seem intuitive that the more closely a virtual model resembles a shopper, the better the experience. But our research suggests otherwise .",
+        "In two experiments, we found that consumers’ responses to personalized avatars depend on what psychologists call “ assessment orientation ,” or the tendency to critically evaluate and compare options before making a decision. This mindset of carefully thinking through a decision can also shift depending on the shopping situation, such as choosing an outfit for a job interview versus casually browsing for fun.",
+        "Shoppers with a stronger evaluative mindset, whether due to their personal tendencies or the shopping situation, felt a stronger sense that they were the model and expressed greater intentions to buy when using personalized 3D avatars than when viewing conventional model images. Interestingly, the opposite pattern emerged among shoppers who are less inclined to mull over options.",
+        "The implication is that the same technology can offer different value to different consumers. A highly personalized experience may be particularly useful to someone who wants to thoroughly evaluate a product, but it isn’t necessarily better for everyone or every shopping situation.",
+        "Immersive technologies can also offer value beyond helping consumers decide what to buy.",
+        "Walmart, for example, has created branded experiences on Roblox , where users can explore virtual spaces, play games and discover digital products. These experiences offer retailers a new way to connect with younger consumers and build brand engagement through entertainment rather than traditional advertising. Its Walmart Discovered Roblox gaming environment has attracted nearly 40 million visits as of May 2026.",
+        "My research on branded virtual worlds suggests that simply creating a virtual space isn’t enough to engage consumers. What matters is how brands bring these spaces to life through storytelling and social experiences that help consumers feel more connected to the brand. The value of these environments lies less in their 3D graphics than in the opportunities they create for consumers to participate, interact and become part of a brand’s story.",
+        "Advances in AI will likely open up even more possibilities for immersive online shopping, from more realistic virtual try-on to interactive environments that adapt to individual preferences. But making an experience more technologically sophisticated doesn’t automatically make it more valuable.",
+        "Whether a retailer’s goal is to help shoppers visualize products, make more informed decisions or build connections with brands, they are more likely to be successful if they design experiences around consumers rather than around the capabilities of the technology.",
+        "Hyejune Park does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 26
+    },
+    {
+      "id": "conversation-why-expect-holiday-traditions-to-stay-the-same-even-as-lif",
+      "title": "Why expect holiday traditions to stay the same, even as life continually changes?",
+      "dek": "There’s something about the holiday season that makes people notice the passage of time. ",
+      "category": "社会",
+      "tags": [
+        "The Conversation"
+      ],
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T13:37:58.000Z",
+      "source": {
+        "name": "The Conversation",
+        "license": "CC BY-ND 4.0",
+        "licenseLabel": "CC BY-ND 4.0",
+        "url": "https://theconversation.com/why-expect-holiday-traditions-to-stay-the-same-even-as-life-continually-changes-297450"
+      },
+      "cover": "books",
+      "accent": "blue",
+      "paragraphs": [
+        "There’s something about the holiday season that makes people notice the passage of time. As you unpack treasured decorations, prepare family recipes and listen to familiar holiday songs, you’re reminded not only of celebrations from years past but also of different times in your life.",
+        "With each passing year, children grow older, families welcome new members, relationships change, and some of those you once celebrated with are no longer here. But people often approach the holidays hoping to experience them just as they once did.",
+        "As someone who studies life transitions , I’m particularly interested in why people expect traditional holiday celebrations to remain the same when so much else in life has changed. I suggest thinking of holiday memories not as a blueprint for recreating the past but as a way to understand what makes these times meaningful to you, and how you might carry that meaning into the present.",
+        "Research on family rituals suggests that traditions contribute to a sense of identity and belonging by connecting you to the people, experiences and shared values that have shaped your life. In fact, research focused on holiday rituals has found that participating in traditions such as preparing grandmother’s chocolate fudge or watching favorite seasonal movies is associated with greater feelings of closeness and enjoyment during celebrations.",
+        "You may not recognize how tightly some holiday traditions are tied to certain stages of your life. Parents who once looked forward to Christmas morning with young children may now find themselves coordinating celebrations around the schedules of adult children and their families and in-laws. Someone who has hosted holiday gatherings for decades may find themselves adjusting to being a guest rather than orchestrating the festivities.",
+        "Although these kinds of changes are a natural part of life, they can bring a mix of emotions. You can welcome new experiences while still missing aspects of an earlier time.",
+        "During these periods of transition, the memories associated with holiday traditions may become especially meaningful, offering a connection to the past as you adjust to the present.",
+        "If you find yourself missing the holidays of years past, you may be longing not for the celebration itself but for a particular era. Memories of former times can bring comfort, but they can also evoke feelings of grief, loneliness or sadness , particularly if you’re navigating changes you didn’t anticipate or would not have chosen, such as illness, injury, unemployment or relationship breakdown.",
+        "People may be more inclined to experience nostalgia, a sentimental longing for the past , during periods of transition , when familiar aspects of life are changing.",
+        "While nostalgia is sometimes viewed negatively, as dwelling on past experiences, research suggests it can be a valuable resource when navigating life changes, especially for younger generations .",
+        "For instance, nostalgia can actually strengthen social connections and contribute to a sense of meaning. Recalling cherished memories can remind you you’re part of a broader life story, which can enhance feelings of connection, personal value and purpose.",
+        "Nostalgia can also help people make sense of the different chapters of life, allowing them to maintain a sense of who they are even as circumstances change.",
+        "Memories, then, can be more than reminders of what once was. They can help you recognize what you value and inform how you experience the present. While nostalgia may not ease the pain associated with challenges such as major health changes, evolving caregiving responsibilities or military deployment, it can serve as a bridge between the past and the present.",
+        "Throughout life, people adjust routines, responsibilities and expectations to accommodate new circumstances. Yet when it comes to the holidays, they may be reluctant to make those same adjustments. Is it still Thanksgiving if the table doesn’t feature the cranberry sauce made with your family’s traditional recipe? Can it feel like Christmas if there’s no tree decorated with your family’s sentimental ornaments?",
+        "This reluctance to let holiday observances evolve may be influenced, in part, by how people remember previous celebrations. Negative emotions associated with past experiences tend to fade more quickly than positive ones . You may remember the warmth of gathering around a holiday table but less readily recall the stress or challenges that accompanied it.",
+        "When expectations no longer reflect the realities of your life, you may feel disappointed or place pressure on yourself or others to live up to those old memories. Even a cherished tradition can become a source of stress when you feel obligated to maintain it in the same way year after year.",
+        "As you navigate life’s transitions, it may be helpful to reflect on what you cherish most about your holiday traditions. Is it the way you have always celebrated? Or is it the feelings of comfort and belonging that you associate with those celebrations?",
+        "Research suggests that reflecting on the past can inspire people to seek meaningful connections and experiences in the present .",
+        "Of course, adjusting to change is not always easy, and for some, the holidays can be particularly hard . Adapting does not mean abandoning cherished traditions, directly replacing what has been lost, or feeling pressured to create new memories. It may simply mean accepting that the holidays will feel different and allowing yourself the time and space to adjust.",
+        "In the desire to recreate what once was, many people may overlook the moments that could become cherished memories in the years ahead. Savor the memories of holidays past without expecting them to define how you experience the holidays today. Celebrations don’t need to remain the same to remain meaningful.",
+        "Lee Ann Rawlins Williams does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+      ],
+      "external": true,
+      "order": 27
+    },
+    {
+      "id": "nasa-georgias-pecan-belt",
+      "title": "Georgia’s Pecan Belt",
+      "dek": "From the star of its namesake pie to a supporting player in countless side dishes, the pecan has earned a place on Thanksgiving tables across the United States. ",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T05:00:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "From the star of its namesake pie to a supporting player in countless side dishes, the pecan has earned a place on Thanksgiving tables across the United States. But before it becomes candied, chopped, or baked, it hangs from the branches of Carya illinoinensis —a species of hickory in the walnut family native to North America. Many U. S. -grown pecans come from orchards in Georgia, the state that has historically led the nation in production.",
+        "One hotspot of pecan cultivation is in the southwest part of the state, around Albany, in Dougherty County. The OLI (Operational Land Imager) on Landsat 8 captured this image of the area and neighboring counties on October 23, 2026. That date falls within the pecan harvest season, which typically runs from October into December . In addition to pecans, other crops such as peanuts, cotton, and corn are also grown in the area.",
+        "Landsat observations like these contribute to the Cropland Data Layer , an annual map of crop types across the contiguous United States produced by the U. S. Department of Agriculture’s National Agricultural Statistics Service . The 2025 map shows pecan groves clustered along the Flint River within the Coastal Plain . Pecan trees need abundant water, and they generally do well in the area’s well-drained sandy soils that sit above the Floridan aquifer system that growers can tap for irrigation.",
+        "In the late 1800s, Georgia had less than 100 acres (40 hectares) of pecan orchards. Then, in the early 1900s, southwest Georgia’s Dougherty and Mitchell counties underwent a pecan boom when thousands of acres were planted and sold to investors . By the end of the 1950s, Georgia led the nation in pecan production, producing over 17 million pounds, according to 1959 agricultural census numbers .",
+        "In recent decades, pecan production has grown in other states, such as New Mexico and Texas. Georgia faced challenges after Hurricane Michael damaged orchards in October 2018, and Hurricane Helene dealt another blow when it swept inland in September 2024. Even so, USDA numbers show that the state’s production has topped 100 million pounds in each of the past three years (2023-2025).",
+        "In 2026, a wet summer in parts of the state helped scab take hold. The fungal disease causes brown spots on pecan twigs, leaves, and nut shucks. Meanwhile, some growers still recovering from Hurricane Helene reported the return of a solid crop."
+      ],
+      "external": true,
+      "order": 28
+    },
+    {
+      "id": "nasa-news-georgias-pecan-belt",
+      "title": "Georgia’s Pecan Belt",
+      "dek": "From the star of its namesake pie to a supporting player in countless side dishes, the pecan has earned a place on Thanksgiving tables across the United States. ",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T05:00:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "From the star of its namesake pie to a supporting player in countless side dishes, the pecan has earned a place on Thanksgiving tables across the United States. But before it becomes candied, chopped, or baked, it hangs from the branches of Carya illinoinensis —a species of hickory in the walnut family native to North America. Many U. S. -grown pecans come from orchards in Georgia, the state that has historically led the nation in production.",
+        "One hotspot of pecan cultivation is in the southwest part of the state, around Albany, in Dougherty County. The OLI (Operational Land Imager) on Landsat 8 captured this image of the area and neighboring counties on October 23, 2026. That date falls within the pecan harvest season, which typically runs from October into December . In addition to pecans, other crops such as peanuts, cotton, and corn are also grown in the area.",
+        "Landsat observations like these contribute to the Cropland Data Layer , an annual map of crop types across the contiguous United States produced by the U. S. Department of Agriculture’s National Agricultural Statistics Service . The 2025 map shows pecan groves clustered along the Flint River within the Coastal Plain . Pecan trees need abundant water, and they generally do well in the area’s well-drained sandy soils that sit above the Floridan aquifer system that growers can tap for irrigation.",
+        "In the late 1800s, Georgia had less than 100 acres (40 hectares) of pecan orchards. Then, in the early 1900s, southwest Georgia’s Dougherty and Mitchell counties underwent a pecan boom when thousands of acres were planted and sold to investors . By the end of the 1950s, Georgia led the nation in pecan production, producing over 17 million pounds, according to 1959 agricultural census numbers .",
+        "In recent decades, pecan production has grown in other states, such as New Mexico and Texas. Georgia faced challenges after Hurricane Michael damaged orchards in October 2018, and Hurricane Helene dealt another blow when it swept inland in September 2024. Even so, USDA numbers show that the state’s production has topped 100 million pounds in each of the past three years (2023-2025).",
+        "In 2026, a wet summer in parts of the state helped scab take hold. The fungal disease causes brown spots on pecan twigs, leaves, and nut shucks. Meanwhile, some growers still recovering from Hurricane Helene reported the return of a solid crop."
+      ],
+      "external": true,
+      "order": 29
+    }
+  ]
+}
