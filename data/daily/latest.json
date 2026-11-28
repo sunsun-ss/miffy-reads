@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-27T01:32:11.738Z",
-  "date": "2026-11-27",
+  "generatedAt": "2026-11-28T01:11:16.907Z",
+  "date": "2026-11-28",
   "failedSources": [],
   "articles": [
     {
-      "id": "phys-digital-access-to-early-music",
-      "title": "Digital access to early music",
+      "id": "phys-new-technologies-help-natural-history-museum-uncover-92-sp",
+      "title": "New technologies help Natural History Museum uncover 92 species in its transformed gardens",
       "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
       "category": "文化",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-27",
-      "publishedAt": "2026-11-27T01:00:01.000Z",
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-28T00:20:07.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-digital-access-early-music.html"
+        "url": "https://phys.org/news/2026-11-technologies-natural-history-museum-uncover.html"
       },
       "cover": "cup",
       "accent": "orange",
@@ -29,72 +29,72 @@
         "Phys. org can't send alerts until you allow them in your browser.",
         "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
         "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
-        "What may look to modern readers like a form of secret code in fact opens the door to a fascinating world of historical music: German lute tablature. Developed specifically for the Renaissance lute, this rich notational tradition preserves dances, songs and other musical works that were immensely popular some 500 years ago. As part of an interdisciplinary team of experts, researchers at the University of Bayreuth are now making these sources readable and audible once again through a digital scholarly edition platform.",
-        "In the 16th century, anyone wishing to make music often turned to the lute. Renowned for its beautiful sound, the instrument was ideally suited to convivial music-making in small gatherings. The lute accompanied singing and dancing, while also serving as a vehicle for virtuosic solo performance. Lute tablature was especially practical because it notated music directly in terms of positions on the fingerboard, making pieces easier to learn and preserve.",
-        "As the lute was gradually replaced by other instruments over time, however, knowledge of tablature notation also faded. Today, the extensive corpus of printed works, manuscripts and instructional treatises in German lute tablature is dispersed across libraries throughout Europe. Until only a few years ago, it remained largely inaccessible, overlooked and playable by only a very small number of specialists.",
-        "The aim of the E-LAUTE project (Electronic Linked Annotated Unified Tablature Edition) is to make this hidden treasure accessible to the public once again. At its heart lies a digital edition platform developed over the past three years by an interdisciplinary team combining expertise in musicology, music informatics, medieval German studies and historical performance practice. The platform has recently become available through the Austrian National Library (ÖNB): https://edition. onb. ac. at/context:elaute .",
-        "\"Here, 16th-century German lute tablatures are not only systematically cataloged and reproduced in full, but are also automatically converted into other tablature formats and into modern Western staff notation using state-of-the-art digital methods,\" says Dr. Kateryna Schöning, the Austrian project lead at the University of Music and Performing Arts Vienna (mdw).",
-        "The innovative combination of MEI and TEI encoding (Music Encoding Initiative and Text Encoding Initiative), AI-assisted automatic transcription, optical music recognition and semantic linked-data structures also enables the presentation of all texts transmitted within the tablatures themselves, as well as texts that can be associated with them through parallel sources. A particular highlight for both researchers and performers is the collection of audio recordings of lute works, performed by professional musicians from the Schola Cantorum Basiliensis / FHNW Basel and directly accessible through the platform.",
-        "Dr. Cordula Kropik, who is responsible for the texts associated with the lute repertoire as the project's specialist in medieval German studies at the University of Bayreuth, emphasizes that this success can only be regarded as an interim achievement: \"The E-LAUTE team has accomplished an extraordinary amount over the past few years. Yet there is still much to do. Additional sources must be edited, and their presentation on the digital platform further refined."
+        "The Natural History Museum's transformed gardens in South Kensington are revealing new insights into London's urban wildlife. Among the 92 species recorded at the site for the first time between its reopening in July 2024 and the end of 2025 are the striking emperor moth and small red-eyed damselfly.",
+        "The discoveries build on the gardens' rich biodiversity and mark a new chapter for the museum's 5-acre (2-hectare) outdoor site, now transformed into a network of interconnected habitats, from chalk grasslands to woodlands, designed to support wildlife, engage visitors and advance scientific understanding of urban ecosystems.",
+        "Alongside traditional species surveys and visual observations, museum scientists are using pioneering techniques including environmental DNA (eDNA), acoustic monitoring and a growing network of environmental sensors. Together, these approaches are generating millions of records and opening up new ways to investigate how wildlife responds to changes in habitat, climate and human activity. The research is described in an article in The London Naturalist .",
+        "The gardens have a long history of biological recording, with 3,500 species documented since monitoring began in 1995. These include several arthropod species recorded for the first time in the U. K. , as well as numerous first regional records.",
+        "The Nature Discovery Garden now provides an opportunity to investigate biodiversity across a much larger and more varied area, from woodland and meadow habitats to ponds, planted areas and spaces designed to demonstrate climate-resilient gardening. The latest discoveries add to this extensive record and highlight the potential of urban green spaces to support biodiversity. Among the latest additions are:",
+        "Ed Baker, acoustic biology researcher at the Natural History Museum, said, \"Recording 92 new species in our new gardens shows just how much wildlife can thrive in the heart of London. By combining traditional wildlife surveys with new technologies, we can better understand how urban nature responds to changes in climate, habitat and human activity—and how we can make our cities better places for both people and wildlife.\"",
+        "Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter— daily or weekly ."
       ],
       "external": true,
       "order": 0
     },
     {
-      "id": "scitechdaily-why-some-farts-can-clear-a-room-while-others-barely-smell",
-      "title": "Why Some Farts Can Clear a Room While Others Barely Smell",
-      "dek": "A microbiologist reveals the surprising gut chemistry behind room-clearing farts, why some stink more than others, and how their terrible smell may serve a useful purpose.",
+      "id": "phys-rna-discovery-reveals-how-gut-bacterium-adapts-to-life-in-",
+      "title": "RNA discovery reveals how gut bacterium adapts to life in intestinal mucus",
+      "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
       "category": "科学",
       "tags": [
-        "SciTechDaily"
+        "Phys.org"
       ],
-      "date": "2026-11-27",
-      "publishedAt": "2026-11-27T00:04:50.000Z",
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-28T00:00:01.000Z",
       "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/why-some-farts-can-clear-a-room-while-others-barely-smell/"
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-rna-discovery-reveals-gut-bacterium.html"
       },
       "cover": "star",
       "accent": "blue",
       "paragraphs": [
-        "A microbiologist reveals the surprising gut chemistry behind room-clearing farts, why some stink more than others, and how their terrible smell may serve a useful purpose.",
-        "A healthy person farts about 14 to 20 times each day . Altogether, that’s enough gas to fill a super stinky party balloon.",
-        "Farts are made of gases that are produced by trillions of tiny organisms called microbes, mostly bacteria, that live in your gut . These organisms have an important job: They help chew up food that your stomach cannot break down on its own. In the process, they act like mini chemical factories that provide you with nutrients while releasing waste gases into your gut. These gases mix with air you swallow and other gases that you make during digestion. After passing through the intestines, they come out in bursts as farts.",
-        "As a microbiologist, I study communities of bacteria , called microbiomes, in various regions of the human body. The microbiome in your gut plays an important role in your health . Producing gases is a sign that bacteria in the gut microbiome are doing their job properly. Farting also relieves pressure in your belly and prevents painful bloating and cramping.",
-        "So you might wonder: Why does a normal and healthy body process cause such a bad stink?",
-        "Farts are mostly made up of the same odorless gases found in the air we breathe .",
-        "Anywhere from 20% to 90% of a fart’s volume consists of nitrogen, which makes up more than three-quarters of air. Up to 10% of a fart is oxygen, which humans need in order to breathe. Up to 30% is carbon dioxide, up to 50% is hydrogen, and up to 10% is methane. Microbes produce most of the carbon dioxide, hydrogen, and methane, though some of the carbon dioxide is made when digestive juices mix with stomach acid.",
-        "But wait: These are not the gases that give farts their delightful array of aromas. What makes farts so malodorous is other gas molecules that contain the element sulfur . Pure sulfur has no smell on its own, but when combined with other elements it makes molecules that reek.",
-        "One key culprit is hydrogen sulfide , which is famous for smelling like rotten eggs. Others include methanethiol , which has a bouquet of cabbage, sewage or skunk spray, and dimethyl sulfide , which hits the nostrils with scents of cooked corn, algae or seafood.",
-        "Only tiny amounts are required: One molecule of hydrogen sulfide among 1 million other gas molecules has enough power to do the job. That’s equivalent to one kernel of corn in a truckload of about 1,250 ears, or 10 bricks out of all the bricks that make up the Empire State Building in New York City. Other sulfur-containing gasses can be sniffed out at even more minuscule amounts.",
-        "Your farts’ aroma depends on what your microbiome gets to eat.",
-        "The main thing that determines which gases and how much of them are in your farts is what food your gut microbiome gets to eat .",
-        "Some types of foods often referred to as junk food , including candy or diet foods containing artificial sweeteners or syrups, can change the way microbes digest food. High-fiber foods such as beans and grains also have this effect. These foods can cause your body to produce more farts that often are bigger and louder .",
-        "However, the loudest fart is not always the stinkiest one. It’s the ones that contain sulfur that pack a smelly punch ."
+        "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+        "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+        "Check your inbox. We sent a confirmation link to . Open it to start your newsletters.",
+        "Notable science stories in this browser. No account needed.",
+        "Phys. org can't send alerts until you allow them in your browser.",
+        "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "by Andreas Fischer, Helmholtz Association of German Research Centres",
+        "The mucus layer in the human gut is a tough place for bacteria: nutrients are scarce, and conditions are harsh. How do bacteria adapt to such extreme environments? Researchers at the Helmholtz Institute for RNA-based Infection Research (HIRI) and the Chair of Microbiology of the Julius-Maximilians-Universität (JMU) in Würzburg, working with scientists at Vanderbilt Health in the United States, have identified a key regulator.",
+        "They found a small RNA in the gut bacterium Bacteroides thetaiotaomicron that responds to iron and nutrient scarcity. The findings offer novel insights into how intestinal bacteria adapt and open up new possibilities for microbiome-based therapies. The study was published in the journal Nature Communications .",
+        "Trillions of bacteria live in the human gut. Many are beneficial: they aid digestion, produce vitamins and protect against pathogens. One of the most important groups is Bacteroides. These gut residents are masters at breaking down complex sugars that humans cannot digest on their own. But not all bacterial populations occupy the same region of the gut. Some live freely in the gut lumen, while others are embedded in the thick mucus layer covering the intestinal wall. The latter is an especially challenging environment, where nutrients and iron are scarce. Microorganisms must also adapt their surfaces and metabolism to attach to the mucus and survive.",
+        "\"Understanding how bacteria colonize these habitats is a central question in microbiome research,\" says Alexander Westermann, professor at the Julius-Maximilians-Universität (JMU) and an affiliated scientist at the Helmholtz Institute for RNA-based Infection Research (HIRI). While proteins that regulate gene expression in the microbiota have been studied considerably, another class of regulators has recently attracted attention: small ribonucleic acids, or sRNAs.",
+        "These short RNA molecules do not encode proteins but act as post-transcriptional switches, allowing microbes to adjust their physiology rapidly. To understand a healthy microbiota, it is essential to grasp how commensal bacteria, such as B. thetaiotaomicron, use these molecules to colonize specific regions of the gut.",
+        "A team at HIRI—a site of the Braunschweig Helmholtz Center for Infection Research (HZI) in cooperation with the Julius-Maximilians-Universität Würzburg (JMU)—has now, together with scientists from Vanderbilt Health in Nashville, Tennessee, discovered a novel sRNA that regulates gene expression as the bacteria colonize the gut lining. The team named it IroR. It responds in particular to iron scarcity and to the availability of mucus as a carbon source."
       ],
       "external": true,
       "order": 1
     },
     {
-      "id": "phys-why-molecular-cage-catalysts-show-enormous-differences-in-",
-      "title": "Why molecular cage catalysts show enormous differences in performance",
+      "id": "phys-ai-simulates-electron-hops-over-far-longer-times-than-conv",
+      "title": "AI simulates electron hops over far longer times than conventional quantum calculations",
       "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
       "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-27",
-      "publishedAt": "2026-11-26T23:20:02.000Z",
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-27T23:40:05.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html"
+        "url": "https://phys.org/news/2026-11-ai-simulates-electron-longer-conventional.html"
       },
-      "cover": "star",
-      "accent": "blue",
+      "cover": "orbit",
+      "accent": "lilac",
       "paragraphs": [
         "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
         "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
@@ -103,71 +103,71 @@
         "Phys. org can't send alerts until you allow them in your browser.",
         "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
         "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
-        "Chemistry researchers have developed a new way to identify and understand highly effective artificial enzyme-like catalysts using powerful \"molecular cages\" that mimic the behavior of nature's enzymes. These tiny, hollow molecular structures act like miniature reaction chambers to trap molecules and accelerate chemical reactions. The cages showed enormous differences in performance, with the best catalysts more than 10,000 times more active than the least effective ones.",
-        "Researchers from the universities of Birmingham, Edinburgh and Oxford outline how they combined machine learning with a rapid screening technique in their article published in the Journal of the American Chemical Society .",
-        "Rather than preparing and testing each candidate catalyst individually, the research team, led by Professor Paul Lusby from the University of Edinburgh, developed a rapid screening approach allowing cages to be assembled and assessed immediately in solution. This allowed them to evaluate 30 distinct palladium-based molecular cage structures in a single study.",
-        "Co-author Dr. Jamie Lewis, an expert in cages and Royal Society university research fellow at the University of Birmingham, said, \"Traditionally, discovering better cage catalysts has relied heavily on laborious trial-and-error experimentation and computationally expensive modeling. In this work we show how we can speed up this process to rapidly identify new catalytic cages.\"",
-        "Catalysts are essential to modern manufacturing, enabling about 90% of all chemical manufacturing processes worldwide. They are used to produce medicines, fuels, fertilizers, plastics and countless everyday products.",
-        "Dr. Laura Bickerton, a postdoctoral researcher in Lusby's group, who led the experimental component of the study, said, \"This method allows us to access and investigate a wide range of molecular cages that would otherwise be difficult to isolate and study, giving us new insights into how we can tune catalyst functionality.\"",
-        "The experimentally measured cage reaction rate data were subsequently analyzed with AI and machine learning by professor Fernanda Duarte's group at the University of Oxford to understand why some cages worked as catalysts much better than others."
+        "To predict how a material will behave, we need to know which atoms are located where. This allows us, for example, to explain whether a material is suitable as a catalyst for certain chemical reactions. But often, that is not enough: even if all the atoms stay exactly where they are, the distribution of electric charge within the material can change dramatically. Electrons can jump from one atom to another, changing the forces between atoms as well as the material's chemical reactivity.",
+        "Simulating such processes on a computer is difficult. Quantum-mechanical calculations can be used to investigate where additional electrons prefer to reside and how they move, but these calculations are extremely computationally demanding. As a result, it is hardly possible to track these movements over longer periods of time.",
+        "One obvious idea is therefore to use machine learning: certain physical situations can be calculated in great detail, and the results can then be used to train an AI model. Ideally, the AI learns to make accurate predictions for other situations as well, without having to repeat the complete, extremely time-consuming calculations every time.",
+        "Unfortunately, it is not quite that simple. \"Previous AI methods quickly reach their limits, especially when it comes to the movement of electrons within a material,\" says Michele Reticcioli from the Institute of Applied Physics at TU Wien.",
+        "\"Sometimes they even produce clearly incorrect results that directly contradict our observations. In materials such as titanium oxide, for example, previous methods could not even correctly determine whether it is energetically favorable for an electron to become trapped at a particular atom.\"",
+        "This was precisely the problem with previous models. They had information about the positions of all the atoms, but not about which atoms were hosting additional, localized electrons. As a result, these models were unable to reliably predict the forces acting on the atomic scale.",
+        "Now, the team at TU Wien has succeeded in developing a method that overcomes this problem by combining several components into one powerful system. The study is published in the journal ACS Nano ."
       ],
       "external": true,
       "order": 2
     },
     {
-      "id": "scitechdaily-mathematicians-find-a-brilliant-shortcut-to-a-174-year-old",
-      "title": "Mathematicians Find a Brilliant Shortcut to a 174-Year-Old Math Puzzle",
-      "dek": "A faster way to color maps using only four colors has revealed hidden mathematical patterns that could help solve puzzles involving far more complex shapes.",
-      "category": "校园",
+      "id": "phys-targeted-conversion-of-carbon-dioxide-into-chemical-feedst",
+      "title": "Targeted conversion of carbon dioxide into chemical feedstocks: CO₂ helps shape its own catalyst",
+      "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+      "category": "科学",
       "tags": [
-        "SciTechDaily"
+        "Phys.org"
       ],
-      "date": "2026-11-27",
-      "publishedAt": "2026-11-26T21:46:12.000Z",
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-27T23:40:01.000Z",
       "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/mathematicians-find-a-brilliant-shortcut-to-a-174-year-old-math-puzzle/"
+        "name": "Phys.org",
+        "license": "Free daily science news",
+        "licenseLabel": "免费日更科学资讯",
+        "url": "https://phys.org/news/2026-11-conversion-carbon-dioxide-chemical-feedstocks.html"
       },
-      "cover": "leaf",
-      "accent": "green",
+      "cover": "orbit",
+      "accent": "lilac",
       "paragraphs": [
-        "A faster way to color maps using only four colors has revealed hidden mathematical patterns that could help solve puzzles involving far more complex shapes.",
-        "In 1852, English mathematician Francis Guthrie noticed something curious while drawing a map of England’s counties. He needed only four colors to ensure that no two neighboring counties shared the same color. Could the same be true of every flat map, regardless of how complicated its borders were?",
-        "What seemed like a simple observation became one of the most famous problems in mathematics. It took 124 years to prove Guthrie right and another half century to discover the most efficient way to assign those four colors. In solving the latter problem, an international team of mathematicians has uncovered something previously unknown about the mathematical structures underlying maps.",
-        "The history of the Four Color Problem is filled with frustrated attempts. A proof presented in 1879 stood for 11 years before an error was discovered. When mathematicians finally succeeded in 1976, their proof was controversial because it relied heavily on computer calculations that were difficult for others to verify. A more accessible proof followed in 1997, although finding a suitable coloring for large maps remained computationally demanding.",
-        "“The previous proofs showed that it is always possible to color a map using four colors. But they are not very good at actually finding the colors for each individual region on a map. The new algorithm is efficient and provides a much faster way of coloring,” says Professor Mikkel Thorup from the Department of Computer Science at the University of Copenhagen.",
-        "The achievement marks the first major breakthrough on the problem in nearly 30 years. The first part of the research paper was presented at FOCS’26, one of the world’s leading conferences in theoretical computer science, where it received the Best Paper Award.",
-        "Mathematicians can represent a flat map using what is known as a planar graph. Imagine replacing each country or county with a dot and drawing lines between those that share a border. The challenge then becomes assigning colors to the dots so that no two connected dots have the same color.",
-        "Within these graphs are small arrangements called reducible configurations, which allow mathematicians to simplify the coloring problem. The researchers discovered that graphs contain far more of these useful arrangements than anyone previously realized.",
-        "“Think of reducible configurations as handles you can grab hold on to start four coloring. We show that graphs do not contain just one handle, but an astonishing number of them. Nobody knew that before,” says Professor and co-author Carsten Thomassen from DTU.",
-        "Where earlier methods could often identify only one suitable starting point, the researchers can now work from many different parts of a graph. The advantage becomes particularly pronounced as maps grow larger.",
-        "“We have gone from what mathematicians call quadratic time to linear time. This means that if a map contains ten times as many regions, the computation only becomes about ten times slower. With the previous algorithm, it would have become about 100 times slower,” explains Carsten Thomassen.",
-        "Finding this solution occupied Thorup and his colleagues, including Thomassen, Ken-ichi Kawarabayashi, and Bojan Mohar, for around a decade. Thorup has a name for the peculiar fascination that has kept mathematicians returning to the problem for 174 years: “the four-color disease.”",
-        "“The disease is believing that there must be a simple proof for such a simple statement. I would guess that at least 1,000 mathematicians have caught the four-color disease, spending months trying to make it work but never quite succeeding. It is the disease people have suffered from since 1852.”",
-        "Thorup is equally candid about the appeal of devoting years to an apparently modest mathematical puzzle."
+        "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
+        "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+        "Check your inbox. We sent a confirmation link to . Open it to start your newsletters.",
+        "Notable science stories in this browser. No account needed.",
+        "Phys. org can't send alerts until you allow them in your browser.",
+        "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
+        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
+        "Electrochemists at the University of Duisburg-Essen have discovered through computer simulations that carbon dioxide (CO₂) helps shape the surface of its own catalyst when the catalyst is restructured using voltage pulses. The calculations suggest that this allows CO₂ to be converted preferentially into formic acid. The findings have been published in Advanced Functional Materials .",
+        "Carbon dioxide, a climate-damaging waste gas from industrial processes, could serve as a valuable raw material. Using electricity, it can be converted into chemical feedstocks that are currently often produced from crude oil or natural gas. Catalysts facilitate the reaction and influence which products are formed. However, several substances can form simultaneously during CO₂ conversion. If unwanted hydrogen is produced, the electricity consumed in the process is no longer available to produce the desired product.",
+        "Dr. Pablo Lozano-Reis and professor Kai S. Exner from the University of Duisburg-Essen (UDE) have investigated how these processes can be controlled. Their research focuses on Ti₃C₂Tₓ, a material known as an MXene, composed of ultrathin atomic layers. It consists of titanium (Ti) and carbon (C), while Tₓ denotes atoms and groups of atoms on its surface, including oxygen.",
+        "The restructuring takes place in two steps: a positive voltage pulse, in combination with water, causes individual titanium atoms to protrude slightly from the surface. CO₂ can attach to neighboring oxygen atoms and react there, while hydrogen cannot form at these sites. A second voltage pulse with reversed polarity triggers further restructuring—but only if CO₂ itself is involved. In the process, carbon monoxide (CO) detaches from the surface, leaving a gap in the oxygen layer. This creates a new reaction site that yields a different mix of products.",
+        "\"The substance we want to convert effectively helps shape its own reaction site,\" explains Exner. \"By coordinating the voltage pulses, we can influence both the structure of the catalyst surface and the distribution of reaction products.\"",
+        "The calculations suggest that, of all the configurations investigated, the restructured surface is best suited to producing formic acid, a versatile chemical feedstock. However, if the second pulse is too strong, the surface becomes unstable and once again favors hydrogen formation.",
+        "Experiments, particularly those involving copper catalysts, have already shown that voltage pulses influence the products of CO₂ conversion. But what happens on the catalyst surface is difficult to observe experimentally. The simulations reveal these processes for Ti₃C₂Tₓ at the atomic level and provide insights into how catalysts and pulse sequences can be tailored to produce specific chemicals."
       ],
       "external": true,
       "order": 3
     },
     {
-      "id": "phys-destiny-model-tracks-molecular-chemistry-on-uneven-ice-cov",
-      "title": "DESTINY model tracks molecular chemistry on uneven, ice-covered grains in interstellar space",
+      "id": "phys-rocks-under-the-lens-a-simple-microscope-opens-new-possibi",
+      "title": "Rocks under the lens: A simple microscope opens new possibilities for quantitative rock analysis",
       "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
-      "category": "科学",
+      "category": "环境",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-27",
-      "publishedAt": "2026-11-26T21:40:01.000Z",
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-27T23:20:10.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-destiny-tracks-molecular-chemistry-uneven.html"
+        "url": "https://phys.org/news/2026-11-lens-simple-microscope-possibilities-quantitative.html"
       },
-      "cover": "star",
+      "cover": "wave",
       "accent": "blue",
       "paragraphs": [
         "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
@@ -177,141 +177,32 @@
         "Phys. org can't send alerts until you allow them in your browser.",
         "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
         "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
-        "Interstellar space is the scene of active chemical processes: molecules form there in the gas, but also on the surface of tiny dust grains covered in ice. To better represent what happens on these surfaces, astrophysicists at the University of Liège are proposing a deterministic approach based on Markov chains with absorbing states, a mathematical tool that had not yet been utilized in astrochemistry. The paper is published in the journal Astronomy & Astrophysics .",
-        "Research in astrochemistry is organized into several branches. Astronomers measure molecular abundances using telescopes, laboratories replicate the conditions of the interstellar medium to study physical and chemical processes, and theoretical chemists focus on specific molecules or reactions. Kinetic models (models that calculate how the quantities of different molecules change over time, based on the rate at which the processes that create or destroy them occur) bridge the gap between these approaches. They use parameters derived from experiments and calculations to predict abundances, which are then compared with observations.",
-        "Infrared spectra recently obtained by the James Webb Space Telescope confirm that the chemistry on the surface of the grains and the resulting population of species are extremely complex, making it necessary to incorporate this chemistry more realistically into the models.",
-        "\"On a grain, the chemistry results from a delicate balance between adsorption—when molecules from the gas settle on the surface—and a series of surface processes such as diffusion or encounters between reaction partners, as well as desorption, when molecules leave the grain to return to the gaseous phase,\" explain Maria Groyne and Cedric Baijot, FNRS Ph. D. students supervised by Michaël De Becker, an astrophysicist and director of the MEGA Laboratory at ULiège. \"The deterministic models published to date already describe these mechanisms, but at the cost of two significant approximations.\"",
-        "The first concerns the surface itself. In the extremely cold conditions of the interstellar medium, the ice covering the grains is not crystalline but amorphous. Its surface is disordered and offers binding sites of varying strength depending on the local environment. Most models, however, assign only a single binding energy to each chemical species. The second approximation relates to interactions between molecules: in the standard formalism, two species present on the surface only influence each other when they react. Yet a simple encounter can alter the strength with which a molecule is bound to the surface.",
-        "\"The DESTINY model, which we have developed entirely from scratch, overcomes these two simplifications,\" explains Baijot, an FNRS Ph. D. student at ULiège. \"The model classifies surface sites according to their binding energy and, in a deterministic manner, tracks the possible path of each adsorbed species. At each stage, the species may remain in place, diffuse to another site, react with a partner or leave the surface. Markov chains with absorbing states enable these competing outcomes to be handled in a consistent manner.\"",
-        "The researchers use the image of a dance floor to illustrate their approach. In classical models, all the tiles on the floor are identical, and the molecules—which play the role of dancers—behave in the same way everywhere. Two dancers who meet and dance together represent a chemical reaction."
+        "Rocks hold a wealth of information about Earth's history. The size, shape and orientation of the mineral grains that make them up can reveal how rocks formed, deformed and changed deep beneath the surface. However, collecting this information has traditionally required specialized equipment and time-consuming analysis.",
+        "Now, researchers at Tohoku University have developed a new approach that makes quantitative rock analysis more accessible. By combining a conventional polarizing microscope with a newly developed software tool called NicoNavi, the team enabled the measurement of the size, shape and crystallographic orientations of mineral grains using video recordings of rotating rock samples.",
+        "Details were published in the Journal of Petrology on Nov. 9, 2026.",
+        "The technique takes advantage of how minerals interact with polarized light. As a thin slice of rock rotates beneath the microscope, individual mineral grains change in brightness and color depending on their crystallographic orientations. By recording these changes through a full 360-degree rotation, the researchers can identify individual grains and their boundaries, then generate detailed maps of their microstructures.",
+        "NicoNavi brings these measurements together in a single workflow, including mineral classification and three-dimensional analysis of crystallographic c-axis orientations in suitable minerals such as quartz (silicon dioxide, SiO₂). With a few additional optical measurements, including a slight tilt of the sample, quartz c-axis analysis can be completed in approximately 10 minutes.",
+        "\"One of the biggest advantages of this approach is that it makes quantitative analysis possible using equipment that is already available in many laboratories,\" says Dr. Tan Furukawa of Tohoku University's Graduate School of Science. \"By combining relatively simple optical measurements with automated image analysis, we hope to make it easier for researchers to collect and compare large amounts of information about the internal structures of rocks.\"",
+        "To assess the accuracy of their approach, Furukawa and professor Tatsuki Tsujimori compared NicoNavi's results with those obtained using electron backscatter diffraction (EBSD), an established technique that measures crystal orientations using an electron microscope. For rock samples with thin sections approximately 20–35 micrometers thick, the two methods produced broadly consistent results for grain boundaries, grain statistics and c-axis orientation distributions."
       ],
       "external": true,
       "order": 4
     },
     {
-      "id": "scitechdaily-physicists-discover-a-strange-new-form-of-magnetism-in-a-s",
-      "title": "Physicists Discover a Strange New Form of Magnetism in a Simple Metal",
-      "dek": "Electronics can use more than electrical charge, and evidence of unusual magnetism in europium silicide could help researchers explore how to put electron spin to work.",
-      "category": "科学",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-27",
-      "publishedAt": "2026-11-26T21:11:10.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/physicists-discover-a-strange-new-form-of-magnetism-in-a-simple-metal/"
-      },
-      "cover": "orbit",
-      "accent": "lilac",
-      "paragraphs": [
-        "Electronics can use more than electrical charge, and evidence of unusual magnetism in europium silicide could help researchers explore how to put electron spin to work.",
-        "At very low temperatures, a simple metal made from europium and silicon develops a spiral pattern of magnetism that leaves it with no overall magnetization. Its electrons nevertheless appear to favor opposite spin orientations when they travel in opposite directions, an unusual relationship that could offer researchers new ways to explore and control electronic behavior.",
-        "An international team has found compelling evidence for this state, called p-wave magnetism, in europium silicide, or EuSi. The findings, published in Nature , provide an experimental foothold in a field where suitable materials have been difficult to find.",
-        "Spin is a quantum property that gives electrons a magnetic character, somewhat like tiny compass needles. In a conventional ferromagnet, spins tend to align in the same direction, producing net magnetization. In EuSi, between approximately 33 and 62 kelvin, or about −400 to −348 °F, the magnetic moments of europium atoms instead form an ordered spiral. The individual moments are substantial, but their contributions cancel overall.",
-        "The predicted relationship between opposite directions of electron motion and opposite spin polarizations is known as an odd-parity spin texture. Finding a material in which researchers can investigate it has been challenging. Previous candidates include electrical insulators and metals that develop magnetic order only at very low temperatures or have additional symmetry complications. EuSi combines a fixed chemical composition with a spiral magnetic phase that has the required symmetry, and researchers can grow high-quality single crystals for experiments.",
-        "Dr. Erjian Cheng grew those crystals approximately three years ago at the Max Planck Institute for Chemical Physics of Solids (MPI CPfS) in Dresden. Initial photoemission experiments, which use light to eject electrons and examine their properties, showed that magnetism had an unusually large influence on EuSi’s electronic band structure, the pattern of energies electrons can occupy inside the material. That raised the possibility that its magnetic order might link spin to the direction of electron motion.",
-        "The investigation brought together 38 researchers from 19 institutions, including ShanghaiTech University, the Hong Kong University of Science and Technology, the Max Planck Institute for the Physics of Complex Systems, and Oak Ridge National Laboratory.",
-        "Combining theoretical calculations with several experimental techniques, the researchers examined both the atomic magnetic arrangement and its effects on electrons. Neutron diffraction revealed the spiral of europium magnetic moments and confirmed that its symmetry met the conditions for p-wave magnetism. Angle-resolved photoemission spectroscopy, which maps electron energies and momenta, showed that magnetism substantially reshaped the electronic structure, producing energy separations exceeding 100 millielectronvolts.",
-        "Measurements that also resolved electron spin supplied a more specific test. The spin polarization changed sign across successive magnetic Brillouin zones, repeating regions in a map of electron momentum defined by the magnetic order. It also weakened sharply near regions where the predicted p-wave spin texture should vanish. Together, these observations provided spectroscopic evidence consistent with the theoretical state.",
-        "“When we first measured the electronic structure of EuSi, we were surprised by the exceptionally large effect of magnetism on the electrons,” explains Cheng. “That observation led us to investigate whether this simple compound could host a much more unusual magnetic state. The combination of crystal growth, neutron scattering and spin-resolved spectroscopy now provides compelling evidence for p-wave magnetism.”",
-        "The proposed spin pattern arises predominantly from magnetic exchange interactions, which influence how spins arrange themselves, and from the symmetry of the magnetic spiral. That distinguishes it from familiar spin-splitting effects driven mainly by spin-orbit coupling, an interaction between an electron’s spin and its motion.",
-        "The spiral also introduces handedness, or chirality. EuSi’s underlying crystal structure is centrosymmetric, meaning that it looks the same when inverted through its center. Its magnetic spiral, however, can twist in either of two opposite senses. Using magnetic force microscopy and spatially resolved photoemission spectroscopy, the researchers identified magnetic domains approximately ten micrometers across.",
-        "When examined with circularly polarized light, domains with opposite magnetic handedness showed distinct electronic responses. The results demonstrated that the spiral’s handedness is coupled to the electronic structure, connecting the organization of the atomic magnetic moments with the behavior of the electrons."
-      ],
-      "external": true,
-      "order": 5
-    },
-    {
-      "id": "scitechdaily-semiconductor-breakthrough-cracks-a-longstanding-solar-ene",
-      "title": "Semiconductor Breakthrough Cracks a Longstanding Solar Energy Problem",
-      "dek": "An unusual material could help us make better use of the sun’s energy, offering new possibilities for more efficient solar power and fuel production.",
-      "category": "校园",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-27",
-      "publishedAt": "2026-11-26T20:36:58.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/semiconductor-breakthrough-cracks-a-longstanding-solar-energy-problem/"
-      },
-      "cover": "leaf",
-      "accent": "green",
-      "paragraphs": [
-        "An unusual material could help us make better use of the sun’s energy, offering new possibilities for more efficient solar power and fuel production.",
-        "Generating more electricity from sunlight does not necessarily mean installing more solar panels. Finding ways to extract more energy from the light that already reaches them could make solar power a more practical source of electricity. Part of the challenge lies in what happens inside a solar cell in the moments after it absorbs sunlight.",
-        "Solar cells contain materials called semiconductors, which use the energy from sunlight to free negatively charged electrons, leaving behind positively charged gaps known as holes. Both charges must be collected to generate electricity. If an electron and a hole meet and cancel each other out, a process known as recombination, the energy they carry is lost. Unfortunately, materials that are particularly good at absorbing sunlight also tend to lose these charges more quickly.",
-        "A study led by the University of Oxford has identified a promising exception in a semiconductor called bismuth sulfide. Published October 28, 2026, in Nature , the research examined how the material’s unusual electronic structure could help overcome this longstanding limitation in solar energy technology.",
-        "To investigate how long electrical charges survive in bismuth sulfide, the researchers exposed thin films of the material to extremely short laser pulses. They then tracked how quickly the charges disappeared using a technique called ultrafast terahertz spectroscopy, conducting measurements at temperatures ranging from room temperature to just above absolute zero.",
-        "“One of the longstanding challenges in developing efficient solar-energy materials is that the properties which make a semiconductor very good at absorbing sunlight also tend to make the resulting electrical charges disappear quickly,” said corresponding author Professor Laura Herz (Department of Physics, University of Oxford). “Our work shows that this trade-off is not inevitable. By uncovering how an unusual electronic structure can combine strong light absorption with much slower recombination, we have identified a new principle for designing semiconductors that could help us harvest solar energy more efficiently.”",
-        "Electronic structure calculations by Professor Marina Filip’s group in Oxford’s Department of Physics helped explain why bismuth sulfide behaves differently. The material has two closely spaced routes through which electrons can move between energy levels. One allows the material to absorb light strongly, while the other sits at a slightly lower energy and allows charges to disappear much more slowly. Because the two are so close together, charges spend much of their time in the lower-energy states, which effectively serve as a temporary storage reservoir.",
-        "Cooling the material provided further evidence for this explanation. In most semiconductors, electrical charges disappear faster as temperatures drop. In bismuth sulfide, more charges settled into the reservoir as the material cooled, allowing them to survive longer. The results matched the team’s model of what physicists call a pseudo-direct semiconductor.",
-        "Even at room temperature, the researchers estimate that this arrangement reduces the rate of charge loss by about 75% compared with conventional semiconductors that absorb light equally well.",
-        "Giving electrical charges more time to be collected could improve the efficiency of solar panels without compromising their ability to capture sunlight. The benefits could also extend beyond electricity generation. Longer-lived charges could provide more time for the chemical reactions needed to produce fuels using sunlight.",
-        "“What makes this discovery particularly exciting is that we are not simply improving an existing semiconductor property but identifying a different way in which semiconductors can behave,” said Professor Herz. “Understanding this mechanism gives us a roadmap for discovering and potentially engineering other materials with similarly advantageous properties.”",
-        "The team’s calculations suggest that researchers could search existing materials databases for semiconductors with similar properties or engineer new ones. However, the study demonstrates the underlying physical mechanism rather than the performance of a finished solar cell. Further research will be needed to determine how these properties can be put to use in solar energy technologies.",
-        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News ."
-      ],
-      "external": true,
-      "order": 6
-    },
-    {
-      "id": "phys-jwst-studies-a-tiny-metal-poor-galaxy-with-just-a-fraction",
-      "title": "JWST studies a tiny, metal-poor galaxy with just a fraction of the sun's oxygen abundance",
+      "id": "phys-lab-experiments-suggest-bat-rsv-can-enter-human-cells-but-",
+      "title": "Lab experiments suggest bat RSV can enter human cells, but existing antibodies block it",
       "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
       "category": "科学",
       "tags": [
         "Phys.org"
       ],
-      "date": "2026-11-27",
-      "publishedAt": "2026-11-26T20:00:01.000Z",
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-27T23:20:01.000Z",
       "source": {
         "name": "Phys.org",
         "license": "Free daily science news",
         "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-jwst-tiny-metal-poor-galaxy.html"
-      },
-      "cover": "star",
-      "accent": "blue",
-      "paragraphs": [
-        "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
-        "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
-        "Check your inbox. We sent a confirmation link to . Open it to start your newsletters.",
-        "Notable science stories in this browser. No account needed.",
-        "Phys. org can't send alerts until you allow them in your browser.",
-        "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
-        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
-        "Astronomers using the James Webb Space Telescope (JWST) have studied one of the most metal-poor galaxies known. Seen as it was around 12. 2 billion years ago, LAP2 is a tiny system with a stellar mass comparable to that of a massive star cluster. The research paper was posted to the arXiv preprint server on Nov. 3.",
-        "Early galaxies have very little metal, and over time they build up metals. Observations show that a galaxy's metal content is linked to its mass in stars—a relationship known as the mass-metallicity relation.",
-        "JWST is now spotting a class of galaxies in the first billion years of the universe, called extremely metal-poor galaxies (EMPGs). These galaxies have only a few percent of the sun's metals or less, and they serve as natural laboratories to trace the earliest stages of star formation and galaxy evolution.",
-        "Astronomers have noticed that some of these early galaxies are more metal-poor than local relations predict. A few approach the regime of 'metal-free' systems made of pristine gas with only hydrogen and helium and no heavier elements. They offer conditions expected for Population III stars, the first stars to have formed in the universe from pristine gas. The gas lit up by such stars is predicted to show very weak oxygen lines and strong helium (He II) emission.",
-        "These galaxies are, however, very faint and Population III stars are short-lived, making them rare and hard to spot. Many of the best candidates are therefore seen through gravitational lensing. That's when the light from a distant object is magnified by a massive foreground object.",
-        "LAP2 was first identified in MUSE observations in 2021. It is a very faint galaxy, but is strongly magnified, roughly 50 times, by a foreground galaxy cluster called Abell 2744. This allows astronomers to examine its structure and chemical composition. When they first looked at it with the JWST, they detected no sign of oxygen at all. But that first look only covered a small part of the galaxy, so they were not so sure of the result.",
-        "In this new study, astronomers led by Matteo Messa of the INAF Astrophysics and Space Science Observatory of Bologna revisit LAP2 with JWST's NIRSpec integral field spectroscopy, which captures both lensed images in full."
-      ],
-      "external": true,
-      "order": 7
-    },
-    {
-      "id": "phys-wave-like-displays-in-animal-groups-may-have-evolved-to-de",
-      "title": "Wave-like displays in animal groups may have evolved to deceive predators",
-      "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
-      "category": "科学",
-      "tags": [
-        "Phys.org"
-      ],
-      "date": "2026-11-27",
-      "publishedAt": "2026-11-26T19:00:15.000Z",
-      "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-displays-animal-groups-evolved-predators.html"
+        "url": "https://phys.org/news/2026-11-lab-rsv-human-cells-antibodies.html"
       },
       "cover": "bulb",
       "accent": "yellow",
@@ -323,126 +214,353 @@
         "Phys. org can't send alerts until you allow them in your browser.",
         "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
         "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
-        "Some of the most striking patterns in collective behavior emerge in the face of danger. When a predator approaches, some animal groups morph into a vision of pulsing waves. These patterns might be more than a side effect of group living; they could have evolved as a form of deception, argue Dr. Eduardo Sampaio and professor Iain Couzin of the Max Planck Institute of Animal Behavior (MPI-AB) and the University of Konstanz in a Perspectives piece published in Science .",
-        "For example, when a peregrine falcon attacks European starlings, dark bands sweep through the flock roughly every three-quarters of a second. In the sulfur-rich springs of Mexico, mollies in dense schools repeatedly dive and resurface, creating waves of motion that fend off predators. Giant honeybees shimmer their abdomens, propagating waves across the nest that drive away hornets.",
-        "\"We propose that these collective displays exploit how predators see motion, confusing or misleading them,\" says Sampaio, who is a postdoctoral researcher at MPI-AB.",
-        "Nature abounds in collective animal motion, like flocking, schooling and swarming. Yet few studies have ever looked at these group patterns from the outside, through the eyes of a predator. The authors draw together disparate examples—starling murmurations, fish waves, honeybee shimmering—and present the common effect that those patterns can have on the eyes watching them.",
-        "In each case, the wave pattern travels faster than the animals producing it, repeats and often anticipates the strike of a predator. The trick is not limited to groups of prey: a hunting cuttlefish sends similar moving stripes down its own body, which may hide its approach from crabs.",
-        "\"These systems might look different on the surface, but in each one we see the same decoupling of the collective pattern from the motion of the body, or bodies, that generate it,\" says Couzin, who is a director of collective behavior at MPI-AB and a professor at the University of Konstanz.",
-        "These collective waves may exploit the limits of how motion can be processed in the brain. By misleading biological vision, the pattern generators have better chances of survival. And this, the authors say, opens the door to natural selection. They outline how natural selection can act on individual-level rules, like how sensitive each animal is to its neighbors or its response threshold. These are heritable traits. How they vary can alter the effect on the predator, and therefore each individual's survival."
+        "Respiratory syncytial virus (RSV) causes severe respiratory disease and is responsible for numerous deaths each year. A research team led by DZIF scientist Dr. Wendy K. Jo and DZIF scientist Dr. Jan Felix Drexler at Charité—University Medicine Berlin, as well as DZIF board member Dr. Thomas Pietschmann and Dr. Sibylle Haid from TWINCORE in Hanover, has now characterized a virus in West African fruit bats that is genetically distinct from known RSV variants but belongs to the same viral family as RSV.",
+        "The team was able to demonstrate that the pathogen can potentially be transmitted from animals to humans, but that our immune responses provide protection. Their findings have now been published in the journal Science Advances .",
+        "The aim of the study was to assess the epidemiology and zoonotic potential—that is, the transmissibility from animals to humans—of a bat RSV using multidisciplinary approaches. The study combines fieldwork with computer-based and laboratory experiments to examine epidemiology, genomic properties, treatment options, and host barriers—that is, biological obstacles which a pathogen must overcome to infect a host or to jump from one host species to another.",
+        "The team examined 1,778 bats from Ghana and Benin. The epidemiological data showed a low virus detection rate of 1. 4%. Antibodies against the virus were detected in 9% of the studied bats. A detailed analysis of the RSV genomes from two bats showed that the bat viruses are not closely related to human RSV. Experiments did, however, prove that bat RSV can enter human cells, albeit less efficiently than human RSV. The studies were conducted using a viral system that contains only a portion of the bat RSV proteins but still allows for comparison with human RSV.",
+        "\"Bat RSV can inhibit the human innate immune response, the body's built-in first line of defense, but it is neutralized by antibodies from individuals who have previously been exposed to RSV. In addition, we show that a broadly effective monoclonal antibody can neutralize bat RSV,\" explains lead author Jo.",
+        "The study underscores that, in addition to genomic data, functional data are also necessary to characterize the properties of a virus in order to make well-founded assessments of its zoonotic risk potential. \"The results show how important it is to investigate newly discovered viruses in animal reservoirs using various scientific methods in order to better gauge potential risks,\" comments Drexler.",
+        "Furthermore, the results support the development of broad-spectrum antiviral agents that are effective against various reservoir-associated viruses. The complex work carried out here was made possible by collaboration among DZIF sites with diverse areas of expertise. The next step will utilize a reverse genetics system to investigate how genetic changes can affect viral pathogenesis."
       ],
       "external": true,
-      "order": 8
+      "order": 5
     },
     {
-      "id": "phys-runaway-pulsar-escapes-the-remnant-of-its-own-supernova",
-      "title": "Runaway pulsar escapes the remnant of its own supernova",
-      "dek": "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
-      "category": "科学",
+      "id": "scitechdaily-crowded-proteins-can-change-how-enzymes-work",
+      "title": "Crowded Proteins Can Change How Enzymes Work",
+      "dek": "Laboratory research suggests that nearby proteins can reshape enzymes, offering clues to how the physical environment inside our cells may help regulate the chemistry of life.",
+      "category": "校园",
       "tags": [
-        "Phys.org"
+        "SciTechDaily"
       ],
-      "date": "2026-11-27",
-      "publishedAt": "2026-11-26T18:50:02.000Z",
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-27T21:52:21.000Z",
       "source": {
-        "name": "Phys.org",
-        "license": "Free daily science news",
-        "licenseLabel": "免费日更科学资讯",
-        "url": "https://phys.org/news/2026-11-runaway-pulsar-remnant-supernova.html"
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/crowded-proteins-can-change-how-enzymes-work/"
       },
-      "cover": "star",
+      "cover": "pencil",
       "accent": "blue",
       "paragraphs": [
-        "You'll get both, from Phys. org. Want other sites, topics, or just one? Choose them in a free Science X account — sign up with the same address.",
-        "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
-        "Check your inbox. We sent a confirmation link to . Open it to start your newsletters.",
-        "Notable science stories in this browser. No account needed.",
-        "Phys. org can't send alerts until you allow them in your browser.",
-        "One account for Phys. org, Medical Xpress and Tech Xplore. Learn more",
-        "By continuing with Google, Facebook or Apple, you agree to the Terms of Use .",
-        "A team of astronomers has spotted a rare example of a pulsar that has escaped the cloud of debris left by the supernova explosion in which it formed. Led by Rohit Dokara, formerly at the Max Planck Institute for Radio Astronomy, the team made the discovery by chance, adding to just a handful of similar known cases.",
-        "The team's discovery suggests that many similar observations could soon be made with new generations of radio telescopes: perhaps helping astronomers to solve unanswered questions surrounding the origins of fast-moving pulsars and the surprising sparsity of supernova remnants within the galaxy.",
-        "Their results have been accepted for publication in Astronomy & Astrophysics and are currently available on the arXiv preprint server.",
-        "A pulsar is a highly magnetized, rapidly rotating neutron star that emits powerful beams of radiation from each of its poles. If one of these beams happens to point in Earth's direction, it will appear to astronomers as an intense electromagnetic flash pulsing with striking regularity, much like the beam from a lighthouse.",
-        "These strange bodies form when the cores of massive stars collapse in supernova explosions, which also blast out immense clouds of gas and dust called supernova remnants (SNRs). Each cloud forms a rapidly expanding shell, which thins out and dissipates into interstellar space within around 100,000 years.",
-        "Yet for reasons astronomers are still working to fully understand, the pulsar itself will often receive a powerful kick during the initial explosion, propelling it away from the center of the expanding cloud. As it plows through the surrounding gas, it can leave behind a comet-like tail.",
-        "In some rare cases, this kick is particularly extreme. \"As far as I know, there are four cases where, after a core-collapse supernova explosion, a pulsar has formed moving faster than the diffuse ejecta that eventually becomes a shell,\" Dokara explains. \"Such cases offer unique views of some of the fastest compact objects in our galaxy.\""
+        "Laboratory research suggests that nearby proteins can reshape enzymes, offering clues to how the physical environment inside our cells may help regulate the chemistry of life.",
+        "In laboratory droplets designed to mimic conditions inside cells, enzymes worked faster as the liquid became more crowded with proteins, up to a point. Active enzymes also helped nearby molecules move more freely through the liquid.",
+        "Many of the chemical reactions that keep cells alive occur in the cytoplasm, where proteins and other molecules can gather into compartments without an enclosing membrane. Researchers from the Okinawa Institute of Science and Technology (OIST) , in collaboration with the Max Planck Institute for Dynamics and Self-Organization (MPI-DS) and RIKEN, studied how enzymes interact with these crowded environments.",
+        "“What’s fascinating is that we can connect interactions between individual atoms to the movement of molecules across an entire droplet. Events at the smallest scales can shape, and be shaped by, the physical behavior of a much larger system,” says senior author Professor Paola Laurino, who leads the Protein Engineering and Evolution Unit at OIST.",
+        "The OIST researchers prepared tiny droplets containing different concentrations of a protein called bovine serum albumin (BSA). In separate experiments, they introduced two enzymes, lactate dehydrogenase (LDH) and alcohol dehydrogenase (ADH), along with their substrates, the molecules upon which the enzymes act.",
+        "Enzyme activity increased as more BSA was added to the droplets. Only at very high protein concentrations did crowding begin to interfere with the reactions.",
+        "“This initial increase in enzymatic activity seemed counter-intuitive, as you’d typically expect any level of crowding to impair movement of the enzymes and substrates and increase the liquid’s viscosity, therefore slowing down the reaction from the start,” explains Laurino.",
+        "Laurino and her team also used fluorescent tracers to examine how enzyme activity affected the movement of molecules within the droplets. Both BSA proteins and fluorescent nanoparticles moved more freely in the presence of active enzymes. Droplets containing modified, inactive enzymes were more viscous, and molecules moved more slowly through them.",
+        "“Similarly, we found that higher concentrations of the enzymes or their substrates in the droplets also increased mobility,” says Professor Ramin Golestanian, director of the Department of Living Matter Physics at MPI-DS.",
+        "The researchers used fluorescent markers to track the movement of nanoparticles in the droplet. Credit: Dindo et al. , 2026, 10. 1038/s41467-026-77666-y.",
+        "Molecular dynamics (MD) simulations conducted by researchers at RIKEN suggested that crowding helped accelerate reactions by changing the shape of the enzymes. The simulations showed that the active site, the region where substrates bind and react, was open under dilute conditions and closed as the concentration of surrounding proteins increased.",
+        "“When closed, the energy barrier required was much lower, allowing the reaction to happen more readily,” explains Laurino. “To detect such a change in these simulations by MD was really surprising to us.”",
+        "Researchers at MPI-DS developed a theoretical model to explain the increased movement within the droplets. They proposed that enzyme activity creates differences in chemical concentrations throughout the liquid, generating tiny flows.",
+        "“These flows allow the molecules to move more freely and mix within the droplet, highlighting how enzyme activity can potentially lead to physical effects across larger scales,” says Golestanian."
       ],
       "external": true,
-      "order": 9
+      "order": 6
     },
     {
-      "id": "scitechdaily-hidden-viruses-in-the-human-gut-offer-new-clues-to-a-disor",
-      "title": "Hidden Viruses in the Human Gut Offer New Clues to a Disorder Affecting Millions",
-      "dek": "Many gut viruses were found at lower levels in people with irritable bowel syndrome, offering new clues to a poorly understood condition that affects roughly one in ten people.",
-      "category": "健康",
+      "id": "scitechdaily-glaciers-are-melting-at-alarmingly-different-rates-and-cli",
+      "title": "Glaciers Are Melting at Alarmingly Different Rates and Climate Alone Can’t Explain Why",
+      "dek": "Where a glacier ends can influence how quickly it disappears, with implications for communities that depend on mountain meltwater or face the threat of flooding.",
+      "category": "环境",
       "tags": [
         "SciTechDaily"
       ],
-      "date": "2026-11-27",
-      "publishedAt": "2026-11-26T17:25:53.000Z",
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-27T21:17:23.000Z",
       "source": {
         "name": "SciTechDaily",
         "license": "Free daily tech news",
         "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/hidden-viruses-in-the-human-gut-offer-new-clues-to-a-disorder-affecting-millions/"
+        "url": "https://scitechdaily.com/glaciers-are-melting-at-alarmingly-different-rates-and-climate-alone-cant-explain-why/"
       },
-      "cover": "flower",
-      "accent": "pink",
+      "cover": "leaf",
+      "accent": "green",
       "paragraphs": [
-        "Many gut viruses were found at lower levels in people with irritable bowel syndrome, offering new clues to a poorly understood condition that affects roughly one in ten people.",
-        "Scientists have identified more than 116,000 groups of viruses living in the human gut, over 99% of which had no close match in the largest existing catalog of gut viruses. These largely unexplored microbes could offer new clues to how the digestive system functions and why it changes in people with conditions such as irritable bowel syndrome (IBS).",
-        "Research into the gut microbiome has traditionally focused on bacteria, leaving much less understood about bacteriophages, viruses that infect bacteria. Scientists from King’s College London, Helmholtz Munich, and the University of Nottingham are now filling that gap with two studies published on November 17, 2026, in Nature Communications and Gut .",
-        "Professor Ana Valdes and Dr. Afroditi Kouraki from the University of Nottingham said, “For a long time the viral part of the gut microbiome has been a kind of dark matter: we knew it was there but couldn’t see it. Advances in sequencing and computational methods mean we can now start to map it properly, and this study shows just how much has been hidden.”",
-        "For the Nature Communications study, researchers analyzed genetic material from stool samples collected from more than 1,000 participants in TwinsUK, the largest twin registry in the United Kingdom. Using data on gut bacteria, health measurements, and diet, they examined how populations of viruses and bacteria varied together. Certain viruses were consistently more abundant alongside particular bacteria, while others showed the opposite pattern.",
-        "Dr. Panayiotis Louca, a research associate at King’s College London who led the study, said, “Gut viruses are difficult to study, so most of what we found simply isn’t in existing catalogs. What stands out is how closely they track with gut bacteria and with the chemicals those bacteria produce. We can’t yet say whether the viruses are driving that, and testing it is our next step.”",
-        "Studying twins also allowed researchers to estimate how much genetics and the environment shape the gut’s viral community. Genetic factors accounted for an estimated 47% of the variation in overall viral diversity, although most individual viral populations appeared to be influenced primarily by environmental factors.",
-        "The researchers also discovered a small group of viruses carrying genes linked to harmful bacterial behavior. These viruses were more commonly found alongside bacteria that can sometimes cause infections and less commonly alongside bacteria that break down dietary fiber.",
-        "Such relationships could be relevant to IBS, a condition that affects around 10% of the population and can significantly disrupt daily life. Its underlying causes remain poorly understood.",
-        "In the second study, published in Gut , researchers used TwinsUK data to identify 50 viral groups associated with IBS, most of which were less abundant in people with the condition. Relationships between bacteria and viruses also differed, with many viruses infecting bacteria previously linked to IBS. This suggests that the condition may involve changes across the wider microbial community rather than in bacteria alone.",
-        "Senior author Dr. Cristina Menni, who leads the metabolomics research group at the Department of Twin Research, Ageing and Genomic Epidemiology at King’s College London, said, “Our research highlights that to fully understand the gut microbiome and its links to health and disease, we need to look beyond bacteria and consider the viruses that live alongside them. We reveal a fascinating and largely unexplored dimension of the gut microbiome—discovering that viruses are not only closely associated with bacterial communities, but also with the metabolites that connect the microbiome to our health. This opens exciting new avenues for understanding how the gut ecosystem works.”",
-        "Future research will examine whether gut viruses actively influence bacterial metabolism and how these interactions change in health and disease. Understanding these relationships could eventually help researchers develop better biological markers and treatments for IBS, as well as more personalized approaches to gut health.",
-        "Dr. Louca added: “The study is observational, so it cannot show that the viruses cause these effects, but it provides greater understanding of a largely unexplored area of the human gut. It would also be beneficial to replicate the study on a more diverse cohort, as participants were mostly older women of European ancestry.”"
-      ],
-      "external": true,
-      "order": 10
-    },
-    {
-      "id": "scitechdaily-an-overlooked-metabolic-byproduct-could-help-repair-a-dama",
-      "title": "An Overlooked Metabolic Byproduct Could Help Repair a Damaged Heart",
-      "dek": "A substance often treated as waste may be vital to the heart during a crisis, offering a potential target for treating heart failure and heart attacks.",
-      "category": "健康",
-      "tags": [
-        "SciTechDaily"
-      ],
-      "date": "2026-11-27",
-      "publishedAt": "2026-11-26T16:50:58.000Z",
-      "source": {
-        "name": "SciTechDaily",
-        "license": "Free daily tech news",
-        "licenseLabel": "免费日更科技资讯",
-        "url": "https://scitechdaily.com/an-overlooked-metabolic-byproduct-could-help-repair-a-damaged-heart/"
-      },
-      "cover": "flower",
-      "accent": "pink",
-      "paragraphs": [
-        "A substance often treated as waste may be vital to the heart during a crisis, offering a potential target for treating heart failure and heart attacks.",
-        "The heart has to keep beating whether the body has plenty of energy available or is running low. Maintaining that constant supply of energy is a complicated process, and when it breaks down, it can contribute to serious cardiovascular conditions such as heart failure. Researchers at University of Utah Health have now uncovered an unusual feature of heart muscle cells that helps them stay fueled during periods of stress and could point toward new ways to treat a damaged heart.",
-        "Scientists previously knew that the heart could draw energy from two carbohydrate sources at once: glucose, a sugar, and lactate, a substance produced when cells break down glucose. In most human tissues, increasing the use of one fuel makes it harder to use the other. Heart muscle somehow avoids this competition.",
-        "In a study published in Nature , researchers discovered that heart muscle cells process these fuels in separate parts of the cell. Glucose is broken down in the cytosol, the fluid that surrounds structures inside the cell, while lactate is used inside mitochondria, which produce much of the cell’s usable energy. Keeping these processes separate allows the heart to draw energy from both sources simultaneously.",
-        "The system depends on a molecule called MCT1, which transports lactate into the mitochondria. The researchers found that genetic mutations affecting MCT1 prevented lactate from entering the mitochondria and disrupted the heart’s energy balance. Although the heart could largely function without this pathway under everyday conditions, losing it when the heart was under stress led to heart failure.",
-        "“This appears to be a critical backup system for heart function,” says Gregory Ducker, PhD, assistant professor of biochemistry at University of Utah Health and senior author of the study. “In an emergency, we would really, really rely on this.”",
-        "The discovery identifies a previously unrecognized role for lactate in sustaining injured heart muscle and gives researchers a potential target for developing treatments that restore its energy supply.",
-        "“Our findings help point to new areas in which we could target the heart muscle to benefit and repair itself by allowing it to use lactate better,” Ducker says. “That’s the long-term goal: to help the heart muscle heal.”",
-        "Whether enhancing this energy pathway can improve heart function in patients remains to be established, though the researchers see potential applications beyond heart failure.",
-        "“Rather than simply releasing lactate into the bloodstream as a waste product, we may be able to enhance the heart’s ability to use it as a valuable source of energy,” says Stavros Drakos, MD, PhD, professor of medicine at University of Utah Health and co-senior author of the study. “By optimizing this process, we could potentially improve heart muscle function in patients suffering from heart failure or heart attacks.”",
-        "This work was funded by the National Institutes of Health, including the National Heart, Lung, and Blood Institute (T32HL007576, R01HL135121, 1R01HL166513, K99HL168312, R01HL141353, R01HL165797), the National Institute of Diabetes and Digestive and Kidney Diseases (5T32DK091317), the National Cancer Institute (P30CA042014), and the National Institute of General Medical Sciences (3R35GM131854-04); the U. S. Department of Veterans Affairs (I01 CX002291 and I01BX006306-01), the American Heart Association (16SFRN29020000, 834544, 1019351), the Burroughs Wellcome Fund.",
+        "Where a glacier ends can influence how quickly it disappears, with implications for communities that depend on mountain meltwater or face the threat of flooding.",
+        "Between 2000 and 2020, the number of lakes in direct contact with glaciers worldwide grew by about 35 percent. Their expansion has consequences for the ice that remains. Lake water can melt glaciers from underneath, while chunks of ice can break away and fall into the water. Until recently, scientists had struggled to determine how much these processes contribute to glacier loss worldwide.",
+        "An international research team, including Tobias Bolch from the Institute of Geodesy at Graz University of Technology (TU Graz), used artificial intelligence to map glacial lakes from satellite images taken in 2000 and 2020. The researchers manually checked the results, distinguishing lakes that touched glaciers from those already separated from the ice. Their findings were published in Nature Climate Change .",
+        "Over the 20-year period, glaciers ending in lakes lost an average of 66 centimeters (26 inches) of water equivalent annually, meaning the lost ice would produce a layer of water that deep. By comparison, glaciers ending on land lost 40 centimeters (16 inches), and those ending in the sea lost 36 centimeters (14 inches).",
+        "“Our research has shown that contact with a lake further accelerates the loss of ice from a glacier,” says Tobias Bolch. “While the climate and the topography of the glacier are the most significant factors influencing glacial mass loss, lakes significantly exacerbate it.”",
+        "The number of lakes touching glaciers increased by more than 3,500, with particularly pronounced expansion in Alaska and the southern Andes. Their combined area grew by around 600 square kilometers (232 square miles). They also gained an estimated 66 cubic kilometers of water, enough to submerge the entire city of Vienna under approximately 160 meters (525 feet) of water",
+        "Using machine learning models, the researchers found that glacier characteristics such as elevation and slope accounted for 46 percent of the explained influence on ice gains and losses. Temperature, precipitation, and other climatic factors accounted for around 43 percent, while glacial lakes contributed approximately 11 percent.",
+        "“The findings from this study will help us to estimate future changes to the glaciers more accurately,” says Tobias Bolch. “This is particularly important for mountainous regions and their forelands, where meltwater is a significant source of water. Such findings are also relevant when assessing the risks posed by glacial lakes in the event of potential outbursts.”",
+        "This work was supported by grants from the Basic Excellent Research Group for Tibetan Plateau Earth System, National Natural Science Foundation of China (NSFC ERGTPES project no. 42588201), the National Key Research and Development Project of China (2024YFF0809104), the National Natural Science Foundation of China (grant no. 42571153), the Second Tibetan Plateau Scientific Expedition and Research Program (STEP, 2024QZKK0301), the Department of Science and Technology of the Tibet Autonomous Region (XZ202502JD0025, XZ202403ZY0028) and the High-Level Talent Program of Xizang University (XZDXDR202501).",
         "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
         "Save my name, email, and website in this browser for the next time I comment.",
         "Type above and press Enter to search. Press Esc to cancel."
       ],
       "external": true,
+      "order": 7
+    },
+    {
+      "id": "scitechdaily-eagles-hunting-human-sized-baboons-challenge-long-held-evo",
+      "title": "Eagles Hunting Human-Sized Baboons Challenge Long-Held Evolutionary Theory",
+      "dek": "Evidence of eagles hunting adult baboons suggests that aerial predators may have helped shape how early humans learned to communicate and protect one another.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-27T20:42:19.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/eagles-hunting-human-sized-baboons-challenge-long-held-evolutionary-theory/"
+      },
+      "cover": "pencil",
+      "accent": "blue",
+      "paragraphs": [
+        "Evidence of eagles hunting adult baboons suggests that aerial predators may have helped shape how early humans learned to communicate and protect one another.",
+        "In the middle of the Sahara, researchers have found evidence that eagles are killing primates as large as some of our early ancestors. One of the apparent victims, an adult male baboon, was estimated to have weighed more than 26 kilograms (57 pounds), challenging a long-held assumption about the dangers early humans faced.",
+        "Eagles have hunted primates for millions of years, yet no primate weighing more than 13 kilograms (29 pounds) had previously been confirmed to have been killed by a bird of prey. Scientists believed that humans and their ancestors had escaped this threat for roughly the past 2. 5 million years because they were too heavy for even the giant eagles of the past to lift.",
+        "The discovery comes from the Ennedi Plateau in northern Chad, where an isolated population of baboons lives in the Sahara Desert. Researchers from the University of St Andrews traveled to the region with colleagues from Dartmouth College, the University of Konstanz, the Max Planck Institute of Animal Behavior, and African Parks.",
+        "Lead author Professor Catherine Hobaiter, from the School of Psychology and Neuroscience at the University of St Andrews, said, “This was such an extraordinary expedition, any primatologists dream! Some of the baboons there are so remote they rarely, if ever, see people, and so after a couple of days they ended up following us around—we were probably the most interesting thing they’d seen for a while!”",
+        "She added: “We saw the eagles while we were searching for the baboons, but we never imagined that they might be a threat to them. Then we found the first skull with a puncture mark, and then another, and another.”",
+        "In a new study published in the American Journal of Biological Anthropology , the researchers describe finding the remains of adult male baboons with telltale signs of eagle predation, including talon punctures in their skulls and distinctive scrapes and rake marks on their shoulder bones.",
+        "Senior author Professor Nathaniel Dominy from Dartmouth College said, “At first, the idea of eagles hunting adult male baboons seemed to exist on the thin edge of possibility, until it didn’t. Our skepticism slowly gave way to acceptance. The evidence was convincing.”",
+        "The behavior of the living baboons offered another clue.",
+        "Professor Hobaiter explained, “One of the most exciting observations was seeing the baboons respond when a pair of Verreaux’s eagles swept overhead—primates are very specific about only responding to eagles that are a genuine threat. We’d seen them very relaxed around other big birds of prey, but as soon as the Verreaux came into view they alarm called and dropped down to safety.”",
+        "For scientists studying human evolution, the possibility of attacks from above is particularly interesting. Primates defend themselves differently against eagles than they do against predators such as big cats and crocodiles. One strategy, known as mobbing, involves primates, particularly larger adult males, charging an attacker to drive it away. If our ancestors faced similar threats, eagles may have helped shape the evolution of communication and group cooperation.",
+        "Many primates living in areas where eagles hunt also travel in large groups alongside other primate species. For much of our evolutionary history, our ancestors shared their surroundings with other early human species and primates. Although these relationships are often viewed in terms of competition, protection from predators may have given them a reason to stay together.",
+        "Dr. Gisela Kopp, from the University of Konstanz and the Max Planck Institute of Animal Behavior, said, “Primatology often focuses on regions with a high diversity of primates, but shifting our attention to a place where no primatological data has ever been collected before, proved to be extremely rewarding.”",
+        "Dr. Jean Didier Akpona, from African Parks, said, “Having worked in this region for about three years, I had the opportunity to visit these gueltas (pockets of water that form within rock formations) and often observed Verreaux’s eagles. I had never imagined that these predators would target primates of this size until the research team stumbled upon evidence. This discovery leads us to explore further the mystery that surrounds the gueltas of the Sahara Desert.”"
+      ],
+      "external": true,
+      "order": 8
+    },
+    {
+      "id": "scitechdaily-new-technology-could-help-astronauts-make-their-own-oxygen",
+      "title": "New Technology Could Help Astronauts Make Their Own Oxygen on the Moon",
+      "dek": "Astronauts on the Moon could one day breathe oxygen pulled from lunar soil using a technique borrowed from chipmaking.",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-27T17:34:36.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/new-technology-could-help-astronauts-make-their-own-oxygen-on-the-moon/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "Astronauts on the Moon could one day breathe oxygen pulled from lunar soil using a technique borrowed from chipmaking.",
+        "Computer chip manufacturing and lunar exploration seem like completely different worlds. Yet our latest research suggests the two may be more closely connected than expected.",
+        "Using technology widely employed in semiconductor manufacturing, we have shown that it is possible to extract oxygen and products containing oxygen from material designed to mimic lunar soil .",
+        "This matters because oxygen is one of the most valuable resources for future space exploration. Astronauts need it to breathe, and it is also a major component of rocket propellant.",
+        "But transporting large quantities from Earth would be enormously expensive, so space agencies are investigating ways to obtain it directly on the Moon instead.",
+        "The challenge is that lunar oxygen does not exist as a readily available gas. Instead, it is chemically bound within minerals that make up the Moon’s surface layer. And although that layer contains a large amount of oxygen by weight, extracting it requires breaking strong chemical bonds within lunar minerals.",
+        "Many of the complex techniques that could potentially achieve this extraction would require large amounts of energy.",
+        "So our team decided to explore an alternative, lower-temperature approach inspired by a well-established industrial technology called “plasma-processing.”",
+        "Plasma is often called the fourth state of matter (after solid, liquid, and gas). It forms when sufficient energy is supplied to a gas, creating a mixture of charged particles, electrons, and highly reactive chemical species.",
+        "In semiconductor fabrication, plasma interacts with silicon dioxide in a process that underpins the production of billions of electronic devices every year.",
+        "We asked a simple question: if plasmas are highly effective at reacting with compounds containing oxygen in semiconductor processing, could a similar approach be applied to the oxygen-based compounds in lunar soil?",
+        "To investigate, we exposed artificial moon soil (known as lunar regolith simulants) to plasmas generated using gases that are commonly employed in semiconductor manufacturing.",
+        "The results were encouraging. During plasma treatment of the lunar regolith simulants, we detected oxygen and oxygen-containing gaseous products being released.",
+        "Further analyses confirmed that the plasma was chemically modifying oxygen-bearing minerals within the material, with some lunar minerals reacting more readily than others."
+      ],
+      "external": true,
+      "order": 9
+    },
+    {
+      "id": "scitechdaily-astronomers-discover-the-sun-contains-55-more-silver-than-",
+      "title": "Astronomers Discover the Sun Contains 55% More Silver Than Previously Thought",
+      "dek": "Some of the oldest rocks in the solar system hinted that astronomers were undercounting the Sun’s silver. A fresh look at sunlight suggests they were right.",
+      "category": "校园",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-27T16:59:47.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/astronomers-discover-the-sun-contains-55-more-silver-than-previously-thought/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "Some of the oldest rocks in the solar system hinted that astronomers were undercounting the Sun’s silver. A fresh look at sunlight suggests they were right.",
+        "Researchers at Uppsala University estimate that silver is 55 percent more abundant in the Sun than previous calculations indicated.",
+        "The revised estimate brings the Sun much closer to the silver abundance found in primitive meteorites. Both preserve material from the same cloud of gas and dust that gave rise to the solar system 4. 6 billion years ago.",
+        "Silver atoms in the Sun’s atmosphere absorb light at specific wavelengths, leaving dark lines in the spectrum. The pattern identifies silver, but estimating how much is there requires a model that predicts how strongly those atoms absorb light.",
+        "The team modeled the motion of the Sun’s outer layers and used more detailed calculations of how silver atoms interact with light and other particles. The model accounts for how radiation changes the energy states of silver atoms, which affects the strength of the lines astronomers use to measure the element’s abundance.",
+        "“With our new model, we were able to interpret the spectral lines used to determine the solar silver abundance more accurately,” says Sema Caliskan, who conducted the research during her PhD studies at Uppsala University.",
+        "Hydrogen and helium make up nearly all of the Sun. Heavier elements such as carbon, iron, and silver account for just 1. 5 percent of its mass. Many of these elements form inside stars or during stellar explosions, then become part of later generations of stars and planets. Measuring their abundance helps astronomers reconstruct how the Milky Way’s chemistry changed over time.",
+        "“The new knowledge about the Sun’s composition is important for the understanding of other stars, planets, and cosmic material, because the Sun is one of astronomy’s key reference points,” says Caliskan.",
+        "The team plans to apply the same method to other stars. “By studying the light of stars of different types and ages, we hope to understand where silver is formed in the universe, and how it has been distributed throughout the Milky Way over time,” says Caliskan.",
+        "This study was funded by the Swedish Research Counsil, KVA Kungliga vetenskapsakademien, and ANRF India.",
+        "Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .",
+        "Save my name, email, and website in this browser for the next time I comment.",
+        "Type above and press Enter to search. Press Esc to cancel."
+      ],
+      "external": true,
+      "order": 10
+    },
+    {
+      "id": "scitechdaily-a-black-hole-smaller-than-an-atom-could-trigger-one-of-the",
+      "title": "A Black Hole Smaller Than an Atom Could Trigger One of the Universe’s Most Violent Explosions",
+      "dek": "An ancient black hole no larger than an atom could consume a star from within and eventually trigger a spectacular explosion. ",
+      "category": "科学",
+      "tags": [
+        "SciTechDaily"
+      ],
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-27T16:24:32.000Z",
+      "source": {
+        "name": "SciTechDaily",
+        "license": "Free daily tech news",
+        "licenseLabel": "免费日更科技资讯",
+        "url": "https://scitechdaily.com/a-black-hole-smaller-than-an-atom-could-trigger-one-of-the-universes-most-violent-explosions/"
+      },
+      "cover": "orbit",
+      "accent": "lilac",
+      "paragraphs": [
+        "An ancient black hole no larger than an atom could consume a star from within and eventually trigger a spectacular explosion. New simulations by physicists at MIT and collaborating institutions suggest that these events could produce detectable bursts of radiation, offering a possible way to discover black holes formed shortly after the Big Bang.",
+        "The findings, published in The Astrophysical Journal , could also help scientists investigate dark matter, the invisible substance that makes up most of the universe’s matter.",
+        "Primordial black holes may have formed when exceptionally dense regions collapsed under gravity during the first fraction of a second after the Big Bang. The smallest would have evaporated through Hawking radiation, but heavier examples could survive today. Some might be as small as an atom yet contain the mass of an asteroid (or about a millionth of the mass of the Earth).",
+        "The researchers investigated what would happen if one of these black holes encountered a Sun-like star. Although a star’s gravity alone would not capture a passing black hole, interactions involving a companion star or planet could trap it. Repeated passages through the star would gradually reduce its orbital energy, allowing it to settle into the stellar core over thousands to millions of years.",
+        "“Then, this is where the action begins,” says lead author Ore Gottlieb, an assistant professor of physics at MIT.",
+        "The team’s three-dimensional simulations suggest that a captured black hole could grow by consuming stellar material. Within several million years, it might absorb approximately 1 percent of the star’s mass. If the star rotates fast enough, the remaining gas would form a spinning disk around the black hole.",
+        "“Inside the star, you have a black hole with a disk,” Gottlieb says. “The black hole is also spinning, and it’s twisting space and time.”",
+        "As material spirals inward, the black hole would twist magnetic fields in the surrounding disk, generating powerful jets capable of tearing through the star.",
+        "“Once the disk forms, this is essentially a death sentence for the star,” Gottlieb says.",
+        "“This twisted magnetic field will power very strong electromagnetic jets from the poles of the black hole,” Gottlieb explains. “And these jets will just explode the star, within a few dozen seconds. It’s very fast. Once you have a disk, you are done.”",
+        "The resulting explosion could produce a brilliant flash of blue and ultraviolet light, along with X-rays and gamma rays. As the event evolves, its emissions would shift across the electromagnetic spectrum.",
+        "“We would initially detect some X-rays and gamma rays, then over time optical and infrared emissions, and later on radio emissions,” Gottlieb says. “This is something we could potentially detect, if it’s not happening too far from us. It could be many galaxies away, not just in our backyard.”",
+        "Other cosmic explosions can produce similar signals, so astronomers would need additional evidence to identify a primordial black hole. One possible clue would be an explosion involving a star that would not normally be expected to explode.",
+        "“For instance, if the star is a certain mass that is not supposed to explode, it must be something that is happening inside that is a sort of parasite that is consuming the star from the inside,” Gottlieb says."
+      ],
+      "external": true,
       "order": 11
+    },
+    {
+      "id": "nasa-nasas-ng-25-mission-to-launch-pioneering-space-crops-resea",
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "dek": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial…",
+      "category": "科学",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T14:22:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency.",
+        "Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health.",
+        "Astronauts will need sustainable sources of food to travel farther and stay longer in space. To help understand how crop production works in microgravity, NASA is launching a novel space crops experiment .",
+        "The new prototype growth chamber will provide critical insights for developing safe, nutritious, and reliable crop production systems for future Moon Base habitats and Mars missions. Knowledge gained from the space crop production system also could help inform agricultural practices such as vertical farming and indoor growing systems.",
+        "Researchers will use this investigation to validate the system’s water delivery and volume optimization technology aboard the space station.",
+        "A precision health investigation is the next step toward enabling long-duration studies of human brain tissues in space.",
+        "The research builds on a previous investigation that sent small, lab-grown models of the human brain, called miBrains, to the space station. This experiment will validate a miniature fluid-handling system designed to mix, deliver, and maintain the nutrient-rich liquid needed to keep the tissues alive.",
+        "Researchers could use the findings to help identify potential neurological risks associated with spaceflight and develop strategies to protect astronaut health. It also may advance human tissue research and neurological disease modeling on Earth.",
+        "NASA’s Biological and Physical Sciences Division pioneers scientific discovery and enables exploration by using space environments to conduct investigations not possible on Earth. Studying biological and physical phenomena under extreme conditions allows researchers to advance the fundamental scientific knowledge required to go farther and stay longer in space, while also benefitting life on Earth."
+      ],
+      "external": true,
+      "order": 12
+    },
+    {
+      "id": "nasa-news-nasas-ng-25-mission-to-launch-pioneering-space-crops-resea",
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "dek": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial…",
+      "category": "科学",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T14:22:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/"
+      },
+      "cover": "star",
+      "accent": "blue",
+      "paragraphs": [
+        "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency.",
+        "Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health.",
+        "Astronauts will need sustainable sources of food to travel farther and stay longer in space. To help understand how crop production works in microgravity, NASA is launching a novel space crops experiment .",
+        "The new prototype growth chamber will provide critical insights for developing safe, nutritious, and reliable crop production systems for future Moon Base habitats and Mars missions. Knowledge gained from the space crop production system also could help inform agricultural practices such as vertical farming and indoor growing systems.",
+        "Researchers will use this investigation to validate the system’s water delivery and volume optimization technology aboard the space station.",
+        "A precision health investigation is the next step toward enabling long-duration studies of human brain tissues in space.",
+        "The research builds on a previous investigation that sent small, lab-grown models of the human brain, called miBrains, to the space station. This experiment will validate a miniature fluid-handling system designed to mix, deliver, and maintain the nutrient-rich liquid needed to keep the tissues alive.",
+        "Researchers could use the findings to help identify potential neurological risks associated with spaceflight and develop strategies to protect astronaut health. It also may advance human tissue research and neurological disease modeling on Earth.",
+        "NASA’s Biological and Physical Sciences Division pioneers scientific discovery and enables exploration by using space environments to conduct investigations not possible on Earth. Studying biological and physical phenomena under extreme conditions allows researchers to advance the fundamental scientific knowledge required to go farther and stay longer in space, while also benefitting life on Earth."
+      ],
+      "external": true,
+      "order": 13
+    },
+    {
+      "id": "nasa-shivelyuch-socked-in",
+      "title": "Shivelyuch Socked In",
+      "dek": "In the same way that Shivelyuch (also called Shiveluch) frequently displays volcanic activity, it is also chronically obscured by clouds. ",
+      "category": "环境",
+      "tags": [
+        "NASA"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T05:01:00.000Z",
+      "source": {
+        "name": "NASA",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "In the same way that Shivelyuch (also called Shiveluch) frequently displays volcanic activity, it is also chronically obscured by clouds. When the OLI (Operational Land Imager) on Landsat 9 captured this image on November 8, 2026, clouds encroached on the snowy mountain on Russia’s Kamchatka Peninsula . But they hovered beneath the volcano’s 3,283-meter (10,771-foot) peak, leaving a clear opening over its caldera and northern upper slopes.",
+        "The upper reaches of Shivelyuch feature a caldera 9 kilometers (5. 6 miles) wide that is open to the south. A lava dome , formed by vents extruding viscous magma, appears as a dark area within it. Lava domes on Shivelyuch go through cycles of growth and collapse, with collapses sometimes setting off fast-moving avalanches of hot ash and rock called pyroclastic flows .",
+        "In November 2026, effusive eruptions of lava and explosive activity at Shivelyuch had been ongoing for months , according to reports from the Kamchatka Volcanic Eruption Response Team (KVERT). And despite frequent cloudiness, satellites regularly detect thermal anomalies from the volcano.",
+        "On the day of this image, KVERT reported that a plume of resuspended ash drifted 120 kilometers (75 miles) to the east. That kind of activity is relatively tame for the mountain. Explosions from Shivelyuch periodically send ash several kilometers up into the atmosphere, where it can travel great distances and pose risks to aircraft . In July 2026, an ash plume rode the jet stream over the Bering Sea into Alaskan airspace, according to news reports , prompting the cancellation of multiple flights."
+      ],
+      "external": true,
+      "order": 14
+    },
+    {
+      "id": "nasa-news-shivelyuch-socked-in",
+      "title": "Shivelyuch Socked In",
+      "dek": "In the same way that Shivelyuch (also called Shiveluch) frequently displays volcanic activity, it is also chronically obscured by clouds. ",
+      "category": "环境",
+      "tags": [
+        "NASA News"
+      ],
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T05:01:00.000Z",
+      "source": {
+        "name": "NASA News",
+        "license": "Public Domain",
+        "licenseLabel": "公有领域",
+        "url": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/"
+      },
+      "cover": "leaf",
+      "accent": "green",
+      "paragraphs": [
+        "In the same way that Shivelyuch (also called Shiveluch) frequently displays volcanic activity, it is also chronically obscured by clouds. When the OLI (Operational Land Imager) on Landsat 9 captured this image on November 8, 2026, clouds encroached on the snowy mountain on Russia’s Kamchatka Peninsula . But they hovered beneath the volcano’s 3,283-meter (10,771-foot) peak, leaving a clear opening over its caldera and northern upper slopes.",
+        "The upper reaches of Shivelyuch feature a caldera 9 kilometers (5. 6 miles) wide that is open to the south. A lava dome , formed by vents extruding viscous magma, appears as a dark area within it. Lava domes on Shivelyuch go through cycles of growth and collapse, with collapses sometimes setting off fast-moving avalanches of hot ash and rock called pyroclastic flows .",
+        "In November 2026, effusive eruptions of lava and explosive activity at Shivelyuch had been ongoing for months , according to reports from the Kamchatka Volcanic Eruption Response Team (KVERT). And despite frequent cloudiness, satellites regularly detect thermal anomalies from the volcano.",
+        "On the day of this image, KVERT reported that a plume of resuspended ash drifted 120 kilometers (75 miles) to the east. That kind of activity is relatively tame for the mountain. Explosions from Shivelyuch periodically send ash several kilometers up into the atmosphere, where it can travel great distances and pose risks to aircraft . In July 2026, an ash plume rode the jet stream over the Bering Sea into Alaskan airspace, according to news reports , prompting the cancellation of multiple flights."
+      ],
+      "external": true,
+      "order": 15
     },
     {
       "id": "nasa-seeking-refuge-on-resolution-island",
@@ -471,7 +589,7 @@
         "In 1900, however, people began spotting mustelids on Resolution. It turns out the island is within swimming distance for animals such as stoats. Henry was intent on trapping the interlopers but eventually abandoned the project and moved on to caretaking work on another island. The spirit of his efforts lives on, though. A Department of Conservation program started in 2008 aims to control stoat populations and bolster native species on Resolution."
       ],
       "external": true,
-      "order": 12
+      "order": 16
     },
     {
       "id": "nasa-news-seeking-refuge-on-resolution-island",
@@ -500,7 +618,7 @@
         "In 1900, however, people began spotting mustelids on Resolution. It turns out the island is within swimming distance for animals such as stoats. Henry was intent on trapping the interlopers but eventually abandoned the project and moved on to caretaking work on another island. The spirit of his efforts lives on, though. A Department of Conservation program started in 2008 aims to control stoat populations and bolster native species on Resolution."
       ],
       "external": true,
-      "order": 13
+      "order": 17
     },
     {
       "id": "nasa-nasa-enhances-supplier-program-announces-mentor-prote-ge-a",
@@ -531,7 +649,7 @@
         "NASA’s enhanced supplier program is part of the agency’s broader Office of Small Business Programs."
       ],
       "external": true,
-      "order": 14
+      "order": 18
     },
     {
       "id": "nasa-news-nasa-enhances-supplier-program-announces-mentor-prote-ge-a",
@@ -562,7 +680,7 @@
         "NASA’s enhanced supplier program is part of the agency’s broader Office of Small Business Programs."
       ],
       "external": true,
-      "order": 15
+      "order": 19
     },
     {
       "id": "nasa-nasa-eyes-crop-candidates-for-future-menus",
@@ -599,7 +717,7 @@
         "Lemon basil, an edible herb with a citrus scent and taste, is making strides in testing at NASA Kennedy."
       ],
       "external": true,
-      "order": 16
+      "order": 20
     },
     {
       "id": "nasa-news-nasa-eyes-crop-candidates-for-future-menus",
@@ -636,7 +754,7 @@
         "Lemon basil, an edible herb with a citrus scent and taste, is making strides in testing at NASA Kennedy."
       ],
       "external": true,
-      "order": 17
+      "order": 21
     },
     {
       "id": "nasa-childhood-career-come-full-circle-for-budget-analyst-at-na",
@@ -673,7 +791,7 @@
         "The civil service also provides additional training and growth opportunities for such positions."
       ],
       "external": true,
-      "order": 18
+      "order": 22
     },
     {
       "id": "nasa-news-childhood-career-come-full-circle-for-budget-analyst-at-na",
@@ -710,79 +828,7 @@
         "The civil service also provides additional training and growth opportunities for such positions."
       ],
       "external": true,
-      "order": 19
-    },
-    {
-      "id": "nasa-nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman",
-      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-      "dek": "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. ",
-      "category": "环境",
-      "tags": [
-        "NASA"
-      ],
-      "date": "2026-11-25",
-      "publishedAt": "2026-11-25T14:56:54.000Z",
-      "source": {
-        "name": "NASA",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/"
-      },
-      "cover": "leaf",
-      "accent": "green",
-      "paragraphs": [
-        "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. The images focus on an area of sky toward the galactic bulge, a densely packed, spherical region of stars that surrounds the center of a galaxy’s disk. These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
-        "Astronomers study the Milky Way’s galactic bulge because it holds nearly a quarter of the galaxy’s stellar mass, and its proximity allows them to examine the region in greater detail. Although we can see the glow from these crowded spheres of stars in other galaxies, they are too jam-packed and far away to resolve individual stars. By studying the Milky Way’s galactic bulge, researchers hope to find new planets and better understand how galaxies form, evolve, and interact over billions of years.",
-        "Hubble views the universe primarily in ultraviolet, visible, and near-infrared light, while Roman collects data in near-infrared light and some visible light. Because researchers wish to compare Hubble’s observations to future Roman observations, Hubble looked at the region in wavelengths that overlap with Roman’s areas of sensitivity, the red end of the visible spectrum and near-infrared wavelengths.",
-        "Hubble’s high resolution allows its instruments to collect data on the brightness, ages, composition, and motion of stars over time. With this knowledge, astronomers can search for potential exoplanets, determine the location of black holes or dark matter, and better understand our galaxy’s environment and evolution.",
-        "A key component of Roman’s future observations is the search for exoplanets by capturing microlensing events , a type of gravitational lensing that occurs when light from a more distant object is magnified and distorted by the mass of a closer object along the line of sight. The way light from the distant star is distorted and magnified can reveal clues to the nature of the foreground star and any planets it may have. Hubble’s observations will help characterize stars in the region before they undergo a lensing event. Months or years in the future, when Roman captures a microlensing event, researchers can compare Hubble data to Roman data of the event, making it easer to interpret.",
-        "These microlensing events are on a much smaller scale, that of stars and planets, than larger gravitational lenses that occur around galaxies and galaxy clusters .",
-        "Over Hubble’s lifetime, it has observed our galaxy’s central bulge many times. These legacy surveys include the WFC3 Galactic Bulge Treasury Program that used Hubble’s Wide Field Camera 3 to study the brightness, precise positions, and motions of stars in this congested part of our galaxy. It also includes the Sagittarius Window Eclipsing Extrasolar Planet Search (SWEEPS) that used Hubble’s Advanced Camera for Surveys to look at 180,000 stars in the bulge of our galaxy. These new observations come from an observing program (# 17776 : S. Terry) designed to aid Roman in its search for exoplanets, black holes, neutron stars, and more.",
-        "The data also adds to Hubble’s continuing legacy of high-precision observations of stars in the galactic bulge.",
-        "Claire Andreoli NASA’s Goddard Space Flight Center , Greenbelt, MD claire. andreoli@nasa. gov",
-        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
-        "Hubble’s most notable scientific discoveries reflect the broad range of research and the breakthroughs it has achieved.",
-        "NASA’s Hubble and Roman space telescopes will work together to broaden our perspective of the universe.",
-        "The Nancy Grace Roman Space Telescope will settle essential questions in the areas of dark energy, exoplanets, and astrophysics."
-      ],
-      "external": true,
-      "order": 20
-    },
-    {
-      "id": "nasa-news-nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman",
-      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-      "dek": "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. ",
-      "category": "环境",
-      "tags": [
-        "NASA News"
-      ],
-      "date": "2026-11-25",
-      "publishedAt": "2026-11-25T14:56:54.000Z",
-      "source": {
-        "name": "NASA News",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/"
-      },
-      "cover": "leaf",
-      "accent": "green",
-      "paragraphs": [
-        "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. The images focus on an area of sky toward the galactic bulge, a densely packed, spherical region of stars that surrounds the center of a galaxy’s disk. These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
-        "Astronomers study the Milky Way’s galactic bulge because it holds nearly a quarter of the galaxy’s stellar mass, and its proximity allows them to examine the region in greater detail. Although we can see the glow from these crowded spheres of stars in other galaxies, they are too jam-packed and far away to resolve individual stars. By studying the Milky Way’s galactic bulge, researchers hope to find new planets and better understand how galaxies form, evolve, and interact over billions of years.",
-        "Hubble views the universe primarily in ultraviolet, visible, and near-infrared light, while Roman collects data in near-infrared light and some visible light. Because researchers wish to compare Hubble’s observations to future Roman observations, Hubble looked at the region in wavelengths that overlap with Roman’s areas of sensitivity, the red end of the visible spectrum and near-infrared wavelengths.",
-        "Hubble’s high resolution allows its instruments to collect data on the brightness, ages, composition, and motion of stars over time. With this knowledge, astronomers can search for potential exoplanets, determine the location of black holes or dark matter, and better understand our galaxy’s environment and evolution.",
-        "A key component of Roman’s future observations is the search for exoplanets by capturing microlensing events , a type of gravitational lensing that occurs when light from a more distant object is magnified and distorted by the mass of a closer object along the line of sight. The way light from the distant star is distorted and magnified can reveal clues to the nature of the foreground star and any planets it may have. Hubble’s observations will help characterize stars in the region before they undergo a lensing event. Months or years in the future, when Roman captures a microlensing event, researchers can compare Hubble data to Roman data of the event, making it easer to interpret.",
-        "These microlensing events are on a much smaller scale, that of stars and planets, than larger gravitational lenses that occur around galaxies and galaxy clusters .",
-        "Over Hubble’s lifetime, it has observed our galaxy’s central bulge many times. These legacy surveys include the WFC3 Galactic Bulge Treasury Program that used Hubble’s Wide Field Camera 3 to study the brightness, precise positions, and motions of stars in this congested part of our galaxy. It also includes the Sagittarius Window Eclipsing Extrasolar Planet Search (SWEEPS) that used Hubble’s Advanced Camera for Surveys to look at 180,000 stars in the bulge of our galaxy. These new observations come from an observing program (# 17776 : S. Terry) designed to aid Roman in its search for exoplanets, black holes, neutron stars, and more.",
-        "The data also adds to Hubble’s continuing legacy of high-precision observations of stars in the galactic bulge.",
-        "Claire Andreoli NASA’s Goddard Space Flight Center , Greenbelt, MD claire. andreoli@nasa. gov",
-        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
-        "Hubble’s most notable scientific discoveries reflect the broad range of research and the breakthroughs it has achieved.",
-        "NASA’s Hubble and Roman space telescopes will work together to broaden our perspective of the universe.",
-        "The Nancy Grace Roman Space Telescope will settle essential questions in the areas of dark energy, exoplanets, and astrophysics."
-      ],
-      "external": true,
-      "order": 21
+      "order": 23
     },
     {
       "id": "conversation-ancient-cahokia-was-transformed-amid-droughts-and-flooding",
@@ -826,7 +872,7 @@
         "AJ White does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
-      "order": 22
+      "order": 24
     },
     {
       "id": "conversation-sewing-an-infinity-of-phalluses-how-japanese-artist-yayoi-",
@@ -873,7 +919,7 @@
         "Kusama’s ability to transform any neurosis she may have had into liberation began with Accumulation No. 1 and continued through Fireflies on the Water (2002), Soul Under the Moon (2002), Infinity Mirror Room—Aftermath of Obliteration of Eternity (2009) and Infinity Mirrored Room—The Souls of Millions of Light Years Away (2013). The ethereal visions embodied in her psychedelic mirror rooms stand in for the mind-altering drugs that release people from the rationality of society and fuel the desire to change."
       ],
       "external": true,
-      "order": 23
+      "order": 25
     },
     {
       "id": "conversation-georgians-mark-2-years-of-pro-eu-demonstrations-defying-ca",
@@ -920,7 +966,7 @@
         "Georgian Dream understands this threat and has proposed a ban on opposition parties, closing the route that Serbia’s students used."
       ],
       "external": true,
-      "order": 24
+      "order": 26
     },
     {
       "id": "conversation-columbia-is-keeping-its-gates-closed-raising-the-question-",
@@ -967,7 +1013,7 @@
         "Some universities have been sending students out into the communities around them as one way to support their city. For example, Columbia Journalism School students are often tasked with developing a reporting project in a particular New York City neighborhood."
       ],
       "external": true,
-      "order": 25
+      "order": 27
     },
     {
       "id": "conversation-immersive-shopping-has-survived-the-demise-of-the-metavers",
@@ -1008,7 +1054,7 @@
         "Hyejune Park does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
       ],
       "external": true,
-      "order": 26
+      "order": 28
     },
     {
       "id": "conversation-why-expect-holiday-traditions-to-stay-the-same-even-as-lif",
@@ -1050,64 +1096,6 @@
         "Of course, adjusting to change is not always easy, and for some, the holidays can be particularly hard . Adapting does not mean abandoning cherished traditions, directly replacing what has been lost, or feeling pressured to create new memories. It may simply mean accepting that the holidays will feel different and allowing yourself the time and space to adjust.",
         "In the desire to recreate what once was, many people may overlook the moments that could become cherished memories in the years ahead. Savor the memories of holidays past without expecting them to define how you experience the holidays today. Celebrations don’t need to remain the same to remain meaningful.",
         "Lee Ann Rawlins Williams does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
-      ],
-      "external": true,
-      "order": 27
-    },
-    {
-      "id": "nasa-georgias-pecan-belt",
-      "title": "Georgia’s Pecan Belt",
-      "dek": "From the star of its namesake pie to a supporting player in countless side dishes, the pecan has earned a place on Thanksgiving tables across the United States. ",
-      "category": "环境",
-      "tags": [
-        "NASA"
-      ],
-      "date": "2026-11-25",
-      "publishedAt": "2026-11-25T05:00:00.000Z",
-      "source": {
-        "name": "NASA",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/"
-      },
-      "cover": "leaf",
-      "accent": "green",
-      "paragraphs": [
-        "From the star of its namesake pie to a supporting player in countless side dishes, the pecan has earned a place on Thanksgiving tables across the United States. But before it becomes candied, chopped, or baked, it hangs from the branches of Carya illinoinensis —a species of hickory in the walnut family native to North America. Many U. S. -grown pecans come from orchards in Georgia, the state that has historically led the nation in production.",
-        "One hotspot of pecan cultivation is in the southwest part of the state, around Albany, in Dougherty County. The OLI (Operational Land Imager) on Landsat 8 captured this image of the area and neighboring counties on October 23, 2026. That date falls within the pecan harvest season, which typically runs from October into December . In addition to pecans, other crops such as peanuts, cotton, and corn are also grown in the area.",
-        "Landsat observations like these contribute to the Cropland Data Layer , an annual map of crop types across the contiguous United States produced by the U. S. Department of Agriculture’s National Agricultural Statistics Service . The 2025 map shows pecan groves clustered along the Flint River within the Coastal Plain . Pecan trees need abundant water, and they generally do well in the area’s well-drained sandy soils that sit above the Floridan aquifer system that growers can tap for irrigation.",
-        "In the late 1800s, Georgia had less than 100 acres (40 hectares) of pecan orchards. Then, in the early 1900s, southwest Georgia’s Dougherty and Mitchell counties underwent a pecan boom when thousands of acres were planted and sold to investors . By the end of the 1950s, Georgia led the nation in pecan production, producing over 17 million pounds, according to 1959 agricultural census numbers .",
-        "In recent decades, pecan production has grown in other states, such as New Mexico and Texas. Georgia faced challenges after Hurricane Michael damaged orchards in October 2018, and Hurricane Helene dealt another blow when it swept inland in September 2024. Even so, USDA numbers show that the state’s production has topped 100 million pounds in each of the past three years (2023-2025).",
-        "In 2026, a wet summer in parts of the state helped scab take hold. The fungal disease causes brown spots on pecan twigs, leaves, and nut shucks. Meanwhile, some growers still recovering from Hurricane Helene reported the return of a solid crop."
-      ],
-      "external": true,
-      "order": 28
-    },
-    {
-      "id": "nasa-news-georgias-pecan-belt",
-      "title": "Georgia’s Pecan Belt",
-      "dek": "From the star of its namesake pie to a supporting player in countless side dishes, the pecan has earned a place on Thanksgiving tables across the United States. ",
-      "category": "环境",
-      "tags": [
-        "NASA News"
-      ],
-      "date": "2026-11-25",
-      "publishedAt": "2026-11-25T05:00:00.000Z",
-      "source": {
-        "name": "NASA News",
-        "license": "Public Domain",
-        "licenseLabel": "公有领域",
-        "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/"
-      },
-      "cover": "leaf",
-      "accent": "green",
-      "paragraphs": [
-        "From the star of its namesake pie to a supporting player in countless side dishes, the pecan has earned a place on Thanksgiving tables across the United States. But before it becomes candied, chopped, or baked, it hangs from the branches of Carya illinoinensis —a species of hickory in the walnut family native to North America. Many U. S. -grown pecans come from orchards in Georgia, the state that has historically led the nation in production.",
-        "One hotspot of pecan cultivation is in the southwest part of the state, around Albany, in Dougherty County. The OLI (Operational Land Imager) on Landsat 8 captured this image of the area and neighboring counties on October 23, 2026. That date falls within the pecan harvest season, which typically runs from October into December . In addition to pecans, other crops such as peanuts, cotton, and corn are also grown in the area.",
-        "Landsat observations like these contribute to the Cropland Data Layer , an annual map of crop types across the contiguous United States produced by the U. S. Department of Agriculture’s National Agricultural Statistics Service . The 2025 map shows pecan groves clustered along the Flint River within the Coastal Plain . Pecan trees need abundant water, and they generally do well in the area’s well-drained sandy soils that sit above the Floridan aquifer system that growers can tap for irrigation.",
-        "In the late 1800s, Georgia had less than 100 acres (40 hectares) of pecan orchards. Then, in the early 1900s, southwest Georgia’s Dougherty and Mitchell counties underwent a pecan boom when thousands of acres were planted and sold to investors . By the end of the 1950s, Georgia led the nation in pecan production, producing over 17 million pounds, according to 1959 agricultural census numbers .",
-        "In recent decades, pecan production has grown in other states, such as New Mexico and Texas. Georgia faced challenges after Hurricane Michael damaged orchards in October 2018, and Hurricane Helene dealt another blow when it swept inland in September 2024. Even so, USDA numbers show that the state’s production has topped 100 million pounds in each of the past three years (2023-2025).",
-        "In 2026, a wet summer in parts of the state helped scab take hold. The fungal disease causes brown spots on pecan twigs, leaves, and nut shucks. Meanwhile, some growers still recovering from Hurricane Helene reported the return of a solid crop."
       ],
       "external": true,
       "order": 29
